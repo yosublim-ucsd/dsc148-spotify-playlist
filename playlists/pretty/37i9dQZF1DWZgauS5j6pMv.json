@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: Nikka Costa\n",
-  "num_followers": 320189,
+  "description": "The best of today's funk. Cover: PJ Morton\n",
+  "num_followers": 320225,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAADefSRujnC6IglGQwvU4WiX",
+  "snapshot_id": "ZjRhfAAAAAAMG1F4o86re/ERQgLpslus",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Smoke and Mirrors",
+        "url": "https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 199385,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
@@ -91,6 +107,22 @@
       "duration_ms": 236283,
       "name": "It's Just Love",
       "url": "https://open.spotify.com/track/10b2ljBujXdAeAIWnronO1"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/0npcY0CbZwg7I7xyHZSmQf"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/5VJYx5pWH1Xqc3ZYf18L4E"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1485,22 +1517,6 @@
       "url": "https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Love In A Groove",
-        "url": "https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe"
-      },
-      "artists": [
-        {
-          "name": "Raja-Nee'",
-          "url": "https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud"
-        }
-      ],
-      "duration_ms": 210397,
-      "name": "LOVE IN A GROOVE",
-      "url": "https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Like, Maybe",
@@ -1611,22 +1627,6 @@
       "duration_ms": 202570,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx"
-    },
-    {
-      "added_at": "2022-03-11 16:11:57",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W"
-      },
-      "artists": [
-        {
-          "name": "Genevra Munoa",
-          "url": "https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm"
     },
     {
       "added_at": "2022-07-22 04:02:00",

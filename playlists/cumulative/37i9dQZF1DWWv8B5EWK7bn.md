@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-400 songs - 1 day 4 hr 33 min
+401 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
 | [Asa De Menino Chapter 2](https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Asa De Menino Chapter 2](https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh) | 1:38 | 2023-06-29 | 2023-09-26 |
-| [Atemporal](https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:07 | 2022-07-19 |  |
+| [Atemporal](https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:07 | 2022-07-19 | 2024-05-04 |
 | [Atemporal](https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:07 | 2022-07-19 | 2024-04-19 |
 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 | 2024-01-12 |
 | [Ba Sing Se](https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Ba Sing Se](https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK) | 4:06 | 2022-04-26 | 2022-08-13 |
@@ -351,6 +351,7 @@
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 | 2024-04-19 |
 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 | 2023-11-10 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 | 2023-09-14 |
+| [The Turning Ground](https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [The Turning Ground](https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn) | 4:25 | 2024-05-03 |  |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-02 | 2023-11-14 |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2021-10-06 | 2024-02-23 |
 | [Theme from SCUD](https://open.spotify.com/track/1atsnzNJRSTmmyg99h3k7D) | [SCUDFM](https://open.spotify.com/artist/32ick7QrmuMlgsV3i6IXGT) | [INNIT](https://open.spotify.com/album/6SvKfVNfxNQA7YtoNJClAw) | 4:09 | 2023-01-07 | 2023-01-21 |

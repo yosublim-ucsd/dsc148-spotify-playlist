@@ -2,9 +2,9 @@
 
 ### [Banda 2024](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
 
-> ¡Los éxitos de banda que necesitas! Chiquis en portada.
+> ¡Los éxitos de banda que necesitas! Banda Los Sebastianes y Chiquis en portada.
 
-357 songs - 18 hr 57 min
+358 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-04 | 2023-11-16 |
 | [Bendito Destino](https://open.spotify.com/track/61dvkuoxkU2jmWZChXcKp5) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Bendito Destino](https://open.spotify.com/album/1qTfZSwtJ0U8kLDUGSvCuH) | 2:52 | 2023-01-06 | 2023-06-24 |
 | [Besos Y Cerezas](https://open.spotify.com/track/7a21PMHaImzKLNbsbyILuf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Con Sabor A Limón, Volumen 2](https://open.spotify.com/album/75eFixvrDXcxe1BLKOfLwG) | 2:47 | 2023-12-01 | 2023-12-16 |
-| [Bien Montado](https://open.spotify.com/track/3l7dggnI86cBNMcPfggVgn) | [Jassiel Gutierrez](https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv) | [Bien Montado](https://open.spotify.com/album/4OBEFGDzgrAd9dJFNg1laE) | 2:31 | 2024-04-12 |  |
+| [Bien Montado](https://open.spotify.com/track/3l7dggnI86cBNMcPfggVgn) | [Jassiel Gutierrez](https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv) | [Bien Montado](https://open.spotify.com/album/4OBEFGDzgrAd9dJFNg1laE) | 2:31 | 2024-04-12 | 2024-05-04 |
 | [Bonito y Bello](https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:36 | 2023-01-16 |  |
 | [Borracha Pero Buena Muchacha](https://open.spotify.com/track/1MhVzaqkmBGCEcImplxxIr) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Seguimos De Frente](https://open.spotify.com/album/298s7O5GLcAOfxhfhljn0q) | 2:33 | 2022-08-05 | 2022-08-27 |
 | [Brindo \- Remix](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo \(Remix\)](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 | 2022-01-28 |  |
@@ -154,6 +154,7 @@
 | [Jugaste a Quererme](https://open.spotify.com/track/5gQROsI8b7Hn3p0U942kR6) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [XV Aniversario](https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t) | 2:39 | 2023-03-11 | 2023-04-09 |
 | [Junto A Ti](https://open.spotify.com/track/1CyTC2O3w0Pc7hy8SXNG73) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Junto A Ti](https://open.spotify.com/album/4zaF7FTjaWsxhyJejJvcT5) | 2:58 | 2022-07-01 | 2022-07-29 |
 | [Juraré](https://open.spotify.com/track/4ereHXfyUB2Ywg1WlqLq6t) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Juraré](https://open.spotify.com/album/0TWuUl87GWazdzs1j6hTQK) | 3:15 | 2023-12-01 | 2023-12-16 |
+| [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 | 2024-05-03 |  |
 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 | 2022-09-23 |  |
 | [La Bruja \- Radio Edit](https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [La Bruja](https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf) | 2:26 | 2023-03-11 | 2023-04-09 |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-01-28 |  |
@@ -215,7 +216,7 @@
 | [Necesito Tu Perdón](https://open.spotify.com/track/6uBL9bmmwwQeDK8wbE9LDr) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda La Autentica](https://open.spotify.com/artist/7ccozMZJAeXJcXvwvo2kRT) | [Necesito Tu Perdón](https://open.spotify.com/album/15o4wGalDXk6QJgHEhx50c) | 2:55 | 2022-06-17 | 2022-07-12 |
 | [Necesito Una Compañera](https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Necesito Una Compañera](https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1) | 3:33 | 2022-09-23 | 2023-06-24 |
 | [Nimodo](https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nimodo](https://open.spotify.com/album/19Ei3bMxRcA3DbraG7a5eY) | 3:02 | 2022-04-22 | 2022-09-06 |
-| [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 | 2023-06-09 | 2024-03-23 |
+| [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 | 2023-06-09 |  |
 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 | 2022-07-01 | 2023-01-28 |
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 | 2023-12-02 |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |
@@ -277,7 +278,7 @@
 | [Rápido y Furioso L.A](https://open.spotify.com/track/5o01yiZIoCJf84D3s1Mhva) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Rápido y Furioso L.A](https://open.spotify.com/album/2s9VERJvtoIirWRavKDGea) | 3:00 | 2022-09-23 | 2022-10-25 |
 | [Sabor a Michelada](https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Sabor a Michelada](https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76) | 2:12 | 2024-03-22 |  |
 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 | 2022-06-17 |  |
-| [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 | 2024-04-12 |  |
+| [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 | 2024-04-12 | 2024-05-04 |
 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-08 | 2023-10-18 |
 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 | 2023-01-20 |  |
 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 | 2022-04-22 | 2023-01-21 |

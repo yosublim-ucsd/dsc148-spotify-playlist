@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244322,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
+    },
+    {
+      "album": {
         "name": "After All This Time",
         "url": "https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az"
       },
@@ -827,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Anyways, I Love You",
+        "url": "https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You",
+      "url": "https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s"
+    },
+    {
+      "album": {
         "name": "Are We Good",
         "url": "https://open.spotify.com/album/1P326E01rUHqZ8pFLTCs5C"
       },
@@ -896,6 +932,24 @@
       "duration_ms": 182655,
       "name": "Baby, You Know",
       "url": "https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3"
+    },
+    {
+      "album": {
+        "name": "Back For The Funeral",
+        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192701,
+      "name": "Back For The Funeral",
+      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
     },
     {
       "album": {
@@ -1602,7 +1656,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200021,
       "name": "Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
@@ -1786,7 +1840,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 232725,
       "name": "Cape Forestier",
       "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
@@ -1930,7 +1984,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178533,
       "name": "Cave",
       "url": "https://open.spotify.com/track/1uUNOES90ZLLPEF0knHE8q"
@@ -2190,6 +2244,28 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197945,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu"
     },
     {
       "album": {
@@ -4104,7 +4180,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168373,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/0lLzWgOlPhpqBPhW6d7YYP"
@@ -4681,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Freaking Out!",
+        "url": "https://open.spotify.com/album/0IzjXMjB23xeewPH0EwWKv"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253285,
+      "name": "Freaking Out!",
+      "url": "https://open.spotify.com/track/34aFxZUWDQQeAGQiE5mWel"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk"
       },
@@ -4880,6 +4974,24 @@
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "album": {
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
       "album": {
@@ -5676,7 +5788,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 236600,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP"
@@ -7760,7 +7872,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 242821,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/7bdAC8Ek5kkG5fcaehFAx8"
@@ -7796,7 +7908,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 246000,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
@@ -8856,6 +8968,24 @@
       "duration_ms": 142841,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/2IDz1CLGQeh2nP7T7TYnYK"
+    },
+    {
+      "album": {
+        "name": "No Boat No Aeroplane",
+        "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312464,
+      "name": "No Boat No Aeroplane",
+      "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
     },
     {
       "album": {
@@ -10545,6 +10675,24 @@
     },
     {
       "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "album": {
         "name": "River of Tears",
         "url": "https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx"
       },
@@ -10650,7 +10798,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 211840,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/7p46jopEVdyoabBoen57VI"
@@ -11508,7 +11656,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 223359,
       "name": "Sometimes the Darts Hit the Wall",
       "url": "https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF"
@@ -12587,6 +12735,24 @@
     },
     {
       "album": {
+        "name": "The Last Year",
+        "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "The Last Year",
+      "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
+    },
+    {
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm"
       },
@@ -12782,7 +12948,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 308930,
       "name": "The Weeping",
       "url": "https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB"
@@ -14129,6 +14295,28 @@
     },
     {
       "album": {
+        "name": "What Lovers Do",
+        "url": "https://open.spotify.com/album/1CuyyyV12THOAVoBAKiRTM"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126407,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/2RYn22DOInD8RwPE41xEuV"
+    },
+    {
+      "album": {
         "name": "What Remains",
         "url": "https://open.spotify.com/album/2YIO4ZeMpjH5g5ZSQSvchV"
       },
@@ -14612,7 +14800,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/6N5u2Mohbiss12neco5m4c"

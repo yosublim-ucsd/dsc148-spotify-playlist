@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 7 min
+24 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Soy De Ambiente](https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:46 | 2024-01-29 |  |
 | [Tali 50](https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:33 | 2024-01-29 |  |
 | [Vida Peligrosa](https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:04 | 2024-01-29 |  |
-| [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/7nrKBVgFKN7HXleWGEXZZG) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/17Gm64gV3PyK5WR5S3d9yG) | 3:17 | 2024-01-29 |  |
+| [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh) | 3:17 | 2024-05-04 |  |
+| [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/7nrKBVgFKN7HXleWGEXZZG) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/17Gm64gV3PyK5WR5S3d9yG) | 3:17 | 2024-01-29 | 2024-05-04 |
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

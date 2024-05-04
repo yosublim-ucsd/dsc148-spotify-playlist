@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA">Marizu</a>
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,731 likes - 101 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,479 likes - 101 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 100 | [Waters](https://open.spotify.com/track/6FLJnQt5vRIc4KxSXSSfA8) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy](https://open.spotify.com/album/72rRqESVlk8mDkUUq9ZZch) | 2:18 |
 | 101 | [BEST LIFE](https://open.spotify.com/track/3sWTtUmxf1OgHKCtEADqaV) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [BEST LIFE](https://open.spotify.com/album/7t2DwpOhxkDU2kTdSukpe9) | 3:19 |
 
-Snapshot ID: `ZjQpPAAAAAB3W4wdbt+KOXpwCyHYy4Ci`
+Snapshot ID: `ZjSsLwAAAAD57dfIK2js9O+aFxk32Fgw`

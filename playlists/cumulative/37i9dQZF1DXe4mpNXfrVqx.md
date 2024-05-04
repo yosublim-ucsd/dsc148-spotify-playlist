@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-182 songs - 8 hr 4 min
+183 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2024-04-06 |
 | [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
+| [Ginga \- Bem vindo a Party](https://open.spotify.com/track/4dawKCBsHpalmKzB7G1sAq) | [Inza Princess](https://open.spotify.com/artist/7fTIgiXmMVCpCrzdkfmO3D), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Ginga \(Bem vindo a Party\)](https://open.spotify.com/album/0volOaNCpImkXaytDiVTiB) | 2:11 | 2024-05-03 |  |
 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
 | [GROUPIES](https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [GROUPIES](https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1) | 2:04 | 2023-09-15 |  |
 | [Hater](https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Hater](https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy) | 2:17 | 2023-03-31 |  |
@@ -157,7 +158,7 @@
 | [QUEEN](https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [QUEEN](https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV) | 3:10 | 2023-11-10 | 2024-02-17 |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
-| [queviagem](https://open.spotify.com/track/05HQd9j0Dz2Cnn4HHKZDQ0) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [queviagem](https://open.spotify.com/album/4YAGa94QIPXFlQBByJvxa0) | 2:36 | 2024-02-16 |  |
+| [queviagem](https://open.spotify.com/track/05HQd9j0Dz2Cnn4HHKZDQ0) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [queviagem](https://open.spotify.com/album/4YAGa94QIPXFlQBByJvxa0) | 2:36 | 2024-02-16 | 2024-05-04 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |
 | [Remember](https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Remember](https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47) | 2:01 | 2022-08-05 | 2022-09-03 |
 | [Respeita as Minas](https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b) | [Somos um Só Banca](https://open.spotify.com/artist/6NH95N14iT8vk07LI7JoxL), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [MC Brendah](https://open.spotify.com/artist/1zcVZK6ImeqEX9vOJkSEaw), [Nubia Chris](https://open.spotify.com/artist/5IWKMNYQ8H9IuRCWOtBB1Z), [Andressa MC](https://open.spotify.com/artist/5rQZxNji6HtjNrQOeOVjas) | [Respeita as Minas](https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg) | 4:06 | 2022-03-18 | 2022-04-23 |

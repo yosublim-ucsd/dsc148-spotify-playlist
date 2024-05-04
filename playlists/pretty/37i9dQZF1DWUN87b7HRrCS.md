@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 
 > Soft and cozy sounds of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,300 likes - 104 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,393 likes - 104 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 80802,
+  "2024-05-04": 80819,
   "date_first_scraped": "2022-06-10",
   "description": "Music from Studio Chizu's new movie \"BELLE\"!  \u00a9\ufe0eSTUDIO CHIZU/ \u6620\u753b\u300e\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300f\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u8c6a\u83ef\u30df\u30e5\u30fc\u30b8\u30b7\u30e3\u30f3\u3001\u4f5c\u5bb6\u9663\u304c\u97f3\u697d\u306e\u9b45\u529b\u3092\u8a9e\u308b\u300cMusic+Talk\u300d\u7248\u306f<a href=\"spotify:show:0GVl86Z7umr9JEu8EhN22m\">\u3053\u3061\u3089</a>  \n",
   "name": "-BELLE-\u3000\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb ",
@@ -2229,8 +2229,8 @@
       },
       "artists": [
         {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
         },
         {
           "name": "Belle",
@@ -2243,28 +2243,6 @@
       "duration_ms": 184268,
       "name": "U (German Version)",
       "url": "https://open.spotify.com/track/53X6EzaV9ZUSLNkLSVO3F7"
-    },
-    {
-      "album": {
-        "name": "\"BELLE\" Original Motion Picture Soundtrack [Chinese Edition]",
-        "url": "https://open.spotify.com/album/3vFSklNRk7KMq2Z02xAOvB"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "date_added": "2022-09-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184245,
-      "name": "U - Chinese Version",
-      "url": "https://open.spotify.com/track/1yy89wGSqFOgQwNY6BzzIg"
     },
     {
       "album": {
@@ -2290,6 +2268,28 @@
     },
     {
       "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [Chinese Edition]",
+        "url": "https://open.spotify.com/album/3vFSklNRk7KMq2Z02xAOvB"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184245,
+      "name": "U - Chinese Version",
+      "url": "https://open.spotify.com/track/1yy89wGSqFOgQwNY6BzzIg"
+    },
+    {
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
@@ -2312,28 +2312,6 @@
     },
     {
       "album": {
-        "name": "\"BELLE\" Original Motion Picture Soundtrack [Norwegian Edition]",
-        "url": "https://open.spotify.com/album/62U1x6igCdD4MZkFr872GV"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "date_added": "2022-09-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184268,
-      "name": "U - Norwegian Version",
-      "url": "https://open.spotify.com/track/0fWC3GnvhqPCerXppYnbks"
-    },
-    {
-      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
         "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
       },
@@ -2353,6 +2331,28 @@
       "duration_ms": 184268,
       "name": "U - Norwegian Version",
       "url": "https://open.spotify.com/track/2MeR9yb4UN7LjUu9P9J9GI"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/62U1x6igCdD4MZkFr872GV"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184268,
+      "name": "U - Norwegian Version",
+      "url": "https://open.spotify.com/track/0fWC3GnvhqPCerXppYnbks"
     },
     {
       "album": {

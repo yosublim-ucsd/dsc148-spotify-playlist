@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 68254,
+  "2024-05-04": 68319,
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/7JenaF646lANuwlTFZzH0X?si=WW6zRJFFRNqvy9Xs4y0xiA\">Kyotic</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=lGTvRUIGS7OQ4s0SUjJ5og\">Lelowhatsgood</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -447,6 +447,28 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "album": {
+        "name": "Buya Nini",
+        "url": "https://open.spotify.com/album/6g6Lvgwsx7k0bpMn2l5ngO"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Peace",
+          "url": "https://open.spotify.com/artist/3a16bAfZS0GaGAeZk4DAMW"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379702,
+      "name": "Buya Nini",
+      "url": "https://open.spotify.com/track/2Se4sU0DGJT8IS0JuraRqr"
     },
     {
       "album": {
@@ -2916,6 +2938,28 @@
     },
     {
       "album": {
+        "name": "Seven Up",
+        "url": "https://open.spotify.com/album/6nWRHiyClMb8iVeCR01gBu"
+      },
+      "artists": [
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352888,
+      "name": "Seven Up",
+      "url": "https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc"
+    },
+    {
+      "album": {
         "name": "Shona Phansi (feat. Mac Shawty)",
         "url": "https://open.spotify.com/album/2sMKESLLkERpbuW7vnHsY3"
       },
@@ -4095,6 +4139,28 @@
       "duration_ms": 345648,
       "name": "Yamemeza",
       "url": "https://open.spotify.com/track/5rpINlgn8w5yZxz1hVdXVg"
+    },
+    {
+      "album": {
+        "name": "YFM",
+        "url": "https://open.spotify.com/album/4oPK8pdveVEaHSxwNCT7E1"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        },
+        {
+          "name": "Solan Lo",
+          "url": "https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306703,
+      "name": "YFM",
+      "url": "https://open.spotify.com/track/39yBTOilZA5sAKbbJ7H0ge"
     },
     {
       "album": {

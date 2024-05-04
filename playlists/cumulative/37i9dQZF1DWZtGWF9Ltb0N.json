@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 373839,
       "name": "Bliss - Original Mix",
       "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
@@ -4567,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Into The Beyond",
+        "url": "https://open.spotify.com/album/2c2r3kfURmF2mcG8X8CdvR"
+      },
+      "artists": [
+        {
+          "name": "Abelation",
+          "url": "https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152444,
+      "name": "Into The Beyond",
+      "url": "https://open.spotify.com/track/4f3MpffdIGhWh96mnqIk2y"
+    },
+    {
+      "album": {
         "name": "Systematic Error",
         "url": "https://open.spotify.com/album/5QfyKIygTW2mqUT5GZnyvb"
       },
@@ -5324,6 +5342,24 @@
       "duration_ms": 316760,
       "name": "Life Without Meaning",
       "url": "https://open.spotify.com/track/56mPUqA3PwxGKTNXR9giQu"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/5w9BlHIKDG74ubSX27vbOv"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3sUak4xuJrHWPsetV4BUQi"
     },
     {
       "album": {
@@ -9041,6 +9077,36 @@
     },
     {
       "album": {
+        "name": "SOUL (VIP)",
+        "url": "https://open.spotify.com/album/5w0qevZzzAOypKs239X484"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Born I",
+          "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
+        },
+        {
+          "name": "Seeka",
+          "url": "https://open.spotify.com/artist/0lGI9pL6y2gJxqUJI9jAhc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "SOUL - VIP",
+      "url": "https://open.spotify.com/track/0lXmfQgODj6QRrKhoU2r3z"
+    },
+    {
+      "album": {
         "name": "Running Red EP",
         "url": "https://open.spotify.com/album/0pnM3DOu0DHkPQnglS7KBH"
       },
@@ -9794,7 +9860,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 171428,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx"
@@ -10908,7 +10974,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"

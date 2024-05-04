@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 42067,
+  "num_followers": 42076,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACGJDU+E7YDEpqqPGtz/JNH",
+  "snapshot_id": "ZjLXgAAAAAAKcu31HyDgCz3HJ6DVTT3H",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
       },
       "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         },
         {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 257273,
-      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     },
     {
       "added_at": null,
@@ -332,9 +328,33 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 304111,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
+      "duration_ms": 244676,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 257273,
+      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
     },
     {
       "added_at": null,
@@ -351,26 +371,6 @@
       "duration_ms": 189466,
       "name": "Drift - Remastered 2005",
       "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrong Way Up [Expanded Edition]",
-        "url": "https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 327120,
-      "name": "Spinning Away",
-      "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 304111,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 221199,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "added_at": null,

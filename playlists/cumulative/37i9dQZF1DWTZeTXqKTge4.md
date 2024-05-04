@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Raccoon
+> Le meilleur du hip\-hop québécois\. Photo: Souldia, Lost
 
-647 songs - 1 day 9 hr 13 min
+649 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Bulletproof](https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Bulletproof](https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4) | 3:19 | 2023-01-28 | 2023-03-04 |
 | [Burbur](https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 3:40 | 2022-02-18 | 2022-03-12 |
 | [Burn](https://open.spotify.com/track/6h89l9iPmlCCFYwcdTzqM5) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS) | [Burn](https://open.spotify.com/album/5e2Q5GLwzZRWlQHKf1IAUY) | 2:49 | 2022-10-28 | 2023-01-21 |
-| [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 | 2023-12-15 |  |
+| [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 | 2023-12-15 | 2024-05-04 |
 | [Bye Bye](https://open.spotify.com/track/3ym3QmdWVeugFq99ml1lt5) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [Bye Bye](https://open.spotify.com/album/7jn4kEZDYWLmpHKy1IFF2A) | 2:52 | 2022-07-01 | 2022-09-10 |
 | [Bénis](https://open.spotify.com/track/1Zx3yz24uK4mbutGuRykbG) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Génies en herbe](https://open.spotify.com/album/5CEsGFsDODbl9XIaiW03lD) | 3:40 | 2023-11-03 | 2023-11-13 |
 | [Bêta](https://open.spotify.com/track/5JvaeXciDAaUiLXPtU3lP4) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bêta](https://open.spotify.com/album/2PBbBSfXftHd7AVs2Yt451) | 2:19 | 2022-04-01 | 2022-04-23 |
@@ -175,7 +175,7 @@
 | [Dehors](https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy) | [Gabo](https://open.spotify.com/artist/5ZITJVA829vOMgQobmHfJS) | [Dehors](https://open.spotify.com/album/1V1ZmrSeSYHRJhYt2S1B2h) | 2:00 | 2023-01-28 |  |
 | [Dehors](https://open.spotify.com/track/3hVBSzqIMOz5HERbVccKS4) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK, Vol\. 1](https://open.spotify.com/album/1LeiBBLGUOO5swWKKZjyhP) | 2:25 | 2023-12-08 |  |
 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 | 2022-01-28 | 2023-11-13 |
-| [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 | 2023-08-25 |  |
+| [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 | 2023-08-25 | 2024-05-04 |
 | [DIAMANTS](https://open.spotify.com/track/79deVwNeaAqYcasQ7bJrUo) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Papa T](https://open.spotify.com/artist/1cvdRF0RhVMXYnWWLe7foS) | [1036](https://open.spotify.com/album/6xvlXgJ4JubdTa0cRUBXiC) | 3:11 | 2023-11-03 | 2023-11-13 |
 | [DIFFÉRENT](https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Riches & Dangereux](https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT) | 2:50 | 2023-05-26 | 2023-09-23 |
 | [Différents](https://open.spotify.com/track/59YblDJdTJRYLNoOJv4neb) | [Sans Pression](https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS) | [Différents](https://open.spotify.com/album/7xr9yQRCWGiVANVS3dZPse) | 3:38 | 2022-01-07 | 2022-07-23 |
@@ -271,6 +271,7 @@
 | [Génocide](https://open.spotify.com/track/477J3fKi6b4stq9veJJRpS) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Nikamo](https://open.spotify.com/album/0fX3Mn5XHkCnQwNxhe6I8w) | 3:28 | 2022-01-07 | 2022-01-29 |
 | [Haine & Peine](https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:43 | 2022-02-18 | 2022-04-23 |
 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 | 2023-03-03 | 2023-05-20 |
+| [Hier encore](https://open.spotify.com/track/4vCqXGcra1BULikbeZCg9z) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:03 | 2024-05-03 |  |
 | [Highway](https://open.spotify.com/track/6sBWExHE8o9EPgl5qtouGf) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Génération VDR](https://open.spotify.com/album/6TrliXQxDiWmkAuJftqKmN) | 3:36 | 2022-06-10 | 2022-09-03 |
 | [Himalaya](https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Himalaya](https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW) | 2:55 | 2023-05-19 | 2024-03-02 |
 | [HIT](https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [HIT](https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR) | 3:36 | 2022-05-20 | 2022-10-22 |
@@ -336,6 +337,7 @@
 | [LA PLUIE](https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:21 | 2023-11-24 | 2024-04-19 |
 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 | 2022-04-15 | 2022-09-10 |
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-06 |  |
+| [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 | 2024-05-03 |  |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2023-01-21 |
 | [Langue empoisonnée](https://open.spotify.com/track/6SUobbATRGwBGdQytjYAA6) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj) | [Cercle Vicieux 3](https://open.spotify.com/album/0ZYkKutre14v6LCaeNQsOw) | 3:44 | 2022-01-07 | 2022-04-16 |
 | [Lassée](https://open.spotify.com/track/28RXCDlIqUahRnwOzZFO6t) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Lassée](https://open.spotify.com/album/25BxHyDGivuu5KEh9OwRbg) | 2:46 | 2023-03-10 | 2023-05-13 |

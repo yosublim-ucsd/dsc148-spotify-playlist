@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-105 songs - 8 hr 2 min
+106 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Africa](https://open.spotify.com/track/5WUkmyLtLykEzctv4HRr7Z) | [Teddy Yo](https://open.spotify.com/artist/6keR1xz9mkzbtLykVlJAGl), [Gentle Man](https://open.spotify.com/artist/3wGiJCIx14bdgxj6jAtQOW), [King Kong](https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY), [Yemaryam](https://open.spotify.com/artist/4cNckHBJe98kv0yi6cvgRi) | [Arada, Vol\. 2](https://open.spotify.com/album/553m78LUWrXYmYPoGF18La) | 3:18 | 2018-10-04 |  |
 | [Alena](https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Alena](https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0) | 4:20 | 2023-03-17 | 2023-08-15 |
 | [Alresashim Wey](https://open.spotify.com/track/3rz86l1LZJxU4NwzBuCOOo) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Alresashim Wey](https://open.spotify.com/album/5xBnkZT3oDEAZbo9BKYZdA) | 4:05 | 2024-03-08 |  |
-| [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 | 2018-10-04 |  |
+| [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 | 2018-10-04 | 2024-05-04 |
 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 | 2023-03-17 |  |
 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 | 2020-06-05 |  |
 | [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 |  |
@@ -83,6 +83,7 @@
 | [Nigerewa](https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8) | [Amanuel Yemane](https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8) | [Habesha](https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK) | 4:57 | 2020-07-21 | 2022-11-18 |
 | [One Life](https://open.spotify.com/track/5I6ohxdSpuR6oxR15nvDqP) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU) | [One Life](https://open.spotify.com/album/1PkZwghjdN9FKrrCPWR8gb) | 3:02 | 2023-09-14 |  |
 | [Pon Mi](https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Pon Mi](https://open.spotify.com/album/19Oyvrg5EIJr8GeXVxkD1z) | 2:23 | 2023-10-13 |  |
+| [Pretty Girls](https://open.spotify.com/track/4RZcW3j9AOkU2R0p1QoLO9) | [Abel](https://open.spotify.com/artist/2sj79jP5y6LxWux7yHd5ss) | [Pretty Girls](https://open.spotify.com/album/4PVi3ze2hRUq45YejBEsuj) | 1:23 | 2024-05-03 |  |
 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 | 2022-11-17 |  |
 | [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 |  |
 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 | 2018-10-04 | 2022-11-14 |

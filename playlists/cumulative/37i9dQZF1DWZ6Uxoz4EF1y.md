@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-158 songs - 14 hr 25 min
+159 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Me Enseñas](https://open.spotify.com/track/3sbidBb8NqRMqWnLyjGULM) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY) | [Me Enseñas](https://open.spotify.com/album/06AE1ZqiGC2tkxjsGlQqr1) | 4:31 | 2024-03-20 |  |
 | [Me Entrego a Ti \(En Vivo\)](https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Sin Ti No Vivo \(En Vivo\)](https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy) | 4:59 | 2020-09-18 | 2024-04-19 |
 | [Me rindo a ti](https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22) | 4:51 | 2020-09-18 | 2024-04-19 |
-| [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 | 2024-03-20 |  |
+| [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 | 2024-03-20 | 2024-05-04 |
 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 | 2023-04-09 |  |
 | [Mi Casa Y Yo](https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Mi Casa Y Yo](https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k) | 3:43 | 2020-09-18 |  |
 | [Mi Corazón Te Anhela](https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE) | 4:55 | 2023-04-09 | 2024-02-16 |
@@ -125,6 +125,7 @@
 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 | 2023-10-13 |  |
 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 | 2020-09-18 | 2024-04-19 |
 | [Perfume a Tus Pies](https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2) | 5:10 | 2020-09-18 | 2024-04-19 |
+| [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 | 2024-03-20 |  |
 | [Poema de salvación](https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 3:12 | 2023-04-09 | 2024-04-19 |
 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-04-09 |  |
 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 | 2023-04-09 | 2024-04-19 |

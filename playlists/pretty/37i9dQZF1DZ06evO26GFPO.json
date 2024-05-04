@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 290674,
+  "num_followers": 290689,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADU3Hh1Db8CEX7FeM1J3bM/",
+  "snapshot_id": "ZjLXgAAAAABNyehXom8tuffB2r4J+edG",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um P\u00f4r do Sol Na Praia",
+        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 188415,
+      "name": "Um P\u00f4r do Sol Na Praia",
+      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um P\u00f4r do Sol Na Praia",
-        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 188415,
-      "name": "Um P\u00f4r do Sol Na Praia",
-      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
     },
     {
       "added_at": null,

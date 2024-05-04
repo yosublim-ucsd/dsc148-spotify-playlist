@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-115 songs - 6 hr 44 min
+117 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2023-12-08 | 2024-04-20 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-12-08 |  |
 | [Arrival](https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Arrival](https://open.spotify.com/album/52nTSpBzE91qPdD4B2FKQq) | 4:31 | 2024-04-19 |  |
+| [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 | 2024-05-03 |  |
 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 | 2024-01-19 |  |
 | [Bad Taste](https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad Taste](https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna) | 3:31 | 2023-12-08 | 2024-01-20 |
 | [Beautiful Eyes](https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Beautiful Eyes](https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4) | 2:49 | 2024-01-19 |  |
@@ -36,6 +37,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-12-08 |  |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-02-16 |  |
 | [Enemies](https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Manic Party](https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE) | 3:15 | 2023-12-08 |  |
+| [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-03 |  |
 | [Fabrics](https://open.spotify.com/track/3KsDwXekJyZFds3u6IyyGE) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics](https://open.spotify.com/album/2lemypYT4ph9G1wOe7wAxn) | 3:24 | 2024-04-19 |  |
 | [Fair Bit of Time](https://open.spotify.com/track/0dYFnQWlNHd497JF7LT7KO) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Fair Bit of Time](https://open.spotify.com/album/2WnqV16RKFxItPcgDQO599) | 3:38 | 2024-04-26 |  |
 | [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 | 2024-02-23 |  |
@@ -53,7 +55,7 @@
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 |  |
 | [Hollow](https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Dweller](https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l) | 3:56 | 2023-12-08 | 2023-12-16 |
 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 | 2024-01-19 | 2024-04-02 |
-| [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 |  |
+| [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-05-04 |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 |  |
 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 | 2023-12-08 |  |
 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 | 2023-12-08 | 2024-04-06 |
@@ -98,7 +100,7 @@
 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 |  |
 | [Songbirds](https://open.spotify.com/track/1wurpE0ZIjWvfHohiGOyaI) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Songbirds](https://open.spotify.com/album/6JjPtFirb4PR6sRuuTEH4P) | 2:56 | 2024-03-08 |  |
 | [Spanish is The Loving Tongue](https://open.spotify.com/track/2mIriSSWbDa2OHgtXuume7) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Spanish is The Loving Tongue](https://open.spotify.com/album/1J4Mnd8G3cJ1wjYsDjVSeu) | 4:41 | 2024-03-08 |  |
-| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 |  |
+| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 | 2024-05-04 |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-12-08 |  |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2024-03-23 |
 | [Sweet Little Hummingbird](https://open.spotify.com/track/4EDToNaUfaBVNdxGmZbqKb) | [Chorus of Courage](https://open.spotify.com/artist/5ohObI7a6VenwZVe56uAjv), [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Sweet Little Hummingbird](https://open.spotify.com/album/4I8abFjsOo9WkfmeiyuYvY) | 4:18 | 2024-02-16 |  |

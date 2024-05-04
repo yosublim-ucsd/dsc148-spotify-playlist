@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 56113,
+  "2024-05-04": 56130,
   "date_first_scraped": "2022-06-02",
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
   "name": "This Is Lalo Mora",
@@ -659,7 +659,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174173,
       "name": "Gorrion Errante",
       "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
@@ -1169,6 +1169,24 @@
       "duration_ms": 232080,
       "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
+    },
+    {
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Me Regalo Contigo",
+      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
     },
     {
       "album": {

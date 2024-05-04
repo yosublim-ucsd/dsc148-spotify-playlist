@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,975 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,357 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 44 | [Flowers](https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Flowers](https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd) | 3:10 |
 | 45 | [stephanie](https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [stephanie](https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b) | 2:23 |
 | 46 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
-| 47 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 |
-| 48 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
-| 49 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
-| 50 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 |
-| 51 | [Favorite Lady](https://open.spotify.com/track/3DEDh62pZq4z5Lc8WkhwuM) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem) | [Favorite Lady](https://open.spotify.com/album/5zVxl0a1MExFSpERk6SLfD) | 2:20 |
+| 47 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
+| 48 | [UKRAINE](https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [UKRAINE](https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6) | 2:10 |
+| 49 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 |
+| 50 | [Favorite Lady](https://open.spotify.com/track/3DEDh62pZq4z5Lc8WkhwuM) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem) | [Favorite Lady](https://open.spotify.com/album/5zVxl0a1MExFSpERk6SLfD) | 2:20 |
+| 51 | [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 |
 | 52 | [Gorgeous](https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:33 |
 | 53 | [Special Ed](https://open.spotify.com/track/1q6iDNRzrKCg96fp7rVDKw) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [Special Ed](https://open.spotify.com/album/4gPd2HqqQZno3xfE15o1eW) | 2:44 |
 | 54 | [Mike Jack \(feat\. G Herbo & Rob49\)](https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 74 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 75 | [Ranchero](https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ranchero](https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4) | 2:55 |
 
-Snapshot ID: `ZjRhQAAAAABzaJyhBaC8x5S7buW00LJp`
+Snapshot ID: `ZjU1xgAAAABR44jWqY8CmIczCzcI9Cq1`

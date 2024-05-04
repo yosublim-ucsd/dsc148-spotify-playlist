@@ -1,9 +1,27 @@
 {
-  "2024-05-03": 11935,
+  "2024-05-04": 11946,
   "date_first_scraped": "2023-08-01",
   "description": "y el soundtrack suena as\u00ed...",
   "name": "mi vida es una peli",
   "tracks": [
+    {
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "1 de Enero, Puntacana",
+      "url": "https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD"
+    },
     {
       "album": {
         "name": "Cupido",
@@ -285,7 +303,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258586,
       "name": "paseo en carro a la costa",
       "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"
@@ -1791,6 +1809,24 @@
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
+    },
+    {
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228157,
+      "name": "\u00c1NGEL DE LA GUARDA (P\u00d3STUMO)",
+      "url": "https://open.spotify.com/track/06gX47saY244mz1VZCoCoB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcFwsXuG6tG8"

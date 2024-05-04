@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 203269,
+  "2024-05-04": 203310,
   "date_first_scraped": "2022-01-24",
   "description": "Rimas argentinas. Foto: YSY A.",
   "name": "Hip Hop Argento",
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 182527,
       "name": "Cuando Entramos en Acci\u00f3n",
       "url": "https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173251,
       "name": "Dani Ribba: Bzrp Music Sessions, Vol. 24",
       "url": "https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg"
@@ -4288,6 +4288,28 @@
     },
     {
       "album": {
+        "name": "Razones",
+        "url": "https://open.spotify.com/album/5R7hsEkWE8zHzruJByOLdN"
+      },
+      "artists": [
+        {
+          "name": "Juli Martorell",
+          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Razones",
+      "url": "https://open.spotify.com/track/5cFBbRrkI1kmTV76RKtTe8"
+    },
+    {
+      "album": {
         "name": "Ready for Woo",
         "url": "https://open.spotify.com/album/6qmJCYeyBHGguKX1lQuYXg"
       },
@@ -4339,7 +4361,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 196600,
       "name": "Real Shit",
       "url": "https://open.spotify.com/track/3QgeHmKgZyVDB3JKchCNaW"
@@ -5089,6 +5111,24 @@
       "duration_ms": 148084,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe"
+    },
+    {
+      "album": {
+        "name": "THE ROOF IS ON FIRE",
+        "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112331,
+      "name": "THE ROOF IS ON FIRE",
+      "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
     },
     {
       "album": {

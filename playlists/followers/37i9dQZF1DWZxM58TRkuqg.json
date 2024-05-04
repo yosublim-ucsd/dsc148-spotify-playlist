@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 753662,
+  "2024-05-04": 753701,
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Rony Parulian, Andi Rianto",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Rizky Febian, Mahalini ",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 225195,
       "name": "Aku Mengerti (Prologue Version)",
       "url": "https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd"
@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "album": {
         "name": "Bernafaslah Sejenak",
         "url": "https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS"
       },
@@ -227,7 +249,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 220945,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
@@ -411,7 +433,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 231603,
       "name": "Devastated",
       "url": "https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN"
@@ -501,7 +523,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 313847,
       "name": "Episode",
       "url": "https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G"
@@ -537,7 +559,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 271477,
       "name": "Foto kita blur",
       "url": "https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ"
@@ -591,7 +613,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 269000,
       "name": "Halo Jakarta",
       "url": "https://open.spotify.com/track/0wTdu8sKRKWFaIUxnNjpU4"
@@ -613,6 +635,24 @@
       "duration_ms": 272001,
       "name": "Hancur Lebih Dulu",
       "url": "https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP"
+    },
+    {
+      "album": {
+        "name": "Hanya Lolongan",
+        "url": "https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229448,
+      "name": "Hanya Lolongan",
+      "url": "https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo"
     },
     {
       "album": {
@@ -800,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239379,
+      "name": "Kaji Ulang",
+      "url": "https://open.spotify.com/track/0aJr8TCz4PONyaZZLnI8RV"
+    },
+    {
+      "album": {
         "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
         "url": "https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt"
       },
@@ -873,7 +931,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 220083,
       "name": "Kata",
       "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
@@ -1120,7 +1178,7 @@
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 259303,
+      "duration_ms": 256695,
       "name": "Laki-Laki Bukan Pengecut",
       "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
     },
@@ -1209,7 +1267,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 192459,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr"
@@ -1231,7 +1289,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 193000,
       "name": "Luka",
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
@@ -1534,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Raja dan Ratu",
+        "url": "https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI"
+      },
+      "artists": [
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233959,
+      "name": "Raja dan Ratu",
+      "url": "https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu"
+    },
+    {
+      "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
       },
@@ -1718,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+    },
+    {
+      "album": {
         "name": "Sepenuh Hati",
         "url": "https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a"
       },
@@ -1845,7 +1939,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 237769,
       "name": "Tak Berharap Lagi",
       "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
@@ -2101,7 +2195,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191223,
       "name": "The Girl That I Used To Be",
       "url": "https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK"
@@ -2145,6 +2239,24 @@
       "duration_ms": 249280,
       "name": "tiba-tiba jumat lagi",
       "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
+    },
+    {
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "album": {

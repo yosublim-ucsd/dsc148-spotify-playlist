@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-267 songs - 23 hr 5 min
+268 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |
 | [Naina Kamaal](https://open.spotify.com/track/37oPANH2478NM6U2K5U2MU) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 3:52 | 2024-02-23 |  |
 | [Naina More](https://open.spotify.com/track/5LI0yckeAhEOHODOq0VY8z) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 4:00 | 2023-08-01 | 2024-03-16 |
-| [Naina More](https://open.spotify.com/track/6KqyXAxzDyQsK2JM4ZXgYD) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc) | [Naina More](https://open.spotify.com/album/76v4cPHr8zPv3LhSWwfJHH) | 2:44 | 2024-03-13 |  |
+| [Naina More](https://open.spotify.com/track/6KqyXAxzDyQsK2JM4ZXgYD) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc) | [Naina More](https://open.spotify.com/album/76v4cPHr8zPv3LhSWwfJHH) | 2:44 | 2024-03-13 | 2024-05-04 |
 | [Naina Morey](https://open.spotify.com/track/37r1NOE7QlD2kBXwBqQCYn) | [Yugaant](https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv) | [Naina Morey](https://open.spotify.com/album/3uaS6Bty3Th4QLnCthfwWw) | 7:10 | 2023-08-28 | 2023-11-10 |
 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 | 2022-05-17 | 2024-02-27 |
 | [Naino Ke Ishaare](https://open.spotify.com/track/64lm0UUw3NLTWUBYogM27P) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr) | [Naino Ke Ishaare](https://open.spotify.com/album/418atTbf5RwSqpLNpMVTBB) | 4:37 | 2022-05-17 | 2023-07-06 |
@@ -244,6 +244,7 @@
 | [Savare Aai Jaiyo](https://open.spotify.com/track/1XsInKRQXqV1gY1n98iwuk) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/3ACdaHL57xN3Raw94p20J0) | 3:22 | 2023-03-09 | 2024-01-03 |
 | [Savare Aai Jaiyo](https://open.spotify.com/track/3cOcnWHVHSsuWcnTI1TU1j) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/2YCuEMNmv4wSIUHdLdYg9B) | 3:22 | 2023-12-15 | 2024-02-27 |
 | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/album/0ZaSyTUqD655XTCvaU8Ejs) | 2:45 | 2023-01-10 | 2023-09-06 |
+| [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 | 2024-05-03 |  |
 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 | 2022-05-17 |  |
 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 | 2022-05-17 |  |
 | [Shalimar](https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/7fkrWwOqUqH31sXEKGEB3q) | 5:00 | 2023-07-05 |  |

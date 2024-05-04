@@ -4,7 +4,7 @@
 
 > Happy Asian Pacific Islander Heritage Month!! Celebrate with us and check out our stories ⬅️⬆️ Cover: NIKI.
 
-776 songs - 1 day 16 hr 2 min
+778 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-09-23 | 2022-10-08 |
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2023-08-11 | 2024-02-24 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-04 | 2023-02-18 |
+| [All For You](https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [All For You](https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v) | 2:21 | 2024-05-03 |  |
 | [all of you](https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [all of you](https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ) | 2:38 | 2023-09-22 |  |
 | [All Over Again](https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [All Over Again](https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim) | 2:58 | 2023-09-01 |  |
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-06-24 | 2022-09-03 |
@@ -78,7 +79,7 @@
 | [Better](https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Better](https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr) | 3:14 | 2022-06-17 | 2022-10-15 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-09-22 | 2024-03-23 |
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 | 2024-04-19 |
-| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-08-25 |  |
+| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-08-25 | 2024-05-04 |
 | [Beyond](https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Beyond](https://open.spotify.com/album/5GFXvWabokOiYcbaI3Vo3g) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 | 2023-05-31 | 2023-09-02 |
 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 | 2022-07-22 | 2022-09-05 |
@@ -466,6 +467,7 @@
 | [MOON](https://open.spotify.com/track/2gn947ZQRFU1335hgnXbKe) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [myno](https://open.spotify.com/artist/6XKJtL78UFsDoGDWtQlaJU) | [MOON](https://open.spotify.com/album/7w3K5dwB0ojvM3ilNIsL7F) | 3:13 | 2023-01-13 | 2023-11-16 |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2023-07-14 | 2023-08-12 |
 | [moonchild](https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:25 | 2022-09-23 | 2022-10-08 |
+| [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-05-03 |  |
 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 | 2023-09-22 |  |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:33 | 2022-10-07 | 2023-02-27 |
@@ -779,7 +781,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-27 | 2022-08-27 |
 | [夢中人](https://open.spotify.com/track/1SGPQAdXXDbcRX8kGoBiN3) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [傳奇 \- 胡思亂想](https://open.spotify.com/album/5FhKi7rkSdgJhQeNEmNPje) | 4:21 | 2023-09-01 | 2023-09-23 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2023-08-12 |
-| [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2023-09-29 |  |
+| [最後一次心碎](https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [最後一次心碎](https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD) | 2:48 | 2023-09-29 | 2024-05-04 |
 | [最後一次心碎](https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [去妳的假日](https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv) | 2:48 | 2024-01-05 | 2024-04-19 |
 | [途中](https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-06-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Oscar Ortiz
 
-4,950 songs - 10 day 17 hr 28 min
+4,951 songs - 10 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1665,6 +1665,7 @@
 | [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 | 2022-06-11 |
 | [El Signo Libra](https://open.spotify.com/track/727jytO1WcL7zQddIXlqTc) | [José Pablo](https://open.spotify.com/artist/6lz9w2ef4gx4VuGEs0GugL) | [El Signo Libra](https://open.spotify.com/album/1HY9sE41TAOuOprJ7KmH1I) | 3:32 | 2022-10-21 | 2022-10-29 |
 | [El Silent](https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Rojo](https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X) | 2:20 | 2023-09-15 | 2023-09-23 |
+| [El Sin Hueso](https://open.spotify.com/track/1CiBELgbxeY8Rrjrhdb5Km) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [El Sin Hueso](https://open.spotify.com/album/1fnhNiYrd2J984T2nebDNX) | 2:57 | 2024-05-03 |  |
 | [El Sinaloense](https://open.spotify.com/track/3mqqz2sYzcZlaw7vRya3mU) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [El Sinaloense](https://open.spotify.com/album/6xzHmgdTQcDjzdCNs5EWdc) | 2:55 | 2022-12-30 | 2023-01-07 |
 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 | 2023-03-31 | 2023-05-20 |
 | [El Soldado Del Imperio](https://open.spotify.com/track/07b1BQfgwg9885z5NB3Jfx) | [Alfonso Payan y Asociados](https://open.spotify.com/artist/18zpXbLiUltDfI9Nmvs62k) | [El Soldado Del Imperio](https://open.spotify.com/album/4jJITHyfVAWkZ4kKrdZBvK) | 3:35 | 2024-03-29 | 2024-04-06 |

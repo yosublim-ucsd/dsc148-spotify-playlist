@@ -1,12 +1,12 @@
 {
-  "description": "This is Willie Col\u00f3n\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 67271,
+  "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 67307,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACx4WvewLIBO/7fEKz+yfzv",
+  "snapshot_id": "ZjLXgAAAAACg8Krd1RwIZkXhigAFETQi",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
     },
     {
       "added_at": null,
@@ -991,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
+      "duration_ms": 294120,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/5VjFc9kiG81CsUpViDXcdo"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

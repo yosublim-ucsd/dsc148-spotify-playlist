@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,484 likes - 99 songs - 5 hr 6 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,503 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 3 | [Amelia](https://open.spotify.com/track/4arFfjboApmu8B7Mp586ZZ) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Amelia](https://open.spotify.com/album/7ag7bKql0ZxA92pAHDAg6r) | 2:51 |
 | 4 | [ghost beach](https://open.spotify.com/track/4tu4DFg1EHKuCiix12AN3r) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [ghost beach](https://open.spotify.com/album/0zqWtexetO76RyyN0kfgRr) | 3:14 |
 | 5 | [Freedom](https://open.spotify.com/track/41tENOTMPP5vUGgPh9gKuI) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [2RISKY](https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Freedom](https://open.spotify.com/album/5I7oixyHQF0ytZzQ8JkGcZ) | 3:57 |
-| 6 | [Very Much My Promise To You](https://open.spotify.com/track/3lXLE3C6HH6UYDgnfsAhB2) | [Moon Diagrams](https://open.spotify.com/artist/2MqjEhTz8CDRF4JUIaodjS), [Anastasia Coope](https://open.spotify.com/artist/0L3BgWZcLnRmCNBE6flGZu) | [Very Much My Promise To You](https://open.spotify.com/album/1Xz9ifOCecpak48062eVVD) | 2:56 |
+| 6 | [Very Much My Promise To You](https://open.spotify.com/track/3lXLE3C6HH6UYDgnfsAhB2) | [Moon Diagrams](https://open.spotify.com/artist/2MqjEhTz8CDRF4JUIaodjS) | [Very Much My Promise To You](https://open.spotify.com/album/1Xz9ifOCecpak48062eVVD) | 2:56 |
 | 7 | [Darling](https://open.spotify.com/track/6FIEMBQoTYgbMe0Oh6zlQj) | [The Slingers](https://open.spotify.com/artist/5qNh8YHxuINsJoj4jITDWh) | [Darling](https://open.spotify.com/album/2S9w7yflXsfVouk68iCv8N) | 4:32 |
 | 8 | [Carolina](https://open.spotify.com/track/1zcRiPTgo0Fk4ZXD1KiO9k) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [Carolina](https://open.spotify.com/album/4QdLSCQDNVtWuKxnSJ7rLs) | 3:28 |
 | 9 | [cry 4 help](https://open.spotify.com/track/5kwzvY7exmihTO4w7BNH7Q) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi) | [cry 4 help](https://open.spotify.com/album/1NPWk77dYSpHD2nbszYYt1) | 3:05 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 35 | [IWANNABELOVED](https://open.spotify.com/track/1rCw6azfJ9bhyo47SByehQ) | [Maniko](https://open.spotify.com/artist/7yT9suxxyrWN2kVNuE34rH) | [IWANNABELOVED](https://open.spotify.com/album/716dx2mADsrUtS4uluVQkX) | 3:33 |
 | 36 | [run](https://open.spotify.com/track/1PdBLMAl7ChXYuyT00vUfV) | [DWN](https://open.spotify.com/artist/4Ml8ajpLPJRuFmpqurJc89) | [run](https://open.spotify.com/album/7vCCt1wLdCMoSHVA3VaSwz) | 2:31 |
 | 37 | [Embrace](https://open.spotify.com/track/1Q2QPHMHM2aBHTCeye8BzE) | [Lobby Garcon](https://open.spotify.com/artist/4soMG4jcFY5hVcSA1zOxFp) | [Embrace](https://open.spotify.com/album/1OCQD6YeAnQCBjGjf0a951) | 2:48 |
-| 38 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:47 |
+| 38 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 |
 | 39 | [Stand On It](https://open.spotify.com/track/22BXIaXlatlmcoAfkC4Dej) | [Tizzy](https://open.spotify.com/artist/5dNJd5adjqccYseJtv8wZ9), [Salim Montari](https://open.spotify.com/artist/1uEXxBmZMt2HtYNFSw1UFg) | [Stand On It](https://open.spotify.com/album/6H95Xxl15UKu7s26cUdhil) | 2:30 |
 | 40 | [Word To The Wise](https://open.spotify.com/track/12crQFdFWj1Evky915c3sA) | [Twin S](https://open.spotify.com/artist/1VJ9x40b4MIE9vkTBqNhwD) | [Word To The Wise](https://open.spotify.com/album/1gHh90qVylvZSg5gNzzEYz) | 3:39 |
 | 41 | [ASPHALT RODEO](https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ASPHALT RODEO](https://open.spotify.com/album/6pH7vizaLhjOBNXQJvo8EK) | 2:38 |

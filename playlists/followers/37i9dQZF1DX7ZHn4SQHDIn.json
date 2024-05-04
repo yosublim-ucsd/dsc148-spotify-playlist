@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 317077,
+  "2024-05-04": 317099,
   "date_first_scraped": "2022-05-30",
   "description": "All in us! ITZY is back!",
   "name": "This Is ITZY",
@@ -1669,6 +1669,24 @@
       "duration_ms": 170080,
       "name": "Mr. Vampire",
       "url": "https://open.spotify.com/track/4mlMihXnpCz6d05rI5hQV0"
+    },
+    {
+      "album": {
+        "name": "No Biggie",
+        "url": "https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "No Biggie",
+      "url": "https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr"
     },
     {
       "album": {

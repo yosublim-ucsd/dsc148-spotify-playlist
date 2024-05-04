@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 46 | [Signals \- Live At St Pancras Old Church](https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1) | 3:57 |
 | 47 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
 | 48 | [Out My Mind \(Radio Edit\)](https://open.spotify.com/track/70p6I136qdvKKQExxwfuHO) | [Kayper](https://open.spotify.com/artist/7eX82EeZz6qIASWIsheMlv) | [Out My Mind \(Radio Edit\)](https://open.spotify.com/album/5fp53L7e6svWWHj6Mqxi1z) | 3:36 |
-| 49 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
-| 50 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 |
+| 49 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 |
+| 50 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
 | 51 | [Tokyo \(feat\. Vertue\)](https://open.spotify.com/track/7wNDfm0Hs4zVws8OxTjUFj) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Vertue](https://open.spotify.com/artist/743a54vYBks5izSpJdWOSc) | [Tokyo \(feat\. Vertue\)](https://open.spotify.com/album/7txj8kBNoVAizBrixf156t) | 3:26 |
 | 52 | [Easy](https://open.spotify.com/track/03UOUsopr9Nq6Ij4l38ksE) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Easy](https://open.spotify.com/album/3qjvs5d8MHDjkHnIWP2bIq) | 2:55 |
 | 53 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 120 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 121 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbQSugAAAAC9YCpep+hZVuyvfFQNciRE`
+Snapshot ID: `AbQYJAAAAAB8JwaYWSF8CNzrCuBamDa0`

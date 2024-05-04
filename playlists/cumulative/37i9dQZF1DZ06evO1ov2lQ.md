@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-161 songs - 13 hr 28 min
+162 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 | 2022-05-29 |  |
 | [Daddylonglegs \- Remastered](https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Birmingham Frequencies \(Remastered\)](https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o) | 2:59 | 2022-09-12 | 2024-04-26 |
 | [Daphnis 26](https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:45 | 2022-08-15 | 2022-08-17 |
+| [Daphnis 26](https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 6:45 | 2024-05-04 |  |
 | [Decryption](https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:03 | 2022-09-06 | 2022-10-12 |
 | [Decryption \- Sketch Remix 1](https://open.spotify.com/track/3OhW6WrTctMrHUOjBNH2ea) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Sketch](https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl) | [Patashnik \[Decrypted By Sketch\]](https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE) | 16:15 | 2024-03-10 |  |
 | [Delta Function](https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 | 2023-12-13 | 2024-03-30 |
@@ -168,6 +169,6 @@
 | [When I Leave \- Finely Tuned Version](https://open.spotify.com/track/64HnjUbbmrAzK8QnUmCtRR) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque \(2016 Reissue Version\)](https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67) | 6:45 | 2022-08-17 | 2022-09-26 |
 | [Whole Forests Of Them Appearing](https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/2lL1nUryXdhuT1A4E0Uwtb) | 5:28 | 2022-06-13 | 2022-09-10 |
 | [With Precious Benefits To Both](https://open.spotify.com/track/7oFtmhVs4jk16rFvikGmHq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:42 | 2022-07-24 | 2022-11-27 |
-| [Wolfgang´s Wave](https://open.spotify.com/track/7re1JtuVKMjZggjswFVoUU) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 | 2023-12-13 |  |
+| [Wolfgang´s Wave](https://open.spotify.com/track/7re1JtuVKMjZggjswFVoUU) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 | 2023-12-13 | 2024-05-04 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

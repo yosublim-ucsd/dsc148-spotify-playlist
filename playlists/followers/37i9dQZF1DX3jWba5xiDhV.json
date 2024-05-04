@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 210317,
+  "2024-05-04": 210627,
   "date_first_scraped": "2022-02-13",
   "description": "When the dance floor calls your name, that's amore.",
   "name": "Italo Disco",
@@ -533,6 +533,28 @@
       "duration_ms": 390333,
       "name": "Come On Closer - (Dub Version) Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP"
+    },
+    {
+      "album": {
+        "name": "Cotton & Silk",
+        "url": "https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS"
+      },
+      "artists": [
+        {
+          "name": "Tiger & Woods",
+          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
+        },
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/4ZVw63ejqta34L7Q3bRrpa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223957,
+      "name": "Cotton & Silk",
+      "url": "https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc"
     },
     {
       "album": {
@@ -3135,7 +3157,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 182160,
       "name": "Tutta sola (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm"

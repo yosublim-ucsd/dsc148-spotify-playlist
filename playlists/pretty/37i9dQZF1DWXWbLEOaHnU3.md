@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,169 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,214 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 50 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
 | 51 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 |
 | 52 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 |
-| 53 | [Space](https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G) | [The Brick Slayer](https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb) | [Space](https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo) | 4:32 |
+| 53 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
 | 54 | [We are Psychedelic \- GMS Remix](https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Killerwatts](https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt) | [Rise The Remixes](https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3) | 7:07 |
-| 55 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
+| 55 | [Space](https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G) | [The Brick Slayer](https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb) | [Space](https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo) | 4:32 |
 | 56 | [STFD \(Remix\)](https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [STFD \(Remix\)](https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A) | 2:58 |
 | 57 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 |
 | 58 | [Sun & Moon \- Blastoyz Remix](https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Sun & Moon \(Blastoyz Remix\)](https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG) | 3:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 70 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
 | 71 | [Elsewhere \- Original mix](https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Emok](https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg), [Martin Vice](https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv) | [Elsewhere](https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE) | 6:57 |
 | 72 | [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 |
-| 73 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
-| 74 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
+| 73 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
+| 74 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
 | 75 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
 
 Snapshot ID: `ZWI9KAAAAABJcMSWRahvGsvUP9TEBMhj`

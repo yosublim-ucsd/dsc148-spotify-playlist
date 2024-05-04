@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "New Flame",
+        "url": "https://open.spotify.com/album/7gF2mNVm8DwM6mGqHaLVCX"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "New Flame",
+      "url": "https://open.spotify.com/track/2kFsWpSVMvgYZLw9pqFZRm"
+    },
+    {
+      "album": {
         "name": "Night Hour",
         "url": "https://open.spotify.com/album/4orsC9Iq2aNVGnu1TWTSyW"
       },
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 144000,
       "name": "\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
       "url": "https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j"

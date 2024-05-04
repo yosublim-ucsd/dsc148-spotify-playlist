@@ -2,7 +2,7 @@
 
 ### [Soft 10s](https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X)
 
-> Mellow songs from the 2010s.
+> Mellow songs from the 2010s\. Cover: Adele
 
 445 songs - 1 day 3 hr 32 min
 
@@ -125,7 +125,7 @@
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2021-02-17 |  |
 | [Hard 2 Face Reality](https://open.spotify.com/track/0sPJELXHyWpFgkxlzvvRFI) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Hard 2 Face Reality](https://open.spotify.com/album/6JDmapag0dUDumU4jh5XhI) | 3:16 | 2022-01-19 |  |
 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 | 2022-01-05 | 2022-04-21 |
-| [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 | 2021-02-17 | 2022-07-29 |
+| [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 | 2021-02-17 |  |
 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2022-07-09 | 2024-04-19 |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2022-07-09 | 2024-04-19 |
 | [Ho Hey](https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 2:43 | 2021-02-17 |  |
@@ -261,7 +261,7 @@
 | [Ocean](https://open.spotify.com/track/5j6xnnZbLPxB0cuZv8vzr8) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Ocean](https://open.spotify.com/album/2r6PYKBBsqh2DcM7kPTTOL) | 3:36 | 2022-02-21 | 2022-07-29 |
 | [Oceans Away](https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Oceans Away](https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq) | 3:13 | 2021-02-17 |  |
 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 | 2022-07-09 | 2024-04-19 |
-| [One And Only](https://open.spotify.com/track/5W63Zcirj6bvnTxhVIKTSK) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 5:48 | 2021-10-12 |  |
+| [One And Only](https://open.spotify.com/track/5W63Zcirj6bvnTxhVIKTSK) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 5:48 | 2021-10-12 | 2024-05-04 |
 | [One Call Away](https://open.spotify.com/track/37R0bQOQj5a7DOqh1TGzvB) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:14 | 2021-02-17 |  |
 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 | 2022-07-09 | 2024-04-19 |
 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 | 2021-02-17 |  |

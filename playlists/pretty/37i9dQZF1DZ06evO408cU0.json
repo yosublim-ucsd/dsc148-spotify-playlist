@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 55415,
+  "num_followers": 55422,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAI2e0czF6pSmB+7C5RXKX9",
+  "snapshot_id": "ZjLXgAAAAAAYid2WIga5JY9kO8ANcLgK",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 237626,
       "name": "Vas A Estar Bien",
       "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El N\u00famero 1",
         "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 136213,
-      "name": "El Pistolero - En Vivo",
-      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
+      "duration_ms": 208973,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 219093,
       "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "added_at": null,
@@ -799,38 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 153640,
       "name": "Porque As\u00ed Ten\u00eda Que Ser",
       "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
     },
     {
       "added_at": null,
@@ -879,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "El Cajoncito - En Vivo",
-      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Alto Calibre (Vol. II)",
         "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 186280,
       "name": "Joaqu\u00edn",
       "url": "https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "El Cajoncito - En Vivo",
+      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

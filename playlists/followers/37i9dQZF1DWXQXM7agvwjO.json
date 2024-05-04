@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 95755,
+  "2024-05-04": 95765,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Oslo Ibrahim (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Bayangan (Malaysia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -321,6 +321,24 @@
       "duration_ms": 305133,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/03IkbWWtLydmBuo9jQYC2Z"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x"
     },
     {
       "album": {
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 203902,
       "name": "can't you see",
       "url": "https://open.spotify.com/track/12fDGZPMJXkcFuqVytBT1t"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 251814,
       "name": "Catwalk",
       "url": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
@@ -3465,7 +3483,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
@@ -3853,7 +3871,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 223046,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2YdFDvMP6S38Q45ugDxKdf"
@@ -4089,7 +4107,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 190525,
       "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi"
@@ -4577,6 +4595,24 @@
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
+    },
+    {
+      "album": {
+        "name": "Dari Pinggiran",
+        "url": "https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh"
+      },
+      "artists": [
+        {
+          "name": "Bayangan",
+          "url": "https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Dari Pinggiran",
+      "url": "https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x"
     },
     {
       "album": {
@@ -6820,6 +6856,28 @@
     },
     {
       "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Claire Young",
+          "url": "https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Forest (feat. Claire Young)",
+      "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW"
       },
@@ -7668,6 +7726,24 @@
     },
     {
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/2q6n52ZbMar9XJCfHuqOwa"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "hard to find",
+      "url": "https://open.spotify.com/track/65Ox4mJSZfdY7KsTCrDr4X"
+    },
+    {
+      "album": {
         "name": "Hari Lahir",
         "url": "https://open.spotify.com/album/37xidUiolMrIXsQ11h2Ym8"
       },
@@ -8237,6 +8313,28 @@
       "duration_ms": 241777,
       "name": "Home is Wherever you Are",
       "url": "https://open.spotify.com/track/703VBRaail5rJc0nTJcuwq"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/4IpInTxAb4Z8sZi30bmRFG"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162139,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/4Hxd8q1bhouFKjP5g47ReR"
     },
     {
       "album": {
@@ -9497,7 +9595,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
@@ -9635,7 +9733,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167000,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
@@ -9863,6 +9961,24 @@
       "duration_ms": 286000,
       "name": "insomnia",
       "url": "https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs"
+    },
+    {
+      "album": {
+        "name": "Into the Sun",
+        "url": "https://open.spotify.com/album/7MCoxV07NG9cyMO4hR6xIg"
+      },
+      "artists": [
+        {
+          "name": "Cin\u00e9ma Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/3uOvdTke24fULCtW11LibU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220730,
+      "name": "Into the Sun",
+      "url": "https://open.spotify.com/track/5scvd74qNcTW4OrilV7Euq"
     },
     {
       "album": {
@@ -12703,6 +12819,24 @@
       "duration_ms": 236250,
       "name": "mooindo drift",
       "url": "https://open.spotify.com/track/6SDELeMG3kX00rO61PIAP6"
+    },
+    {
+      "album": {
+        "name": "moon & stars",
+        "url": "https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261875,
+      "name": "moon & stars",
+      "url": "https://open.spotify.com/track/3J6JDjIpQmJeRzmt4LhZ9O"
     },
     {
       "album": {
@@ -15780,6 +15914,24 @@
     },
     {
       "album": {
+        "name": "RUN RUN RUN",
+        "url": "https://open.spotify.com/album/3Q57FAQEXEJ0fCslmn95Me"
+      },
+      "artists": [
+        {
+          "name": "tie a tie",
+          "url": "https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "RUN RUN RUN",
+      "url": "https://open.spotify.com/track/2ZlVT0kF6x6ST3PbkbkLIk"
+    },
+    {
+      "album": {
         "name": "whatever works",
         "url": "https://open.spotify.com/album/63x6ehILu5223aljaHfeiK"
       },
@@ -15853,7 +16005,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166346,
       "name": "S.O.T.I. (Strangers On The Internet)",
       "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"
@@ -16287,6 +16439,24 @@
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
+    },
+    {
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
     },
     {
       "album": {
@@ -17607,6 +17777,24 @@
       "duration_ms": 201920,
       "name": "Strawberry Icecream",
       "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
+    },
+    {
+      "album": {
+        "name": "Strawberry Jam",
+        "url": "https://open.spotify.com/album/00OQ88HfddxhAWop9MkWLv"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165322,
+      "name": "Strawberry Jam",
+      "url": "https://open.spotify.com/track/4KoLikowEFzW1If3znhzPG"
     },
     {
       "album": {
@@ -19979,7 +20167,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 217693,
       "name": "Unwavering",
       "url": "https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w"
@@ -20783,7 +20971,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161400,
       "name": "What (I Wish) He Said",
       "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
@@ -22867,7 +23055,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 319073,
       "name": "\u30a4\u30a8\u30ed\u30fc",
       "url": "https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU"
@@ -23213,6 +23401,24 @@
       "duration_ms": 298797,
       "name": "\u5728\u590f\u591c",
       "url": "https://open.spotify.com/track/4vFBXg62WWBiEQYkz5kFjS"
+    },
+    {
+      "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
     },
     {
       "album": {
@@ -23719,6 +23925,24 @@
       "duration_ms": 191484,
       "name": "\u6c92\u95dc\u4fc2 it\u2019s okay!!",
       "url": "https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO"
+    },
+    {
+      "album": {
+        "name": "\u6ce1\u6ce1",
+        "url": "https://open.spotify.com/album/0wXVShnHlCqezUvFoQ2HpT"
+      },
+      "artists": [
+        {
+          "name": "VOOID",
+          "url": "https://open.spotify.com/artist/5KQSa8lX9YzvetL7ol4zeq"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365222,
+      "name": "\u6ce1\u6ce1",
+      "url": "https://open.spotify.com/track/75Ha2AzsRFnlZ0uNkEp5yu"
     },
     {
       "album": {

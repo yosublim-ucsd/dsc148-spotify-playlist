@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. SLF in cover con "Sarò con te", dedicata allo scudetto del Napoli 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,670 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,801 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \- Original Soundtrack](https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7) | [SLF](https://open.spotify.com/artist/1Rnh0QRyjzyc874YeRG7Gg), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \[Original Soundtrack\]](https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu) | 4:33 |
+| 1 | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \- Original Soundtrack](https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \[Original Soundtrack\]](https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu) | 4:33 |
 | 2 | [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 |
 | 3 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 |
 | 4 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |

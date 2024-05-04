@@ -4,7 +4,7 @@
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Haris Alexiou
 
-536 songs - 1 day 5 hr 21 min
+537 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Aima](https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Aima](https://open.spotify.com/album/75xcQVgmDHtACY4ekzTQyL) | 3:28 | 2022-06-30 | 2023-01-04 |
 | [Akrogiales Deilina](https://open.spotify.com/track/5yQpEwB79AEGsWimzkfyTi) | [Sofia Papazoglou](https://open.spotify.com/artist/4BWkbMKFwbdE4GspkOTuHd) | [Akrogiales Deilina](https://open.spotify.com/album/1gmVqH8e7V8fCVFaj7kWRV) | 3:40 | 2022-05-03 | 2022-08-03 |
 | [Alli Mia Fora](https://open.spotify.com/track/4ql9MGCIzZwl8V2It8Mp6T) | [Alexandra Koniak](https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30) | [Alli Mia Fora](https://open.spotify.com/album/45xN0CzQRn6rqfWPD1SH14) | 3:08 | 2023-01-03 | 2023-04-05 |
+| [Allou Zitas Ton Erota](https://open.spotify.com/track/7s1cuTEKxxGmIyPvxGtOzf) | [Hara Verra](https://open.spotify.com/artist/0bFQmNO52oscODGROuqEKn) | [Allou Zitas Ton Erota](https://open.spotify.com/album/11gEFFEuVRop1HG2woO1qE) | 3:48 | 2024-05-03 |  |
 | [Alright](https://open.spotify.com/track/5QLUskZ5ufEH6HTcnHgOvB) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Alright](https://open.spotify.com/album/3e64SvlCfAsnTL4dVz2T7C) | 2:54 | 2022-02-01 | 2022-06-01 |
 | [Ama Fygeis](https://open.spotify.com/track/3a25lrQ9qsJQPj3gNSC7wJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ama Fygeis](https://open.spotify.com/album/3NLU6sOMtaSYuaDdYVVH3u) | 3:03 | 2023-04-04 | 2023-08-02 |
 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-10-04 | 2022-12-01 |
@@ -235,7 +236,7 @@
 | [Ladi Sti Fotia](https://open.spotify.com/track/6jViK0C9u5uhfgQo5jTAoO) | [Fani Drakopoulou](https://open.spotify.com/artist/5AZEySJDP1cM2lSE4gmNfX) | [Ladi Sti Fotia](https://open.spotify.com/album/5VfBcevpNyWlwO5NPlbjoc) | 3:43 | 2024-05-01 |  |
 | [Last Dance](https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Last Dance](https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk) | 3:00 | 2021-12-16 | 2022-04-06 |
 | [LATHI](https://open.spotify.com/track/5lQfoQ3mPD7hDomKjjMwhV) | [Rima](https://open.spotify.com/artist/57YDpbS3CGnSQfRNpSsiNK), [LADELE](https://open.spotify.com/artist/0XpIr8mls2t9j5bNsjbw7C), [City Center](https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [POV](https://open.spotify.com/album/56qe0cN1r6xtHLpli7lYjz) | 2:59 | 2023-04-04 | 2023-07-05 |
-| [Lathos](https://open.spotify.com/track/53fgZOSM7amHzXclILxybF) | [Vamva](https://open.spotify.com/artist/7fEKwaZv2qIls1Jelr73i3) | [Lathos](https://open.spotify.com/album/1i6iuWWzKci2q1KLAu7oXh) | 2:57 | 2024-05-01 |  |
+| [Lathos](https://open.spotify.com/track/53fgZOSM7amHzXclILxybF) | [Vamva](https://open.spotify.com/artist/7fEKwaZv2qIls1Jelr73i3) | [Lathos](https://open.spotify.com/album/1i6iuWWzKci2q1KLAu7oXh) | 2:57 | 2024-05-01 | 2024-05-04 |
 | [Lathos Diadromi](https://open.spotify.com/track/4Ag10oB2AWyPn8Sms8qYrV) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Lathos Diadromi](https://open.spotify.com/album/3DcDLBz2Xc30vUwok7uEtm) | 3:13 | 2021-12-16 | 2022-04-06 |
 | [Les Amants de Teruel](https://open.spotify.com/track/3ut0zXxhXciVx6WKiGa2vq) | [Alexandra Koniak](https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30), [Mikis Theodorakis](https://open.spotify.com/artist/58EvYFzDGAQOmBpIOxujnj) | [Les Amants de Teruel](https://open.spotify.com/album/51W23ChtyCU62GB0GFAEW7) | 3:14 | 2022-05-31 | 2022-10-05 |
 | [Let Me In Your Heart](https://open.spotify.com/track/69SP3yM5zbCCBhw4YFfxOC) | [Souled Out](https://open.spotify.com/artist/5aqOq1ieNC0t7bbZ31iV8W), [Alexandra Sieti](https://open.spotify.com/artist/5BEgerUS0n7NHBcoP7VUmX) | [Sunny Side Up](https://open.spotify.com/album/1mMDVe0zMBCsFkU8yUFFoE) | 5:03 | 2022-11-30 | 2023-02-01 |

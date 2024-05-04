@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 30060,
+  "2024-05-04": 30071,
   "date_first_scraped": "2023-02-21",
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
   "name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
@@ -2172,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "Funkiest Family Juice",
+        "url": "https://open.spotify.com/album/24lmGtOd28NyB9ZFvmMrOX"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "\uadf8\ub9ac\uace0 \uadf8\ud6c4",
+      "url": "https://open.spotify.com/track/7lKxiceicZ2E5CWERRfjce"
+    },
+    {
+      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 358226,
       "name": "\uc0ac\ub791\uc740 \uc544\ud504\ub824\uace0 \ud558\ub294 \uac70\uc8e0",
       "url": "https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w"

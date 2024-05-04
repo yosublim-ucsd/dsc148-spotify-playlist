@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:0qZ8aSF0iMCQI99AAXikF8">Elevation Rhythm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,343 likes - 101 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,289 likes - 101 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: Dear Dahlia
 
-89 songs - 5 hr 51 min
+92 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,10 @@
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-13 | 2024-02-10 |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-10-13 | 2024-02-10 |
 | [Binalewala](https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Binalewala](https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv) | 3:02 | 2023-10-27 |  |
-| [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 | 2023-10-13 |  |
+| [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 | 2023-10-13 | 2024-05-04 |
 | [Bulaklak](https://open.spotify.com/track/2TM786ycFGiO0e2CW5f9uK) | [MarCø](https://open.spotify.com/artist/1ivVBioZ1Pocki7Ccqe3dI) | [Bulaklak](https://open.spotify.com/album/4HKqZ8TlIkRDAKTvPLp9SO) | 4:29 | 2023-10-13 | 2024-02-10 |
 | [CK2](https://open.spotify.com/track/4Zlt1E6DOWVExa9Cnr0uMx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [CK2](https://open.spotify.com/album/74Mec7fYdgHVhYjby3wDGw) | 4:07 | 2023-10-27 | 2024-04-27 |
-| [Dance Like You](https://open.spotify.com/track/6i3YUrKwblwZ2lmeJSzJj6) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa) | [Dance Like You](https://open.spotify.com/album/4sm3BFmwbB0TvmD3HiQHJp) | 3:53 | 2023-10-13 |  |
+| [Dance Like You](https://open.spotify.com/track/6i3YUrKwblwZ2lmeJSzJj6) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa) | [Dance Like You](https://open.spotify.com/album/4sm3BFmwbB0TvmD3HiQHJp) | 3:53 | 2023-10-13 | 2024-05-04 |
 | [Delikado](https://open.spotify.com/track/79hOmFOZM0XZMBQE7rF4Gi) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Delikado](https://open.spotify.com/album/28fntKUsi2qv7tO8jbyADU) | 4:59 | 2023-10-13 | 2023-11-11 |
 | [Di Na Ako](https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Di Na Ako](https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1) | 4:44 | 2023-10-13 | 2023-11-11 |
 | [Easy](https://open.spotify.com/track/0t4yopXQW1ObWhhT5FQGzZ) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Easy](https://open.spotify.com/album/65AJ7ZXJPSq18I0mTud0Cj) | 3:44 | 2023-10-13 | 2023-11-19 |
@@ -43,7 +43,7 @@
 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 | 2023-10-13 |  |
 | [Just Another Christmas](https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Just Another Christmas](https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG) | 2:16 | 2023-11-18 |  |
 | [Just to See You](https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw) | [The Braille Flowers](https://open.spotify.com/artist/1oCEHpiSBXA8IpjKsLc3OA) | [Just to See You](https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY) | 4:25 | 2023-10-13 | 2023-11-19 |
-| [Kaibigan Lang](https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Kaibigan Lang](https://open.spotify.com/album/1p58vGVNMjmM559sM3qXz1) | 3:04 | 2023-10-13 |  |
+| [Kaibigan Lang](https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Kaibigan Lang](https://open.spotify.com/album/1p58vGVNMjmM559sM3qXz1) | 3:04 | 2023-10-13 | 2024-05-04 |
 | [KELAN](https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KELAN](https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns) | 4:10 | 2024-02-09 |  |
 | [Kita Kita](https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO) | [7th](https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN) | [Kita Kita](https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW) | 5:45 | 2023-10-13 |  |
 | [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 |  |
@@ -51,6 +51,7 @@
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
 | [MALABO](https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [MALABO](https://open.spotify.com/album/0decNGiRDcErQsQvcyfEMz) | 3:40 | 2023-10-13 |  |
 | [Mamamatay Yata Kong Single](https://open.spotify.com/track/6AwEWeF4oHJJiAaQAZcYsl) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Mamamatay Yata Kong Single](https://open.spotify.com/album/2llKjpVAaBKjIn7S6yPC71) | 4:45 | 2023-10-13 | 2023-10-28 |
+| [Maybe I'm Tired](https://open.spotify.com/track/0VitHidyjeTDL2CMqcEz39) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Maybe I'm Tired](https://open.spotify.com/album/7bdjNftzZui98rywpJsluk) | 3:37 | 2024-05-03 |  |
 | [Miscom](https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1) | [Pinkmen](https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU) | [Miscom](https://open.spotify.com/album/6aTDzfvas4SHkdFkFhdb7E) | 5:40 | 2023-11-18 | 2024-04-27 |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 |  |
 | [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 |  |
@@ -67,6 +68,7 @@
 | [Pinapangarap Ko](https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn) | [LYNDE](https://open.spotify.com/artist/6ynab8zRwxH5J3EBWnWAc4) | [Pinapangarap Ko](https://open.spotify.com/album/63U1GIzvNwaTbBKv0YwGCJ) | 3:48 | 2023-10-13 |  |
 | [Please Don't Stay](https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1) | [Three Legged Men PH](https://open.spotify.com/artist/6Ef0AJQePmfx2cB3vo5vEe) | [Please Don't Stay](https://open.spotify.com/album/43zGzmF8jcqYpZTgru1Nh1) | 4:38 | 2023-10-13 | 2023-11-11 |
 | [Please Lang](https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2) | [SOS](https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc) | [Please Lang](https://open.spotify.com/album/0yGy7FQrViz5Ck8T9VS5Al) | 4:01 | 2023-11-18 |  |
+| [Pramis](https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/7mGQSG3GPyox65DMOAX0j7) | 3:33 | 2024-05-03 |  |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-09 |  |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-10-13 | 2023-11-11 |
 | [Roses](https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Roses](https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN) | 3:02 | 2023-10-13 |  |
@@ -80,6 +82,7 @@
 | [Sikreto](https://open.spotify.com/track/4Xsy8uSzUhjRwBAQQ17FXQ) | [Morning After](https://open.spotify.com/artist/0COdFByZShouhAnOk4hOBr) | [Sikreto](https://open.spotify.com/album/33za296VJXryfYFrturohm) | 4:45 | 2023-11-18 |  |
 | [SINTA](https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [SINTA](https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI) | 3:56 | 2024-02-09 |  |
 | [Sinulit](https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Sinulit](https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw) | 3:36 | 2023-10-13 | 2024-02-10 |
+| [SOLO](https://open.spotify.com/track/6DKHHYoy7phuVMfslvrx11) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [SOLO](https://open.spotify.com/album/3zP1wbbIaPHHT3VS3kPUSY) | 3:12 | 2024-05-03 |  |
 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 | 2023-11-10 | 2024-04-27 |
 | [Static](https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv) | [Shades of Native](https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon) | [Static](https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f) | 3:54 | 2024-02-09 |  |
 | [Sunday](https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Sunday](https://open.spotify.com/album/5WhV3B48D6u8OmayTwW3OU) | 3:00 | 2023-10-13 | 2023-11-11 |

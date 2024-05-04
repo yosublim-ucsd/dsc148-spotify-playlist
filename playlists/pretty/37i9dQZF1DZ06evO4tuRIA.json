@@ -1,12 +1,12 @@
 {
-  "description": "This is LEGADO 7. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 79954,
+  "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
+  "num_followers": 79981,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAtQgeqoiuIYSHHldeTZa/4",
+  "snapshot_id": "ZjLXgAAAAACar/62JwoBYXvqwQ3O2NTx",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAKABELICOS",
+        "url": "https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 187904,
+      "name": "MAKABELICOS",
+      "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAKABELICOS",
-        "url": "https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 187904,
-      "name": "MAKABELICOS",
-      "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Cabrones",
-        "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 154232,
-      "name": "Dos Cabrones",
-      "url": "https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Cabrones",
+        "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 154232,
+      "name": "Dos Cabrones",
+      "url": "https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 189516,
+      "name": "El Compa \u00c1ngel",
+      "url": "https://open.spotify.com/track/0x0EuFuoOISC3ge1C58wHn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paso En Culiacan (En Vivo)",
         "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 240879,
       "name": "Paso En Culiacan (En Vivo)",
       "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 189516,
-      "name": "El Compa \u00c1ngel",
-      "url": "https://open.spotify.com/track/0x0EuFuoOISC3ge1C58wHn"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 203398,
+      "name": "En El Humaderon",
+      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De D\u00eda A Noche",
         "url": "https://open.spotify.com/album/4FJBGA0XCukKbetJGkv8QG"
       },
@@ -883,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
       "artists": [
         {
@@ -892,9 +908,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 203398,
-      "name": "En El Humaderon",
-      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 145999,
       "name": "Barrios Bajos",
       "url": "https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 199500,
-      "name": "En La Movida",
-      "url": "https://open.spotify.com/track/0k2LsqhxHcn559bNzbJ1gL"
+      "duration_ms": 156779,
+      "name": "Olor a Kush",
+      "url": "https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc"
     }
   ],
   "unique_name": "This Is LEGADO 7",

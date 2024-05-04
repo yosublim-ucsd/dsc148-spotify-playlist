@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 67059,
+  "num_followers": 67014,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPWA50hV08Wy5F8xdzH5CBnSd807D6",
+  "snapshot_id": "AAAPWQvvB3vfRI63AlfiMw7ApLfaLgOp",
   "tracks": [
+    {
+      "added_at": "2024-05-03 13:07:10",
+      "album": {
+        "name": "La Fusion",
+        "url": "https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 231753,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU"
+    },
     {
       "added_at": "2024-05-01 09:04:23",
       "album": {

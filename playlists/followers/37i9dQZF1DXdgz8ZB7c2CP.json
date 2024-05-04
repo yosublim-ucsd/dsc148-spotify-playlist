@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 766226,
+  "2024-05-04": 766235,
   "date_first_scraped": "2021-12-21",
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
   "name": "creamy",
@@ -727,7 +727,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 158978,
       "name": "Another Night In London (feat. Gbnga)",
       "url": "https://open.spotify.com/track/1knnCPLEuUrwNwgJiQJ2hY"
@@ -4976,6 +4976,32 @@
     },
     {
       "album": {
+        "name": "Forza (Remixes)",
+        "url": "https://open.spotify.com/album/1J2kV5wLumcd1eDENYXZ5t"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Forza - camoufly Remix",
+      "url": "https://open.spotify.com/track/6cva0SkGofyJ3KQpIqCPKW"
+    },
+    {
+      "album": {
         "name": "BXU 2",
         "url": "https://open.spotify.com/album/5Rfzj9zzMKVQNagVW4r78M"
       },
@@ -7892,6 +7918,28 @@
     },
     {
       "album": {
+        "name": "lonely again..",
+        "url": "https://open.spotify.com/album/2O5SXgWFYBHVyu7ziOMA6x"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        },
+        {
+          "name": "Kidwaste",
+          "url": "https://open.spotify.com/artist/1UfAJurufe5iLgpfp01tvQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117428,
+      "name": "lonely again..",
+      "url": "https://open.spotify.com/track/5l7cQdP4gwBdwIoW0VOg0B"
+    },
+    {
+      "album": {
         "name": "Loner (Remixes)",
         "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
       },
@@ -8365,6 +8413,28 @@
       "duration_ms": 172535,
       "name": "Minute",
       "url": "https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q"
+    },
+    {
+      "album": {
+        "name": "Aqua Lull",
+        "url": "https://open.spotify.com/album/0xhroZPlO1F2eFiFI0H1fk"
+      },
+      "artists": [
+        {
+          "name": "MOL\u00d8",
+          "url": "https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg"
+        },
+        {
+          "name": "Running Pine",
+          "url": "https://open.spotify.com/artist/6G8trVKRkLIs2SHsmq0jcY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428555,
+      "name": "Mio",
+      "url": "https://open.spotify.com/track/30mf2jx7lqNfSFoHXMJjn5"
     },
     {
       "album": {
@@ -9031,6 +9101,24 @@
       "duration_ms": 175680,
       "name": "on hold",
       "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0NQddsB7zwntWpH9RVvYPt"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
     },
     {
       "album": {
@@ -10501,7 +10589,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
@@ -11737,7 +11825,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194509,
       "name": "Somebody (feat. upsidedownhead)",
       "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
@@ -13025,7 +13113,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
@@ -13433,10 +13521,36 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 193098,
       "name": "Uh Uh",
       "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "album": {
+        "name": "Under My Breath (Remixes)",
+        "url": "https://open.spotify.com/album/6n4ijKAPfvn48s82DJkAdI"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Riley Biederer",
+          "url": "https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR"
+        },
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201565,
+      "name": "Under My Breath - Stresshead Remix",
+      "url": "https://open.spotify.com/track/6rwgIFzzIaVKSUGZzdoHmk"
     },
     {
       "album": {

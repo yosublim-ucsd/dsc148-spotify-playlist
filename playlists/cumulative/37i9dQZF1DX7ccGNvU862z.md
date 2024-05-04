@@ -4,7 +4,7 @@
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L.
 
-383 songs - 21 hr 30 min
+384 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [My Type W//Nxna](https://open.spotify.com/track/4sEnW3EtInWtq0i5y5RNyK) | [Babybadnight](https://open.spotify.com/artist/3pJVYClFAZUZn0F5QnWutT) | [My Type W//Nxna](https://open.spotify.com/album/3pgWUBc0oF9NbPQU524Nvo) | 3:08 | 2023-10-06 | 2023-10-13 |
 | [mytype](https://open.spotify.com/track/2Hl4zTGXNTGM3OYSrSjDGs) | [Jackie](https://open.spotify.com/artist/0F4x8TY0GHJghQo2nyPHWR), [KYULERR](https://open.spotify.com/artist/1I6ycSo8Xnc7YuLyFgFkkN) | [mytype](https://open.spotify.com/album/4Lbir4vf37Ug9gA0ykSeG5) | 2:09 | 2023-10-12 | 2023-10-21 |
 | [NERD](https://open.spotify.com/track/700D5XaDDsAwNaD6JXkt4W) | [T\-BIGGEST](https://open.spotify.com/artist/3LW3TOMoNLelResUQ8w4UR), [HawkCry](https://open.spotify.com/artist/2WpNT5iWzZQNqlFn1ggFzy) | [NERD](https://open.spotify.com/album/05uOoW6bQzuNVvEA2TpaI8) | 2:19 | 2024-03-29 | 2024-04-07 |
+| [New Flame](https://open.spotify.com/track/2kFsWpSVMvgYZLw9pqFZRm) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [New Flame](https://open.spotify.com/album/7gF2mNVm8DwM6mGqHaLVCX) | 2:16 | 2024-05-03 |  |
 | [Night Hour](https://open.spotify.com/track/75QeKAeFfy5Jlr551kvOc8) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [Night Hour](https://open.spotify.com/album/4orsC9Iq2aNVGnu1TWTSyW) | 2:38 | 2023-10-12 | 2023-10-28 |
 | [No Joke](https://open.spotify.com/track/7AIapZx4j6AvZ0R9xXqH5E) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX), [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [No Joke](https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk) | 2:32 | 2023-12-15 | 2023-12-22 |
 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [Lil X](https://open.spotify.com/artist/6JU3HVDt49f52BPbBQtqax) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 | 2024-03-29 |  |
@@ -246,7 +247,7 @@
 | [ที่ลัก](https://open.spotify.com/track/2OhQoLwmVGHDvWl8ab8UTj) | [1LIFE](https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3) | [ที่ลัก](https://open.spotify.com/album/40TZj4OUXIxaHf6hgs2SiV) | 3:21 | 2023-09-22 | 2024-04-27 |
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2024-03-29 |  |
 | [ธรรมดา](https://open.spotify.com/track/7vZFov5R0OZVG9gtDUCJsr) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ธรรมดา](https://open.spotify.com/album/19sSaygLiCBg0PbUxmnwSj) | 3:08 | 2023-09-22 | 2024-04-07 |
-| [ธรรมดา](https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ธรรมดา](https://open.spotify.com/album/0otHGYvDt2h177Iw4OvDmK) | 2:24 | 2024-04-26 |  |
+| [ธรรมดา](https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ธรรมดา](https://open.spotify.com/album/0otHGYvDt2h177Iw4OvDmK) | 2:24 | 2024-04-26 | 2024-05-04 |
 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 | 2023-09-22 | 2024-03-30 |
 | [นางคนงาม](https://open.spotify.com/track/1G6uMKUOJNNqqKnxqMpEVX) | [Ptrp Studio](https://open.spotify.com/artist/1zUaU29NK5rZxdJoDdGaTM) | [นางคนงาม](https://open.spotify.com/album/1DPT2gOfuqt3S6sqi8axGP) | 2:32 | 2024-02-23 | 2024-03-02 |
 | [บางครั้งก็จริง](https://open.spotify.com/track/37i8MkTaLwicciBitFVDcZ) | [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [บางครั้งก็จริง](https://open.spotify.com/album/7IsNI1aL8V1AjjBz8eDOJ7) | 3:21 | 2023-11-24 | 2023-12-02 |

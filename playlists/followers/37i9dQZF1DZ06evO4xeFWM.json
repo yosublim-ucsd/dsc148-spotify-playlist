@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 212452,
+  "2024-05-04": 212476,
   "date_first_scraped": "2022-10-27",
-  "description": "This Is Bastille. Los temas esenciales, todos en una lista.",
+  "description": "This is Bastille. The essential tracks, all in one playlist.",
   "name": "This Is Bastille",
   "tracks": [
     {
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 206493,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 160294,
       "name": "Plug In\u2026",
       "url": "https://open.spotify.com/track/6gNsIRc9IBhBrpTmlpfYdM"

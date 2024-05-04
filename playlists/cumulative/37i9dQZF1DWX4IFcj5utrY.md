@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi\_2TSQT5\-u7\_kKg\-IyKg">Omagoqa</a>
 
-1,007 songs - 3 day 19 hr 20 min
+1,008 songs - 3 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Good Morning](https://open.spotify.com/track/2qZxw6wK5e4AiKDwRVpuVX) | [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [Coflo](https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk), [Rawb Boss](https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC) | [Good Morning](https://open.spotify.com/album/31P59gRrOBDO8zRbhEmRRk) | 7:25 | 2024-04-25 |  |
 | [Good Music](https://open.spotify.com/track/4zwBNVEULaWjjwudh9y5f1) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:35 | 2022-02-25 | 2022-04-08 |
 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 | 2023-11-09 |  |
+| [Gorah \- Francis Mercier Midnight Mix](https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Gorah \(Francis Mercier Midnight Mix\)](https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4) | 3:19 | 2024-05-03 |  |
 | [Gordon Road \- Original Mix](https://open.spotify.com/track/6Sjk27IqeYBBPVkNMKWmDa) | [Dj PaPPa](https://open.spotify.com/artist/6WUG0SNEaHMpdSMjaaSpwW) | [Far We Go EP](https://open.spotify.com/album/7cIb6ImdX8dLMb1QqY54Tc) | 6:54 | 2022-01-10 | 2022-02-04 |
 | [Gorilla \- Radio Edit](https://open.spotify.com/track/07RX3FwnpN61suArirCyx2) | [RAYZIR](https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Gorilla EP](https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA) | 3:48 | 2024-04-12 |  |
 | [Gqizi Qakala \(feat\. Umzulu Phaqa\)](https://open.spotify.com/track/04PM7dqR53p4F6Jo4vJOg6) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND) | [ARCADE 2](https://open.spotify.com/album/0ZIrS00dQLvWC0lI01TEEw) | 4:04 | 2022-07-28 | 2022-11-01 |

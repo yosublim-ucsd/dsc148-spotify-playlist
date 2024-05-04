@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 18971,
+  "2024-05-04": 19003,
   "date_first_scraped": "2023-12-27",
-  "description": "This Is imase. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is imase. The essential tracks, all in one playlist.",
   "name": "This Is imase",
   "tracks": [
     {
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"

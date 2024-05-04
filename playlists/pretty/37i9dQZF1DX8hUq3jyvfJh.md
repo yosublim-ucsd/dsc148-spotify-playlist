@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,443 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,467 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Passione](https://open.spotify.com/track/75rWUt2aqjGj2qKLD7hFcY) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Passione](https://open.spotify.com/album/3cGGvKieKWwGfqB3LJJAP0) | 2:34 |
 | 40 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
 | 41 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
-| 42 | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs) | [Alinne Rosa](https://open.spotify.com/artist/6jrXjOgvZxar7qULTgJ9xd) | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6) | 2:34 |
-| 43 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |
+| 42 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |
+| 43 | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs) | [Alinne Rosa](https://open.spotify.com/artist/6jrXjOgvZxar7qULTgJ9xd) | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6) | 2:34 |
 | 44 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |
 | 45 | [Sou Refém](https://open.spotify.com/track/05kJFgINuv5Gb59tkmx9bg) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Sou Refém](https://open.spotify.com/album/3KkmeZvZG52Lg2mDIeYclW) | 3:23 |
 | 46 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |

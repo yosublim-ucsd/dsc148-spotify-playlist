@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=UrcGlaRcSSedz6TTOecUcw">Dua Lipa</a>
 
-2,837 songs - 8 day 2 hr 24 min
+2,838 songs - 8 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Dreamland \(feat\. Years & Years\) \- 2023 Remaster](https://open.spotify.com/track/5lsM03LY7LalQibKCVZFVC) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh), [Years & Years](https://open.spotify.com/artist/2oIcjNC5uuagLRLRS1fE7c) | [Hotspot](https://open.spotify.com/album/1dvGwLWZYHVEykh5Ibjzgg) | 3:28 | 2024-01-04 | 2024-01-13 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-23 | 2023-06-30 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-24 | 2023-09-01 |
+| [Dripping Trees](https://open.spotify.com/track/2XK7gafDi1XsRLgCbMX97z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Dripping Trees](https://open.spotify.com/album/69mFUHSOWZdJ6UKNZ144yb) | 3:28 | 2024-05-03 |  |
 | [Drive](https://open.spotify.com/track/3OFzqxvN51f4S4p8ugC6Mz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Stoorne](https://open.spotify.com/artist/25kfIgM0odAFXprekOv7XI), [Ayarh Soul](https://open.spotify.com/artist/31EFVZKTMS2BOgonXB44Wg), [Deeh](https://open.spotify.com/artist/3VCtz4iLmRgjIwVpsn0dgT), [Akim](https://open.spotify.com/artist/5NoJbX5LPgh1Cymdfu3ndZ) | [Elevation](https://open.spotify.com/album/0U9GES7moSZwF5F5fiNy3E) | 5:20 | 2023-11-09 | 2023-11-18 |
 | [Driving me crazy](https://open.spotify.com/track/4GQsKqzl4J1kth6nmp9W7f) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg), [Bass Odyssey](https://open.spotify.com/artist/1wOTXNecpnGJs6saibX7MV), [Scott Curtis](https://open.spotify.com/artist/21pFpjIAEPZgLqHNyU9JS1) | [Driving me crazy](https://open.spotify.com/album/2Eask2CSpUCZ0FwOZnLXbD) | 6:06 | 2023-08-04 | 2023-08-11 |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-02-23 | 2024-03-01 |
@@ -1455,7 +1456,7 @@
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-21 | 2023-07-29 |
 | [Love Love Love](https://open.spotify.com/track/2U43LCOxEBwBeuZuloDT1B) | [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Love Love Love](https://open.spotify.com/album/67QbTDh0B3KZzKSU69VhiI) | 4:27 | 2023-06-15 | 2023-06-23 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-25 | 2024-05-03 |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ritz Reynolds](https://open.spotify.com/artist/4RZOYMtyz97jaU2x9SICqg) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-05-03 |  |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-05-03 |  |
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-16 | 2024-02-24 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 | 2024-03-01 |
 | [Love or Leave](https://open.spotify.com/track/4LkGrb40CYjtPr0nh7jqHU) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O), [Dela](https://open.spotify.com/artist/5zaRblYgNzTCLsuiDGCS3y) | [Sauti Sol](https://open.spotify.com/album/2rrPtua64WKjWUp4f0mqhr) | 3:31 | 2024-04-19 | 2024-04-26 |

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 42006,
+  "2024-05-04": 42021,
   "date_first_scraped": "2022-08-06",
   "description": "I'm just a girl ",
   "name": "soft life",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 266943,
       "name": "(Don't) Say I'm Wrong",
       "url": "https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 138000,
       "name": "Away",
       "url": "https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187714,
       "name": "Cash",
       "url": "https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 211128,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 160610,
       "name": "Failing Together",
       "url": "https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA"
@@ -1128,6 +1128,28 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ"
+      },
+      "artists": [
+        {
+          "name": "Twiss Tosin",
+          "url": "https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK"
+        },
+        {
+          "name": "LordKnowz",
+          "url": "https://open.spotify.com/artist/5kMgDc2PSSyx2eUc3RZLdu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
       },
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 192000,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148499,
       "name": "Mirror Talk",
       "url": "https://open.spotify.com/track/5OxFK3mOuS6mjNMWg3ZsYl"
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180000,
       "name": "MORE",
       "url": "https://open.spotify.com/track/46LV376zSGmaelTVpBvBeA"
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147669,
       "name": "Na Die",
       "url": "https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ"
@@ -1943,7 +1965,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
@@ -2067,7 +2089,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174545,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/40koVJVPscwPtadljPKMjq"
@@ -2143,7 +2165,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 150752,
       "name": "Princess Darling",
       "url": "https://open.spotify.com/track/4eh3gxGAT2tVFfBq4BKCKW"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 233293,
       "name": "Roadblock",
       "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
@@ -2289,7 +2311,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -2329,7 +2351,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186504,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR"
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168205,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165819,
       "name": "Softies Vibe",
       "url": "https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE"
@@ -2517,7 +2539,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 138113,
       "name": "Star",
       "url": "https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1"
@@ -2571,7 +2593,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147539,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
@@ -2721,6 +2743,24 @@
       "duration_ms": 163369,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2y2tmHmV5f2UvQDQLqBpwZ"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/6WnjMhT6b5MgUwF6bHI6nh"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/5vVK17McjmUaEXBBtmgvHW"
     },
     {
       "album": {

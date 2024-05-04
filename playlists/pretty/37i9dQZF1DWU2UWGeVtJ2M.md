@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,300 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,309 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 64 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 |
 | 65 | [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 |
 | 66 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
-| 67 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 |
+| 67 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
 | 68 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
-| 69 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
+| 69 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 |
 | 70 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 |
 | 71 | [body](https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [body](https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN) | 3:17 |
-| 72 | [Toxic](https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey) | [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk), [Isla K](https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A) | [Toxic](https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d) | 3:52 |
-| 73 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 |
+| 72 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 |
+| 73 | [Toxic](https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey) | [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk), [Isla K](https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A) | [Toxic](https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d) | 3:52 |
 | 74 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
 | 75 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 |
 | 76 | [All That Matters](https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [All That Matters](https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo) | 3:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 95 | [Whatever This Is](https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Whatever This Is](https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h) | 3:07 |
 | 96 | [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 |
 | 97 | [I.L.Y.M](https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL) | [YQ](https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU) | [I.L.Y.M](https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G) | 3:18 |
-| 98 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
-| 99 | [Thursday](https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Thursday](https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u) | 3:49 |
+| 98 | [Thursday](https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Thursday](https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u) | 3:49 |
+| 99 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 100 | [Mirror, Mirror on the Wall](https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Mirror, Mirror on the Wall](https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip) | 3:48 |
 
 Snapshot ID: `Zi8ggAAAAAAnA8S1zb5V0FLBULZz0M2P`

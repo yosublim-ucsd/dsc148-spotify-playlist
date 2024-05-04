@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: ZICO, JENNIE\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: DPR CREAM\)
 
-1,195 songs - 2 day 17 hr 6 min
+1,196 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Dancing with emptiness \(Feat\. MODO, Choilb, KIMUZI\)](https://open.spotify.com/track/4GvmMfgRKdLKncG3o6eH0F) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [MODO](https://open.spotify.com/artist/2IubTH4G0npISFP7DCualO), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [KIMUZI](https://open.spotify.com/artist/1mXSS7oKc1RFske4Vf0rV5) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 2:53 | 2023-01-10 | 2023-01-20 |
 | [DANG](https://open.spotify.com/track/3pjzW2jhWHNZVb5BWlPxRr) | [Viann](https://open.spotify.com/artist/1vOcA0bD2xtLC80xRaFmOb), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [DANG](https://open.spotify.com/album/1fGSblYXzbzoEFjvJQtbFZ) | 3:02 | 2022-10-13 | 2022-10-30 |
 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 | 2023-06-01 | 2023-11-04 |
+| [darling](https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [psyche: red](https://open.spotify.com/album/62ctzdjOJcWjfI6FPEqD6F) | 3:50 | 2024-05-03 |  |
 | [dAsh!](https://open.spotify.com/track/0zrCD909QAKEnbQWB0GcB7) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 1:57 | 2024-04-05 | 2024-04-12 |
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2021-12-18 | 2022-07-08 |
 | [DAY OFF](https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [DAY OFF](https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd) | 3:03 | 2023-09-20 | 2024-03-09 |

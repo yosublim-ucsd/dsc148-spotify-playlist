@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-686 songs - 1 day 5 hr 10 min
+687 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2023-04-21 | 2023-08-26 |
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2023-04-21 |  |
 | [Aspromonte](https://open.spotify.com/track/1GqV3etog2P1tPiauYjJRk) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Aspromonte](https://open.spotify.com/album/2gXiqOT3GYPWhE6ILAtOIO) | 3:51 | 2023-04-21 | 2023-05-13 |
-| [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 | 2023-04-21 |  |
+| [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 | 2023-04-21 | 2024-05-04 |
 | [Austin](https://open.spotify.com/track/4YezUSq1Jln6CBattRur3E) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Seven Poems](https://open.spotify.com/album/1OnWt6c3cLv9rHqrll0ZjJ) | 3:57 | 2023-04-21 | 2024-04-08 |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-05-12 |  |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
@@ -238,6 +238,7 @@
 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 | 2023-04-21 |  |
 | [Forever...](https://open.spotify.com/track/3YyUiuG0AHRhd8gapvRr6V) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Forever...](https://open.spotify.com/album/3dCl6eMeLqW6HBmvwTxccC) | 2:50 | 2023-04-21 | 2023-06-03 |
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-12 |  |
+| [Fragments of Euphoria](https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Fragments of Euphoria](https://open.spotify.com/album/45y293r9gbGgELK6bXWJWu) | 2:02 | 2024-04-19 |  |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-02 |  |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-07-15 | 2023-04-22 |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-04-22 |

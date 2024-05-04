@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "Fractur\u00e9",
+        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
+      },
+      "artists": [
+        {
+          "name": "Rimkus",
+          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238474,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
+    },
+    {
+      "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
@@ -852,6 +874,24 @@
       "duration_ms": 183013,
       "name": "Demain",
       "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
+    },
+    {
+      "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197116,
+      "name": "Demb\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR"
     },
     {
       "album": {
@@ -1298,7 +1338,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
@@ -1994,7 +2034,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 162943,
       "name": "M\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"

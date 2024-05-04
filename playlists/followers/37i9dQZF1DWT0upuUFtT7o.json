@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 216161,
+  "2024-05-04": 216174,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Cover: Ugly (UK)",
   "name": "Fresh Finds Indie",
@@ -17875,6 +17875,24 @@
       "duration_ms": 215225,
       "name": "I Hate Couples",
       "url": "https://open.spotify.com/track/1UQyrXIoqR0CO55dKgaHJ8"
+    },
+    {
+      "album": {
+        "name": "I HATE IT TOO",
+        "url": "https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP"
+      },
+      "artists": [
+        {
+          "name": "Mitchy",
+          "url": "https://open.spotify.com/artist/4oAU4UeGuRJtYwpYSLEva5"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "I HATE IT TOO",
+      "url": "https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj"
     },
     {
       "album": {

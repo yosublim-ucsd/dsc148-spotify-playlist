@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 164197,
       "name": "Naina More",
       "url": "https://open.spotify.com/track/6KqyXAxzDyQsK2JM4ZXgYD"
@@ -5134,6 +5134,24 @@
       "duration_ms": 165569,
       "name": "Saware (feat. Srilakshmi Belmannu)",
       "url": "https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB"
+    },
+    {
+      "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Anand",
+          "url": "https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN"
     },
     {
       "album": {

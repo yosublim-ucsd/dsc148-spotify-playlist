@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,344 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,345 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 48 | [Tooka Took](https://open.spotify.com/track/4hDZeZoePIY3y0TPboLZGV) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Tooka Took](https://open.spotify.com/album/3mRtyiU58ph2NrrDFndGX6) | 2:35 |
 | 49 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
 | 50 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
-| 51 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/3eh0ESJAEiOgjjKAqwsztS) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
+| 51 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
 | 52 | [Rej](https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV) | 2:39 |
 | 53 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 54 | [One Of A Kind](https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [One Of A Kind](https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0) | 2:18 |

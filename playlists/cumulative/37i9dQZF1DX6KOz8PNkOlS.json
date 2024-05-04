@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 198842,
       "name": "Into the Wave",
       "url": "https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz"
@@ -1838,6 +1838,36 @@
       "duration_ms": 140999,
       "name": "Maybe i'm alone",
       "url": "https://open.spotify.com/track/3MWcUX999bO6D0AyDY64xL"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/2NFr0YmfDAVbsLVtWY5XWZ"
+      },
+      "artists": [
+        {
+          "name": "Catpack",
+          "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+        },
+        {
+          "name": "Phil Beaudreau",
+          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/03UKfWyoE48oFWWLZWz2eI"
     },
     {
       "album": {

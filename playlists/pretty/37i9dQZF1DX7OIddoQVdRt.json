@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 621355,
+  "num_followers": 621296,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "In Him There Is No Sorrow",
-        "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & Company",
-          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
-        },
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 377460,
-      "name": "In Him There Is No Sorrow",
-      "url": "https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "No Stressing",
         "url": "https://open.spotify.com/album/6yLyw5SBhG17scBn29pGzP"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 214923,
       "name": "No Stressing",
       "url": "https://open.spotify.com/track/2AqUyHKFz2t28mloKBkosu"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "In Him There Is No Sorrow",
+        "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 377460,
+      "name": "In Him There Is No Sorrow",
+      "url": "https://open.spotify.com/track/1eaob8lv7dnnn282p6j28d"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
+      },
+      "artists": [
+        {
+          "name": "Keyla Richardson",
+          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
+        }
+      ],
+      "duration_ms": 262315,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Tap Into It (The Source)",
         "url": "https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 313448,
       "name": "Tap Into It (The Source)",
       "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
-      },
-      "artists": [
-        {
-          "name": "Keyla Richardson",
-          "url": "https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW"
-        }
-      ],
-      "duration_ms": 262315,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps"
     },
     {
       "added_at": "2024-02-02 06:37:59",

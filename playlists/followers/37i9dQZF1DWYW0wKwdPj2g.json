@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 5375,
+  "2024-05-04": 5447,
   "date_first_scraped": "2024-03-28",
   "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
   "name": "Come Alive",
@@ -401,6 +401,24 @@
       "duration_ms": 657059,
       "name": "Fragrance to Fire",
       "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+    },
+    {
+      "album": {
+        "name": "Goliathi (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409813,
+      "name": "Goliathi (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ"
     },
     {
       "album": {
@@ -1096,6 +1114,28 @@
     },
     {
       "album": {
+        "name": "Reign Lord (Sovereign) [Live]",
+        "url": "https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT"
+      },
+      "artists": [
+        {
+          "name": "Gap Worship",
+          "url": "https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa"
+        },
+        {
+          "name": "Anu Ropo",
+          "url": "https://open.spotify.com/artist/6pOWF1wf8Vt8EoF4Ee5imF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630470,
+      "name": "Reign Lord (Sovereign) - Live",
+      "url": "https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
       },
@@ -1257,7 +1297,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 336000,
       "name": "Uzo - Live",
       "url": "https://open.spotify.com/track/3iQ8YBHQDvcYXa8MUFzb6i"

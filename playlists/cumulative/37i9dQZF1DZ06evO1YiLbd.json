@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 200640,
       "name": "\u5f8c\u6094\u3068\u539f\u52d5\u529b",
       "url": "https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167253,
       "name": "\u6c7a\u88c2",
       "url": "https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 58346,
       "name": "\u70b9\u53d6\u308a\u306e\u4fe1\u5ff5",
       "url": "https://open.spotify.com/track/6Xc5qmLv6P5ntJxpErC71w"
@@ -2088,6 +2088,24 @@
       "duration_ms": 159026,
       "name": "\u96d1\u98df",
       "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91973,
+      "name": "\u9802\u306e\u666f\u8272",
+      "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"
     },
     {
       "album": {

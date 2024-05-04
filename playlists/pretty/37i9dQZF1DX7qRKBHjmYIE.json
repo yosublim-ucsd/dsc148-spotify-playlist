@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Rels B.",
-  "num_followers": 755663,
+  "num_followers": 755576,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Aiwo",
-        "url": "https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "Aiwo",
-      "url": "https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Aiwo",
+        "url": "https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz"
+      },
+      "artists": [
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "Aiwo",
+      "url": "https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -491,6 +491,42 @@
       "duration_ms": 135853,
       "name": "Maldita Distancia",
       "url": "https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Gaucho",
+      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Veinte A\u00f1os",
+        "url": "https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 204310,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -531,42 +567,6 @@
       "duration_ms": 211475,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4qivrywz0cptut4imbWJJf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Veinte A\u00f1os",
-        "url": "https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 204310,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Gaucho",
-      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        },
+        {
+          "name": "Lena Dardelet",
+          "url": "https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "PALOMINO",
         "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Y Qu\u00e9",
-        "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        },
-        {
-          "name": "Lena Dardelet",
-          "url": "https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Y Qu\u00e9",
-      "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "OTRA BOSSA",
         "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "aguardiente",
-        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
-      },
-      "artists": [
-        {
-          "name": "Miranda del Sol",
-          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
-        }
-      ],
-      "duration_ms": 171279,
-      "name": "aguardiente",
-      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 263680,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "aguardiente",
+        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
+      },
+      "artists": [
+        {
+          "name": "Miranda del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+        }
+      ],
+      "duration_ms": 171279,
+      "name": "aguardiente",
+      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Blockbuster (90's R&B)",
-        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
       },
       "artists": [
         {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 207204,
-      "name": "Blockbuster (90's R&B)",
-      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
+      "duration_ms": 183036,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 183036,
-      "name": "AHORA",
-      "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 161148,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/2GqJCcdlPR9xkDkZpPkW9z"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "GRANDE",
         "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 148790,
       "name": "DEMONIO",
       "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 161148,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/2GqJCcdlPR9xkDkZpPkW9z"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 244856,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Observation I: Metamorphosis",
         "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
       },
@@ -1035,6 +1019,38 @@
       "duration_ms": 188584,
       "name": "Metamorphosis (with Ambar Lucid)",
       "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 244856,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Aqui?",
+        "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
+      },
+      "artists": [
+        {
+          "name": "deadsoulsociety",
+          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Aqui?",
+      "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 284342,
       "name": "lili lili lili lili lili lili lili",
       "url": "https://open.spotify.com/track/1qL4FGufuPtx7hLosfEUYm"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Aqui?",
-        "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
-      },
-      "artists": [
-        {
-          "name": "deadsoulsociety",
-          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Aqui?",
-      "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/5nnAxnOVudtdTDHPgShRph"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 169557,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/1b7NUnBZaNgC7ygZOkUqGb"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Unos y Ceros",
         "url": "https://open.spotify.com/album/2h4LCRSNJZDsVdNddTQk0Z"
       },
@@ -1171,22 +1155,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Se Acaba (Sinego Remix)",
-        "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/5nnAxnOVudtdTDHPgShRph"
       },
       "artists": [
         {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 381885,
-      "name": "Se Acaba - Sinego Remix",
-      "url": "https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy"
+      "duration_ms": 169557,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/1b7NUnBZaNgC7ygZOkUqGb"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+        "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
+      },
+      "artists": [
+        {
+          "name": "Thyan V",
+          "url": "https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+      "url": "https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX"
     }
   ],
   "unique_name": "Mixto",

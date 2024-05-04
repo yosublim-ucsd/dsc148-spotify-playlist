@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167730,
+      "name": "act viii: i hate to be alone",
+      "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
+    },
+    {
+      "album": {
         "name": "ACTING NORMAL",
         "url": "https://open.spotify.com/album/62RygmXoOBnexHbaAcJEvD"
       },

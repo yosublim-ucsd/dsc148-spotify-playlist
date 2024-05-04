@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 451086,
+  "2024-05-04": 451070,
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Cash Cobain and Ice Spice",
+  "description": "Up and down I-95. Cover: Cash Cobain",
   "name": "State of Mind",
   "tracks": [
     {
@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 154960,
       "name": "Can't Come Back",
       "url": "https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX"
@@ -4447,7 +4447,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
@@ -4465,7 +4465,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 122487,
       "name": "Dead or Alive",
       "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
@@ -5606,6 +5606,24 @@
     },
     {
       "album": {
+        "name": "double tap",
+        "url": "https://open.spotify.com/album/7aG3DisFd9OPX2EWB8loFs"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124919,
+      "name": "double tap",
+      "url": "https://open.spotify.com/track/1JE37zGKjFiEBM82rUPECy"
+    },
+    {
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -5639,7 +5657,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 120034,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
@@ -6181,6 +6199,28 @@
       "duration_ms": 227352,
       "name": "Evil Twins V2 (feat. TG Crippy)",
       "url": "https://open.spotify.com/track/6987skm7dtahpDpLmtv8Zn"
+    },
+    {
+      "album": {
+        "name": "Expensive (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Expensive (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
     },
     {
       "album": {
@@ -6999,7 +7039,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229026,
       "name": "Fork In The Pot (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/0q0qdaQ8j80O3fB4hUiygn"
@@ -7715,7 +7755,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 143673,
       "name": "Get That Money",
       "url": "https://open.spotify.com/track/0ixNW92DDfzRYUO1uCx5hX"
@@ -7969,7 +8009,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 183906,
       "name": "GO GET YA MOTHA",
       "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
@@ -9383,6 +9423,28 @@
       "duration_ms": 142608,
       "name": "I Deserve",
       "url": "https://open.spotify.com/track/6pQEztfgRIKQGSPrP47xfI"
+    },
+    {
+      "album": {
+        "name": "I Did It",
+        "url": "https://open.spotify.com/album/3Za8FMnNZk8FQFxe7mmJrq"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155062,
+      "name": "I Did It",
+      "url": "https://open.spotify.com/track/5Y4mqBm9Sd6rxC56NjLKuc"
     },
     {
       "album": {
@@ -12145,7 +12207,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 127067,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy"
@@ -13202,6 +13264,24 @@
     },
     {
       "album": {
+        "name": "Number 2 / Never Last",
+        "url": "https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141732,
+      "name": "Never Last",
+      "url": "https://open.spotify.com/track/54KWlvEf7t2MJktwweWU23"
+    },
+    {
+      "album": {
         "name": "New Opps",
         "url": "https://open.spotify.com/album/5Xw38QEyGPa5X1G51TvXpf"
       },
@@ -13863,6 +13943,24 @@
       "duration_ms": 151343,
       "name": "Nu Nu",
       "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
+    },
+    {
+      "album": {
+        "name": "Number 2 / Never Last",
+        "url": "https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137904,
+      "name": "Number 2",
+      "url": "https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI"
     },
     {
       "album": {
@@ -16258,6 +16356,32 @@
     },
     {
       "album": {
+        "name": "REEKYOD",
+        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156035,
+      "name": "REEKYOD",
+      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
+    },
+    {
+      "album": {
         "name": "Talk More Soon",
         "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
       },
@@ -17281,6 +17405,28 @@
       "duration_ms": 154275,
       "name": "Say That",
       "url": "https://open.spotify.com/track/4N8YWfJZP6MaIk0RbEZmNF"
+    },
+    {
+      "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178765,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
     },
     {
       "album": {
@@ -19190,6 +19336,24 @@
     },
     {
       "album": {
+        "name": "STAYTRUE",
+        "url": "https://open.spotify.com/album/4KARGhg61RbhnhQhc1n5Tb"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126343,
+      "name": "TAKING IT ALL",
+      "url": "https://open.spotify.com/track/7gzTtm1NSVS468xeyD64r5"
+    },
+    {
+      "album": {
         "name": "Talk Nice",
         "url": "https://open.spotify.com/album/4oPuSNNJzdQWn7Qf6UdlmE"
       },
@@ -19325,6 +19489,28 @@
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
+        "name": "Ten/Rya Interlude (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360077,
+      "name": "Ten/Rya Interlude (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2"
     },
     {
       "album": {
@@ -19895,7 +20081,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 188973,
       "name": "Tiffanys",
       "url": "https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb"
@@ -19975,7 +20161,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181783,
       "name": "time travel",
       "url": "https://open.spotify.com/track/0hzOn1LI3q2cmXVT6KBogz"
@@ -20329,6 +20515,36 @@
       "duration_ms": 173750,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/41LgGSrxbmi0TKPNJPwNas"
+    },
+    {
+      "album": {
+        "name": "Tweak",
+        "url": "https://open.spotify.com/album/2A5sxDsXqXaqQ9whtIJpol"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Tweak (with Kyle Richh, Jenn Carter & TaTa)",
+      "url": "https://open.spotify.com/track/7H29Nxj2XqsUNGkO6vH2MZ"
     },
     {
       "album": {

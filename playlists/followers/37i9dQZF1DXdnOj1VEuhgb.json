@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 1341482,
+  "2024-05-04": 1341405,
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Muti",
   "name": "NKVT",
   "tracks": [
     {
@@ -1522,6 +1522,28 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1cP8GzByLANV3jDbPT2zGc"
+      },
+      "artists": [
+        {
+          "name": "Alba",
+          "url": "https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71"
+        },
+        {
+          "name": "Baneva",
+          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165807,
+      "name": "Derman",
+      "url": "https://open.spotify.com/track/18IoeLnGXejbIRlZTa2uS6"
+    },
+    {
+      "album": {
         "name": "De\u011filim Bi A\u015f\u0131k",
         "url": "https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX"
       },
@@ -1909,6 +1931,28 @@
       "duration_ms": 119023,
       "name": "F\u0131st\u0131k",
       "url": "https://open.spotify.com/track/6NUuqQJoZQULg0kX4wo1gL"
+    },
+    {
+      "album": {
+        "name": "\u00d6l\u00fcm",
+        "url": "https://open.spotify.com/album/46IfShPkpXO3MrHkv6jQNW"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Galaktik",
+      "url": "https://open.spotify.com/track/4HD2JqwQtTI1zrHHA8dOAc"
     },
     {
       "album": {
@@ -3713,7 +3757,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149696,
       "name": "K\u00fcll\u00fck Dolu",
       "url": "https://open.spotify.com/track/2jTtNd0L0n8RWBRAPrWYHj"
@@ -6471,7 +6515,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 240405,
       "name": "WALTER WHITE",
       "url": "https://open.spotify.com/track/40cvbS9VhRyV9Uqg5MQAKw"

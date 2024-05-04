@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 175878,
+  "2024-05-04": 175905,
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: BERWYN",
+  "description": "No tags, no labels - just free form. Cover: Lancey Foux",
   "name": "Free Form",
   "tracks": [
     {
@@ -683,6 +683,24 @@
       "duration_ms": 213232,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/74HnNDZkxh6kEFgksmqOCD"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Reimagined)",
+        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Backwards - Reimagined",
+      "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
     },
     {
       "album": {
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153725,
       "name": "Different",
       "url": "https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
@@ -2397,6 +2415,24 @@
       "duration_ms": 130666,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/2E0yy9AslNvyvhBuF7sWqB"
+    },
+    {
+      "album": {
+        "name": "Gotta Get U",
+        "url": "https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Gotta Get U",
+      "url": "https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34"
     },
     {
       "album": {
@@ -3269,7 +3305,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181200,
       "name": "Leon the Professional",
       "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
@@ -4807,7 +4843,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171133,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
@@ -5048,6 +5084,24 @@
     },
     {
       "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
+    },
+    {
+      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -5115,7 +5169,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165067,
       "name": "Right Hand",
       "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
@@ -5225,6 +5279,24 @@
       "duration_ms": 405049,
       "name": "Rule of Two",
       "url": "https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN"
+    },
+    {
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "run!",
+      "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
     },
     {
       "album": {
@@ -5671,6 +5743,24 @@
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+    },
+    {
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225168,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Barry Can't Swim.
 
-2,812 songs - 6 day 19 hr 13 min
+2,813 songs - 6 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2616,6 +2616,7 @@
 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 | 2023-06-23 | 2023-07-22 |
 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 | 2023-11-10 | 2024-02-17 |
 | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4) | 3:14 | 2023-03-31 | 2023-05-06 |
+| [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-03 |  |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-05-08 | 2021-07-24 |
 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 | 2023-07-28 | 2023-09-16 |
 | [Wake And Return](https://open.spotify.com/track/7F5DPhJXA919ebFimV63Rd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Wake And Return](https://open.spotify.com/album/2JYiEZc9EPV06sM0IdlIuZ) | 3:02 | 2022-04-15 | 2022-04-29 |

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 81556,
+  "num_followers": 81571,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "O Melhor de Deus",
-        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
-      },
-      "artists": [
-        {
-          "name": "Adriana Aguiar",
-          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
-        }
-      ],
-      "duration_ms": 156343,
-      "name": "O Melhor de Deus",
-      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "No C\u00e9u N\u00e3o Entra Pecado",
         "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 256785,
       "name": "No C\u00e9u N\u00e3o Entra Pecado",
       "url": "https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "O Melhor de Deus",
+        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
+      },
+      "artists": [
+        {
+          "name": "Adriana Aguiar",
+          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
+        }
+      ],
+      "duration_ms": 156343,
+      "name": "O Melhor de Deus",
+      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "N\u00f3s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 255250,
-      "name": "N\u00f3s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Quem Era Eu",
         "url": "https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6"
       },
@@ -287,6 +255,22 @@
       "duration_ms": 186486,
       "name": "Quem Era Eu",
       "url": "https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -307,6 +291,22 @@
       "duration_ms": 194856,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "N\u00f3s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 255250,
+      "name": "N\u00f3s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Tempo de Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 229408,
-      "name": "Tempo de Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
+      "duration_ms": 215357,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -391,38 +391,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 215357,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -435,6 +403,22 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Tempo de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 229408,
+      "name": "Tempo de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -455,22 +439,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Viola e Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
@@ -487,6 +455,38 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "O Meu Clamor, Vol. 2",
         "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 194960,
       "name": "Ovelha Rebelde",
       "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "Sem Mim",
-        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 226469,
-      "name": "Sem Mim",
-      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -559,22 +543,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 239728,
-      "name": "Adorador por Excel\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Volta pra Casa",
         "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 289411,
       "name": "Volta pra Casa",
       "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "Sem Mim",
+        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 226469,
+      "name": "Sem Mim",
+      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Chuva de Poder",
         "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 196000,
       "name": "Chuva de Poder",
       "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2024-01-05 13:32:09",

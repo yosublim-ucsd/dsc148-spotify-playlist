@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 483763,
+  "2024-05-04": 483870,
   "date_first_scraped": "2023-02-25",
   "description": "De beste Nederlandse liedjes. Cover: FLEMMING, Zo\u00eb Tauran & Ronnie Flex",
   "name": "Beste van NL",
@@ -1433,6 +1433,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Fly Like Me",
+        "url": "https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Fly Like Me",
+      "url": "https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX"
     },
     {
       "album": {
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
@@ -4308,6 +4326,28 @@
     },
     {
       "album": {
+        "name": "Voor Je \u2018t Weet",
+        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197204,
+      "name": "Voor Je \u2018t Weet",
+      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
+    },
+    {
+      "album": {
         "name": "Spuug van God",
         "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
       },
@@ -4653,7 +4693,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"

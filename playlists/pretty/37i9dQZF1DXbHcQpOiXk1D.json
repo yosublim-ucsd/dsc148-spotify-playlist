@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 311004,
+  "num_followers": 311034,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 431293,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -379,8 +379,8 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Turquoise Galaxy",
-      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -571,8 +571,8 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "End Of Innocence",
-        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "End Of Innocence",
-      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "End Of Innocence",
+        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "End Of Innocence",
+      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Chasing Days (Sam Redmore Remix)",
         "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 322812,
       "name": "Chasing Days - Sam Redmore Remix",
       "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "duration_ms": 149968,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
         "name": "Mother Tongue",
         "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 204217,
       "name": "Mother Tongue",
       "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1191,18 +1223,18 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "angel numbers",
-        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
       },
       "artists": [
         {
-          "name": "MaZz",
-          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 149968,
-      "name": "angel numbers",
-      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1223,22 +1255,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Hide To Seek",
-        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 286890,
-      "name": "Hide To Seek",
-      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Honest Mistake",
         "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 227177,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Sweet Nirvana",
         "url": "https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0"
       },
@@ -1343,34 +1327,18 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Unlikely",
-        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
       "artists": [
         {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 167903,
-      "name": "Unlikely",
-      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
-        "name": "Epilectric",
-        "url": "https://open.spotify.com/album/7GTH6EnsEwhgwgVSn3MupB"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Epilectric",
-      "url": "https://open.spotify.com/track/488UKsrIC3lBvZdjzTQExW"
+      "duration_ms": 277026,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1391,18 +1359,62 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Empty Flower",
-        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
+        "name": "Unlikely",
+        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
       },
       "artists": [
         {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
         }
       ],
-      "duration_ms": 233122,
-      "name": "Empty Flower",
-      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
+      "duration_ms": 167903,
+      "name": "Unlikely",
+      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Cheap Cigars",
+        "url": "https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+        },
+        {
+          "name": "illiterate",
+          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
+        },
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Cheap Cigars",
+      "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Epilectric",
+        "url": "https://open.spotify.com/album/7GTH6EnsEwhgwgVSn3MupB"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Epilectric",
+      "url": "https://open.spotify.com/track/488UKsrIC3lBvZdjzTQExW"
     }
   ],
   "unique_name": "Jazz UK",

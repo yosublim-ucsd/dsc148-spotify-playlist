@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 83791,
+  "2024-05-04": 83888,
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny, Iyanya, Ziibeats, Zaba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Diamond Platnumz",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2782,6 +2782,32 @@
     },
     {
       "album": {
+        "name": "Komasava (Comment \u00c7a Va)",
+        "url": "https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Komasava (Comment \u00c7a Va)",
+      "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4CT3hQlman2OTpgiJMokQf"
       },
@@ -4787,6 +4813,28 @@
       "duration_ms": 248321,
       "name": "Nibebe",
       "url": "https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn"
+    },
+    {
+      "album": {
+        "name": "Nibusu (feat. Yammi)",
+        "url": "https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217134,
+      "name": "Nibusu (feat. Yammi)",
+      "url": "https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS"
     },
     {
       "album": {
@@ -7129,7 +7177,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 183719,
       "name": "Uridhike",
       "url": "https://open.spotify.com/track/7cc2RrsWpynqV1fYTZw02F"
@@ -7789,7 +7837,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205861,
       "name": "Yalaiti (feat. Sabah Salum)",
       "url": "https://open.spotify.com/track/1njIXeYvGPfkbyW9OXUCQE"

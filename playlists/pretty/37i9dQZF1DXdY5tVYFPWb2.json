@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 161456,
+  "num_followers": 161499,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "Heaven Beach",
-        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
+        "name": "\u7425\u73c0\u8272\u306e\u8857\u3001\u4e0a\u6d77\u87f9\u306e\u671d",
+        "url": "https://open.spotify.com/album/5YQJ6lpTgJQI77JfnqEWSK"
       },
       "artists": [
         {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Fly By Day",
-      "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
+      "duration_ms": 317066,
+      "name": "\u7425\u73c0\u8272\u306e\u8857\u3001\u4e0a\u6d77\u87f9\u306e\u671d",
+      "url": "https://open.spotify.com/track/2A0zCiphI5e6Vxat20qyEv"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "\u7425\u73c0\u8272\u306e\u8857\u3001\u4e0a\u6d77\u87f9\u306e\u671d",
-        "url": "https://open.spotify.com/album/5YQJ6lpTgJQI77JfnqEWSK"
+        "name": "Heaven Beach",
+        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
       },
       "artists": [
         {
-          "name": "Quruli",
-          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 317066,
-      "name": "\u7425\u73c0\u8272\u306e\u8857\u3001\u4e0a\u6d77\u87f9\u306e\u671d",
-      "url": "https://open.spotify.com/track/2A0zCiphI5e6Vxat20qyEv"
+      "duration_ms": 273866,
+      "name": "Fly By Day",
+      "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "Black Humor",
-        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "MOON NIGHT",
-      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
+        "name": "Black Humor",
+        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "MOON NIGHT",
+      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "\u30a2\u30c0\u30d7\u30c8",
         "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 259146,
       "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
       "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "PARAISO",
         "url": "https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "Rainy Day",
         "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 223083,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 261176,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "Pacific Line",
         "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
@@ -1419,22 +1403,6 @@
       "duration_ms": 251922,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1459,8 +1427,24 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
       },
       "artists": [
         {
@@ -1468,9 +1452,25 @@
           "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 247941,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
+      "duration_ms": 261176,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
+        "name": "Time is Over",
+        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Time is Over",
+      "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
-        "name": "Time is Over",
-        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Time is Over",
-      "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 275912,
-      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+      "duration_ms": 198586,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
     },
     {
       "added_at": "2024-05-01 07:32:27",
@@ -1671,22 +1667,6 @@
     {
       "added_at": "2024-05-01 07:32:27",
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
-    },
-    {
-      "added_at": "2024-05-01 07:32:27",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+    },
+    {
+      "added_at": "2024-05-01 07:32:27",
+      "album": {
+        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "duration_ms": 275912,
+      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

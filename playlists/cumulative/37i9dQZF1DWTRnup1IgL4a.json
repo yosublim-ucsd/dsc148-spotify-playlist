@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Amanda's dream",
+        "url": "https://open.spotify.com/album/4zoOiGW5M19UdcoBKJ9cIq"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84750,
+      "name": "Amanda's dream",
+      "url": "https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk"
+    },
+    {
+      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 154500,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8"
+    },
+    {
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136171,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p"
     },
     {
       "album": {
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 297120,
       "name": "Lori Anne",
       "url": "https://open.spotify.com/track/6p7AuNr7OLvWBIvfpFUMWN"
@@ -3415,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8"
+      },
+      "artists": [
+        {
+          "name": "Rua Do Sol",
+          "url": "https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy"
+    },
+    {
+      "album": {
         "name": "Struck By Clouds",
         "url": "https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm"
       },
@@ -3592,6 +3646,24 @@
       "duration_ms": 176795,
       "name": "The Night Becomes You",
       "url": "https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE"
+    },
+    {
+      "album": {
+        "name": "The Space Between Us",
+        "url": "https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131582,
+      "name": "The Space Between Us",
+      "url": "https://open.spotify.com/track/7ltsUby2slylSm4sourcaO"
     },
     {
       "album": {
@@ -3793,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Transcriptions",
+        "url": "https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170768,
+      "name": "Transcriptions",
+      "url": "https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4"
+    },
+    {
+      "album": {
         "name": "Traveling Memories",
         "url": "https://open.spotify.com/album/1QExmNDBcvbcE2LFytL2vp"
       },
@@ -3808,6 +3898,24 @@
       "duration_ms": 141667,
       "name": "Traveling Memories",
       "url": "https://open.spotify.com/track/3LnTONDMXfR3DW2hiWuQy8"
+    },
+    {
+      "album": {
+        "name": "Under the moon",
+        "url": "https://open.spotify.com/album/4D4G7DbuDRMUbrIHvbJJNi"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107872,
+      "name": "Under the moon",
+      "url": "https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C"
     },
     {
       "album": {
@@ -3876,7 +3984,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 135627,
       "name": "Une Nuit",
       "url": "https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd"
@@ -4154,6 +4262,24 @@
       "duration_ms": 155274,
       "name": "Wild at Heart",
       "url": "https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV"
+    },
+    {
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK"
+      },
+      "artists": [
+        {
+          "name": "Benjamins Friend",
+          "url": "https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153125,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA"
     },
     {
       "album": {

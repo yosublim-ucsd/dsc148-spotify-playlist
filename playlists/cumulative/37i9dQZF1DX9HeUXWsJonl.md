@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment\. Cover: Samara
 
-199 songs - 12 hr 9 min
+200 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 | 2023-12-12 |  |
 | [Aal Hit](https://open.spotify.com/track/5bmskSTrIQF9AG3QRNcRs7) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:42 | 2022-04-14 | 2022-09-09 |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2021-12-10 | 2022-03-01 |
+| [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 |  |
 | [Aini Fi Ainik](https://open.spotify.com/track/5uMzLIfazXkkR4Y4vDJDwH) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Aini Fi Ainik](https://open.spotify.com/album/3Sx1Q724f8iVGOZ3jggG5V) | 2:47 | 2021-12-10 | 2022-04-01 |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-05-30 | 2024-04-05 |
 | [Alone](https://open.spotify.com/track/7bGpaDRAfA8dDuH2aykPLq) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [Alone](https://open.spotify.com/album/2d3ukGlwC5Ey777xjYEEXD) | 4:04 | 2023-08-19 |  |
@@ -149,7 +150,7 @@
 | [Rabi M3ak](https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Rabi M3ak](https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN) | 3:36 | 2021-12-30 | 2022-05-27 |
 | [Raby Yostor](https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Raby Yostor](https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs) | 3:04 | 2024-02-12 |  |
 | [Rmit Wraya](https://open.spotify.com/track/7I44yj3TRUGHQzkGtwzrXy) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Rmit Wraya](https://open.spotify.com/album/21owqa83UEhxqO6apgOZsc) | 3:04 | 2023-08-19 |  |
-| [S3ib](https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [S3ib](https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI) | 3:39 | 2023-06-27 |  |
+| [S3ib](https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [S3ib](https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI) | 3:39 | 2023-06-27 | 2024-05-04 |
 | [Sabeba](https://open.spotify.com/track/6RTBd80nLFY1Nft7mJpFKx) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Sabeba](https://open.spotify.com/album/4EiDJaH5SidMjAfhnErZse) | 3:14 | 2021-12-10 | 2022-02-04 |
 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 | 2023-12-26 |  |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2023-07-24 |  |

@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a>
 
-871 songs - 1 day 16 hr 53 min
+872 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2023-10-25 | 2023-11-01 |
 | [abdicate](https://open.spotify.com/track/7Hg9scl4oU2E49qO9925Yh) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [GOD SAVE THE KING](https://open.spotify.com/album/2GHfz7mLE2T9KcZvMAhOE6) | 4:23 | 2023-10-06 | 2024-02-03 |
 | [ACT](https://open.spotify.com/track/53digzlDS79znypcRuFXBo) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy) | [L O W B L O W](https://open.spotify.com/album/6HxhnZSjU62P9B0OzZXh1v) | 2:27 | 2023-08-04 | 2023-10-21 |
-| [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-01-12 |  |
+| [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-01-12 | 2024-05-04 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-12 | 2024-03-16 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 |  |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 | 2024-03-16 |
 | [act iii: on god? \(she like\) \(feat\. Kanye West\) \- remix](https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 3:09 | 2024-05-03 |  |
 | [act iv: fckin u \(18+\)](https://open.spotify.com/track/1DUsjpq8Vp4NqfqQfJchYG) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:09 | 2024-05-03 |  |
+| [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 | 2024-05-03 |  |
 | [adele](https://open.spotify.com/track/1LL9I5SJhI1aG0pjkFWzYV) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [adele](https://open.spotify.com/album/0uFkMO7GCvTzjSowepuISS) | 1:10 | 2023-12-07 | 2023-12-16 |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-03-23 |
 | [After The Storm](https://open.spotify.com/track/5IIt1fRbAFaasNdejO2TI2) | [Wiley from Atlanta](https://open.spotify.com/artist/6mkvJ6XHWVtPer8k0B0nTn) | [Killing Time Before The Flood](https://open.spotify.com/album/05hs3AI61sZUXmnpO5oQ17) | 3:06 | 2023-10-25 | 2023-11-01 |

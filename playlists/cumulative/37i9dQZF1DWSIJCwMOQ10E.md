@@ -2,9 +2,9 @@
 
 ### [Rumba Colombiana](https://open.spotify.com/playlist/37i9dQZF1DWSIJCwMOQ10E)
 
-> No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Gusi
+> No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-201 songs - 13 hr 42 min
+203 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Como duele el frio](https://open.spotify.com/track/4y5fhagJbgjeMo7nWh34ee) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 4:57 | 2022-08-12 | 2022-11-13 |
 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 | 2021-10-01 | 2022-07-29 |
 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 | 2022-07-01 | 2024-04-19 |
+| [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-03 |  |
 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 | 2021-10-01 |  |
 | [Cuando Lleguen los Millones](https://open.spotify.com/track/2HhA76gw56fjazNpE5zSTV) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/3hj0estissCID5Tf7UZrcv) | 4:37 | 2021-10-01 | 2022-07-29 |
 | [Cuando lleguen los millones](https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn) | 4:37 | 2022-07-01 | 2023-02-15 |
@@ -74,7 +75,7 @@
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2022-07-01 | 2023-02-15 |
 | [En Silencio Te Amaré](https://open.spotify.com/track/36KCJItBLUvlUDaK9GtJU5) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [Grandes Éxitos](https://open.spotify.com/album/05ljXch0uoJQCLjZCuJAaU) | 3:58 | 2021-10-01 | 2022-07-29 |
 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 | 2024-02-06 |  |
-| [Espacio](https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Espacio](https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR) | 3:23 | 2023-09-18 |  |
+| [Espacio](https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Espacio](https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR) | 3:23 | 2023-09-18 | 2024-05-04 |
 | [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 | 2021-10-01 | 2023-02-15 |
 | [Fantasma](https://open.spotify.com/track/4Rxy0TpRlxtvIHq3GJxnQD) | [Son De Cali](https://open.spotify.com/artist/0QvQ1gLQme0zCO6riv6X2f) | [Cambiando La Historia](https://open.spotify.com/album/2NPMDmjo3g4qH9nnwN7e37) | 4:04 | 2023-10-27 | 2023-11-02 |
 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 | 2023-10-27 | 2023-11-02 |
@@ -175,13 +176,14 @@
 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 | 2022-07-01 | 2024-04-19 |
 | [Tarde Lo Conocí](https://open.spotify.com/track/767qyH3gFlNBT8AQux4zBy) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Tarde Lo Conocí](https://open.spotify.com/album/3zd3u5eYwK7xWfythmuw3b) | 4:54 | 2021-10-01 | 2022-07-29 |
 | [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 | 2022-07-01 | 2024-04-19 |
-| [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 | 2021-10-01 | 2022-07-29 |
+| [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 | 2021-10-01 |  |
 | [Travesuras](https://open.spotify.com/track/1obLCWFaKpz2Q0G751CE3J) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Leones Del Reggaeton](https://open.spotify.com/album/2rc29xg5aPWzW7aphIeNPa) | 3:17 | 2022-08-12 | 2022-11-13 |
 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 | 2021-10-01 |  |
 | [Tu Propia Muerte](https://open.spotify.com/track/5Y3rLJPond4Mpls4sfYPWK) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:08 | 2021-10-01 | 2022-07-02 |
 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 | 2021-10-01 |  |
-| [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 | 2023-10-20 |  |
+| [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 | 2023-10-20 | 2024-05-04 |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2021-10-01 |  |
+| [Tú o Yo](https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Tú o Yo](https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2) | 2:43 | 2024-05-03 |  |
 | [Un Vestido Bonito](https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [5 Años Aferrados al Sabor](https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN) | 5:34 | 2021-10-01 |  |
 | [Una Aventura](https://open.spotify.com/track/4WTmcNrXNwJ3Mi0VJhBt2f) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Lo Que Diga el Corazón](https://open.spotify.com/album/68Z5dYqgZXnsNpVgDtiv7f) | 5:43 | 2021-10-01 | 2023-02-15 |
 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 | 2021-10-01 | 2022-07-29 |
@@ -208,6 +210,6 @@
 | [Ábrete](https://open.spotify.com/track/0qo0B5uey4DXAn2UXNdyX3) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:31 | 2022-08-12 | 2022-11-13 |
 | [Ábrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 | 2022-07-01 | 2023-05-30 |
 | [Ábrete](https://open.spotify.com/track/0sIR0xAxoiRqkCfD9agUa9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/55NWTq5kY4ZYxei2Bf1Ocf) | 4:31 | 2021-10-01 | 2022-07-29 |
-| [Échate Pa' Acá](https://open.spotify.com/track/1AfD9YJAUxAnmM4vi8pawM) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Échate Pa' Acá](https://open.spotify.com/album/22JFFJCZ7or48c2nUI49ti) | 4:03 | 2024-02-06 |  |
+| [Échate Pa' Acá](https://open.spotify.com/track/1AfD9YJAUxAnmM4vi8pawM) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Échate Pa' Acá](https://open.spotify.com/album/22JFFJCZ7or48c2nUI49ti) | 4:03 | 2024-02-06 | 2024-05-04 |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

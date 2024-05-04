@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 992,
+  "num_followers": 994,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACEbb0jAmvefIGfn3KlIJc1",
+  "snapshot_id": "ZjLXgAAAAAC3nlFOm9C+yzmWSJHe0RXa",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Things I Do For Love",
-        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "The Things I Do For Love",
-      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Things I Do For Love",
+        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "The Things I Do For Love",
+      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
       },
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORAL HEX (spell on you)",
         "url": "https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 194545,
       "name": "ORAL HEX (spell on you)",
       "url": "https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
     },
     {
       "added_at": null,

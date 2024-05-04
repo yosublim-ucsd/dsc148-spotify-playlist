@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: FRÈNESYA, cura
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,095 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,096 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 8 | [Paura di Me](https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [Paura di Me](https://open.spotify.com/album/7nBA3K8fb5ykG945MZfiuQ) | 2:32 |
 | 9 | [bolla](https://open.spotify.com/track/2MAGxD6wXOrX3iGS84oi6s) | [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [bolla](https://open.spotify.com/album/00MaBe7OPCqetJRGjz8B4O) | 2:58 |
 | 10 | [CROCEROSSINA](https://open.spotify.com/track/6HeS9AFIbqunx80FXp66dP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [CROCEROSSINA](https://open.spotify.com/album/7yDdNGU0y0IlHDKnjLX2Cd) | 2:18 |
-| 11 | [CORE 'N GALERA](https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4HJvl66AdRgKxV55ZMiLk1) | [CORE 'N GALERA](https://open.spotify.com/album/6s1EfNVu3QentGFZizdbVR) | 2:28 |
+| 11 | [CORE 'N GALERA](https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [CORE 'N GALERA](https://open.spotify.com/album/6s1EfNVu3QentGFZizdbVR) | 2:28 |
 | 12 | [Disordine \- Maggio](https://open.spotify.com/track/1roGPMRv5vEnMFcsRSNR2r) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [BUIO](https://open.spotify.com/album/03X2HS3tppcArxJrQGBatI) | 3:58 |
 | 13 | [Annegare](https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Annegare](https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT) | 2:32 |
 | 14 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |

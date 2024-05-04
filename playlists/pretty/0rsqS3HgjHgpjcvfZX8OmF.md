@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: St\. Vincent
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,951 likes - 80 songs - 4 hr 42 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,948 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

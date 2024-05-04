@@ -12303,6 +12303,28 @@
     },
     {
       "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "SHOFAR",
+      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
+    },
+    {
+      "album": {
         "name": "Shooter",
         "url": "https://open.spotify.com/album/53yWRhevcbGrUzLNgxS88J"
       },

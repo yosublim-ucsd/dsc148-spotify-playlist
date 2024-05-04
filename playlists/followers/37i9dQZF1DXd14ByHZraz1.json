@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 682182,
+  "2024-05-04": 761314,
   "date_first_scraped": "2022-01-18",
   "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Rooftime",
   "name": "mint brasil",
@@ -685,6 +685,28 @@
       "duration_ms": 226341,
       "name": "Cayana",
       "url": "https://open.spotify.com/track/3EwLL1h2SGl86gmMa6t70P"
+    },
+    {
+      "album": {
+        "name": "Champagne Bottle",
+        "url": "https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "Mazzocchi",
+          "url": "https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118110,
+      "name": "Champagne Bottle",
+      "url": "https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2"
     },
     {
       "album": {
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155524,
       "name": "Looking At You (feat. Kruizz)",
       "url": "https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9"

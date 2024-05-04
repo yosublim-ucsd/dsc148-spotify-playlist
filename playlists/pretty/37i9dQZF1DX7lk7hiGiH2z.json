@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39663,
+  "num_followers": 39699,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,22 @@
     {
       "added_at": "2024-04-26 07:50:00",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
+        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
+        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
       "artists": [
         {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+          "name": "Jasmin Wagner",
+          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
+      "duration_ms": 148560,
+      "name": "Vogelhochzeit",
+      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
     },
     {
       "added_at": "2024-04-26 07:50:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-04-26 07:50:00",
       "album": {
-        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
-        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
       "artists": [
         {
-          "name": "Jasmin Wagner",
-          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 148560,
-      "name": "Vogelhochzeit",
-      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2024-04-26 07:50:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2024-04-26 07:50:00",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
       },
       "artists": [
         {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
     },
     {
       "added_at": "2024-04-26 07:50:00",
@@ -599,18 +595,22 @@
     {
       "added_at": "2024-04-26 07:50:00",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2024-04-26 07:50:00",

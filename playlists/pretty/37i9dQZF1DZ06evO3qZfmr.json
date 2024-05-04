@@ -1,12 +1,12 @@
 {
-  "description": "This is Megan Moroney. De viktigste sporene samlet i \u00e9n spilleliste.",
-  "num_followers": 8850,
+  "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
+  "num_followers": 8899,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAHBKn8ubVGk8u7f1Eok+Hi",
+  "snapshot_id": "ZjLXgAAAAAAxBYQujfKfCGfwWKzIFItT",
   "tracks": [
     {
       "added_at": null,
@@ -131,38 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 222139,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 188931,
-      "name": "Sleep on My Side",
-      "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
@@ -183,6 +151,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 188931,
+      "name": "Sleep on My Side",
+      "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 222139,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Are You Listening To?",
         "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
       },
@@ -195,6 +195,38 @@
       "duration_ms": 251479,
       "name": "What Are You Listening To?",
       "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Reasons to Stay",
+      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 165099,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
     },
     {
       "added_at": null,
@@ -224,25 +256,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 165099,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Reasons to Stay",
-      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
+      "duration_ms": 161042,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
     },
     {
       "added_at": null,
@@ -272,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 161042,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
     },
     {
       "added_at": null,
@@ -291,22 +307,6 @@
       "duration_ms": 212301,
       "name": "He Made Me Do It",
       "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 153296,
-      "name": "Traitor Joe",
-      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
     },
     {
       "added_at": null,

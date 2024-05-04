@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 12287,
+  "2024-05-04": 12292,
   "date_first_scraped": "2022-05-26",
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
   "name": "This Is Harold Melvin & The Blue Notes",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 133093,
       "name": "A Good Woman",
       "url": "https://open.spotify.com/track/0bFWedvdt4Ap92fkimGI5r"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 249760,
       "name": "Could It Be I'm Falling in Love (Rerecorded)",
       "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 322146,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 326333,
       "name": "Introduction / The Love I Lost - Live",
       "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178218,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 263360,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213173,
       "name": "What Can A Man Do",
       "url": "https://open.spotify.com/track/3CHoatkZzRYeCmrelOa1SG"

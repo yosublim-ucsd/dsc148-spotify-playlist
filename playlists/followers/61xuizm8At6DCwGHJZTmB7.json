@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 117085,
+  "2024-05-04": 117078,
   "date_first_scraped": "2022-03-01",
   "description": "Worship 2024 | <a href=\"https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA\">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 (Live)'! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
   "name": "Worship 2024",
@@ -1399,6 +1399,28 @@
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+    },
+    {
+      "album": {
+        "name": "Chapel Sessions",
+        "url": "https://open.spotify.com/album/48TX3EHXrOPBEV12dtOcOD"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "David Mwonga",
+          "url": "https://open.spotify.com/artist/30KkTXsoA1Jd9opfLIiXk1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347730,
+      "name": "Christ Is Enough - Chapel Sessions",
+      "url": "https://open.spotify.com/track/78gqctl22FWZYSS0TzbQGv"
     },
     {
       "album": {
@@ -6319,6 +6341,28 @@
       "duration_ms": 271145,
       "name": "Our God Will Go Before Us - Live",
       "url": "https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez"
+    },
+    {
+      "album": {
+        "name": "Outnumbered (Live)",
+        "url": "https://open.spotify.com/album/5hgMAQ7rrWZBFRbUddgOfu"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Outnumbered - Live",
+      "url": "https://open.spotify.com/track/2Dt3MmWoQKytfShbkCjIYw"
     },
     {
       "album": {

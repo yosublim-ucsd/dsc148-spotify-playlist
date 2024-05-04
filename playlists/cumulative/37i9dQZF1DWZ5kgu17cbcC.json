@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "We Were the Lucky Ones (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3UkIJ7q261RbXHhYztS15H"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "We Were the Lucky Ones Theme",
+      "url": "https://open.spotify.com/track/4aP4MOQENkyifr8Ffn9LHX"
+    },
+    {
+      "album": {
         "name": "We Were the Lucky Ones Theme (From \"We Were the Lucky Ones\")",
         "url": "https://open.spotify.com/album/5rGJ5VIUpHLa9nNYrjhN86"
       },

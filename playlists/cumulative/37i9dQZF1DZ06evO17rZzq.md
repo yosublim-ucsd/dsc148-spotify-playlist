@@ -2,7 +2,7 @@
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. The essential tracks, all in one playlist.
+> This Is Kaliii\. Los temas esenciales, todos en una lista.
 
 72 songs - 4 hr 28 min
 
@@ -39,7 +39,7 @@
 | [Formentera \- Original Mix](https://open.spotify.com/track/1afeg0sP5XBOXAWKWbFXkQ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:04 | 2023-12-29 | 2024-01-20 |
 | [Gelatin Coated \- Original Mix](https://open.spotify.com/track/2UyDM4ZkCAThoYz6Uxz1yW) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Groovy Psychedelic Downtempo & Chill out V7](https://open.spotify.com/album/3sw4MuCG3Uc2NYQBYZEn7q) | 9:26 | 2024-03-19 | 2024-03-22 |
 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 | 2023-06-07 |  |
-| [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 | 2023-09-09 |  |
+| [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 | 2023-09-09 | 2024-05-04 |
 | [Junior Bunny](https://open.spotify.com/track/3AWSj0PitVg617wGbqpW70) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 4:19 | 2023-12-13 | 2024-03-14 |
 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 | 2023-07-21 |  |
 | [K Toven \- DJ 809 Mix](https://open.spotify.com/track/2Wn16B1SLrmY4JLMBshnVg) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ 809](https://open.spotify.com/artist/5v1Hvm0FdJWq8gRvuA2uke) | [K Toven \(DJ 809 Mix\)](https://open.spotify.com/album/5R5enf84wSod7ay2689u6E) | 2:11 | 2023-08-25 | 2023-09-26 |
@@ -54,7 +54,7 @@
 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 | 2023-06-07 |  |
 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 | 2023-12-13 |  |
 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 | 2023-06-07 |  |
-| [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 | 2023-06-07 | 2024-05-03 |
+| [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 | 2023-06-07 |  |
 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 | 2023-06-07 |  |
 | [Rockers Step Like Kelly](https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 2:58 | 2023-12-15 |  |
 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 | 2024-02-24 |  |

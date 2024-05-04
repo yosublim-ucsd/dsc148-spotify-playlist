@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The world series of Ska. Cover: Mad Caddies",
+  "description": "The world series of Ska. Cover: The Interrupters ",
   "name": "Ska Around The Globe",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 262145,
       "name": "Als De Wind",
       "url": "https://open.spotify.com/track/7zjnfLQ65go4UYF5ZgtEXt"
+    },
+    {
+      "album": {
+        "name": "Am Meer",
+        "url": "https://open.spotify.com/album/6qFoQeonsobbIMXLQTyBW2"
+      },
+      "artists": [
+        {
+          "name": "Rantanplan",
+          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207930,
+      "name": "Am Meer",
+      "url": "https://open.spotify.com/track/2cbQrOhlBY2HrYIwbRqpNw"
     },
     {
       "album": {
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
@@ -2476,6 +2494,24 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "album": {
@@ -3444,7 +3480,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 225397,
       "name": "Gotta Keep It Going",
       "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
@@ -3898,6 +3934,24 @@
       "duration_ms": 175960,
       "name": "Il cassetto dei sogni",
       "url": "https://open.spotify.com/track/4u4Nt8PiEI8RNSpzs3aEgl"
+    },
+    {
+      "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "album": {
@@ -6161,6 +6215,24 @@
     },
     {
       "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -6458,7 +6530,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173800,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8"
@@ -7061,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "Que te vaya bien.",
+        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
+      },
+      "artists": [
+        {
+          "name": "Las Mambas Mx",
+          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279213,
+      "name": "Que te vaya bien.",
+      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
+    },
+    {
+      "album": {
         "name": "What's the Rush?",
         "url": "https://open.spotify.com/album/6cnUxPhagWlCrCTKacyJDD"
       },
@@ -7406,7 +7496,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208866,
       "name": "Rudie Can't Fail - Remastered",
       "url": "https://open.spotify.com/track/2otV4r71lH2kMmniSmKrmG"
@@ -7840,6 +7930,24 @@
       "duration_ms": 184008,
       "name": "Schaukeln",
       "url": "https://open.spotify.com/track/0xhqgHH7ye5xSN1p0KwTUF"
+    },
+    {
+      "album": {
+        "name": "Menek\u00fcl\u00e9s (Early SKA Tunes from 1987-1990)",
+        "url": "https://open.spotify.com/album/7Cx5oAgNxl90Uzbw1UkspC"
+      },
+      "artists": [
+        {
+          "name": "Ladanybene 27",
+          "url": "https://open.spotify.com/artist/4bOjxUiZoBkVNSZuLkDmvB"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Schneider \u00far",
+      "url": "https://open.spotify.com/track/1iWLRwX1tmhRBEaeTLlzkg"
     },
     {
       "album": {
@@ -9526,7 +9634,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 117418,
       "name": "That's What She Said",
       "url": "https://open.spotify.com/track/1kbu8gLL0IvJmXIMymmwEE"
@@ -9724,7 +9832,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 165960,
       "name": "The Rascal King",
       "url": "https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg"

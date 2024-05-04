@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 121289,
+  "2024-05-04": 121340,
   "date_first_scraped": "2022-05-12",
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
   "name": "Arsenico ",
@@ -221,6 +221,24 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164177,
+      "name": "Ancora Qua",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
     },
     {
       "album": {
@@ -1467,6 +1485,24 @@
       "duration_ms": 164847,
       "name": "HONEY (feat. Lazza & Capo Plaza)",
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
+    },
+    {
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
     },
     {
       "album": {

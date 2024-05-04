@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1GVenmuuAtusi17LY6FvgI">Skilla Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,036 likes - 99 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,753,033 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 23 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 |
 | 24 | [Come Here \(feat\. Hunxho\)](https://open.spotify.com/track/78mTFHB8u7NvNWFWfk7uqY) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Not Ya Girl: Act 1](https://open.spotify.com/album/7Ml90LQW2HTBOz4GI6Sabp) | 2:54 |
 | 25 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
-| 26 | [SHININ](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [SHININ](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
+| 26 | [Shinin](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Shinin](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
 | 27 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
 | 28 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 |
 | 29 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 |
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 97 | [HIT DIFF \(feat\. KARRAHBOOO, Camo!\)](https://open.spotify.com/track/46ZDsr3xj7wKCokimrhYOc) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:27 |
 | 98 | [Wop Wop](https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Wop Wop](https://open.spotify.com/album/4ZEblJvTAE6sWq8fDnqeEZ) | 3:43 |
 | 99 | [Trenches](https://open.spotify.com/track/4NG6oAo2311NJ2Kva95adA) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Trenches](https://open.spotify.com/album/3L1xj7PMZrMrIYjsW4fbLx) | 2:22 |
+| 100 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 
-Snapshot ID: `ZjRhQAAAAAAObjhfqfSoaxGx5XUmhHqI`
+Snapshot ID: `ZjU0YAAAAADO2AYo93moHUymc/9r1YsM`

@@ -13497,6 +13497,24 @@
     },
     {
       "album": {
+        "name": "Dripping Trees",
+        "url": "https://open.spotify.com/album/69mFUHSOWZdJ6UKNZ144yb"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Dripping Trees",
+      "url": "https://open.spotify.com/track/2XK7gafDi1XsRLgCbMX97z"
+    },
+    {
+      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0U9GES7moSZwF5F5fiNy3E"
       },
@@ -32254,10 +32272,6 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ritz Reynolds",
-          "url": "https://open.spotify.com/artist/4RZOYMtyz97jaU2x9SICqg"
         }
       ],
       "date_added": "2024-05-03",

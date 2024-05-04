@@ -4777,6 +4777,52 @@
     },
     {
       "album": {
+        "name": "FTL CYPHER",
+        "url": "https://open.spotify.com/album/3x3ZIfmQEVTxtdbdH4RgHd"
+      },
+      "artists": [
+        {
+          "name": "NashFTL",
+          "url": "https://open.spotify.com/artist/6UutUxn65Fq3bnYgUpT8qY"
+        },
+        {
+          "name": "Sandrahhh",
+          "url": "https://open.spotify.com/artist/6afcFgPYOGzPw1XLH6Heji"
+        },
+        {
+          "name": "Oriiginelle",
+          "url": "https://open.spotify.com/artist/2P38MedXibOEtEffOWUkZB"
+        },
+        {
+          "name": "Sauwcy",
+          "url": "https://open.spotify.com/artist/5l6YmGmyUQPVN1zT2vd3sN"
+        },
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "Kgaldrogo",
+          "url": "https://open.spotify.com/artist/3i64O8axrytIB5YkJGLwWa"
+        },
+        {
+          "name": "Tabloyd",
+          "url": "https://open.spotify.com/artist/2AuKjPzEwbYw0d6AoQexhB"
+        },
+        {
+          "name": "Seru the Ellipsis",
+          "url": "https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "FTL CYPHER",
+      "url": "https://open.spotify.com/track/4YMcQJEYTY7tNjH3DcKEs1"
+    },
+    {
+      "album": {
         "name": "FUBU",
         "url": "https://open.spotify.com/album/3uA2FoSILtFJwkGd7hmeE0"
       },
@@ -8394,6 +8440,24 @@
       "duration_ms": 298000,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/7Aoh89k0KgYV8oULYTBzyb"
+    },
+    {
+      "album": {
+        "name": "Mbali Yam",
+        "url": "https://open.spotify.com/album/3bJ5X2vg7ndaYTHtEI0HBE"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302200,
+      "name": "Mbali Yam",
+      "url": "https://open.spotify.com/track/5fWiKYLQw6EOC6TufyBNkU"
     },
     {
       "album": {

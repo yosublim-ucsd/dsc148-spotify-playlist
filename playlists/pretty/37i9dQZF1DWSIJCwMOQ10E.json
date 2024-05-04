@@ -1,13 +1,33 @@
 {
-  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Gusi",
-  "num_followers": 94478,
+  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
+  "num_followers": 94474,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZcKYmgAAAAC2UAby94MjV1yhZOJPrg0M",
+  "snapshot_id": "ZjRwBAAAAAA+40BNktkWpBxErDhLNZ25",
   "tracks": [
+    {
+      "added_at": "2024-05-03 05:03:00",
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Con Dinero y Sin Dinero",
+      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
@@ -29,6 +49,26 @@
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
+      "added_at": "2024-05-03 05:03:00",
+      "album": {
+        "name": "T\u00fa o Yo",
+        "url": "https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 163188,
+      "name": "T\u00fa o Yo",
+      "url": "https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz"
+    },
+    {
       "added_at": "2024-02-06 20:37:45",
       "album": {
         "name": "3.0",
@@ -47,18 +87,22 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Mi Fiesta Favorita, Vol. 1",
-        "url": "https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI"
+        "name": "VIVES",
+        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 224444,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk"
+      "duration_ms": 194742,
+      "name": "Robarte un Beso",
+      "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -79,30 +123,6 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "Eso es mondar",
-        "url": "https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "DJ Marimonda",
-          "url": "https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl"
-        },
-        {
-          "name": "El Elvis Cienaguero",
-          "url": "https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA"
-        }
-      ],
-      "duration_ms": 233980,
-      "name": "Eso es mondar",
-      "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -155,22 +175,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -191,26 +195,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Chiquita",
-        "url": "https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Benji Cordero",
-          "url": "https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3"
-        }
-      ],
-      "duration_ms": 148320,
-      "name": "Chiquita",
-      "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
@@ -223,26 +207,6 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "D\u00c9JALO EN VISTO",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00c9JALO EN VISTO",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -267,26 +231,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "El Pich\u00f3n",
-        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "El Pich\u00f3n",
-      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
       },
@@ -299,26 +243,6 @@
       "duration_ms": 254933,
       "name": "La Agarro Bajando",
       "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "VIVES",
-        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 194742,
-      "name": "Robarte un Beso",
-      "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -423,6 +347,22 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
       },
@@ -511,6 +451,26 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
+        "name": "El Pich\u00f3n",
+        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "El Pich\u00f3n",
+      "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -527,6 +487,26 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "D\u00c9JALO EN VISTO",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00c9JALO EN VISTO",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -671,30 +651,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Espacio",
-        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
-      },
-      "artists": [
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 203590,
-      "name": "Espacio",
-      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
       },
@@ -707,22 +663,6 @@
       "duration_ms": 279866,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
-        "name": "Vallenato Apretao",
-        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 158120,
-      "name": "Vallenato Apretao",
-      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -743,22 +683,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Tumbao",
-        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 159590,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -771,6 +695,66 @@
       "duration_ms": 280906,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Benji Cordero",
+          "url": "https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Vallenato Apretao",
+        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "Vallenato Apretao",
+      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Eso es mondar",
+        "url": "https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "DJ Marimonda",
+          "url": "https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl"
+        },
+        {
+          "name": "El Elvis Cienaguero",
+          "url": "https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA"
+        }
+      ],
+      "duration_ms": 233980,
+      "name": "Eso es mondar",
+      "url": "https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -867,30 +851,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Robinson Dami\u00e1n",
-          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
-      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
       },
@@ -911,18 +871,58 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "\u00c9chate Pa' Ac\u00e1",
-        "url": "https://open.spotify.com/album/22JFFJCZ7or48c2nUI49ti"
+        "name": "Mi Fiesta Favorita, Vol. 1",
+        "url": "https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 243555,
-      "name": "\u00c9chate Pa' Ac\u00e1",
-      "url": "https://open.spotify.com/track/1AfD9YJAUxAnmM4vi8pawM"
+      "duration_ms": 224444,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Nicky Jam Hits",
+        "url": "https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+        "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
+      "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     }
   ],
   "unique_name": "Rumba Colombiana",

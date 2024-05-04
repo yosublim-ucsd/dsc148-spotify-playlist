@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 412101,
+  "2024-05-04": 412059,
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Kaitlin Butts",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -545,7 +545,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 257831,
       "name": "Amy's Back In Austin",
       "url": "https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG"
@@ -4710,6 +4710,24 @@
     },
     {
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "album": {
         "name": "Hurt No More",
         "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
       },
@@ -8629,7 +8647,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 246769,
       "name": "Start over Somewhere",
       "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
@@ -9899,6 +9917,24 @@
       "duration_ms": 214252,
       "name": "Tomorrow's Out Of Sight",
       "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
+    },
+    {
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/68Gyl40TuMxbnD78RyMFyK"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288773,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/2iQceHt3nbUcMFMkEaGALw"
     },
     {
       "album": {

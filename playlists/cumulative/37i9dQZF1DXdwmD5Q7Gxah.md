@@ -4,7 +4,7 @@
 
 > songs that linger 😎 ft royel otis
 
-2,761 songs - 6 day 4 hr 44 min
+2,762 songs - 6 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-01-21 | 2022-02-26 |
 | [Abusey Junction](https://open.spotify.com/track/2A6INS0orQsnuoo1ROw3Cx) | [KOKOROKO](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/26SuSJ98UkLzEmEsHhiz2S) | 7:04 | 2021-01-15 | 2021-01-23 |
 | [Achieve](https://open.spotify.com/track/6nxHUthuBDeaojNDs9GFA3) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Achieve](https://open.spotify.com/album/18mnZLbc2XhtkSaMrwGxWf) | 3:19 | 2023-08-11 | 2023-08-26 |
+| [act viii: i hate to be alone](https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:47 | 2024-05-03 |  |
 | [ACTING NORMAL](https://open.spotify.com/track/5Hgo2lILGYTqUhUknOLc60) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ACTING NORMAL](https://open.spotify.com/album/62RygmXoOBnexHbaAcJEvD) | 3:01 | 2020-10-20 | 2020-11-20 |
 | [ACTION \(with ZAZEN BOYS\)](https://open.spotify.com/track/0j1tohMEOzh6xf8qh5NWT9) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [ACTION \(with ZAZEN BOYS\)](https://open.spotify.com/album/5QRUsGmtOn9N1yK7ePtUpE) | 3:35 | 2021-12-16 | 2022-01-08 |
 | [Adam's Song](https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 4:09 | 2021-05-15 | 2021-05-22 |

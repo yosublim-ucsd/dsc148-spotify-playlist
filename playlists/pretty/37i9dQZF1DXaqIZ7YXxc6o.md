@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,303 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,330 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 12 | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/track/3bSmptlKjwEpTEuCKImUEg) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/album/3CCjUqC7qwEAdmGrp0kRGh) | 3:13 |
 | 13 | [World Collapsing](https://open.spotify.com/track/54U3uh0DEnN4FacyBpGbCj) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [World Collapsing](https://open.spotify.com/album/4NIepjlsLLb7reEDqGQhQb) | 4:05 |
 | 14 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 |
-| 15 | [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 15 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 16 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |
 | 17 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 |
 | 18 | [One Milkali \(One Blood\) \[Tseba Remix\]](https://open.spotify.com/track/2VOxhxg0hENNoQ4Oj6ITXS) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [One Milkali \(One Blood\) \[Tseba Remix\]](https://open.spotify.com/album/4ioSKX3AfZhS0VYHaao9OM) | 3:25 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 26 | [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 |
 | 27 | [The Sun](https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [The Sun](https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7) | 3:36 |
 | 28 | [Make It](https://open.spotify.com/track/38u7PnESOyYWRMJw7GWw4t) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5) | [Make It](https://open.spotify.com/album/4mkUhrq4kydC0Wqd3neg9U) | 2:38 |
-| 29 | [Do You Remember](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Do You Remember](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 |
+| 29 | [DO YOU REMEMBER?](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [DO YOU REMEMBER?](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 |
 | 30 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 |
 | 31 | [Lovesome](https://open.spotify.com/track/6563duTX83eTMkc2AGETfE) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd) | [Business As Usual EP](https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw) | 4:33 |
 | 32 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 |

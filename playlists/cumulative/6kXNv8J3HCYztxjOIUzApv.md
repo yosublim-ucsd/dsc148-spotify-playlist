@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-262 songs - 16 hr 32 min
+263 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Evil World Machine](https://open.spotify.com/track/3CYDh4mjfg7I0hHHCNEt1S) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:27 | 2022-09-21 | 2023-01-04 |
 | [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 | 2023-01-27 |  |
 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 | 2022-03-08 | 2023-01-04 |
+| [F\*\*k The Bad Vibes](https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [F\*\*k The Bad Vibes](https://open.spotify.com/album/2i0zGJaC9rXDzWCmRm5W3o) | 3:18 | 2024-05-03 |  |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:05 | 2022-09-21 |  |
 | [Feed the Wolf](https://open.spotify.com/track/2GGhdqZ8yJwgici7ko5sdg) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Feed the Wolf](https://open.spotify.com/album/624ZRha8Ur3PQGCedJ5Iss) | 3:18 | 2021-08-20 |  |
 | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/track/6HmVuaY05lCHoDccqFrHEo) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/album/2yjz22VEJg8GYzYLHdU1p2) | 3:27 | 2021-08-20 |  |

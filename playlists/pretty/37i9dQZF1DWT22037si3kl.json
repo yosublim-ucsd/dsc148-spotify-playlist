@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Senndy",
-  "num_followers": 137504,
+  "num_followers": 137512,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Dan\u00e7a na Chuva",
+        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+        }
+      ],
+      "duration_ms": 196024,
+      "name": "Dan\u00e7a na Chuva",
+      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Maturidade",
         "url": "https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 142026,
       "name": "Maturidade",
       "url": "https://open.spotify.com/track/7GvJL7IG958R87MphADwR6"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Dan\u00e7a na Chuva",
-        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Di Marques",
-          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
-        }
-      ],
-      "duration_ms": 196024,
-      "name": "Dan\u00e7a na Chuva",
-      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
     },
     {
       "added_at": "2024-05-03 03:01:00",

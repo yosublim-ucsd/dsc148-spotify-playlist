@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-92 songs - 4 hr 22 min
+93 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Stay Awake](https://open.spotify.com/track/1Fs3wgPkw1WfWy2f5vITsX) | [Karen Taylor\-Good](https://open.spotify.com/artist/37ealXJVFvi7AqeLIly66z) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:21 | 2024-03-01 |  |
 | [The Bare Necessities \- Instrumental](https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:31 | 2024-03-01 |  |
 | [The Family Madrigal](https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Magical](https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh) | 4:14 | 2024-03-01 |  |
+| [The Mandalorian](https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz) | [Nick Pingree](https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 2:58 | 2024-05-03 |  |
 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 | 2024-03-01 |  |
 | [The Second Star to the Right](https://open.spotify.com/track/6xCGeEPkWhshDnNIpqqUvS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Love Songs](https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4) | 2:48 | 2024-03-01 |  |
 | [This Is Halloween](https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:35 | 2024-03-01 |  |

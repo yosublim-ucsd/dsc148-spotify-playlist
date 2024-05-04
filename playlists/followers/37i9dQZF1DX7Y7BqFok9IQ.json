@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 203076,
+  "2024-05-04": 203187,
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Slash",
   "name": "Modern Blues Rock",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
@@ -147,6 +147,24 @@
       "duration_ms": 161728,
       "name": "All I've Got is You",
       "url": "https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU"
+      },
+      "artists": [
+        {
+          "name": "The Karma Effect",
+          "url": "https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211469,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF"
     },
     {
       "album": {
@@ -4918,6 +4936,32 @@
     },
     {
       "album": {
+        "name": "Way Down We Go",
+        "url": "https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r"
+      },
+      "artists": [
+        {
+          "name": "Rev Theory",
+          "url": "https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l"
+        },
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        },
+        {
+          "name": "ashpvnk",
+          "url": "https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198703,
+      "name": "Way Down We Go",
+      "url": "https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ"
+    },
+    {
+      "album": {
         "name": "We Cry",
         "url": "https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh"
       },
@@ -5149,7 +5193,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 246000,
       "name": "Wild Honey",
       "url": "https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg"

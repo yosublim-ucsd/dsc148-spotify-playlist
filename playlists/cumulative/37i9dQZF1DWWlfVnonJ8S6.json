@@ -4469,6 +4469,28 @@
     },
     {
       "album": {
+        "name": "Zaroori Tha (Lofi Flip)",
+        "url": "https://open.spotify.com/album/0suiSwPX6xpLRlvty1kTsv"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "DJ Nitish Gulyani",
+          "url": "https://open.spotify.com/artist/1por5kXIv8KZA4WsyNUGEj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202072,
+      "name": "Zaroori Tha - Lofi Flip",
+      "url": "https://open.spotify.com/track/2fDYjMQPja9O1O153vQUhC"
+    },
+    {
+      "album": {
         "name": "Zindagi",
         "url": "https://open.spotify.com/album/0uR8pCl7EsMV5bz1norOFH"
       },

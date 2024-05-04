@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 167828,
+  "2024-05-04": 167875,
   "date_first_scraped": "2021-12-30",
   "description": "lay back. chill out. ",
   "name": "floating",
@@ -87,6 +87,28 @@
       "duration_ms": 241480,
       "name": "3 Hour Drive (feat. Sampha)",
       "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
+    },
+    {
+      "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "album": {
@@ -541,7 +563,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
@@ -809,7 +831,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
@@ -2057,7 +2079,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 150250,
       "name": "Light Of My Life, You Cast A Shadow On The Wall",
       "url": "https://open.spotify.com/track/4EsqA4mCnaLRPKeuRXX27b"

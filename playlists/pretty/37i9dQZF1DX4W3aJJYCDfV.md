@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa \(pictured\), Rachel Chinouriri, Becky Hill and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,415 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,639 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 14 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 |
 | 15 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 |
 | 16 | [SPIN DA BLOCK](https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ \(DELUXE\)](https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo) | 3:18 |
-| 17 | [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 17 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 18 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 |
 | 19 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
 | 20 | [Gotta Get U](https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Gotta Get U](https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX) | 2:32 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 57 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
 | 58 | [Shadows Pt\. 3](https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Shadows Pt\. 3](https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy) | 3:14 |
 | 59 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
-| 60 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
-| 61 | [Fans & Fiends](https://open.spotify.com/track/43DpDqSc4pAyCUHwkhoewO) | [ZINO](https://open.spotify.com/artist/4wW4Ha2GRRdJQBmmWsEXGp), [Smurky](https://open.spotify.com/artist/78aIZUFFmzrYNRAtVudoFn) | [Plan Z](https://open.spotify.com/album/37TCarhV384ZZfxwK9J0XB) | 2:48 |
-| 62 | [Love Making](https://open.spotify.com/track/6jJ80d8aBta4UsexjQtL27) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Nino](https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu) | [Love Making](https://open.spotify.com/album/0yimqkWLSiSLtBILkJSyyB) | 2:27 |
+| 60 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 |
+| 61 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
+| 62 | [Love Making](https://open.spotify.com/track/6jJ80d8aBta4UsexjQtL27) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Nino](https://open.spotify.com/artist/3H50giTayUjt5Aw9k9csFk) | [Love Making](https://open.spotify.com/album/0yimqkWLSiSLtBILkJSyyB) | 2:27 |
 | 63 | [Penitentiary](https://open.spotify.com/track/7Hv5l0Rk91BHTfhBPlHJzK) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [FINE](https://open.spotify.com/album/7eZK0Fvl6SXVTvlkXyNk5U) | 2:57 |
 | 64 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 65 | [chasing highs](https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [chasing highs](https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49) | 2:26 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 82 | [The Light Nights](https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Look to the East, Look to the West](https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1) | 4:33 |
 | 83 | [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 |
 | 84 | [Sunshine](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunshine](https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc) | 4:27 |
-| 85 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:47 |
+| 85 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 |
 | 86 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 87 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 |
 | 88 | [Blonde](https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\)](https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl) | 4:43 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Brain Freeze](https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [Brain Freeze](https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau) | 4:16 |
 | 125 | [peck \- radio edit](https://open.spotify.com/track/4JqTYxZpWO7l6U4NxpJ8Zi) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [peck](https://open.spotify.com/album/2jE7FF1qfuF1zvsJJtdlUm) | 3:48 |
 
-Snapshot ID: `ZjQa8AAAAAAE/fUk/2bbC1MjcDDDhuef`
+Snapshot ID: `ZjSexQAAAAAavWED6IqictIGgaoAT7uR`

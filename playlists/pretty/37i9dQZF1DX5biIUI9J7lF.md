@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > I'm just a girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,006 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,021 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 5 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 |
 | 6 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 |
 | 7 | [Too Much](https://open.spotify.com/track/5vVK17McjmUaEXBBtmgvHW) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Too Much](https://open.spotify.com/album/6WnjMhT6b5MgUwF6bHI6nh) | 2:34 |
-| 8 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [LordKnowz](https://open.spotify.com/artist/5kMgDc2PSSyx2eUc3RZLdu) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 |
+| 8 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [Lordknowz](https://open.spotify.com/artist/6EKRa2De9UHWEThLyXWzFY) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 |
 | 9 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 10 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 11 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 |

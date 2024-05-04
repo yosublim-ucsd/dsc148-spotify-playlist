@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "F**k The Bad Vibes",
+        "url": "https://open.spotify.com/album/2i0zGJaC9rXDzWCmRm5W3o"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "F**k The Bad Vibes",
+      "url": "https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv"
+    },
+    {
+      "album": {
         "name": "The Retaliators (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },

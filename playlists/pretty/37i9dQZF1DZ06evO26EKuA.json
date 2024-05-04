@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 418847,
+  "num_followers": 418899,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAD3djjWjBn4jxcRv7/GFOEa",
+  "snapshot_id": "ZjLXgAAAAADxa5Rth53TkQ8HapgdL6Si",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 183813,
-      "name": "A Mis Enemigos",
-      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+      "duration_ms": 183826,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 183826,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 193533,
       "name": "Para Qu\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/5RhujBkeyePK4u7otFhfF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
     },
     {
       "added_at": null,

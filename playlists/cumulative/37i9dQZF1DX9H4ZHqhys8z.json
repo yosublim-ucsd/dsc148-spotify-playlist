@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Allou Zitas Ton Erota",
+        "url": "https://open.spotify.com/album/11gEFFEuVRop1HG2woO1qE"
+      },
+      "artists": [
+        {
+          "name": "Hara Verra",
+          "url": "https://open.spotify.com/artist/0bFQmNO52oscODGROuqEKn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Allou Zitas Ton Erota",
+      "url": "https://open.spotify.com/track/7s1cuTEKxxGmIyPvxGtOzf"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/3e64SvlCfAsnTL4dVz2T7C"
       },
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 177293,
       "name": "Lathos",
       "url": "https://open.spotify.com/track/53fgZOSM7amHzXclILxybF"

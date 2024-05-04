@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7044,
+  "num_followers": 7047,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAod1aWxitFCNw9E1kwj5ys",
+  "snapshot_id": "ZjLXgAAAAADqqhX6rA6FhRrRFZ9jPxoo",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Caminar Caminar",
-      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Relampagazos",
         "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
       },
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 129360,
-      "name": "Rogante",
-      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
+      "duration_ms": 156320,
+      "name": "Caminar Caminar",
+      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 125880,
       "name": "Veinte Novias",
       "url": "https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "Rogante",
+      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
     },
     {
       "added_at": null,

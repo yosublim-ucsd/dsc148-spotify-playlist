@@ -2,7 +2,7 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Grefiteh
+> boom bap renasce todo dia\. Foto: Grafiteh
 
 454 songs - 23 hr 57 min
 

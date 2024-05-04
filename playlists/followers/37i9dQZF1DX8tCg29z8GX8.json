@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 14170,
+  "2024-05-04": 14181,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 188737,
       "name": "360",
       "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179043,
       "name": "Abasakom",
       "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
@@ -291,6 +291,28 @@
       "duration_ms": 224523,
       "name": "Adom",
       "url": "https://open.spotify.com/track/7riYHpL21B6InKKSmpZwBz"
+    },
+    {
+      "album": {
+        "name": "Against",
+        "url": "https://open.spotify.com/album/3vDHV01HAUobX19MMRYgJK"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/1pvFxQVlZd8YqoEcZK9iWW"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239629,
+      "name": "Against",
+      "url": "https://open.spotify.com/track/52gCmydyFcaKB4Resr8Bo7"
     },
     {
       "album": {
@@ -847,6 +869,28 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "album": {
+        "name": "Back To Sender (Taamiawu)",
+        "url": "https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi"
+      },
+      "artists": [
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Back To Sender (Taamiawu)",
+      "url": "https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca"
     },
     {
       "album": {
@@ -2495,7 +2539,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 189729,
       "name": "Effiakuma Broken Heart",
       "url": "https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT"
@@ -2805,7 +2849,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
@@ -2897,6 +2941,32 @@
       "duration_ms": 194100,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
+    },
+    {
+      "album": {
+        "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) [Remix]",
+        "url": "https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195434,
+      "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) - Remix",
+      "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
     },
     {
       "album": {
@@ -3073,6 +3143,28 @@
       "duration_ms": 153386,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/6F4nVv0ZJl7yEi9N5ZVMFK"
+    },
+    {
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160036,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H"
     },
     {
       "album": {
@@ -3475,7 +3567,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 202840,
       "name": "Guy Guy",
       "url": "https://open.spotify.com/track/6N2fhZAgWnIV8lcwgoTlMD"
@@ -6187,7 +6279,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178845,
       "name": "Odo Aduane",
       "url": "https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB"
@@ -6761,7 +6853,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
@@ -7613,7 +7705,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
@@ -9109,7 +9201,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
@@ -9849,7 +9941,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 240250,
       "name": "Yewo Nyame",
       "url": "https://open.spotify.com/track/4lzhsMF2TUWC2EOcjcJOPi"

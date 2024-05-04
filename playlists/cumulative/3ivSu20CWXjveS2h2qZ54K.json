@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "act v: there goes another vase",
+        "url": "https://open.spotify.com/album/6ZOjP5RxSPoCmheXj9BTDo"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175168,
+      "name": "act v: there goes another vase",
+      "url": "https://open.spotify.com/track/0bmCqv1VW9Dvcr4yzcTYx1"
+    },
+    {
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -269,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Problem\u00e1tica juvenil",
+        "url": "https://open.spotify.com/album/77hKnmywl2SKNmCONlG86x"
+      },
+      "artists": [
+        {
+          "name": "Las Nenas",
+          "url": "https://open.spotify.com/artist/5RMPrDy0GZ8rMsuhvw8cs9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135191,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/4OiqqhZfGM6vAyX5q9NvP6"
+    },
+    {
+      "album": {
         "name": "Big Time Nothing",
         "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
       },
@@ -302,6 +338,28 @@
       "duration_ms": 185865,
       "name": "blizzard",
       "url": "https://open.spotify.com/track/0C0IkkdCZei5oEjF1lmkFs"
+    },
+    {
+      "album": {
+        "name": "Bombas en Madrid",
+        "url": "https://open.spotify.com/album/3CvHESo4ZP1BCP9sLHEZZ0"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        },
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252412,
+      "name": "Bombas en Madrid",
+      "url": "https://open.spotify.com/track/1Lc4PJwLkBDTif9VkcuoNt"
     },
     {
       "album": {
@@ -360,6 +418,24 @@
       "duration_ms": 163486,
       "name": "Botoxxx",
       "url": "https://open.spotify.com/track/2TOscIenZ5PxE2Uw25CE9T"
+    },
+    {
+      "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3Xcm94qRjEG6jreQeLYACh"
+      },
+      "artists": [
+        {
+          "name": "Nenazas",
+          "url": "https://open.spotify.com/artist/3iulHYJiNfl40agn0qdD81"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/3ZTRg2AbTz13wcItp8bOEs"
     },
     {
       "album": {
@@ -566,6 +642,24 @@
       "duration_ms": 178928,
       "name": "Cuando No Est\u00e1s",
       "url": "https://open.spotify.com/track/5GPSkgiiTnU5NV6NSQyopS"
+    },
+    {
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/6Cja92IEMyfcHSDPVZCjTG"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183900,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/2KAOp6SYU35LsYQHdZSiNs"
     },
     {
       "album": {
@@ -1243,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181534,
+      "name": "Look Alive",
+      "url": "https://open.spotify.com/track/2Sa7c1IlT7bVHEt8s982It"
+    },
+    {
+      "album": {
         "name": "Lost Time",
         "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
       },
@@ -1304,10 +1416,6 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ritz Reynolds",
-          "url": "https://open.spotify.com/artist/4RZOYMtyz97jaU2x9SICqg"
         }
       ],
       "date_added": "2024-05-03",
@@ -1316,6 +1424,24 @@
       "duration_ms": 213460,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "album": {
@@ -1356,6 +1482,24 @@
       "duration_ms": 182250,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/1NKx2va7aJl9v3EADaFhQi"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1ana es Lunes",
+        "url": "https://open.spotify.com/album/0iSWwR1JMMuR6Rf1LJwo67"
+      },
+      "artists": [
+        {
+          "name": "Vosotras Ver\u00e9is",
+          "url": "https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200778,
+      "name": "Ma\u00f1ana es Lunes",
+      "url": "https://open.spotify.com/track/2XhuanjdFurqh5syKL0DAG"
     },
     {
       "album": {
@@ -1787,6 +1931,42 @@
     },
     {
       "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/3zd2PR0Dpho3Cz2gVnqZ62"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230754,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/0uLTxqgIsfMSTQLiWFae7f"
+    },
+    {
+      "album": {
+        "name": "Selva M\u00e1gica",
+        "url": "https://open.spotify.com/album/1t7JlhFLz26Ra6zFzS8n8A"
+      },
+      "artists": [
+        {
+          "name": "Ttrraaccaa",
+          "url": "https://open.spotify.com/artist/5uOACthvlExYfefKjpcKCu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Rave del Mono",
+      "url": "https://open.spotify.com/track/0cPCov0D5kojKMhcet4mqr"
+    },
+    {
+      "album": {
         "name": "London Safari II",
         "url": "https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ"
       },
@@ -2051,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2fvxxHVNLOZy7W385rzscI"
+      },
+      "artists": [
+        {
+          "name": "Marc Mas",
+          "url": "https://open.spotify.com/artist/2Afa8bc03hUILSCuypSSzt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269018,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/0Zh4HJsOGKnG5PkRGrmmtx"
+    },
+    {
+      "album": {
         "name": "Lo Que Dicen Por Ah\u00ed",
         "url": "https://open.spotify.com/album/4n3njIqx8KJR8lo7wnXo75"
       },
@@ -2084,6 +2282,24 @@
       "duration_ms": 218639,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/3sUl6iXhQLGulbyDNaihDw"
+    },
+    {
+      "album": {
+        "name": "Funeral for Justice",
+        "url": "https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233518,
+      "name": "Takoba",
+      "url": "https://open.spotify.com/track/5cQzeHcBjSES0g4qlhTgqY"
     },
     {
       "album": {
@@ -2146,6 +2362,24 @@
       "duration_ms": 173560,
       "name": "Tennessee (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/56ALbArb98jRcfSITJ4xsP"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245980,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
     },
     {
       "album": {
@@ -2428,6 +2662,24 @@
       "duration_ms": 152290,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
+    },
+    {
+      "album": {
+        "name": "Whatsapp (Wassam)",
+        "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Whatsapp (Wassam)",
+      "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
     },
     {
       "album": {

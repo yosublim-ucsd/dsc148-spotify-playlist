@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 180035,
+  "num_followers": 180095,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 374853,
+      "name": "Pura Droga Sin Cortar",
+      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 170981,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 374853,
-      "name": "Pura Droga Sin Cortar",
-      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Jamming Sin Fronteras",
-        "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
-      },
-      "artists": [
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "Rapsusklei",
-          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
-        },
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        },
-        {
-          "name": "C\u00e9sar L\u00f3pez",
-          "url": "https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV"
-        },
-        {
-          "name": "Solo Soul",
-          "url": "https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI"
-        }
-      ],
-      "duration_ms": 250732,
-      "name": "Jamming Sin Fronteras",
-      "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "No Copio",
         "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
       },
@@ -1103,18 +1071,34 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "24/Siempre Vol.1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+        "name": "Jamming Sin Fronteras",
+        "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
       "artists": [
         {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "C\u00e9sar L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV"
+        },
+        {
+          "name": "Solo Soul",
+          "url": "https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI"
         }
       ],
-      "duration_ms": 152298,
-      "name": "Homer el Mero Mero",
-      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
+      "duration_ms": 250732,
+      "name": "Jamming Sin Fronteras",
+      "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1147,6 +1131,22 @@
       "duration_ms": 269160,
       "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
       "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        }
+      ],
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
-        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
       "artists": [
         {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 346913,
-      "name": "Vivir para Contarlo",
-      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
+      "duration_ms": 262693,
+      "name": "Hecho En Mexico",
+      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Hecho En Mexico",
-      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Desde",
         "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 277439,
       "name": "Desde",
       "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
+        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 346913,
+      "name": "Vivir para Contarlo",
+      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Vicios y Virtudes",
-      "url": "https://open.spotify.com/track/4fjMMRylitPre5mh7AzbP0"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Faruz Vs. Proof",
         "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 237333,
       "name": "Tequila Sunrise - Spanish Version",
       "url": "https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Vicios y Virtudes",
+      "url": "https://open.spotify.com/track/4fjMMRylitPre5mh7AzbP0"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
-      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
         "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 438280,
       "name": "Casa en la Montan\u0303a 3",
       "url": "https://open.spotify.com/track/1bv7wjY1eVYRjkulzmqJP2"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
+      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
-      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Soy el Pecador",
         "url": "https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 223027,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
+      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Inksanidad",
-        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
-      },
-      "artists": [
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 219158,
-      "name": "Suena",
-      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Malamarismo",
         "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 223666,
       "name": "Por La Noche",
       "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Inksanidad",
+        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
+      },
+      "artists": [
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "duration_ms": 219158,
+      "name": "Suena",
+      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Entren Los Que Quieran",
-        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 293066,
-      "name": "Digo Lo Que Pienso",
-      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+      "duration_ms": 267207,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
         }
       ],
-      "duration_ms": 267207,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
+      "duration_ms": 293066,
+      "name": "Digo Lo Que Pienso",
+      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
     },
     {
       "added_at": "2023-08-08 02:05:58",

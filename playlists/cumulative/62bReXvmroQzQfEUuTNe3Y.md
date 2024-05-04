@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-425 songs - 1 day 0 hr 6 min
+426 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Moonshine](https://open.spotify.com/track/0BvYYottMAxdwdzDnPWei4) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Moonshine](https://open.spotify.com/album/3ggeOhfB1ahEqdmv3AYZdV) | 3:34 | 2020-09-13\* | 2020-10-10 |
 | [Morning Dew](https://open.spotify.com/track/6lPhnamoOdxOg7jQ3gSWOa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Morning Dew](https://open.spotify.com/album/5yeBTEsHI8aCGwYXgRhcWC) | 3:33 | 2022-07-22 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-01-15 |
+| [Mother](https://open.spotify.com/track/0t2j4TWXOB9aPfquUgC1hu) | [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [Mother](https://open.spotify.com/album/1Fw1yHZlDSiF5EitTIAJ2h) | 2:38 | 2024-05-03 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-12 |  |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-09-13\* | 2022-09-03 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2021-04-30 | 2021-11-11 |

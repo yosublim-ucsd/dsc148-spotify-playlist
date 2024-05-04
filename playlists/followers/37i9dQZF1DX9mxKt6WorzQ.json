@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 52992,
+  "2024-05-04": 53027,
   "date_first_scraped": "2022-08-18",
   "description": "Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train",
   "name": "Train Sounds",
@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise for Wellness",
+        "url": "https://open.spotify.com/album/6x7VHi0HRol3vTVTXuUG5Q"
+      },
+      "artists": [
+        {
+          "name": "Dancing Waves",
+          "url": "https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355207,
+      "name": "Brown Noise for Wellness",
+      "url": "https://open.spotify.com/track/58fduFbaV46TybMgmX3v8n"
+    },
+    {
+      "album": {
         "name": "The Sound Of Trains",
         "url": "https://open.spotify.com/album/33poigFw5SFmd6JjPh3kkA"
       },
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187731,
       "name": "Cart Noise",
       "url": "https://open.spotify.com/track/7e4oU48H5NtPiUFTUNPtsW"
@@ -255,6 +273,60 @@
       "duration_ms": 381457,
       "name": "Chugging Kauai Train",
       "url": "https://open.spotify.com/track/7gj0w6mlvgsiTpJ5RTbXcO"
+    },
+    {
+      "album": {
+        "name": "Coach Dreams",
+        "url": "https://open.spotify.com/album/5nz2Kg2KDh66LyQCxwHB0t"
+      },
+      "artists": [
+        {
+          "name": "Train Travlz",
+          "url": "https://open.spotify.com/artist/1XCfyWOdIZPEFbFsUSGGtC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360273,
+      "name": "Coach Dreams",
+      "url": "https://open.spotify.com/track/3rKZ7SUax9oMckb8iTfe2G"
+    },
+    {
+      "album": {
+        "name": "Commuter Cart",
+        "url": "https://open.spotify.com/album/2b8hJLdVtjOVbDl0fuDjhe"
+      },
+      "artists": [
+        {
+          "name": "Night Time Sounds",
+          "url": "https://open.spotify.com/artist/029NCna9Sf2isa6oeBAhyP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326565,
+      "name": "Commuter Cart",
+      "url": "https://open.spotify.com/track/5zBZpZwajEP85ghLlPz6Ig"
+    },
+    {
+      "album": {
+        "name": "Commuter's Nap",
+        "url": "https://open.spotify.com/album/3mJEmX4FBZdiHmOGchT2s0"
+      },
+      "artists": [
+        {
+          "name": "Freight Going Nowhere",
+          "url": "https://open.spotify.com/artist/1sbgvE2UcykGCJ0Pr5aa9F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316998,
+      "name": "Commuter's Nap",
+      "url": "https://open.spotify.com/track/4eDg7YaUApc1andUr3Elm0"
     },
     {
       "album": {
@@ -363,6 +435,24 @@
       "duration_ms": 160172,
       "name": "Ear plugs On Train",
       "url": "https://open.spotify.com/track/52fdttDpxSGWFvjNQC1MtF"
+    },
+    {
+      "album": {
+        "name": "Emersed in Brown Noise",
+        "url": "https://open.spotify.com/album/0EdS3JyOwQX7xkrIJ6nCAs"
+      },
+      "artists": [
+        {
+          "name": "Soundverb",
+          "url": "https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230191,
+      "name": "Emersed in Brown Noise",
+      "url": "https://open.spotify.com/track/4ZdrL9QzSSfdBavpKYF3hF"
     },
     {
       "album": {
@@ -492,6 +582,24 @@
     },
     {
       "album": {
+        "name": "High Speed Train 3D Sound",
+        "url": "https://open.spotify.com/album/3vGvnUEcNXpg9kJzcFCei2"
+      },
+      "artists": [
+        {
+          "name": "Tmsoft\u2019s White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3HykQi5PlnOTB8tjm11KkK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590000,
+      "name": "High Speed Train 3D Sound",
+      "url": "https://open.spotify.com/track/2Cfd6lN488fcIRU0sbgYXd"
+    },
+    {
+      "album": {
         "name": "In Transit",
         "url": "https://open.spotify.com/album/0gLuxzoRQtqLXqlRr6QRhA"
       },
@@ -543,6 +651,24 @@
       "duration_ms": 140000,
       "name": "Interior Train Ride",
       "url": "https://open.spotify.com/track/50Tlfmjf4bKfh7pLyrHbV4"
+    },
+    {
+      "album": {
+        "name": "Last Stop Snooze",
+        "url": "https://open.spotify.com/album/1So5uigm8rMXHRmfQ3Wnqt"
+      },
+      "artists": [
+        {
+          "name": "White Wall Sound",
+          "url": "https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363345,
+      "name": "Last Stop Snooze",
+      "url": "https://open.spotify.com/track/5VzU2mXllEHWFufMU2o8Mm"
     },
     {
       "album": {
@@ -611,7 +737,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258000,
       "name": "Long Sleepy Train Ride (Sound for Sleep)",
       "url": "https://open.spotify.com/track/2tlyS0TQBShSTxToRTgz7d"
@@ -845,7 +971,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148226,
       "name": "Pan Noise Locomotive",
       "url": "https://open.spotify.com/track/4I5gqsexHylUJnmi8bEnBW"
@@ -1205,7 +1331,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 227609,
       "name": "Serene Train Clickety-Clack for Soothing Sleep",
       "url": "https://open.spotify.com/track/3uxMAyLtf3pzhSCuhtkTjO"
@@ -1378,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Express",
+        "url": "https://open.spotify.com/album/61HX9Hy6t42Xh8akaUdlTS"
+      },
+      "artists": [
+        {
+          "name": "Thoughts of Calm",
+          "url": "https://open.spotify.com/artist/2gk7fPiEtMLY8cOW5PwGek"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299258,
+      "name": "Sleepy Express",
+      "url": "https://open.spotify.com/track/4yQGOvYkjWM6FePdW00y5O"
+    },
+    {
+      "album": {
         "name": "Steel of Wheels",
         "url": "https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe"
       },
@@ -1389,7 +1533,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 134452,
       "name": "Sleepy Train",
       "url": "https://open.spotify.com/track/2ramaiWalLOjWQLO46GJpn"
@@ -1447,6 +1591,24 @@
       "duration_ms": 363244,
       "name": "Sleepy Train Soundscape for a Restful Night",
       "url": "https://open.spotify.com/track/701qXsi9ocu6C1UTjkaQTK"
+    },
+    {
+      "album": {
+        "name": "Sleepy Train Stop",
+        "url": "https://open.spotify.com/album/1AnSjdItJat3GpntSZSAos"
+      },
+      "artists": [
+        {
+          "name": "Cargo Punk",
+          "url": "https://open.spotify.com/artist/1Q8Vek0ogAnQxFLmRKlEoC"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389305,
+      "name": "Sleepy Train Stop",
+      "url": "https://open.spotify.com/track/4wIPrFkj9AufvzEJLUIbWz"
     },
     {
       "album": {
@@ -1919,7 +2081,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157213,
       "name": "Train Noises",
       "url": "https://open.spotify.com/track/4EthhbHNdSMVq97RuCyHam"
@@ -2063,7 +2225,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 220363,
       "name": "Trains Starting",
       "url": "https://open.spotify.com/track/2tltQ8IwzgUUtpPtEDdJJS"
@@ -2153,7 +2315,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 242468,
       "name": "Trans-Siberian",
       "url": "https://open.spotify.com/track/5gebtFptcfITb9IW9wTRWc"

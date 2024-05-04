@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 18703,
+  "2024-05-04": 18701,
   "date_first_scraped": "2022-05-26",
   "description": "Perreo hecho en Argentina. Foto: TAICHU.",
   "name": "Reggaet\u00f3n Argentino",
@@ -43,6 +43,28 @@
       "duration_ms": 214728,
       "name": "A Mi",
       "url": "https://open.spotify.com/track/1m51YRtMiW1o5sZVx4cIds"
+    },
+    {
+      "album": {
+        "name": "A Toda Hora",
+        "url": "https://open.spotify.com/album/003hJuxeqS9V6z807tXdov"
+      },
+      "artists": [
+        {
+          "name": "frankotirador",
+          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
+        },
+        {
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "A Toda Hora",
+      "url": "https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4"
     },
     {
       "album": {
@@ -629,7 +651,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 151574,
       "name": "CLASS #02: DT.Bilardo",
       "url": "https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk"
@@ -1618,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "F\u00e1cil",
+        "url": "https://open.spotify.com/album/0raOboTvbuRDGYX151xbyM"
+      },
+      "artists": [
+        {
+          "name": "More Con Flow",
+          "url": "https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143189,
+      "name": "F\u00e1cil",
+      "url": "https://open.spotify.com/track/1eR8UGjCnqh3WsieIVIgDn"
+    },
+    {
+      "album": {
         "name": "GABBANA",
         "url": "https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF"
       },
@@ -2313,7 +2353,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166704,
       "name": "Lo Olvidaste",
       "url": "https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj"

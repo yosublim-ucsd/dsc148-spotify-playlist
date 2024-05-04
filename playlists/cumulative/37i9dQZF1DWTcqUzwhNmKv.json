@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Make Them Suffer is on top of today's best Metal playlist.",
+  "description": "Architects on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1770,6 +1770,24 @@
       "duration_ms": 212922,
       "name": "Chaos Horrific",
       "url": "https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF"
+    },
+    {
+      "album": {
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171794,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
     },
     {
       "album": {
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 233037,
       "name": "Eyes Wide Open",
       "url": "https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 328015,
       "name": "Faking It",
       "url": "https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ"
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
@@ -7975,6 +7993,24 @@
     },
     {
       "album": {
+        "name": "Residue",
+        "url": "https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278338,
+      "name": "Residue",
+      "url": "https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG"
+    },
+    {
+      "album": {
         "name": "War Against All",
         "url": "https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h"
       },
@@ -8272,6 +8308,24 @@
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
+    },
+    {
+      "album": {
+        "name": "Scars On A Soul",
+        "url": "https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168958,
+      "name": "Scars On A Soul",
+      "url": "https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P"
     },
     {
       "album": {
@@ -11540,6 +11594,24 @@
       "duration_ms": 190926,
       "name": "We Are No Saints",
       "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
+    },
+    {
+      "album": {
+        "name": "We Are Shadows",
+        "url": "https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "We Are Shadows",
+      "url": "https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J"
     },
     {
       "album": {

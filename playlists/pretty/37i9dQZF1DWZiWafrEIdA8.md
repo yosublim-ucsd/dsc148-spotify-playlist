@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,298 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 28 | [Love Myself \(Feat\. BewhY\)](https://open.spotify.com/track/69fFPPuNlPGEg5D5cDPo3e) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:54 |
 | 29 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
 | 30 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
-| 31 | [Going Home](https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 3:58 |
-| 32 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 |
+| 31 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 |
+| 32 | [Going Home](https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 3:58 |
 | 33 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 |
 | 34 | [BITCOIN \(prod\. HOWOW\)](https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl) | [TimeFeveR](https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m) | [BITCOIN](https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl) | 3:22 |
 | 35 | [ORIGINAL \(Feat\. Sion\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 47 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 |
 | 48 | [HALYANG DREAM \(feat.John Park\)](https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [2002](https://open.spotify.com/album/3IPBA2JydAHsrYe77rDyIa) | 3:45 |
 | 49 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
-| 50 | [Way it is](https://open.spotify.com/track/35BWbBYVPZATgmUQvkwbAM) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 4:01 |
+| 50 | [GOD DID \(Feat\. Thug Min\) \[Prod\. TOIL\]](https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [GOD DID](https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG) | 2:57 |
 
 Snapshot ID: `ZiXwnQAAAADiZ8l1QVZFetg8DihCGeIQ`

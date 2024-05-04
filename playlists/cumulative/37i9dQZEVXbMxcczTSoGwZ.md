@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,964 songs - 4 day 8 hr 46 min
+1,965 songs - 4 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Carpe Diem](https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu) | [Joker Out](https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf) | [Carpe Diem](https://open.spotify.com/album/0OzSTBSYgPD05WhkjurQFa) | 2:45 | 2023-05-13 | 2023-06-04 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-09 |
-| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-01-19 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-01-19 | 2024-05-04 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-10 | 2023-07-01 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-09 |
 | [Champagne sippA](https://open.spotify.com/track/061FQTXf0Fmprx1Jjg35B0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Champagne sippA](https://open.spotify.com/album/7igLgeq9jpr4CsUfNdoGas) | 2:32 | 2023-04-29 | 2023-06-18 |
@@ -388,6 +388,7 @@
 | [Eteisvalssi](https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:04 | 2023-04-01 | 2023-04-09 |
 | [Ethän tarkoittanut sitä](https://open.spotify.com/track/0p2BEjIUTCL2Zke7mxTTFE) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:20 | 2023-09-23 | 2023-10-01 |
 | [Ethän tarkoittanut sitä](https://open.spotify.com/track/5dtblyaDrGQxEeYW9Iv51z) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Ethän tarkoittanut sitä](https://open.spotify.com/album/2FUxhYgp1gW9w19BSnQK0x) | 3:20 | 2022-02-12 | 2022-05-17 |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-03 |  |
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2023-05-15 | 2023-05-19 |
 | [euro](https://open.spotify.com/track/4d8H46Vif1ySvApG4WS2J8) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [euro musik](https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO) | 2:56 | 2023-10-21 | 2023-10-23 |
 | [Everyday](https://open.spotify.com/track/0ywzYbY0bayTTwL8Ldg7WD) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Traveller](https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea) | 2:49 | 2023-07-01 | 2023-07-09 |
@@ -460,7 +461,7 @@
 | [Gasellin kyynel](https://open.spotify.com/track/1bGecSuu8H1xuh0DZ4LKWS) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF) | [Gasellin kyynel](https://open.spotify.com/album/5OyK9kwpQ4PLCN48XTzXfv) | 3:08 | 2023-04-01 | 2023-04-07 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 | 2021-07-18 | 2021-08-22 |
-| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-18 | 2024-05-03 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-18 |  |
 | [GAY](https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [GAY](https://open.spotify.com/album/4MdiJIAjKoPTf2Qbn6J8rP) | 2:52 | 2022-07-09 | 2022-09-11 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-09 | 2023-09-11 |
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-05-09 | 2021-05-10 |
@@ -1287,7 +1288,7 @@
 | [Paras osa](https://open.spotify.com/track/6vKo37eHfd7O6uraCVtpiB) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Paras osa](https://open.spotify.com/album/6uQE2spd1kuRV23eRyZv9S) | 3:23 | 2023-08-19 | 2023-10-15 |
 | [Parasta elämää](https://open.spotify.com/track/7nYJJBY8ZpkqgLRqxU9iNz) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Parasta elämää](https://open.spotify.com/album/2r3tHym3KACULSbiNNDgVd) | 3:40 | 2024-02-17 | 2024-02-19 |
 | [Paratiisi](https://open.spotify.com/track/5QFDqIgiyNkCiUVLM40CkD) | [Rauli Badding Somerjoki](https://open.spotify.com/artist/41pdyfGuyQnEudG0jseanl) | [Näin käy rock & roll](https://open.spotify.com/album/5fwbHpXstuT9wYFSTC2ESV) | 2:38 | 2022-06-25 | 2023-06-27 |
-| [Paremmin ku kukaan muu](https://open.spotify.com/track/480mO1deUri2RsSSbTfye6) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Paremmin ku kukaan muu](https://open.spotify.com/album/5kHhPR2JTLDy58WOinOUx9) | 2:57 | 2024-02-17 |  |
+| [Paremmin ku kukaan muu](https://open.spotify.com/track/480mO1deUri2RsSSbTfye6) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Paremmin ku kukaan muu](https://open.spotify.com/album/5kHhPR2JTLDy58WOinOUx9) | 2:57 | 2024-02-17 | 2024-05-04 |
 | [Parempaa \(feat\. JVG & william\)](https://open.spotify.com/track/7jBuT0vzeaCtRetMczX4EM) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Parempaa \(feat\. JVG & william\)](https://open.spotify.com/album/5QhbE5iIAZK0UYONAgDW7x) | 3:31 | 2021-11-14 | 2022-02-13 |
 | [Pari Muuttujaa](https://open.spotify.com/track/4L9bDVYGYCYIC8J0A0kYZn) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto), [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Pari Muuttujaa](https://open.spotify.com/album/5UKnlGRcQWOFhKabEQ7jq3) | 2:39 | 2023-11-25 | 2023-12-01 |
 | [Pariisin kevät](https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [TÄYDELLINEN AJOITUS](https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo) | 2:34 | 2023-05-06 | 2024-01-18 |

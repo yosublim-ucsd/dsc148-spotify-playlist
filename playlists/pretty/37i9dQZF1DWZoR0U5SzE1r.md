@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,570 likes - 100 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,661 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 85 | [As the Deer](https://open.spotify.com/track/5XlTnOh6vZQxZY4BHrIp5e) | [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Awaken Love](https://open.spotify.com/album/5uSSpMIa05OUxsuYat8LvG) | 4:43 |
 | 86 | [Let It Be Known](https://open.spotify.com/track/3bojX1OcJOZwAR1fXcffxV) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:08 |
 | 87 | [Upon Him \- Live](https://open.spotify.com/track/2utobW1ZSUCAWYprpSWArd) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Let There Be Wonder \(Live\)](https://open.spotify.com/album/3Etp5gtUAjoxlincRcFrih) | 4:58 |
-| 88 | [Catch the Wind \(Spontaneous\)](https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Moments: Mighty Sound](https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3) | 9:49 |
-| 89 | [Dreams \- Live](https://open.spotify.com/track/4l28c3njvOqasE4lLPP2cx) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 6:59 |
+| 88 | [Dreams \- Live](https://open.spotify.com/track/4l28c3njvOqasE4lLPP2cx) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 6:59 |
+| 89 | [Catch the Wind \(Spontaneous\)](https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Moments: Mighty Sound](https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3) | 9:49 |
 | 90 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
 | 91 | [Not One Thing \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/514QrzCj7ESCQbNozP9ueU) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 5:35 |
 | 92 | [It Only Gets Stronger](https://open.spotify.com/track/67HY6jOAACsy2mZJeuNW73) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 4:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 97 | [God That Saves](https://open.spotify.com/track/4hc1BN1CfwlAcw2iP5oYYy) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [God That Saves](https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C) | 4:49 |
 | 98 | [Awe + Wonder \- Live](https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 5:26 |
 | 99 | [The Cross Has The Final Word \- Live](https://open.spotify.com/track/1rO2tmrMZq6Cid4eHGOxyK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word \(Live\)](https://open.spotify.com/album/1AasDJOmjf43kKdQWIMY7r) | 4:53 |
-| 100 | [Great Redeemer](https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Great Redeemer](https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq) | 5:05 |
+| 100 | [Worth It All \- Live](https://open.spotify.com/track/0RYfzm4aLjbc2mSrupcNtm) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 6:38 |
 
 Snapshot ID: `ZIxUegAAAACERPRmoej66sq4fYY9/s/P`

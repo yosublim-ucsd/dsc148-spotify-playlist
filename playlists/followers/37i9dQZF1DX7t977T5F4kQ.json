@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 20782,
+  "2024-05-04": 20791,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Sista Afia ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Amerado",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -883,6 +883,28 @@
       "duration_ms": 213600,
       "name": "Baby",
       "url": "https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p"
+    },
+    {
+      "album": {
+        "name": "Back To Sender (Taamiawu)",
+        "url": "https://open.spotify.com/album/1m1j17DRfl9ESfDXELGjmi"
+      },
+      "artists": [
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Back To Sender (Taamiawu)",
+      "url": "https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca"
     },
     {
       "album": {
@@ -2565,6 +2587,28 @@
       "duration_ms": 166153,
       "name": "Freaky & Naughty",
       "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160036,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H"
     },
     {
       "album": {
@@ -6256,6 +6300,24 @@
     },
     {
       "album": {
+        "name": "Summer ABA",
+        "url": "https://open.spotify.com/album/5EzDnJUDyoTXOiGHyVQNjM"
+      },
+      "artists": [
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Summer ABA",
+      "url": "https://open.spotify.com/track/6g91DkaLUfwlJd8bvBMOzI"
+    },
+    {
+      "album": {
         "name": "Super Super",
         "url": "https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT"
       },
@@ -6487,6 +6549,24 @@
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
+        "name": "Tin Ton Tan",
+        "url": "https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195556,
+      "name": "Tin Ton Tan",
+      "url": "https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T"
     },
     {
       "album": {

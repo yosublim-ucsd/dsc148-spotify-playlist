@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: MYTHM
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Mersiv, Tape B, Juicy J
 
 [Digster Canada](https://open.spotify.com/user/digsterca) - 487 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Damage](https://open.spotify.com/track/0llgSrqseKarsyuL2DxOEc) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:13 |
-| 2 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 |
-| 3 | [Dance Alone \- Vault Mix](https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:14 |
-| 4 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 |
+| 1 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
+| 2 | [Damage](https://open.spotify.com/track/0llgSrqseKarsyuL2DxOEc) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:13 |
+| 3 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 |
+| 4 | [Dance Alone \- Vault Mix](https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:14 |
 | 5 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 |
 | 6 | [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 |
 | 7 | [FLIP THE TRACK](https://open.spotify.com/track/6iON0fwD3aULNFGohMdxOg) | [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [FLIP THE TRACK](https://open.spotify.com/album/69ZdPy4TcIMtUv3xznL2gN) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 99 | [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 |
 | 100 | [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 |
 
-Snapshot ID: `AAADoyEd4vMSDlhOZRO+ulU1iKNQNafl`
+Snapshot ID: `AAADqPop0beu2IsUZp2tptdYdUk82RpG`

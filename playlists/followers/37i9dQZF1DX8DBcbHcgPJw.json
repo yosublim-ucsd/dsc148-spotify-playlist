@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 1163638,
+  "2024-05-04": 1163373,
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Migrantes & Nio Garcia",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentina.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -3230,6 +3230,32 @@
     },
     {
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0gvlSJezcGQrbR2bmRiqsr"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196515,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3naQKuR07Ktb2NqW1s9T1Y"
+    },
+    {
+      "album": {
         "name": "Extasis",
         "url": "https://open.spotify.com/album/6KQVY8bbb2VjdSbFE3KPtA"
       },
@@ -5283,7 +5309,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 194833,
       "name": "Me Acostumbr\u00e9 - Remix",
       "url": "https://open.spotify.com/track/4KG46mLezl65EXuLEXg7Jd"
@@ -6991,7 +7017,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
@@ -8929,6 +8955,32 @@
       "duration_ms": 154912,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk"
+    },
+    {
+      "album": {
+        "name": "Te Olvidare en Silencio",
+        "url": "https://open.spotify.com/album/6oeVv8NbgkgGvALDrjoYsq"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132527,
+      "name": "Te Olvidare en Silencio",
+      "url": "https://open.spotify.com/track/0Pr4sf4XaiGo1Fvoe7mLmm"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Down\-tempo and easy listening music\. Cover: Budjerah
+> Down\-tempo and easy listening music\. Cover: Teddy Swims
 
 772 songs - 1 day 17 hr 29 min
 

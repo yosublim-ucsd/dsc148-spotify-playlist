@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Saint Levant",
-  "num_followers": 40436,
+  "num_followers": 40527,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Bushi Tape 3",
-        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
+        "name": "Fractur\u00e9",
+        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
       },
       "artists": [
         {
-          "name": "BU$HI",
-          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+          "name": "Rimkus",
+          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 184360,
-      "name": "Oc\u00e9ane",
-      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+      "duration_ms": 238474,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -439,22 +439,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Fractur\u00e9",
-        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
       "artists": [
         {
-          "name": "Rimkus",
-          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 238474,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "JOE PESCI",
         "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
       },
@@ -587,6 +571,42 @@
       "duration_ms": 199411,
       "name": "JOE PESCI",
       "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "On y va",
+        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "On y va",
+      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -623,22 +643,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "On y va",
-        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
+        "name": "SHE LIT",
+        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
       },
       "artists": [
         {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
         },
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 155496,
-      "name": "On y va",
-      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
+      "duration_ms": 137533,
+      "name": "SHE LIT",
+      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -659,22 +679,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "SHE LIT",
-        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
+        "name": "L'\u00e9cole des Stars",
+        "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
       },
       "artists": [
         {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
         },
         {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 137533,
-      "name": "SHE LIT",
-      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
+      "duration_ms": 191880,
+      "name": "No makeup",
+      "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -711,42 +731,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "L'\u00e9cole des Stars",
-        "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "No makeup",
-      "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Il \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 125868,
       "name": "COMMERCE",
       "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "24 F\u00e9vrier",
+        "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "duration_ms": 139901,
+      "name": "24 F\u00e9vrier",
+      "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Dans la Benz",
         "url": "https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "24 F\u00e9vrier",
-        "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
       },
       "artists": [
         {
-          "name": "ANA\u00cfS MVA",
-          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 139901,
-      "name": "24 F\u00e9vrier",
-      "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
+      "duration_ms": 121333,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -851,26 +871,6 @@
       "duration_ms": 162419,
       "name": "Kama",
       "url": "https://open.spotify.com/track/7JL4ESrT0oI9H1fTw60pvQ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Les anciens",
-        "url": "https://open.spotify.com/album/0S4B4PuZQlrHffe43T4Y0Z"
-      },
-      "artists": [
-        {
-          "name": "PeaceMaker",
-          "url": "https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan"
-        },
-        {
-          "name": "Kofs",
-          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
-        }
-      ],
-      "duration_ms": 181277,
-      "name": "Les anciens",
-      "url": "https://open.spotify.com/track/4JUZj7glx3NJNbstZ4ngCj"
     },
     {
       "added_at": "2024-05-03 04:00:00",

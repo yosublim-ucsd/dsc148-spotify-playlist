@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 31520,
+  "num_followers": 31524,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Quoi qu'il advienne (QQA)",
         "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 303725,
       "name": "Rete La",
       "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "L\u00f2d Nan Dez\u00f2d",
-        "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 395226,
-      "name": "Libre D'aimer",
-      "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 307493,
       "name": "Ma Cherie Je T'aime",
       "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "L\u00f2d Nan Dez\u00f2d",
+        "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 395226,
+      "name": "Libre D'aimer",
+      "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Mete'm alez",
-        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
-      },
-      "artists": [
-        {
-          "name": "Zo Konpa",
-          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
-        }
-      ],
-      "duration_ms": 293035,
-      "name": "Wet the hell map vini - Zouk",
-      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Et pourtant",
         "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 301087,
       "name": "Vini'm pale w",
       "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
     },
     {
       "added_at": "2024-04-26 04:00:00",

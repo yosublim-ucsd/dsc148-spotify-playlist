@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 267303,
+  "2024-05-04": 267757,
   "date_first_scraped": "2023-04-15",
   "description": "giza desert rave",
   "name": "Umami",
@@ -3142,6 +3142,24 @@
     },
     {
       "album": {
+        "name": "Our Beats",
+        "url": "https://open.spotify.com/album/7ea0ORUmANmJFYAjfiffjG"
+      },
+      "artists": [
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284506,
+      "name": "F The Disco",
+      "url": "https://open.spotify.com/track/7elX5HalbHX0ce1dql4ckd"
+    },
+    {
+      "album": {
         "name": "Fake ID (Coke & Rum Remix)",
         "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
       },
@@ -3819,6 +3837,32 @@
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
+        "name": "Gorah (Francis Mercier Midnight Mix)",
+        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "Gorah - Francis Mercier Midnight Mix",
+      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
     },
     {
       "album": {
@@ -5057,6 +5101,24 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
       "album": {
@@ -7463,6 +7525,24 @@
       "duration_ms": 729147,
       "name": "Phreaky MF - Mike Dunn's Phreak MixX",
       "url": "https://open.spotify.com/track/3FHgjr0dmRhiOJmpffsqRN"
+    },
+    {
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/1cnw1OqjxMWJvONgR6NvfU"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272903,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
     },
     {
       "album": {

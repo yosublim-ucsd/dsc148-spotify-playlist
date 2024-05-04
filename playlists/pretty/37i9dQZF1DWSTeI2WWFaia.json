@@ -1,15 +1,15 @@
 {
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
-  "num_followers": 1591685,
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
+  "num_followers": 1591594,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAAC/mhP3qK0w2HMEv0f3ccTO",
+  "snapshot_id": "ZjUs2AAAAAAvh3VMOC6nNO+fDnzeHS4x",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -45,31 +45,23 @@
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
-        "name": "Yokohama Slim",
-        "url": "https://open.spotify.com/album/0EFCnTO7xvVAXFHXTcPLDR"
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
       "artists": [
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "RichGains",
-          "url": "https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Yokohama Slim",
-      "url": "https://open.spotify.com/track/0FUttXeJKxykc1EqlJXNgy"
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
@@ -93,215 +85,7 @@
       "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Sticks & Stones",
-        "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 224415,
-      "name": "Sticks & Stones",
-      "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Marciology",
-        "url": "https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 212741,
-      "name": "Goyard God",
-      "url": "https://open.spotify.com/track/28oStvbdfSCqQRMIkvyXCN"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Heads I Win, Tails You Lose",
-        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Gangrene",
-          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Cloud Surfing",
-      "url": "https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Imported Couches",
-        "url": "https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 216046,
-      "name": "Imported Couches",
-      "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Live from the Roxy (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 166071,
-      "name": "Live from the Roxy (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Define My Name",
-        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Define My Name",
-      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 235317,
-      "name": "Blueslides",
-      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 157853,
-      "name": "3001",
-      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Heads I Win, Tails You Lose",
-        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Gangrene",
-          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Dinosaur Jr.",
-      "url": "https://open.spotify.com/track/10yyP7F6AKRaPWsQ2bT1ZJ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 160049,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
@@ -329,63 +113,159 @@
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
-        "name": "Realest (with Eminem)",
-        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+        "name": "Heads I Win, Tails You Lose",
+        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
       },
       "artists": [
-        {
-          "name": "Ez Mil",
-          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 217470,
-      "name": "Realest (with Eminem)",
-      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
         }
       ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+      "duration_ms": 135800,
+      "name": "Cloud Surfing",
+      "url": "https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Imported Couches",
+        "url": "https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+      "duration_ms": 216046,
+      "name": "Imported Couches",
+      "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Define My Name",
+        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Define My Name",
+      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 160049,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 157853,
+      "name": "3001",
+      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Heads I Win, Tails You Lose",
+        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Dinosaur Jr.",
+      "url": "https://open.spotify.com/track/10yyP7F6AKRaPWsQ2bT1ZJ"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 178765,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
@@ -405,7 +285,79 @@
       "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "SUNDAY SCARIES",
+        "url": "https://open.spotify.com/album/37I0PC0k15kEXsbEAYLSXt"
+      },
+      "artists": [
+        {
+          "name": "JERREAU",
+          "url": "https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr"
+        }
+      ],
+      "duration_ms": 107832,
+      "name": "SUNDAY SCARIES",
+      "url": "https://open.spotify.com/track/37ZjKTh2vteCm9jd3CRmZ4"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
@@ -429,7 +381,7 @@
       "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
@@ -449,7 +401,7 @@
       "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
@@ -469,7 +421,7 @@
       "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -497,7 +449,7 @@
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "PNW",
         "url": "https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR"
@@ -513,7 +465,27 @@
       "url": "https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -529,23 +501,7 @@
       "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Not Now I'm Busy",
-        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Three Little Pigs",
-      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Vertino",
         "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
@@ -565,7 +521,7 @@
       "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Can U Dig That?",
         "url": "https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy"
@@ -585,7 +541,7 @@
       "url": "https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Muggsy Bogues",
         "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
@@ -605,7 +561,7 @@
       "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -629,7 +585,39 @@
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -649,7 +637,7 @@
       "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
         "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
@@ -677,7 +665,23 @@
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Not Now I'm Busy",
+        "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Three Little Pigs",
+      "url": "https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
@@ -701,7 +705,7 @@
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
@@ -721,23 +725,7 @@
       "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Marciology",
         "url": "https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU"
@@ -757,59 +745,7 @@
       "url": "https://open.spotify.com/track/1f8AftHmQC9TaHa8fg7RFI"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Stand Tall",
-        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 129498,
-      "name": "Stand Tall",
-      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "A Forsaken Lover's Plea",
-        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
-      },
-      "artists": [
-        {
-          "name": "Chuck Strangers",
-          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Polish Jazz",
-      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Giants Of The Fall",
         "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
@@ -833,7 +769,43 @@
       "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 129498,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Polish Jazz",
+      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
@@ -849,7 +821,47 @@
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Yokohama Slim",
+        "url": "https://open.spotify.com/album/0EFCnTO7xvVAXFHXTcPLDR"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "RichGains",
+          "url": "https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Yokohama Slim",
+      "url": "https://open.spotify.com/track/0FUttXeJKxykc1EqlJXNgy"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Blowfly (with Ab-Soul)",
         "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
@@ -869,7 +881,7 @@
       "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Everybody Can't Go",
         "url": "https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq"
@@ -897,31 +909,7 @@
       "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "The Elephant Man's Bones",
-        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Daddy Kane (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
@@ -941,7 +929,23 @@
       "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 18:28:40",
+      "album": {
+        "name": "Marciology",
+        "url": "https://open.spotify.com/album/6820jxuExN2TtOOa0Bj7kU"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 212741,
+      "name": "Goyard God",
+      "url": "https://open.spotify.com/track/28oStvbdfSCqQRMIkvyXCN"
+    },
+    {
+      "added_at": "2024-05-03 18:28:40",
       "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
@@ -959,70 +963,6 @@
       "duration_ms": 274558,
       "name": "Flavors of Karma",
       "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Winner's Blues",
-        "url": "https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Winner's Blues",
-      "url": "https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Heads I Win, Tails You Lose",
-        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Gangrene",
-          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 257665,
-      "name": "Magic Dust (feat. Evidence)",
-      "url": "https://open.spotify.com/track/3V6JhUdxUCx1TzUjH9jCJz"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 50238,
+  "2024-05-04": 50254,
   "date_first_scraped": "2022-03-24",
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Cristal",
   "name": "Baby Hair",
@@ -835,7 +835,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157808,
       "name": "Chevette",
       "url": "https://open.spotify.com/track/1cIkjFkvZisLYsY0axSkac"
@@ -1337,6 +1337,28 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "album": {
+        "name": "Eles Dizem Me Amar",
+        "url": "https://open.spotify.com/album/3xUqdp7SGuTDVopkIpGbhu"
+      },
+      "artists": [
+        {
+          "name": "BaB",
+          "url": "https://open.spotify.com/artist/4IntnMtAydhIlsMwJv7nyx"
+        },
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134304,
+      "name": "Eles Dizem Me Amar",
+      "url": "https://open.spotify.com/track/3WmBu62aEEMj2yMYOhpWNn"
     },
     {
       "album": {
@@ -3211,7 +3233,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187405,
       "name": "Novinho Chora",
       "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
@@ -5209,6 +5231,32 @@
       "duration_ms": 182484,
       "name": "Vinhedo",
       "url": "https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia"
+    },
+    {
+      "album": {
+        "name": "Vish",
+        "url": "https://open.spotify.com/album/67JUKKWnQ4AjhafRqeICT9"
+      },
+      "artists": [
+        {
+          "name": "gabss",
+          "url": "https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Vinni OG Beats",
+          "url": "https://open.spotify.com/artist/68mX2E0DwXVeyVSE9SHht2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Vish",
+      "url": "https://open.spotify.com/track/6hQ5cvIg7XRqG1zMRqx9o2"
     },
     {
       "album": {

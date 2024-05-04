@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 10676,
+  "2024-05-04": 10679,
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest alternative music from Nairobi to Dar! Cover: Nu Fvnk",
+  "description": "The hottest alternative music from Nairobi to Dar! Cover: tg.blk",
   "name": "Eastern Vibes",
   "tracks": [
     {
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 246923,
       "name": "Hold On To The Faith",
       "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213932,
       "name": "Jaafari's 19th",
       "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
@@ -1479,6 +1479,24 @@
       "duration_ms": 158400,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH"
+    },
+    {
+      "album": {
+        "name": "You Wasted Kampala Love",
+        "url": "https://open.spotify.com/album/1OMjo4dYb63a4h7ObE3iKY"
+      },
+      "artists": [
+        {
+          "name": "Sent\u00e9",
+          "url": "https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151718,
+      "name": "Kampala Woman",
+      "url": "https://open.spotify.com/track/6BksNDyapauW1sDeTvpZmD"
     },
     {
       "album": {
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
@@ -2096,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Motorola Money",
+        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110738,
+      "name": "Motorola Money",
+      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
+    },
+    {
+      "album": {
         "name": "Shwento 2020",
         "url": "https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik"
       },
@@ -2463,6 +2499,28 @@
       "duration_ms": 289010,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/42H2uitTxFmfaKvbNYDI9t"
+    },
+    {
+      "album": {
+        "name": "Outside | An Xpressions UG Session",
+        "url": "https://open.spotify.com/album/7MxBpRssOJ43wjqOakAiCE"
+      },
+      "artists": [
+        {
+          "name": "XpressionsUG",
+          "url": "https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5"
+        },
+        {
+          "name": "Schitzo",
+          "url": "https://open.spotify.com/artist/7FtU9WBsi4l1gI52dIafJ3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160304,
+      "name": "Outside | An Xpressions UG Session",
+      "url": "https://open.spotify.com/track/4g1EclfHZhKXRPgrKqd91A"
     },
     {
       "album": {
@@ -2975,7 +3033,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 123624,
       "name": "Slow wine",
       "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
@@ -3665,6 +3723,32 @@
       "duration_ms": 184476,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq"
+    },
+    {
+      "album": {
+        "name": "The Ugandan",
+        "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
+      },
+      "artists": [
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Eli Maliki",
+          "url": "https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK"
+        },
+        {
+          "name": "Joseph Sax",
+          "url": "https://open.spotify.com/artist/2t8rKVvEdPtdSxTgtcXJOY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "Wangu Peke",
+      "url": "https://open.spotify.com/track/42xxTN8nnBRcFscUWfU0ey"
     },
     {
       "album": {

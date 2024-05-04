@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29579,
+  "num_followers": 29577,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOhpaSJKYizH+IUXWOY5B87lqMkBdm",
+  "snapshot_id": "AAAOjILgvIftg1vtNpgEAUfI8qoh3Z7C",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,42 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-05-03 15:31:19",
+      "album": {
+        "name": "CHROMA 003",
+        "url": "https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk"
+      },
+      "artists": [
+        {
+          "name": "DOVE",
+          "url": "https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 236628,
+      "name": "CHROMA 003 Bi83",
+      "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
+    },
+    {
+      "added_at": "2024-05-03 15:25:33",
+      "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 286350,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib"
     },
     {
       "added_at": "2024-05-01 15:57:55",
@@ -723,38 +759,6 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2023-11-15 01:16:43",
-      "album": {
-        "name": "Small Sanctuary",
-        "url": "https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Small Sanctuary",
-      "url": "https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ"
-    },
-    {
-      "added_at": "2023-11-03 15:41:53",
-      "album": {
-        "name": "LXXXVIII",
-        "url": "https://open.spotify.com/album/4jMtRqpTc30H2oEPDbnKC4"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 163627,
-      "name": "Pluto ( a 2 )",
-      "url": "https://open.spotify.com/track/0cLufjoaDFrrLnNWH0fMvd"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

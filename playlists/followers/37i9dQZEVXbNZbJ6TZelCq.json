@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 32823,
+  "2024-05-04": 32827,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -1831,6 +1831,28 @@
       "duration_ms": 207437,
       "name": "Anturaj",
       "url": "https://open.spotify.com/track/3741dyZRKWQQZxy2dplpWp"
+    },
+    {
+      "album": {
+        "name": "Aoleu",
+        "url": "https://open.spotify.com/album/3LW9pVdA5tHHpZg4s2OPfP"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119916,
+      "name": "Aoleu",
+      "url": "https://open.spotify.com/track/0RgvTGup9GpTFJq897mdYo"
     },
     {
       "album": {
@@ -7147,7 +7169,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 234925,
       "name": "Decibeli",
       "url": "https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz"
@@ -9062,6 +9084,24 @@
     },
     {
       "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
       },
@@ -9381,7 +9421,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 158740,
       "name": "Fana",
       "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
@@ -10329,7 +10369,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -15257,7 +15297,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 135145,
       "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
@@ -17581,7 +17621,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 207761,
       "name": "METGALA",
       "url": "https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA"
@@ -21009,7 +21049,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -24087,7 +24127,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 252723,
       "name": "r\u0103m\u00e2n focusat",
       "url": "https://open.spotify.com/track/1i35n7sJPLSfZpMWDaSKle"
@@ -24581,7 +24621,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 326958,
       "name": "schimb\u0103ri",
       "url": "https://open.spotify.com/track/2Eain7NPfT8siD8NZkc0tM"

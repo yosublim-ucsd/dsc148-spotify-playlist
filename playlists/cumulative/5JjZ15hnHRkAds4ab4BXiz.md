@@ -4,7 +4,7 @@
 
 > 
 
-231 songs - 14 hr 30 min
+232 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Barbarism Begins at Home \- 2011 Remaster](https://open.spotify.com/track/35WDTZhAwkoBF65jGTzF2O) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 6:53 | 2024-04-09 |  |
 | [Beach Walk](https://open.spotify.com/track/1KN9HelgzrT0jMQ5Ju8u8Y) | [Whitewoods ](https://open.spotify.com/artist/1wDDq31Nz0yzwObGFUfsp1) | [Beach Walk](https://open.spotify.com/album/24gMCxaIG3mEj4VW9ZPx1h) | 2:19 | 2023-11-19 |  |
 | [Between Love & Hate](https://open.spotify.com/track/5OmumaYiHYXUsYZPGLFTYJ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:16 | 2024-04-09 |  |
+| [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-05-03 |  |
 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 | 2023-11-14 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2024-02-16 |  |
 | [Bow Down](https://open.spotify.com/track/0tOSLsRduTjAowHLcyAUS4) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 3:02 | 2024-04-08 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 68456,
+  "2024-05-04": 68458,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -861,7 +861,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161168,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 225240,
       "name": "Don't Reach For Me",
       "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
@@ -2229,6 +2229,24 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
     },
     {
       "album": {
@@ -2879,10 +2897,28 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 224841,
       "name": "Karma's A Bitch",
       "url": "https://open.spotify.com/track/3LwEb2gndSporUInoVxUFB"
+    },
+    {
+      "album": {
+        "name": "Karma's A Bitch",
+        "url": "https://open.spotify.com/album/2jKuxjlCcnU7BaoeDkvjUj"
+      },
+      "artists": [
+        {
+          "name": "Brit Smith",
+          "url": "https://open.spotify.com/artist/3c4w2ooGWx3cycO7ZcxNCF"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224860,
+      "name": "Karma's A Bitch",
+      "url": "https://open.spotify.com/track/34tDhqHhkxwDp4llQ5PxVj"
     },
     {
       "album": {
@@ -3263,7 +3299,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -3281,7 +3317,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 169403,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/28ZwgrsyIbpX4diz92ACnm"
@@ -5697,6 +5733,24 @@
       "duration_ms": 164227,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "The Reasons of My Smiles",
+      "url": "https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G"
     },
     {
       "album": {

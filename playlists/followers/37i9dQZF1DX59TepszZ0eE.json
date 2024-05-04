@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 63744,
+  "2024-05-04": 63835,
   "date_first_scraped": "2022-10-01",
   "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2_K6pJqTdyARlv_VNY97w>The Fellowship</a>",
   "name": "Sunday Praise",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 439511,
       "name": "Apha\u2019Kum (Live at Mosaiek Theatre, 2023)",
       "url": "https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V"
@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Goliathi (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409813,
+      "name": "Goliathi (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ"
+    },
+    {
+      "album": {
         "name": "Good Life (Remixes)",
         "url": "https://open.spotify.com/album/2SzPbcOmiDbVcXiL5UD1bx"
       },
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 331289,
       "name": "Jeso Ke Jeso (Live at Worship House Church Limpopo, 2023) (feat. Marc Sathekge)",
       "url": "https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 279937,
       "name": "Jesu Uyi Nkosi",
       "url": "https://open.spotify.com/track/0AcxpSjr50ixt53BrWvyLb"
@@ -2150,6 +2168,24 @@
     },
     {
       "album": {
+        "name": "Kukhona Amadlelo",
+        "url": "https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8"
+      },
+      "artists": [
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509999,
+      "name": "Kukhona Amadlelo",
+      "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
         "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
       },
@@ -2531,7 +2567,7 @@
       ],
       "date_added": "2018-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 416946,
       "name": "Moya Ka Jehovah - Live",
       "url": "https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY"
@@ -3297,7 +3333,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 616454,
       "name": "Re Bone Ka Naledi (feat. Kago, Given, Paul) - (Live At The State Theatre)",
       "url": "https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW"
@@ -3351,7 +3387,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 230238,
       "name": "Settle For Less",
       "url": "https://open.spotify.com/track/25TbptZWRF48kwfsIe3ou1"
@@ -4263,7 +4299,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171629,
       "name": "Umuhle Baba - Live At Cedarwoods of Sandton, 2023 / Reprise",
       "url": "https://open.spotify.com/track/4N2BsTLoKTUaGwX0aZ9CrY"

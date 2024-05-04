@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: F3line
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,858 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,859 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 29 | [Wunmi](https://open.spotify.com/track/0pujdli31EocqYmuXSZ2uw) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Wunmi](https://open.spotify.com/album/57y5UNQeSlYhyPh1bFjKw4) | 2:32 |
 | 30 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
 | 31 | [\(Don't\) Say I'm Wrong](https://open.spotify.com/track/66FeTaHEBpOehgauJVcGL5) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [\(Don't\) Say I'm Wrong](https://open.spotify.com/album/4IdKwSQzgbh3htCL3Tb6SO) | 4:26 |
-| 32 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [LordKnowz](https://open.spotify.com/artist/5kMgDc2PSSyx2eUc3RZLdu) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 |
+| 32 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [Lordknowz](https://open.spotify.com/artist/6EKRa2De9UHWEThLyXWzFY) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 |
 | 33 | [No Stress](https://open.spotify.com/track/3YI1Cobr59XbgLjhLrT2Sc) | [Scopy](https://open.spotify.com/artist/7FJmFvnAFGI36tICtvT2WV), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [No Stress](https://open.spotify.com/album/0LwhC9h3KSnFxanURMjHYK) | 3:14 |
 | 34 | [Alright](https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Hopeless Romantic \(EP\)](https://open.spotify.com/album/4poiSgaW1Bk5VWvmQQ8Ui4) | 2:45 |
 | 35 | [Falling](https://open.spotify.com/track/6drtB7tFWbtKvp4QikYuTo) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Falling](https://open.spotify.com/album/2a37proFkFTJZkrWPB7Nu9) | 3:04 |

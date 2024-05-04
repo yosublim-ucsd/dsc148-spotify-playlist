@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+    },
+    {
+      "album": {
         "name": "Alle dine beste dager",
         "url": "https://open.spotify.com/album/4w3omJOOedih1til2dfDqY"
       },
@@ -981,7 +999,7 @@
     },
     {
       "album": {
-        "name": "Do You Remember",
+        "name": "DO YOU REMEMBER?",
         "url": "https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr"
       },
       "artists": [
@@ -994,7 +1012,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199696,
-      "name": "Do You Remember",
+      "name": "DO YOU REMEMBER?",
       "url": "https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX"
     },
     {
@@ -2197,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Se for deg at det g\u00e5r",
+        "url": "https://open.spotify.com/album/338b7hzrbXlCXBg2uhlMkS"
+      },
+      "artists": [
+        {
+          "name": "Vettche",
+          "url": "https://open.spotify.com/artist/6tyvqGpeiBqwxbID97jugC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164579,
+      "name": "Kvert et smil",
+      "url": "https://open.spotify.com/track/3KdfeVRtbfq0VMeCMTzYFe"
+    },
+    {
+      "album": {
         "name": "La di frickin da",
         "url": "https://open.spotify.com/album/0PVs063U9p1Td2CgRxOM1j"
       },
@@ -2309,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213460,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
@@ -2407,24 +2461,42 @@
     },
     {
       "album": {
-        "name": "Miles on It",
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77809,
+      "name": "megaman",
+      "url": "https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY"
+    },
+    {
+      "album": {
+        "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168355,
-      "name": "Miles on It",
+      "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
@@ -3759,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
+    },
+    {
+      "album": {
         "name": "Vi finns",
         "url": "https://open.spotify.com/album/7Kn3vr40BixidoI9pRf4BR"
       },
@@ -4043,7 +4133,7 @@
     },
     {
       "album": {
-        "name": "Zombieland (feat. HARDY)",
+        "name": "zombieland (feat. HARDY)",
         "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
       },
       "artists": [
@@ -4060,7 +4150,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192397,
-      "name": "Zombieland (feat. HARDY)",
+      "name": "zombieland (feat. HARDY)",
       "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
     },
     {

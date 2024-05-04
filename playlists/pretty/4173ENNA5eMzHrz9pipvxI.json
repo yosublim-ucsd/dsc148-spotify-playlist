@@ -1,37 +1,13 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mike Williams",
-  "num_followers": 120167,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins x Jamezy x Ruth Royall",
+  "num_followers": 120160,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdZCf8P6Kmw2CwBP7chITo7J+KKkSo",
+  "snapshot_id": "AAAdaS9/OTY6MDLiN6MXnOQHJY8Tj7xK",
   "tracks": [
-    {
-      "added_at": "2024-05-02 23:30:44",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
     {
       "added_at": "2024-05-02 23:30:44",
       "album": {
@@ -59,38 +35,26 @@
     {
       "added_at": "2024-05-02 23:30:44",
       "album": {
-        "name": "Dream (Adrenalize Remix)",
-        "url": "https://open.spotify.com/album/0f10jw8TGbVeg4qRHQTvyG"
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
-        }
-      ],
-      "duration_ms": 203670,
-      "name": "Dream (Adrenalize Remix)",
-      "url": "https://open.spotify.com/track/0JwGnnL56XImqvqfNuRvJV"
-    },
-    {
-      "added_at": "2024-05-02 23:30:44",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/5IXxoWURqzdih9oT5JMdGE"
-      },
-      "artists": [
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
         {
-          "name": "Different Stage",
-          "url": "https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 240952,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/3NudrsFkJpY09ab1UjmuS4"
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "added_at": "2024-05-02 23:30:44",
@@ -115,6 +79,22 @@
       "duration_ms": 219289,
       "name": "Warmth (feat. Jono Dorr)",
       "url": "https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv"
+    },
+    {
+      "added_at": "2024-05-02 23:30:44",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/5IXxoWURqzdih9oT5JMdGE"
+      },
+      "artists": [
+        {
+          "name": "Different Stage",
+          "url": "https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z"
+        }
+      ],
+      "duration_ms": 240952,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/3NudrsFkJpY09ab1UjmuS4"
     },
     {
       "added_at": "2024-05-02 23:30:44",
@@ -243,6 +223,26 @@
       "duration_ms": 155119,
       "name": "Chica Culo Mami",
       "url": "https://open.spotify.com/track/6mWfk6Gz8JiPDKtoozSp3S"
+    },
+    {
+      "added_at": "2024-05-02 23:30:44",
+      "album": {
+        "name": "Dream (Adrenalize Remix)",
+        "url": "https://open.spotify.com/album/0f10jw8TGbVeg4qRHQTvyG"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "duration_ms": 203670,
+      "name": "Dream (Adrenalize Remix)",
+      "url": "https://open.spotify.com/track/0JwGnnL56XImqvqfNuRvJV"
     },
     {
       "added_at": "2024-05-02 23:30:44",

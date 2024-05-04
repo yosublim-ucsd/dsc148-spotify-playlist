@@ -1,6 +1,6 @@
 {
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
-  "num_followers": 15051,
+  "num_followers": 15060,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Nieve De Array\u00e1n",
+        "url": "https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Nieve De Array\u00e1n",
+      "url": "https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Cero Conflicto",
         "url": "https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 202580,
       "name": "Cero Conflicto",
       "url": "https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Nieve De Array\u00e1n",
-        "url": "https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Nieve De Array\u00e1n",
-      "url": "https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN"
     },
     {
       "added_at": "2024-03-01 05:00:00",

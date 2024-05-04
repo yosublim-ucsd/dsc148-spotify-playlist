@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,722 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,727 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 190 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
 | 191 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
 | 192 | [Rosie](https://open.spotify.com/track/3lf07xbXUAdsYlSJpRYQOp) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/1iHo9sJ9iZ8JKQDJMwAGyj) | 4:50 |
-| 193 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
-| 194 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
+| 193 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
+| 194 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
 | 195 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 196 | [Emotional Fire](https://open.spotify.com/track/74dOVbgf0hlCvsbFRLoSnV) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:54 |
 | 197 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 224 | [We Can](https://open.spotify.com/track/6pAIFLWUshFBKQhaxwlJ9J) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 3:40 |
 | 225 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
 | 226 | [Baby I Would](https://open.spotify.com/track/3E7J648DbnDGSPe0Hjfy7L) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:54 |
-| 227 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
-| 228 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
+| 227 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
+| 228 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 229 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
 | 230 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
 | 231 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
@@ -398,8 +398,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 388 | [You And The Moon](https://open.spotify.com/track/1cZbKoufXmYGWADU65eKHP) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 4:06 |
 | 389 | [Who Says You Can't Have It All \- StreetDance 2 Mix](https://open.spotify.com/track/41aZNnw779d8sN08DPSZqH) | [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Who Says You Can't Have It All \(StreetDance 2 Mix\)](https://open.spotify.com/album/3LumIJwBBVtmwOHKgC2DiC) | 3:23 |
 | 390 | [Overloved](https://open.spotify.com/track/0Y1U5q9knkjYgk9iKRco64) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [This Is My Time](https://open.spotify.com/album/5iz3DdRLx9bhxWffOblQrz) | 4:11 |
-| 391 | [What If We Never](https://open.spotify.com/track/09kXjeQTPwppWH9x7VO8nD) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:37 |
-| 392 | [Are You Gonna Throw It All Away](https://open.spotify.com/track/59Ny4R3pEDgZWKQtuy1diN) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 4:55 |
+| 391 | [Are You Gonna Throw It All Away](https://open.spotify.com/track/59Ny4R3pEDgZWKQtuy1diN) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 4:55 |
+| 392 | [What If We Never](https://open.spotify.com/track/09kXjeQTPwppWH9x7VO8nD) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:37 |
 | 393 | [Heart With Your Name On It \(Solo Musivideos\)](https://open.spotify.com/track/21VCoOSymPoyBI5VgkvCC6) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:46 |
 | 394 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
 | 395 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbQSugAAAADHaIlhwlIhexDiv6iGhcHh`
+Snapshot ID: `AbQYIgAAAAB6y/02rasD09FeY2vwzHyk`

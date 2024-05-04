@@ -4,7 +4,7 @@
 
 > Worship 2024 \| <a href="https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 \(Live\)'! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-436 songs - 1 day 18 hr 43 min
+437 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [You Remain \- Live](https://open.spotify.com/track/1RjvoksFFtAsqYo2uSHAOy) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [The Turning](https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR) | 6:08 | 2022-08-29 | 2023-04-01 |
 | [You Remain \- Live](https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [You Remain \(Live\)](https://open.spotify.com/album/0mC62E1P3NyDz3IvZxPVPK) | 6:08 | 2022-07-01 | 2022-08-30 |
 | [You're The Same God \- Live](https://open.spotify.com/track/2wr99qaFm7RPdWc4qgXVxh) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Aiva Jenkins](https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd), [Sam Marines](https://open.spotify.com/artist/7oJvy2NV9O1NYo215EHmy3) | [Moments: 013 \(Live\)](https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe) | 8:25 | 2024-04-26 |  |
+| [Your House](https://open.spotify.com/track/71eqpkZTyxRmZ1lPWHhFvD) | [V1 Worship](https://open.spotify.com/artist/6d31LwaDZ6LKrKugi2D7Lx) | [Your House](https://open.spotify.com/album/0FI5TSGBD51B179iJcLxl8) | 3:57 | 2024-05-03 |  |
 | [Your Love Will Never Change \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/0IryxebdSSg4MC3xrv60oF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change](https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu) | 5:04 | 2023-12-01 | 2024-04-19 |
 | [Your word \(psalm 119\)](https://open.spotify.com/track/5EjBZv52j8DY9bO3zKW6Au) | [Skylar Dayne](https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg) | [Your word \(psalm 119\)](https://open.spotify.com/album/0VlhEr11NzMgSY1dAWKMAf) | 5:06 | 2024-02-09 |  |
 | [Zeal \- Live](https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 4:02 | 2024-01-26 |  |

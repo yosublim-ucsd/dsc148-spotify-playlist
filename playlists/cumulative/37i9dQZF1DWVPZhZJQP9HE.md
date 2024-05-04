@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-530 songs - 1 day 7 hr 29 min
+532 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Beachu Oram](https://open.spotify.com/track/29Gsit7bo5Yq5A0cOVA4Pf) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Sambo](https://open.spotify.com/artist/1dlV7hsBVFkdprs7SksFKR) | [Beachu Oram](https://open.spotify.com/album/6Ge38Eu91HH5ljzFEoqsMA) | 3:21 | 2023-02-14 | 2024-02-17 |
 | [Beachu Oram](https://open.spotify.com/track/7GD6Jq0eO9M3i1VEEFcXvm) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Sambo](https://open.spotify.com/artist/1dlV7hsBVFkdprs7SksFKR) | [Beachu Oram](https://open.spotify.com/album/2PLEvBO6mkpeQ75fQDASnd) | 3:21 | 2023-02-14 | 2024-01-02 |
 | [Bhae Bhae](https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG) | [AG Maggy](https://open.spotify.com/artist/3I4Vemt9tNQnBG7apbbMJY) | [Bhae Bhae](https://open.spotify.com/album/4qP8WhOmeSmMuuaY3WTkHr) | 4:09 | 2022-12-02 | 2023-02-10 |
+| [Bloody Bugger](https://open.spotify.com/track/5H0ZK1rpUvrJt7JvhxpRTy) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Bloody Bugger](https://open.spotify.com/album/5fNwSJQe0NImEzmmIkgHTZ) | 2:49 | 2024-05-03 |  |
 | [Bodhai Neeye](https://open.spotify.com/track/1F7zl2SM8Ckqjsyf3OBVG3) | [Praveen Powers](https://open.spotify.com/artist/2n0JRtQVAdOos5ROmEX6c3), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Bodhai Neeye](https://open.spotify.com/album/6LejRIejmqPBhLqpOA5Xlx) | 5:22 | 2022-02-14 | 2022-05-31 |
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-01-16 | 2023-03-23 |
 | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/track/4mWpO1fpNXneis8q93SHpW) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Medha Ramasamy](https://open.spotify.com/artist/08pPLU6h73jp7wmuZwIwUb), [Siddharth Shandilyasa](https://open.spotify.com/artist/6r8Qnew7Dd79tqaMqTiz1s) | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/album/7qZNggBLqmEiUsnk6lyDEH) | 3:53 | 2022-11-16 | 2023-02-07 |
@@ -343,6 +344,7 @@
 | [Oh Azhagae, Pt\. 1](https://open.spotify.com/track/2YY7HsQbmERN99mfnUsrGA) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Buffoon Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/00Ex3gBXLz8v0gXHlmIaJH) | 4:18 | 2023-03-22 | 2023-04-01 |
 | [Oh Maane](https://open.spotify.com/track/5zq8sYIf71unFfTEbdw3kL) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Oh Maane](https://open.spotify.com/album/1Kx1hAJqJ49iK85Osl6aJE) | 5:28 | 2023-02-10 |  |
 | [Ok Kanmani](https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Ok Kanmani](https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu) | 4:25 | 2022-08-11 | 2022-11-25 |
+| [Okay](https://open.spotify.com/track/56fZS9eCVLNGrc4s9ebbz8) | [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Dharshu Prakash](https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb) | [Okay](https://open.spotify.com/album/5kWUG5S49XZIyY2875fL1i) | 3:40 | 2024-05-03 |  |
 | [Onnu Illa Nooru](https://open.spotify.com/track/0o7aamlDHXOpOGXptI7201) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Onnu Illa Nooru](https://open.spotify.com/album/1DJ0iILjsBDhhWjwGPvAGI) | 3:37 | 2022-11-24 | 2023-04-01 |
 | [Oonjalaadalaam](https://open.spotify.com/track/1HW3v6rirexgnuXI768tot) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Oonjalaadalaam](https://open.spotify.com/album/30IUpqDvKfHUZIBSmnuQhg) | 2:59 | 2022-11-30 | 2023-03-07 |
 | [Ooradangu Uththaravu](https://open.spotify.com/track/1QGUiYP2G9EZoSHLVvaoZU) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak) | [Ooradangu Uththaravu](https://open.spotify.com/album/5WOcOmhUjF2yrwg9xBN7d4) | 3:19 | 2022-06-02 | 2022-06-16 |

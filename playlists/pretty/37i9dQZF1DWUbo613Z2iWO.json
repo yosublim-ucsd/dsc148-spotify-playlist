@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Flwr Chyld & Grimm Lynn",
-  "num_followers": 50478,
+  "description": "R&B of the moment by the artists of the future. Cover: Fana Hues",
+  "num_followers": 50499,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAAC17hU4difP7TyKG0OSkox3",
+  "snapshot_id": "ZjT6cgAAAAAnqyl09i6TkBVwT9ZAa5Ay",
   "tracks": [
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Paper Tigers",
+        "url": "https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 212394,
+      "name": "Paper Tigers",
+      "url": "https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Cyan Blue",
+        "url": "https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 211574,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
+    },
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
@@ -29,32 +61,20 @@
       "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 14:53:38",
       "album": {
-        "name": "Private Suite 5",
-        "url": "https://open.spotify.com/album/5S2uSH1FUZYlKd6MBQeNgG"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/6WlivRKfQyk9vLeG8ljV3R"
       },
       "artists": [
         {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        },
-        {
-          "name": "11:11",
-          "url": "https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3"
-        },
-        {
-          "name": "Mizzy Lott",
-          "url": "https://open.spotify.com/artist/77LgdygphWXJ93RxG0gY17"
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
         }
       ],
-      "duration_ms": 246674,
-      "name": "Now 3x",
-      "url": "https://open.spotify.com/track/6CcenN2Vxro1DxwevikszV"
+      "duration_ms": 252809,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -97,6 +117,90 @@
       "url": "https://open.spotify.com/track/4kZFUJrhhy6JwHUnd3M1jD"
     },
     {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "what do you need",
+        "url": "https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "what do you need",
+      "url": "https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2rqRoO0cePhSqHhSz4CnUD"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/4ZIzS7Zz1WMHjfwkSgpCT1"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 169545,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Such Is Love",
+        "url": "https://open.spotify.com/album/7oVdqFnANJV4UZai6ucg3f"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 128917,
+      "name": "Such Is Love",
+      "url": "https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Karma",
@@ -129,76 +233,20 @@
       "url": "https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-03 14:53:38",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1"
         }
       ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Wait, There's More",
-        "url": "https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 197439,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5XeibBA25uruR2fj9SgCJk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Soul, Body & Mind",
-        "url": "https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 175115,
-      "name": "Soul, Body & Mind",
-      "url": "https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
-      },
-      "artists": [
-        {
-          "name": "HMLT",
-          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
-        },
-        {
-          "name": "Sir Travis Knight",
-          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
-        }
-      ],
-      "duration_ms": 239712,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
+      "duration_ms": 207097,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -235,6 +283,150 @@
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "added_at": "2024-03-29 07:17:40",
+      "album": {
+        "name": "Send Your Loving (feat. Tayc) [Remix]",
+        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 221564,
+      "name": "Send Your Loving (feat. Tayc) [Remix]",
+      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/205X5r4SgDOWyPyUj4k1zw"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/4tXKv7Jpel1tgz8HUWwsGD"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Im Him (First Quarter)",
+        "url": "https://open.spotify.com/album/7a6k7rlAAlCF0euKrR8vL3"
+      },
+      "artists": [
+        {
+          "name": "Papa Jay",
+          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
+        }
+      ],
+      "duration_ms": 144335,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5OickbLkupQS7ox3Jy3OLt"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Sir Travis Knight",
+          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
+        }
+      ],
+      "duration_ms": 239712,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "JENA (Deluxe)",
+        "url": "https://open.spotify.com/album/72DC8FnrN7OT42nSx0mnsC"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "What A Good Time",
+      "url": "https://open.spotify.com/track/3Ky4QPDRxY2s20VT16Ou0y"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/2auYOGij9Pm28iFOWUKZ6D"
+      },
+      "artists": [
+        {
+          "name": "Arye\u00e8 The Gem",
+          "url": "https://open.spotify.com/artist/57IyzVgCqSf03yf30gIMwY"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "FWM",
+      "url": "https://open.spotify.com/track/7wZuvjqlTigThsepjIHMQE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Soul, Body & Mind",
+        "url": "https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 175115,
+      "name": "Soul, Body & Mind",
+      "url": "https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi"
     },
     {
       "added_at": "2024-03-22 08:51:00",
@@ -283,30 +475,6 @@
       "duration_ms": 157318,
       "name": "Nothings Into Signs",
       "url": "https://open.spotify.com/track/31kpgadjTib4K74PRKec0s"
-    },
-    {
-      "added_at": "2024-03-22 08:51:00",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq"
-      },
-      "artists": [
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        },
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -387,42 +555,6 @@
       "duration_ms": 207128,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
-        "name": "Send Your Loving (feat. Tayc) [Remix]",
-        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 221564,
-      "name": "Send Your Loving (feat. Tayc) [Remix]",
-      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": "2024-04-05 04:05:00",
@@ -783,22 +915,6 @@
     {
       "added_at": "2024-03-29 07:17:40",
       "album": {
-        "name": "Mr. Weatherman",
-        "url": "https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Mr. Weatherman",
-      "url": "https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/3cCbOPhkQHY2CEtowc1qMw"
       },
@@ -915,22 +1031,6 @@
       "duration_ms": 122115,
       "name": "Smoke + Mirrors",
       "url": "https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh"
-    },
-    {
-      "added_at": "2024-02-09 18:38:40",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7uLBUfy84YyVLBVXAsbleT"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 158246,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/5iLJL1EM7qZ9xzBHrnvFXq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1763,22 +1863,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
       },
@@ -1791,22 +1875,6 @@
       "duration_ms": 131541,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Young & Reckless",
-        "url": "https://open.spotify.com/album/1PLct2MneZeXJOi335GQfD"
-      },
-      "artists": [
-        {
-          "name": "Rhyan Douglas",
-          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
-        }
-      ],
-      "duration_ms": 136662,
-      "name": "Young & Reckless",
-      "url": "https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P"
     },
     {
       "added_at": "2024-01-10 17:00:00",

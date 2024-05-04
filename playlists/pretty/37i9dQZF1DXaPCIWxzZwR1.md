@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop Cover: McKenna Grace
+> next gen pop Cover: Mckenna Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,429 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,400 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Migraine](https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Migraine](https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl) | 3:26 |
 | 100 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
 
-Snapshot ID: `ZjRhQAAAAACfNnv+p7hGmN5Wvhu/O/fF`
+Snapshot ID: `ZjT8twAAAAAY/n7M1cT1oeI9jFWIHWjP`

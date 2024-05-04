@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#3 劇場版【名探偵コナン 黒鉄の魚影】  高山みなみ×林原めぐみ×立川譲監督「とっても仲良し！でもスタジオの外では…？」](https://open.spotify.com/episode/4q1HlCcZHn29EbmDpwhqje) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 40:52 | 2024-04-16 |  |
+| [\#3 劇場版【名探偵コナン 黒鉄の魚影】  高山みなみ×林原めぐみ×立川譲監督「とっても仲良し！でもスタジオの外では…？」](https://open.spotify.com/episode/4q1HlCcZHn29EbmDpwhqje) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 40:52 | 2024-04-16 |  |
 | [always](https://open.spotify.com/track/7BUTvMscLY29cBxspSOsY6) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:06 | 2022-10-01 |  |
 | [ANSWER](https://open.spotify.com/track/6HmrS7qJmdp5UtfNPex4h6) | [Only this time](https://open.spotify.com/artist/0jGQCMvbrhH1zfypjrAHDU) | [ANSWER](https://open.spotify.com/album/5cJ9pLerKueRKtQNHvZcGu) | 4:11 | 2022-10-01 | 2023-03-22 |
 | [Aozolighter](https://open.spotify.com/track/2UIdZJcFfRkfWg7giwPYS9) | [Cellchrome](https://open.spotify.com/artist/5EvuKDdjD5zhXth9XqHJ7k) | [Aozolighter](https://open.spotify.com/album/7FJ0RBa2Dlg2KwV67AidUe) | 3:49 | 2022-10-01 | 2023-03-22 |

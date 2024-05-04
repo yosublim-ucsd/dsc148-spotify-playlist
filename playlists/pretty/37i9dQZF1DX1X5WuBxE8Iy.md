@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 
 > Las mejores canciones de Princesas de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,547 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,594 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

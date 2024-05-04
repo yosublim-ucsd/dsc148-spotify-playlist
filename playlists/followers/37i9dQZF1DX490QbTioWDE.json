@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 701651,
+  "2024-05-04": 701787,
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & Ulises Bueno.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Eugenia Quevedo.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -329,6 +329,24 @@
       "duration_ms": 274259,
       "name": "Ahora M\u00edrame",
       "url": "https://open.spotify.com/track/4EOTkRt48d1Eu31V2o4mNw"
+    },
+    {
+      "album": {
+        "name": "Algo M\u00e1s / Az\u00facar Amargo",
+        "url": "https://open.spotify.com/album/0O2WIytgYKQdMmIfi0cQFm"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233184,
+      "name": "Algo M\u00e1s / Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/1OHDQiWQQaQHtJboLbrgti"
     },
     {
       "album": {
@@ -747,7 +765,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 232514,
       "name": "A\u00fan Te Quiero - (En Vivo)",
       "url": "https://open.spotify.com/track/3Pp8IwkIi9SNPrgRyC5G00"
@@ -1083,6 +1101,28 @@
       "duration_ms": 214869,
       "name": "Ciencia Ficci\u00f3n",
       "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
+    },
+    {
+      "album": {
+        "name": "Claro Que Lo Hice (En vivo)",
+        "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206094,
+      "name": "Claro Que Lo Hice - En vivo",
+      "url": "https://open.spotify.com/track/0l3KYSBuArosib58MemWQF"
     },
     {
       "album": {
@@ -4349,7 +4389,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191850,
       "name": "Mi Ex Tenia Razon",
       "url": "https://open.spotify.com/track/04G51FtYTnXq1FPYTDnYjL"
@@ -5673,7 +5713,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169170,
       "name": "POR EL CONTRARIO / MIL PREGUNTAS - En Vivo",
       "url": "https://open.spotify.com/track/4p3x3vKr0dsT9Hnnrzr0pN"
@@ -7107,6 +7147,24 @@
       "duration_ms": 213333,
       "name": "Te Mentir\u00eda (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf"
+    },
+    {
+      "album": {
+        "name": "Te Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/13lbWskqHSqj6VoHk9Txl2"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3oFyo3dM2dmg2Q2asnzzLh"
     },
     {
       "album": {

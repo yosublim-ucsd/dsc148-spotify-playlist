@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 474583,
+  "num_followers": 474743,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAABKJvDh/dE4K6GZlYjyPv1x",
+  "snapshot_id": "ZjLXgAAAAAD2BiUXMmTnNhrGjHXNc9bm",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Path of Totality (Special Edition)",
-        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Get Up! (feat. Skrillex)",
-      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+      "duration_ms": 256853,
+      "name": "Alone I Break",
+      "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouchables",
-        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Alone I Break",
-      "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
+      "duration_ms": 222640,
+      "name": "Get Up! (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
     },
     {
       "added_at": null,

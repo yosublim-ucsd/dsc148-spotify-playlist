@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-74 songs - 5 hr 6 min
+76 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Dar Mpaka Moro](https://open.spotify.com/track/3WMhJoxSQ2gDx7cbHUOKX1) | [34GVNG](https://open.spotify.com/artist/3PcH8OctDvsGvWpbmTyWkE) | [Dar Mpaka Moro](https://open.spotify.com/album/6UhqSSojeI7zRX5o5khtwv) | 3:16 | 2023-09-08 | 2023-12-16 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 |  |
 | [Durban](https://open.spotify.com/track/65DMtntgb3Ptc4Ag828z8J) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Home](https://open.spotify.com/album/7HSs5XfwIMll6DsjdyO1WR) | 4:07 | 2023-09-08 |  |
-| [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2023-09-08 |  |
+| [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2023-09-08 | 2024-05-04 |
 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 | 2023-09-08 |  |
 | [Ghana](https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Phola](https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP) | 5:24 | 2023-09-08 |  |
 | [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 | 2023-10-20 |  |
@@ -45,6 +45,7 @@
 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 | 2024-01-19 |  |
 | [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 | 2023-09-08 |  |
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-09-08 |  |
+| [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2024-05-03 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/5gVcAwtySmuwkaaFamFzTR) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/5LCydiDsNtJH6oxI57oy7h) | 3:34 | 2024-03-15 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0) | 3:34 | 2023-09-08 | 2024-04-19 |
 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 | 2023-09-08 |  |
@@ -71,6 +72,7 @@
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |
 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 | 2023-09-08 |  |
+| [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2024-05-03 |  |
 | [Somalia Somali Baa Leh](https://open.spotify.com/track/2vegLZ4xf2GmjaD1LExwjY) | [Sharma Boy](https://open.spotify.com/artist/4SllpFxwa14CeJf4LMkiXZ), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Somalia Somali Baa Leh](https://open.spotify.com/album/4bG7BuW0lT3Kx0X2WhHrux) | 4:31 | 2023-09-08 |  |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-09-08 |  |
 | [Soweto Baby \(feat\. Wizkid & DJ Buckz\)](https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [Soweto Baby \(feat\. DJ Buckz & Wizkid\)](https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy) | 4:18 | 2023-09-08 |  |
@@ -80,7 +82,7 @@
 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 | 2023-09-08 |  |
 | [Ukunda](https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI) | [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Purge](https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW) | 4:21 | 2023-09-08 | 2023-10-10 |
 | [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 |  |
-| [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 |  |
+| [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 | 2024-05-04 |
 | [Zimbabwe](https://open.spotify.com/track/3oerlR534UFui3TItBwvlo) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Oliver's Greatest Hits](https://open.spotify.com/album/6JoLBg1dHCeHXhmRd3qeKe) | 2:56 | 2023-11-24 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-09-14. Prior content cannot be recovered.

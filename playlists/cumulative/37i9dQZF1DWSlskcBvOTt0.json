@@ -5061,6 +5061,28 @@
     },
     {
       "album": {
+        "name": "House (Solomun Remix)",
+        "url": "https://open.spotify.com/album/0Y1BoIYdll56b7mhVEbl0D"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251472,
+      "name": "House - Solomun Remix",
+      "url": "https://open.spotify.com/track/4dOeUyueTWItNBN1ylSee2"
+    },
+    {
+      "album": {
         "name": "How It Feels (feat. Lauren L'aimant)",
         "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
       },
@@ -7192,7 +7214,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 192540,
       "name": "Ma non tutta la vita (Populous Remix)",
       "url": "https://open.spotify.com/track/39bADkXSTGmAzKeYHD4YVD"
@@ -8197,7 +8219,7 @@
       "artists": [
         {
           "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/3eh0ESJAEiOgjjKAqwsztS"
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
         }
       ],
       "date_added": "2023-10-20",
@@ -11412,7 +11434,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 244149,
       "name": "Sutra",
       "url": "https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD"
@@ -12876,7 +12898,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"

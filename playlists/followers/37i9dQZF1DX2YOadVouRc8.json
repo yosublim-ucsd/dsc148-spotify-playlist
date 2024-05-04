@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 23981,
+  "2024-05-04": 23999,
   "date_first_scraped": "2022-08-06",
   "description": "afrobeats: best served chill",
   "name": "Afro Chill",
@@ -2220,6 +2220,28 @@
     },
     {
       "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
+    },
+    {
+      "album": {
         "name": "Elevate (Remix)",
         "url": "https://open.spotify.com/album/4Wj9d3QveiYJdbeAhIKnRz"
       },
@@ -2853,7 +2875,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147390,
       "name": "Flower",
       "url": "https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM"
@@ -2871,7 +2893,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 129576,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
@@ -2940,6 +2962,24 @@
     },
     {
       "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
+    },
+    {
+      "album": {
         "name": "That Uzere Boy",
         "url": "https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6"
       },
@@ -2959,6 +2999,28 @@
       "duration_ms": 144500,
       "name": "Gangnam Style",
       "url": "https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF"
+    },
+    {
+      "album": {
+        "name": "Gbera",
+        "url": "https://open.spotify.com/album/1hdcBkpvXUrsHaFFnbjEXh"
+      },
+      "artists": [
+        {
+          "name": "Pryme",
+          "url": "https://open.spotify.com/artist/2BfAlovyHR2zzxNVhFo1VK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166158,
+      "name": "Gbera",
+      "url": "https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU"
     },
     {
       "album": {
@@ -3851,7 +3913,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 208080,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/2UN6otFw9o9vHvzc4YrYZC"
@@ -4079,7 +4141,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 170666,
       "name": "Lalalala",
       "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
@@ -4105,6 +4167,28 @@
       "duration_ms": 170379,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/6UFpJ7EbqoIXS44f9oK11A"
+    },
+    {
+      "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "album": {
@@ -4389,7 +4473,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Love Don't Cost A Dime",
       "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
@@ -5171,7 +5255,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT"
@@ -5193,7 +5277,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 151578,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/5GBJVbsYC9sp5d9onpZAYu"
@@ -5287,7 +5371,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 190693,
       "name": "Ojoro",
       "url": "https://open.spotify.com/track/0lgQY2EW1ev4UuXVvATP8i"
@@ -6585,7 +6669,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 180745,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
@@ -6621,7 +6705,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168712,
       "name": "slo-mo",
       "url": "https://open.spotify.com/track/6lA2TkKvMZyfEn105eSB0V"
@@ -7427,7 +7511,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169463,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh"
@@ -7657,7 +7741,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 183170,
       "name": "Tonic No Lime",
       "url": "https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18"
@@ -8085,6 +8169,28 @@
       "duration_ms": 146000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "album": {
@@ -8725,6 +8831,24 @@
       "duration_ms": 202500,
       "name": "You",
       "url": "https://open.spotify.com/track/3guRObGqhLt2egEBho8Uxy"
+    },
+    {
+      "album": {
+        "name": "You (Rum & Schnapp)",
+        "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You (Rum & Schnapp)",
+      "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
     },
     {
       "album": {

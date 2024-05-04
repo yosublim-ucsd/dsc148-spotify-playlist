@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-414 songs - 1 day 7 hr 38 min
+415 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [La Fachada](https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down / La Fachada](https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1) | 3:19 | 2022-01-14 |  |
 | [Lazy Days \(feat\. Emma\-Jean Thackray\)](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 | 2023-08-11 |  |
 | [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 | 2023-08-11 | 2023-10-12 |
+| [Le Temps](https://open.spotify.com/track/3Dj70LxvP07JwexR0mTGN4) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455), [Rossy De Palma](https://open.spotify.com/artist/7qfJiqIiUlCzDd0lIidYos) | [Le Temps](https://open.spotify.com/album/1n4hvFzzdgmA0gpxjnWW9H) | 4:20 | 2024-05-03 |  |
 | [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 | 2024-03-22 |  |
 | [Liberation](https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/4FV6Mo4LSbN4YX6TSi8shV) | 5:14 | 2024-03-22 | 2024-04-19 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-08-26 | 2023-04-22 |
@@ -351,7 +352,7 @@
 | [The Drip \- Live Session](https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4) | [Green Tangerines](https://open.spotify.com/artist/1et1DTeSGzRFLcjnr4xCvS) | [Green Tangerines \(Live Session\)](https://open.spotify.com/album/6lVLYuBC9pUR20y5YWHf3y) | 5:47 | 2020-10-09 |  |
 | [The Epic \(feat\. Stanton Moore, Charlie Hunter & Skerik\)](https://open.spotify.com/track/3mR91U7nqzAe2QQmawlQ5M) | [Garage A Trois](https://open.spotify.com/artist/0AwUdoRkBTil1GzGRiJE0X), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [The Epic \(feat\. Stanton Moore, Charlie Hunter & Skerik\)](https://open.spotify.com/album/2OmrBCB24mLL8MwVxMMO5d) | 6:49 | 2021-04-02 | 2023-03-25 |
 | [The Grid Generation](https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [The Grid Generation](https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx) | 4:45 | 2023-07-21 |  |
-| [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 | 2021-06-18 |  |
+| [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 | 2021-06-18 | 2024-05-04 |
 | [The Hump](https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Shout It Out](https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1) | 6:11 | 2020-10-09 |  |
 | [The Kumquat Kids](https://open.spotify.com/track/2LyjDg604LyRHjPpiymW7Z) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Sunburst](https://open.spotify.com/album/0OBbbHk9bIj8k5DnzzQnkk) | 4:30 | 2020-10-09 | 2024-03-16 |
 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2020-10-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 3931,
+  "num_followers": 3935,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACZFHYb7JuNuKLRtsHGahfm",
+  "snapshot_id": "ZjLXgAAAAAAJSlMF5c0hhY1xSDe/zyiR",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limite (Ao Vivo)",
         "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 278613,
       "name": "Limite (Ao Vivo)",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
     },
     {
       "added_at": null,

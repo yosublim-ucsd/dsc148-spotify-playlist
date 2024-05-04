@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي جمال
 
-943 songs - 2 day 5 hr 18 min
+944 songs - 2 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,7 +834,7 @@
 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2023-11-13 | 2024-02-06 |
 | [ف المولد](https://open.spotify.com/track/2bk5VFJ9jYO2I9JDqJeozw) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8) | [ف المولد](https://open.spotify.com/album/79rzyP7T0SCn33yeJeIWo8) | 3:10 | 2023-12-29 | 2024-02-02 |
 | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/track/4dYAFJEQjVh50FjSHBfHWl) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/album/6NsLjJGK0DOO8V1jMFK8q1) | 3:48 | 2023-04-14 | 2023-05-19 |
-| [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 | 2024-05-02 |  |
+| [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/6hcm0x8MMc4txLimxz3PeK) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 | 2024-05-02 |  |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 | 2023-03-25 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |
 | [فرق كبير](https://open.spotify.com/track/0iHctLTPPxoEtLuf9H88Z1) | [Mishal Alrassan](https://open.spotify.com/artist/6k4NPN7KoGhaM6yJvUzgHK) | [فرق كبير](https://open.spotify.com/album/1BoRwOUP3mt0I7uc8CdsEJ) | 3:23 | 2024-01-18 | 2024-02-16 |
@@ -881,6 +881,7 @@
 | [ما اتفقناش](https://open.spotify.com/track/1NgXSCMvPWPYvewx5m2Oyr) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [ما اتفقناش](https://open.spotify.com/album/59VCxKihjY3xe5zG8srH2X) | 3:41 | 2024-01-05 | 2024-02-08 |
 | [مارتحناش](https://open.spotify.com/track/7MQEgw6m2eAxJMsy5AURlG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [مارتحناش](https://open.spotify.com/album/5TV3DdIKADbHPmMP7QyJbP) | 3:36 | 2024-02-13 | 2024-04-12 |
 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 | 2023-07-28 | 2023-08-18 |
+| [مبهتمش](https://open.spotify.com/track/4BKOtec0onTzosQFlOO9g3) | [زينة](https://open.spotify.com/artist/4xZjS8kM1HwJBnfn7IcPio) | [مبهتمش](https://open.spotify.com/album/4WFxZukuTollg6diHGcP5j) | 3:26 | 2024-05-02 |  |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-20 | 2022-11-11 |
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [متوحشنيش](https://open.spotify.com/track/6HWEWQCMRLwMORtD3jhctO) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [متوحشنيش](https://open.spotify.com/album/5Pujg0oHcMpdupvuopV3T5) | 3:58 | 2023-08-03 | 2023-08-24 |

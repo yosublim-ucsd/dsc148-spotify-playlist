@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Raccoon ",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia, Lost",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167641,
       "name": "BUSINESS CLASS",
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210840,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq"
@@ -5343,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "Portrait robot",
+        "url": "https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/4vCqXGcra1BULikbeZCg9z"
+    },
+    {
+      "album": {
         "name": "G\u00e9n\u00e9ration VDR",
         "url": "https://open.spotify.com/album/6TrliXQxDiWmkAuJftqKmN"
       },
@@ -6626,6 +6648,28 @@
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
+    },
+    {
+      "album": {
+        "name": "Portrait robot",
+        "url": "https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Laisse-moi",
+      "url": "https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn"
     },
     {
       "album": {

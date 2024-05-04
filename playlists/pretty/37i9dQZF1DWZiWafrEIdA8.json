@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9298,
+  "num_followers": 9295,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "Apocalypse Prod. PEEJAY",
+      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "Show Me the Money 5 Episode 2",
         "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 238965,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "Apocalypse Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "GENERATION",
-        "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG"
       },
       "artists": [
         {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Way it is",
-      "url": "https://open.spotify.com/track/35BWbBYVPZATgmUQvkwbAM"
+      "duration_ms": 177109,
+      "name": "GOD DID (Feat. Thug Min) [Prod. TOIL]",
+      "url": "https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

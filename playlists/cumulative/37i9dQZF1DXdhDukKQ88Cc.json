@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Skrue L\u00f8s",
+        "url": "https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124676,
+      "name": "Skrue L\u00f8s",
+      "url": "https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C"
+    },
+    {
+      "album": {
         "name": "SNAK/MILANO",
         "url": "https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV"
       },

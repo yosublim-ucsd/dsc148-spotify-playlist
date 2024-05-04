@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 923967,
+  "2024-05-04": 924120,
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Dana and Alden",
+  "description": "New jazz for open minds. Cover: Kamasi Washington",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4543,7 +4543,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
@@ -5650,6 +5650,32 @@
     },
     {
       "album": {
+        "name": "Cute",
+        "url": "https://open.spotify.com/album/2XQAdCKU3m4vOzp6ivV8SZ"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Luke Titus",
+          "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
+        },
+        {
+          "name": "Pera Krstajic",
+          "url": "https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384603,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/130fsJdxhLqeuZj3dm2fGj"
+    },
+    {
+      "album": {
         "name": "D'un feu secret",
         "url": "https://open.spotify.com/album/3MrKWyqdWqKqvNtl3xt4kP"
       },
@@ -6329,7 +6355,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178013,
       "name": "Departure Guide of the 7 Sisters",
       "url": "https://open.spotify.com/track/2sAHKiGOGECxnyTy5ROwbZ"
@@ -7047,7 +7073,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 519603,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
@@ -8502,6 +8528,24 @@
     },
     {
       "album": {
+        "name": "Fearless: An OMGjazz Ninja Saga",
+        "url": "https://open.spotify.com/album/7FoLJI7eee14Qjaqe0vAAF"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/4DNEbIgXuAf7gZkNpgm1OG"
+    },
+    {
+      "album": {
         "name": "JazzRx: Hope Dose",
         "url": "https://open.spotify.com/album/0zSAqMwol0Zb2aaJcWPzOE"
       },
@@ -9626,6 +9670,28 @@
     },
     {
       "album": {
+        "name": "The Doober",
+        "url": "https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206116,
+      "name": "GBTC",
+      "url": "https://open.spotify.com/track/65GFsgPvRGPJUpShEQ1v5s"
+    },
+    {
+      "album": {
         "name": "GET BACK",
         "url": "https://open.spotify.com/album/0LVOAUF6ObwK91vRlj1ukD"
       },
@@ -9663,6 +9729,32 @@
       "duration_ms": 257124,
       "name": "GET DOWN!",
       "url": "https://open.spotify.com/track/7Gz9d5NoDGlTKr5L7rEMVd"
+    },
+    {
+      "album": {
+        "name": "Get Lit",
+        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206397,
+      "name": "Get Lit",
+      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
     },
     {
       "album": {
@@ -13743,7 +13835,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 365945,
       "name": "Libations: Omnyama",
       "url": "https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d"
@@ -14057,6 +14149,28 @@
       "duration_ms": 150400,
       "name": "LITICUS",
       "url": "https://open.spotify.com/track/2nNKpH3LKElftv1DFl21rR"
+    },
+    {
+      "album": {
+        "name": "This Way To Love Jazz",
+        "url": "https://open.spotify.com/album/4SkdXALpCfyO8n2RDS1rPk"
+      },
+      "artists": [
+        {
+          "name": "Lo Greco Bros",
+          "url": "https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY"
+        },
+        {
+          "name": "Soulstance",
+          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327099,
+      "name": "Little Dog",
+      "url": "https://open.spotify.com/track/0V7eXwwm7q23gycADH4CZA"
     },
     {
       "album": {
@@ -15802,6 +15916,24 @@
     },
     {
       "album": {
+        "name": "Mission Statement",
+        "url": "https://open.spotify.com/album/74nT0UARgXMBT0WqsFYqom"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262560,
+      "name": "Mission Statement",
+      "url": "https://open.spotify.com/track/6owLXAOd68ZFVFZtIDYaOG"
+    },
+    {
+      "album": {
         "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
       },
@@ -15919,7 +16051,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 277600,
       "name": "MOMENTUM",
       "url": "https://open.spotify.com/track/57B1YJVhgmCFAcryA9W2xu"
@@ -17779,7 +17911,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179219,
       "name": "Onboard, Overboard",
       "url": "https://open.spotify.com/track/4ANnEyLDnnsQutlhxSH1iz"
@@ -18783,6 +18915,32 @@
       "duration_ms": 378746,
       "name": "Pebble Dance",
       "url": "https://open.spotify.com/track/5QkUBSQaFMH6BmmvojOBTQ"
+    },
+    {
+      "album": {
+        "name": "Pencarrow",
+        "url": "https://open.spotify.com/album/5sdlyPDzgaSHjlyNh3SOZ9"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451528,
+      "name": "Pencarrow",
+      "url": "https://open.spotify.com/track/6SemwihIi8SfLBZLhLaoyQ"
     },
     {
       "album": {
@@ -20845,7 +21003,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 164696,
       "name": "Rondostrut",
       "url": "https://open.spotify.com/track/6yunr4fuhYQUGLRs2EXXb4"
@@ -23270,6 +23428,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367973,
+      "name": "Still Waters",
+      "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
+    },
+    {
+      "album": {
         "name": "Stings",
         "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
       },
@@ -24009,7 +24185,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 135125,
       "name": "SWEET FIRE",
       "url": "https://open.spotify.com/track/0yzFdgkRpi3n5XB8RR8gaq"
@@ -26227,7 +26403,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244310,
       "name": "The Warrior Code",
       "url": "https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P"
@@ -26519,7 +26695,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 231480,
       "name": "Third Dream",
       "url": "https://open.spotify.com/track/4nspPTbkJ6AmhuqyexwJYo"
@@ -27479,7 +27655,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205691,
       "name": "TWO\u2026",
       "url": "https://open.spotify.com/track/1CC39TEVzahsrTSYRSW7Nc"
@@ -28408,6 +28584,24 @@
     },
     {
       "album": {
+        "name": "Water Spirits: Izinkonjana",
+        "url": "https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394975,
+      "name": "Water Spirits: Izinkonjana",
+      "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
+    },
+    {
+      "album": {
         "name": "Water's Edge",
         "url": "https://open.spotify.com/album/4U3amPY89pSYpLdrd8lt64"
       },
@@ -28715,6 +28909,32 @@
       "duration_ms": 316000,
       "name": "What Not To Do - Moodymann Remix",
       "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"
+    },
+    {
+      "album": {
+        "name": "What was that other part?",
+        "url": "https://open.spotify.com/album/3J2vemvzGO0HEmxz6RN3Hp"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129690,
+      "name": "What was that other part?",
+      "url": "https://open.spotify.com/track/5IGJBxd2q5cm09vNA1OdLE"
     },
     {
       "album": {
@@ -29121,6 +29341,24 @@
       "duration_ms": 235000,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/6aCuXpTZX2TgOTm3flPvSE"
+    },
+    {
+      "album": {
+        "name": "Find Your Flame",
+        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290213,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
     },
     {
       "album": {
@@ -29956,6 +30194,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30a4\u30fc\u30c8\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30ed\u30e0\u30c9\u30c3\u30b0\u30b9",
+        "url": "https://open.spotify.com/album/2nt5QzT7q4UT2yK09rEWvu"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "\u30b9\u30a4\u30fc\u30c8\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30ed\u30e0\u30c9\u30c3\u30b0\u30b9",
+      "url": "https://open.spotify.com/track/5p2Nq9Z0JfI12PrjAfj1YX"
+    },
+    {
+      "album": {
         "name": "\u30be\u30a6",
         "url": "https://open.spotify.com/album/6UB20HtWFVLxBDD2HgZare"
       },
@@ -30039,7 +30295,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 207000,
       "name": "\u6708\u520a\u914d\u4fe1\u91ce\u90ce",
       "url": "https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V"

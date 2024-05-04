@@ -1,6 +1,6 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Kylie Cantrall",
-  "num_followers": 199842,
+  "num_followers": 199891,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
@@ -11,21 +11,21 @@
     {
       "added_at": "2024-05-02 16:00:00",
       "album": {
-        "name": "Miles on It",
+        "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
       "duration_ms": 168355,
-      "name": "Miles on It",
+      "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {

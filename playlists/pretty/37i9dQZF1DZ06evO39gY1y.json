@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 221655,
+  "num_followers": 221704,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAslh7qL1lgNa5ybnsL9Bbe",
+  "snapshot_id": "ZjLXgAAAAACtLw1PzGDffv7RaI+ip4xr",
   "tracks": [
     {
       "added_at": null,
@@ -771,30 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209737,
-      "name": "Ma\u00f1ana Vas a Estar Ausente",
-      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209737,
+      "name": "Ma\u00f1ana Vas a Estar Ausente",
+      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
     },
     {
       "added_at": null,
@@ -963,6 +963,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tengo Miedo",
+        "url": "https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tiempo Cura",
         "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 232947,
       "name": "Olvidemos el Reloj",
       "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tengo Miedo",
-        "url": "https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz"
     },
     {
       "added_at": null,

@@ -2435,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "Tela Quente - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha"
+    },
+    {
+      "album": {
         "name": "Return of the Dream Canteen",
         "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
       },

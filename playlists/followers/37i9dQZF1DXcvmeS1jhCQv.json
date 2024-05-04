@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 74342,
+  "2024-05-04": 74357,
   "date_first_scraped": "2024-02-03",
   "description": "New tunes from Ireland for your discovery. Cover: CARSTEN2X, Joe Butler",
   "name": "A Breath of Fresh \u00c9ire",
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Lemoncello",
+        "url": "https://open.spotify.com/album/0WcN0V416f51MY5pr7P6VK"
+      },
+      "artists": [
+        {
+          "name": "Lemoncello",
+          "url": "https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/2rwfGkp8CNAJekjGhjyTQJ"
+    },
+    {
+      "album": {
         "name": "Double Cherry",
         "url": "https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177040,
       "name": "Double Cherry",
       "url": "https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195250,
       "name": "elegy",
       "url": "https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM"
@@ -1013,6 +1031,24 @@
       "duration_ms": 269589,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs"
+    },
+    {
+      "album": {
+        "name": "WHAT WAS THE QUESTION",
+        "url": "https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN"
+      },
+      "artists": [
+        {
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196603,
+      "name": "Landmine!",
+      "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
     },
     {
       "album": {
@@ -1363,7 +1399,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 257853,
       "name": "Naive",
       "url": "https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth"
@@ -2095,7 +2131,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 217761,
       "name": "Sundays Are Always Quiet",
       "url": "https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4"
@@ -2286,6 +2322,42 @@
     },
     {
       "album": {
+        "name": "Veins",
+        "url": "https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX"
+      },
+      "artists": [
+        {
+          "name": "Emma Noodles",
+          "url": "https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211328,
+      "name": "Veins",
+      "url": "https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9"
+    },
+    {
+      "album": {
+        "name": "violence'66",
+        "url": "https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181504,
+      "name": "violence'66",
+      "url": "https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9"
+    },
+    {
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV"
       },
@@ -2322,6 +2394,24 @@
     },
     {
       "album": {
+        "name": "WE GOOD ?",
+        "url": "https://open.spotify.com/album/5gUhM35mywuZIh4Uq79c4P"
+      },
+      "artists": [
+        {
+          "name": "Tnillz",
+          "url": "https://open.spotify.com/artist/7yTJnhcEGPii2kwJKQfr9B"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180724,
+      "name": "WE GOOD ?",
+      "url": "https://open.spotify.com/track/7vqIJVpShC23VVNy1s4lJ4"
+    },
+    {
+      "album": {
         "name": "What Can I Do",
         "url": "https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671"
       },
@@ -2333,7 +2423,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 230202,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr"

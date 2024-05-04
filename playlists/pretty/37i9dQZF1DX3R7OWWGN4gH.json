@@ -1,6 +1,6 @@
 {
   "description": "Who\u2019s afraid of little old me?",
-  "num_followers": 1282285,
+  "num_followers": 1282624,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 241893,
       "name": "Teacher's Pet",
       "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "I Did Something Bad",
-      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
-    },
-    {
       "added_at": "2024-04-24 00:07:55",
       "album": {
         "name": "LET THE WORLD BURN",
@@ -679,6 +663,22 @@
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "I Did Something Bad",
+      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "The Golden Age",
         "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 213266,
       "name": "Run Boy Run",
       "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 199593,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
     },
     {
       "added_at": "2024-02-28 05:01:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 161064,
       "name": "Class Fight",
       "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1655,6 +1655,30 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Heathers: The Musical (World Premiere Cast Recording)",
+        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
+      },
+      "artists": [
+        {
+          "name": "Jessica Keenan Wynn",
+          "url": "https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ"
+        },
+        {
+          "name": "Alice Lee",
+          "url": "https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5"
+        },
+        {
+          "name": "Elle McLemore",
+          "url": "https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Candy Store",
+      "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Heathers: The Musical (World Premiere Cast Recording)",
-        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
-      },
-      "artists": [
-        {
-          "name": "Jessica Keenan Wynn",
-          "url": "https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ"
-        },
-        {
-          "name": "Alice Lee",
-          "url": "https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5"
-        },
-        {
-          "name": "Elle McLemore",
-          "url": "https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Candy Store",
-      "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
     }
   ],
   "unique_name": "Villain Mode",

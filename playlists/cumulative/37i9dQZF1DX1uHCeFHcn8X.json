@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mellow songs from the 2010s. ",
+  "description": "Mellow songs from the 2010s. Cover: Adele",
   "name": "Soft 10s",
   "tracks": [
     {
@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 348226,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/5W63Zcirj6bvnTxhVIKTSK"

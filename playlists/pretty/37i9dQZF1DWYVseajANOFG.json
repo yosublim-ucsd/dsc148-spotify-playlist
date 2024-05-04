@@ -1,13 +1,29 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
-  "num_followers": 113214,
+  "num_followers": 113249,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAABi6B3Mp+hm1G59uTc8ePfe",
+  "snapshot_id": "ZjRhQAAAAACq5b3N9oxhPURgDcu7oJ7N",
   "tracks": [
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -29,44 +45,20 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
+        "name": "No Se Puede Confiar",
+        "url": "https://open.spotify.com/album/39dCnq4ZhfrShbfKIBJNsm"
       },
       "artists": [
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
         }
       ],
-      "duration_ms": 240600,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "NO SON PA' SIEMPRE",
-        "url": "https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ruso Beats",
-          "url": "https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "NO SON PA' SIEMPRE",
-      "url": "https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH"
+      "duration_ms": 133407,
+      "name": "No Se Puede Confiar",
+      "url": "https://open.spotify.com/track/1KxWYgUCYgryrH8Jc4CyyH"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -97,6 +89,26 @@
       "url": "https://open.spotify.com/track/0kTjuAVtSTJeaKWI25Jo1r"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "PERROS",
+        "url": "https://open.spotify.com/album/1EEHu9T5nL3cP4XWKEF2u1"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "PERROS",
+      "url": "https://open.spotify.com/track/4gYOh6eOY5wyBBtKjrUUWr"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La Ni\u00f1a Consentida",
@@ -115,6 +127,22 @@
       "duration_ms": 299650,
       "name": "La Ni\u00f1a Consentida",
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Ganga (Remix)",
+        "url": "https://open.spotify.com/album/2aEEpcKvbNhWEUk85OpUR3"
+      },
+      "artists": [
+        {
+          "name": "Fulo El Yeyo",
+          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "Ganga - Remix",
+      "url": "https://open.spotify.com/track/2xTxqM9iu3o74BSH4w4Kpz"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -139,6 +167,26 @@
       "duration_ms": 181682,
       "name": "Iluso - Remix",
       "url": "https://open.spotify.com/track/1rNptUcqZ4gc6UCZsV8yjg"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Daddy Issus",
+        "url": "https://open.spotify.com/album/4pmnJPYpkJnNXMV9cXVsyL"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Tachi",
+          "url": "https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Daddy Issus",
+      "url": "https://open.spotify.com/track/2ytS5soCsyHbJ6XmQ7qWA8"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -195,6 +243,30 @@
       "duration_ms": 170721,
       "name": "Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/7z5u77KCHfrTQNcoCENDSY"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "NO SON PA' SIEMPRE",
+        "url": "https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ruso Beats",
+          "url": "https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "NO SON PA' SIEMPRE",
+      "url": "https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -405,22 +477,6 @@
       "url": "https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Carta a mi toxica",
-        "url": "https://open.spotify.com/album/4Cd72hdpKGGzxVfiK4bXSM"
-      },
-      "artists": [
-        {
-          "name": "Bin$ho",
-          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
-        }
-      ],
-      "duration_ms": 176251,
-      "name": "Carta a mi toxica",
-      "url": "https://open.spotify.com/track/4WWFXMZhVHyzBEX5cqxrxb"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "CUPIDO TE FALL\u00d3",
@@ -435,22 +491,6 @@
       "duration_ms": 139324,
       "name": "CUPIDO TE FALL\u00d3",
       "url": "https://open.spotify.com/track/3ZxeZpz8wMN3yUMDCLHtl5"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Primero las Timbers",
-        "url": "https://open.spotify.com/album/1iqvJoMstBPfQr97W9uZmq"
-      },
-      "artists": [
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
-        }
-      ],
-      "duration_ms": 200852,
-      "name": "Antes Que Te Maten",
-      "url": "https://open.spotify.com/track/2dRMBixGY6BMusFVOxOQZ4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1003,26 +1043,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tu Loco",
-        "url": "https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi"
-      },
-      "artists": [
-        {
-          "name": "Mole",
-          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
-        },
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 319738,
-      "name": "Tu Loco",
-      "url": "https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Dragona Rmix",
         "url": "https://open.spotify.com/album/5zd4HNljt1AJglj9YB6xqV"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 265000,
       "name": "ALBERTO NAVARRO (feat. Danny Yash)",
       "url": "https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "0 Amigos Falsos",
-        "url": "https://open.spotify.com/album/4RFPDhWbcCHopB0xxhIw2h"
-      },
-      "artists": [
-        {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
-        },
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 342726,
-      "name": "0 Amigos Falsos",
-      "url": "https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA"
     },
     {
       "added_at": "2024-02-02 05:00:00",

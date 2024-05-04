@@ -2,7 +2,7 @@
 
 ### [This Is Larkin Poe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w)
 
-> This is Larkin Poe\. The essential tracks, all in one playlist.
+> This Is Larkin Poe\. Los temas esenciales, todos en una lista.
 
 141 songs - 8 hr 0 min
 

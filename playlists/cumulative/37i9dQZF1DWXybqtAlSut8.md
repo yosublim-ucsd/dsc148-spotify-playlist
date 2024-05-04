@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-50 songs - 2 hr 8 min
+51 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [tis So Sweet To Trust In Jesus \- Piano](https://open.spotify.com/track/6uZZOnfsqJ6uk3KjAFhtVX) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:26 | 2024-03-20 |  |
 | [To Be A Pilgrim](https://open.spotify.com/track/1PdtgxuOZlryglsmUbowbg) | [Tristian Fitzmaurice](https://open.spotify.com/artist/19kUkTgm6469j8Pp2BKyav) | [To Be A Pilgrim](https://open.spotify.com/album/6oFmmowsFtnxT8sdMzMaXX) | 1:53 | 2024-03-20 |  |
 | [To God Be the Glory \- Piano](https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:29 | 2024-03-20 |  |
+| [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 | 2024-05-03 |  |
 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 | 2024-03-20 |  |
 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 | 2024-03-20 |  |
 | [When I Get There](https://open.spotify.com/track/31Wfh7ary1K8g4i1KGYgla) | [Harry Cross](https://open.spotify.com/artist/3SUUNx6JXgmJPojGiLO8bo) | [When I Get There](https://open.spotify.com/album/2wdHaVPXKt2iDsriz9ai3k) | 2:46 | 2024-03-20 |  |

@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-1,002 songs - 1 day 16 hr 51 min
+1,003 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Easter Pink](https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Easter Pink](https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9) | 2:34 | 2023-05-26 | 2023-10-14 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-02-18 | 2022-04-20 |
 | [Emily](https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Emily](https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL) | 1:39 | 2023-09-22 | 2024-02-22 |
+| [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 | 2024-05-03 |  |
 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-07-08 | 2023-01-26 |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-03-24 | 2022-09-17 |
 | [euphoria](https://open.spotify.com/track/4O9icaX9uwFqdFm9DmC26Q) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [Specxfic](https://open.spotify.com/artist/5PbXje7x8DoKod3J9NB2Ex) | [euphoria](https://open.spotify.com/album/15BsUDpzIMTzlN6cEwqoEq) | 2:49 | 2022-05-13 | 2022-07-23 |
@@ -928,7 +929,7 @@
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 | 2023-06-22 |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2022-09-09 | 2023-03-23 |
 | [Ukraine \- Let Me Talk Afro Drill Mix](https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [Ukraine \(Let Me Talk Afro Drill Mix\)](https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII) | 1:55 | 2024-01-15 |  |
-| [UNDERDOG SONG \(feat\. Lil Baby\)](https://open.spotify.com/track/7AJYW0SKABcwCW4HnsDIWh) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [YOUNG GENIUS](https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ) | 2:39 | 2024-04-05 |  |
+| [UNDERDOG SONG \(feat\. Lil Baby\)](https://open.spotify.com/track/7AJYW0SKABcwCW4HnsDIWh) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [YOUNG GENIUS](https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ) | 2:39 | 2024-04-05 | 2024-05-04 |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 | 2024-01-26 |
 | [UP](https://open.spotify.com/track/7Mkc0cgOKfT6FsdNG5D9A9) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [LAMBDIDDY 2 EP](https://open.spotify.com/album/3gCjy6KiSUHOGszFDrsPJ3) | 1:47 | 2023-12-01 | 2023-12-30 |
 | [VEGAPUNK](https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [VEGAPUNK](https://open.spotify.com/album/2vv7kcy8ZfvNHBKtC8btFy) | 2:02 | 2023-02-03 | 2023-04-15 |

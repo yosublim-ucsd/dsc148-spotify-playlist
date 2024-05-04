@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,731 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,790 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [QOBA \- DJ Cleo Remix](https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN) | [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [QOBA \(DJ Cleo Remix\)](https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB) | 4:39 |
 | 50 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
 
-Snapshot ID: `ZhzuFwAAAAA/YOnMCM1DCwSIOd2LNBkC`
+Snapshot ID: `ZjSrpwAAAAAPnVN2ZBAabDfOvwDd9Lwa`

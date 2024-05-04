@@ -1,6 +1,6 @@
 {
   "description": "Hits con sabor. Cover: Camilo & Carin Leon",
-  "num_followers": 597231,
+  "num_followers": 597180,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 170809,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Kitipun",
-        "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Kitipun",
-      "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Kitipun",
+        "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Kitipun",
+      "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -667,8 +667,8 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
       },
       "artists": [
         {
@@ -676,13 +676,17 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 161897,
-      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -727,18 +731,18 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
-        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
-      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
+      "duration_ms": 229190,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -763,22 +767,6 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252100,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -795,6 +783,22 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
+        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
+      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -819,8 +823,8 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
-        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
       },
       "artists": [
         {
@@ -828,17 +832,13 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Si Te Preguntan... - feat. Nicky Jam & Jay Wheeler",
-      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+      "duration_ms": 161897,
+      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -859,6 +859,22 @@
       "duration_ms": 212813,
       "name": "Ambulancia",
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -895,22 +911,6 @@
       "duration_ms": 276433,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Ale Ale",
-        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 229190,
-      "name": "Ale Ale",
-      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Lo Que Te Di",
+      "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Lo Que Te Di",
-      "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
         "name": "Mi Mundo Entero",
         "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 158067,
       "name": "Mi Mundo Entero",
       "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Las Mujeres",
-        "url": "https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Las Mujeres",
-      "url": "https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1075,6 +1055,26 @@
       "duration_ms": 226821,
       "name": "Si Tu Te Atreves",
       "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Las Mujeres",
+        "url": "https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Las Mujeres",
+      "url": "https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1535,22 +1535,26 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Nubes Negras",
-        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+        "name": "De Camino A Palomino, Vol. 1",
+        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 246224,
-      "name": "Nubes Negras",
-      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
+      "duration_ms": 210446,
+      "name": "Se Le Nota",
+      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1579,26 +1583,22 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "De Camino A Palomino, Vol. 1",
-        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
+        "name": "Nubes Negras",
+        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         },
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 210446,
-      "name": "Se Le Nota",
-      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
+      "duration_ms": 246224,
+      "name": "Nubes Negras",
+      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
     },
     {
       "added_at": "2024-04-26 04:01:00",

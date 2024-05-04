@@ -2,7 +2,7 @@
 
 ### [Soft 80s](https://open.spotify.com/playlist/37i9dQZF1DX4WELsJtFZjZ)
 
-> Mellow songs from the 1980s.
+> Mellow songs from the 1980s\. Cover: Genesis
 
 326 songs - 1 day 0 hr 4 min
 
@@ -290,14 +290,14 @@
 | [Time \(Clock Of The Heart\)](https://open.spotify.com/track/5Jak77MTrWWypQr85wmXeo) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [This Time](https://open.spotify.com/album/3KlMmQJwwFDLAUop4AOycd) | 3:43 | 2022-01-10 | 2022-11-13 |
 | [Time After Time](https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Essential Cyndi Lauper](https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2) | 4:01 | 2021-02-02 |  |
 | [Time Will Reveal](https://open.spotify.com/track/5dOAshdEVLDMjHBnlMrX12) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 4:19 | 2022-01-10 | 2022-04-19 |
-| [Tom's Diner](https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tom's Diner](https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV) | 2:13 | 2022-03-14 |  |
+| [Tom's Diner](https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tom's Diner](https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV) | 2:13 | 2022-03-14 | 2024-05-04 |
 | [Tonight I Celebrate My Love](https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 3:31 | 2021-02-02 |  |
 | [Toy Soldiers](https://open.spotify.com/track/6YHpaawV0C88rwt2bQE6jV) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika](https://open.spotify.com/album/2dSrr6vS6RT9UWLOCEU0PY) | 4:47 | 2022-01-10 | 2022-04-21 |
 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 | 2022-05-25 | 2024-04-19 |
 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 | 2021-02-02 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-02-02 |  |
 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 | 2021-02-02 |  |
-| [Turn Back The Clock](https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 4:30 | 2021-02-02 | 2024-04-28 |
+| [Turn Back The Clock](https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 4:30 | 2021-02-02 |  |
 | [Two People](https://open.spotify.com/track/4Zu3egEh8DxX4Z8mSLjf8L) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Break Every Rule](https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2) | 4:09 | 2021-02-02 | 2023-07-09 |
 | [Under The Boardwalk](https://open.spotify.com/track/6a4mvE1CdiRMPyAvG8ByLN) | [Bruce Willis](https://open.spotify.com/artist/6UpHyjBIGRSHpna0GQ68bH) | [The Return Of Bruno](https://open.spotify.com/album/56jScJ8N9n8B4ZNu52KeHk) | 3:03 | 2021-02-02 | 2022-07-28 |
 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 | 2021-02-02 |  |

@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 745045,
+  "2024-05-04": 745953,
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte?si=YCmF44OES4aPXREYeQ5CWw\">Josiah De Disciple</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro?si=xWTXVjWlSPKsBYAXte1A3Q\">Soa Mattrix</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -12306,6 +12306,36 @@
     },
     {
       "album": {
+        "name": "Akani",
+        "url": "https://open.spotify.com/album/0OkkBuvxryBuhbOe3kixeZ"
+      },
+      "artists": [
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        },
+        {
+          "name": "Faith Strings",
+          "url": "https://open.spotify.com/artist/39ejxavrkdkHXj6yCGJugx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364302,
+      "name": "Iskhathi",
+      "url": "https://open.spotify.com/track/2tLjKAFyOoXUyApDEuq5C6"
+    },
+    {
+      "album": {
         "name": "Isomiso (feat. Zain SA)",
         "url": "https://open.spotify.com/album/2b8vMnz6eN0BFsaurH5nph"
       },
@@ -14439,7 +14469,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 406486,
       "name": "Kick Drum",
       "url": "https://open.spotify.com/track/50yc3v1g4amV1RS2Gckm2f"

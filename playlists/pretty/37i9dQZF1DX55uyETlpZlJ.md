@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,073 likes - 78 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,066 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 4 | [Jaaji](https://open.spotify.com/track/0ywANaoxCT31NotOj9qcLe) | [Harshith Gowda](https://open.spotify.com/artist/3c4PH5InLyo3RXPMPdLnT4), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Jaaji](https://open.spotify.com/album/6CyWmGE4WuB5weG1054cUN) | 3:38 |
 | 5 | [Hosa Generation](https://open.spotify.com/track/3tvqY86xJ71qTyfJkyAkHV) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Hosa Generation](https://open.spotify.com/album/1e99mzhwSAi5Z60E20gP0k) | 2:06 |
 | 6 | [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 |
-| 7 | [Hudukiruve](https://open.spotify.com/track/2hPhWXFEL2WO3nANRUp7xp) | [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo) | [Hudukiruve](https://open.spotify.com/album/4eIoKqU8zV6YHKk7ZSwPsT) | 3:48 |
+| 7 | [Hudukiruve](https://open.spotify.com/track/2hPhWXFEL2WO3nANRUp7xp) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Hudukiruve](https://open.spotify.com/album/4eIoKqU8zV6YHKk7ZSwPsT) | 3:48 |
 | 8 | [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 |
 | 9 | [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 |
 | 10 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 |

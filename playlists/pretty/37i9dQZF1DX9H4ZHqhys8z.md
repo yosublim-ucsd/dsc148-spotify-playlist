@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Haris Alexiou
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,536 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,545 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 23 | [Aerostato](https://open.spotify.com/track/07lEWtE1uxsemPgkBmQx6I) | [Cilia Katrali](https://open.spotify.com/artist/3zlHrTvjiDIL22SZeVhsXy) | [Aerostato](https://open.spotify.com/album/1Tfup7JlpDWZdueNzPBovc) | 2:36 |
 | 24 | [Poso Mou Lipis](https://open.spotify.com/track/29gokn8NuBeVkyCMMDzdeD) | [Tzeni Katsigianni](https://open.spotify.com/artist/4C0zdQ06888XuaH6X0ljAA) | [Poso Mou Lipis](https://open.spotify.com/album/7iuX4xRlCxMBwqz3spVSRi) | 3:18 |
 | 25 | [Ladi Sti Fotia](https://open.spotify.com/track/6jViK0C9u5uhfgQo5jTAoO) | [Fani Drakopoulou](https://open.spotify.com/artist/5AZEySJDP1cM2lSE4gmNfX) | [Ladi Sti Fotia](https://open.spotify.com/album/5VfBcevpNyWlwO5NPlbjoc) | 3:43 |
-| 26 | [Lathos](https://open.spotify.com/track/53fgZOSM7amHzXclILxybF) | [Vamva](https://open.spotify.com/artist/7fEKwaZv2qIls1Jelr73i3) | [Lathos](https://open.spotify.com/album/1i6iuWWzKci2q1KLAu7oXh) | 2:57 |
-| 27 | [SULEIMANA](https://open.spotify.com/track/7kFRtbIfJFCCopbgO5FHl3) | [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Steezynicco](https://open.spotify.com/artist/7iLoU3knm1FDad2TYZwS6l) | [SULEIMANA](https://open.spotify.com/album/2LDrXWntozbe5BelObEAhG) | 2:12 |
-| 28 | [Marioneta](https://open.spotify.com/track/0hUcmbrzQcjyANL8Q9y79N) | [Evgenia](https://open.spotify.com/artist/4shXizxNoGUxSHHUDawAol) | [Evgenia](https://open.spotify.com/album/3C5uGKBMSQD8hZJOoqBT46) | 3:20 |
-| 29 | [Asygxoritos](https://open.spotify.com/track/77PWLetXO4i45fH58dzU1H) | [Crystallia](https://open.spotify.com/artist/7EGpmVdibkfXUVtOW3bWPu) | [Asygxoritos](https://open.spotify.com/album/7vfHrhKiDfS2SgoIs1WNU5) | 2:53 |
-| 30 | [Sti Fotia](https://open.spotify.com/track/3qN1rzmdO0eFOHCjinISnu) | [Maria Kounelaki](https://open.spotify.com/artist/5wCaoeZukIlNOPkY5B7kAv), [Vangelis Machairas](https://open.spotify.com/artist/36LoNb8MfyG1fiQ3Bk4vGv) | [Maria Kounelaki](https://open.spotify.com/album/00RV4ZibJNJx4jYjAAOvUV) | 3:24 |
-| 31 | [Thunder](https://open.spotify.com/track/1sRSgGgPfD6mX5HgNx5KDr) | [VASSIŁINA](https://open.spotify.com/artist/5n3Evsf1GxkqPeD78wziZ9), [TOTALWERK](https://open.spotify.com/artist/57MW6qLi3LA1vFlFI7DpO7) | [Femmeland](https://open.spotify.com/album/2KZItta8p6zzNnDvqvVbhi) | 3:29 |
+| 26 | [SULEIMANA](https://open.spotify.com/track/7kFRtbIfJFCCopbgO5FHl3) | [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Steezynicco](https://open.spotify.com/artist/7iLoU3knm1FDad2TYZwS6l) | [SULEIMANA](https://open.spotify.com/album/2LDrXWntozbe5BelObEAhG) | 2:12 |
+| 27 | [Marioneta](https://open.spotify.com/track/0hUcmbrzQcjyANL8Q9y79N) | [Evgenia](https://open.spotify.com/artist/4shXizxNoGUxSHHUDawAol) | [Evgenia](https://open.spotify.com/album/3C5uGKBMSQD8hZJOoqBT46) | 3:20 |
+| 28 | [Asygxoritos](https://open.spotify.com/track/77PWLetXO4i45fH58dzU1H) | [Crystallia](https://open.spotify.com/artist/7EGpmVdibkfXUVtOW3bWPu) | [Asygxoritos](https://open.spotify.com/album/7vfHrhKiDfS2SgoIs1WNU5) | 2:53 |
+| 29 | [Sti Fotia](https://open.spotify.com/track/3qN1rzmdO0eFOHCjinISnu) | [Maria Kounelaki](https://open.spotify.com/artist/5wCaoeZukIlNOPkY5B7kAv), [Vangelis Machairas](https://open.spotify.com/artist/36LoNb8MfyG1fiQ3Bk4vGv) | [Maria Kounelaki](https://open.spotify.com/album/00RV4ZibJNJx4jYjAAOvUV) | 3:24 |
+| 30 | [Thunder](https://open.spotify.com/track/1sRSgGgPfD6mX5HgNx5KDr) | [VASSIŁINA](https://open.spotify.com/artist/5n3Evsf1GxkqPeD78wziZ9), [TOTALWERK](https://open.spotify.com/artist/57MW6qLi3LA1vFlFI7DpO7) | [Femmeland](https://open.spotify.com/album/2KZItta8p6zzNnDvqvVbhi) | 3:29 |
+| 31 | [Allou Zitas Ton Erota](https://open.spotify.com/track/7s1cuTEKxxGmIyPvxGtOzf) | [Hara Verra](https://open.spotify.com/artist/0bFQmNO52oscODGROuqEKn) | [Allou Zitas Ton Erota](https://open.spotify.com/album/11gEFFEuVRop1HG2woO1qE) | 3:48 |
 | 32 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 |
 | 33 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 |
 | 34 | [Protimo '24](https://open.spotify.com/track/0KEo9Lb3YhalYfQv7qpKFf) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Protimo '24](https://open.spotify.com/album/6QY81z5fgmvlj662dYojOZ) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Xamenos Xronos](https://open.spotify.com/track/1JwPvbIGmxPhKw266hYzN7) | [Xenia Gargali](https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP), [Periklis Biskinis](https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3) | [Xamenos Xronos](https://open.spotify.com/album/26XVP0WvxOVUkM0vAoiSJp) | 3:25 |
 | 50 | [Anaisthisia](https://open.spotify.com/track/564USoUiUuMOPxsvLWKHQB) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anaisthisia](https://open.spotify.com/album/6XUSsiv6YTUQUvJZbq1ZYQ) | 3:31 |
 
-Snapshot ID: `ZjKtUAAAAADnWUvbNpQH/nJLCx5jFD8m`
+Snapshot ID: `ZjS2SAAAAAAtf2obrNzD+vYqtPxNscNR`

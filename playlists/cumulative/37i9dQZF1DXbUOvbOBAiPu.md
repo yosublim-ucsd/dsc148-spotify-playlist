@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Dua Lipa
 
-168 songs - 8 hr 51 min
+169 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [FACEPLANT](https://open.spotify.com/track/7CcSeBM1ENcXhBFDDjnTOz) | [ZLDR](https://open.spotify.com/artist/4PXGFPvT87m4nP2aKDIJGT) | [FACEPLANT](https://open.spotify.com/album/1IBIUiuTk2nYurmSMzRbRD) | 3:01 | 2024-05-02 |  |
 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 | 2024-04-26 | 2024-05-03 |
 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 | 2024-05-02 |  |
-| [fuck it \- another song about you](https://open.spotify.com/track/42qmBtUMTV1iV2JRflRrhx) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [LOVE + POP Pt 2](https://open.spotify.com/album/145JtxDWygxW0iZPONGGSc) | 2:15 | 2024-05-02 |  |
+| [fuck it \(another song about you\)](https://open.spotify.com/track/42qmBtUMTV1iV2JRflRrhx) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [LOVE + POP Pt 2](https://open.spotify.com/album/145JtxDWygxW0iZPONGGSc) | 2:15 | 2024-05-02 |  |
 | [Gay Angels](https://open.spotify.com/track/5mSQQxIDPifvWSC9mbwa4g) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [Glovemaker](https://open.spotify.com/album/1TVPSW6xID9fd5whE8pfA1) | 5:59 | 2024-04-26 | 2024-05-03 |
 | [Geheelproces](https://open.spotify.com/track/6y5VyJEou9FYP6TOOqXc5H) | [Samoerai](https://open.spotify.com/artist/2acTiAeq44pdrghY6wT6m8), [Steez Nutz](https://open.spotify.com/artist/70XPASdIzPGmIhkCKDQ7tv) | [De Ne9en](https://open.spotify.com/album/52HzK6a72n6l2AsjzWDzPf) | 3:09 | 2024-05-02 |  |
 | [Go Now](https://open.spotify.com/track/69I5tvNwaNdmakSYVPZhIE) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Go Now](https://open.spotify.com/album/4m23FiqtRzqUdAxa1bJPm1) | 3:07 | 2024-04-26 | 2024-05-03 |
@@ -76,6 +76,7 @@
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-05-03 |
 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 | 2024-05-02 |  |
 | [Hundreds Of Times \- uit Liefde Voor Muziek](https://open.spotify.com/track/17AEFVCy5kQVdxp0KqT3A3) | [Johannes Genard](https://open.spotify.com/artist/6hmstwvcDUg8I2j5KaeRHE) | [Hundreds Of Times \- uit Liefde Voor Muziek](https://open.spotify.com/album/1fdFryqiecxenMw4KObxiy) | 3:43 | 2024-04-26 | 2024-05-03 |
+| [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-05-03 |  |
 | [I Am The Light](https://open.spotify.com/track/6M98Q37hOfEMUUfvwD9k5e) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [I Am The Light](https://open.spotify.com/album/7p91TEFK3TsWLI9rM426SX) | 2:34 | 2024-05-02 |  |
 | [i wonder](https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [i wonder](https://open.spotify.com/album/5RoafD4ycGxnyGWVMh4pEQ) | 1:44 | 2024-05-02 |  |
 | [If You Go](https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [If You Go](https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa) | 2:34 | 2024-05-02 |  |
@@ -101,7 +102,7 @@
 | [Manifeest](https://open.spotify.com/track/7Ji5TCRYEYjK8iI76X6xIE) | [Lander & Adriaan](https://open.spotify.com/artist/7fGMaOZYnod95gl4lcRg95) | [Millennial Breeze](https://open.spotify.com/album/4owD8A5x5PP8ItYWeXKRbO) | 5:09 | 2024-04-26 | 2024-05-03 |
 | [Matinale](https://open.spotify.com/track/3qR8DBW3GemIJGjlNT4F5C) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb) | [Matinale](https://open.spotify.com/album/2UaKuJAmBXsGqjpif1LJ2E) | 2:54 | 2024-04-26 | 2024-05-03 |
 | [Midnight Eyes](https://open.spotify.com/track/5I9uy5tvPn5degpGCMyYsi) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [Midnight Eyes](https://open.spotify.com/album/7leb3lQkaiT8b8atjPZNTu) | 3:11 | 2024-04-26 | 2024-05-03 |
-| [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
+| [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-02 |  |
 | [moorgate station](https://open.spotify.com/track/1Qrac3STC7Cu0uWiwm6fmC) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [moorgate station](https://open.spotify.com/album/6qg13EpP616OYWg8xVVd57) | 3:14 | 2024-05-02 |  |
 | [Nachtbede \- Uit Liefde Voor Muziek](https://open.spotify.com/track/33Jb8wzZfnCO2kA06FSO5x) | [Tourist LeMC](https://open.spotify.com/artist/6mbdN4ACD50R8vBKGCfzsr) | [Nachtbede \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/5yTol1bAEwNhWWtOVk1jyu) | 2:54 | 2024-05-02 |  |

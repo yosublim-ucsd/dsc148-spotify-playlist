@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-285 songs - 14 hr 22 min
+286 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 | 2023-10-28 |
 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 | 2023-03-17 | 2024-03-16 |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 | 2023-07-01 |
-| [De Aquí Pa´ Allá](https://open.spotify.com/track/1p0LGo2lFLfJV6j0CPGIQx) | [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [De Aquí Pa´ Allá](https://open.spotify.com/album/5jchWqjRUngsTZGDv4iOqL) | 2:58 | 2023-06-30 |  |
+| [De Aquí Pa´ Allá](https://open.spotify.com/track/1p0LGo2lFLfJV6j0CPGIQx) | [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [De Aquí Pa´ Allá](https://open.spotify.com/album/5jchWqjRUngsTZGDv4iOqL) | 2:58 | 2023-06-30 | 2024-05-04 |
 | [De Frente](https://open.spotify.com/track/3VUlg5CKESGpgvIXqrCWtD) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [De Frente](https://open.spotify.com/album/2EAj9ypxklrDFio2QxTP9G) | 3:04 | 2023-04-21 | 2023-11-11 |
 | [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 | 2022-06-17 | 2023-07-01 |
 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 | 2023-02-20 | 2023-10-14 |
@@ -174,6 +174,7 @@
 | [Mi Testamento](https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [33](https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx) | 3:11 | 2023-04-14 |  |
 | [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 | 2024-01-19 | 2024-04-19 |
 | [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 | 2023-04-07 | 2023-07-29 |
+| [Miss Diablo](https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo](https://open.spotify.com/album/4s8SELkg0riptSKUZxidei) | 2:31 | 2024-05-03 |  |
 | [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-05-05 |  |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
 | [My Bae](https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [My Bae](https://open.spotify.com/album/3BSBuJHqZtZtzEK7ZYmZr9) | 2:23 | 2023-04-28 | 2023-11-25 |

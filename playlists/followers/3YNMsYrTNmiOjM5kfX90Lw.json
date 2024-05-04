@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 413910,
+  "2024-05-04": 414079,
   "date_first_scraped": "2023-12-14",
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
   "name": "DistroKid Rap Scallion",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 122665,
       "name": "+ FUERTE",
       "url": "https://open.spotify.com/track/6UsckPuAGRXbhbPik5aARO"
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 97220,
       "name": "Bellerin",
       "url": "https://open.spotify.com/track/5kHe99Sy8WYy1f2D2veIno"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 202968,
       "name": "Bike Life",
       "url": "https://open.spotify.com/track/0JJEga3sltr0tX8Arh12BV"
@@ -886,6 +886,28 @@
     },
     {
       "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/7C2i5H3R5vVhzRmMOUYDAd"
+      },
+      "artists": [
+        {
+          "name": "PLU.",
+          "url": "https://open.spotify.com/artist/5AOhxiyq6fR9WfW1ua6bwR"
+        },
+        {
+          "name": "Mad Lopher",
+          "url": "https://open.spotify.com/artist/73M20r6GoEi0EG87LwP7aX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162754,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/6uV1wnKs8yKVjC4QwJCARb"
+    },
+    {
+      "album": {
         "name": "Fireball",
         "url": "https://open.spotify.com/album/7jgOIPLelmKNmklipW30Cn"
       },
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -1071,10 +1093,36 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 188523,
       "name": "Haine",
       "url": "https://open.spotify.com/track/5rfthnjZtp8P7n4xoLPFRx"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/3wqevvWdTrjIPcMioMYYlh"
+      },
+      "artists": [
+        {
+          "name": "L.O.D",
+          "url": "https://open.spotify.com/artist/6pS04lICEvK6ZIOyLaakBk"
+        },
+        {
+          "name": "Medley",
+          "url": "https://open.spotify.com/artist/3MQtxOmoLvaG9BYxdBF47i"
+        },
+        {
+          "name": "Big Osh",
+          "url": "https://open.spotify.com/artist/7FsOk6WsUSoZaHuoDqaARL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3E0FZi2K1XVJxuzntxlvsO"
     },
     {
       "album": {
@@ -1217,7 +1265,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173512,
       "name": "I KNOW",
       "url": "https://open.spotify.com/track/6PiIerHk0D5jssQQtsRH6f"
@@ -1261,7 +1309,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198722,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/0c15x0Cx91xDvIBGVnlMZj"
@@ -1341,7 +1389,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 126857,
       "name": "Inszenierung",
       "url": "https://open.spotify.com/track/66v6mLEy4UDTkDWSZmENKn"
@@ -1718,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Luca in arte Nascal",
+        "url": "https://open.spotify.com/album/3DqpcKMWn95a4ajOiZc7FW"
+      },
+      "artists": [
+        {
+          "name": "Nascal",
+          "url": "https://open.spotify.com/artist/0ku5O4NVDqKnGlatlLVunI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198305,
+      "name": "Luca in arte Nascal",
+      "url": "https://open.spotify.com/track/3VKrlVtMZtXM4qVQAzyamK"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/6YnJXaM5P5Nzwl3zTrTrCv"
       },
@@ -1942,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "Mousa",
+        "url": "https://open.spotify.com/album/32PcM0jDXvYwHVlI0aSDBM"
+      },
+      "artists": [
+        {
+          "name": "Zarou",
+          "url": "https://open.spotify.com/artist/2rOCbGzPnXiMGB3P5tCVEj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184862,
+      "name": "Mousa",
+      "url": "https://open.spotify.com/track/7kmD5txxPuaUwovm2kH3ft"
+    },
+    {
+      "album": {
         "name": "Mulq-E-Hind Ka Sawal",
         "url": "https://open.spotify.com/album/07EteW9prGKF9YQ6fqzmpr"
       },
@@ -2148,6 +2232,24 @@
     },
     {
       "album": {
+        "name": "Parole Proibite Freestyle",
+        "url": "https://open.spotify.com/album/6n9OdlsEQlUnaHGdYgIYii"
+      },
+      "artists": [
+        {
+          "name": "Jesty",
+          "url": "https://open.spotify.com/artist/2UHH58vh27xVjOMWEWIucx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115116,
+      "name": "Parole Proibite Freestyle",
+      "url": "https://open.spotify.com/track/1Uzogax1J9j4KMqPGhFHNa"
+    },
+    {
+      "album": {
         "name": "Couleur fant\u00f4me",
         "url": "https://open.spotify.com/album/21zYQl494rH97TjvHprqrM"
       },
@@ -2315,7 +2417,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 119580,
       "name": "she's fuckin' illegal",
       "url": "https://open.spotify.com/track/2CpeK3YuNH1cIN2jxvq5jI"
@@ -2351,7 +2453,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 170000,
       "name": "Sides Over Circles",
       "url": "https://open.spotify.com/track/0U62bDtK8H1aKOggn07bQP"
@@ -2369,7 +2471,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 142668,
       "name": "SKYWALKER",
       "url": "https://open.spotify.com/track/4DWvIylqSr668qWH9JrdAY"
@@ -2417,7 +2519,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 127552,
       "name": "Speaking On Me",
       "url": "https://open.spotify.com/track/6yvMJhMmr6eHR9dkdOOmcK"
@@ -2558,6 +2660,28 @@
     },
     {
       "album": {
+        "name": "Talkin",
+        "url": "https://open.spotify.com/album/1SZPxFovVzO5iM4xculdOn"
+      },
+      "artists": [
+        {
+          "name": "S.O.S",
+          "url": "https://open.spotify.com/artist/5QpsKVww6oREswBhQl9Mnd"
+        },
+        {
+          "name": "Lola Chroma",
+          "url": "https://open.spotify.com/artist/4l75bqsseRYwtTpn3hz6zo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115959,
+      "name": "Talkin",
+      "url": "https://open.spotify.com/track/5LVG7EEJA4o1TAVcx74aww"
+    },
+    {
+      "album": {
         "name": "TELLY",
         "url": "https://open.spotify.com/album/6uU6c7zyAI6swPNExmsVtR"
       },
@@ -2573,6 +2697,24 @@
       "duration_ms": 143529,
       "name": "TELLY",
       "url": "https://open.spotify.com/track/2SkZzSFKJ3xOiilkGZekCb"
+    },
+    {
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/0Wxw8hJAsA6cMJXyuwr3HQ"
+      },
+      "artists": [
+        {
+          "name": "Cubit Prod.",
+          "url": "https://open.spotify.com/artist/0GgF0doJWdS7rMjUJYi1fx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5bm8kbrv3AB2NJtogTLdAX"
     },
     {
       "album": {
@@ -2693,7 +2835,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 140852,
       "name": "TooFlyy - Radio Edit",
       "url": "https://open.spotify.com/track/2w9XJdJeFjoVe3YY3cc6mr"
@@ -2820,6 +2962,24 @@
     },
     {
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3AOjAIdVVksEOb0YUCRcA1"
+      },
+      "artists": [
+        {
+          "name": "LaVilla195 Music",
+          "url": "https://open.spotify.com/artist/7nfC40FqFKnM2mvQOyq3ET"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5Sp5rWbqaUVxgAJIT8TrSO"
+    },
+    {
+      "album": {
         "name": "VACAN\u021aA DE VAR\u0102",
         "url": "https://open.spotify.com/album/7bhf4vQskA1hH4wV0JGC6K"
       },
@@ -2835,7 +2995,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168395,
       "name": "VACAN\u021aA DE VAR\u0102",
       "url": "https://open.spotify.com/track/6d7hhjBeJ667l9yNVXnV7j"
@@ -2955,6 +3115,24 @@
       "duration_ms": 209308,
       "name": "Who Can I Call",
       "url": "https://open.spotify.com/track/4VxEjPTB0YJXMUqMqb2szH"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2hwmskl4ZHU5rjMwuiVJUo"
+      },
+      "artists": [
+        {
+          "name": "Commma",
+          "url": "https://open.spotify.com/artist/41NMzeAMImR4PZopWRt58N"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/4heYiuB9v01zn9cTMFZ3h9"
     },
     {
       "album": {

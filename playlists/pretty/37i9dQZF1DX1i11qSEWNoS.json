@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 574964,
+  "num_followers": 575143,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "ANNE KAFFEEKANNE",
         "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 140797,
       "name": "ANNE KAFFEEKANNE",
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 152826,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
+        "name": "Einmal um die Welt 2k23",
+        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        }
+      ],
+      "duration_ms": 135551,
+      "name": "Einmal um die Welt 2k23",
+      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
         "name": "Next!",
         "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
-        }
-      ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "The Bad Touch 2k20",
-        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        }
-      ],
-      "duration_ms": 160844,
-      "name": "The Bad Touch 2k20",
-      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "The Way I Are (Techno Remix)",
         "url": "https://open.spotify.com/album/0fPS05JQwPESOcZGcS0Qqk"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 146000,
       "name": "The Way I Are - Techno Remix",
       "url": "https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "The Bad Touch 2k20",
+        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        }
+      ],
+      "duration_ms": 160844,
+      "name": "The Bad Touch 2k20",
+      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1475,6 +1475,46 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Alle Haben Bock",
+        "url": "https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "PaSt",
+          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "duration_ms": 154966,
+      "name": "Alle Haben Bock",
+      "url": "https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
         "name": "Weak (Nicolas Julian Remix)",
         "url": "https://open.spotify.com/album/7vo6HPZVCmvBjLqwWcTg7g"
       },
@@ -1571,46 +1611,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Alle Haben Bock",
-        "url": "https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr"
-      },
-      "artists": [
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "PaSt",
-          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
-        },
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        }
-      ],
-      "duration_ms": 154966,
-      "name": "Alle Haben Bock",
-      "url": "https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
-        "name": "Herz an Herz",
-        "url": "https://open.spotify.com/album/2ErXScnw552ExYN83eloZw"
-      },
-      "artists": [
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        }
-      ],
-      "duration_ms": 143347,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+        "name": "Herz an Herz",
+        "url": "https://open.spotify.com/album/2ErXScnw552ExYN83eloZw"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
         }
       ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+      "duration_ms": 143347,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1811,26 +1811,18 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Girl You Know It's True (Remix)",
-        "url": "https://open.spotify.com/album/7JnXqGSQeMlboWuJpNGJAS"
+        "name": "bulletproof tekkno",
+        "url": "https://open.spotify.com/album/0aVAZnQswY8nW2TVRlKe5M"
       },
       "artists": [
         {
-          "name": "Carpoolboys",
-          "url": "https://open.spotify.com/artist/2Ncvl4iQXrbH7FeJScNg87"
-        },
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        },
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+          "name": "TEKKNO",
+          "url": "https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn"
         }
       ],
-      "duration_ms": 153826,
-      "name": "Girl You Know It's True - Remix",
-      "url": "https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek"
+      "duration_ms": 133636,
+      "name": "bulletproof tekkno",
+      "url": "https://open.spotify.com/track/4qRdS6InvlnugJxfOIh0CP"
     }
   ],
   "unique_name": "schiebt anders",

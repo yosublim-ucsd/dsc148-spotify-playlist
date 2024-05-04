@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 97762,
+  "2024-05-04": 97761,
   "date_first_scraped": "2024-02-09",
   "description": "The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom \ud83c\udf03",
   "name": "Background Chill Music 2024",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 118888,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4ocZpek8o7xETEekvv3X2T"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 164000,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6S2B5g07hCSyEPMggyxGcw"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178141,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/5Hywn4otwCexy5nXwQRPgq"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141699,
       "name": "Blum",
       "url": "https://open.spotify.com/track/1B5vHt4IbyvFZjDlMcWmTc"
@@ -719,10 +719,36 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148000,
       "name": "bora bora",
       "url": "https://open.spotify.com/track/4fxFHN27g2RNRQce2WJc2w"
+    },
+    {
+      "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp"
+      },
+      "artists": [
+        {
+          "name": "Sunday",
+          "url": "https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd"
+        },
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK"
     },
     {
       "album": {
@@ -759,7 +785,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161612,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/41RbAt0rssNBvW6J8M2nFS"
@@ -785,7 +811,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 117966,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/0HBSO5V3OGp9YYNxu8vfM1"
@@ -833,7 +859,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2gcOD9Q2iWBVxZEeZiMWig"
@@ -855,7 +881,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181935,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1BoZF3perWaL5W1N7PTcm2"
@@ -1356,6 +1382,32 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/4znboEW2vafDhiDhjc8RcQ"
+      },
+      "artists": [
+        {
+          "name": "Edward Snellen",
+          "url": "https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G"
+        },
+        {
+          "name": "NICALI",
+          "url": "https://open.spotify.com/artist/2hOcpPpVDqzsIIXYNde7ok"
+        },
+        {
+          "name": "BRACKET MUSIC",
+          "url": "https://open.spotify.com/artist/5eJi1jXWr2TWoHl4tIWM7F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164634,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4etTd7SN547LRWuf0yMLjU"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/4YRmbge5hoO1aJfasvFgQ5"
       },
@@ -1371,7 +1423,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 145454,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3XZgGibMl5eRDtiPF9NTat"
@@ -1619,7 +1671,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 166500,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/6oHsOxtryi0lJh9nGq4SFG"
@@ -1733,7 +1785,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 150491,
       "name": "Falling in Y\u00f8ur Eyes",
       "url": "https://open.spotify.com/track/2ZJoEnWdNGIRt67sDAIPEE"
@@ -1817,7 +1869,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149032,
       "name": "Feeling The Same",
       "url": "https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq"
@@ -1865,7 +1917,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 156831,
       "name": "Floating",
       "url": "https://open.spotify.com/track/557wRaFFKogsJ42cuktzqu"
@@ -1959,7 +2011,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162857,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/2hH2szN2i1OWs6yHebSUcN"
@@ -2089,7 +2141,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 145454,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1xGlU3G0gt9nUXDYjS2xNd"
@@ -2169,7 +2221,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 155164,
       "name": "Green",
       "url": "https://open.spotify.com/track/40tllS05MDGO2pAzSom72N"
@@ -2305,7 +2357,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148625,
       "name": "Hera",
       "url": "https://open.spotify.com/track/7dDxrrzLQMr1pl7fQaYO9N"
@@ -2323,7 +2375,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 126982,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/347z1KBX5APmqm8UBaTti4"
@@ -2349,10 +2401,32 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157565,
       "name": "Heroes Never Cry - Arty Violin Remix",
       "url": "https://open.spotify.com/track/3V6P6AvPhHolBn6J1zgibo"
+    },
+    {
+      "album": {
+        "name": "Hey Valerie",
+        "url": "https://open.spotify.com/album/0Jbl34LMtAqDbDbmiw5oyL"
+      },
+      "artists": [
+        {
+          "name": "Nostalgic Feeling",
+          "url": "https://open.spotify.com/artist/7ugUmmaKYg6071bjHsRx2Y"
+        },
+        {
+          "name": "Ladina Viva",
+          "url": "https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162230,
+      "name": "Hey Valerie",
+      "url": "https://open.spotify.com/track/6uMrUUrTtze9BowWoRHqwo"
     },
     {
       "album": {
@@ -2371,7 +2445,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 135000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0o4VV9OPG5YOBoE7BwKxIp"
@@ -2565,7 +2639,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132205,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/38jmogpRYJmed2YTFqdiq8"
@@ -2609,7 +2683,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 135381,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/2rHPxiKqtpUZeYDQ62RD7S"
@@ -2987,7 +3061,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 151304,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/0NLL5lJAhtUa2hXmh7Eyqx"
@@ -3023,7 +3097,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 137586,
       "name": "Just Let Go",
       "url": "https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU"
@@ -3227,7 +3301,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149473,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/7Bue9Cua1VRTbepCvZ6dDt"
@@ -3479,7 +3553,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 140005,
       "name": "Losing Sight",
       "url": "https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E"
@@ -3541,7 +3615,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176250,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/7LMMiDsizFcHhxJwSl82T1"
@@ -3567,7 +3641,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 123750,
       "name": "Lovers & Strangers",
       "url": "https://open.spotify.com/track/1bYn29RWxu96pDQsMD2ZVK"
@@ -3754,6 +3828,24 @@
     },
     {
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/27rraCIyLElRsZtVPF5t15"
+      },
+      "artists": [
+        {
+          "name": "SMVACK",
+          "url": "https://open.spotify.com/artist/60TSzfEUarI9rCar7ByuRf"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162980,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2a12zAH8K7OtI8KisWwUmy"
+    },
+    {
+      "album": {
         "name": "Never Go Back (Remixes)",
         "url": "https://open.spotify.com/album/4GxEU2Ff0UjkBPJRguxz5Q"
       },
@@ -3831,7 +3923,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 159310,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG"
@@ -3945,7 +4037,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161826,
       "name": "Numb - VIP EDIT",
       "url": "https://open.spotify.com/track/4WVe5d7vmDYnKLIZ0pZ0hQ"
@@ -4989,7 +5081,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144100,
       "name": "strangers/lovers/friends",
       "url": "https://open.spotify.com/track/0MZZnJwgPotQT5wNkqYqV8"
@@ -5051,7 +5143,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165000,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6iolYWSFGkTNXEi7MOMeRs"
@@ -5409,7 +5501,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153846,
       "name": "The Stars We Lost",
       "url": "https://open.spotify.com/track/6KwVp2YhIsadVhHHeAdqEg"
@@ -5463,7 +5555,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144272,
       "name": "Think About U",
       "url": "https://open.spotify.com/track/4uhzx17eBtFnuPPi4iVK2l"
@@ -5699,7 +5791,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 129391,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/01Wf71h8dY3QCUzRcHVwJ6"
@@ -5849,7 +5941,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184000,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/7a7Fi9PrhsKJHQkphdC2b5"
@@ -5875,6 +5967,28 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "album": {
+        "name": "We Are Dancing",
+        "url": "https://open.spotify.com/album/20XESEYWpWsycimW1Ozdfx"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166060,
+      "name": "We Are Dancing",
+      "url": "https://open.spotify.com/track/20jazRPPV8VsupJDR6XpT1"
     },
     {
       "album": {
@@ -5995,7 +6109,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157685,
       "name": "What You've Done",
       "url": "https://open.spotify.com/track/2rJu9t6d2khQMIjKO5yGL7"

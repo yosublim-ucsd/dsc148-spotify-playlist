@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-414 songs - 23 hr 45 min
+415 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Chills](https://open.spotify.com/track/4fT0lwTnwXN5Qg5vSPyq0u) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Game On](https://open.spotify.com/album/0r3XttYUiUSNey42sWLaVY) | 3:08 | 2019-05-25\* | 2022-04-15 |
 | [Come Over \- Acoustic Mixtape](https://open.spotify.com/track/5ZuDo4T5NU7jg5y0yV2Otk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 4:01 | 2020-02-23 | 2022-04-21 |
 | [Consider Me Gone](https://open.spotify.com/track/0fNCLvSVUEK7NTwhu5vk5B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Keep On Loving You](https://open.spotify.com/album/7KXJTZvhkS0Cs7iY9B3E2q) | 3:38 | 2019-10-26 | 2021-01-15 |
-| [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2019-06-21 |  |
+| [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2019-06-21 | 2024-05-04 |
 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 | 2023-09-29 | 2024-03-19 |
 | [Criminal](https://open.spotify.com/track/4dV6BP3spzbAMWlsb2adGG) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/1RiocrOIkYYPIHyUXhlk0M) | 3:22 | 2019-06-21 | 2022-04-21 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-02-11 | 2022-09-03 |
@@ -216,6 +216,7 @@
 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 | 2023-08-04 | 2024-03-23 |
 | [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-09-01 |  |
 | [Lose It](https://open.spotify.com/track/6GBndDk0OEpDkmKoSBJyyK) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Lose It](https://open.spotify.com/album/2HJhTeBJHvyQFAETnCPWgK) | 2:58 | 2019-05-25\* | 2022-04-17 |
+| [Lotta Bit of You](https://open.spotify.com/track/7LFj4V7izgF22CUGeDo38n) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Lotta Bit of You](https://open.spotify.com/album/3MkHOjkp1AsIOm0RlVVWwf) | 2:42 | 2024-05-03 |  |
 | [Love in a Bar](https://open.spotify.com/track/1ITz79C3v1z55dqPoSAl1O) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Ryan Hurd \- EP](https://open.spotify.com/album/6wVnoDiRPI8RDgQT2RH3PO) | 3:07 | 2019-06-26 | 2022-04-20 |
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-10-10 | 2022-04-18 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-07-28 | 2023-08-17 |

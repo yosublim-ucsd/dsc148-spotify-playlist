@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Upon arising",
+        "url": "https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127460,
+      "name": "Upon arising",
+      "url": "https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT"
+    },
+    {
+      "album": {
         "name": "Blameless",
         "url": "https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH"
       },

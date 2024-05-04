@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 104982,
+  "2024-05-04": 104970,
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Lenny Monsou",
+  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Ilse DeLange",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -2342,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW"
+    },
+    {
+      "album": {
         "name": "Goodbye Never Felt So Bad",
         "url": "https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G"
       },
@@ -3573,7 +3591,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 227224,
       "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
@@ -4259,6 +4277,24 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/5Ct1RQG2vHREzV3Jjpjxfm"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206031,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/3fJ4cLwaHlv9CSnKMf6FsO"
     },
     {
       "album": {
@@ -5259,6 +5295,24 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv"
     },
     {
       "album": {
@@ -6688,6 +6742,24 @@
     },
     {
       "album": {
+        "name": "Vitamins",
+        "url": "https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152290,
+      "name": "Vitamins",
+      "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
+    },
+    {
+      "album": {
         "name": "Voor Mijn Hart",
         "url": "https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL"
       },
@@ -6989,6 +7061,24 @@
       "duration_ms": 239032,
       "name": "What Are You Waiting For?",
       "url": "https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX"
+    },
+    {
+      "album": {
+        "name": "What If I Want You Now",
+        "url": "https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq"
+      },
+      "artists": [
+        {
+          "name": "KANE",
+          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "What If I Want You Now",
+      "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
     },
     {
       "album": {
@@ -7357,6 +7447,24 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Young, Awkward & Lonely",
+        "url": "https://open.spotify.com/album/6doZm0DD2GBR2gVq7Xyjz3"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231018,
+      "name": "Young, Awkward & Lonely",
+      "url": "https://open.spotify.com/track/629SW217MA8o1wPi9akIcI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ"

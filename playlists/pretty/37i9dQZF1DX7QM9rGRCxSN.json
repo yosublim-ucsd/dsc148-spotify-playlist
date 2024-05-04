@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30563,
+  "num_followers": 30572,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
+      },
+      "artists": [
+        {
+          "name": "Dominiko",
+          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "BILLY",
+      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+    },
+    {
       "added_at": "2023-09-03 23:24:36",
       "album": {
         "name": "Figura de Cristal",
@@ -187,22 +203,6 @@
       "duration_ms": 180000,
       "name": "Figura de Cristal",
       "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Lejos de M\u00ed",
-        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 196630,
-      "name": "Lejos de M\u00ed",
-      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "BILLY",
-        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
+        "name": "Lejos de M\u00ed",
+        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
       "artists": [
         {
-          "name": "Dominiko",
-          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 252633,
-      "name": "BILLY",
-      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+      "duration_ms": 196630,
+      "name": "Lejos de M\u00ed",
+      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "vampiro",
         "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 178275,
       "name": "vampiro",
       "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188728,
       "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
       },
       "artists": [
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Chambers",
-        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 298122,
-      "name": "What\u2019s holding you?",
-      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+      "duration_ms": 298122,
+      "name": "What\u2019s holding you?",
+      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -527,6 +511,22 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2023-05-05 06:00:00",

@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 230190,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
@@ -3784,6 +3784,24 @@
       "duration_ms": 213538,
       "name": "Winter Love",
       "url": "https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG"
+    },
+    {
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/3PFHvIgasKNnheKQIHjvuf"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176460,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1vGmp9NNslDEbB53GR1sEi"
     },
     {
       "album": {

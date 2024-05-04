@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 494577,
+  "num_followers": 494613,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 161506,
       "name": "Jim Dandy",
       "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2024-03-19 19:54:29",

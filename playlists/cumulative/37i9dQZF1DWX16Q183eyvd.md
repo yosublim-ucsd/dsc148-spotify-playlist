@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-138 songs - 6 hr 34 min
+139 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Daydream Baby](https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Daydream Baby](https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS) | 3:26 | 2024-01-30 |  |
 | [Do My Dance](https://open.spotify.com/track/56LCZNVDZBgVXmsP37ksgy) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:30 | 2021-11-19 | 2023-04-09 |
 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 | 2024-01-30 |  |
-| [Get You A Friend](https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Movement](https://open.spotify.com/album/1QxVv43hGh5XB1glM74gPw) | 3:00 | 2024-01-30 |  |
+| [Get You A Friend](https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Movement](https://open.spotify.com/album/1QxVv43hGh5XB1glM74gPw) | 3:00 | 2024-01-30 | 2024-05-04 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-11-19 | 2024-01-31 |
 | [Getting Silly](https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 1:50 | 2021-11-19 | 2024-01-31 |
 | [Gimme The Fruit!](https://open.spotify.com/track/5oZOSCkQ3Ie7E6sNHqF2tx) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Whitney Peyton](https://open.spotify.com/artist/1O2t0Zg7s34o2VrOutAjqx) | [Buddy's Magic Toy Box](https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip) | 2:19 | 2024-01-30 |  |
@@ -50,6 +50,7 @@
 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 | 2021-11-19 | 2024-01-31 |
 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 | 2021-11-19 | 2024-01-31 |
 | [Good Vibes](https://open.spotify.com/track/1T4TCM0A22kV5Ts0MhDas9) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Good Vibes](https://open.spotify.com/album/34pHgSzZar4FBqXhB7anYU) | 3:06 | 2024-01-30 |  |
+| [Happy Mother's Day](https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Happy Mother's Day](https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA) | 1:53 | 2024-05-03 |  |
 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 | 2021-11-19 | 2024-01-31 |
 | [Healthy](https://open.spotify.com/track/2y5WJhoIjEWJ9cdfd0WNmO) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/2q1qoDeoXUTFvVdPCG1MmH) | 2:44 | 2021-11-19 | 2022-07-29 |
 | [Healthy](https://open.spotify.com/track/2T1c0dyZrkWRnvG5qYN9vA) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Healthy](https://open.spotify.com/album/3D043oGlDlfcFccDwwKtX5) | 2:46 | 2022-02-04 | 2022-11-14 |
@@ -101,7 +102,7 @@
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-02-04 | 2024-01-31 |
 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 | 2021-11-19 | 2024-01-31 |
 | [PARTY AT THE YMCA](https://open.spotify.com/track/27CuBGHjU658LDz3aXQxt5) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [PARTY AT THE YMCA](https://open.spotify.com/album/7JGoJoyYVYXFbYCgcmjpIx) | 1:40 | 2024-04-26 |  |
-| [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 | 2024-01-30 |  |
+| [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 | 2024-01-30 | 2024-05-04 |
 | [Play Outside](https://open.spotify.com/track/3t4STKA849plfaghVfM57x) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Play Outside](https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424) | 2:31 | 2024-02-23 |  |
 | [Please & Thank You](https://open.spotify.com/track/6PTkVli8zGBzffeZGZnWDm) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 1:35 | 2024-01-30 | 2024-04-06 |
 | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/track/1V2Ck7XdziVOmHBbXDujQy) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy) | 2:59 | 2024-01-30 |  |

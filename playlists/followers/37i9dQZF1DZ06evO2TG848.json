@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 21278,
+  "2024-05-04": 21280,
   "date_first_scraped": "2023-09-01",
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
       "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 75293,
       "name": "Dream Of Higher Altitudes",
       "url": "https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187426,
       "name": "Leyendo en el Hospital",
       "url": "https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY"
@@ -1313,6 +1313,40 @@
       "duration_ms": 84146,
       "name": "Riding Horses",
       "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
     },
     {
       "album": {

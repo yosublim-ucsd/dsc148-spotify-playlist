@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 201431,
+  "2024-05-04": 201437,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -2050,6 +2050,24 @@
     },
     {
       "album": {
+        "name": "homebound",
+        "url": "https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C"
+      },
+      "artists": [
+        {
+          "name": "SATRE",
+          "url": "https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204098,
+      "name": "homebound",
+      "url": "https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x"
+    },
+    {
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
       },
@@ -2793,7 +2811,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213106,
       "name": "Magic Stone",
       "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
@@ -3067,7 +3085,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258010,
       "name": "Never Gonna Walk Away",
       "url": "https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM"
@@ -4155,6 +4173,24 @@
       "duration_ms": 221682,
       "name": "The Sky Is Painted Gray Today",
       "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
+    },
+    {
+      "album": {
+        "name": "The Speed of Life",
+        "url": "https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201719,
+      "name": "The Speed of Life",
+      "url": "https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD"
     },
     {
       "album": {

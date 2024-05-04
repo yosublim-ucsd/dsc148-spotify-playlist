@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Beeztrap KOTM",
+  "description": "The most intense local drill music firing up the continent. Cover:  Beeztrap KOTM, Oseikrom Sikanii & Gyakie",
   "name": "Asakaa",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180625,
       "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
       "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
@@ -1474,6 +1474,32 @@
       "duration_ms": 194100,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
+    },
+    {
+      "album": {
+        "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) [Remix]",
+        "url": "https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195434,
+      "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) - Remix",
+      "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
     },
     {
       "album": {
@@ -2308,7 +2334,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 243453,
       "name": "Ma Drip (feat. O'Kenneth, Reggie, Jay Bahd, Kwaku DMC, Kawabanga & City Boy)",
       "url": "https://open.spotify.com/track/0mFAYhuqu8FsTTU3YfSk2W"
@@ -3690,6 +3716,28 @@
       "duration_ms": 176322,
       "name": "The One that Got Away",
       "url": "https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6pgDWVNsYoDv3rUa4G3nO8"
+      },
+      "artists": [
+        {
+          "name": "Kwayku",
+          "url": "https://open.spotify.com/artist/7eyWJ5wi2uNgtEcdb6Imbg"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/6hpOjxBodjemG28YyRELEt"
     },
     {
       "album": {

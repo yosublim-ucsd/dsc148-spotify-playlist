@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,031 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,043 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 39 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 |
 | 40 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 |
 | 41 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
-| 42 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
-| 43 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
+| 42 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
+| 43 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
 | 44 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
 | 45 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 46 | [No Vas](https://open.spotify.com/track/5ZYqftcWxl6AOiE2HLToDc) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Música de Reyes](https://open.spotify.com/album/5gWr4Q8XrBrvxJiAMxLgvo) | 3:40 |

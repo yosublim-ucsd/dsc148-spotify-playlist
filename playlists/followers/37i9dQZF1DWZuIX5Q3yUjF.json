@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 14095,
+  "2024-05-04": 14096,
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: STE, <a href=\"spotify:playlist:37i9dQZF1DWVjDgOMO8jZl\">una dei 6 artisti RADAR 2024</a>!",
+  "description": "Il meglio dell'R&B italiano. Cover: FR\u00c8NESYA, cura",
   "name": "anima R&B",
   "tracks": [
     {
@@ -471,6 +471,46 @@
       "duration_ms": 156644,
       "name": "Anime Gemelle",
       "url": "https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf"
+    },
+    {
+      "album": {
+        "name": "Annegare",
+        "url": "https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT"
+      },
+      "artists": [
+        {
+          "name": "jiojio",
+          "url": "https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152361,
+      "name": "Annegare",
+      "url": "https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM"
+    },
+    {
+      "album": {
+        "name": "Anni Luce",
+        "url": "https://open.spotify.com/album/4LTmcKBhBw9lj2MVAWcZnU"
+      },
+      "artists": [
+        {
+          "name": "FREN\u00c8SYA",
+          "url": "https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW"
+        },
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Anni Luce",
+      "url": "https://open.spotify.com/track/5lQ5fL5tH7IbOcOTBuwZuL"
     },
     {
       "album": {
@@ -2070,6 +2110,28 @@
     },
     {
       "album": {
+        "name": "CORE 'N GALERA",
+        "url": "https://open.spotify.com/album/6s1EfNVu3QentGFZizdbVR"
+      },
+      "artists": [
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        },
+        {
+          "name": "Giada De Prisco",
+          "url": "https://open.spotify.com/artist/4HJvl66AdRgKxV55ZMiLk1"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148314,
+      "name": "CORE 'N GALERA",
+      "url": "https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6"
+    },
+    {
+      "album": {
         "name": "Corpi astrali",
         "url": "https://open.spotify.com/album/27V0XvfNzIv9eOF4IYT4sp"
       },
@@ -2607,7 +2669,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144375,
       "name": "Dimmi che rimane",
       "url": "https://open.spotify.com/track/0STT4OWd2cPc6CRJWzhb6i"
@@ -4501,6 +4563,24 @@
       "duration_ms": 204218,
       "name": "Interno N.6",
       "url": "https://open.spotify.com/track/57SBANqHenDufs98cl35Vl"
+    },
+    {
+      "album": {
+        "name": "invidiosa",
+        "url": "https://open.spotify.com/album/4h8OEFdmS8Oj3XQdyPdp42"
+      },
+      "artists": [
+        {
+          "name": "Grace Cambria",
+          "url": "https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161926,
+      "name": "invidiosa",
+      "url": "https://open.spotify.com/track/6cygIx1k0KcUjGlJXY65Ra"
     },
     {
       "album": {
@@ -7664,6 +7744,28 @@
     },
     {
       "album": {
+        "name": "Paura di Me",
+        "url": "https://open.spotify.com/album/7nBA3K8fb5ykG945MZfiuQ"
+      },
+      "artists": [
+        {
+          "name": "Artu10000000",
+          "url": "https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Paura di Me",
+      "url": "https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I"
+    },
+    {
+      "album": {
         "name": "Perdermi",
         "url": "https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1"
       },
@@ -8972,6 +9074,24 @@
     },
     {
       "album": {
+        "name": "Semplicemente (Nun Fa Accuss\u00ec)",
+        "url": "https://open.spotify.com/album/0XxkiUO5bR1nt5ctAhxC7O"
+      },
+      "artists": [
+        {
+          "name": "Martino",
+          "url": "https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Semplicemente (Nun Fa Accuss\u00ec)",
+      "url": "https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR"
+    },
+    {
+      "album": {
         "name": "Sempre Indietro",
         "url": "https://open.spotify.com/album/06zmjnqSxJbJN3wvSb9v0m"
       },
@@ -9625,6 +9745,32 @@
       "duration_ms": 199400,
       "name": "Speed Date",
       "url": "https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY"
+    },
+    {
+      "album": {
+        "name": "SPUNTA BLU",
+        "url": "https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "The Ceasars",
+          "url": "https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw"
+        },
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166601,
+      "name": "SPUNTA BLU",
+      "url": "https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4"
     },
     {
       "album": {
@@ -10883,6 +11029,28 @@
       "duration_ms": 159818,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb"
+    },
+    {
+      "album": {
+        "name": "Vento in faccia",
+        "url": "https://open.spotify.com/album/4tzWhZ5SSJ3xauVfF6Get2"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        },
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205699,
+      "name": "Vento in faccia",
+      "url": "https://open.spotify.com/track/1QtAkNRuN7sq8xW6fwq5zn"
     },
     {
       "album": {

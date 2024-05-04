@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 438295,
+  "2024-05-04": 438290,
   "date_first_scraped": "2023-09-23",
-  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Drake",
+  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Kendrick Lamar",
   "name": "A1",
   "tracks": [
     {
@@ -627,7 +627,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -785,6 +785,24 @@
       "duration_ms": 199597,
       "name": "Big Diamonds (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs"
+    },
+    {
+      "album": {
+        "name": "Big Hoofa",
+        "url": "https://open.spotify.com/album/6WQ5Ikyp9wYaMSPiigsFhW"
+      },
+      "artists": [
+        {
+          "name": "Juiceboxx",
+          "url": "https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Big Hoofa",
+      "url": "https://open.spotify.com/track/51zUnfBUxOsnGNzrQ1ZW4z"
     },
     {
       "album": {
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 236998,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229186,
       "name": "Crocodile Tearz",
       "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -2550,6 +2568,24 @@
     },
     {
       "album": {
+        "name": "KNOCKA",
+        "url": "https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150144,
+      "name": "KNOCKA",
+      "url": "https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx"
+    },
+    {
+      "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
       },
@@ -2595,6 +2631,24 @@
       "duration_ms": 194000,
       "name": "Landslide (feat. Nafe Smallz)",
       "url": "https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy"
+    },
+    {
+      "album": {
+        "name": "LAVISH",
+        "url": "https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "LAVISH",
+      "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
     },
     {
       "album": {
@@ -2737,7 +2791,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
@@ -2916,6 +2970,28 @@
     },
     {
       "album": {
+        "name": "Mobsters",
+        "url": "https://open.spotify.com/album/2zCcthEvgxDF33v0AC0mbQ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Mobsters",
+      "url": "https://open.spotify.com/track/0lisP3XLMVyFL0pYfhROPK"
+    },
+    {
+      "album": {
         "name": "Money At",
         "url": "https://open.spotify.com/album/5Qsme6TaDgmaiGHM3VCGtd"
       },
@@ -3018,6 +3094,24 @@
     },
     {
       "album": {
+        "name": "Naughty Child",
+        "url": "https://open.spotify.com/album/7sVNRVXaclzgHZObFAR5zc"
+      },
+      "artists": [
+        {
+          "name": "SB",
+          "url": "https://open.spotify.com/artist/3vD63tWVGtfQaYaNhXMNWT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Naughty Child",
+      "url": "https://open.spotify.com/track/6VuRkLXw1Z24cK2ugSFaBO"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -3099,7 +3193,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 137600,
       "name": "Next Up Australia - S1-E7",
       "url": "https://open.spotify.com/track/4v64dIlDQ2k4ZpDZeJ4HDV"
@@ -3147,6 +3241,24 @@
       "duration_ms": 124800,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO"
+    },
+    {
+      "album": {
+        "name": "Number 2 / Never Last",
+        "url": "https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137904,
+      "name": "Number 2",
+      "url": "https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI"
     },
     {
       "album": {
@@ -3741,7 +3853,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 312247,
       "name": "Round & Round (feat. indigomerkaba)",
       "url": "https://open.spotify.com/track/1E0Fuw0cadR0my0sEi0n6Y"
@@ -3921,7 +4033,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213853,
       "name": "Show of Hands",
       "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
@@ -4139,7 +4251,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167915,
       "name": "Sorrys & Ferraris",
       "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
@@ -4551,7 +4663,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 188973,
       "name": "Tiffanys",
       "url": "https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb"
@@ -4778,6 +4890,28 @@
     },
     {
       "album": {
+        "name": "Wake Up (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY"
+      },
+      "artists": [
+        {
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "Wake Up (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
+    },
+    {
+      "album": {
         "name": "Walk & Drive (feat. Nerve)",
         "url": "https://open.spotify.com/album/6Ln94RIhVlRHMk4q3MOM0e"
       },
@@ -4844,6 +4978,24 @@
     },
     {
       "album": {
+        "name": "Warriors & Storytellers",
+        "url": "https://open.spotify.com/album/1m0xrNgyNrmY45Xt5eDRIm"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192628,
+      "name": "Warriors & Storytellers",
+      "url": "https://open.spotify.com/track/7576a1TJ554JQGmvch8fzq"
+    },
+    {
+      "album": {
         "name": "We Ride",
         "url": "https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k"
       },
@@ -4899,7 +5051,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 252920,
       "name": "We Still Don't Trust You",
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
@@ -5067,6 +5219,24 @@
       "duration_ms": 181999,
       "name": "WOO [Feat. PlayThatBoiZay, Chief Pound]",
       "url": "https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu"
+    },
+    {
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
     },
     {
       "album": {

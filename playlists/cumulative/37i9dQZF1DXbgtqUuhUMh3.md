@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Aseel Hameem
 
-663 songs - 1 day 14 hr 7 min
+664 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [ما بشبهك \- Ma Bechbahak](https://open.spotify.com/track/2C2SkMYG7WFL2JnuxKSCwc) | [RAZAN](https://open.spotify.com/artist/5PPTjEp0u350m6EOo9w0Rb) | [ما بشبهك \(Ma Bechbahak\)](https://open.spotify.com/album/0vnlnMbIStVWDrWxufUYo1) | 3:08 | 2024-02-15 |  |
 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 | 2023-08-02 | 2023-09-15 |
 | [مايحبونك](https://open.spotify.com/track/0PxV65WGwQ4I7juQQHNHJw) | [Jihan](https://open.spotify.com/artist/3z2uZt4J2QRuGx3VCyJyeK) | [مايحبونك](https://open.spotify.com/album/5yjsY60JB9hBeL7KiIEhe3) | 3:11 | 2021-12-23 | 2022-03-01 |
+| [مبهتمش](https://open.spotify.com/track/4BKOtec0onTzosQFlOO9g3) | [زينة](https://open.spotify.com/artist/4xZjS8kM1HwJBnfn7IcPio) | [مبهتمش](https://open.spotify.com/album/4WFxZukuTollg6diHGcP5j) | 3:26 | 2024-05-02 |  |
 | [محتاج بساط](https://open.spotify.com/track/513lQJHUxAb7XtephOwv4M) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [محتاج بساط](https://open.spotify.com/album/7olM7Iwm7xcHA0Xx3tZDwq) | 2:24 | 2021-12-23 | 2022-03-01 |
 | [محتاج بساط](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [محتاج بساط](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 | 2022-05-26 | 2022-11-13 |
 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2023-12-07 | 2024-01-11 |

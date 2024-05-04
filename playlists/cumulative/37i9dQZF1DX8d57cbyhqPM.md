@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Dadju et Tayc
 
-374 songs - 22 hr 46 min
+375 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Loi](https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Loi](https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy) | 5:35 | 2022-06-30 | 2023-09-16 |
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 | 2022-08-27 |
 | [Lolita](https://open.spotify.com/track/50P2sl58J2SGimBtMAuYmz) | [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC), [Natascha Wiese](https://open.spotify.com/artist/3jgWVKfoiuzEJcLrPBCDbr) | [Lolita](https://open.spotify.com/album/1gwnP9Kx0kf3kHnap68sry) | 3:38 | 2023-02-03 | 2023-02-25 |
-| [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:00 | 2024-05-03 |  |
+| [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 |  |
 | [Lubumbashi](https://open.spotify.com/track/4TbXW306MYRuyLl3f3fAaO) | [Zaire](https://open.spotify.com/artist/7eAsCMv2IYlqYV2eZCLkay) | [Lubumbashi](https://open.spotify.com/album/23zgjg8tmsPMWpML2KXG8A) | 2:35 | 2022-10-14 | 2023-05-06 |
 | [Lushi Up](https://open.spotify.com/track/6NtOLttMbER6yE4mxsNYsr) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Lushi Up](https://open.spotify.com/album/4FgJviqPxdsCwzTFpzQKEC) | 2:58 | 2023-09-01 | 2023-09-22 |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 | 2022-11-19 |
@@ -215,6 +215,7 @@
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2023-03-17 | 2024-03-23 |
 | [Masoko](https://open.spotify.com/track/5e0SsTZotMfIxius5o3qnX) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [Kingsta](https://open.spotify.com/artist/3n6Lxlc9bF0mQWss8U1Yx5), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Masoko](https://open.spotify.com/album/2bvylbxq14rhfqIZttnSPE) | 2:23 | 2024-03-08 | 2024-04-13 |
 | [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 | 2022-11-12 |
+| [Mayi \(Water\)](https://open.spotify.com/track/0m4UAkGJnW6lMHTBOTAYtB) | [Manix baby](https://open.spotify.com/artist/6fr0JCDy7VNoHz54rSrMpb), [Marseille Musique](https://open.spotify.com/artist/2wp8SaP6xPrHXNiyOsS3Ix) | [Mayi \(Water\)](https://open.spotify.com/album/4Wf6bJTT2xF3pUbMEvaRQh) | 3:06 | 2024-05-03 |  |
 | [Maziwa](https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO) | [Dj Matoss](https://open.spotify.com/artist/5V7OH7SY4AhOaJ0zywxqls), [Dj Seven](https://open.spotify.com/artist/06XWI4mzXrPtvdLmzfIAtN), [Agressivo Nyandoro](https://open.spotify.com/artist/0k7lo30w58OXmYZGVbjCyx), [The Tozobar](https://open.spotify.com/artist/1agHGqi4DsPAGzDHQUOvKg) | [Maziwa](https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz) | 3:13 | 2023-08-25 |  |
 | [Mbangu te](https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [El mayalove](https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy) | 3:39 | 2023-03-17 |  |
 | [Mbappé](https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS) | [Ibn Itaka](https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2), [Julien Makarabianko](https://open.spotify.com/artist/6AgeuJ3W2MHEvlqc9fCzPw) | [Mbappé](https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A) | 4:08 | 2022-07-08 | 2022-08-06 |

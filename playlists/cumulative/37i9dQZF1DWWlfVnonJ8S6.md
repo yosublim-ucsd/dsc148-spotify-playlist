@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-184 songs - 10 hr 24 min
+185 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Your Eyes](https://open.spotify.com/track/5pebgx4IJ5YvZH2sYOHDRf) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Taqiya Zaman](https://open.spotify.com/artist/0PabKDsomoLc4uPtBGNodI) | [Your Eyes](https://open.spotify.com/album/04NKJp5REYxjBzQdNAbByt) | 1:47 | 2022-05-27 |  |
 | [Zara Sa \- Lofi Flip](https://open.spotify.com/track/4uZnwiu2fnfTKWn8zt6XZx) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR) | [Zara Sa \(Lofi Flip\)](https://open.spotify.com/album/6rqYAZTOUBmczFEJM4iNi9) | 3:31 | 2022-05-27 |  |
 | [Zara Zara](https://open.spotify.com/track/5KNEYJyQNBmOqGTWGCgNt4) | [Shany Haider](https://open.spotify.com/artist/0oNaaHupBSFSQHZPXiGICF) | [Zara Zara](https://open.spotify.com/album/3IxTao5P0LrRR9YpuJqi5d) | 2:33 | 2022-10-24 | 2022-12-01 |
+| [Zaroori Tha \- Lofi Flip](https://open.spotify.com/track/2fDYjMQPja9O1O153vQUhC) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [DJ Nitish Gulyani](https://open.spotify.com/artist/1por5kXIv8KZA4WsyNUGEj) | [Zaroori Tha \(Lofi Flip\)](https://open.spotify.com/album/0suiSwPX6xpLRlvty1kTsv) | 3:22 | 2024-05-03 |  |
 | [Zindagi](https://open.spotify.com/track/7z1VoJuHX1iJTc67O7O1xm) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo) | [Zindagi](https://open.spotify.com/album/0uR8pCl7EsMV5bz1norOFH) | 4:10 | 2022-05-27 | 2022-07-19 |
 | [دس میں کی پیار وچو کہٹیا \- یملا اور غوری](https://open.spotify.com/track/078KS6NzhMbxxA3UxX0be8) | [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [دس میں کی پیار وچو کہٹیا \- یملا اور غوری](https://open.spotify.com/album/3OjucYeDbjnXwe8BoU2vMj) | 2:11 | 2022-05-27 | 2022-07-19 |
 

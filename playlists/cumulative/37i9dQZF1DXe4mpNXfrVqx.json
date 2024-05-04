@@ -1551,6 +1551,32 @@
     },
     {
       "album": {
+        "name": "Ginga (Bem vindo a Party)",
+        "url": "https://open.spotify.com/album/0volOaNCpImkXaytDiVTiB"
+      },
+      "artists": [
+        {
+          "name": "Inza Princess",
+          "url": "https://open.spotify.com/artist/7fTIgiXmMVCpCrzdkfmO3D"
+        },
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131478,
+      "name": "Ginga - Bem vindo a Party",
+      "url": "https://open.spotify.com/track/4dawKCBsHpalmKzB7G1sAq"
+    },
+    {
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD"
       },
@@ -3310,7 +3336,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156054,
       "name": "queviagem",
       "url": "https://open.spotify.com/track/05HQd9j0Dz2Cnn4HHKZDQ0"

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 0,
+  "2024-05-04": 0,
   "date_first_scraped": "2024-04-23",
   "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>",
   "name": "Destroy The Runner Mix",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 205853,
       "name": "A Certain Death",
       "url": "https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 274866,
       "name": "Anodyne Sea",
       "url": "https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191173,
       "name": "Collision",
       "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 207573,
       "name": "Desperate Times, Desperate Measures",
       "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/5r37NetsrDZOMuOev51PHL"
+    },
+    {
+      "album": {
         "name": "Frail Words Collapse",
         "url": "https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 150600,
       "name": "Falling Upon Deaf Ears",
       "url": "https://open.spotify.com/track/3Q8rWsHfRCjgU0xbSPGtgm"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 222346,
       "name": "Indictment",
       "url": "https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -777,6 +795,24 @@
       "duration_ms": 225573,
       "name": "On Falling Leaf",
       "url": "https://open.spotify.com/track/62KMuaXbunEcJzy7hCUthZ"
+    },
+    {
+      "album": {
+        "name": "This Is Love, This Is Murderous",
+        "url": "https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321506,
+      "name": "On Wings Of Lead",
+      "url": "https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU"
     },
     {
       "album": {
@@ -953,7 +989,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 249760,
       "name": "Song For The Broken",
       "url": "https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq"
@@ -1097,7 +1133,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 187012,
       "name": "Thirty Three",
       "url": "https://open.spotify.com/track/0qOUuIgtAPgh5bE7Mf5upL"
@@ -1205,7 +1241,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"

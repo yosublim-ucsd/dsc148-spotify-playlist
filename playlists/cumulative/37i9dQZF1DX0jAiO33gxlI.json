@@ -705,6 +705,32 @@
     },
     {
       "album": {
+        "name": "ALFORRIA",
+        "url": "https://open.spotify.com/album/51GnTblpTTgwsptmLsh6Ra"
+      },
+      "artists": [
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        },
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "ALFORRIA",
+      "url": "https://open.spotify.com/track/3mZUy1LWhpfdwr2OAZb1FE"
+    },
+    {
+      "album": {
         "name": "Algo \u00cdntimo",
         "url": "https://open.spotify.com/album/5r8KbnTBjBDQe0yp0h3WHE"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House music I absolutely love at the moment! Submissions: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,091 likes - 74 songs - 3 hr 43 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,089 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 3 | [Drip](https://open.spotify.com/track/6jCudRhwziL1bPXfekewx2) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [BASS EP](https://open.spotify.com/album/7CWdXMP9fmBJfBnYAU5WwC) | 3:09 |
 | 4 | [Bim Boom Bam \- Mr\. Pig Version](https://open.spotify.com/track/1u8Eew14Bdqer6HjXwCP67) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1) | [Bim Boom Bam \(Mr\. Pig Version\)](https://open.spotify.com/album/1V68k8oO9cei5Xz9Gn0PM7) | 2:17 |
 | 5 | [Boca](https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr) | [Freaky DJs](https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [Boca](https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu) | 3:00 |
-| 6 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [BLK OUT](https://open.spotify.com/artist/1F2dvP18rgi7Zdvn5HlM3l) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 |
+| 6 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 |
 | 7 | [Duro](https://open.spotify.com/track/1Mj6pMwptc6jzRw9nZ6Tvd) | [Robert Morr](https://open.spotify.com/artist/7hhJgGI7FvUFKKOtaVZ3bM) | [Duro](https://open.spotify.com/album/3NBs9GLaO2ZPRR1I5u8rTh) | 2:19 |
 | 8 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 |
 | 9 | [Rouge](https://open.spotify.com/track/6Qfg9Eg8eybJptydQEMeF1) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [TRYPBOX](https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [Call Backs Vol\. 1](https://open.spotify.com/album/26zYAEHJXZmJVNiVPnhM7n) | 3:22 |

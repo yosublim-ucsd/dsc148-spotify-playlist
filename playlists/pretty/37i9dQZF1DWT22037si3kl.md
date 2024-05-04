@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,504 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,512 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 45 | [Caro](https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g) | [Elito](https://open.spotify.com/artist/7hTaNJ6aGpDoW7izIImHFY) | [Caro](https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG) | 2:32 |
 | 46 | [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN), [Wylo](https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 |
 | 47 | [Doce Amargo](https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk) | 2:17 |
-| 48 | [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 |
-| 49 | [Dança na Chuva](https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV) | [Dança na Chuva](https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q) | 3:16 |
+| 48 | [Dança na Chuva](https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV) | [Dança na Chuva](https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q) | 3:16 |
+| 49 | [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 |
 | 50 | [Londres Freestyle \(Bônus\)](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
 Snapshot ID: `ZjRTbAAAAAAEITq+6RNWXZj85hVAhqkY`

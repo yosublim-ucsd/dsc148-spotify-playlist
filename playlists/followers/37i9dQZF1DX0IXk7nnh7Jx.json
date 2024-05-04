@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 82929,
+  "2024-05-04": 82961,
   "date_first_scraped": "2022-03-01",
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
   "name": "Indie Spirit",
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 186116,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2M346INkn9O8aiIjbvaeSe"
@@ -3683,7 +3683,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167741,
       "name": "honestly",
       "url": "https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv"
@@ -9388,10 +9388,6 @@
         "url": "https://open.spotify.com/album/4YizAMl3P1FJco1A3irHFw"
       },
       "artists": [
-        {
-          "name": "the quiet hours",
-          "url": "https://open.spotify.com/artist/3yQPMxOkCUCB78X2Gcj7aT"
-        },
         {
           "name": "Andrew Osenga",
           "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"

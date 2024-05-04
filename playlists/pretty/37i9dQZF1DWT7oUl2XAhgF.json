@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 216871,
+  "num_followers": 333482,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAACOBv/GZPaMmQ2zziFlPV83",
+  "snapshot_id": "ZjTuxAAAAACDadGsltdBhbkSLERtihLr",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 248639,
       "name": "Singin' My Prayer",
       "url": "https://open.spotify.com/track/53yCEFwLoYWQianhQImYMD"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -103,6 +119,22 @@
       "duration_ms": 219256,
       "name": "Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "No Longer Mine",
+        "url": "https://open.spotify.com/album/6alneeeLcSYWZyu293RloI"
+      },
+      "artists": [
+        {
+          "name": "Thee Heart Tones",
+          "url": "https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "No Longer Mine",
+      "url": "https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1395,26 +1427,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Thee Only One",
-        "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
-      },
-      "artists": [
-        {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        },
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 216913,
-      "name": "Thee Only One",
-      "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "The Makings of you",
         "url": "https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km"
       },
@@ -1675,22 +1687,6 @@
       "duration_ms": 239533,
       "name": "Great Wind",
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Slippin",
-        "url": "https://open.spotify.com/album/1MApiUpsUOOlidcLOAjLbq"
-      },
-      "artists": [
-        {
-          "name": "Danni Baylor",
-          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj"
     },
     {
       "added_at": "2023-09-01 04:00:00",

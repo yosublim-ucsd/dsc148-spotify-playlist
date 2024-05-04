@@ -1,13 +1,29 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74399,
+  "num_followers": 74400,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjByfQAAAAAkl/mf3XcFlkxyPHXAo4hZ",
+  "snapshot_id": "ZjUYJwAAAACMEoJWU2AoBdu6rmAn3plA",
   "tracks": [
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
     {
       "added_at": "2024-04-15 22:56:47",
       "album": {
@@ -25,6 +41,50 @@
       "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
     },
     {
+      "added_at": "2024-05-03 16:46:44",
+      "album": {
+        "name": "Like I Say (I runaway)",
+        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+    },
+    {
+      "added_at": "2024-05-03 16:48:01",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0"
+      },
+      "artists": [
+        {
+          "name": "Catpack",
+          "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+        },
+        {
+          "name": "Phil Beaudreau",
+          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
+        }
+      ],
+      "duration_ms": 182355,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O"
+    },
+    {
       "added_at": "2024-04-15 18:26:20",
       "album": {
         "name": "Three",
@@ -39,22 +99,6 @@
       "duration_ms": 368770,
       "name": "Daydream Repeat",
       "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
-    },
-    {
-      "added_at": "2024-03-07 19:14:27",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-04-23 00:30:14",
@@ -91,6 +135,38 @@
       "duration_ms": 257226,
       "name": "Love in Constant Spectacle",
       "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "added_at": "2024-05-03 17:00:23",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Frog In Boiling Water",
+        "url": "https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Frog In Boiling Water",
+      "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
     },
     {
       "added_at": "2023-09-04 02:16:32",
@@ -327,6 +403,30 @@
       "duration_ms": 246466,
       "name": "Afternoon X",
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Get Lit",
+        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 206397,
+      "name": "Get Lit",
+      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
     },
     {
       "added_at": "2024-01-03 18:18:42",
@@ -585,22 +685,6 @@
       "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
-      "added_at": "2024-04-01 15:13:14",
-      "album": {
-        "name": "Take Me to the River",
-        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
-    },
-    {
       "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Saturnine",
@@ -797,42 +881,6 @@
       "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
-      "added_at": "2024-01-11 06:00:00",
-      "album": {
-        "name": "Ocells Com Tu",
-        "url": "https://open.spotify.com/album/2EGrqsA5FKXfKdXI085gQB"
-      },
-      "artists": [
-        {
-          "name": "Josep Xort\u00f3",
-          "url": "https://open.spotify.com/artist/1pRPhN3DsSugpSb7Fwp91z"
-        },
-        {
-          "name": "The Congosound",
-          "url": "https://open.spotify.com/artist/6cQXSYxqqhrk0XloBmtan4"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Les Can\u00e7ons Rom\u00e0ntiques",
-      "url": "https://open.spotify.com/track/7chQoiT4gZveXIbSX5tBHe"
-    },
-    {
-      "added_at": "2024-02-02 05:29:14",
-      "album": {
-        "name": "Pools of Colour",
-        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 254683,
-      "name": "The Oranges",
-      "url": "https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX"
-    },
-    {
       "added_at": "2024-03-22 06:00:00",
       "album": {
         "name": "Follow The Light",
@@ -847,38 +895,6 @@
       "duration_ms": 159054,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
-      "added_at": "2024-03-22 06:00:00",
-      "album": {
-        "name": "Something in the Room She Moves",
-        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 378289,
-      "name": "Something in the Room She Moves",
-      "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     }
   ],
   "unique_name": "Kaleidoscope",

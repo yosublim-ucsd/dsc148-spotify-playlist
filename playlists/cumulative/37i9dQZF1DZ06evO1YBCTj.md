@@ -2,7 +2,7 @@
 
 ### [This Is keshi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YBCTj)
 
-> This is keshi\. The essential tracks, all in one playlist.
+> This Is keshi\. Los temas esenciales, todos en una lista.
 
 47 songs - 2 hr 16 min
 

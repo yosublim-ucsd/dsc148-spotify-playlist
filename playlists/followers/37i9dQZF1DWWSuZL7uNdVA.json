@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 390307,
+  "2024-05-04": 390308,
   "date_first_scraped": "2023-09-29",
   "description": "Shaka Ponk au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195278,
       "name": "A Little Bit Happy",
       "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171891,
       "name": "Motel Way of Life",
       "url": "https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9"
@@ -2155,6 +2155,24 @@
       "duration_ms": 264243,
       "name": "RNR",
       "url": "https://open.spotify.com/track/1T4BtR7FhZL7e25ExyDq5L"
+    },
+    {
+      "album": {
+        "name": "Rosie",
+        "url": "https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178595,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI"
     },
     {
       "album": {
@@ -2861,6 +2879,24 @@
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "album": {
+        "name": "The Butcher's Fantasy",
+        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "The Butcher's Fantasy",
+      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
     },
     {
       "album": {

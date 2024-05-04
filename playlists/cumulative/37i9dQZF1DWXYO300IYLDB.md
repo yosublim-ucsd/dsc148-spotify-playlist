@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-414 songs - 1 day 0 hr 39 min
+415 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Baby Can You Stay \- Acoustic](https://open.spotify.com/track/2D0KV8BVHuxJJzlRqNfxL7) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay \(Acoustic\)](https://open.spotify.com/album/2zNqJN7E033d93J0cGB3Yx) | 3:06 | 2023-12-21 | 2024-02-16 |
 | [Beautiful Soul \- Acoustic](https://open.spotify.com/track/44xqbL50VofNvAuoHNXsQA) | [ekira](https://open.spotify.com/artist/7puiNiVGLDoMzgkinLGR4R) | [Beautiful Soul \(Acoustic\)](https://open.spotify.com/album/0fYVnOdzyAKZV77mvli2Qz) | 3:51 | 2023-08-03 | 2023-11-08 |
 | [benjamin](https://open.spotify.com/track/3ykszdFKPWC99QtzeqXVr0) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [benjamin](https://open.spotify.com/album/01TfNQdv3TckY8O6cUDp2M) | 3:13 | 2023-01-12 | 2023-02-24 |
-| [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2024-03-07 |  |
+| [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2024-03-07 | 2024-05-04 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-10-20 | 2024-04-19 |
 | [Binetsu \(Autumn\)](https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Binetsu \(Autumn\) / Honesty \(Session 1\)](https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp) | 4:58 | 2022-11-15 | 2022-12-14 |
 | [birds](https://open.spotify.com/track/3spfeUAU7wWCZ1wGftaTzC) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 3:09 | 2023-01-24 | 2023-02-01 |
@@ -234,6 +234,7 @@
 | [My Boo \- Acoustic](https://open.spotify.com/track/3jksD6ZdMZSjfH3zgT0SEg) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Rahky](https://open.spotify.com/artist/5oUvJ4GGen3ikQjzgPuGal) | [My Boo \(Acoustic\)](https://open.spotify.com/album/3snZXDK4dZwIzQARdadvpP) | 2:52 | 2022-10-20 | 2023-04-14 |
 | [My Stupid Heart \- Acoustic Version](https://open.spotify.com/track/3WQz7iXHJZ9x5ASGfp45r7) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Luminati Suns](https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0) | [My Stupid Heart \(Acoustic Version\)](https://open.spotify.com/album/5WFL3TMZVnWb69W7w4zlKt) | 2:42 | 2023-04-13 |  |
 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 | 2024-03-07 |  |
+| [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2024-03-07 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2022-10-20 | 2022-11-16 |
 | [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-08 |  |
 | [No Matter What](https://open.spotify.com/track/5pYsEdfprWa7B2RbsbUIDC) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:02 | 2023-10-13 | 2023-11-18 |

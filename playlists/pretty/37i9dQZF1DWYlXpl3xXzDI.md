@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,988 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,987 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 82 | [Anywhere We Go \- Stripped Down](https://open.spotify.com/track/1ySq58mz23a7QPEks7l0bk) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Friends](https://open.spotify.com/album/6cvpbHwqX983HJKRLZgWH3) | 3:38 |
 | 83 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 |
 | 84 | [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 |
-| 85 | [Perfect Day](https://open.spotify.com/track/5J0SmV2j0F0qCBfCaQbmkK) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Perfect Day](https://open.spotify.com/album/78GZSUPP29XyjgpZAQKCBW) | 2:57 |
+| 85 | [Perfect Day](https://open.spotify.com/track/5J0SmV2j0F0qCBfCaQbmkK) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Perfect Day](https://open.spotify.com/album/78GZSUPP29XyjgpZAQKCBW) | 2:57 |
 | 86 | [Day to Day for 6 Days a Week](https://open.spotify.com/track/4TRRAsZlSanRqzmsCaJ5XM) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [The Prelude](https://open.spotify.com/album/3UzRNNQbZ8X9mziFPaknwg) | 5:06 |
 | 87 | [Real Love Baby](https://open.spotify.com/track/2qEqMx1n0dnCBzWT9l3nGL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/0IpNqqkTlVMm54WIZTn6Pk) | 3:09 |
 | 88 | [Slow Dance With The Devil](https://open.spotify.com/track/5gnqu97deHhh3MBfeJXXev) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [The Temple EP](https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9) | 3:27 |

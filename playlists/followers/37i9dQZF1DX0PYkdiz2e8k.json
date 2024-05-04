@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 113055,
+  "2024-05-04": 113049,
   "date_first_scraped": "2023-07-23",
-  "description": "\ud83d\udc79 8\ufe0f\u20e3 Foto: YUNGBLUD",
+  "description": "\"i just have to trust myself\" \u2234 W \u2234 Foto: WILLOW",
   "name": "do rockeeee",
   "tracks": [
     {
@@ -291,7 +291,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 268653,
       "name": "Damage Gets Done",
       "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
@@ -1443,6 +1443,24 @@
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
+    },
+    {
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "run!",
+      "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
     },
     {
       "album": {

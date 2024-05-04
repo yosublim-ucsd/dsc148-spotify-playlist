@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Elsa y Elmar en portada.
 
-128 songs - 7 hr 12 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 | 2023-09-22 | 2023-11-11 |
 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 | 2023-09-22 | 2024-04-06 |
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-02-09 |  |
+| [banco](https://open.spotify.com/track/2wCiFPVkLB8N6o6zLVXAdl) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [banco](https://open.spotify.com/album/4kRm15NYrGovoR5lWt9CqY) | 2:22 | 2024-05-03 |  |
 | [Barlovento](https://open.spotify.com/track/18lElsu2Ou1mQp9lmnkcJU) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Guajirando](https://open.spotify.com/album/18wajZarjucF8FNEExQdGY) | 5:41 | 2023-11-24 | 2024-01-13 |
 | [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 | 2023-09-22 |  |
 | [BEiBi](https://open.spotify.com/track/7CjOFCRm35lPWK8XoKtO0o) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 4:00 | 2023-12-01 | 2024-04-19 |
@@ -72,7 +73,7 @@
 | [la terminal](https://open.spotify.com/track/1UnU60jPROOjM5WVS9CE7m) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [la terminal](https://open.spotify.com/album/774LNZX5sX4BvtRMuO3lQE) | 3:36 | 2024-04-12 |  |
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-09-22 | 2023-11-25 |
 | [La Vida Sin Ti Apesta](https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Vida Sin Ti Apesta](https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL) | 3:08 | 2024-03-01 |  |
-| [Las Flores](https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Las Flores](https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu) | 5:55 | 2023-11-10 |  |
+| [Las Flores](https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Las Flores](https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu) | 5:55 | 2023-11-10 | 2024-05-04 |
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 | 2023-12-02 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2023-11-11 |
 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 | 2024-04-26 |  |

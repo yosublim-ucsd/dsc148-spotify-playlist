@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,058 likes - 80 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,339 likes - 80 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 79 | [It's Serious](https://open.spotify.com/track/7xxPEWraePLXgLsibZjUjb) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Gold](https://open.spotify.com/album/7xU5YV1lr7X2q2pOr757SB) | 8:06 |
 | 80 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 
-Snapshot ID: `ZdYkAQAAAAAcwceOmd2opxQTddBDGQHD`
+Snapshot ID: `ZjTs0AAAAADHW416EswWUmfaJuxOClfc`

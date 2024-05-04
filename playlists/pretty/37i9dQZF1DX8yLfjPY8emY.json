@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1106692,
+  "num_followers": 1106815,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZU3XhAAAAAAxoX52uzqnTpOFZWHewiOE",
+  "snapshot_id": "ZjR5ZAAAAABxvSCIN8NB7uQhV0MmgCVG",
   "tracks": [
     {
       "added_at": "2023-11-10 07:11:00",
@@ -81,24 +81,28 @@
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
-      "added_at": "2023-11-10 07:11:00",
+      "added_at": "2024-05-03 05:43:00",
       "album": {
-        "name": "Mi Cocha Pechocha",
-        "url": "https://open.spotify.com/album/6QW1lCEXl3gyzzajuspQiL"
+        "name": "Tu No Eres un Angel",
+        "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
       },
       "artists": [
         {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
         },
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 185129,
-      "name": "Mi Cocha Pechocha",
-      "url": "https://open.spotify.com/track/6EFbHKC7TJyNnsYxCH1XcG"
+      "duration_ms": 191727,
+      "name": "Tu No Eres un Angel",
+      "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
     },
     {
       "added_at": "2023-11-10 07:11:00",
@@ -117,24 +121,24 @@
       "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
-      "added_at": "2023-11-10 07:11:00",
+      "added_at": "2024-05-03 05:43:00",
       "album": {
-        "name": "Enamorada",
-        "url": "https://open.spotify.com/album/09WvrF0ZLIM3o7akWcCvwj"
+        "name": "La Cumbia Une a Latinoam\u00e9rica",
+        "url": "https://open.spotify.com/album/0kKxw7rpN8Z0jjTIHWN2GO"
       },
       "artists": [
         {
-          "name": "Taxi Orquesta",
-          "url": "https://open.spotify.com/artist/52X2I7wOk4uHJEKd1HNSCb"
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
         },
         {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 204660,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/6rW6jBW7Vk5I3dOsm6wFVy"
+      "duration_ms": 271500,
+      "name": "La Canoa Se Va",
+      "url": "https://open.spotify.com/track/6xZZtwjkRRmFEUJnIzOzFP"
     },
     {
       "added_at": "2023-11-10 07:11:00",
@@ -851,18 +855,22 @@
     {
       "added_at": "2023-11-10 07:11:00",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+        "name": "Mi Cocha Pechocha",
+        "url": "https://open.spotify.com/album/6QW1lCEXl3gyzzajuspQiL"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+      "duration_ms": 185129,
+      "name": "Mi Cocha Pechocha",
+      "url": "https://open.spotify.com/track/6EFbHKC7TJyNnsYxCH1XcG"
     }
   ],
   "unique_name": "100% Cumbia",

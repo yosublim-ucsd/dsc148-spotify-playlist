@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos. Camila en portada.",
+  "description": "La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos. Juan Pablo Contreras en portada.",
   "name": "Mariachi Pop",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158884,
       "name": "Cuesti\u00f3n De Tiempo",
       "url": "https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 248106,
       "name": "Llevarte al Cielo",
       "url": "https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U"
@@ -1268,6 +1268,28 @@
       "duration_ms": 176292,
       "name": "Malamente",
       "url": "https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi"
+    },
+    {
+      "album": {
+        "name": "Mariachitl\u00e1n",
+        "url": "https://open.spotify.com/album/7C8Po3QvfPUpURDNy93cwC"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Contreras",
+          "url": "https://open.spotify.com/artist/34y3hToaaj8cIOf1bx18Hb"
+        },
+        {
+          "name": "Orquesta Latino Mexicana",
+          "url": "https://open.spotify.com/artist/2XHljFY3YI0gTDMmWtFu30"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642480,
+      "name": "Mariachitl\u00e1n",
+      "url": "https://open.spotify.com/track/08Yhs0JZpxoTbu6PurU16L"
     },
     {
       "album": {
@@ -1501,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -1660,7 +1700,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
@@ -2254,6 +2294,24 @@
       "duration_ms": 175306,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
+      "album": {
+        "name": "Te Confirmo",
+        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222130,
+      "name": "Te Confirmo",
+      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
     },
     {
       "album": {
@@ -2584,6 +2642,24 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/32DXk0Fv6kWkQRo2DTGm0W"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     },
     {
       "album": {

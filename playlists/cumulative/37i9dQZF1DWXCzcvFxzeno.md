@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-107 songs - 9 hr 2 min
+108 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [HEAR THE NOISE](https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [HEAR THE NOISE](https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye) | 2:46 | 2024-04-09 |  |
 | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 |  |
 | [Hold Ud, Skat!](https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:56 | 2024-04-09 | 2024-04-19 |
+| [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-03 |  |
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 |  |
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
-| [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 |  |
+| [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-04 |
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 |  |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 |  |

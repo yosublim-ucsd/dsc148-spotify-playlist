@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:33hj9n9Y19jGhXk8m7ezKR">Destin Laurel</a>
 
-1,187 songs - 2 day 3 hr 29 min
+1,189 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [2 SIDES](https://open.spotify.com/track/2yhHAImrFn7x2wHRKpGJno) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [2 SIDES](https://open.spotify.com/album/3LEk6kwYt4Nak3hBpl9MlC) | 3:13 | 2023-02-22 | 2023-04-13 |
 | [2 the Max](https://open.spotify.com/track/4N9pAupgXexImJ5Vgv1kFz) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [2 the Max](https://open.spotify.com/album/0wsQltrC4GfBXEsva0AENk) | 1:50 | 2022-08-24 | 2022-10-27 |
 | [2.22](https://open.spotify.com/track/20DGjoAcmyXTmEwn0rqyNx) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [2.22](https://open.spotify.com/album/1QE0hjcBpz0mAEVLsQIBdL) | 2:22 | 2022-02-03 | 2022-03-03 |
-| [22](https://open.spotify.com/track/1auvnGKOfKYpFhPucN14GN) | [Jibba](https://open.spotify.com/artist/029SlRrVfzLIqkprRLsZhM) | [22](https://open.spotify.com/album/6QA0eSqbB5gWhoP47ETFP9) | 2:05 | 2024-02-14 |  |
+| [22](https://open.spotify.com/track/1auvnGKOfKYpFhPucN14GN) | [Jibba](https://open.spotify.com/artist/029SlRrVfzLIqkprRLsZhM) | [22](https://open.spotify.com/album/6QA0eSqbB5gWhoP47ETFP9) | 2:05 | 2024-02-14 | 2024-05-04 |
 | [24 Hours](https://open.spotify.com/track/37gHzdkvriikHaL5AT8im2) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Enjoymenting](https://open.spotify.com/album/2IADla1FAUYdgW7d9aiOPp) | 3:33 | 2021-12-01 | 2022-01-14 |
 | [24/7](https://open.spotify.com/track/7G0WYG7DTL30E8we3aZsLn) | [Yung Brae](https://open.spotify.com/artist/3RaIiLVVG60WwHZ34IDipA) | [24/7](https://open.spotify.com/album/2DqlX19dq3SAyuaBB9iRwk) | 2:24 | 2023-07-12 | 2023-08-31 |
 | [2AM](https://open.spotify.com/track/3CkNe0WAMPvH69Wb36kAdi) | [Ty2Fly](https://open.spotify.com/artist/0XeObZd9hVmB6jL2gDDixT) | [2Fly 2sdays \(pack 1\)](https://open.spotify.com/album/0E7u436tAlPLiBOWpZflf9) | 2:22 | 2023-06-21 | 2023-08-25 |
@@ -702,6 +702,7 @@
 | [Motion Man](https://open.spotify.com/track/3k0FSuoQjeivsadIwthYDF) | [Lil Stamp](https://open.spotify.com/artist/0thLKTCGsAi1zuwNddkyDB) | [Motion Man](https://open.spotify.com/album/6JVl7vf5aBSQIiFr8mDYMd) | 1:57 | 2023-01-11 | 2023-02-16 |
 | [Move](https://open.spotify.com/track/0oqfoEgagq4SI3tqcuiD1g) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [City James](https://open.spotify.com/artist/3ozF8iFAzukd7ZyWuPDOKd) | [Turtle Crossing](https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA) | 2:40 | 2022-05-25 | 2022-07-21 |
 | [Move Em](https://open.spotify.com/track/53sHnylvna8fZ87A1PleQF) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [Move Em](https://open.spotify.com/album/1FDkz3BOWMyftZVSK78c3k) | 2:20 | 2022-04-27 | 2023-01-12 |
+| [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 | 2024-05-03 |  |
 | [Mr Brash](https://open.spotify.com/track/1jWjinqN5I8g9lv7ayD4dM) | [8SZN](https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD) | [Mr Brash](https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv) | 3:05 | 2023-06-07 | 2023-07-27 |
 | [MR MYSTERIOUS?](https://open.spotify.com/track/7tRWSllzsVm44miJGMNn1H) | [T3D](https://open.spotify.com/artist/5vyCenmAP4yDN9rclEcy7r) | [MR MYSTERIOUS?](https://open.spotify.com/album/1CespGK1OntnpMMxQGBeUz) | 2:40 | 2022-04-27 | 2022-05-26 |
 | [Mr\. Big Shot](https://open.spotify.com/track/7v1QhkWSqRXEuydfPZJLfe) | [UglyFace](https://open.spotify.com/artist/6cVTa42IphmDksBQ8O0Zsv) | [Mr\. Big Shot](https://open.spotify.com/album/3HTMsebm3qglzqCkIjpreQ) | 3:42 | 2022-09-07 | 2022-10-06 |
@@ -736,7 +737,7 @@
 | [Neighborhood Trapstars](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Neighborhood Trapstars](https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD) | 2:33 | 2023-01-11 | 2023-02-09 |
 | [NENE'S PRAYER](https://open.spotify.com/track/1U84Q9VogHbbfojXkIC65i) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [NENE'S PRAYER](https://open.spotify.com/album/1Ke18E92eGR8FVPT3ZY6pg) | 1:35 | 2024-03-27 | 2024-04-19 |
 | [Never](https://open.spotify.com/track/3hsgjTcnTWDJ61D1ttCJnY) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [Never](https://open.spotify.com/album/4yRdW9raku8HJDqLIrPAB5) | 3:01 | 2022-01-19 | 2022-02-17 |
-| [Never Enough](https://open.spotify.com/track/22r7GEr3quvsOap3Td9RrU) | [Sage X Price](https://open.spotify.com/artist/7HFWAHYOe2o2diWwiWX5Db) | [Never Enough](https://open.spotify.com/album/2XMvYdbzvxdwWoloonr6DC) | 3:13 | 2024-02-14 |  |
+| [Never Enough](https://open.spotify.com/track/22r7GEr3quvsOap3Td9RrU) | [Sage X Price](https://open.spotify.com/artist/7HFWAHYOe2o2diWwiWX5Db) | [Never Enough](https://open.spotify.com/album/2XMvYdbzvxdwWoloonr6DC) | 3:13 | 2024-02-14 | 2024-05-04 |
 | [Never Get Even](https://open.spotify.com/track/3jBQHWqryUzNKYEq0rEnzq) | [Rowlan](https://open.spotify.com/artist/1QQxgPT4qgPLps6RFTLCjJ) | [Never Get Even](https://open.spotify.com/album/3W76W9Tg1fIX1T4tOylCDx) | 2:37 | 2021-12-01 | 2022-01-14 |
 | [New 2 This](https://open.spotify.com/track/4UDCAEArnXm7q4DQ47xZ6z) | [JB Milano](https://open.spotify.com/artist/3a1Bjk09KcxrS4ED8HWpeS) | [New 2 This](https://open.spotify.com/album/3Ku9rHrQ76L0RdiZtay37g) | 2:28 | 2022-03-16 | 2022-04-28 |
 | [New 50's](https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [New 50's](https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr) | 1:54 | 2022-04-28 | 2022-05-26 |
@@ -1185,6 +1186,7 @@
 | [Ya Ya](https://open.spotify.com/track/16vVYwa7j9kMjZmq0EDLUJ) | [Leondro](https://open.spotify.com/artist/33OvupXcSbv7GsPtgWC98r) | [Ya Ya](https://open.spotify.com/album/2vZMOk7UqY2JUm6R53ZDHN) | 2:36 | 2023-04-05 | 2023-04-20 |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-09-21 | 2022-10-27 |
 | [YALL BLOWING MINES](https://open.spotify.com/track/0l8VaQ80N0l03wmiBipHBy) | [Ib Mattic](https://open.spotify.com/artist/50iwkYL22QDXiq2FlQw9EW) | [SZN 2](https://open.spotify.com/album/1Ex7GXej7dLQ1DU7UiEZQM) | 1:13 | 2023-07-26 | 2023-09-21 |
+| [Yea Yea](https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Yea Yea](https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h) | 2:01 | 2024-05-03 |  |
 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-18 | 2024-01-11 |
 | [You Again](https://open.spotify.com/track/5Kfn8EXu3UyzUuLk6PK4Og) | [Joey Melrose](https://open.spotify.com/artist/6b29OPfOOGNOsUOFLfxRrc) | [You Again](https://open.spotify.com/album/073EQPQAZCduQsVlppMv2J) | 2:10 | 2022-02-03 | 2023-01-12 |
 | [You Ain't Ever](https://open.spotify.com/track/7pPHoIDznxExR5pRCGZ2TR) | [Grubbo](https://open.spotify.com/artist/5s18FDsNPMUoposHazFVdT) | [You Ain't Ever](https://open.spotify.com/album/1rZ3MUxQmmYBr975p94CS5) | 3:05 | 2023-11-08 | 2023-11-30 |

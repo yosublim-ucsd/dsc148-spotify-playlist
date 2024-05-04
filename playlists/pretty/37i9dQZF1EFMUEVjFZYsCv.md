@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 92 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5 likes - 92 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 85 | [Ruthless](https://open.spotify.com/track/4MGkRLnl4ooV9TvvAlJklt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:12 |
 | 86 | [Comeback Kid](https://open.spotify.com/track/2TKDsoGfxdpuD8lgFsk4ea) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:53 |
 | 87 | [Faded](https://open.spotify.com/track/6BPqiMxyTyXMfoHQXA3W6O) | [The James Arthur Band](https://open.spotify.com/artist/5atItJPd0PaBNUZ1SPL2Cj) | [The EP Collection](https://open.spotify.com/album/5e08OiapHEomZYxyMEwjnA) | 3:08 |
-| 88 | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/track/4VPLEGbr7vgfma1cFCasNQ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Alliel](https://open.spotify.com/artist/1IWuxxA4ErA0vjaIhgQ0CU) | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/album/2RxT1X0QkEIzHsxnAZ0VJl) | 3:31 |
-| 89 | [My Favourite Pill](https://open.spotify.com/track/2jl6KXvQSK61EDlspm4e2n) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:23 |
+| 88 | [My Favourite Pill](https://open.spotify.com/track/2jl6KXvQSK61EDlspm4e2n) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:23 |
+| 89 | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/track/4VPLEGbr7vgfma1cFCasNQ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Alliel](https://open.spotify.com/artist/1IWuxxA4ErA0vjaIhgQ0CU) | [On se comprend sans parler \(Let's Go Home Together\)](https://open.spotify.com/album/2RxT1X0QkEIzHsxnAZ0VJl) | 3:31 |
 | 90 | [New Generation](https://open.spotify.com/track/5s0xcwl2sv8HGRmeY7c8om) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:46 |
 | 91 | [New Blood](https://open.spotify.com/track/1Ha3z5BfyZQ4MZ2Yxf1olv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 5:07 |
 | 92 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
 
-Snapshot ID: `AbQS7AAAAABhM/yp+H4Atk40p50Heqh5`
+Snapshot ID: `AbQYFAAAAAC8jw5SG48FPxvVDbiOu8Eb`

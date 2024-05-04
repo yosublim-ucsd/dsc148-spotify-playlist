@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,481 likes - 489 songs - 1 day 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,477 likes - 489 songs - 1 day 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 86 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
 | 87 | [Dance Again](https://open.spotify.com/track/5sK3o66yupTNIK6gWgzGjf) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:50 |
 | 88 | [If Walls Could Talk](https://open.spotify.com/track/0nCVLAhIUrLQ34Vw5vTXNP) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:02 |
-| 89 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 |
-| 90 | [Home](https://open.spotify.com/track/6Ncr1lCYnE3JHwtVK4nLAx) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [NRG 105](https://open.spotify.com/album/6PKB6B0RPSG7aOFcoeDNXZ) | 3:52 |
-| 91 | [Good Day](https://open.spotify.com/track/49X8pWDpmFpAITVUaudkcN) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:38 |
-| 92 | [Take Care of You](https://open.spotify.com/track/3vVmS5zA3PDcdTmCb9iJEU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:14 |
-| 93 | [Moving Along](https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:17 |
-| 94 | [Perfect](https://open.spotify.com/track/2cMtkfv5jEb5UpIjJntl5g) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 4:02 |
-| 95 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 89 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 90 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 |
+| 91 | [Home](https://open.spotify.com/track/6Ncr1lCYnE3JHwtVK4nLAx) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [NRG 105](https://open.spotify.com/album/6PKB6B0RPSG7aOFcoeDNXZ) | 3:52 |
+| 92 | [Good Day](https://open.spotify.com/track/49X8pWDpmFpAITVUaudkcN) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:38 |
+| 93 | [Take Care of You](https://open.spotify.com/track/3vVmS5zA3PDcdTmCb9iJEU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:14 |
+| 94 | [Moving Along](https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:17 |
+| 95 | [Perfect](https://open.spotify.com/track/2cMtkfv5jEb5UpIjJntl5g) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 4:02 |
 | 96 | [Make Me Like You](https://open.spotify.com/track/5ViT05yjdBQgPOwckL762B) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:36 |
 | 97 | [Talk Fast](https://open.spotify.com/track/1pMrGc8rMC5qx0zMak8tkd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:07 |
 | 98 | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 |
@@ -462,8 +462,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 452 | [Cherries On Ice](https://open.spotify.com/track/2YjFufJ6D0jFxUmuE9Tl7S) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 3:53 |
 | 453 | [Misery](https://open.spotify.com/track/6mCQhDWwQTnBJKIJ8bhJOH) | [Felix Marc](https://open.spotify.com/artist/0j6w8JsaZsx5Vs3qECKnAx) | [Alternative Facts \(Extended Edition\)](https://open.spotify.com/album/0vvuFLhI7FYveR3egAvsRf) | 5:28 |
 | 454 | [Hands Up](https://open.spotify.com/track/1834BpeEkLr1D4QECkvYvL) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 3:56 |
-| 455 | [Cherry Red](https://open.spotify.com/track/00CaWrS7SEQjRBDAhEeWtY) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI), [Jerzee](https://open.spotify.com/artist/1qtzQcRd0zCQspwUSxYHyV) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:01 |
-| 456 | [Audacity](https://open.spotify.com/track/4RHn4YaCPnQhnnP3HyygaP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:48 |
+| 455 | [Audacity](https://open.spotify.com/track/4RHn4YaCPnQhnnP3HyygaP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:48 |
+| 456 | [Cherry Red](https://open.spotify.com/track/00CaWrS7SEQjRBDAhEeWtY) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI), [Jerzee](https://open.spotify.com/artist/1qtzQcRd0zCQspwUSxYHyV) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:01 |
 | 457 | [Vegas](https://open.spotify.com/track/2Fxx2DILYteh39yff8X5zq) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 2:55 |
 | 458 | [Pyro](https://open.spotify.com/track/4bqosCAIpXVsOIHlnDWHff) | [Plasty](https://open.spotify.com/artist/6w2XClDdEAT8f9VX8JwW8g) | [Pyro](https://open.spotify.com/album/2ql83hLRHyncD1c3QakaYt) | 3:05 |
 | 459 | [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 |
@@ -498,4 +498,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 488 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 | 489 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AbQSugAAAABA99uJ7f46FqldKsUWJoYL`
+Snapshot ID: `AbQYIwAAAAA/qkbbU1hHEQmypYI4e23q`

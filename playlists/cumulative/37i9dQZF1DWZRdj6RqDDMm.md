@@ -2,7 +2,7 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA">Marizu</a>
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
 255 songs - 15 hr 27 min
 

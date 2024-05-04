@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 107969,
+  "2024-05-04": 107981,
   "date_first_scraped": "2022-01-24",
   "description": "La casa del trap chileno al mando de Ak4:20",
   "name": "Trapperz Chile",
@@ -944,6 +944,36 @@
     },
     {
       "album": {
+        "name": "Death Row",
+        "url": "https://open.spotify.com/album/61gXjL6E58XBTriFPqB7I3"
+      },
+      "artists": [
+        {
+          "name": "Shisosaloud",
+          "url": "https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD"
+        },
+        {
+          "name": "HDR",
+          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "Luih Parce",
+          "url": "https://open.spotify.com/artist/43QmXVBWtjrpL01tnA0uiT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195615,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/41RaYCqOHnXyOMLmU0J87O"
+    },
+    {
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb"
       },
@@ -1469,6 +1499,24 @@
       "duration_ms": 247015,
       "name": "Fondo de Bikini",
       "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
+    },
+    {
+      "album": {
+        "name": "FRANCESCO TOTTI",
+        "url": "https://open.spotify.com/album/62xVe5Ds1ZUFJVblXX3g4H"
+      },
+      "artists": [
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142290,
+      "name": "FRANCESCO TOTTI",
+      "url": "https://open.spotify.com/track/47WJp34rmnQRdiy986z5Kl"
     },
     {
       "album": {
@@ -2311,7 +2359,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 119712,
       "name": "Mafia Chilena: NEWYORK GABANA",
       "url": "https://open.spotify.com/track/6m9AQlbsgXtkdzInoGovOi"
@@ -2986,6 +3034,28 @@
     },
     {
       "album": {
+        "name": "Nave Polariza",
+        "url": "https://open.spotify.com/album/4PgFZ8aXGHvVXrODrATSpH"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131694,
+      "name": "Nave Polariza",
+      "url": "https://open.spotify.com/track/7d31HrnZdVTL00kbuCjQY1"
+    },
+    {
+      "album": {
         "name": "Casi Angeles",
         "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
       },
@@ -3181,7 +3251,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 177857,
       "name": "On God",
       "url": "https://open.spotify.com/track/5LuePRU2YArXpkCoU0cXaX"
@@ -4171,7 +4241,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 118746,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"

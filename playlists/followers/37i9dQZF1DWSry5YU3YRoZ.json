@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 5057,
+  "2024-05-04": 5056,
   "date_first_scraped": "2023-11-04",
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
   "name": "zZZ \uc798\uc790\uc694",
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "love letter",
+        "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
+      },
+      "artists": [
+        {
+          "name": "RYU MIN HEE",
+          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "love letter",
+      "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
+    },
+    {
+      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -959,7 +977,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 200862,
       "name": "Star",
       "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"

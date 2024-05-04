@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks you want to hear, all in one playlist! Cover: Taylor Swift",
-  "num_followers": 79677,
+  "num_followers": 79667,
   "original_name": "New Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAA4JfTAD0RXMnXeeekzd84D0/4AA/wE",
+  "snapshot_id": "AAA4Lfyb3/WELeGhuyREPY2zJ0KoLUdV",
   "tracks": [
     {
       "added_at": "2024-04-26 12:34:34",
@@ -77,20 +77,36 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-04-26 12:34:34",
+      "added_at": "2024-05-03 13:16:47",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo"
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 175247,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS"
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "added_at": "2024-05-03 16:42:55",
+      "album": {
+        "name": "you're like",
+        "url": "https://open.spotify.com/album/4FXaDXTLekj24gDRCVOloF"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "you're like",
+      "url": "https://open.spotify.com/track/7BE81V2jbUz6HtGOIGHGuZ"
     },
     {
       "added_at": "2024-04-26 12:34:34",
@@ -259,18 +275,18 @@
     {
       "added_at": "2024-04-26 12:34:34",
       "album": {
-        "name": "Seconds Away",
-        "url": "https://open.spotify.com/album/5d6ksxWTiDMYFR6EngSWG9"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo"
       },
       "artists": [
         {
-          "name": "Jamie Fine",
-          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Seconds Away",
-      "url": "https://open.spotify.com/track/1vxWgYimfA3RtHo41qE40i"
+      "duration_ms": 175247,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS"
     },
     {
       "added_at": "2024-04-26 12:34:34",
@@ -967,6 +983,38 @@
       "duration_ms": 190853,
       "name": "Maybe Life Is Good",
       "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
+    },
+    {
+      "added_at": "2024-04-26 12:34:34",
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD"
+      },
+      "artists": [
+        {
+          "name": "Cab'Ral",
+          "url": "https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj"
+        }
+      ],
+      "duration_ms": 177247,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn"
+    },
+    {
+      "added_at": "2024-04-26 12:34:34",
+      "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2024-04-26 12:34:34",
@@ -1819,38 +1867,6 @@
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
-    },
-    {
-      "added_at": "2024-04-26 12:34:34",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD"
-      },
-      "artists": [
-        {
-          "name": "Cab'Ral",
-          "url": "https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj"
-        }
-      ],
-      "duration_ms": 177247,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn"
-    },
-    {
-      "added_at": "2024-04-26 12:34:34",
-      "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     }
   ],
   "unique_name": "New Pop Hits",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
-  "num_followers": 1439707,
+  "description": "This Is Pink Floyd. Los temas esenciales, todos en una lista.",
+  "num_followers": 1439812,
   "original_name": "This Is Pink Floyd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAAL17t/EFRaM9xVKwmzDUYX",
+  "snapshot_id": "ZjLXgAAAAACrj5yCr8JiZ/1n7EHnflYm",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 192145,
-      "name": "Another Brick in the Wall, Pt. 1",
-      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+      "duration_ms": 30622,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/21L1dVOTGhvAKvBXXnTIHj"
     },
     {
       "added_at": null,

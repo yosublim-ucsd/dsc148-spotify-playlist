@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-139 songs - 12 hr 24 min
+140 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Babylon](https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Babylon](https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y) | 3:41 | 2024-04-16 |  |
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-07-08 |  |
 | [Blodbylgje](https://open.spotify.com/track/49vfzNh1RARoPNcDDIAGLf) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn) | [Blodbylgje](https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn) | 15:22 | 2022-05-13 | 2024-04-17 |
+| [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 | 2024-05-03 |  |
 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 | 2024-04-16 |  |
 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/3KT52834YTKYqxMS3Uus55) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/7hBdpuRzven4G0UHw8bnnl) | 4:06 | 2022-05-13 | 2023-02-12 |
 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/1LEulFdOhyD0t2VPgQydEK) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 4:06 | 2022-12-01 | 2024-04-17 |
@@ -117,7 +118,7 @@
 | [Två Systrar](https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Två Systrar](https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB) | 5:52 | 2022-05-13 |  |
 | [Tyrty veri, seiso!](https://open.spotify.com/track/2OI785cloJRhaP9Vxlc5Kj) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Tyrty veri, seiso!](https://open.spotify.com/album/1KahsgDixLjc5MEciL0pl5) | 3:56 | 2022-05-13 | 2024-04-17 |
 | [U\-Gra](https://open.spotify.com/track/1skpul4CRFFh1irTjprkF7) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [U\-Gra](https://open.spotify.com/album/25S9xlQbFOAZE9pgV2sczx) | 6:00 | 2022-05-13 | 2024-04-17 |
-| [Ulvsblakk](https://open.spotify.com/track/7m4Z1nsSHc55wGVC0Go3iQ) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Kveldssanger](https://open.spotify.com/album/7cXrQFBd5R6TwtRyV7LOGq) | 6:56 | 2022-05-13 |  |
+| [Ulvsblakk](https://open.spotify.com/track/7m4Z1nsSHc55wGVC0Go3iQ) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Kveldssanger](https://open.spotify.com/album/7cXrQFBd5R6TwtRyV7LOGq) | 6:56 | 2022-05-13 | 2024-05-04 |
 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 | 2022-05-13 |  |
 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 | 2022-05-13 |  |
 | [Urzala](https://open.spotify.com/track/6CRcyL0s068af2UWWBvaJM) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:04 | 2022-05-13 | 2024-04-17 |

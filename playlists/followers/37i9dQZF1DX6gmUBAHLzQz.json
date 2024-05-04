@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 30738,
+  "2024-05-04": 30747,
   "date_first_scraped": "2022-07-28",
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
   "name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 243040,
       "name": "\u30bf\u30eb\u30c8\u30fb\u30bf\u30bf\u30f3",
       "url": "https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH"
@@ -2693,6 +2693,24 @@
       "duration_ms": 235146,
       "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/0LCdEIY2ALIEeJKkKUPHAt"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u307f from STAR\u2606ANIS & \u307f\u307b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/7Jea0SMwP0knjKChiGjlKI"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
+      "url": "https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACdS4z/heyO7JtxlYSYTnFl",
+  "snapshot_id": "ZjLXgAAAAAC7Seg14ZTPT33BqXGopnST",
   "tracks": [
     {
       "added_at": null,
@@ -31,30 +31,6 @@
       "duration_ms": 219178,
       "name": "SOLTO",
       "url": "https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 212650,
-      "name": "LEAL",
-      "url": "https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q"
     },
     {
       "added_at": null,
@@ -103,6 +79,30 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 212650,
+      "name": "LEAL",
+      "url": "https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olho de Tigre",
-        "url": "https://open.spotify.com/album/6zWDuyJyUDvT8vVJWNzUzT"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Olho de Tigre",
-      "url": "https://open.spotify.com/track/2GKpQ6rstJxrJTOHOTrBq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 258815,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/6zWDuyJyUDvT8vVJWNzUzT"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Olho de Tigre",
+      "url": "https://open.spotify.com/track/2GKpQ6rstJxrJTOHOTrBq8"
     },
     {
       "added_at": null,
@@ -1023,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 156351,
-      "name": "N\u00e3o Me Liga Mais",
-      "url": "https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
         "url": "https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 184615,
       "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
       "url": "https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 156351,
+      "name": "N\u00e3o Me Liga Mais",
+      "url": "https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V"
     },
     {
       "added_at": null,
@@ -1227,30 +1227,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TI RICK",
-        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
+        "name": "Zero Chances (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
       },
       "artists": [
         {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
         }
       ],
-      "duration_ms": 145153,
-      "name": "Disse Que \u00e9 F\u00e3 de Rap",
-      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
+      "duration_ms": 218410,
+      "name": "Zero Chances - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     },
     {
       "added_at": null,
@@ -1283,6 +1279,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "TI RICK",
+        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        }
+      ],
+      "duration_ms": 145153,
+      "name": "Disse Que \u00e9 F\u00e3 de Rap",
+      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qual Calcinha",
         "url": "https://open.spotify.com/album/19TYuGXRoOVcWLcfQInn6M"
       },
@@ -1311,30 +1335,6 @@
       "duration_ms": 209307,
       "name": "Qual Calcinha",
       "url": "https://open.spotify.com/track/0THIQb8cyqXuIF5Nd74c4w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zero Chances (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
-      },
-      "artists": [
-        {
-          "name": "Akatu",
-          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 218410,
-      "name": "Zero Chances - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     }
   ],
   "unique_name": "This Is Djonga",

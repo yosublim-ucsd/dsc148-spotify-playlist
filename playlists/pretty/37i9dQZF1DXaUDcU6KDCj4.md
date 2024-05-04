@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,308 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,332 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Second Gear](https://open.spotify.com/track/4PjpKkUZzGn5EzIWlWO3vX) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Slow Down Time](https://open.spotify.com/album/2mbNizf3ankP6WLiFpkjTp) | 3:39 |
 | 150 | [Sierra Vista](https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sierra Vista](https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr) | 2:35 |
 
-Snapshot ID: `ZjRhQAAAAAAbokft6JPk28hyFDBncXAd`
+Snapshot ID: `ZjVTIwAAAABA829J2be6bTx4otXd3YgL`

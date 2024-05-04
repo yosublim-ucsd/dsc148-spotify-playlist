@@ -1,9 +1,45 @@
 {
-  "2024-05-03": 3407,
+  "2024-05-04": 3405,
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:0TAMn2YGFdRgi3odrRdlQG\">O quem tem na sua carteira?</a>",
+  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:27BapqwMhGJQ28paJU8bDE\">bom mesmo \u00e9 ser emocionada</a>",
   "name": "RADAR Podcasters Brasil",
   "tracks": [
+    {
+      "album": {
+        "name": "Muito al\u00e9m da Checklist",
+        "url": "https://open.spotify.com/album/6NPToOoX61E0p0YPb6KEQ1"
+      },
+      "artists": [
+        {
+          "name": "Muito al\u00e9m da Checklist",
+          "url": "https://open.spotify.com/show/6NPToOoX61E0p0YPb6KEQ1"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587022,
+      "name": "#13 - Como retomar o rumo da vida?",
+      "url": "https://open.spotify.com/episode/4KWMUxP2txLiEgpxxl4Bcq"
+    },
+    {
+      "album": {
+        "name": "Depois Dos Quinze",
+        "url": "https://open.spotify.com/album/2EFPzk0g09dpP8IV8Z9BoJ"
+      },
+      "artists": [
+        {
+          "name": "Depois Dos Quinze",
+          "url": "https://open.spotify.com/show/2EFPzk0g09dpP8IV8Z9BoJ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2099686,
+      "name": "#27 O problema sou eu",
+      "url": "https://open.spotify.com/episode/0CVDNEZZnT1v5GbItGyc9U"
+    },
     {
       "album": {
         "name": "Legalmente surtada, cansada e gostosa",
@@ -17,10 +53,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 1481038,
       "name": "#40 \u2013 Voc\u00ea n\u00e3o pode salvar seus pais",
       "url": "https://open.spotify.com/episode/3BVE7edLhXGJW2bnOWO3yi"
+    },
+    {
+      "album": {
+        "name": "vibes em an\u00e1lise",
+        "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
+      },
+      "artists": [
+        {
+          "name": "vibes em an\u00e1lise",
+          "url": "https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3616522,
+      "name": "AMOR ANIMAL",
+      "url": "https://open.spotify.com/episode/3qSYsy8SG1E8AmVDUYG7tK"
     },
     {
       "album": {
@@ -35,7 +89,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 593065,
       "name": "cansei de ser boazinha ",
       "url": "https://open.spotify.com/episode/199duKevM5P1LRRt8oZ3ky"
@@ -53,10 +107,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 3457583,
       "name": "CREEPYPASTA - Epis\u00f3dio FINAL s\u00e9rie Penpal (exclusivo podcast)",
       "url": "https://open.spotify.com/episode/1oincRGlhSMZOfIs86f1gs"
+    },
+    {
+      "album": {
+        "name": "O Turno da Noite",
+        "url": "https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5"
+      },
+      "artists": [
+        {
+          "name": "O Turno da Noite",
+          "url": "https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3295238,
+      "name": "Creepypasta Iceberg | Penpals, pt. 1",
+      "url": "https://open.spotify.com/episode/7xU8Nr1uzrKQWeDWwCR2bP"
     },
     {
       "album": {
@@ -71,7 +143,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 2686056,
       "name": "Epis\u00f3dio 1 - Prenderam o Minhoca",
       "url": "https://open.spotify.com/episode/79ZkOn7cYIOY1ayBDoHGxt"
@@ -89,10 +161,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 3419583,
       "name": "O QUE TEM NA SUA CARTEIRA? #21 | com Luiza Helena Trajano, Presidente do Conselho do Magazine Luiza",
       "url": "https://open.spotify.com/episode/0RbDCuT59e7UUuOj7C2iz9"
+    },
+    {
+      "album": {
+        "name": "O que tem na sua carteira?",
+        "url": "https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG"
+      },
+      "artists": [
+        {
+          "name": "O que tem na sua carteira?",
+          "url": "https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3538709,
+      "name": "O QUE TEM NA SUA CARTEIRA? #23 | com Xenia Fran\u00e7a, Cantora",
+      "url": "https://open.spotify.com/episode/5epKhxhe4cfdY8NkY2Nfvl"
     },
     {
       "album": {
@@ -107,7 +197,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 1008432,
       "name": "O Sistema do Samba (A Pol\u00edtica), #1.1 - Uma introdu\u00e7\u00e3o",
       "url": "https://open.spotify.com/episode/6zjmBXjogvC0gX0Jr00OXq"
@@ -125,10 +215,82 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 3518511,
       "name": "PROBLEMAS DO DINHEIRO",
       "url": "https://open.spotify.com/episode/01M4yB3ZHRdXwDPRw0jPBU"
+    },
+    {
+      "album": {
+        "name": "bom mesmo \u00e9 ser emocionada",
+        "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
+      },
+      "artists": [
+        {
+          "name": "bom mesmo \u00e9 ser emocionada",
+          "url": "https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1666013,
+      "name": "responsabilidade afetiva #7",
+      "url": "https://open.spotify.com/episode/6G0DLITlNyHpMcl8wyweOa"
+    },
+    {
+      "album": {
+        "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+        "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
+      },
+      "artists": [
+        {
+          "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+          "url": "https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670761,
+      "name": "sobre recome\u00e7ar ",
+      "url": "https://open.spotify.com/episode/3flaWV3v8OlbAdtoL5EmgF"
+    },
+    {
+      "album": {
+        "name": "Di\u00e1rio de uma investidora n\u0336e\u0336g\u0336r\u0336a\u0336",
+        "url": "https://open.spotify.com/album/37PTdIZ0zeeT2FEbnwCQJ4"
+      },
+      "artists": [
+        {
+          "name": "Di\u00e1rio de uma investidora n\u0336e\u0336g\u0336r\u0336a\u0336",
+          "url": "https://open.spotify.com/show/37PTdIZ0zeeT2FEbnwCQJ4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338663,
+      "name": "T2 - Ep 04: Me ajude a te ajudar",
+      "url": "https://open.spotify.com/episode/265BFMlm2gKXgeS2plAU9e"
+    },
+    {
+      "album": {
+        "name": "Assustador, Bizarro e Misterioso",
+        "url": "https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR"
+      },
+      "artists": [
+        {
+          "name": "Assustador, Bizarro e Misterioso",
+          "url": "https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1261563,
+      "name": "Um sobreviveu pra contar a hist\u00f3ria",
+      "url": "https://open.spotify.com/episode/1AY2wAjhgJoxIc2PR6aSvT"
     },
     {
       "album": {
@@ -143,7 +305,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 1386508,
       "name": "\u00c9 autossabotagem ou eu mere\u00e7o mais?",
       "url": "https://open.spotify.com/episode/45GRVtaFn3CcHJHfUpfOQE"

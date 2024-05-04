@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "La Fusion",
+        "url": "https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231753,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU"
+    },
+    {
+      "album": {
         "name": "Spirit They're Gone, Spirit They've Vanished (Remastered 2023)",
         "url": "https://open.spotify.com/album/4HzQP0tw4AOAO5Ntkz8JOL"
       },

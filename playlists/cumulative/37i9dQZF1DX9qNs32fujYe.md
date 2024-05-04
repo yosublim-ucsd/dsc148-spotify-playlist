@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-866 songs - 2 day 15 hr 56 min
+867 songs - 2 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Death Row Center](https://open.spotify.com/track/3LKgNjQiASsfVpAbgzlRx1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Death Row Center](https://open.spotify.com/album/2Vp71GuIcg2ro1Eh2b8Xw0) | 4:34 | 2022-02-11 | 2022-04-20 |
 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 | 2021-12-17 | 2023-02-11 |
 | [Defence of Moscow](https://open.spotify.com/track/27q9ZWmSFwCqq7B2unoHRG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Defence of Moscow](https://open.spotify.com/album/6sJEfwnTIxQZC1boBo2aqY) | 4:08 | 2021-12-17 | 2022-01-08 |
-| [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-09-09 |  |
+| [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-09-09 | 2024-05-04 |
 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 | 2021-12-17 | 2022-08-20 |
 | [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 | 2023-03-03 | 2023-07-01 |
 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 | 2022-07-08 | 2023-03-18 |
@@ -413,6 +413,7 @@
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Left on Mars](https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Left on Mars](https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5) | 5:01 | 2024-03-22 |  |
+| [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 |  |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2024-04-06 |
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2022-01-28 | 2022-07-04 |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2022-08-19 |  |
@@ -787,7 +788,7 @@
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [Under Your Tattoos](https://open.spotify.com/track/6koYE3878OQT34mPMuGZ4X) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 4:12 | 2022-07-13 | 2022-08-20 |
-| [Unforgiveable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-03 |  |
+| [Unforgivable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-03 |  |
 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 | 2024-04-19 |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |

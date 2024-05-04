@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 
 > Relive the most exciting battles and fight scenes from Star Wars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,855 likes - 34 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,922 likes - 34 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

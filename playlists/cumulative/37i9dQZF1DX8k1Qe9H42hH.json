@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Star Wars Lofi: Vol. 1",
+        "url": "https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl"
+      },
+      "artists": [
+        {
+          "name": "Nick Pingree",
+          "url": "https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz"
+    },
+    {
+      "album": {
         "name": "Mary Poppins Returns (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B"
       },

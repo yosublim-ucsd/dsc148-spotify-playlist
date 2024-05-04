@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7e0leqj1Y2QcqqyUtKHdld"
+      },
+      "artists": [
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        },
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/4yBbkmhuo54wbN5b0WFW3g"
       },
@@ -893,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1ar Extra\u00f1arte",
+        "url": "https://open.spotify.com/album/3CMJvjSrATem8JLTW5gPMa"
+      },
+      "artists": [
+        {
+          "name": "Karla Breu",
+          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Extra\u00f1ar Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/1a0NSkwfq7WYxrDOXoWpsi"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1os de Nuevo",
         "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
       },
@@ -980,7 +1020,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 206708,
       "name": "HILO ROJO",
       "url": "https://open.spotify.com/track/6p6cds4TrmhfWrqB0O7gZD"
@@ -1176,7 +1216,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 143474,
       "name": "Llamadas Vac\u00edas",
       "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
@@ -1291,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "MI CORAZ\u00d3N, coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1eSXjp1vmSn1pHrRu53jBR"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "MI CORAZ\u00d3N, coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3BAhUpL9Lko3ofo7ATrxFJ"
+    },
+    {
+      "album": {
         "name": "Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU"
       },
@@ -1302,7 +1360,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 162415,
       "name": "Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY"
@@ -1360,6 +1418,28 @@
       "duration_ms": 217120,
       "name": "Morra",
       "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
+    },
+    {
+      "album": {
+        "name": "My White Kitty",
+        "url": "https://open.spotify.com/album/3wLAA2W0Ut3iXOINVllZU9"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "My White Kitty",
+      "url": "https://open.spotify.com/track/755kJy8Kk6RjZ3OKl7Lumj"
     },
     {
       "album": {
@@ -1515,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Perdidos en Tokio",
+        "url": "https://open.spotify.com/album/1GlyxXVQjkGgr7GuqGkGVE"
+      },
+      "artists": [
+        {
+          "name": "Tinu x Emi",
+          "url": "https://open.spotify.com/artist/4jj6yiPO9GV5q1ciyBSBew"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231866,
+      "name": "Perdidos en Tokio",
+      "url": "https://open.spotify.com/track/0KQ1KdvUxKULdV8fQxBy32"
+    },
+    {
+      "album": {
         "name": "Planeta Miamor",
         "url": "https://open.spotify.com/album/0QZwZh8oJFKpqx1b9S8ZcI"
       },
@@ -1592,7 +1690,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157714,
       "name": "Prendas Nuevas",
       "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
@@ -1614,6 +1712,28 @@
       "duration_ms": 156461,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
+    },
+    {
+      "album": {
+        "name": "QTVB",
+        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        },
+        {
+          "name": "MI$HA",
+          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "QTVB",
+      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
     },
     {
       "album": {
@@ -1850,7 +1970,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156000,
       "name": "so\u00f1ando despierta",
       "url": "https://open.spotify.com/track/0aNc5zg0qiuZaJAl5xdehz"

@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Dowba Montana",
-  "num_followers": 233168,
+  "num_followers": 233310,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZismwAAAAABhejv6xNV76PGvNQA3F5Et",
+  "snapshot_id": "ZjRhQAAAAADn+UVWKhKftulLYUmFfZZq",
   "tracks": [
     {
       "added_at": "2024-04-01 19:33:45",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
     },
     {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        }
+      ],
+      "duration_ms": 231909,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Divino",
@@ -45,26 +65,6 @@
       "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P"
-      },
-      "artists": [
-        {
-          "name": "TRAMPA BILLONE",
-          "url": "https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 187829,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1"
-    },
-    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Voy Despu\u00e9s",
@@ -79,6 +79,26 @@
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Mejor",
+        "url": "https://open.spotify.com/album/1YvnBIx0DSDyeitTrC9WnC"
+      },
+      "artists": [
+        {
+          "name": "Sin Nombre",
+          "url": "https://open.spotify.com/artist/0b4EVanoJb8wkWF7QUA3uY"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Mejor",
+      "url": "https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1"
     },
     {
       "added_at": "2024-02-15 16:52:33",
@@ -121,6 +141,26 @@
       "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Es Mejor Estar Chilling",
+        "url": "https://open.spotify.com/album/4Ye0PDKYTz5PK4l5uYOyeJ"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Babaco Peluche",
+          "url": "https://open.spotify.com/artist/0HZUci0HLvbiJkWvXX1jxv"
+        }
+      ],
+      "duration_ms": 145538,
+      "name": "Es Mejor Estar Chilling",
+      "url": "https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP"
+    },
+    {
       "added_at": "2024-04-25 22:06:48",
       "album": {
         "name": "Sin ti No Puedo",
@@ -141,6 +181,26 @@
       "url": "https://open.spotify.com/track/0pmISps9jyqp0krs5Lq5nj"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P"
+      },
+      "artists": [
+        {
+          "name": "TRAMPA BILLONE",
+          "url": "https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 187829,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1"
+    },
+    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Ante",
@@ -157,20 +217,28 @@
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
-      "added_at": "2024-01-12 21:24:53",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Bad Bxtch",
-        "url": "https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j"
+        "name": "Sustancia X",
+        "url": "https://open.spotify.com/album/3GeKRaPWWtWItF4X3zkEHs"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Luiyitox",
+          "url": "https://open.spotify.com/artist/5WvieVIoHClsy28GslSkOZ"
+        },
+        {
+          "name": "Sustancia X",
+          "url": "https://open.spotify.com/artist/3nkb7nMx4tPQM8g00lqb4i"
         }
       ],
-      "duration_ms": 140603,
-      "name": "Bad Bxtch",
-      "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+      "duration_ms": 139714,
+      "name": "Sustancia X",
+      "url": "https://open.spotify.com/track/0Nq1CCznx2OTfLumnEsypn"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -191,6 +259,58 @@
       "duration_ms": 147500,
       "name": "Nunca Te La Dieron",
       "url": "https://open.spotify.com/track/3IpbL6j7Iim1UAYiE9FdEQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Novio Nuevo",
+        "url": "https://open.spotify.com/album/38SWvAYSn4FvC31D5hjpfD"
+      },
+      "artists": [
+        {
+          "name": "La Pareta",
+          "url": "https://open.spotify.com/artist/4zIsGs03b7niRptRGr63MK"
+        },
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Novio Nuevo",
+      "url": "https://open.spotify.com/track/01k5np4XcbJtocWAgHtLuP"
+    },
+    {
+      "added_at": "2024-01-12 21:24:53",
+      "album": {
+        "name": "Bad Bxtch",
+        "url": "https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 140603,
+      "name": "Bad Bxtch",
+      "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
+    },
+    {
+      "added_at": "2024-04-25 22:06:48",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -221,20 +341,24 @@
       "url": "https://open.spotify.com/track/6sG1Gj2ObZwL0pZWUNgUOD"
     },
     {
-      "added_at": "2024-04-19 04:01:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Delincuente Con Traje",
-        "url": "https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/7LXxuc2MDM9zllGOhuwTsV"
       },
       "artists": [
         {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Delincuente Con Traje",
-      "url": "https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM"
+      "duration_ms": 146853,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/46G8rJBf1xbRmDVlfpfx7c"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -275,6 +399,30 @@
       "duration_ms": 122879,
       "name": "Aveces Pienso",
       "url": "https://open.spotify.com/track/2lrN1YQbXJ6jjfehQzMMKn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "TE LLAMO",
+        "url": "https://open.spotify.com/album/79MsE4GtyEic7VadJ6gQLN"
+      },
+      "artists": [
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "duration_ms": 169611,
+      "name": "TE LLAMO",
+      "url": "https://open.spotify.com/track/6PX4bwAK0bgKrpG6UJgxeH"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -321,40 +469,40 @@
       "url": "https://open.spotify.com/track/5b2XliG3dFPaToQ4SSM9M8"
     },
     {
-      "added_at": "2024-04-25 22:06:48",
+      "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP"
+        "name": "Delincuente Con Traje",
+        "url": "https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G"
       },
       "artists": [
         {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
         }
       ],
-      "duration_ms": 146526,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
+      "duration_ms": 147692,
+      "name": "Delincuente Con Traje",
+      "url": "https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM"
     },
     {
-      "added_at": "2024-03-27 20:37:44",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
+        "name": "Cual Es La Para",
+        "url": "https://open.spotify.com/album/4pzy2TCwsGH8RuNb5YKoM2"
       },
       "artists": [
         {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+          "name": "Los del fino",
+          "url": "https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw"
         },
         {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+          "name": "Ingrid Laien",
+          "url": "https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg"
         }
       ],
-      "duration_ms": 231909,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+      "duration_ms": 120476,
+      "name": "Cual Es La Para",
+      "url": "https://open.spotify.com/track/24UYSpjlIpdEn8tVKJhP3Y"
     },
     {
       "added_at": "2023-09-29 02:04:59",
@@ -447,6 +595,22 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Llego El Control",
+        "url": "https://open.spotify.com/album/6gxafJAF317uiPtetd2NnU"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 245434,
+      "name": "Llego El Control",
+      "url": "https://open.spotify.com/track/7Bb6ALvmGdlZLxjjxtaM1x"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -547,6 +711,22 @@
       "duration_ms": 181498,
       "name": "Me Hace Falta",
       "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "EL OPERATIVO CACHORRO 30",
+        "url": "https://open.spotify.com/album/30z3SnasHh9ji3zO4DACJf"
+      },
+      "artists": [
+        {
+          "name": "Nueva Division",
+          "url": "https://open.spotify.com/artist/02OOeLteR04VNTPww5jO1W"
+        }
+      ],
+      "duration_ms": 265425,
+      "name": "EL OPERATIVO CACHORRO 30",
+      "url": "https://open.spotify.com/track/4UuqvEHdsnFn9MEaFH96Hv"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1135,26 +1315,6 @@
     {
       "added_at": "2023-07-18 04:00:00",
       "album": {
-        "name": "Davirito",
-        "url": "https://open.spotify.com/album/2ZKxqH2FMNtMEQQGo0tKkP"
-      },
-      "artists": [
-        {
-          "name": "El Domi Blanco",
-          "url": "https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Davirito",
-      "url": "https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
         "name": "Un Chin",
         "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
       },
@@ -1167,58 +1327,6 @@
       "duration_ms": 145646,
       "name": "Un Chin",
       "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Microphone Check (All Star)",
-        "url": "https://open.spotify.com/album/6AnBQi4dxWUdBDWLpwP7k8"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "Maky RD",
-          "url": "https://open.spotify.com/artist/3MULKixXskQCyOaAFwaO95"
-        },
-        {
-          "name": "Breyco En Producidera",
-          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
-        }
-      ],
-      "duration_ms": 257075,
-      "name": "Microphone Check - All Star",
-      "url": "https://open.spotify.com/track/6ic9vYTTIMl5vJmIiesaXo"
     },
     {
       "added_at": "2023-09-29 02:04:59",
@@ -1255,26 +1363,6 @@
       "duration_ms": 159320,
       "name": "NA CONMIGO?",
       "url": "https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu"
-    },
-    {
-      "added_at": "2023-08-09 02:57:44",
-      "album": {
-        "name": "Te Estudiamos",
-        "url": "https://open.spotify.com/album/7yY5UUXII2ghOBsoaptppF"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 164709,
-      "name": "Te Estudiamos",
-      "url": "https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h"
     },
     {
       "added_at": "2023-08-09 02:57:44",

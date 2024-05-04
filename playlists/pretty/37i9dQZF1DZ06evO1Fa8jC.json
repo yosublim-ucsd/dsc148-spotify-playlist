@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Cafres. Los temas esenciales, todos en una lista.",
-  "num_followers": 155264,
+  "num_followers": 155286,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADZNVxKhRXhid2hLeC97obj",
+  "snapshot_id": "ZjLXgAAAAABW0oz5QiBjJPAflVQ6UY5D",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Verte Bien",
-      "url": "https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG"
+      "duration_ms": 309106,
+      "name": "Alas Canciones",
+      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 309106,
-      "name": "Alas Canciones",
-      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
+      "duration_ms": 210800,
+      "name": "Verte Bien",
+      "url": "https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG"
     },
     {
       "added_at": null,

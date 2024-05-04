@@ -32671,6 +32671,24 @@
     },
     {
       "album": {
+        "name": "El Sin Hueso",
+        "url": "https://open.spotify.com/album/1fnhNiYrd2J984T2nebDNX"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177709,
+      "name": "El Sin Hueso",
+      "url": "https://open.spotify.com/track/1CiBELgbxeY8Rrjrhdb5Km"
+    },
+    {
+      "album": {
         "name": "El Sinaloense",
         "url": "https://open.spotify.com/album/6xzHmgdTQcDjzdCNs5EWdc"
       },

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-870 songs - 2 day 11 hr 20 min
+871 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6WNfKDsa7egDmGn1xAGD4M) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 4:57 | 2022-07-27 | 2022-09-01 |
 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-04-26 | 2023-06-08 |
 | [Apology Letter](https://open.spotify.com/track/4oXnbBWDIPQni02ZJ5vKSx) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [This Stupid World](https://open.spotify.com/album/3LaJpJFSY3cmLFEHJl2z6E) | 4:16 | 2023-02-15 | 2023-03-30 |
+| [Apple](https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [La Fusion](https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66) | 3:51 | 2024-05-03 |  |
 | [April And The Phantom \- Remastered 2023](https://open.spotify.com/track/5XpKUCdMQmTFc1lFbghSHx) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Spirit They're Gone, Spirit They've Vanished \(Remastered 2023\)](https://open.spotify.com/album/4HzQP0tw4AOAO5Ntkz8JOL) | 5:54 | 2023-05-12 | 2023-07-13 |
 | [Armies Of The Dawn](https://open.spotify.com/track/3z7Vz5P3AFKwVBZ8GzACNu) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Always Almost Home](https://open.spotify.com/album/0YWZdKAwLhXg3b7pue0OEk) | 3:37 | 2023-11-15 | 2024-01-11 |
 | [Arqxvst \(Hope\)](https://open.spotify.com/track/4AxI2quttaA3cOAucg9sPp) | [Pretty V](https://open.spotify.com/artist/7bYrSokOzrKQjswYHevxMy) | [Aqrxvst Is The Band's Name](https://open.spotify.com/album/3OctoMpjK0QHnRqEYwITDB) | 5:05 | 2023-01-11 | 2023-02-16 |

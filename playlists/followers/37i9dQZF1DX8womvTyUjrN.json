@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 281719,
+  "2024-05-04": 281690,
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: TIM\u00d8",
+  "description": "Fresh Latin pop on the rise. Cover: Nicole Zignago",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -5923,7 +5923,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 147920,
       "name": "las del conejo 2.0",
       "url": "https://open.spotify.com/track/76mfgfGQXEAFkiYku3rbkA"
@@ -5945,7 +5945,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 156952,
       "name": "le valgo madre",
       "url": "https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa"
@@ -6155,6 +6155,24 @@
       "duration_ms": 230867,
       "name": "Lo Que Queda de M\u00ed",
       "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+    },
+    {
+      "album": {
+        "name": "Ser y Pertenecer",
+        "url": "https://open.spotify.com/album/3v6OjlQtuSVk1wjuHrPqjI"
+      },
+      "artists": [
+        {
+          "name": "Fehr Rivas",
+          "url": "https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211927,
+      "name": "Lo Que Se Hace Por Amor",
+      "url": "https://open.spotify.com/track/66ps2X603GmSKIvMErZl6d"
     },
     {
       "album": {
@@ -7525,7 +7543,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 199531,
       "name": "nada de nada",
       "url": "https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S"
@@ -7925,6 +7943,24 @@
       "duration_ms": 176867,
       "name": "No te lloro m\u00e1s",
       "url": "https://open.spotify.com/track/5GueXL3NIds0FZgGIv6L6c"
+    },
+    {
+      "album": {
+        "name": "Escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167501,
+      "name": "NO TE VAS",
+      "url": "https://open.spotify.com/track/0fnaiFtqcDqppcB8poxNpY"
     },
     {
       "album": {
@@ -9909,7 +9945,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
@@ -10987,6 +11023,24 @@
       "duration_ms": 236444,
       "name": "Te Elegir\u00e9",
       "url": "https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Te Espero Sentada",
+      "url": "https://open.spotify.com/track/4bEY1yu9hUoDslA1oc9OIa"
     },
     {
       "album": {

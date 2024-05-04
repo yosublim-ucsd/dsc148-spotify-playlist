@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 161941,
+  "2024-05-04": 161952,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Maan",
+  "description": "De nieuwste Nederlandse pop! Cover: Rubben Annink, Roxeanne Hazes",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149666,
       "name": "Anti-Social",
       "url": "https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY"
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 151733,
       "name": "Duizend Lichtjes - Radio Edit",
       "url": "https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9"
@@ -3743,6 +3743,24 @@
       "duration_ms": 212510,
       "name": "Grijze Haren",
       "url": "https://open.spotify.com/track/0nlXGknakf5Y7Xa8r4nRtC"
+    },
+    {
+      "album": {
+        "name": "Groot",
+        "url": "https://open.spotify.com/album/30XILWVpjQrkUK83Phv7h4"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198185,
+      "name": "Groot - Single Edit",
+      "url": "https://open.spotify.com/track/749cIrnjVzGv9DOpAk6GpQ"
     },
     {
       "album": {
@@ -4699,6 +4717,24 @@
       "duration_ms": 216716,
       "name": "Ik Denk Aan Jou",
       "url": "https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin"
+    },
+    {
+      "album": {
+        "name": "Alles Anders",
+        "url": "https://open.spotify.com/album/7oMXyRSHzt16mWu0kwrNus"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Ik Denk Aan Jou",
+      "url": "https://open.spotify.com/track/0Wl180gnGlUgIR6BJt7SSD"
     },
     {
       "album": {
@@ -6917,7 +6953,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148615,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz"
@@ -7597,7 +7633,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161880,
       "name": "Ralphie",
       "url": "https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v"
@@ -7883,6 +7919,24 @@
       "duration_ms": 181200,
       "name": "Samen Zijn We E\u00e9n",
       "url": "https://open.spotify.com/track/1Q36IMiHir62ZkdinImepL"
+    },
+    {
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130196,
+      "name": "Samen \u00c9\u00e9n",
+      "url": "https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V"
     },
     {
       "album": {
@@ -8551,7 +8605,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
@@ -8738,6 +8792,28 @@
     },
     {
       "album": {
+        "name": "Tikkie Voor De Tranen",
+        "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
+      },
+      "artists": [
+        {
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
+        },
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "Tikkie Voor De Tranen",
+      "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
+    },
+    {
+      "album": {
         "name": "Toda La Noche",
         "url": "https://open.spotify.com/album/1J2iemHQvJ59zY5Thbgbgf"
       },
@@ -8793,6 +8869,24 @@
       "duration_ms": 142395,
       "name": "Tot De Dood",
       "url": "https://open.spotify.com/track/7pj0MymlGo5A67vLog7NSm"
+    },
+    {
+      "album": {
+        "name": "Tovenares",
+        "url": "https://open.spotify.com/album/1MQx7zeKdMK21P3bOHtRGp"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125115,
+      "name": "Tovenares",
+      "url": "https://open.spotify.com/track/1vmrXE4E7aTfsCczRVDOXB"
     },
     {
       "album": {

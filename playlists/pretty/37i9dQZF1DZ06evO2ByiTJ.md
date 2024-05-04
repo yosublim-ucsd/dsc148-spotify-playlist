@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. The essential tracks, all in one playlist.
+> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,408 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,401 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 38 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
 | 39 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
 | 40 | [Minha Alma Canta](https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:54 |
-| 41 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 |
-| 42 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
+| 41 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
+| 42 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 |
 | 43 | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt) | 4:42 |
-| 44 | [Mestre \(Ao Vivo\)](https://open.spotify.com/track/5gf1Tq1LVi3ZjR67sol1Yd) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:59 |
-| 45 | [Abraão \(Ao Vivo\)](https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Abraão \(Ao Vivo\)](https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3) | 5:05 |
-| 46 | [O Reino \(Ao Vivo\)](https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:18 |
+| 44 | [O Reino \(Ao Vivo\)](https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:18 |
+| 45 | [Mestre \(Ao Vivo\)](https://open.spotify.com/track/5gf1Tq1LVi3ZjR67sol1Yd) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:59 |
+| 46 | [Abraão \(Ao Vivo\)](https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Abraão \(Ao Vivo\)](https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3) | 5:05 |
 | 47 | [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 |
-| 48 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 |
-| 49 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
+| 48 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
+| 49 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 |
 | 50 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 |
 
-Snapshot ID: `ZjGGAAAAAACMYgddPKP9KDIJbo00i4CF`
+Snapshot ID: `ZjLXgAAAAABe6yOfEBGHmGTuSUEKs6qD`

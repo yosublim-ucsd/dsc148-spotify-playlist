@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this mix\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_OfficeMusic\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-149 songs - 8 hr 1 min
+150 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,5 +157,6 @@
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2023-11-28 | 2024-03-23 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-11-28 |  |
 | [yes, and?](https://open.spotify.com/track/6VFMpSq7A5tAn0JrM7sP27) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2EZRRG16dKOq8vnaRNOA2T) | 3:34 | 2024-02-16 |  |
+| [you're like](https://open.spotify.com/track/7BE81V2jbUz6HtGOIGHGuZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [you're like](https://open.spotify.com/album/4FXaDXTLekj24gDRCVOloF) | 3:01 | 2024-05-03 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

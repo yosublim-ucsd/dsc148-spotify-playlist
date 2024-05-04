@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,004 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,061 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 3 | [Richie \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 |
 | 4 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
 | 5 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
-| 6 | [SHININ](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [SHININ](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
+| 6 | [Shinin](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Shinin](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
 | 7 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 8 | [Cheesecake](https://open.spotify.com/track/0qfmKEHGRhMN2C3kQvGTlD) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Cheesecake](https://open.spotify.com/album/5jdg34jX6zywe3PkySMcf2) | 1:39 |
 | 9 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |

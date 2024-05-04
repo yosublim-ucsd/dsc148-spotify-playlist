@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 90 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 90 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 47 | [Icarus](https://open.spotify.com/track/3kfLQDTR7QwX9LVTAMzMrl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 5:28 |
 | 48 | [Good Nature](https://open.spotify.com/track/2KYxuRu5NJfNlXiXVhFdtB) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Pher](https://open.spotify.com/artist/0nSqvdQSOrHHliAxtRrz7N), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:22 |
 | 49 | [The Opening](https://open.spotify.com/track/5o79rGgYCH3ANGkrwAOoZX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:58 |
-| 50 | [Say Their Names](https://open.spotify.com/track/0lDrL93o8AOmL2OVRjc4Ki) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:36 |
-| 51 | [What a Pity](https://open.spotify.com/track/1SxWq956NaCVQsIN6ZupF6) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:06 |
+| 50 | [What a Pity](https://open.spotify.com/track/1SxWq956NaCVQsIN6ZupF6) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:06 |
+| 51 | [Say Their Names](https://open.spotify.com/track/0lDrL93o8AOmL2OVRjc4Ki) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:36 |
 | 52 | [Black Man](https://open.spotify.com/track/5YeEoDVrHAMxkr415ZIGMx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:23 |
 | 53 | [In My Feelings](https://open.spotify.com/track/4coXD38RAf56jP4ZGIwQfP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 2:14 |
 | 54 | [The Line](https://open.spotify.com/track/1Ky1KwQc16K8TMFwvoa123) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 5:46 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 89 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 90 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbQSugAAAADYLSiuBIXz4Z+YFOfysapp`
+Snapshot ID: `AbQYIwAAAAAnPviwf1aq0n0SQWV+Ths4`

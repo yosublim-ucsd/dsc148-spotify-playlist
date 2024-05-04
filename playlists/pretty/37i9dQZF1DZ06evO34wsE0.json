@@ -1,12 +1,12 @@
 {
-  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 239273,
+  "description": "This Is Shania Twain. Los temas esenciales, todos en una lista.",
+  "num_followers": 239307,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAABEbLeym/CVkLOakkU0mI9D",
+  "snapshot_id": "ZjLXgAAAAACcwwxgi3N3FH7tenydITZY",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 172973,
-      "name": "Up! - Red Version",
-      "url": "https://open.spotify.com/track/5oqiovQufNFDhA2PpvsaCF"
+      "duration_ms": 172906,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC"
     },
     {
       "added_at": null,

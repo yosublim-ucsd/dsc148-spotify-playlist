@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 394467,
+  "num_followers": 394436,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Azules Turquesas",
-        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Los A\u00f1os Futuros",
         "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 187824,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Azules Turquesas",
+        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 229842,
-      "name": "A 1200 Km",
-      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Azules Turquesas",
         "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 162160,
       "name": "Tu Nombre y el M\u00edo",
       "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 229842,
+      "name": "A 1200 Km",
+      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Santacruz",
-        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
-      },
-      "artists": [
-        {
-          "name": "Supersubmarina",
-          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "De las Dudas Infinitas",
-      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Santacruz",
+        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
+      },
+      "artists": [
+        {
+          "name": "Supersubmarina",
+          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "De las Dudas Infinitas",
+      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Cripta y Vida",
         "url": "https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 232560,
       "name": "Vacaciones en el M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2024-05-02 23:44:21",

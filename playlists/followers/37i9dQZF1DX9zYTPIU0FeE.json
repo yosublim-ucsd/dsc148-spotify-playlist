@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 7101,
+  "2024-05-04": 7110,
   "date_first_scraped": "2022-10-01",
   "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD-0PtcBRSKfmvNyKerzaA\">Zo\u00eb Modiga</a>",
   "name": "Jazz NXT",
@@ -2680,6 +2680,24 @@
     },
     {
       "album": {
+        "name": "Hold the Stars",
+        "url": "https://open.spotify.com/album/6j3fXlcMFcY3DeQYBhDROO"
+      },
+      "artists": [
+        {
+          "name": "Melorie Jane",
+          "url": "https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417976,
+      "name": "Now Open Your Eyes",
+      "url": "https://open.spotify.com/track/21buPEKxr5cOPlJCOI1SpZ"
+    },
+    {
+      "album": {
         "name": "Deeply Rooted",
         "url": "https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ"
       },
@@ -4157,6 +4175,24 @@
       "duration_ms": 378750,
       "name": "Water Signs",
       "url": "https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV"
+    },
+    {
+      "album": {
+        "name": "Water Spirits: Izinkonjana",
+        "url": "https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394975,
+      "name": "Water Spirits: Izinkonjana",
+      "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
     },
     {
       "album": {

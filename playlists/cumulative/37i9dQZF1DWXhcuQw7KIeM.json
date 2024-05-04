@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Blot",
+        "url": "https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf"
+      },
+      "artists": [
+        {
+          "name": "Faun",
+          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313138,
+      "name": "Blot",
+      "url": "https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf"
+    },
+    {
+      "album": {
         "name": "Crystalline",
         "url": "https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u"
       },
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 416156,
       "name": "Ulvsblakk",
       "url": "https://open.spotify.com/track/7m4Z1nsSHc55wGVC0Go3iQ"

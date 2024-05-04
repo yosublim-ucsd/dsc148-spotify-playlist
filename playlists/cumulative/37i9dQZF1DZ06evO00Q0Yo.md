@@ -2,7 +2,7 @@
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli\. The essential tracks, all in one playlist.
+> This Is Flo Milli\. Los temas esenciales, todos en una lista.
 
 75 songs - 3 hr 27 min
 

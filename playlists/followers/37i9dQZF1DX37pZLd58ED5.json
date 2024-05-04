@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 303033,
+  "2024-05-04": 303126,
   "date_first_scraped": "2022-05-12",
   "description": "Solo beat e rime avvolgenti. Cover: Massimo Pericolo",
   "name": "Mezzanotte Chill Rap",
@@ -1580,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
+    },
+    {
+      "album": {
         "name": "Il mio dawg",
         "url": "https://open.spotify.com/album/2SzZuyYZGp87OgalWyJHsb"
       },
@@ -2155,6 +2173,24 @@
       "duration_ms": 186506,
       "name": "ME VOGL BENE (feat. Geolier)",
       "url": "https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f"
+    },
+    {
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156183,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5dx4QY85j4zjMNHreobVsS"
     },
     {
       "album": {

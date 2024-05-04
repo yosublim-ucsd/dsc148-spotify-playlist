@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno, featuring Anyma",
-  "num_followers": 108952,
+  "num_followers": 109098,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Shut Down",
+        "url": "https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Shut Down",
-        "url": "https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Vintage Culture & Friends, Vol. 5",
         "url": "https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI"
       },
@@ -1135,22 +1103,34 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "The Future Is Unknown",
-        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 263520,
-      "name": "The Future Is Unknown",
-      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1171,6 +1151,26 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Digital Dream",
-        "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        },
-        {
-          "name": "Ella Balinska",
-          "url": "https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf"
-        }
-      ],
-      "duration_ms": 194881,
-      "name": "Digital Dream",
-      "url": "https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Greece 2000 (KREAM Remix)",
         "url": "https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Digital Dream",
+        "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Ella Balinska",
+          "url": "https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf"
+        }
+      ],
+      "duration_ms": 194881,
+      "name": "Digital Dream",
+      "url": "https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 203738,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Atomic Heart",
         "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 433920,
       "name": "Atomic Heart",
       "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 203738,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 254400,
       "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
       "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "A Cappella",
+        "url": "https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 190641,
+      "name": "A Cappella",
+      "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "FLORAL",
         "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
       },
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "A Cappella",
-        "url": "https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 190641,
-      "name": "A Cappella",
-      "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Human Aura",
         "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
       },
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
       },
@@ -2111,6 +2095,38 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Fluid Meditations",
+        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 364455,
+      "name": "Stream State",
+      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Kettle's Up (feat. Botan)",
         "url": "https://open.spotify.com/album/39UprVkF5Swl8mvaCBaurH"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 249756,
       "name": "Kettle's Up (feat. Botan)",
       "url": "https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Fluid Meditations",
-        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 364455,
-      "name": "Stream State",
-      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Akai Ito",
-        "url": "https://open.spotify.com/album/01IgXhJKNWmcQtDHxk41h9"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 269528,
-      "name": "Akai Ito",
-      "url": "https://open.spotify.com/track/2ec63ZHgdpbeXoSdsVCHgy"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Enter Machina (widerberg Remix)",
         "url": "https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 198870,
       "name": "Enter Machina - widerberg Remix",
       "url": "https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Akai Ito",
+        "url": "https://open.spotify.com/album/01IgXhJKNWmcQtDHxk41h9"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 269528,
+      "name": "Akai Ito",
+      "url": "https://open.spotify.com/track/2ec63ZHgdpbeXoSdsVCHgy"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/28pnttupmDIu0TM7sevN0n"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 212119,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
     }
   ],
   "unique_name": "Melodic Techno Elements",

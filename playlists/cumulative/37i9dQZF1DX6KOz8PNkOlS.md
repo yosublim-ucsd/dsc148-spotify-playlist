@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-169 songs - 10 hr 18 min
+170 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Immaterial Girl](https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:29 | 2022-08-13 |  |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-31 | 2023-07-31 |
 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 | 2021-10-15 | 2024-04-19 |
-| [Into the Wave](https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Tamir Barzilay](https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6) | [Into the Wave](https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD) | 3:18 | 2021-10-15 |  |
+| [Into the Wave](https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Tamir Barzilay](https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6) | [Into the Wave](https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD) | 3:18 | 2021-10-15 | 2024-05-04 |
 | [Isle of Taste](https://open.spotify.com/track/5t4m1D3vZd8pBLnVAkXVJV) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Needledrop](https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z) | 3:52 | 2021-10-15 |  |
 | [Jalisco](https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:42 | 2022-04-08 | 2024-04-19 |
 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 | 2021-10-15 |  |
@@ -104,6 +104,7 @@
 | [Low](https://open.spotify.com/track/5dnWJxXD0YOGVtjZmxkpZS) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT) | 4:34 | 2021-10-15 | 2023-10-19 |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2021-10-15 |  |
 | [Maybe i'm alone](https://open.spotify.com/track/3MWcUX999bO6D0AyDY64xL) | [Yaiko Kaori](https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o) | [Maybe i'm alone](https://open.spotify.com/album/1pQCvYotEs2hVCiSZVG1Xm) | 2:20 | 2021-10-15 | 2023-09-23 |
+| [Midnight](https://open.spotify.com/track/03UKfWyoE48oFWWLZWz2eI) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Midnight](https://open.spotify.com/album/2NFr0YmfDAVbsLVtWY5XWZ) | 2:55 | 2024-05-03 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-04-19 |  |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-30 |  |
 | [Move into Me](https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Move into Me](https://open.spotify.com/album/7n1dgpn5WHNm41zhxreu0D) | 4:18 | 2022-01-14 | 2024-04-19 |

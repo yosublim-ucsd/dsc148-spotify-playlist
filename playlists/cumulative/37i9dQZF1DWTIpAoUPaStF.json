@@ -136,10 +136,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203153,
       "name": "Back To The Sky (feat. JFDR)",
       "url": "https://open.spotify.com/track/05fi8xNQnQhoJhdb6pIEmO"
+    },
+    {
+      "album": {
+        "name": "bad guy",
+        "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185544,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
     },
     {
       "album": {

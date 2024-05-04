@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 855298,
+  "2024-05-04": 855452,
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Issey Cross\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Grafix",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -575,7 +575,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 142628,
       "name": "Allstars Mic (feat. DnB Allstars)",
       "url": "https://open.spotify.com/track/4TuzCtFPFQ6kMsU3mfL7NL"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 245517,
       "name": "Baddest (feat. Pete & Bas, Jaykae, Grima x Azza & P Money) - Edit",
       "url": "https://open.spotify.com/track/4dwgnE35JjfyGYGuv3isN2"
@@ -1617,6 +1617,24 @@
       "duration_ms": 156235,
       "name": "bluetooth",
       "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw"
+    },
+    {
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6Zp9uGDkMnSIhsdSV9tg9g"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/3WNX469Jqc1TeeOGPw75LV"
     },
     {
       "album": {
@@ -4660,6 +4678,32 @@
     },
     {
       "album": {
+        "name": "Freefall (Justin Hawkes Remix)",
+        "url": "https://open.spotify.com/album/25B2Lt0CnGrbvFeJ8m1RBK"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        },
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Reija Lee",
+          "url": "https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242844,
+      "name": "Freefall (Justin Hawkes Remix)",
+      "url": "https://open.spotify.com/track/4PI6EvqEvYHP8pAZLtMLVA"
+    },
+    {
+      "album": {
         "name": "Freefalling",
         "url": "https://open.spotify.com/album/3HS44i8Hn0L3Q7CTdk8JXl"
       },
@@ -4897,6 +4941,32 @@
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
+    },
+    {
+      "album": {
+        "name": "Gideon\u2019s Charge (feat. KINGH)",
+        "url": "https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Gideon\u2019s Charge (feat. KINGH) - Edit",
+      "url": "https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x"
     },
     {
       "album": {
@@ -7249,7 +7319,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 304367,
       "name": "LionOrder - Remix",
       "url": "https://open.spotify.com/track/2C2kDx6Eaa1f0C0Oc1M8tw"

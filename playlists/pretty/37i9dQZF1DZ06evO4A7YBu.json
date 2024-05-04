@@ -1,12 +1,12 @@
 {
   "description": "This Is Static-X. Los temas esenciales, todos en una lista.",
-  "num_followers": 35135,
+  "num_followers": 35153,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAC4w7ZAPk0S7QpybXRcQ/HG",
+  "snapshot_id": "ZjLXgAAAAADMxyaR160kEMnCW6dz0tEK",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 197927,
-      "name": "No Hope",
-      "url": "https://open.spotify.com/track/14dMcRlXWUpVbMiQgN61Nr"
+      "duration_ms": 235238,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/3WhIt6QZGOXERXzDWheBeM"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 235238,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/3WhIt6QZGOXERXzDWheBeM"
+      "duration_ms": 197927,
+      "name": "No Hope",
+      "url": "https://open.spotify.com/track/14dMcRlXWUpVbMiQgN61Nr"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+        "name": "Beneath...Between...Beyond...",
+        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
+      "duration_ms": 166133,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beneath...Between...Beyond...",
-        "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+      "duration_ms": 180680,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
     },
     {
       "added_at": null,

@@ -3755,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0g0vXA21hP6rRrqDN4WkzY"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123485,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6V9TWojkrXQnscwMagGN04"
+    },
+    {
+      "album": {
         "name": "Beautiful (2023 Edit)",
         "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
       },
@@ -9208,7 +9226,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 69677,
       "name": "Dicktator",
       "url": "https://open.spotify.com/track/1gxQlxEH96JcEkLcMuVsSw"
@@ -9866,6 +9884,28 @@
       "duration_ms": 155122,
       "name": "dopamine crash!",
       "url": "https://open.spotify.com/track/4d8CJ0PFqz8jWr2nZWT7ik"
+    },
+    {
+      "album": {
+        "name": "DOPPELG\u00c4NGER",
+        "url": "https://open.spotify.com/album/7zLhKR5GnDdZmDCUWMFOAf"
+      },
+      "artists": [
+        {
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+        },
+        {
+          "name": "Ariana Abecasis",
+          "url": "https://open.spotify.com/artist/6GSV2sAji3jnWYqhL7GrKo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186162,
+      "name": "DOPPELG\u00c4NGER",
+      "url": "https://open.spotify.com/track/7jVNSRCBRFzrsNSExaWomq"
     },
     {
       "album": {
@@ -12164,7 +12204,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 112587,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4T958ebkKEF3atCY2zn3hB"
@@ -15623,6 +15663,24 @@
     },
     {
       "album": {
+        "name": "happy ever after",
+        "url": "https://open.spotify.com/album/6dUltwYPdCDF5NWkCFjbdc"
+      },
+      "artists": [
+        {
+          "name": "Reikko",
+          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145054,
+      "name": "happy ever after",
+      "url": "https://open.spotify.com/track/6vkTNFN5FgW3zLEPCiaowP"
+    },
+    {
+      "album": {
         "name": "happy less",
         "url": "https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk"
       },
@@ -15812,7 +15870,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181417,
       "name": "Head Head Honcho",
       "url": "https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf"
@@ -16478,7 +16536,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 176296,
       "name": "Hitty",
       "url": "https://open.spotify.com/track/4lxRARlF0KR3p9o7C8Th0T"
@@ -16992,6 +17050,24 @@
       "duration_ms": 160363,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/4XkInHvPOTsODJoKq6TCLq"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/605MbIJ0JOxxaXhs9akCYG"
+      },
+      "artists": [
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109961,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/70Rl9wHktp0yNs4VuaSc8F"
     },
     {
       "album": {
@@ -17540,7 +17616,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 160149,
       "name": "i don't wanna come down",
       "url": "https://open.spotify.com/track/5kKhedc1sMvyXj8DFwairq"
@@ -18204,7 +18280,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 163968,
       "name": "I'm Really Pretty",
       "url": "https://open.spotify.com/track/6KEPSnOkxfrSacwxxQgB5g"
@@ -20110,7 +20186,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 127363,
       "name": "Kanekalon",
       "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
@@ -24456,7 +24532,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 164307,
       "name": "MYLOVEMYLOVE",
       "url": "https://open.spotify.com/track/63qXWotY7UFD70tVGk2g71"
@@ -30152,7 +30228,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 133361,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
@@ -30602,6 +30678,24 @@
       "duration_ms": 193898,
       "name": "SAD MACHINE",
       "url": "https://open.spotify.com/track/4rYYIEAeROi1v9icB9nNSH"
+    },
+    {
+      "album": {
+        "name": "sad song",
+        "url": "https://open.spotify.com/album/0YR52KOx9yjQoXXOsSEk64"
+      },
+      "artists": [
+        {
+          "name": "ang3lx",
+          "url": "https://open.spotify.com/artist/4C1yaV91cD7qWh5sVY8Cjt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120848,
+      "name": "sad song",
+      "url": "https://open.spotify.com/track/6xYptxX1kHo1W5A6szSTwI"
     },
     {
       "album": {
@@ -36391,6 +36485,24 @@
     },
     {
       "album": {
+        "name": "Thot Daughter",
+        "url": "https://open.spotify.com/album/2ugvWzSHbN8pKzINRvyiZ2"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115933,
+      "name": "Thot Daughter",
+      "url": "https://open.spotify.com/track/3UzSr6kNHWbhHkxq7OqaYD"
+    },
+    {
+      "album": {
         "name": "three cheers (for worst fears)",
         "url": "https://open.spotify.com/album/16ceqSiRUZrf1YEnL4954c"
       },
@@ -36558,6 +36670,24 @@
       "duration_ms": 149166,
       "name": "TiiKKA MASALA",
       "url": "https://open.spotify.com/track/1rIRsZ90EuJ8HMAcQLCQ5c"
+    },
+    {
+      "album": {
+        "name": "Tila Tequila",
+        "url": "https://open.spotify.com/album/2Dul0JErav83JimVhu4byy"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193935,
+      "name": "Tila Tequila",
+      "url": "https://open.spotify.com/track/14LRQ1HVqHyGLEbzQym8I5"
     },
     {
       "album": {

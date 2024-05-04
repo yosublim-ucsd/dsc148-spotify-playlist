@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126009,
+  "num_followers": 126004,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASTeNQBog2fwgOZVunO1P/dpkW1ZqM",
+  "snapshot_id": "AAASTqJ6hCZUYn3I9CaJ4hJ2Up5BbqJn",
   "tracks": [
+    {
+      "added_at": "2024-05-03 14:08:22",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ"
+    },
     {
       "added_at": "2024-05-02 15:13:12",
       "album": {

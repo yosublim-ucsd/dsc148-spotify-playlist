@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Grefiteh
+> boom bap renasce todo dia\. Foto: Grafiteh
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,888 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,907 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 |
 | 75 | [Real Underground](https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z) | [Lado Sujo](https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs), [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo) | [Real Underground](https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN) | 2:38 |
 
-Snapshot ID: `ZjRTbAAAAAC99ifnxOYkDXdVBwdECwdD`
+Snapshot ID: `ZjT/swAAAAB5w43d+wHVK1ebPjWGwfIS`

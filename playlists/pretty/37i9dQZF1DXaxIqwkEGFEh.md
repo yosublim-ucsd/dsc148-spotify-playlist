@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,878 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,894 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ten/Rya Interlude \(feat\. Key Glock\)](https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ten/Rya Interlude \(feat\. Key Glock\)](https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD) | 6:00 |
+| 1 | [Ten/Rya Interlude \(feat\. Key Glock & Rya Maxwell\)](https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Rya Maxwell](https://open.spotify.com/artist/0QGpeQgkAun6D7nh2rJcCN) | [Ten/Rya Interlude \(feat\. Key Glock & Rya Maxwell\)](https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD) | 6:00 |
 | 2 | [WTFYM](https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:52 |
 | 3 | [Mr Pot Scraper](https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Pot Scraper](https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ) | 2:25 |
 | 4 | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD) | 3:05 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 13 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 |
 | 14 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 |
 | 15 | [Heavy Fraud](https://open.spotify.com/track/2nmzuZy2eg8c9xmcdCG6IB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Forget Me Not](https://open.spotify.com/album/1IOxq6YB4Rb5kANFxa5Vbe) | 3:23 |
-| 16 | [SHININ](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [SHININ](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
+| 16 | [Shinin](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Shinin](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
 | 17 | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3) | 2:46 |
 | 18 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
 | 19 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |

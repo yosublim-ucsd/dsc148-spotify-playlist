@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Chasin' Indigo",
+        "url": "https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Chasin' Indigo",
+      "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
+    },
+    {
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 179080,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK"

@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
-  "num_followers": 954667,
+  "num_followers": 954805,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAACnOzBrQ6PzodUMD2LyAaXr",
+  "snapshot_id": "ZjLXgAAAAACyYZlJr91OVPe4V5xz+bBo",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mil Gracias Por Existir",
         "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 225541,
       "name": "Mil Gracias Por Existir",
       "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 241536,
-      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Miel Amarga (En Vivo)",
         "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 258393,
       "name": "Hasta la Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 241536,
+      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
     },
     {
       "added_at": null,

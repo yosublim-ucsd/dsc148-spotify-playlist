@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 940573,
+  "2024-05-04": 940830,
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: ANNA",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Artie 5ive",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -643,6 +643,24 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164177,
+      "name": "Ancora Qua",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
     },
     {
       "album": {
@@ -3768,6 +3786,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179608,
+      "name": "Ferite",
+      "url": "https://open.spotify.com/track/2Io79aod9PA58xWjpPrHUr"
+    },
+    {
+      "album": {
         "name": "Ferrari (Remix)",
         "url": "https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt"
       },
@@ -4093,7 +4129,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229253,
       "name": "G63",
       "url": "https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes"
@@ -6860,6 +6896,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156674,
+      "name": "Money Rain",
+      "url": "https://open.spotify.com/track/7eq3b71KXZCwbgOamt5q9M"
+    },
+    {
+      "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
       },
@@ -7991,7 +8045,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 251320,
       "name": "Parole Vuote (La Solitudine)",
       "url": "https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi"
@@ -8889,7 +8943,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176470,
       "name": "Quadrato (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
@@ -9423,6 +9477,44 @@
       "duration_ms": 241368,
       "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
       "url": "https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2"
+    },
+    {
+      "album": {
+        "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/1Rnh0QRyjzyc874YeRG7Gg"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) - Original Soundtrack",
+      "url": "https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7"
     },
     {
       "album": {
@@ -10205,12 +10297,12 @@
           "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
         },
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
           "name": "Neima Ezza",
           "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
       "date_added": "2024-04-25",
@@ -10703,7 +10795,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144864,
       "name": "TUNNEL",
       "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Rooftime
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,182 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,314 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 50 | [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 |
 
-Snapshot ID: `ZjRT5AAAAACZB9GMIt/tJUN1xRiOX8p+`
+Snapshot ID: `ZjT0rwAAAAAxzLrtFQRvDKP+r9khUD/Y`

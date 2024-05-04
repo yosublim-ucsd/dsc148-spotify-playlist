@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, RAMON EL BRABO
 
-368 songs - 19 hr 4 min
+369 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Personagem](https://open.spotify.com/track/4ALw3I8plD1HGk9SiexxLo) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Personagem](https://open.spotify.com/album/0LY9xo1DClij3Ibl3CJPsI) | 3:01 | 2023-10-06 | 2023-11-11 |
 | [Peço ao Pai](https://open.spotify.com/track/1iDv4IFu49D5zurfn2T2Yu) | [MC Fabrício SP](https://open.spotify.com/artist/6bRBaUU1jYP9cCFGneI3rb), [MC NEGO LAMA](https://open.spotify.com/artist/2QqWULuCFMJcUcE8ekHQkP), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Peço ao Pai](https://open.spotify.com/album/0UxrV2Onm8AQmIOFTeaRIG) | 3:04 | 2023-07-28 | 2023-08-05 |
 | [PLANOS](https://open.spotify.com/track/68qEHvmjxPiOmWxxR1AFDt) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ANTES DA TERAPIA](https://open.spotify.com/album/2UcA9JP84upGyFkVmGI5Ie) | 2:36 | 2022-03-22 | 2022-06-11 |
+| [Pláu](https://open.spotify.com/track/56XtKXj8TH3fhA1PrF6gI2) | [Filipe Antunes](https://open.spotify.com/artist/6RSDm3xRPi6F5rsbYa9rJ1) | [Pláu](https://open.spotify.com/album/6mq6LKGfhBHLOL6PtR75J0) | 2:28 | 2024-05-03 |  |
 | [Poder](https://open.spotify.com/track/4SHnNqSXIwT7u2Lnc5guWy) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Poder](https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK) | 3:40 | 2022-03-22 | 2023-02-25 |
 | [Por Que Eu Nasci?](https://open.spotify.com/track/5U9uPRPckvMZjGgH5cY71t) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Pastor José Ricardo](https://open.spotify.com/artist/4XpKm3d7mjhYXPvRIS7zqQ), [UNÂNIMES](https://open.spotify.com/artist/0TzZ0CBldkLaNr7L6Npiuk) | [Por Que Eu Nasci?](https://open.spotify.com/album/2TrYsEFx4oeuSMdkfVMFAN) | 3:14 | 2023-06-23 | 2023-07-08 |
 | [Por Toda Cidade](https://open.spotify.com/track/2zObZH6sreWK9SyS2pVnsW) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Por Toda Cidade](https://open.spotify.com/album/1bQgEBOi1K1nZawTojpu46) | 2:22 | 2023-09-01 | 2024-05-03 |

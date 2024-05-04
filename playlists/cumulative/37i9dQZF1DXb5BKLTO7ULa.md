@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-6,000 songs - 13 day 3 hr 10 min
+6,002 songs - 13 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1151,6 +1151,7 @@
 | [Danny Boy](https://open.spotify.com/track/2ive8GipiKAu8ekYGMTKq8) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Beste Zangers 2023 \(Aflevering 3 \- Marco Bakker\)](https://open.spotify.com/album/5QyH39RdR4YJd6FrJFMefI) | 2:47 | 2023-09-21 | 2023-09-29 |
 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z), [JAPS](https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 | 2024-02-22 | 2024-03-01 |
 | [Dans Alleen](https://open.spotify.com/track/0KRhxFEfJP8R4Q8dmVsjaV) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Dans Alleen](https://open.spotify.com/album/7avUGmXbUaHSps49aQ0Zyo) | 3:31 | 2023-04-13 | 2023-04-21 |
+| [Dans Met De Duivel](https://open.spotify.com/track/51p4XkPCXIYJ2TURCaRMQq) | [Papi Mikey Dinero](https://open.spotify.com/artist/1ZzkltVaZc6BPQ9tluPtGi) | [Dans Met De Duivel / Only Fans](https://open.spotify.com/album/5es3kHmFdGAAS83Hinh2EF) | 2:29 | 2024-05-03 |  |
 | [Dans met me](https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Dans met me](https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21) | 4:38 | 2023-05-11 | 2023-05-19 |
 | [Dans Op Het Mes](https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Dans Op Het Mes](https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w) | 2:57 | 2023-11-02 | 2023-11-10 |
 | [Dansen In Het Donker](https://open.spotify.com/track/0m0Q9ty4ISWgeYDuWqk3Ne) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Dansen In Het Donker](https://open.spotify.com/album/6qXcyBnTbcX78WcGny0ZUI) | 2:51 | 2023-08-03 | 2023-08-11 |
@@ -1866,7 +1867,7 @@
 | [FRONTROW](https://open.spotify.com/track/3GLuQ4VRnqIfRECrzQPNZ4) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [FRONTROW](https://open.spotify.com/album/4DcfUSlMnJIGiyrndZmT5j) | 4:08 | 2023-08-17 | 2023-08-25 |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-02-24 | 2023-03-03 |
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-01 | 2024-02-09 |
-| [fuck it \- another song about you](https://open.spotify.com/track/42qmBtUMTV1iV2JRflRrhx) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [LOVE + POP Pt 2](https://open.spotify.com/album/145JtxDWygxW0iZPONGGSc) | 2:15 | 2024-05-02 |  |
+| [fuck it \(another song about you\)](https://open.spotify.com/track/42qmBtUMTV1iV2JRflRrhx) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [LOVE + POP Pt 2](https://open.spotify.com/album/145JtxDWygxW0iZPONGGSc) | 2:15 | 2024-05-02 |  |
 | [FUCK NEP](https://open.spotify.com/track/0YFdURDaiCia8TXG9STTVb) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [FUCK NEP](https://open.spotify.com/album/0DntqXYg4BbB0tMXDa569f) | 3:40 | 2023-03-09 | 2023-03-18 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-17 | 2023-03-25 |
 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-03-07 | 2024-03-15 |
@@ -3357,7 +3358,7 @@
 | [Mijn Stad](https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Mijn Stad](https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL) | 3:02 | 2023-08-17 | 2023-08-25 |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-20 | 2023-10-27 |
 | [Milan](https://open.spotify.com/track/3ptkyPijuK4W4h0IdOro9y) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Milan](https://open.spotify.com/album/1rNjAENY9u4HeKBzPIHNJd) | 2:14 | 2023-05-11 | 2023-05-19 |
-| [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
+| [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
 | [Milk](https://open.spotify.com/track/58s42ffjswoW3S1FX2cMRr) | [Parker Fans](https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX) | [Parker Fans](https://open.spotify.com/album/001SzOCYFQqW0QV7zbM3tb) | 3:33 | 2023-04-06 | 2023-04-14 |
 | [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 | 2023-09-14 | 2023-09-22 |
 | [MILK OF THE SIREN](https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS \(Deluxe\)](https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg) | 4:25 | 2023-04-06 | 2023-04-14 |
@@ -3890,6 +3891,7 @@
 | [Oscar](https://open.spotify.com/track/4X2HSujzwwxEpJRnHuurdn) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Oscar](https://open.spotify.com/album/2VOvmE08cHt1MfjHUcq0JP) | 2:33 | 2024-03-07 | 2024-03-15 |
 | [Oslo](https://open.spotify.com/track/5pu4Bz9MI31v6Vl1xybfkN) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Oslo](https://open.spotify.com/album/08jN0Fk60lmjoMg6I0Ji2L) | 2:56 | 2023-05-04 | 2023-05-12 |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-09-07 | 2023-09-15 |
+| [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-03 |  |
 | [Our House](https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Our House](https://open.spotify.com/album/2pj3bBwQIhqACfusXx6aHf) | 3:20 | 2023-06-22 | 2023-06-30 |
 | [Our Love](https://open.spotify.com/track/5fmQQ5PzaRzjddLpocvCXi) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Our Love](https://open.spotify.com/album/24EynhoeX4OpFGVYPkABQ5) | 2:44 | 2023-10-12 | 2023-10-21 |
 | [Out Alpha The Alpha](https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Out Alpha The Alpha](https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW) | 3:46 | 2023-10-05 | 2023-10-13 |

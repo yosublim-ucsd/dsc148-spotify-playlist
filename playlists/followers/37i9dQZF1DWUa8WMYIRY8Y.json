@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 166052,
+  "2024-05-04": 166028,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : DIIV",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Fontaines D.C.",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -292,6 +292,24 @@
     },
     {
       "album": {
+        "name": "Big Cat Tattoos",
+        "url": "https://open.spotify.com/album/72mgfR4Y20kV5pqzffrLJ9"
+      },
+      "artists": [
+        {
+          "name": "Hamish Hawk",
+          "url": "https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Big Cat Tattoos",
+      "url": "https://open.spotify.com/track/33KqCiKK7FhRJ3MDfbn1C2"
+    },
+    {
+      "album": {
         "name": "Big Time Nothing",
         "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
       },
@@ -303,7 +321,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 259946,
       "name": "Classical",
       "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
@@ -1904,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "album": {
         "name": "Miami Baby",
         "url": "https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF"
       },
@@ -2005,10 +2041,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 207922,
       "name": "Mourir Demain",
       "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+    },
+    {
+      "album": {
+        "name": "Miles Kane & The Evils",
+        "url": "https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97215,
+      "name": "Mr Midnight",
+      "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
     },
     {
       "album": {
@@ -2387,7 +2441,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 336973,
       "name": "People In The Streets",
       "url": "https://open.spotify.com/track/2IxhaFpj0pMwL7Z3hatWWi"
@@ -3189,6 +3243,24 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
+        "name": "The Only Queer In The Van",
+        "url": "https://open.spotify.com/album/0ob7URTgqAPp0m7rPvUt65"
+      },
+      "artists": [
+        {
+          "name": "G.H.Francis",
+          "url": "https://open.spotify.com/artist/7yE3xJBNN5XCFjARdmP2i1"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182844,
+      "name": "The Only Queer In The Van",
+      "url": "https://open.spotify.com/track/1FETtTEZz6dU7HlXCTchgW"
     },
     {
       "album": {

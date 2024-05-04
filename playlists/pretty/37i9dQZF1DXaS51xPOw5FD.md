@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,310 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,383 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 73 | [Control](https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Control](https://open.spotify.com/album/6hlTk0Uez126pGiaVpmVPx) | 3:48 |
 | 74 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 |
 | 75 | [Dance Haffi Nice \(feat\. SHY FX & Ms\. Dynamite\)](https://open.spotify.com/track/2WDWIzmU23PCDbcBPGyenl) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Dance Haffi Nice \(feat\. SHY FX & Ms\. Dynamite\)](https://open.spotify.com/album/23ryyZOLRTuybgJOc0LfKi) | 2:29 |
-| 76 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 |
-| 77 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 |
+| 76 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 |
+| 77 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 |
 | 78 | [Waste My Time](https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Waste My Time](https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz) | 2:25 |
 | 79 | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ) | 2:40 |
 | 80 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |

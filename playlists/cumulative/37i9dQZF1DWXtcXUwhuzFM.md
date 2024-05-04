@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot, Jore & Zpoppa, Cledos ja william.
 
-228 songs - 12 hr 6 min
+230 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-04-26 | 2024-05-03 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 | 2024-05-03 |
 | [Aina](https://open.spotify.com/track/2zBiB79GNoVXY6cLB8AMKE) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Aina](https://open.spotify.com/album/0ZHz8msY0KGTSk7VXxKFoL) | 2:12 | 2024-04-26 | 2024-05-03 |
+| [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-05-03 |  |
 | [Ajetaan](https://open.spotify.com/track/0weXiYeg3XZ2kI44tBPX9d) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Ajetaan](https://open.spotify.com/album/462haR8GjHQp7ACMapFi8i) | 3:01 | 2024-04-29 | 2024-05-03 |
 | [Alright](https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Alright](https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx) | 2:16 | 2024-05-02 |  |
 | [Arms Around Me](https://open.spotify.com/track/301CeEA0GFGthMXOI3YXbc) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [The Power](https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM) | 4:09 | 2024-04-26 | 2024-05-03 |
@@ -48,7 +49,7 @@
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-05-02 |  |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-04-26 | 2024-05-03 |
 | [Dissonanssi](https://open.spotify.com/track/33TpRHiew7NdQwLFYgcwTE) | [Varjola](https://open.spotify.com/artist/2PrMmXlLGksboVfbEX4bgu), [Juhis Kauppinen](https://open.spotify.com/artist/6IUXDhzxoHQnSJSCNyDaNo) | [Dissonanssi](https://open.spotify.com/album/3qXMeggVdOZF5jEtuy7Hms) | 3:28 | 2024-04-26 | 2024-05-03 |
-| [Do You Remember](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Do You Remember](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 | 2024-05-02 |  |
+| [DO YOU REMEMBER?](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [DO YOU REMEMBER?](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 | 2024-05-02 |  |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 | 2024-05-03 |
 | [Dumb](https://open.spotify.com/track/1nzucJgdbte8RptIORkiRM) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Dumb](https://open.spotify.com/album/7KHJ0yUs08PQWPeu7qfGaW) | 3:26 | 2024-04-26 | 2024-05-03 |
 | [Dust](https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Dust](https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S) | 2:49 | 2024-04-26 | 2024-05-03 |
@@ -135,8 +136,9 @@
 | [Mama’s House](https://open.spotify.com/track/0s7SD8mzw7jw4N2QbrcNfq) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [The Kids Are Still Awake](https://open.spotify.com/album/6JbCONWYhKKmpIjREglYIF) | 3:05 | 2024-05-02 |  |
 | [Maybe](https://open.spotify.com/track/7MkaOh8Wz8gcmRNqbQ7PTB) | [Foulds](https://open.spotify.com/artist/2s8qKnxMzHyJkgxPA5mO7O) | [Maybe](https://open.spotify.com/album/1gOBzOL9At0frE4a4CQJoi) | 3:39 | 2024-04-26 | 2024-05-03 |
 | [Me & Ms\. Ray](https://open.spotify.com/track/4ghAjJTWL5YGCMABrpRytI) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Me & Ms\. Ray](https://open.spotify.com/album/12jmAJW0N0P2jtei6F9S74) | 3:45 | 2024-04-26 | 2024-05-03 |
+| [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 | 2024-05-03 |  |
 | [Mene pois](https://open.spotify.com/track/7kmt6LR3sS0HsldFf1tUTK) | [$auli](https://open.spotify.com/artist/1c8ko0XPXmns7XKIR78iNI) | [Mene pois](https://open.spotify.com/album/6jQ7zJKFlPfd3Mo3NT3iYR) | 2:29 | 2024-05-02 |  |
-| [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
+| [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-02 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-05-02 |  |
 | [Mitä mä teen?](https://open.spotify.com/track/3IFvIwD215uquTa71xwKQ2) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen?](https://open.spotify.com/album/0IxBpW5CrsUJ54IQhG6NrI) | 3:39 | 2024-05-02 |  |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-02 |  |
@@ -234,7 +236,7 @@
 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 | 2024-04-26 | 2024-05-03 |
 | [Without you](https://open.spotify.com/track/5RWdq2jT298p5iKTuEsiL0) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Without you](https://open.spotify.com/album/5GdjeCRJRztpVeS9LteoYc) | 2:17 | 2024-05-02 |  |
 | [Yao Ming](https://open.spotify.com/track/5jV9dAhiQfDrz0aezNHUqJ) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i) | [Yao Ming](https://open.spotify.com/album/0t4pRc8iQYdVeJWGdSIra4) | 2:53 | 2024-04-26 | 2024-05-03 |
-| [Zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-02 |  |
+| [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-02 |  |
 | [Älä unohda](https://open.spotify.com/track/5x1rzxDJHhOysQLmcIDFeD) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Älä unohda](https://open.spotify.com/album/3H22vW4UggDPu8giNmXLWN) | 2:58 | 2024-04-26 | 2024-05-03 |
 
 \*This playlist was first scraped on 2024-04-27. Prior content cannot be recovered.

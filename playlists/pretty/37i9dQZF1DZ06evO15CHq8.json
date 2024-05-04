@@ -1,12 +1,12 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 569837,
+  "description": "This Is $uicideboy$. Los temas esenciales, todos en una lista.",
+  "num_followers": 570148,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADCHFtsXU/3u5NI+quC9Fi8",
+  "snapshot_id": "ZjLXgAAAAABe0QzelggaiY5MIfGvFO06",
   "tracks": [
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7th or St. Tammany",
         "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 143220,
       "name": "Dead Batteries",
       "url": "https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 15257,
+  "num_followers": 15284,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Taking Care",
         "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 222315,
       "name": "Taking Care - Remix",
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Mon Dieu",
-        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mon Dieu",
-      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
     },
     {
       "added_at": "2024-04-12 00:01:00",

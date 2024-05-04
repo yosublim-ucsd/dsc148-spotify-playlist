@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 107645,
+  "2024-05-04": 107644,
   "date_first_scraped": "2019-09-29",
-  "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that Includes Summer 2023 edition &amp; bonus tracks.",
+  "description": "What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Not official, a predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.",
   "name": "Obama\u2019s Summer Playlist 2024",
   "tracks": [
     {
@@ -6835,7 +6835,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179016,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6qFkSsPI3BkFe4DK3z7JsA"
@@ -11676,6 +11676,24 @@
     },
     {
       "album": {
+        "name": "Contradictory Girl",
+        "url": "https://open.spotify.com/album/4tS7B6JFG50IZ7hTHWCSF2"
+      },
+      "artists": [
+        {
+          "name": "Becca Hannah",
+          "url": "https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "Contradictory Girl",
+      "url": "https://open.spotify.com/track/20M8qlECg4w0ERlD47aqal"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/199HwgVBWR72iJF9nCSmQm"
       },
@@ -11977,7 +11995,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229920,
       "name": "CoverGirl",
       "url": "https://open.spotify.com/track/5wuYBnpMwkC6CQ82CZIm7J"
@@ -47263,7 +47281,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/5GSYbwIInbmPvNRyl7nDpR"
@@ -50645,7 +50663,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195639,
       "name": "Stop (you can let it go)",
       "url": "https://open.spotify.com/track/4W4ecDBEwpKKNFvHPhUExQ"

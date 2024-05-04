@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 142858,
+  "2024-05-04": 142923,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gunna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Gunna. The essential tracks, all in one playlist.",
   "name": "This Is Gunna",
   "tracks": [
     {
@@ -323,7 +323,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 188563,
       "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
       "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"

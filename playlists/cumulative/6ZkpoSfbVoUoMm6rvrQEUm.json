@@ -111,6 +111,32 @@
     },
     {
       "album": {
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
@@ -148,7 +174,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 213095,
       "name": "All For You",
       "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
@@ -326,7 +352,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 199069,
       "name": "Asap",
       "url": "https://open.spotify.com/track/0cOySCeNqmK9mimIAzSkzv"
@@ -374,6 +400,28 @@
       "duration_ms": 184776,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d"
+    },
+    {
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "album": {
@@ -846,7 +894,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 382857,
       "name": "Brighter Days - Marco Lys Remix",
       "url": "https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX"
@@ -1652,7 +1700,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 255000,
       "name": "Express Yourself - Mochakk Remix",
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
@@ -2006,7 +2054,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182325,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
@@ -2289,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "How I Work",
+        "url": "https://open.spotify.com/album/15ru2jVlACOND0PBrXoPgg"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "How I Work",
+      "url": "https://open.spotify.com/track/1lK4rAfLaY9wyKm6KzUBvP"
+    },
+    {
+      "album": {
         "name": "How We Do",
         "url": "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
       },
@@ -2471,6 +2537,28 @@
     },
     {
       "album": {
+        "name": "In The Music",
+        "url": "https://open.spotify.com/album/2OW4GlXl9B0NcmCoSx8rZa"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "In The Music",
+      "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
+    },
+    {
+      "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
@@ -2584,7 +2672,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 257263,
       "name": "Keep Moving - The Blessed Madonna Remix / Edit",
       "url": "https://open.spotify.com/track/3CFqsproirYuZ6ksCoCwfc"
@@ -3278,7 +3366,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182535,
       "name": "Might Just",
       "url": "https://open.spotify.com/track/4SdpfVxKaLv2RGmhympsxY"
@@ -3322,7 +3410,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 185684,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/0E0EnWRFzMZhdLbu5EBAU5"
@@ -3392,6 +3480,24 @@
       "duration_ms": 179047,
       "name": "Morenita - Matroda Remix",
       "url": "https://open.spotify.com/track/4Qa9y4SXsLBAhcRZUdtpOw"
+    },
+    {
+      "album": {
+        "name": "Move With Me",
+        "url": "https://open.spotify.com/album/0rhxrapNtHpRRJJwppssW9"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Move With Me",
+      "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
     },
     {
       "album": {
@@ -3700,7 +3806,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
@@ -3784,6 +3890,24 @@
       "duration_ms": 173953,
       "name": "NY to LA",
       "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
+      "album": {
+        "name": "On Again",
+        "url": "https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "On Again",
+      "url": "https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"
     },
     {
       "album": {
@@ -4307,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "Romantica (2021 Rework)",
+        "url": "https://open.spotify.com/album/4QQvxgNlaLUFfJnSVfPtgM"
+      },
+      "artists": [
+        {
+          "name": "Ruben Mandolini",
+          "url": "https://open.spotify.com/artist/5jXXWjxhK31kxCk8fk1Asn"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "Romantica - 2021 Rework",
+      "url": "https://open.spotify.com/track/393lWVNuSBexMPYffIzJxw"
+    },
+    {
+      "album": {
         "name": "Rumblah",
         "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
       },
@@ -4576,7 +4718,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 281904,
       "name": "Shook Pt. 3 - Radio Edit",
       "url": "https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj"
@@ -4690,6 +4832,28 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "album": {
+        "name": "Snare Thing",
+        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Snare Thing",
+      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
     },
     {
       "album": {
@@ -4832,7 +4996,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 195381,
       "name": "Step Into It",
       "url": "https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO"
@@ -4880,6 +5044,32 @@
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251201,
+      "name": "Summertime Blues (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
     },
     {
       "album": {
@@ -4968,7 +5158,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 193650,
       "name": "Taka",
       "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
@@ -5220,7 +5410,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 411485,
       "name": "The Duster",
       "url": "https://open.spotify.com/track/1l14wFXdn1PEK3tPghQ8U5"
@@ -5344,7 +5534,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
@@ -5388,6 +5578,24 @@
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "album": {
+        "name": "This Is Test",
+        "url": "https://open.spotify.com/album/6H42cNi6CpjPdeUAbqM1CF"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "This Is Test",
+      "url": "https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z"
     },
     {
       "album": {
@@ -5501,6 +5709,28 @@
     },
     {
       "album": {
+        "name": "Toys",
+        "url": "https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260194,
+      "name": "Toys",
+      "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
+    },
+    {
+      "album": {
         "name": "Tra Tra",
         "url": "https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt"
       },
@@ -5560,7 +5790,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 201860,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g"
@@ -5738,6 +5968,28 @@
       "duration_ms": 345002,
       "name": "Watch Me Now",
       "url": "https://open.spotify.com/track/5zAIIh2PoT1hyNkBVEuu0e"
+    },
+    {
+      "album": {
+        "name": "We Groovin (with Jazzy)",
+        "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin (with Jazzy)",
+      "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
     },
     {
       "album": {
@@ -5942,7 +6194,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 296007,
       "name": "Work That Muthafucker",
       "url": "https://open.spotify.com/track/6NYNY2uydifnZzVQLEH5dy"
@@ -6016,6 +6268,46 @@
       "duration_ms": 184687,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "album": {
+        "name": "You Make Me",
+        "url": "https://open.spotify.com/album/1QqaEIieI5lIpor6Qt9twT"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246562,
+      "name": "You Make Me",
+      "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
+    },
+    {
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "album": {

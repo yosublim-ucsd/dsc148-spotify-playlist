@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 42 | [bother 2021 \(feat\. gamma\)](https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:50 |
 | 43 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
 | 44 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 |
-| 45 | [Light](https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Millionaire Poetry](https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv) | 3:20 |
-| 46 | [Human fever](https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 1:33 |
+| 45 | [Human fever](https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 1:33 |
+| 46 | [Light](https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Millionaire Poetry](https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv) | 3:20 |
 | 47 | [highskool](https://open.spotify.com/track/0e6w146xpghQJvTIlSdm3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:28 |
 | 48 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 |
 | 49 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |

@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1j6TxzD6vU4bvHZ37pJwe7"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192490,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0Jtn2mapkkdmNJy8NTGZNe"
+    },
+    {
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -1398,6 +1420,28 @@
       "duration_ms": 110418,
       "name": "I Wanna Do",
       "url": "https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV"
+    },
+    {
+      "album": {
+        "name": "Iguales",
+        "url": "https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139058,
+      "name": "Iguales",
+      "url": "https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq"
     },
     {
       "album": {

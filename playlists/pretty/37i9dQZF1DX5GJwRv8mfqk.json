@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 116373,
+  "num_followers": 116403,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Y Al Final Qued\u00e9 Sin Ti",
-        "url": "https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o"
-      },
-      "artists": [
-        {
-          "name": "Proyecto X",
-          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Y Al Final Qued\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Vida A Mi Modo",
         "url": "https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 194343,
       "name": "De tanto Que Te Di",
       "url": "https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Y Al Final Qued\u00e9 Sin Ti",
+        "url": "https://open.spotify.com/album/1yyq7SPzlt1p6iCvhjdn8o"
+      },
+      "artists": [
+        {
+          "name": "Proyecto X",
+          "url": "https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Y Al Final Qued\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/2hT5lSsEajPIx9ioHqV9lX"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Moneda Sigue En El Aire",
-        "url": "https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G"
+        "name": "Se Ve Que Te Hago Falta",
+        "url": "https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL"
       },
       "artists": [
         {
-          "name": "Banda La Misma Tierra",
-          "url": "https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Tenemos Algo En Com\u00fan",
-      "url": "https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1"
+      "duration_ms": 218693,
+      "name": "Se Ve Que Te Hago Falta",
+      "url": "https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Se Ve Que Te Hago Falta",
-        "url": "https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL"
+        "name": "La Moneda Sigue En El Aire",
+        "url": "https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "Banda La Misma Tierra",
+          "url": "https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Se Ve Que Te Hago Falta",
-      "url": "https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N"
+      "duration_ms": 182706,
+      "name": "Tenemos Algo En Com\u00fan",
+      "url": "https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Desde El Estudio Andaluz Music",
+        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
+      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "El Quemado",
         "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 199533,
       "name": "Ya Estuvo Bueno",
       "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Desde El Estudio Andaluz Music",
-        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
-      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "El Dedo En La Boca",
-      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Por Si Te Interesa",
-        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Por Si Te Interesa",
-      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "El Dedo En La Boca",
+      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Comer\u00e9 Callado, Vol. 2",
         "url": "https://open.spotify.com/album/5mEEtae3nKTiCJwY8DPHa3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 172213,
       "name": "Cre\u00ed",
       "url": "https://open.spotify.com/track/6KDeYtwsDlvLozOmtDFs06"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Por Si Te Interesa",
+        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Por Si Te Interesa",
+      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Todo Incluido",
-        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 139320,
-      "name": "Con Todo Incluido",
-      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Con Todo Incluido",
+        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Con Todo Incluido",
+      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/0pQR2T6VftJykRHPAUkYsI"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 189633,
       "name": "Estoy Listo",
       "url": "https://open.spotify.com/track/4FYj4bZIMhRDfnxZXXTDyk"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Empiernada Con la Soledad",
+      "url": "https://open.spotify.com/track/4gGp4dvzJmSvl8YKdGUsFd"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+        "name": "Vida Sinaloense",
+        "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 148906,
-      "name": "Empiernada Con la Soledad",
-      "url": "https://open.spotify.com/track/4gGp4dvzJmSvl8YKdGUsFd"
+      "duration_ms": 185186,
+      "name": "No He Podido Olvidarte",
+      "url": "https://open.spotify.com/track/66vieJDTLIGcwXegEz7RG6"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1299,34 +1315,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Vida Sinaloense",
-        "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 185186,
-      "name": "No He Podido Olvidarte",
-      "url": "https://open.spotify.com/track/66vieJDTLIGcwXegEz7RG6"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 185057,
-      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Alterada - Bonus Track",
-      "url": "https://open.spotify.com/track/4P6u9NIGVwm3mNiWdn4s6V"
+      "duration_ms": 152133,
+      "name": "No Vales Un Peso",
+      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 185057,
+      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Alterada - Bonus Track",
+      "url": "https://open.spotify.com/track/4P6u9NIGVwm3mNiWdn4s6V"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 148453,
       "name": "Vida Sinaloense",
       "url": "https://open.spotify.com/track/6cFImFKRSjUcz3paXEEtTP"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "No Vales Un Peso",
-      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
     },
     {
       "added_at": "2022-05-25 16:50:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. ANNA in cover 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,353 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,453 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 2 | [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 |
 | 3 | [VIENI DALLA BADDIE \- interlude](https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VIENI DALLA BADDIE \(interlude\)](https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib) | 1:33 |
 | 4 | [CARRARA \(feat\. Simba La Rue\)](https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:09 |
-| 5 | [Soldi Arrotolati](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
+| 5 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
 | 6 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
 | 7 | [NO EX \(feat\. Paky\)](https://open.spotify.com/track/6mIjiYKYP8hcO8Rqm81Vii) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:27 |
 | 8 | [ADDERALL](https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ADDERALL](https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA) | 2:45 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [BAD BITCH \(feat\. Niky Savage\)](https://open.spotify.com/track/25m72KhnYc55RqyvE2bydZ) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAD BITCH \(feat\. Niky Savage\)](https://open.spotify.com/album/1LarPsLpKUptL4NOy71JnP) | 3:00 |
 | 18 | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO) | 2:54 |
 | 19 | [ALBANIA COMMANDO](https://open.spotify.com/track/4GOVrqS2AHBnII3MaVLspD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [ALBANIA COMMANDO](https://open.spotify.com/album/31biyXSafVHMxOCbW6s0eF) | 2:23 |
-| 20 | [La Ca$$a](https://open.spotify.com/track/5RNZaMaGSxrTkNVsMUqPOk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:41 |
+| 20 | [La Ca$$a \(feat\. Artie 5ive\)](https://open.spotify.com/track/5RNZaMaGSxrTkNVsMUqPOk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:41 |
 | 21 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 |
 | 22 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 23 | [Guerra](https://open.spotify.com/track/162P3KqGAc1bPwk6ZBfrpY) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 2:56 |

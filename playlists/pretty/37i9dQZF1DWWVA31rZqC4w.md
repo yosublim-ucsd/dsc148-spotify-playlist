@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,613 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,656 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 9 | [Bells in Santa Fe](https://open.spotify.com/track/1Knd3MtE5sEQMh6txcg0k0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:37 |
 | 10 | [Love Potion No\. 9](https://open.spotify.com/track/6dLrSbDbxdg1QCJnqhBCAA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:03 |
 | 11 | [You'll miss me when I'm not around](https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 2:41 |
-| 12 | [It's The Same Old Song](https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:46 |
+| 12 | [It's The Same Old Song](https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops \- Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:46 |
 | 13 | [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 |
 | 14 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 15 | [Burning Myrrh](https://open.spotify.com/track/1mBu3mXjTJF6MGkxM0rxzR) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz) | [Weeping Choir](https://open.spotify.com/album/7ckjkkVbGQXYuEdfErmRfC) | 2:12 |

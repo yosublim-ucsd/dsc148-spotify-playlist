@@ -4,7 +4,7 @@
 
 > hit rap og andet i den vibe 🚨 nyt fra album fra Merro8 🚨
 
-166 songs - 7 hr 12 min
+167 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2023-12-21 | 2024-02-10 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 |  |
+| [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-03 |  |
 | [SNAK/MILANO](https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [SNAK/MILANO](https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV) | 3:02 | 2024-04-18 | 2024-04-26 |
 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 | 2024-04-26 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |

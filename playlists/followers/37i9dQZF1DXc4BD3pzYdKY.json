@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 154125,
+  "2024-05-04": 154236,
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
+  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a> & <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
   "name": "The Flow",
   "tracks": [
     {
@@ -797,7 +797,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168000,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
@@ -10210,6 +10210,32 @@
     },
     {
       "album": {
+        "name": "3: Does Anyone Know You\u2019re Going This Way?",
+        "url": "https://open.spotify.com/album/3azfJV3IRxQh4KXNWCmFnk"
+      },
+      "artists": [
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191812,
+      "name": "Left The Light On",
+      "url": "https://open.spotify.com/track/2rNSdZXUM8tgwfV7vYtDiw"
+    },
+    {
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
       },
@@ -14736,6 +14762,32 @@
     },
     {
       "album": {
+        "name": "Versatility",
+        "url": "https://open.spotify.com/album/2auqxyG8reumIaZcYTzkxg"
+      },
+      "artists": [
+        {
+          "name": "Sis N Lil Bro",
+          "url": "https://open.spotify.com/artist/1Ep8bP4kvEagicoKdAVU9P"
+        },
+        {
+          "name": "Celena Lena",
+          "url": "https://open.spotify.com/artist/0Nexx2btJOeQY2LLmKvWNv"
+        },
+        {
+          "name": "Tytist",
+          "url": "https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197682,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/2oLrpRqs1941KpkVtH7KnD"
+    },
+    {
+      "album": {
         "name": "PRIVILEGE",
         "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
       },
@@ -16093,6 +16145,28 @@
       "duration_ms": 238285,
       "name": "Seat At The Table",
       "url": "https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk"
+    },
+    {
+      "album": {
+        "name": "SEND THAT",
+        "url": "https://open.spotify.com/album/37vA5axXcZzsTgT43sglTd"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "SEND THAT",
+      "url": "https://open.spotify.com/track/4W6mkTg04BFs83tvBL2Fpo"
     },
     {
       "album": {
@@ -18091,7 +18165,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
@@ -18713,7 +18787,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 126956,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Kendrick Lamar, Sia, Mr.Children, 千葉雄喜 and more! cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,583 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,647 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 26 | [The Idea of You](https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Idea of You](https://open.spotify.com/album/5brGFiJgrngm9vyWMhzc9Y) | 3:06 |
 | 27 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 |
 | 28 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 |
-| 29 | [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 29 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 30 | [F U](https://open.spotify.com/track/3vfwoAAkvqlEQU9xmMgvVb) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [F U](https://open.spotify.com/album/58nhRIbbVOEcE93fMpZEzP) | 2:11 |
 | 31 | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG) | 3:09 |
 | 32 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [SPOTLIGHT \(Feat\. LEX\)](https://open.spotify.com/track/4gkpHKZKDYb5oLmkQwaxeW) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:37 |
 | 80 | [darling](https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [psyche: red](https://open.spotify.com/album/62ctzdjOJcWjfI6FPEqD6F) | 3:50 |
 | 81 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 |
-| 82 | [ENGINE](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 |
+| 82 | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 |
 | 83 | [Scar Tissue](https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Scar Tissue](https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r) | 2:58 |
 | 84 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 85 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |

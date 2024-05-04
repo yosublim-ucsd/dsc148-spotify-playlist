@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop Cover: McKenna Grace
+> next gen pop Cover: Mckenna Grace
 
 1,958 songs - 3 day 23 hr 15 min
 

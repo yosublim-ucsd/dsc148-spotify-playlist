@@ -1,260 +1,308 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10652,
+  "num_followers": 10653,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAAKlsDUUV/IKA2hYZ2DtaPVc6RuJmqg",
+  "snapshot_id": "AAAKmiReyKgmVgX3+jw/UlbwVWXe/0Rh",
   "tracks": [
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Nonetheless",
-        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
+        "name": "BET",
+        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
         }
       ],
-      "duration_ms": 208535,
-      "name": "The schlager hit parade",
-      "url": "https://open.spotify.com/track/73X6eceEl7ReNmqCVYLoOI"
+      "duration_ms": 198671,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Passenger Seat",
-        "url": "https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY"
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
       "artists": [
         {
-          "name": "Aim\u00e9e",
-          "url": "https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 224132,
-      "name": "Passenger Seat",
-      "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
+      "duration_ms": 187682,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/4tqOaLJdXjWi4OaFSKIT2R"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
+        "name": "Hot Fever Dream",
+        "url": "https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j"
       },
       "artists": [
         {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
+      "duration_ms": 147733,
+      "name": "Hot Fever Dream",
+      "url": "https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Moist",
-        "url": "https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV"
+        "name": "promenade",
+        "url": "https://open.spotify.com/album/1L8ae8NI9sFwmDaldehQq7"
       },
       "artists": [
         {
-          "name": "lozeak",
-          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+          "name": "Michael Aldag",
+          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
         }
       ],
-      "duration_ms": 127192,
-      "name": "Moist",
-      "url": "https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL"
+      "duration_ms": 181603,
+      "name": "promenade",
+      "url": "https://open.spotify.com/track/4oWNFzfbJgMkq9FUI4GAo0"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "JESS",
-        "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
+        "name": "45 Degrees",
+        "url": "https://open.spotify.com/album/1x4z3Ez6F8D9phPqXDnGYu"
       },
       "artists": [
         {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
         }
       ],
-      "duration_ms": 187040,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq"
+      "duration_ms": 192320,
+      "name": "45 Degrees",
+      "url": "https://open.spotify.com/track/06RgMdmBK2VcjnpkxyjNEZ"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/3nTCA6VAAzXsCLt2CKE0x8"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/2oC7XILz5Y7pLE0SfGH8lS"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Hell & Never Back",
+        "url": "https://open.spotify.com/album/6CDmWmaobbfgAwtspuSvkp"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 164217,
+      "name": "Hell & Never Back",
+      "url": "https://open.spotify.com/track/2EdKKrPr5CUrb8oIUtZ7j9"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/2KqHpAIxHjmt2YsGLvsIBE"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/2GLX8IWPgmUyBT0pBBR9PA"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Call Your Girlfriend - Spotify Singles",
+        "url": "https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Call Your Girlfriend - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/3Qrs4VGZB6PDeUS51X97Iw"
+      },
+      "artists": [
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "duration_ms": 162769,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/1Sy8JwNOETxP1IZBFzAuRC"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "zombieland (feat. HARDY)",
+        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         },
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 254346,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+      "duration_ms": 192397,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "s\u00e4g som de e",
-        "url": "https://open.spotify.com/album/73HpSu1K0wATSLfaFUx6EC"
+        "name": "Down the Drain",
+        "url": "https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Julia Fox",
+          "url": "https://open.spotify.com/artist/5fspZkvc27zQHB6PjbPoGK"
         }
       ],
-      "duration_ms": 187415,
-      "name": "s\u00e4g som de e",
-      "url": "https://open.spotify.com/track/1YWisbiZ6j4UBasL9dZUvl"
+      "duration_ms": 166530,
+      "name": "Down the Drain",
+      "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz"
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
       },
       "artists": [
         {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 269189,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1"
-    },
-    {
-      "added_at": "2024-04-26 12:11:35",
-      "album": {
-        "name": "end game",
-        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "end game",
-      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
-    },
-    {
-      "added_at": "2024-04-26 12:11:35",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
-    },
-    {
-      "added_at": "2024-04-26 12:11:35",
-      "album": {
-        "name": "Vitamins",
-        "url": "https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 152290,
-      "name": "Vitamins",
-      "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
-    },
-    {
-      "added_at": "2024-04-26 12:11:35",
-      "album": {
-        "name": "Big Time Nothing",
-        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
-    },
-    {
-      "added_at": "2024-04-26 12:14:38",
-      "album": {
-        "name": "South Suburban Weekend",
-        "url": "https://open.spotify.com/album/1THsMEh2GXrpww296NKXdK"
-      },
-      "artists": [
-        {
-          "name": "Rubberband Girl",
-          "url": "https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV"
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
         },
         {
-          "name": "Caitlyn Scarlett",
-          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+          "name": "xmal",
+          "url": "https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H"
         }
       ],
-      "duration_ms": 170250,
-      "name": "South Suburban Weekend",
-      "url": "https://open.spotify.com/track/2bMy7ar4VpU4zqtDTEpDTz"
+      "duration_ms": 126620,
+      "name": "Streetwise",
+      "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
+        "name": "Starburned and Unkissed",
+        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 169505,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
+      "duration_ms": 220148,
+      "name": "Starburned and Unkissed",
+      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
     },
     {
-      "added_at": "2024-04-26 12:11:35",
+      "added_at": "2024-05-03 11:25:32",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },
       "artists": [
         {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "added_at": "2024-05-03 11:25:32",
+      "album": {
+        "name": "Got To Let Go",
+        "url": "https://open.spotify.com/album/5urvF8XzZ5cO17GRPVZd4u"
+      },
+      "artists": [
+        {
+          "name": "Shaznay Lewis",
+          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
+        }
+      ],
+      "duration_ms": 238685,
+      "name": "Got to Let Go",
+      "url": "https://open.spotify.com/track/0QOoHq0f7kM5j68yF0DkSk"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

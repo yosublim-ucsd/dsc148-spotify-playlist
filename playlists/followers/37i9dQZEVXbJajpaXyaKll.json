@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 126359,
+  "2024-05-04": 126338,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Argentina.",
   "name": "Viral 50 - Argentina",
@@ -105,7 +105,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141428,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/2aDVjQchKZRTjlwkuKwR3l"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
@@ -1677,6 +1677,24 @@
       "duration_ms": 215800,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
+    },
+    {
+      "album": {
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107218,
+      "name": "ellas",
+      "url": "https://open.spotify.com/track/1A2iEt3LpHuVEH5Dz2Lrer"
     },
     {
       "album": {
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"

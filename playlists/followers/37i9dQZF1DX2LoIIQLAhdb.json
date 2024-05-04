@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 176867,
+  "2024-05-04": 176947,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Imen Es",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
   "name": "R&Bae",
   "tracks": [
     {
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
@@ -325,6 +325,32 @@
       "duration_ms": 155333,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/3wz016yrz7dXAtF8WLShSg"
+    },
+    {
+      "album": {
+        "name": "SHOTTAS",
+        "url": "https://open.spotify.com/album/6rBaFk5LGJXJV1YdQyyoRE"
+      },
+      "artists": [
+        {
+          "name": "Kpoint",
+          "url": "https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Baby-Boo",
+      "url": "https://open.spotify.com/track/7BvFWK1cVXehPjiTL3NKgP"
     },
     {
       "album": {
@@ -665,6 +691,28 @@
       "duration_ms": 131480,
       "name": "C'est toi - Bonus",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "album": {
+        "name": "Canada Goose",
+        "url": "https://open.spotify.com/album/562Ms3NgGRawf5rRcxrwAv"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192836,
+      "name": "Canada Goose",
+      "url": "https://open.spotify.com/track/47YYZxJqZsXptKLkrSETBN"
     },
     {
       "album": {
@@ -1601,6 +1649,24 @@
       "duration_ms": 201423,
       "name": "Ex",
       "url": "https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA"
+    },
+    {
+      "album": {
+        "name": "Faire sans",
+        "url": "https://open.spotify.com/album/3X4u5L4fmzr4q6gxGUm4vj"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "Faire sans",
+      "url": "https://open.spotify.com/track/3E0KhzsFwvaUeJeMpCIudk"
     },
     {
       "album": {
@@ -2865,7 +2931,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184000,
       "name": "M'Hood",
       "url": "https://open.spotify.com/track/7CGEtadwkWyNCmOSQUcTXr"
@@ -3067,7 +3133,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180040,
       "name": "Mama",
       "url": "https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6"
@@ -3164,6 +3230,24 @@
     },
     {
       "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB"
+    },
+    {
+      "album": {
         "name": "GOUMIN TERMIN\u00c9",
         "url": "https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f"
       },
@@ -3233,7 +3317,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176453,
       "name": "Molo (feat. Dadju)",
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
@@ -3928,6 +4012,28 @@
     },
     {
       "album": {
+        "name": "PCC",
+        "url": "https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "PCC",
+      "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
+    },
+    {
+      "album": {
         "name": "Pervers narcissique",
         "url": "https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B"
       },
@@ -4503,7 +4609,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168986,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/1vb6yFE9Rh2nUBzpZEPUPx"
@@ -5018,6 +5124,24 @@
     },
     {
       "album": {
+        "name": "Tolo (Faut m'oublier)",
+        "url": "https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169254,
+      "name": "Tolo (Faut m'oublier)",
+      "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
+    },
+    {
+      "album": {
         "name": "Tomber",
         "url": "https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X"
       },
@@ -5243,7 +5367,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 145831,
       "name": "Vie d\u2019apr\u00e8s",
       "url": "https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu"

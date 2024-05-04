@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy music. Cover: Trash Boat",
-  "num_followers": 513032,
+  "num_followers": 512988,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiK8/QAAAACsAcbDt5SYjXLUCt3ZONVy",
+  "snapshot_id": "ZjSiXwAAAADmr+Y15kLvwhPQIFP/hu8d",
   "tracks": [
     {
       "added_at": "2024-04-19 18:50:37",
@@ -39,6 +39,22 @@
       "duration_ms": 139593,
       "name": "Break You",
       "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-05-03 08:37:51",
+      "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
     },
     {
       "added_at": "2024-04-19 18:50:37",
@@ -443,6 +459,22 @@
       "duration_ms": 221200,
       "name": "Hate Me (feat. Loveless)",
       "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
+    },
+    {
+      "added_at": "2024-05-03 08:37:51",
+      "album": {
+        "name": "Sanguivore Special Edition",
+        "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 253377,
+      "name": "Love And Pain",
+      "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
     },
     {
       "added_at": "2024-04-19 18:50:37",
@@ -1679,38 +1711,6 @@
       "duration_ms": 381067,
       "name": "Invincible Shield",
       "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
-    },
-    {
-      "added_at": "2024-04-19 18:50:37",
-      "album": {
-        "name": "Turn It Up (Keyboard Warriors Social Club)",
-        "url": "https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 238577,
-      "name": "Turn It Up (Keyboard Warriors Social Club)",
-      "url": "https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD"
-    },
-    {
-      "added_at": "2024-04-19 18:50:37",
-      "album": {
-        "name": "Bite Through My Tongue",
-        "url": "https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Bite Through My Tongue",
-      "url": "https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV"
     }
   ],
   "unique_name": "The Pit",

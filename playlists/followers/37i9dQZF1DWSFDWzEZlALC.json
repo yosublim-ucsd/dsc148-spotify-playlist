@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 422424,
+  "2024-05-04": 422636,
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann, antonius, Aaron, Kasi",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Provinz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -327,7 +327,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149203,
       "name": "5 neue sorgen",
       "url": "https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik"
@@ -580,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
+    },
+    {
+      "album": {
         "name": "Wie Fr\u00fchling Nach Dem Winter",
         "url": "https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G"
       },
@@ -779,7 +797,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 140800,
       "name": "Andere Stadt",
       "url": "https://open.spotify.com/track/132NdYQcNLGGoPhPNUdQcW"
@@ -971,6 +989,24 @@
       "duration_ms": 208212,
       "name": "aus meiner haut",
       "url": "https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq"
+    },
+    {
+      "album": {
+        "name": "aussicht grau",
+        "url": "https://open.spotify.com/album/33hUlOFEqK2QMZN5nDAksj"
+      },
+      "artists": [
+        {
+          "name": "jaydee",
+          "url": "https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177076,
+      "name": "aussicht grau",
+      "url": "https://open.spotify.com/track/7Aad0ECAcXMt2gY9YUaFqy"
     },
     {
       "album": {
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186249,
       "name": "Drachenfrucht",
       "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
@@ -2527,7 +2563,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 136777,
       "name": "Egal",
       "url": "https://open.spotify.com/track/08XKxLjXwHtgD9cQjpkQI5"
@@ -3404,6 +3440,24 @@
     },
     {
       "album": {
+        "name": "frei (wo kein Bus mehr f\u00e4hrt)",
+        "url": "https://open.spotify.com/album/2lFYCigDWZ3CUA2knUQky9"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158002,
+      "name": "frei (wo kein Bus mehr f\u00e4hrt)",
+      "url": "https://open.spotify.com/track/5ioIt0oqZVHezZHcti2pc8"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -3980,6 +4034,24 @@
     },
     {
       "album": {
+        "name": "glaubst du",
+        "url": "https://open.spotify.com/album/7g9O5qZvCMKJDAkFeycmrB"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182038,
+      "name": "glaubst du",
+      "url": "https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7"
+    },
+    {
+      "album": {
         "name": "gloria",
         "url": "https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ"
       },
@@ -4247,7 +4319,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 163337,
       "name": "Halt dein Maul",
       "url": "https://open.spotify.com/track/2tzUC0Y1lFXDrVBtBPw1Dt"
@@ -4403,7 +4475,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 215858,
       "name": "Helium",
       "url": "https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH"
@@ -5266,6 +5338,24 @@
     },
     {
       "album": {
+        "name": "Kaff",
+        "url": "https://open.spotify.com/album/6XitAP4zrUKzZFoXW0mAFY"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142498,
+      "name": "Kaff",
+      "url": "https://open.spotify.com/track/0T2EA9u06q8X0DuS7JLwgL"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6"
       },
@@ -5653,7 +5743,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174315,
       "name": "kontrollverlust",
       "url": "https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs"
@@ -6311,7 +6401,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 146346,
       "name": "luft holen",
       "url": "https://open.spotify.com/track/4IvZk9sjOkN8cG8kL710GI"
@@ -6539,6 +6629,24 @@
       "duration_ms": 135482,
       "name": "Mein Leben ist monoton",
       "url": "https://open.spotify.com/track/4jz17gFogx4uKLHmzYr4e2"
+    },
+    {
+      "album": {
+        "name": "Meine Arme werden taub",
+        "url": "https://open.spotify.com/album/3m4YlYCvVY8AMpR1Gxjtx6"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163903,
+      "name": "Meine Arme werden taub",
+      "url": "https://open.spotify.com/track/0u1SpyMryvxdtYwyfskWJF"
     },
     {
       "album": {
@@ -7711,7 +7819,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176276,
       "name": "Paris Paris",
       "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
@@ -7773,7 +7881,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174907,
       "name": "Party mit mir selbst",
       "url": "https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs"
@@ -8133,7 +8241,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 163157,
       "name": "Richtung Mars",
       "url": "https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN"
@@ -8467,7 +8575,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165597,
       "name": "Schere Stein Papier",
       "url": "https://open.spotify.com/track/35rLzOjaDt0k9L0JwndPYh"
@@ -9883,7 +9991,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141376,
       "name": "Tr\u00e4ume vom Alleinsein",
       "url": "https://open.spotify.com/track/41NaCg5GNqct6CpSAefJ72"
@@ -10079,6 +10187,28 @@
       "duration_ms": 154693,
       "name": "Vampir",
       "url": "https://open.spotify.com/track/0HP48knRNuDkoXJ7ynlbTs"
+    },
+    {
+      "album": {
+        "name": "Meere",
+        "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173359,
+      "name": "Vergleiche",
+      "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
     },
     {
       "album": {
@@ -10671,6 +10801,24 @@
       "duration_ms": 199026,
       "name": "Wellenl\u00e4ngen",
       "url": "https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ"
+    },
+    {
+      "album": {
+        "name": "Weniger Allein",
+        "url": "https://open.spotify.com/album/6xFBY6ZHtbU5wNbsaanHwc"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200495,
+      "name": "Weniger Allein",
+      "url": "https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7"
     },
     {
       "album": {

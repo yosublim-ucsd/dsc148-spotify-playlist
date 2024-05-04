@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-322 songs - 16 hr 25 min
+323 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb) | 3:28 | 2023-07-28 |  |
 | [I Don't Wanna Go](https://open.spotify.com/track/3xOsLks1DS2H2B3a0x94KB) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Loris Buono](https://open.spotify.com/artist/3cRbHcOtmkVwesXgaf0Hcc), [Alexander Cruel](https://open.spotify.com/artist/1GVy3ijiIOfzzA1hm5AKNr) | [I Don't Wanna Go](https://open.spotify.com/album/0TWuzddi8rJk8L1rbU2Juy) | 2:35 | 2022-07-29 | 2023-08-12 |
 | [I Don't Wanna Know](https://open.spotify.com/track/1zow991U4NRHThdjkWzLJK) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C), [EMMA LX](https://open.spotify.com/artist/234RuCfsiahEnp6JER6r5f) | [I Don't Wanna Know](https://open.spotify.com/album/4Sb42xPgnBQxdyoYCXYy1p) | 2:59 | 2022-07-29 | 2023-09-09 |
+| [I Don't Wanna Wait \- Hardwell & Olly James Remix](https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [I Don't Wanna Wait \(Hardwell & Olly James Remix\)](https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4) | 3:03 | 2024-05-03 |  |
 | [I Just Wanna](https://open.spotify.com/track/38rmNrM9IJPkzWeZvU3gGy) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [I Just Wanna](https://open.spotify.com/album/2SWGyWmPsSXbdhHUxlcdDk) | 2:46 | 2023-12-07 |  |
 | [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 | 2023-02-25 |
 | [I Should Have Walked Away](https://open.spotify.com/track/6hlJtVICQWfF8u6z4lWxT1) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [DREAMCHILD](https://open.spotify.com/album/1h96AuTUlfhnHpkufZC605) | 3:22 | 2023-07-28 |  |

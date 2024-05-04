@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 224798,
+  "2024-05-04": 224815,
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
   "name": "This Is Eros Ramazzotti",
   "tracks": [
     {
@@ -979,7 +979,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 203320,
       "name": "Un Angelo Disteso Al Sole",
       "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 278693,
       "name": "Un angelo non \u00e9",
       "url": "https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS"

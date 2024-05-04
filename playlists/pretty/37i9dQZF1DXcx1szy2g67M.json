@@ -1,12 +1,12 @@
 {
   "description": "Maak je klaar voor de zomer van 2024!",
-  "num_followers": 561552,
+  "num_followers": 561610,
   "original_name": "Summer '24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQM4AAAAAD6SVr2iCinT+4O9J5m1zjS",
+  "snapshot_id": "ZjTy8AAAAADU4D6h3Dv2k+oYkJi5H0Py",
   "tracks": [
     {
       "added_at": "2024-05-02 22:00:00",
@@ -119,6 +119,26 @@
       "duration_ms": 182066,
       "name": "Fly Like Me",
       "url": "https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Gezichten EP",
+        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Gezichten",
+      "url": "https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -359,26 +379,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Gezichten EP",
-        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "Gezichten",
-      "url": "https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-05-03 14:21:36",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 144648,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-05-02 22:00:00",

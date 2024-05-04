@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 14,
+  "2024-05-04": 14,
   "date_first_scraped": "2024-04-06",
   "description": "Objectively good music",
   "name": "The True Benny Mix",
@@ -13785,6 +13785,28 @@
       "duration_ms": 334333,
       "name": "Tell Your Friends",
       "url": "https://open.spotify.com/track/2POhSUOXkU7xEIi2z2nEDE"
+    },
+    {
+      "album": {
+        "name": "Tennessee (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Tennessee (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
     },
     {
       "album": {

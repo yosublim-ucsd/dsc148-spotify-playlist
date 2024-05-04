@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,628 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,621 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 20 | [Nothing For Miles](https://open.spotify.com/track/23Ht5Sur2qTl0C2dPMX6lK) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Haul](https://open.spotify.com/album/4TrA4GVlOwq5pNcW6roKPY) | 4:34 |
 | 21 | [Convince Yourself](https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [Convince Yourself](https://open.spotify.com/album/3GgDV6ldoI54egU3rfOBGZ) | 3:16 |
 | 22 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 |
-| 23 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 |
+| 23 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 |
 | 24 | [Daisy Dukes](https://open.spotify.com/track/5FDiYtSHAao9GnAgm2dcST) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Daisy Dukes](https://open.spotify.com/album/23DLPcGwO0tQWz6VomUQry) | 3:41 |
 | 25 | [Don't You](https://open.spotify.com/track/57qbmijYidoNcaLkT9zXQJ) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/7p8kTQeWSGGs3yQkl8t6j8) | 3:03 |
 | 26 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |

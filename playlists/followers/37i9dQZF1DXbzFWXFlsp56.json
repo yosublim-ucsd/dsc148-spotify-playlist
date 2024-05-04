@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 16567,
+  "2024-05-04": 16568,
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Loyal Lobos.",
+  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Joaquina.",
   "name": "RADAR Andinos",
   "tracks": [
     {
@@ -57,6 +57,24 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
+    },
+    {
+      "album": {
+        "name": "21 de septiembre",
+        "url": "https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "21 de septiembre",
+      "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
     },
     {
       "album": {
@@ -177,7 +195,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 161592,
       "name": "ALMORZARTE",
       "url": "https://open.spotify.com/track/5gQVkXuT4CerW7XxgtinC9"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210762,
       "name": "Cada vez que",
       "url": "https://open.spotify.com/track/7fSRmuhqJBkHL0DmjS13Ks"
@@ -887,6 +905,24 @@
       "duration_ms": 149196,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA"
+    },
+    {
+      "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "album": {
@@ -2050,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/3RpmmLtJqDqlN9aj9eGHGu"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/3o4dprEKDc6xoS7YZbycUu"
+    },
+    {
+      "album": {
         "name": "Tus Fotos",
         "url": "https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr"
       },
@@ -2193,7 +2247,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 214738,
       "name": "Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
       "url": "https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t"

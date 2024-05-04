@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. The essential tracks, all in one playlist.
+> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,044 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,072 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 38 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 | 39 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 |
 | 40 | [Linha Torta](https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:08 |
-| 41 | [Evolução 2](https://open.spotify.com/track/62IAsbS9u4jzcO6x4LmdaF) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC V7](https://open.spotify.com/artist/0dMxJWycjt9JSslipcs3J6), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [MC LUKINHAS SA](https://open.spotify.com/artist/23xGBjwubSbXlGocfYgkFw) | [Evolução 2](https://open.spotify.com/album/1xi8mesuJOPY2hRHIxAeCB) | 5:20 |
+| 41 | [Entre Fã e a Luana](https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:44 |
 | 42 | [P\# do Caster](https://open.spotify.com/track/7jtmSFz55svHq6dBVle1wf) | [YgRick](https://open.spotify.com/artist/1OfI8AO20T9uF6I1eKVyqr), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [P\# do Caster](https://open.spotify.com/album/38oFdOTv1WRmtqdcyxGQpZ) | 2:58 |
-| 43 | [Entre Fã e a Luana](https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:44 |
+| 43 | [Evolução 2](https://open.spotify.com/track/62IAsbS9u4jzcO6x4LmdaF) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC V7](https://open.spotify.com/artist/0dMxJWycjt9JSslipcs3J6), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [MC LUKINHAS SA](https://open.spotify.com/artist/23xGBjwubSbXlGocfYgkFw) | [Evolução 2](https://open.spotify.com/album/1xi8mesuJOPY2hRHIxAeCB) | 5:20 |
 | 44 | [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 |
 | 45 | [Poder Aquisitivo](https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AnjO 005](https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3), [JIRAYA](https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ) | [Poder Aquisitivo](https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2) | 3:30 |
 | 46 | [Pretinha Treinada](https://open.spotify.com/track/6JF2dUqE5ssSbkXewy69kB) | [Aln MC](https://open.spotify.com/artist/2UKjPOnAv85Gn1A7iQ1xiU), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pretinha Treinada](https://open.spotify.com/album/3PvHopu3x889KYKNoIp51p) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [As Preta Primeiro](https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [As Preta Primeiro](https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw) | 2:37 |
 | 50 | [Kit Rosa](https://open.spotify.com/track/3IHVQZgAcmWJq7PqKBvBqV) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rimura](https://open.spotify.com/artist/1jiDZPnZHiAZUgg911r419) | [Kit Rosa](https://open.spotify.com/album/5XLsxpXP4MhGzBDEOydcnn) | 3:17 |
 
-Snapshot ID: `ZjGGAAAAAAD9yF9xRwRmwYK6hx17dSwE`
+Snapshot ID: `ZjLXgAAAAACOA1jrK53k8AS2tjDeC3sx`

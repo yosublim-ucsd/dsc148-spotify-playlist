@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Jay Wheeler y Mora.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Farruko.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1925,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Bebe Ricota",
+        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Bebe Ricota",
+      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
+    },
+    {
+      "album": {
         "name": "Bella - Koso",
         "url": "https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv"
       },
@@ -3221,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "CAPTION",
+        "url": "https://open.spotify.com/album/1A3qHJITW2BW936Ret9RN8"
+      },
+      "artists": [
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "CAPTION",
+      "url": "https://open.spotify.com/track/5M3PYdk3uyB1mSljV94InD"
+    },
+    {
+      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -3244,6 +3284,28 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sharo Towers",
+          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "CARBON VRMOR",
+      "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
     },
     {
       "album": {
@@ -4814,7 +4876,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173042,
       "name": "DATO",
       "url": "https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW"
@@ -8487,6 +8549,28 @@
     },
     {
       "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/2DzdChS3LKiMi0I8EBMtUC"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/51JdLBfy5IjKgYTETQhHGX"
+        },
+        {
+          "name": "Laft\u00d8ne",
+          "url": "https://open.spotify.com/artist/4UBZlN53gaCy2DWiyCOMaa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/5PKJ5Q2tFt1gv747NzBrI9"
+    },
+    {
+      "album": {
         "name": "Idilio",
         "url": "https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o"
       },
@@ -9064,6 +9148,28 @@
       "duration_ms": 236586,
       "name": "K\u00c1RMIKA",
       "url": "https://open.spotify.com/track/3mFNc5EQn30irR983Wg9OD"
+    },
+    {
+      "album": {
+        "name": "L0JI",
+        "url": "https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "L0JI",
+      "url": "https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI"
     },
     {
       "album": {
@@ -12144,7 +12250,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 249600,
       "name": "NADIE M\u00c1S!",
       "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
@@ -14846,7 +14952,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 154285,
       "name": "Pushaina",
       "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
@@ -16280,7 +16386,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 195333,
       "name": "SIGO AL PENDIENTE",
       "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
@@ -18324,7 +18430,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 135230,
       "name": "Tuwi Tuwi",
       "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"

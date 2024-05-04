@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-717 songs - 1 day 17 hr 23 min
+718 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Come Closer](https://open.spotify.com/track/3IpPQ5sXybfzGycTxDTe4d) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Come Closer](https://open.spotify.com/album/6lDUSSyVDMwhHGzDfyopfK) | 3:58 | 2023-01-27 | 2023-04-14 |
 | [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 | 2022-06-30 |
 | [Coming Home](https://open.spotify.com/track/2goyAEJ3QSW3I0EjQVNsrA) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Coming Home](https://open.spotify.com/album/4LPip8IbiCE6fguYsmoKyN) | 4:57 | 2023-11-24 | 2024-03-08 |
+| [Concentrate](https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Magnetic](https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB) | 3:39 | 2024-05-03 |  |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
 | [CREATION OF DISGUST](https://open.spotify.com/track/12Ekt7NiSWR0CJWIgVK37m) | [Avance](https://open.spotify.com/artist/7jIewPOjOwffB1mcJIk4vP), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [CREATION OF DISGUST](https://open.spotify.com/album/0KLFcQSTmJH4V1UWSkue2b) | 3:21 | 2024-03-25 |  |

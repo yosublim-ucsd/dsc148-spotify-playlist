@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: kamaitachi
 
-145 songs - 8 hr 48 min
+146 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Só nós 2](https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Só nós 2](https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH) | 3:38 | 2023-12-08 |  |
 | [Sós \- Acústico](https://open.spotify.com/track/3iaY9cVudnqLKDunk7YPbY) | [Âncora](https://open.spotify.com/artist/1CWYeo1UZcuAf5hvqVnCxb) | [acústico em casa](https://open.spotify.com/album/29EtFTtJg6BOWRYlfjAwUu) | 2:58 | 2023-07-21 | 2023-09-02 |
 | [Te Ver Superar](https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Te Ver Superar](https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO) | 3:44 | 2023-07-21 |  |
+| [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 | 2024-05-03 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2023-07-21 | 2023-10-21 |
 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-02 | 2024-04-27 |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2023-11-17 |  |

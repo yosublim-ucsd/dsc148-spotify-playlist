@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 44482,
+  "num_followers": 44517,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 306093,
       "name": "Meeting in My Bedroom",
       "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Sex, Love & Pain II",
-        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Fuckin' wit Me",
-      "url": "https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Tyrese",
         "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 266533,
       "name": "Lately",
       "url": "https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Sex, Love & Pain II",
+        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Fuckin' wit Me",
+      "url": "https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe"
     },
     {
       "added_at": "2022-10-02 01:51:23",

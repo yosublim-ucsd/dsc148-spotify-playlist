@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 12749,
+  "2024-05-04": 12749,
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Big Mama's Bumble Bee",
       "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 278013,
       "name": "Gimme a Penny - Take 6",
       "url": "https://open.spotify.com/track/5XDdfhTKYX8rzmxXZPZs0e"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 154373,
       "name": "How Come",
       "url": "https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 105400,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Stop A-hoppin' on Me",
       "url": "https://open.spotify.com/track/2pOGtQGbmw8vm8PNx9Sxo7"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D"
@@ -2793,7 +2793,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
@@ -3159,7 +3159,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"

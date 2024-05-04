@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 74266,
+  "2024-05-04": 74271,
   "date_first_scraped": "2022-06-09",
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
   "name": "Neon Lights",
@@ -39,6 +39,24 @@
       "duration_ms": 238840,
       "name": "7942",
       "url": "https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "99",
+      "url": "https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x"
     },
     {
       "album": {
@@ -1103,6 +1121,24 @@
       "duration_ms": 278318,
       "name": "MASA MUDA",
       "url": "https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/3GcOuTugF2f79Nt2d0sVEo"
+      },
+      "artists": [
+        {
+          "name": "Prou.",
+          "url": "https://open.spotify.com/artist/1GvFTATYqJu2L23GMjCG2o"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248245,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3LuOx25ap0CTXnI8Ie2qsU"
     },
     {
       "album": {

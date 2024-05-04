@@ -5501,6 +5501,24 @@
     },
     {
       "album": {
+        "name": "Pl\u00e1u",
+        "url": "https://open.spotify.com/album/6mq6LKGfhBHLOL6PtR75J0"
+      },
+      "artists": [
+        {
+          "name": "Filipe Antunes",
+          "url": "https://open.spotify.com/artist/6RSDm3xRPi6F5rsbYa9rJ1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148540,
+      "name": "Pl\u00e1u",
+      "url": "https://open.spotify.com/track/56XtKXj8TH3fhA1PrF6gI2"
+    },
+    {
+      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK"
       },

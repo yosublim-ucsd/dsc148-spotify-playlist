@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 138514,
+  "2024-05-04": 138506,
   "date_first_scraped": "2023-07-23",
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: kamaitachi",
   "name": "Rock Leve",
@@ -715,7 +715,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132106,
       "name": "dear god",
       "url": "https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg"
@@ -1247,6 +1247,28 @@
       "duration_ms": 219759,
       "name": "Marvin - Microfonado",
       "url": "https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias",
+        "url": "https://open.spotify.com/album/0ckBKXD4UEGH9ZWo0G7cap"
+      },
+      "artists": [
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        },
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229607,
+      "name": "Mem\u00f3rias",
+      "url": "https://open.spotify.com/track/4rHISiwlhhO5bIdkCOjd26"
     },
     {
       "album": {
@@ -2540,6 +2562,24 @@
     },
     {
       "album": {
+        "name": "um bar, um shot, um come\u00e7o",
+        "url": "https://open.spotify.com/album/4sdSxG6ySgmn4vtessDHUH"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209623,
+      "name": "um bar, um shot, um come\u00e7o",
+      "url": "https://open.spotify.com/track/41TEbGzlsA7vm01I7egF7I"
+    },
+    {
+      "album": {
         "name": "RUSH! (ARE U COMING?)",
         "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
       },
@@ -2713,7 +2753,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 210280,
       "name": "Your Song Saved My Life - From Sing 2",
       "url": "https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob"

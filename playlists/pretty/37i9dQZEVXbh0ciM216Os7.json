@@ -6,10 +6,346 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADh2st7v8Ro2FjPD5O2lARK",
+  "snapshot_id": "AAAAAAAAAABXT5c1RoJjKbmGG02JSyep",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Fearless Movement",
+        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 70114,
+      "name": "The Visionary",
+      "url": "https://open.spotify.com/track/4YZMJOVJSlqvVRouhp0fDL"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "TATAR Warrior (Live At Glastonbury)",
+        "url": "https://open.spotify.com/album/3Cu3BKRTJDl60RWmcFMEjP"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 295062,
+      "name": "TATAR Warrior - Live at Glastonbury",
+      "url": "https://open.spotify.com/track/5lWXz92dZub9MRyEZvnzSY"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
+      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Boomer Rang",
+        "url": "https://open.spotify.com/album/1uiP6NwEsXavVWZuw2bzFH"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Stevie Stone",
+          "url": "https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN"
+        },
+        {
+          "name": "K.A.A.N.",
+          "url": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
+        },
+        {
+          "name": "Ubi",
+          "url": "https://open.spotify.com/artist/4JlhSpr8xRBKD9lC74i7ZD"
+        }
+      ],
+      "duration_ms": 285122,
+      "name": "Boomer Rang",
+      "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Get Lit",
+        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 206397,
+      "name": "Get Lit",
+      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5ncydmjMons3VV3AIP9SHe"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6f5I8yAEaJCx1UmvOg8a1c"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Dream Cruiser Ambitions",
+        "url": "https://open.spotify.com/album/0XK3eYXnebncRGUAlGwSEA"
+      },
+      "artists": [
+        {
+          "name": "Frank Vibes",
+          "url": "https://open.spotify.com/artist/66VFh47G2r7iczBWvO9oBI"
+        },
+        {
+          "name": "Average P.I.T.",
+          "url": "https://open.spotify.com/artist/2CNbvi3n0rNRXllgDI7F2o"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 163474,
+      "name": "By The Flock",
+      "url": "https://open.spotify.com/track/05S7e9WkrfGNMqeNgL9eJK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 178765,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "GUTTR",
+        "url": "https://open.spotify.com/album/3RatZflq254ffN2eDDyVGO"
+      },
+      "artists": [
+        {
+          "name": "Ras Kass",
+          "url": "https://open.spotify.com/artist/0OiS4KHxViIFnJooFTXl7V"
+        },
+        {
+          "name": "RJ Payne",
+          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
+        },
+        {
+          "name": "Havoc",
+          "url": "https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Philly Freeway",
+          "url": "https://open.spotify.com/artist/5FrfKEf1NhCL3hIT5zUssm"
+        }
+      ],
+      "duration_ms": 285695,
+      "name": "Stop Playin",
+      "url": "https://open.spotify.com/track/7mt48nkX01l3eflliZGAbA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "You Took the Blue",
+        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "You Took the Blue",
+      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sweet Home Alabama (Metal Version)",
+        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 244503,
+      "name": "Sweet Home Alabama (Metal Version)",
+      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Fruition",
+        "url": "https://open.spotify.com/album/6rVqbqPIeGoy4yDY7iWuFL"
+      },
+      "artists": [
+        {
+          "name": "Isaac Winemiller",
+          "url": "https://open.spotify.com/artist/2o3Ce1WxVQUKyQcMSgvJfh"
+        },
+        {
+          "name": "Josh Augustin",
+          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
+        }
+      ],
+      "duration_ms": 222623,
+      "name": "Fruition",
+      "url": "https://open.spotify.com/track/0VvJEdl9I8dNpYw2Kxl2PL"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/4NELtOtWIiVCYIRZUMAErk"
@@ -29,7 +365,7 @@
       "url": "https://open.spotify.com/track/2ppxqVkIvuFfETylSUPPkP"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
         "url": "https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL"
@@ -61,27 +397,7 @@
       "url": "https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Neverender",
-        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/0nrRN7ZFcylrI9zetCNsid"
@@ -109,7 +425,7 @@
       "url": "https://open.spotify.com/track/31HXCpg55lctRb3wGCElBF"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "EXIT 9 (with Blxst and Offset)",
         "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
@@ -133,27 +449,7 @@
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Smokeface",
-        "url": "https://open.spotify.com/album/2H6KIqys3QM5XOrM3en5Vi"
-      },
-      "artists": [
-        {
-          "name": "Tay $moke",
-          "url": "https://open.spotify.com/artist/4h9wCrIxCijlx3IkSTEO63"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 115955,
-      "name": "Smokeface",
-      "url": "https://open.spotify.com/track/39QnaUW00BXC72Z92Q9rjc"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
@@ -169,23 +465,7 @@
       "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Footloose (Metal Version)",
-        "url": "https://open.spotify.com/album/1MNlG8z5kcNISKEQPIRQHq"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 247954,
-      "name": "Footloose (Metal Version)",
-      "url": "https://open.spotify.com/track/33svAVV1mn1pdaW74KMjLk"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The White Samurai Saga",
         "url": "https://open.spotify.com/album/7yShoTnPAGMQpQrIfqTLpM"
@@ -205,7 +485,7 @@
       "url": "https://open.spotify.com/track/2YZQ0HP4yBJtYNjXpWBBYL"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Love You All the Same",
         "url": "https://open.spotify.com/album/6YaC3VqjVjUUDHPAdIIH2i"
@@ -221,7 +501,7 @@
       "url": "https://open.spotify.com/track/5OcMr7iSTuJipMphuLu06R"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Love & Service",
         "url": "https://open.spotify.com/album/4VqbU9p2GFvSROUxEG585D"
@@ -245,7 +525,7 @@
       "url": "https://open.spotify.com/track/5lpsmXWgjHtE6Py1bBuqFR"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "I Need It (feat. Syd & Tank)",
         "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
@@ -269,7 +549,7 @@
       "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "D'o\u00f9 je viens",
         "url": "https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd"
@@ -289,83 +569,7 @@
       "url": "https://open.spotify.com/track/4Exc4h0GYt7EHGe1apM5WO"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "The Elevator",
-        "url": "https://open.spotify.com/album/25Bs2sPn17iL8T8Lb4zHFq"
-      },
-      "artists": [
-        {
-          "name": "Guster",
-          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "The Elevator",
-      "url": "https://open.spotify.com/track/3sgxti4yMRu5it97Dj8RSE"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "I\u2019m Gonna Wet You Up",
-        "url": "https://open.spotify.com/album/1s2OosyRJwByfkQVGMIJ99"
-      },
-      "artists": [
-        {
-          "name": "Blake Summers",
-          "url": "https://open.spotify.com/artist/02d7P4yF1bSCLlPnMUbSfA"
-        },
-        {
-          "name": "Mariah",
-          "url": "https://open.spotify.com/artist/3lQ2Ts2E5N6i0KsoQfDQ3z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "I\u2019m Gonna Wet You Up",
-      "url": "https://open.spotify.com/track/6gTEdkoKmb1KUjNFtc9h64"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "ASOT 1170 - A State of Trance Episode 1170 (ASOT Top 1000 2024)",
-        "url": "https://open.spotify.com/album/2H3syX5qNdcNRa8wDuY9LE"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262010,
-      "name": "Suburban Train (ASOT 1170)",
-      "url": "https://open.spotify.com/track/3jB3Mk49DoGXseJVU0BT5A"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "SVO",
-        "url": "https://open.spotify.com/album/3mFe97BWusyjTlu8J2jhLA"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Overtime (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/1OBYxViWFgN1x9s8fkl1FB"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "I Got Away",
         "url": "https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf"
@@ -385,7 +589,7 @@
       "url": "https://open.spotify.com/track/08XkpS8iuYUEUuSyA1xbWO"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/4P8914QpTB5UP5A3TOS2bb"
@@ -413,7 +617,7 @@
       "url": "https://open.spotify.com/track/3MhuSNVWlYABxuJ3DojIGg"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
         "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
@@ -437,7 +641,7 @@
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "From the Mars Hotel: The Angel's Share",
         "url": "https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY"
@@ -453,7 +657,7 @@
       "url": "https://open.spotify.com/track/4Tgi1VkJQGsB6VNqZb5KOz"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Philip Glass: Etudes for Piano",
         "url": "https://open.spotify.com/album/21eHvMd4t8nr6wtooccK6H"
@@ -473,7 +677,7 @@
       "url": "https://open.spotify.com/track/33mmFvzD7lxLIoboTGdIz9"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Off The Rip",
         "url": "https://open.spotify.com/album/2BZXEA2R1RtCfVp1uZbjaX"
@@ -497,7 +701,7 @@
       "url": "https://open.spotify.com/track/12NcAfe0WLpo3o74sKqTk2"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
@@ -521,7 +725,7 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
@@ -537,7 +741,7 @@
       "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Cleansing",
         "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
@@ -557,7 +761,7 @@
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Whatever I Want",
         "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
@@ -573,27 +777,7 @@
       "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Infrared",
-        "url": "https://open.spotify.com/album/5ZW1pWSNoVPRtCmnm0Y9Df"
-      },
-      "artists": [
-        {
-          "name": "Don Blake",
-          "url": "https://open.spotify.com/artist/6lks21dylDxQNSLH3LpHE4"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 180124,
-      "name": "Infrared",
-      "url": "https://open.spotify.com/track/6g8jmyE3kZDFIAhRBxnKT4"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Sayonara Meu Amor",
         "url": "https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS"
@@ -609,7 +793,7 @@
       "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/0q31nokt6Hp8O0WyVX167C"

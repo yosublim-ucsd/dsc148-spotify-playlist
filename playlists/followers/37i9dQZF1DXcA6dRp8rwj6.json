@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 438516,
+  "2024-05-04": 438827,
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Drake)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Kendrick Lamar)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -7173,7 +7173,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 181823,
       "name": "CATCH UP",
       "url": "https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo"
@@ -7769,6 +7769,24 @@
       "duration_ms": 116621,
       "name": "Choco Flow",
       "url": "https://open.spotify.com/track/2eXHFnDyVXtPwYXorogqq6"
+    },
+    {
+      "album": {
+        "name": "BEAT by 82",
+        "url": "https://open.spotify.com/album/5PNr1szmjWGuXxHAesSljM"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT"
     },
     {
       "album": {
@@ -9358,6 +9376,24 @@
     },
     {
       "album": {
+        "name": "psyche: red",
+        "url": "https://open.spotify.com/album/62ctzdjOJcWjfI6FPEqD6F"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230741,
+      "name": "darling",
+      "url": "https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF"
+    },
+    {
+      "album": {
         "name": "das wat a laik",
         "url": "https://open.spotify.com/album/1NQykWN3SubZUTBCm9oOKX"
       },
@@ -9691,7 +9727,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184109,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/43YI0FF74feONzcXkUEI9R"
@@ -11810,6 +11846,24 @@
     },
     {
       "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "album": {
         "name": "Eurostep",
         "url": "https://open.spotify.com/album/1FKTfT90LqbZ8Hd2Z956OG"
       },
@@ -13171,7 +13225,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 215198,
       "name": "Forever & Ever & Ever & Even After That",
       "url": "https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5"
@@ -21285,7 +21339,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198053,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI"
@@ -22849,6 +22903,24 @@
       "duration_ms": 97119,
       "name": "Milliarder",
       "url": "https://open.spotify.com/track/21nEHHvN88CQTBM0VDFSI0"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "album": {
@@ -29753,7 +29825,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 132923,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/07JXEGlEQmMWIrH9Kn6swl"
@@ -33921,7 +33993,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141639,
       "name": "SRT (feat. Slim Jxmmi)",
       "url": "https://open.spotify.com/track/4tfUSfavhddmL6tmfjRdwc"
@@ -35153,7 +35225,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 113313,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6znLgQRXhiM0OcrfO9caWh"
@@ -42421,6 +42493,28 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3046\u4e00\u5ea6\u30ad\u30b9\u3092\u3057\u3066",
+        "url": "https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "\u3082\u3046\u4e00\u5ea6\u30ad\u30b9\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2"
     },
     {
       "album": {

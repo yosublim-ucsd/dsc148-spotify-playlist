@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 558009,
+  "2024-05-04": 558239,
   "date_first_scraped": "2022-02-06",
   "description": "The hottest Afropop records on the planet.  Cover:  Tems",
   "name": "Afropop",
@@ -2630,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -2782,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "album": {
         "name": "The Prince I Became",
         "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
       },
@@ -2881,7 +2921,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 168019,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
@@ -5229,7 +5269,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
@@ -6463,7 +6503,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 152920,
       "name": "MYSTERIOUS LOVE",
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
@@ -9977,6 +10017,28 @@
       "duration_ms": 216666,
       "name": "Utaniua",
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
+    },
+    {
+      "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "album": {

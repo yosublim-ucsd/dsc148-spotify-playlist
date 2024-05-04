@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
@@ -7456,6 +7456,24 @@
       "duration_ms": 301576,
       "name": "Left on Mars",
       "url": "https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9"
+    },
+    {
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "album": {
@@ -14360,7 +14378,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224160,
-      "name": "Unforgiveable",
+      "name": "Unforgivable",
       "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {

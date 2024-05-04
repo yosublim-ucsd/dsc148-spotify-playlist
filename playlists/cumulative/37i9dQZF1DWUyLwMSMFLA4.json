@@ -171,6 +171,46 @@
     },
     {
       "album": {
+        "name": "Algo M\u00e1s / Az\u00facar Amargo",
+        "url": "https://open.spotify.com/album/0O2WIytgYKQdMmIfi0cQFm"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233184,
+      "name": "Algo M\u00e1s / Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/1OHDQiWQQaQHtJboLbrgti"
+    },
+    {
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238028,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I"
+    },
+    {
+      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -476,6 +516,28 @@
       "duration_ms": 211184,
       "name": "Cinco minutos",
       "url": "https://open.spotify.com/track/4M7gtZi4Tai6gJMIkNzWcC"
+    },
+    {
+      "album": {
+        "name": "La Muela - LBC",
+        "url": "https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Como Lo Hizo? - En Vivo",
+      "url": "https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5"
     },
     {
       "album": {
@@ -946,7 +1008,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 279763,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq"
@@ -1762,7 +1824,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 218720,
       "name": "Mujer Que Mal Me Pagas",
       "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
@@ -3210,7 +3272,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 248440,
       "name": "Un Beso y una Flor",
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"

@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 442082,
+  "num_followers": 442086,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "is there still a light on?",
-        "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 251322,
-      "name": "is there still a light on?",
-      "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Any Light",
-        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
+        "name": "is there still a light on?",
+        "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
       },
       "artists": [
         {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 180841,
-      "name": "Any Light",
-      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
+      "duration_ms": 251322,
+      "name": "is there still a light on?",
+      "url": "https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -831,6 +815,22 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Any Light",
+        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "duration_ms": 180841,
+      "name": "Any Light",
+      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Young In All The Wrong Ways",
-        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Steady Now",
         "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Blind and Brave",
-        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 274733,
-      "name": "Let No Grief",
-      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Blind and Brave",
+        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 274733,
+      "name": "Let No Grief",
+      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Same Old Eyes",
-      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "There's Always Glimmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Same Old Eyes",
+      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
+        "name": "Mind on Fire",
+        "url": "https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 271854,
       "name": "I'm Around (feat. Ariel Posen)",
       "url": "https://open.spotify.com/track/6YEuH4oOA1T7zhfM57Y4dw"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/6ke1877tfbBGWSlHFwxomE"
-      },
-      "artists": [
-        {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
-        }
-      ],
-      "duration_ms": 182374,
-      "name": "Try to Make a Fire Burn Again",
-      "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
     }
   ],
   "unique_name": "Soft & Slow",

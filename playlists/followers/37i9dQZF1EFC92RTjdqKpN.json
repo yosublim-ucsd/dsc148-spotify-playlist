@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 993,
+  "2024-05-04": 994,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS\">JHart</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JHart",
@@ -465,6 +465,24 @@
     {
       "album": {
         "name": "Real Love",
+        "url": "https://open.spotify.com/album/0poYRqxEk5KDZREbJXv3lL"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/5HDZMVzjLIZ4Vqonax2qEK"
+    },
+    {
+      "album": {
+        "name": "Real Love",
         "url": "https://open.spotify.com/album/1YhcpiP7LF8VOdrqowhui4"
       },
       "artists": [
@@ -475,7 +493,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195920,
       "name": "Blink",
       "url": "https://open.spotify.com/track/7u67nRNyab7vOith2vFFQ4"

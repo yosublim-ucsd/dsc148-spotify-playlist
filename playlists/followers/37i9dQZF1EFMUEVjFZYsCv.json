@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 4,
+  "2024-05-04": 5,
   "date_first_scraped": "2024-03-29",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE\">James Arthur</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By James Arthur",
@@ -21,6 +21,24 @@
       "duration_ms": 188575,
       "name": "4000 Miles",
       "url": "https://open.spotify.com/track/0PlLtt2CJaVkkFJUzzlHMt"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "A Year Ago",
+      "url": "https://open.spotify.com/track/71BrY73Q1m74SPtRvxr1np"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Teri Baaton Mein Aisa Uljha Jiya
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Rocky Aur Rani Kii Prem Kahaani
 
 229 songs - 13 hr 25 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 75606,
+  "num_followers": 75618,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -1403,46 +1403,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Die Jahreszeiten (The Seasons)",
-        "url": "https://open.spotify.com/album/4k87r7TxPNjUwo5SkkEqwZ"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Sibylla Rubens",
-          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
-        },
-        {
-          "name": "Andreas Karasiak",
-          "url": "https://open.spotify.com/artist/5HOxWaSdVGRgpRaLWivSDq"
-        },
-        {
-          "name": "Stephan MacLeod",
-          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
-        },
-        {
-          "name": "Gewandhaus-Kammerchor",
-          "url": "https://open.spotify.com/artist/5lR9mYxzA09ic8Jwidh9hs"
-        },
-        {
-          "name": "Leipziger Kammerorchester",
-          "url": "https://open.spotify.com/artist/7q4vfFKUdxgT1vR6TqPKFz"
-        },
-        {
-          "name": "Morten Schuldt-Jensen",
-          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
-        }
-      ],
-      "duration_ms": 341893,
-      "name": "Die Jahreszeiten (the Seasons), Hob. XXI:3: Der Fr\u00fchling [Spring]: Introduction and Recitative. Seht, wie der strenge Winter [Simon, Lukas, Hanne]",
-      "url": "https://open.spotify.com/track/31rSq25KqkGfm1P0JRwLqQ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
         "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
       },
@@ -1463,26 +1423,6 @@
       "duration_ms": 383000,
       "name": "Symphony No. 44 in E Minor, Hob. I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
       "url": "https://open.spotify.com/track/2PauahNl6G2hhsBC96MQ8O"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Sonatas Nos. 53-56 and 58 / Un Piccolo Divertimento",
-        "url": "https://open.spotify.com/album/2EX1kYmB3ljuRsU7DeBIiT"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "Keyboard Sonata No. 53 in E Minor, Hob. XVI:34: III. Vivace molto",
-      "url": "https://open.spotify.com/track/4rQ6qF0SJenQAKjns8i4Hg"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1547,6 +1487,66 @@
       "duration_ms": 167360,
       "name": "Mass No. 10 in C Major, Hob. XXII:9, \"Paukenmesse\": Agnus Dei: Agnus Dei",
       "url": "https://open.spotify.com/track/1bq75wU8N637kNKO3xDjv9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Die Jahreszeiten (The Seasons)",
+        "url": "https://open.spotify.com/album/4k87r7TxPNjUwo5SkkEqwZ"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Andreas Karasiak",
+          "url": "https://open.spotify.com/artist/5HOxWaSdVGRgpRaLWivSDq"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Gewandhaus-Kammerchor",
+          "url": "https://open.spotify.com/artist/5lR9mYxzA09ic8Jwidh9hs"
+        },
+        {
+          "name": "Leipziger Kammerorchester",
+          "url": "https://open.spotify.com/artist/7q4vfFKUdxgT1vR6TqPKFz"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "duration_ms": 341893,
+      "name": "Die Jahreszeiten (the Seasons), Hob. XXI:3: Der Fr\u00fchling [Spring]: Introduction and Recitative. Seht, wie der strenge Winter [Simon, Lukas, Hanne]",
+      "url": "https://open.spotify.com/track/31rSq25KqkGfm1P0JRwLqQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Sonatas Nos. 53-56 and 58 / Un Piccolo Divertimento",
+        "url": "https://open.spotify.com/album/2EX1kYmB3ljuRsU7DeBIiT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Keyboard Sonata No. 53 in E Minor, Hob. XVI:34: III. Vivace molto",
+      "url": "https://open.spotify.com/track/4rQ6qF0SJenQAKjns8i4Hg"
     },
     {
       "added_at": "2022-07-29 04:01:00",

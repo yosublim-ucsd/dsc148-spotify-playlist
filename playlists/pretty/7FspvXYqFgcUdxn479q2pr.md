@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,498 likes - 14 songs - 40 min 23 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,500 likes - 16 songs - 45 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,14 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 5 | [On My Mind \(GUZ Remix\)](https://open.spotify.com/track/4RJmfNE7IlbAl2yC0VVScY) | [Deep West](https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0), [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [On My Mind \(GUZ Remix\)](https://open.spotify.com/album/5HjUWSD7lmrr9Xj06ymx7W) | 2:50 |
 | 6 | [Close Your Eyes \(Rolipso & Foínix Remix\)](https://open.spotify.com/track/0jVKEzt6ObQGdbpbv1gCcF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO) | [Close Your Eyes \(Rolipso & Foínix Remix\)](https://open.spotify.com/album/0ozDtV4O2m5tCnbCXMWpWc) | 2:12 |
 | 7 | [Deep Inside](https://open.spotify.com/track/3hKMIrOeHvFf2NDOHICtky) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [jezza](https://open.spotify.com/artist/2YZps3kJrYKdfJxLWTAhMm) | [Deep Inside](https://open.spotify.com/album/05w1QSDXTmTEdQiwrvuZGo) | 2:20 |
-| 8 | [UNDERGROUND](https://open.spotify.com/track/4GX5PU4FeGFNXD0Cb19XG9) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [UNDERGROUND](https://open.spotify.com/album/1nZBUM5hCZ3MQ0qSzKt9Cx) | 2:16 |
-| 9 | [Pop](https://open.spotify.com/track/4J5KCUFanJFj0RSniGSzGh) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Pop](https://open.spotify.com/album/2nGhGNH8tCKJofFxwhSGTE) | 2:56 |
-| 10 | [The Game](https://open.spotify.com/track/3NudrsFkJpY09ab1UjmuS4) | [Different Stage](https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z) | [The Game](https://open.spotify.com/album/5IXxoWURqzdih9oT5JMdGE) | 4:00 |
-| 11 | [CU](https://open.spotify.com/track/7ure3lFBwSpg9swnE6BIVH) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [CU](https://open.spotify.com/album/6ynTdYClCDNFrls0oIVAfn) | 3:10 |
-| 12 | [Dream \(Adrenalize Remix\)](https://open.spotify.com/track/0JwGnnL56XImqvqfNuRvJV) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Dream \(Adrenalize Remix\)](https://open.spotify.com/album/0f10jw8TGbVeg4qRHQTvyG) | 3:23 |
-| 13 | [For Me](https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Undrwvter](https://open.spotify.com/artist/3zeOp42xdgvPHEtbIDxxMQ) | [For Me](https://open.spotify.com/album/1o6MUKYw0PrOtMNFLfnsid) | 3:34 |
-| 14 | [I Need A Dollar](https://open.spotify.com/track/1DSSrr7KE71Q9lWC6oAgNB) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [I Need A Dollar](https://open.spotify.com/album/7esA60BuZw6B5z23cFg5ag) | 2:23 |
+| 8 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 |
+| 9 | [UNDERGROUND](https://open.spotify.com/track/4GX5PU4FeGFNXD0Cb19XG9) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [UNDERGROUND](https://open.spotify.com/album/1nZBUM5hCZ3MQ0qSzKt9Cx) | 2:16 |
+| 10 | [Flow](https://open.spotify.com/track/00qwQVVMQ70GLvVannxjy1) | [Fellow](https://open.spotify.com/artist/4NFas7PR42ELEaebwuHQ2a) | [Flow](https://open.spotify.com/album/7mN3ozCaA9tVdU07Mpo5xK) | 2:38 |
+| 11 | [Turn It Up](https://open.spotify.com/track/7uENRQoUjPmoNO6HpyN4gc) | [Jessee](https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ) | [Turn It Up](https://open.spotify.com/album/6D0cqxntiJryBFyENwYiOr) | 2:37 |
+| 12 | [Pop](https://open.spotify.com/track/4J5KCUFanJFj0RSniGSzGh) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Pop](https://open.spotify.com/album/2nGhGNH8tCKJofFxwhSGTE) | 2:56 |
+| 13 | [The Game](https://open.spotify.com/track/3NudrsFkJpY09ab1UjmuS4) | [Different Stage](https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z) | [The Game](https://open.spotify.com/album/5IXxoWURqzdih9oT5JMdGE) | 4:00 |
+| 14 | [Dream \(Adrenalize Remix\)](https://open.spotify.com/track/0JwGnnL56XImqvqfNuRvJV) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Dream \(Adrenalize Remix\)](https://open.spotify.com/album/0f10jw8TGbVeg4qRHQTvyG) | 3:23 |
+| 15 | [For Me](https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Undrwvter](https://open.spotify.com/artist/3zeOp42xdgvPHEtbIDxxMQ) | [For Me](https://open.spotify.com/album/1o6MUKYw0PrOtMNFLfnsid) | 3:34 |
+| 16 | [I Need A Dollar](https://open.spotify.com/track/1DSSrr7KE71Q9lWC6oAgNB) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [I Need A Dollar](https://open.spotify.com/album/7esA60BuZw6B5z23cFg5ag) | 2:23 |
 
-Snapshot ID: `AAAqbN39uDhUd1IsfFV5iSXgxpfy4QJf`
+Snapshot ID: `AAAqdMOMlQyWeNWLOYz3D9hJ3RFYt3g9`

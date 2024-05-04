@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Amnesia (Arial 2)",
+        "url": "https://open.spotify.com/album/1ZjvYvz4p8Sq7cGu3fqI66"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Amnesia (Arial 2)",
+      "url": "https://open.spotify.com/track/7GAAnWm4qFypbvqMA4KZls"
+    },
+    {
+      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 226535,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181426,
       "name": "AQYNE",
       "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
@@ -3219,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Cartas",
+        "url": "https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r"
+      },
+      "artists": [
+        {
+          "name": "Cristina Charry",
+          "url": "https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ"
+        },
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Mercurio (Carta No. 9)",
+      "url": "https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2"
+    },
+    {
+      "album": {
         "name": "Mi Coraz\u00f3n (feat. Camilo)",
         "url": "https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ"
       },
@@ -3448,6 +3488,24 @@
       "duration_ms": 179891,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     },
     {
       "album": {
@@ -4824,7 +4882,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"

@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc Jacar\u00e9, Luan Pereira",
-  "num_followers": 509662,
+  "num_followers": 509961,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Passada de M\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 163575,
-      "name": "Passada de M\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Torre Eiffel (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 157244,
       "name": "PEGA ESCANDALOSO",
       "url": "https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Passada de M\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 163575,
+      "name": "Passada de M\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -799,18 +799,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Cintilante (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
+        "name": "Barulho do Prazer",
+        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 173370,
-      "name": "Dois Fugitivos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
+      "duration_ms": 150399,
+      "name": "Barulho do Prazer",
+      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -835,26 +843,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Barulho do Prazer",
-        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
+        "name": "Cintilante (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
       },
       "artists": [
         {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 150399,
-      "name": "Barulho do Prazer",
-      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
+      "duration_ms": 173370,
+      "name": "Dois Fugitivos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Digo Ou N\u00e3o Digo",
+        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 153958,
+      "name": "Dengo",
+      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Luz Do Luar",
         "url": "https://open.spotify.com/album/55AropmH7pYqUReNSNfmP7"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 171288,
       "name": "Luz Do Luar",
       "url": "https://open.spotify.com/track/6sRVs06LFw91N6D9dfam3t"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Coisas Que Eu Sei",
-        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Digo Ou N\u00e3o Digo",
-        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 153958,
-      "name": "Dengo",
-      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
+      "duration_ms": 192240,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Pode Cr\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 163584,
       "name": "085 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "S\u00f3 um Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 141388,
+      "name": "S\u00f3 um Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "S\u00f3 um Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 141388,
-      "name": "S\u00f3 um Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 127506,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 158000,
       "name": "Botadinha Saliente",
       "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/5L36YBGqoD7axD0oKKUzuJ"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 127506,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/6ENiNztKLqbAKCJpk2yXaI"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Tchuco Nela",
+        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Tchuco Nela",
+      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Joelma",
         "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
       },
@@ -1403,86 +1423,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Tchuco Nela",
-        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Tchuco Nela",
-      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Nascendo de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2GnVKBwgGzfCQpN1puW4AM"
-      },
-      "artists": [
-        {
-          "name": "XANDDY HARMONIA",
-          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Descontrolada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1dK4iofx07QzAYvr92oDLi"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Um Por Cento (UN X100TO) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/334dyM5WtHpeXFt3R6X7xz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 198728,
-      "name": "Um Por Cento (UN X100TO) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1w28gpwYu4UUHqOHuOZ0vx"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Vou Passar Gelinho",
         "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
       },
@@ -1503,6 +1443,66 @@
       "duration_ms": 142500,
       "name": "Vou Passar Gelinho",
       "url": "https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 198728,
+      "name": "Um Por Cento (UN X100TO) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6K8wlAJ1bTws9wk5xRn8CE"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Nascendo de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2GnVKBwgGzfCQpN1puW4AM"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Descontrolada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1dK4iofx07QzAYvr92oDLi"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Piseiro Tocando Alto",
-        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
-      },
-      "artists": [
-        {
-          "name": "Forr\u00f3 do HF",
-          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
-        }
-      ],
-      "duration_ms": 108931,
-      "name": "Piseiro Tocando Alto",
-      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Onde Tu Vai Sentar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 182640,
       "name": "Onde Tu Vai Sentar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Piseiro Tocando Alto",
+        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 do HF",
+          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
+        }
+      ],
+      "duration_ms": 108931,
+      "name": "Piseiro Tocando Alto",
+      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
+        "name": "Um Por Cento (UN X100TO) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/334dyM5WtHpeXFt3R6X7xz"
       },
       "artists": [
         {
@@ -1710,7 +1710,7 @@
       ],
       "duration_ms": 198728,
       "name": "Um Por Cento (UN X100TO) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6K8wlAJ1bTws9wk5xRn8CE"
+      "url": "https://open.spotify.com/track/1w28gpwYu4UUHqOHuOZ0vx"
     }
   ],
   "unique_name": "PURO SUCO DO BRASIL",

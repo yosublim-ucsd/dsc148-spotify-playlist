@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Heartbreak Song",
+        "url": "https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Heartbreak Song",
+      "url": "https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl"
+    },
+    {
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n"
       },
@@ -416,7 +438,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203663,
       "name": "Homabay",
       "url": "https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS"

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9788,
+  "num_followers": 9785,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-04-19 06:19:55",
       "album": {
+        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
+        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+    },
+    {
+      "added_at": "2024-04-19 06:19:55",
+      "album": {
         "name": "HESITATING",
         "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-04-19 06:19:55",
       "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+        "name": "First Album",
+        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
       },
       "artists": [
         {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+          "name": "One More Chance",
+          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
         }
       ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+      "duration_ms": 248293,
+      "name": "\ub110 \uc0dd\uac01\ud574",
+      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
     },
     {
       "added_at": "2024-04-19 06:19:55",
@@ -767,22 +783,6 @@
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
-    },
-    {
-      "added_at": "2024-04-19 06:19:55",
-      "album": {
-        "name": "First Album",
-        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
-      },
-      "artists": [
-        {
-          "name": "One More Chance",
-          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
-        }
-      ],
-      "duration_ms": 248293,
-      "name": "\ub110 \uc0dd\uac01\ud574",
-      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
     },
     {
       "added_at": "2024-04-19 06:19:55",

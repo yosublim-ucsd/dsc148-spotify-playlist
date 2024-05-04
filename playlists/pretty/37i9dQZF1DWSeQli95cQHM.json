@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11428,
+  "num_followers": 11430,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+        }
+      ],
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -543,26 +559,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Flame of the Pine Cone",
-        "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
-      },
-      "artists": [
-        {
-          "name": "ITAI",
-          "url": "https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq"
-        },
-        {
-          "name": "Spaniol",
-          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
-        }
-      ],
-      "duration_ms": 409258,
-      "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
-      "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Nocturnal Fear",
         "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
@@ -579,18 +575,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+        "name": "Flame of the Pine Cone",
+        "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
       "artists": [
         {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+          "name": "ITAI",
+          "url": "https://open.spotify.com/artist/1J1zcThVxqIOB7XdjqKsmq"
+        },
+        {
+          "name": "Spaniol",
+          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
         }
       ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+      "duration_ms": 409258,
+      "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
+      "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Maytrea",
         "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
       },
@@ -647,6 +627,22 @@
       "duration_ms": 452106,
       "name": "Maytrea",
       "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
       "artists": [
         {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
         }
       ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Bajolo Vol. I",
-        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 384480,
-      "name": "Vou Pra Longe (Floatin')",
-      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "VA IFN 001 - Techno Concept",
         "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 311129,
       "name": "Fixity - Original Mix",
       "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Bajolo Vol. I",
+        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
+      },
+      "artists": [
+        {
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Vou Pra Longe (Floatin')",
+      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Festa",
-      "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Quando o Tempo d\u00e1 um Tempo",
         "url": "https://open.spotify.com/album/394surSicOxNpbQV6tMSDC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 308210,
       "name": "Minguante",
       "url": "https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Easytiiger__001",
         "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 386181,
       "name": "No Rave",
       "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
     },
     {
       "added_at": "2023-11-10 03:03:00",

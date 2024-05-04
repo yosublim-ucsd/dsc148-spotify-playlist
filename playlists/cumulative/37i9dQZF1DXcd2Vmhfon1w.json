@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Recycled J",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Al Safir",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184704,
       "name": "3 d\u00edas m\u00e1s tarde",
       "url": "https://open.spotify.com/track/53AAYLHi5LRWMVl63a5PDy"
@@ -3437,6 +3437,28 @@
     },
     {
       "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+    },
+    {
+      "album": {
         "name": "LA \u00daLTIMA",
         "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
       },
@@ -3694,6 +3716,28 @@
       "duration_ms": 101052,
       "name": "Lollypop",
       "url": "https://open.spotify.com/track/1K6H2Tpdnd27SJWZz2JS96"
+    },
+    {
+      "album": {
+        "name": "Los Mataba a Todos",
+        "url": "https://open.spotify.com/album/45tCgEN9Fn3T55fem1Qn34"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "Los Mataba a Todos",
+      "url": "https://open.spotify.com/track/6eSKF52qVfauS4cUhkwAl7"
     },
     {
       "album": {
@@ -5373,6 +5417,28 @@
     },
     {
       "album": {
+        "name": "Black Ops",
+        "url": "https://open.spotify.com/album/1Z6yKANDH0Fhp562domIla"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Dawiz",
+          "url": "https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/1AI5VwRYiI0g3Pll2l7o9d"
+    },
+    {
+      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/7rYfzmsPZ2wpcZIWO6qpuw"
       },
@@ -6418,7 +6484,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN"
@@ -6914,7 +6980,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 162935,
       "name": "Vine Ma Hut",
       "url": "https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61"

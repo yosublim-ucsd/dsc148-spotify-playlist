@@ -7021,6 +7021,32 @@
     },
     {
       "album": {
+        "name": "Gorah (Francis Mercier Midnight Mix)",
+        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "Gorah - Francis Mercier Midnight Mix",
+      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
+    },
+    {
+      "album": {
         "name": "Far We Go EP",
         "url": "https://open.spotify.com/album/7cIb6ImdX8dLMb1QqY54Tc"
       },

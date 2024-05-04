@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,757 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,676 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 40 | [The Wolf](https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ) | [LEØ](https://open.spotify.com/artist/1dIdB87SOCg58ixm8rEtnm) | [The Wolf](https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3) | 3:54 |
 | 41 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 42 | [Pistol Shrimp](https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Pistol Shrimp](https://open.spotify.com/album/5teivAr6a0JL0H36dIwRyf) | 3:58 |
-| 43 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
-| 44 | [Something](https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Shift](https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0) | 3:22 |
+| 43 | [Something](https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Shift](https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0) | 3:22 |
+| 44 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
 | 45 | [Dome](https://open.spotify.com/track/5F5hkKjJhqpuoM5VJER5pW) | [Firewoodisland](https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW) | [Dome](https://open.spotify.com/album/01cD5X3u8Iv4gWFHmrWYfK) | 4:00 |
 | 46 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
-| 47 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
-| 48 | [Modest Mountains](https://open.spotify.com/track/0xj2fWTHrgAjEQbs8rStb1) | [Field Division](https://open.spotify.com/artist/3JgnC8TzhcmWsm0V2a2ZTJ) | [Reverie State](https://open.spotify.com/album/6EYuYMm70gQfaCczfuGmyM) | 3:58 |
+| 47 | [Modest Mountains](https://open.spotify.com/track/0xj2fWTHrgAjEQbs8rStb1) | [Field Division](https://open.spotify.com/artist/3JgnC8TzhcmWsm0V2a2ZTJ) | [Reverie State](https://open.spotify.com/album/6EYuYMm70gQfaCczfuGmyM) | 3:58 |
+| 48 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
 | 49 | [Stay Right Here Until Morning](https://open.spotify.com/track/1G3PUN2xuhLytcQ8gzyO2s) | [Twiceyoung](https://open.spotify.com/artist/1gIaahQbTZ8EX77uQw62Vc), [The Light The Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Stay Right Here Until Morning](https://open.spotify.com/album/2FqjRRFbmdmz9NhbQIi2O0) | 3:24 |
 | 50 | [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 |
 | 51 | [Dreams](https://open.spotify.com/track/1WfA8fbuQeHh1ADwjJMwLg) | [Caroline Glaser](https://open.spotify.com/artist/4qiAhwxeFLSbkNq6tFEWpJ) | [Caroline Glaser](https://open.spotify.com/album/4zd3piahMJULe7zBWeZcxJ) | 3:50 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 53 | [Illuminate](https://open.spotify.com/track/5o5SVIrVETWIQFMdgPFXPt) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Illuminate](https://open.spotify.com/album/0jNQhlyidtHVsBYtXMFV3g) | 4:10 |
 | 54 | [Laugh Again](https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Awake](https://open.spotify.com/album/6X80JGSK70plo8k6bccvIf) | 3:59 |
 | 55 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
-| 56 | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi) | 4:34 |
-| 57 | [Way Back Home](https://open.spotify.com/track/3bXX20tACLqSRGxzk54xr4) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Way Back Home](https://open.spotify.com/album/1685LdXIdNn3WCNocUVBIN) | 4:14 |
-| 58 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
-| 59 | [EBB](https://open.spotify.com/track/2nxQPAZV2pe9TOFL52nTMu) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Trawl](https://open.spotify.com/album/0njLp1RAZLe6DOCOP1oj8c) | 4:23 |
+| 56 | [Way Back Home](https://open.spotify.com/track/3bXX20tACLqSRGxzk54xr4) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Way Back Home](https://open.spotify.com/album/1685LdXIdNn3WCNocUVBIN) | 4:14 |
+| 57 | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi) | 4:34 |
+| 58 | [EBB](https://open.spotify.com/track/2nxQPAZV2pe9TOFL52nTMu) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Trawl](https://open.spotify.com/album/0njLp1RAZLe6DOCOP1oj8c) | 4:23 |
+| 59 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
 | 60 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 |
 | 61 | [A Light on in the Dark](https://open.spotify.com/track/3twsDwOH7Z0gbkO2PXaomc) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Green + Evergreen](https://open.spotify.com/album/1KF5khhNMhvHinCySJZumy) | 3:51 |
 | 62 | [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 |

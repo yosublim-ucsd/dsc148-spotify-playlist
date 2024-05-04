@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6482,
+  "num_followers": 6483,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACUvbzggZA7yfzHV89tl9+mtp9AKnol",
+  "snapshot_id": "AACU0w+GND6S08m3M1XH8/hsmoPhqwmX",
   "tracks": [
     {
       "added_at": "2024-05-03 05:03:40",
@@ -41,6 +41,34 @@
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
+      "added_at": "2024-05-03 05:02:28",
+      "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
       "added_at": "2024-05-03 04:53:35",
       "album": {
         "name": "A Dream Is All We Know",
@@ -55,22 +83,6 @@
       "duration_ms": 151560,
       "name": "Peppermint Roses",
       "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
-    },
-    {
-      "added_at": "2024-05-03 05:02:34",
-      "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/60v4zSMZSkiOIzlkLnePw0"
-      },
-      "artists": [
-        {
-          "name": "Grasias",
-          "url": "https://open.spotify.com/artist/7Ixf4HN0m8oP5ISOu75n79"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/1NKx2va7aJl9v3EADaFhQi"
     },
     {
       "added_at": "2024-05-03 04:47:13",
@@ -141,6 +153,22 @@
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
     },
     {
+      "added_at": "2024-05-03 08:09:20",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/56ALbArb98jRcfSITJ4xsP"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245980,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
+    },
+    {
       "added_at": "2024-05-03 05:02:02",
       "album": {
         "name": "Cuando No Est\u00e1s",
@@ -205,6 +233,22 @@
       "url": "https://open.spotify.com/track/68a0AwpQFG0n60zMHw3qfV"
     },
     {
+      "added_at": "2024-05-03 07:19:40",
+      "album": {
+        "name": "Ma\u00f1ana es Lunes",
+        "url": "https://open.spotify.com/album/0iSWwR1JMMuR6Rf1LJwo67"
+      },
+      "artists": [
+        {
+          "name": "Vosotras Ver\u00e9is",
+          "url": "https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu"
+        }
+      ],
+      "duration_ms": 200778,
+      "name": "Ma\u00f1ana es Lunes",
+      "url": "https://open.spotify.com/track/2XhuanjdFurqh5syKL0DAG"
+    },
+    {
       "added_at": "2024-05-03 04:51:33",
       "album": {
         "name": "Starburned and Unkissed",
@@ -219,6 +263,22 @@
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
+    },
+    {
+      "added_at": "2024-05-03 07:19:51",
+      "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3Xcm94qRjEG6jreQeLYACh"
+      },
+      "artists": [
+        {
+          "name": "Nenazas",
+          "url": "https://open.spotify.com/artist/3iulHYJiNfl40agn0qdD81"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/3ZTRg2AbTz13wcItp8bOEs"
     },
     {
       "added_at": "2024-05-03 04:52:32",
@@ -237,6 +297,22 @@
       "url": "https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB"
     },
     {
+      "added_at": "2024-05-03 07:00:55",
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/3zd2PR0Dpho3Cz2gVnqZ62"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "duration_ms": 230754,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/0uLTxqgIsfMSTQLiWFae7f"
+    },
+    {
       "added_at": "2024-05-03 05:04:07",
       "album": {
         "name": "Forbidden Fruit",
@@ -251,6 +327,22 @@
       "duration_ms": 142706,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH"
+    },
+    {
+      "added_at": "2024-05-03 07:20:23",
+      "album": {
+        "name": "Problem\u00e1tica juvenil",
+        "url": "https://open.spotify.com/album/77hKnmywl2SKNmCONlG86x"
+      },
+      "artists": [
+        {
+          "name": "Las Nenas",
+          "url": "https://open.spotify.com/artist/5RMPrDy0GZ8rMsuhvw8cs9"
+        }
+      ],
+      "duration_ms": 135191,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/4OiqqhZfGM6vAyX5q9NvP6"
     },
     {
       "added_at": "2024-05-03 04:54:07",
@@ -301,6 +393,70 @@
       "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
+      "added_at": "2024-05-03 05:02:34",
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/60v4zSMZSkiOIzlkLnePw0"
+      },
+      "artists": [
+        {
+          "name": "Grasias",
+          "url": "https://open.spotify.com/artist/7Ixf4HN0m8oP5ISOu75n79"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/1NKx2va7aJl9v3EADaFhQi"
+    },
+    {
+      "added_at": "2024-05-03 05:18:00",
+      "album": {
+        "name": "Funeral for Justice",
+        "url": "https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 233518,
+      "name": "Takoba",
+      "url": "https://open.spotify.com/track/5cQzeHcBjSES0g4qlhTgqY"
+    },
+    {
+      "added_at": "2024-05-03 07:20:06",
+      "album": {
+        "name": "Selva M\u00e1gica",
+        "url": "https://open.spotify.com/album/1t7JlhFLz26Ra6zFzS8n8A"
+      },
+      "artists": [
+        {
+          "name": "Ttrraaccaa",
+          "url": "https://open.spotify.com/artist/5uOACthvlExYfefKjpcKCu"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Rave del Mono",
+      "url": "https://open.spotify.com/track/0cPCov0D5kojKMhcet4mqr"
+    },
+    {
+      "added_at": "2024-05-03 07:07:36",
+      "album": {
+        "name": "Whatsapp (Wassam)",
+        "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Whatsapp (Wassam)",
+      "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
+    },
+    {
       "added_at": "2024-05-03 04:52:43",
       "album": {
         "name": "PRATTS & PAIN",
@@ -317,6 +473,22 @@
       "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
+      "added_at": "2024-05-03 07:22:08",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2fvxxHVNLOZy7W385rzscI"
+      },
+      "artists": [
+        {
+          "name": "Marc Mas",
+          "url": "https://open.spotify.com/artist/2Afa8bc03hUILSCuypSSzt"
+        }
+      ],
+      "duration_ms": 269018,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/0Zh4HJsOGKnG5PkRGrmmtx"
+    },
+    {
       "added_at": "2024-05-03 04:47:28",
       "album": {
         "name": "Risk",
@@ -331,6 +503,22 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "added_at": "2024-05-03 07:19:27",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/6Cja92IEMyfcHSDPVZCjTG"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/2KAOp6SYU35LsYQHdZSiNs"
     },
     {
       "added_at": "2024-05-03 04:53:10",
@@ -413,34 +601,6 @@
       "url": "https://open.spotify.com/track/26n5FCBXjGOpMIQHxPdy6T"
     },
     {
-      "added_at": "2024-05-03 05:02:28",
-      "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
       "added_at": "2024-05-03 05:05:35",
       "album": {
         "name": "La Fusion",
@@ -487,6 +647,22 @@
       "duration_ms": 134373,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "added_at": "2024-05-03 07:07:48",
+      "album": {
+        "name": "act v: there goes another vase",
+        "url": "https://open.spotify.com/album/6ZOjP5RxSPoCmheXj9BTDo"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 175168,
+      "name": "act v: there goes another vase",
+      "url": "https://open.spotify.com/track/0bmCqv1VW9Dvcr4yzcTYx1"
     },
     {
       "added_at": "2024-05-03 05:08:01",
@@ -555,6 +731,58 @@
       "duration_ms": 173560,
       "name": "Tennessee (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
+    },
+    {
+      "added_at": "2024-05-03 05:18:23",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 181534,
+      "name": "Look Alive",
+      "url": "https://open.spotify.com/track/2Sa7c1IlT7bVHEt8s982It"
+    },
+    {
+      "added_at": "2024-05-03 07:00:43",
+      "album": {
+        "name": "Bombas en Madrid",
+        "url": "https://open.spotify.com/album/3CvHESo4ZP1BCP9sLHEZZ0"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        },
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "duration_ms": 252412,
+      "name": "Bombas en Madrid",
+      "url": "https://open.spotify.com/track/1Lc4PJwLkBDTif9VkcuoNt"
+    },
+    {
+      "added_at": "2024-05-03 07:08:16",
+      "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "added_at": "2024-05-03 04:53:19",
@@ -682,10 +910,6 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ritz Reynolds",
-          "url": "https://open.spotify.com/artist/4RZOYMtyz97jaU2x9SICqg"
         }
       ],
       "duration_ms": 213460,

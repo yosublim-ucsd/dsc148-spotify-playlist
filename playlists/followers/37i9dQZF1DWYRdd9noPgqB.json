@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 284675,
+  "2024-05-04": 284690,
   "date_first_scraped": "2023-09-29",
   "description": "La playlist qui fait du bien \u2600\ufe0f",
   "name": "Feel Good",
@@ -299,6 +299,24 @@
       "duration_ms": 229823,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/0kllTn8v9iKPe5TEJ2yBv0"
+    },
+    {
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171383,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
     },
     {
       "album": {
@@ -705,7 +723,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
@@ -1666,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -2502,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "Prism in Jeans",
+        "url": "https://open.spotify.com/album/63u2XyeQT4QzO9pQ8bZEU2"
+      },
+      "artists": [
+        {
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Prism in Jeans",
+      "url": "https://open.spotify.com/track/1gHpfrLUzsLv05B7sFy6Dl"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
       },
@@ -2513,7 +2567,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 203080,
       "name": "Radio",
       "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
@@ -2733,10 +2787,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162019,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
     },
     {
       "album": {
@@ -3443,7 +3515,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244186,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK"

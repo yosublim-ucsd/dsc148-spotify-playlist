@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 1581343,
+  "2024-05-04": 1581289,
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:3sDbKMebVH2VYcRSl7u1VC\">for KING & COUNTRY</a> ",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">Elevation Rhythm</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -4501,6 +4501,28 @@
       "duration_ms": 201533,
       "name": "Good To Be Loved By You (with Tyler Hubbard)",
       "url": "https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu"
+    },
+    {
+      "album": {
+        "name": "GOODBYE YESTERDAY",
+        "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298682,
+      "name": "GOODBYE YESTERDAY",
+      "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
     },
     {
       "album": {
@@ -14223,7 +14245,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194759,
-      "name": "Unsung Hero (Single Edit)",
+      "name": "Unsung Hero - Single Edit",
       "url": "https://open.spotify.com/track/4nl4VNUEN8ZaEq8v8o89tl"
     },
     {

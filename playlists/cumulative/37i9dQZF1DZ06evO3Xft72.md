@@ -2,7 +2,7 @@
 
 ### [This Is Def Leppard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72)
 
-> This is Def Leppard\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Def Leppard\. The essential tracks, all in one playlist.
 
 75 songs - 5 hr 24 min
 

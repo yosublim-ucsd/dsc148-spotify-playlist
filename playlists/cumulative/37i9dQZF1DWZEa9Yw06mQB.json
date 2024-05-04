@@ -2275,7 +2275,7 @@
     },
     {
       "album": {
-        "name": "Four Tops Second Album",
+        "name": "Four Tops - Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
       "artists": [
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 146933,
       "name": "Jailhouse Rock",
       "url": "https://open.spotify.com/track/452KBpASS5lZLeJWX9Ixub"
@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"

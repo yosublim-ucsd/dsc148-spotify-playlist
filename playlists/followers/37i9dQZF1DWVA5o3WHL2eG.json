@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 33973,
+  "2024-05-04": 33999,
   "date_first_scraped": "2021-12-28",
   "description": "Women at full volume. Cover: Esther Graf",
   "name": "EQUAL GSA",
@@ -8877,6 +8877,24 @@
       "duration_ms": 426520,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB"
+    },
+    {
+      "album": {
+        "name": "GOLDEN DAYS",
+        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193900,
+      "name": "GOLDEN DAYS",
+      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
     },
     {
       "album": {
@@ -23783,6 +23801,28 @@
       "duration_ms": 64410,
       "name": "Velvet Blue",
       "url": "https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx"
+    },
+    {
+      "album": {
+        "name": "Meere",
+        "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173359,
+      "name": "Vergleiche",
+      "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
     },
     {
       "album": {

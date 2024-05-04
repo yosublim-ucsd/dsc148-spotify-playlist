@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 14038,
+  "2024-05-04": 14039,
   "date_first_scraped": "2021-12-29",
-  "description": "This Is Angelique Kidjo. Los temas esenciales, todos en una lista.",
+  "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
   "name": "This Is Angelique Kidjo",
   "tracks": [
     {
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 189080,
       "name": "Free & Equal",
       "url": "https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 266933,
       "name": "Iemanja",
       "url": "https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0"

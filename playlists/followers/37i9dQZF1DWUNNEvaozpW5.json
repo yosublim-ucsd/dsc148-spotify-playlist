@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 571152,
+  "2024-05-04": 571177,
   "date_first_scraped": "2022-05-26",
   "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury. ",
   "name": "Rock Espa\u00f1ol",
@@ -814,6 +814,28 @@
     },
     {
       "album": {
+        "name": "Bombas en Madrid",
+        "url": "https://open.spotify.com/album/3CvHESo4ZP1BCP9sLHEZZ0"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        },
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252412,
+      "name": "Bombas en Madrid",
+      "url": "https://open.spotify.com/track/1Lc4PJwLkBDTif9VkcuoNt"
+    },
+    {
+      "album": {
         "name": "Bombero",
         "url": "https://open.spotify.com/album/5WJlH2OtY2ySr7brpJNffm"
       },
@@ -1219,6 +1241,24 @@
       "duration_ms": 203213,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
+    },
+    {
+      "album": {
+        "name": "Como los gatos salvajes (En directo)",
+        "url": "https://open.spotify.com/album/39EMNWzIDtQKVkdQ6mdg0m"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425813,
+      "name": "Como los gatos salvajes - En directo",
+      "url": "https://open.spotify.com/track/0HbOgq6eJqQFiP0SVokmJH"
     },
     {
       "album": {
@@ -6323,7 +6363,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 230183,
       "name": "Sashimi",
       "url": "https://open.spotify.com/track/4H5G0DJ9cVVupUlAWOfFKP"
@@ -6827,7 +6867,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 211505,
       "name": "Te he prometido",
       "url": "https://open.spotify.com/track/7h8WsXB9ps3LwQQpqOCH7V"
@@ -6871,6 +6911,24 @@
       "duration_ms": 277193,
       "name": "Tenemos Algo Que Solucionar",
       "url": "https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69"
+    },
+    {
+      "album": {
+        "name": "Tiramis\u00fa",
+        "url": "https://open.spotify.com/album/3ghYFW0xHG3hlGy4NAUEvc"
+      },
+      "artists": [
+        {
+          "name": "Playa Cuberris",
+          "url": "https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208872,
+      "name": "Tiramis\u00fa",
+      "url": "https://open.spotify.com/track/62IZgrsHNs2qkyrk1f9Od8"
     },
     {
       "album": {
@@ -7283,7 +7341,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"

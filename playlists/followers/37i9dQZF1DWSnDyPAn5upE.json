@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 54218,
+  "2024-05-04": 54263,
   "date_first_scraped": "2022-05-30",
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
   "name": "ethereal voices",
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 256440,
       "name": "Adkrog",
       "url": "https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"

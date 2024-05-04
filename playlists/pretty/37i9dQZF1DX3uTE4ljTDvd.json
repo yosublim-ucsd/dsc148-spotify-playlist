@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 119944,
+  "num_followers": 119948,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Sinal de Amor",
         "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 215750,
       "name": "Sinal de Amor",
       "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "\u00c1gape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 573739,
-      "name": "\u00c1gape - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Destemida",
         "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 298285,
       "name": "Destemida",
       "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
-      },
-      "artists": [
-        {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
-        }
-      ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
-      },
-      "artists": [
-        {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
-        }
-      ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        }
+      ],
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2023-12-21 22:17:17",

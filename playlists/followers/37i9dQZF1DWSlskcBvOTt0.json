@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 462852,
+  "2024-05-04": 462970,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -8322,6 +8322,32 @@
     },
     {
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Camer\u00f8n",
+          "url": "https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239375,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF"
+    },
+    {
+      "album": {
         "name": "Never Alone (Patrice B\u00e4umel Remix)",
         "url": "https://open.spotify.com/album/188eX1q8qweT4oRiFBZqSd"
       },
@@ -11387,7 +11413,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 244149,
       "name": "Sutra",
       "url": "https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD"

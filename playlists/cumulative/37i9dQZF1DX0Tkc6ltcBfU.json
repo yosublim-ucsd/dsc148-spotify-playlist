@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Future & Metro Boomin",
+  "description": "The hottest out the south. Cover: Gunna",
   "name": "No Cap",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 193953,
       "name": "350",
       "url": "https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS"
+    },
+    {
+      "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "album": {
@@ -3579,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5Fx6t1QOJLz6EaLQQRJ8TJ"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117251,
+      "name": "BULLY",
+      "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -3838,6 +3878,24 @@
       "duration_ms": 145203,
       "name": "Can\u2019t Go To Jail (feat. Sett, YTB Fatt)",
       "url": "https://open.spotify.com/track/092AkJoxUPmg2OH5TyjGKn"
+    },
+    {
+      "album": {
+        "name": "Carolina to New York",
+        "url": "https://open.spotify.com/album/5VrLosdMJFpyF2UArexsQu"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Carolina to New York",
+      "url": "https://open.spotify.com/track/2iFsXp3FUEgMIby8VG0j8a"
     },
     {
       "album": {
@@ -4609,6 +4667,28 @@
     },
     {
       "album": {
+        "name": "Not Ya Girl: Act 1",
+        "url": "https://open.spotify.com/album/7Ml90LQW2HTBOz4GI6Sabp"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174455,
+      "name": "Come Here (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/78mTFHB8u7NvNWFWfk7uqY"
+    },
+    {
+      "album": {
         "name": "For Her (Deluxe)",
         "url": "https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8"
       },
@@ -4627,6 +4707,32 @@
     },
     {
       "album": {
+        "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203402,
+      "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh"
+    },
+    {
+      "album": {
         "name": "Come See Me",
         "url": "https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj"
       },
@@ -4638,7 +4744,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 190588,
       "name": "Come See Me",
       "url": "https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR"
@@ -5084,7 +5190,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 138171,
       "name": "Dark Soul",
       "url": "https://open.spotify.com/track/7N0EYDO8YjOyjqbzGtq4VY"
@@ -6126,7 +6232,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 220626,
       "name": "Drink N Dance",
       "url": "https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ"
@@ -6458,7 +6564,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210229,
       "name": "EXIT 9 - with Blxst and Offset",
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
@@ -9966,7 +10072,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 111482,
       "name": "How It Feel",
       "url": "https://open.spotify.com/track/7HJ9D1uLjSRyp0chTB08yS"
@@ -11263,6 +11369,28 @@
     },
     {
       "album": {
+        "name": "GHETTO SUPERSTAR: (THE INTRO)",
+        "url": "https://open.spotify.com/album/1EAlURUEewGlp9AvY6I767"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "JUDY (with Skilla Baby)",
+      "url": "https://open.spotify.com/track/0XgbZ1n0M8FawSqTlhnW4x"
+    },
+    {
+      "album": {
         "name": "Jump Out (feat. Hotboy Wes)",
         "url": "https://open.spotify.com/album/1YtxPcwSI5vt4uBFfRbsiu"
       },
@@ -12478,6 +12606,24 @@
       "duration_ms": 217872,
       "name": "Letter to Takeoff",
       "url": "https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE"
+    },
+    {
+      "album": {
+        "name": "Letter to the Devil",
+        "url": "https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145465,
+      "name": "Letter to the Devil",
+      "url": "https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq"
     },
     {
       "album": {
@@ -15641,6 +15787,24 @@
     },
     {
       "album": {
+        "name": "Numb (2024)",
+        "url": "https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174645,
+      "name": "Numb - 2024",
+      "url": "https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1"
+    },
+    {
+      "album": {
         "name": "STILL (Five & A F*** You) [Deluxe]",
         "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
       },
@@ -15670,7 +15834,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 146924,
       "name": "NVRCARED",
       "url": "https://open.spotify.com/track/4oeoyLLcLyIyjCBlMSe8Qm"
@@ -17874,7 +18038,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 110339,
       "name": "Quez Home",
       "url": "https://open.spotify.com/track/1KIHWa5ltofQsk6BMibs3j"
@@ -18318,7 +18482,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178559,
       "name": "Ride Home",
       "url": "https://open.spotify.com/track/2rnWo5yqcjpx0lldvnTdIU"
@@ -22180,7 +22344,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200216,
       "name": "Thought It Was Over",
       "url": "https://open.spotify.com/track/2YBMaVyVaBc8fdOo7dShHp"
@@ -22783,6 +22947,24 @@
     },
     {
       "album": {
+        "name": "TRYNA MAKE SURE",
+        "url": "https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG"
+    },
+    {
+      "album": {
         "name": "Tuci",
         "url": "https://open.spotify.com/album/4onDNOAndPqPHuqfHNqwiQ"
       },
@@ -22958,7 +23140,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 110440,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"
@@ -24190,6 +24372,24 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "album": {
+        "name": "Whatsapp (Wassam)",
+        "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Whatsapp (Wassam)",
+      "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
     },
     {
       "album": {

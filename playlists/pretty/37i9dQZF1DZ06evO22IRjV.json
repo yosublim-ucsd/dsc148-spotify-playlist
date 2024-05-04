@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 28902,
+  "num_followers": 28897,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADlnw/OB/OdRRZL30gdsfnU",
+  "snapshot_id": "ZjLXgAAAAADl0fHNIankW79MXQy08srH",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
-        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "\u30e1\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS",
         "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 91786,
       "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
       "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK & WHITE",
-        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Hey!!!",
-      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 209527,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -735,6 +719,38 @@
       "duration_ms": 242173,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 243134,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 243134,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#5",
         "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300c\u98a8\u30ce\u5504 / BURN\u300dSpecial Edition",
-        "url": "https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91325,
-      "name": "\u98a8\u30ce\u5504 -TV Size-",
-      "url": "https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u300c\u98a8\u30ce\u5504 / BURN\u300dSpecial Edition",
+        "url": "https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91325,
+      "name": "\u98a8\u30ce\u5504 -TV Size-",
+      "url": "https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl"
     },
     {
       "added_at": null,

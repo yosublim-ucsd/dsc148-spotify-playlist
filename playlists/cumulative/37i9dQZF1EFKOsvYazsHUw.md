@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 6 hr 20 min
+115 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [bodytalk](https://open.spotify.com/track/4rrqU96CxRTeKGt342pRsN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:27 | 2022-11-11 |  |
 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2024-04-02 |  |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 | 2024-04-02 |  |
+| [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 | 2024-05-03 |  |
 | [Careless \(feat\. CHIIILD\)](https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:23 | 2023-12-13 |  |
 | [Careless \(feat\. Chiiild\)](https://open.spotify.com/track/48uu14gBG62vUglGGsDAt5) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/27DemjtuFRsE68xR1AnIe5) | 3:23 | 2022-11-11 | 2023-12-14 |
 | [Cheap Liquor](https://open.spotify.com/track/42oi5SgSne2Wvt3dkiX4pu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 1:59 | 2022-11-11 |  |

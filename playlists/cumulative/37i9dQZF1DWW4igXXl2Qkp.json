@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 125142,
       "name": "22",
       "url": "https://open.spotify.com/track/1auvnGKOfKYpFhPucN14GN"
@@ -13453,6 +13453,24 @@
     },
     {
       "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "album": {
         "name": "Mr Brash",
         "url": "https://open.spotify.com/album/74wEqu8uH8hfAOoRRLQgKv"
       },
@@ -14124,7 +14142,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 193500,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/22r7GEr3quvsOap3Td9RrU"
@@ -22744,6 +22762,24 @@
       "duration_ms": 73025,
       "name": "YALL BLOWING MINES",
       "url": "https://open.spotify.com/track/0l8VaQ80N0l03wmiBipHBy"
+    },
+    {
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121887,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
     },
     {
       "album": {

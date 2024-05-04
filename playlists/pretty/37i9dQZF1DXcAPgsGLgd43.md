@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,401 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,488 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 64 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 |
 | 65 | [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 |
 | 66 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
-| 67 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
-| 68 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 |
+| 67 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 |
+| 68 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 69 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 |
 | 70 | [Vai Caralho \(Do togo\)](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 |
 | 71 | [Senta Relaxa](https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP) | [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Senta Relaxa](https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0) | 3:00 |

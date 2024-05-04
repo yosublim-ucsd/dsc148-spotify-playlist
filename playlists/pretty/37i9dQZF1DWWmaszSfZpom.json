@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 963690,
+  "num_followers": 963421,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -283,42 +283,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "\u00d4 Mo\u00e7a",
-        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "\u00d4 Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Evoluiu",
-        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Evoluiu",
-      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Combatchy (feat. MC Rebecca)",
         "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
@@ -343,6 +307,42 @@
       "duration_ms": 157600,
       "name": "Combatchy (feat. MC Rebecca)",
       "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Evoluiu",
+        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Evoluiu",
+      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "\u00d4 Mo\u00e7a",
+        "url": "https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "\u00d4 Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Na Ponta Ela Fica",
-        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
       },
       "artists": [
         {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Na Ponta Ela Fica",
-      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
+      "duration_ms": 176608,
+      "name": "Movimento da sanfoninha - Ao vivo",
+      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
+        "name": "Na Ponta Ela Fica",
+        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
         }
       ],
-      "duration_ms": 176608,
-      "name": "Movimento da sanfoninha - Ao vivo",
-      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
+      "duration_ms": 154026,
+      "name": "Na Ponta Ela Fica",
+      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -931,26 +931,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Separei",
-        "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
+        "name": "ATEN\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
-        },
-        {
-          "name": "MC's Jhowzinho & Kadinho",
-          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 162406,
-      "name": "Separei",
-      "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -975,22 +971,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "ATEN\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
+        "name": "Separei",
+        "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        },
+        {
+          "name": "MC's Jhowzinho & Kadinho",
+          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
         }
       ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
+      "duration_ms": 162406,
+      "name": "Separei",
+      "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Envolvimento",
-        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
-      },
-      "artists": [
-        {
-          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
-        }
-      ],
-      "duration_ms": 146602,
-      "name": "Envolvimento",
-      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Catucada Profunda",
         "url": "https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 173538,
       "name": "Catucada Profunda",
       "url": "https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Envolvimento",
+        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
+      },
+      "artists": [
+        {
+          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
+        }
+      ],
+      "duration_ms": 146602,
+      "name": "Envolvimento",
+      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1655,6 +1655,46 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "MTG \u00c9 Sempre Assim",
+        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
+      },
+      "artists": [
+        {
+          "name": "DJ ARTHUZIIN",
+          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
+        },
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
+        },
+        {
+          "name": "Mc Faelzin",
+          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        },
+        {
+          "name": "Dj Vitin do Pc",
+          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "MTG \u00c9 Sempre Assim",
+      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY"
       },
@@ -1731,46 +1771,6 @@
       "duration_ms": 215937,
       "name": "Abusadamente",
       "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "MTG \u00c9 Sempre Assim",
-        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
-      },
-      "artists": [
-        {
-          "name": "DJ ARTHUZIIN",
-          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
-        },
-        {
-          "name": "Dj Lv Mdp",
-          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
-        },
-        {
-          "name": "Mc Faelzin",
-          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "DJ PH DA SERRA",
-          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
-        },
-        {
-          "name": "Dj Vitin do Pc",
-          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "MTG \u00c9 Sempre Assim",
-      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
     },
     {
       "added_at": "2023-06-26 14:06:50",

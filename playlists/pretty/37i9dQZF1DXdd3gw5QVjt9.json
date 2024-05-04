@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1166825,
+  "num_followers": 1166664,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Sweet Misery",
-        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lonelier Together",
         "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Sweet Misery",
+        "url": "https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 189329,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 243973,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Find Our Way",
-        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 211145,
-      "name": "Find Our Way",
-      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Matin\u00e9e",
@@ -779,6 +763,22 @@
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 211145,
+      "name": "Find Our Way",
+      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Precious Days",
-        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 165829,
-      "name": "Precious Days",
-      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Nervous At Night",
@@ -995,6 +979,22 @@
       "duration_ms": 187133,
       "name": "Planet With Water",
       "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Precious Days",
+        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 165829,
+      "name": "Precious Days",
+      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "baby, get your ticket",
         "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 155431,
       "name": "baby, get your ticket",
       "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
     },
     {
       "added_at": "2023-10-27 04:00:00",

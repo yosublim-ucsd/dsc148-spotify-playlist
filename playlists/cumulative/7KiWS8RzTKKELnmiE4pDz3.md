@@ -4,7 +4,7 @@
 
 > 
 
-680 songs - 1 day 8 hr 26 min
+682 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [El Libro](https://open.spotify.com/track/0lHk3B6BOt43VTHJuODZr8) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 2:48 | 2024-02-14 |  |
 | [Enough Ammo \(Remix\) \[feat\. Young Nudy\]](https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:57 | 2024-03-04 | 2024-04-24 |
 | [Esham's Boomin](https://open.spotify.com/track/2m70KuxevOmwQhVbg2CHVk) | [Esham](https://open.spotify.com/artist/2eQPDhVoSa5aeWROa5wfxZ) | [Boomin' Words from Hell \(Classics Remastered\)](https://open.spotify.com/album/0b3VGaoEN6nVMg5iOTUnyh) | 4:12 | 2022-09-11 | 2023-04-12 |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-03 |  |
 | [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 | 2024-01-22 | 2024-04-24 |
 | [Everyday](https://open.spotify.com/track/6ssFHrOdxTZvbwP1AHkVZi) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Everyday](https://open.spotify.com/album/24CUaKU2lwY3M9OFOXsFjB) | 2:24 | 2022-11-02 | 2023-04-12 |
 | [Everything Is Everything](https://open.spotify.com/track/54sAHwWnjPSyhThvldKlj7) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:15 | 2024-02-16 |  |
@@ -332,6 +333,7 @@
 | [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2023-11-29 | 2024-03-05 |
 | [Like Me \(feat\. Kevin Gates and Stroke tha Don\)](https://open.spotify.com/track/2v2bCAheJHzMGsqT1oxCxp) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Stroke Tha Don](https://open.spotify.com/artist/4GZkKCpdq61U2k0Yeiu00F) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 4:16 | 2022-06-17 | 2023-03-21 |
 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 | 2023-02-28 | 2023-05-09 |
+| [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-05-03 |  |
 | [Like This \(feat\. Lil Uzi Vert, Destroy Lonely\)](https://open.spotify.com/track/1DypGkTryeH4cPFBVucxo4) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-04-24 |
 | [Lil O](https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:12 | 2024-02-19 | 2024-03-05 |
 | [Lindsay Lohan](https://open.spotify.com/track/4LPyJrC3Yd40AlkEaPgcA2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Lindsay Lohan](https://open.spotify.com/album/5ygWbWxDInjLZyAPudyaQP) | 2:46 | 2022-10-24 | 2023-04-12 |

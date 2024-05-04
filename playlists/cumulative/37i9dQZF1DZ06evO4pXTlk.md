@@ -2,7 +2,7 @@
 
 ### [This Is The XCERTS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXTlk)
 
-> This is The XCERTS\. The essential tracks, all in one playlist.
+> This Is The XCERTS\. Los temas esenciales, todos en una lista.
 
 88 songs - 5 hr 3 min
 

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: GEL
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Omerta
 
-675 songs - 1 day 18 hr 57 min
+680 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-13 | 2024-02-03 |
 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-21 | 2024-02-03 |
 | [CHAOS COLLECTED](https://open.spotify.com/track/68JtyOM22HdZf46GLxMR9F) | [FINAL RESTING PLACE](https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI) | [PRELUDE TO EXTINCTION](https://open.spotify.com/album/3ToqKDwrZ7amfYdgR43q9g) | 3:24 | 2024-02-23 |  |
+| [Charade \(feat\. Vincente Void & Hash Gordon\)](https://open.spotify.com/track/1DtT0SdnHV3rGR8qKESC8l) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [Vincente Void](https://open.spotify.com/artist/7dG9i6mXD95KlPRLW5Mspl), [Hash Gordon](https://open.spotify.com/artist/60uraf0ie3HSrCD0W6o9Wk) | [Charade \(feat\. Vincente Void & Hash Gordon\)](https://open.spotify.com/album/3j3LJ6aa4oA1SXGJnN9rB0) | 5:07 | 2024-05-03 |  |
 | [Chewing The Scenery](https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Chewing The Scenery](https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE) | 3:49 | 2023-08-25 | 2024-02-03 |
 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 | 2023-10-06 | 2024-02-03 |
 | [Christian Missile Crisis](https://open.spotify.com/track/7mvDc5Xwp1SMcOJUduRBA5) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Christian Missile Crisis](https://open.spotify.com/album/67DLHlnVU77iC8AszFPB5W) | 4:57 | 2022-09-30 | 2023-07-15 |
@@ -159,6 +160,7 @@
 | [Disposal](https://open.spotify.com/track/0EO2VSzN4uYo1xnp5qYkLL) | [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [Seeking Chaos And Revenge After Betrayal](https://open.spotify.com/album/3y9S2qmboXsNIdjFb362QH) | 2:30 | 2023-11-10 | 2024-02-03 |
 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 | 2024-03-22 |  |
 | [Ditch](https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:37 | 2022-10-07 | 2023-07-15 |
+| [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 | 2024-05-03 |  |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-21 | 2023-07-15 |
 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 | 2022-09-02 | 2023-07-15 |
 | [DOMINATRIX](https://open.spotify.com/track/2L9THMht3Ltq9brUz1Nw5Y) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [DOMINATRIX](https://open.spotify.com/album/6VLNIyu6Tlj0Bmf3IU49mR) | 3:13 | 2022-02-25 | 2023-07-15 |
@@ -274,6 +276,7 @@
 | [Honed Blade](https://open.spotify.com/track/5cLTEtlFjIhQynuwfngPwp) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Honed Blade](https://open.spotify.com/album/12U9KgMnYLJHd1UkZzdOJN) | 1:40 | 2023-02-24 | 2024-02-03 |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-07-29 | 2023-07-15 |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 | 2023-07-15 |
+| [Human Disdain](https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Human Disdain](https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi) | 2:58 | 2024-05-03 |  |
 | [Hysterics](https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Hysterics](https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt) | 2:10 | 2023-04-21 | 2024-02-03 |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 | 2023-07-15 |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 | 2023-07-15 |
@@ -447,6 +450,7 @@
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 | 2023-07-15 |
 | [Rampage](https://open.spotify.com/track/0eNDqVImfIXLh4dUyDkRNa) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rampage](https://open.spotify.com/album/4ckRIwGoYjDBg9xZqOoFDW) | 4:14 | 2023-11-03 | 2024-02-03 |
 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 |  |
+| [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-03 |  |
 | [Reality](https://open.spotify.com/track/4pEf65p8qX8TZ4ohXC6Ses) | [Corpse Pile](https://open.spotify.com/artist/3xUOrcghypEI9Ua6wR0tDU) | [Reality](https://open.spotify.com/album/4PwBGEiZbSyu5oRGOIjI2h) | 2:05 | 2024-01-05 |  |
 | [Rebirth](https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 4:09 | 2023-06-30 | 2024-02-03 |
 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 | 2024-04-19 |  |
@@ -491,6 +495,7 @@
 | [Shine](https://open.spotify.com/track/5tugLgpnElGexPQ81JkFcu) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Shine](https://open.spotify.com/album/7pYrK9tSuaE8uDEz3CR04p) | 6:31 | 2023-08-18 | 2024-02-03 |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 | 2024-02-03 |
 | [Shroud of Gnarled Tongues](https://open.spotify.com/track/2VQEOgF0v5eNcvmKsX89pA) | [Serration](https://open.spotify.com/artist/5y0AgqzUHo3RjOYVCTmyRD) | [Shroud of Gnarled Tongues](https://open.spotify.com/album/3WIsfcmJPmhu4ovDl4MLzD) | 1:46 | 2023-07-28 | 2024-02-03 |
+| [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-03 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 | 2023-07-15 |
 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-10-06 | 2024-02-03 |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-21 | 2024-02-03 |

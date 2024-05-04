@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 520907,
+  "2024-05-04": 520891,
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ARTMS(\uc544\ub974\ud14c\ubbf8\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: WOOAH(\uc6b0\uc544) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -3247,7 +3247,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179293,
       "name": "Let me Love (Prod. by Jin Young)",
       "url": "https://open.spotify.com/track/3DMvqQG9wibjtjmrUAvNBn"
@@ -5291,6 +5291,24 @@
       "duration_ms": 244022,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191"
+    },
+    {
+      "album": {
+        "name": "Secret princess (Secret Jouju x WOOAH)",
+        "url": "https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1"
+      },
+      "artists": [
+        {
+          "name": "WOOAH",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154306,
+      "name": "Secret princess (Secret Jouju x WOOAH)",
+      "url": "https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I"
     },
     {
       "album": {

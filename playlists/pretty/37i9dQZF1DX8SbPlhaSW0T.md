@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,172 likes - 34 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,178 likes - 34 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

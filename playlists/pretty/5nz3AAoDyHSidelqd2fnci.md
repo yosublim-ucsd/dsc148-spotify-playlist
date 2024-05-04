@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 20 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hey There Mr\. Brooks](https://open.spotify.com/track/6dzgSgf7jNysk0m37mrQq0) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:09 |
-| 2 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 |
-| 3 | [Lullaby \- Remastered](https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 4:08 |
-| 4 | [FLINSKY](https://open.spotify.com/track/6AJMc5INWfrIhsGugFx1tV) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [ALBOROTO](https://open.spotify.com/artist/5v1PFXHSjczI3YZDPvASj7) | [DEMO KID](https://open.spotify.com/album/30sMDtANxzl5FdWfCCITrh) | 1:10 |
-| 5 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
-| 6 | [Canción de Lejos](https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Canción De Lejos](https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK) | 4:08 |
-| 7 | [Your Way With Words Is Through Silence](https://open.spotify.com/track/1sfYgIFEvgWAFsSnbiBKxr) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [And Their Name Was Treason](https://open.spotify.com/album/4UlUTVHQgmjBbptRHWUI5T) | 3:53 |
-| 8 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
-| 9 | [A Song For The Hopeless](https://open.spotify.com/track/1CnlE8WnbWMpvHKMZGarUG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/65F5C4fjYjnGOGcJjk5iaq) | 4:15 |
-| 10 | [Twenty First Century Boy](https://open.spotify.com/track/4FxiAllpIaZMFIKHdAROWH) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl) | 5:10 |
-| 11 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
-| 12 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB) | 2:47 |
+| 1 | [Dream On](https://open.spotify.com/track/4Z7jIUqocfVg9CDYXq0QPL) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Punk Goes Classic Rock](https://open.spotify.com/album/6BfFctwh6EnS2IYH0ekIez) | 4:52 |
+| 2 | [A.N.I.C.](https://open.spotify.com/track/0bSjMn6rAMbN1yRlHloBHO) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 0:37 |
+| 3 | [Heroine](https://open.spotify.com/track/4dq223vwGSqVPhgW7mU9ui) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:35 |
+| 4 | [Sleeping On The Sidewalk \- Remastered 2011](https://open.spotify.com/track/3g1cVfFh6bJMB4z69jxONP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol\. 2 / 1977\-1982\)](https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7) | 3:07 |
+| 5 | [Lost](https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:01 |
+| 6 | [ugh!](https://open.spotify.com/track/3CHJC8N9seH3rjVhwGvkSW) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [ugh!](https://open.spotify.com/album/0gofQzxwNiYSgj0qt4TCYr) | 1:58 |
+| 7 | [Holy Secret](https://open.spotify.com/track/7hPr0QsPxswDGQQe6C2PzH) | [HB](https://open.spotify.com/artist/3b1eXoRLlTzS9yDgUPk5SH) | [Frozen Inside](https://open.spotify.com/album/3neHOYUjR0qK4bETHFvBTF) | 5:50 |
+| 8 | [Got the Life \- Live at CBGB](https://open.spotify.com/track/4yj7D1eec9WJQ13NHR9Unl) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF) | 4:06 |
+| 9 | [Stink Eye \(My Joy Is Irrational\)](https://open.spotify.com/track/5f7t5oVwjqgCZtZvfbaKBs) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Stink Eye \(My Joy Is Irrational\)](https://open.spotify.com/album/0RvicVdcKl1eIrAtvCL3XV) | 3:39 |
+| 10 | [Speechless](https://open.spotify.com/track/1AMYzC40LrOioafPGZkAkj) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Unconditional](https://open.spotify.com/album/0fTnGyrD3rUawLknAHeV48) | 3:23 |
+| 11 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
+| 12 | [The Phantom Of The Opera](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:08 |
 
-Snapshot ID: `AAAAZzAMJQVcbHffQGwCcobH1MtZEADI`
+Snapshot ID: `AAAAaL2Z/uQHX+OR4Nt/xZHXR5NBHE17`

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 1569,
+  "2024-05-04": 1569,
   "date_first_scraped": "2020-10-10",
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Green Day",
   "name": "Plugged In",
@@ -1015,6 +1015,24 @@
       "duration_ms": 273898,
       "name": "Canals",
       "url": "https://open.spotify.com/track/6ubLURl6xHWIYPZ7nz0rTF"
+    },
+    {
+      "album": {
+        "name": "Centrefold",
+        "url": "https://open.spotify.com/album/0pFEJBM6VB29KM1E3W5hEi"
+      },
+      "artists": [
+        {
+          "name": "Muzzle",
+          "url": "https://open.spotify.com/artist/5VgVGiD89IFKNsQ1n8d9Zd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149778,
+      "name": "Centrefold",
+      "url": "https://open.spotify.com/track/39CUQzr2y8rluRE3ynYz6y"
     },
     {
       "album": {
@@ -5301,6 +5319,24 @@
       "duration_ms": 245320,
       "name": "Ready For the High",
       "url": "https://open.spotify.com/track/4Md0lS45w5oNNmWL8OS3AV"
+    },
+    {
+      "album": {
+        "name": "REAL LIFE LOVE",
+        "url": "https://open.spotify.com/album/4K0wN1Zxq586UNyMt4z5C5"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "REAL LIFE LOVE",
+      "url": "https://open.spotify.com/track/49yU18gEsAQOdG0DOniBAJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 118194,
+  "num_followers": 118227,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAD05jAamH4m2U3Xr0vWJo6Y",
+  "snapshot_id": "ZjLXgAAAAACKtuYDUNSowxooiuhFrpxz",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "American Witch",
-      "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellbilly Deluxe 2 (Special Edition)",
         "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 224266,
       "name": "Sick Bubblegum",
       "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "American Witch",
+      "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249226,
       "name": "Let It All Bleed Out",
       "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,

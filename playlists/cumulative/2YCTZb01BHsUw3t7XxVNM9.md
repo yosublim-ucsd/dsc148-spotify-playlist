@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-477 songs - 1 day 9 hr 19 min
+479 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [On Fire](https://open.spotify.com/track/0jsnvy3tgcH890NHz1HtE5) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:46 | 2021-08-13 |  |
 | [Oneindigheid](https://open.spotify.com/track/7uFNi3sxAOYorYv3RFoz40) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 4:40 | 2019-06-01 |  |
 | [oNgAku orx013](https://open.spotify.com/track/66RmKjTaAHPYbjg1qCzCMM) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [SPEED BALL Z](https://open.spotify.com/album/20mkWirfhkBCVsvNnMn5DC) | 5:53 | 2019-03-03 |  |
+| [Onyx](https://open.spotify.com/track/0VFgNc0WQzyHsrc3rmB0Pk) | [CANVAS](https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM), [Quimar](https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [CRYSTAL BREATH](https://open.spotify.com/album/67dTbBe4yJrgLLDPMWwVsC) | 4:04 | 2024-05-03 |  |
 | [Open World](https://open.spotify.com/track/1DnvWiSflKgvqVGNczVD35) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [OPEN WORLD EP](https://open.spotify.com/album/2rwM4z3zhZyTrLbApKNnwI) | 2:32 | 2020-09-18 |  |
 | [Out Of Range](https://open.spotify.com/track/3IJDq9i3tdbpMf0AFlW4cO) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [Wall of Nous](https://open.spotify.com/album/4N80rULFVWXLN2ym6PMuga) | 4:43 | 2020-03-14 |  |
 | [Outcast](https://open.spotify.com/track/1ze4UgKw9ewNA7uWAUnFIO) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1), [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [exPERIMENT](https://open.spotify.com/album/6ywKar62lXikMSJSMSQ6RN) | 3:43 | 2019-05-03 |  |
@@ -323,6 +324,7 @@
 | [Phantom Killer](https://open.spotify.com/track/6qdlH327EVplpK2CPhFFz6) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [STORYTELLER VOLUME 1](https://open.spotify.com/album/7k3YslPsLaJj8JHEGUtsq7) | 4:11 | 2019-08-27 |  |
 | [Pig Box](https://open.spotify.com/track/1N9EwjeGhFwdWsS0UZ5Vpy) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Pig Box](https://open.spotify.com/album/2c23jGKUEtqt8fec0RGWSr) | 4:01 | 2021-10-15 |  |
 | [Plastic Buddha](https://open.spotify.com/track/6ltcrmQlPqQgpdDypYz87x) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [Nightmare Crisis](https://open.spotify.com/album/5lwls1iLujSwpp8QHKDVW8) | 4:36 | 2019-05-03 |  |
+| [Poem](https://open.spotify.com/track/6NSXJWewDoDWQnPG3hJimi) | [CANVAS](https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Quimar](https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb) | [CARMINA](https://open.spotify.com/album/1J52fJBK6sV7nz1FXQ7dIQ) | 4:12 | 2024-05-03 |  |
 | [Poseidon](https://open.spotify.com/track/6IdhEhzGEefSApGfUYj1Ox) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Poseidon](https://open.spotify.com/album/76h8jXT72ihuHat3ZDsYl7) | 2:12 | 2019-09-13 |  |
 | [Poseidon \- Extended Ver.](https://open.spotify.com/track/5aucc4zDDSM1WYPJHrvmn8) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:40 | 2021-08-13 |  |
 | [PREVAIL](https://open.spotify.com/track/588dTEjalDDFpZZODYzMTf) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HARDCORE SYNDROME 12](https://open.spotify.com/album/1D5ur2uxXVUy26jo1hgcNR) | 3:58 | 2019-02-03 |  |

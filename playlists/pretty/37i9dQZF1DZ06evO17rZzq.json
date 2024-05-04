@@ -1,12 +1,12 @@
 {
-  "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3295,
+  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
+  "num_followers": 3297,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAAD9qx7cIHQPHHkLFF9WHnWj",
+  "snapshot_id": "ZjLXgAAAAACP6bRtaYallY1BQCyg1F4X",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
-        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 439436,
-      "name": "Story Teller - Original Mix",
-      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "StreetTape",
         "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
       },
@@ -931,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smekkleysa \u00ed h\u00e1lfa \u00f6ld",
-        "url": "https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts"
+        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
+        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
       },
       "artists": [
         {
@@ -940,9 +924,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 266332,
-      "name": "Jeminn eini",
-      "url": "https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx"
+      "duration_ms": 439436,
+      "name": "Story Teller - Original Mix",
+      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
     },
     {
       "added_at": null,
@@ -967,6 +951,26 @@
       "duration_ms": 236956,
       "name": "Pakkman",
       "url": "https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
     }
   ],
   "unique_name": "This Is Kaliii",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 114830,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 114946,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADoGMth1tkiRA4yNWxbO0Ii",
+  "snapshot_id": "ZjLXgAAAAADsnaodeOevWUnN5xEzmfgk",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
     },
     {
       "added_at": null,

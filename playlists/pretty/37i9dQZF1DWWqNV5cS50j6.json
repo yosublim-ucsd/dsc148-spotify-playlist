@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 742574,
+  "num_followers": 742613,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "SOULCRUSHER",
+        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 171828,
+      "name": "SOULCRUSHER",
+      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "The World I'm Searching For",
@@ -971,22 +987,6 @@
       "duration_ms": 177952,
       "name": "SINS",
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "SOULCRUSHER",
-        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 171828,
-      "name": "SOULCRUSHER",
-      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -1073,6 +1073,26 @@
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Starving (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 216841,
+      "name": "Starving (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Catching Chickens EP",
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Starving (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 216841,
-      "name": "Starving (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "fIT chECK fREEsTYle",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "it was nice knowing u",
-        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "pretty photos",
-      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
-    },
-    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "Stacy's Chips",
@@ -1599,6 +1583,22 @@
       "duration_ms": 168510,
       "name": "Stacy's Chips",
       "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "it was nice knowing u",
+        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "pretty photos",
+      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 129776,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Sylvia (Nanana)",
+        "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
+      },
+      "artists": [
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "duration_ms": 155686,
+      "name": "Sylvia (Nanana)",
+      "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Sylvia (Nanana)",
-        "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 155686,
-      "name": "Sylvia (Nanana)",
-      "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
     },
     {
       "added_at": "2024-03-19 20:25:15",

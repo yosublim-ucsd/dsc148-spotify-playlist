@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 777018,
+  "2024-05-04": 777537,
   "date_first_scraped": "2023-10-07",
   "description": "ou vc dan\u00e7a ou o grave t balan\u00e7a",
   "name": "funk challenge",
@@ -1122,6 +1122,32 @@
     },
     {
       "album": {
+        "name": "ENCONTREI VOC\u00ca",
+        "url": "https://open.spotify.com/album/148AFjwP0Qd1cydWBchOGM"
+      },
+      "artists": [
+        {
+          "name": "DJPEJOTA",
+          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "MC MK DA ZL",
+          "url": "https://open.spotify.com/artist/7blOpm5yNxCElWl1UKDRhL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150490,
+      "name": "ENCONTREI VOC\u00ca",
+      "url": "https://open.spotify.com/track/640rMRYPpMwPJdx2BA2OLR"
+    },
+    {
+      "album": {
         "name": "Ent\u00e3o Salva na Espanhola X Vou Te Passa a Balinha",
         "url": "https://open.spotify.com/album/2ibpAntM1JRwsMUxlqAwkG"
       },
@@ -1141,7 +1167,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 75120,
       "name": "Ent\u00e3o Salva na Espanhola X Vou Te Passa a Balinha",
       "url": "https://open.spotify.com/track/1p9YWrXTCARokNBkiiCzYZ"
@@ -1205,12 +1231,12 @@
           "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         },
         {
-          "name": "Josu\u00e9 Bom de Faixa TR",
-          "url": "https://open.spotify.com/artist/27vcPldaBsTYMhB5JTCkyT"
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
         },
         {
-          "name": "DJ THG",
-          "url": "https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc"
+          "name": "Josu\u00e9 Bom de Faixa",
+          "url": "https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz"
         }
       ],
       "date_added": "2024-04-25",

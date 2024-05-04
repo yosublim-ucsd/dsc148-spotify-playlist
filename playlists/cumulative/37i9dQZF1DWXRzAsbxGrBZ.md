@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-132 songs - 14 hr 49 min
+133 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,13 +106,14 @@
 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 | 2022-09-14 | 2024-03-27 |
 | [She's On Fire](https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1) | [She's On Fire](https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS) | 6:42 | 2022-09-14 | 2023-05-13 |
 | [Signs](https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK) | [Abyss \(Giuseppe Morabito\)](https://open.spotify.com/artist/0tIjbzsH79MTlMHrimk9SB), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Signs](https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9) | 3:18 | 2024-04-12 |  |
+| [So Long](https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aquatone](https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R) | [So Long](https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R) | 6:24 | 2024-05-03 |  |
 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 | 2023-05-12 | 2023-07-24 |
 | [Some Lovin'](https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Some Lovin'](https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx) | 3:56 | 2024-04-25 |  |
 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 | 2022-09-14 | 2023-02-06 |
 | [Stay For The Night](https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS) | [Skies Showers EP](https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0) | 8:50 | 2022-09-14 |  |
 | [Story](https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2) | [The AquaBlendz](https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA) | [Timeless Tales Ep](https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug) | 6:38 | 2024-04-25 |  |
 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 | 2022-09-14 |  |
-| [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 | 2022-09-14 |  |
+| [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 | 2022-09-14 | 2024-05-04 |
 | [Synonymous](https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Synonymous](https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55) | 6:52 | 2022-11-10 | 2023-11-30 |
 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 | 2024-01-25 | 2024-04-29 |
 | [The God Flex](https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu) | [Abiogenesis EP](https://open.spotify.com/album/2qg3O0ZMHlbzaAAtv5q36v) | 7:18 | 2022-09-14 | 2023-03-18 |

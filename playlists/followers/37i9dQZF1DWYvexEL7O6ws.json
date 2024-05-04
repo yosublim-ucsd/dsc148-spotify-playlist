@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 93378,
+  "2024-05-04": 93426,
   "date_first_scraped": "2023-06-30",
   "description": "The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon, Roy Woods, dvsn, and more. Cover: <a href=\"spotify:artist:3TVXtAsR1Inumwj472S9r4\">Drake</a> and Noah \"40\" Shebib",
   "name": "This Is OVO Sound",
@@ -437,6 +437,24 @@
       "duration_ms": 230750,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/2rGgIteiX209jWcsbS1MXq"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234075,
+      "name": "C h e e r s",
+      "url": "https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR"
     },
     {
       "album": {
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 121602,
       "name": "put yo gun 2 use ontheradar freestyle",
       "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"

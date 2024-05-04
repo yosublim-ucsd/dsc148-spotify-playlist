@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 92687,
+  "num_followers": 92712,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Minha Preta",
-        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
-      },
-      "artists": [
-        {
-          "name": "Bistro",
-          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "Minha Preta",
-      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Sorriso De Agog\u00f4",
         "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 196146,
       "name": "Sorriso De Agog\u00f4",
       "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Minha Preta",
+        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
+      },
+      "artists": [
+        {
+          "name": "Bistro",
+          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Minha Preta",
+      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "De Toda M\u00e3e",
-      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Lua Vai, Lua Vem",
         "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 216721,
       "name": "Lua Vai, Lua Vem",
       "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "De Toda M\u00e3e",
+      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
     },
     {
       "added_at": "2023-11-24 08:42:40",

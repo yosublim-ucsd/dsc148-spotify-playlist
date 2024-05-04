@@ -4,7 +4,7 @@
 
 > El futuro está acá.
 
-166 songs - 8 hr 39 min
+168 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2021-11-11 | 2022-07-29 |
 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 | 2023-06-01 |  |
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-06-01 |  |
+| [Adiós](https://open.spotify.com/track/0Jtn2mapkkdmNJy8NTGZNe) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Adiós](https://open.spotify.com/album/1j6TxzD6vU4bvHZ37pJwe7) | 3:12 | 2024-05-03 |  |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-06-01 |  |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2021-11-11 | 2023-06-02 |
 | [Al Revés](https://open.spotify.com/track/5K64lG2ppjQUFN2PzPU7DD) | [Antonio Algo](https://open.spotify.com/artist/3WAjQy7hVFE3aEQNKqTlWO) | [Cicatrices](https://open.spotify.com/album/1oSf2mO2rpzXVYVOCyKMe2) | 2:31 | 2023-06-01 |  |
@@ -80,6 +81,7 @@
 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 | 2021-11-11 | 2023-06-02 |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-11-11 | 2022-08-05 |
 | [I Wanna Do](https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [I Wanna Do](https://open.spotify.com/album/5nUXsB6JlORX1kE77OAfy1) | 1:50 | 2023-06-01 | 2023-08-24 |
+| [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 | 2024-05-03 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2021-11-11 | 2023-06-02 |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-08-26 |  |
 | [La Casualidad](https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [La Casualidad](https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw) | 3:39 | 2021-11-11 | 2023-06-02 |

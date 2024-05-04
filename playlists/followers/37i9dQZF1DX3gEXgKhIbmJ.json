@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 12554,
+  "2024-05-04": 12564,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Altos & Baixos",
+        "url": "https://open.spotify.com/album/3u4YGICGQ6g8bTePmymcCR"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137565,
+      "name": "Altos & Baixos",
+      "url": "https://open.spotify.com/track/24q0B9txCHQmn1AXPa95vP"
+    },
+    {
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -273,6 +291,24 @@
       "duration_ms": 123506,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5OdtravkfnSInKvZDAC4WH"
+    },
+    {
+      "album": {
+        "name": "LIT KING",
+        "url": "https://open.spotify.com/album/1MN2fMeIsJcWlX3aUmZT3s"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77424,
+      "name": "ARO 20",
+      "url": "https://open.spotify.com/track/5b0pG8v9U4QsRWnEpoAx5M"
     },
     {
       "album": {
@@ -1188,6 +1224,28 @@
     },
     {
       "album": {
+        "name": "Eles Dizem Me Amar",
+        "url": "https://open.spotify.com/album/3xUqdp7SGuTDVopkIpGbhu"
+      },
+      "artists": [
+        {
+          "name": "BaB",
+          "url": "https://open.spotify.com/artist/4IntnMtAydhIlsMwJv7nyx"
+        },
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134304,
+      "name": "Eles Dizem Me Amar",
+      "url": "https://open.spotify.com/track/3WmBu62aEEMj2yMYOhpWNn"
+    },
+    {
+      "album": {
         "name": "Empina e Toma",
         "url": "https://open.spotify.com/album/4DOnRDVBZjtgOQTq8RiluU"
       },
@@ -1848,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "jersey club \u201cviolin\u201d",
+        "url": "https://open.spotify.com/album/0bJ25qoZXeKXgOQNQPvw9h"
+      },
+      "artists": [
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153729,
+      "name": "jersey club \u201cviolin\u201d",
+      "url": "https://open.spotify.com/track/46sUJtk1GQlHct43GC4THX"
+    },
+    {
+      "album": {
         "name": "Jersey Nights",
         "url": "https://open.spotify.com/album/0TJkzLceZgXyZzXi2tJpJJ"
       },
@@ -1911,6 +1987,28 @@
       "duration_ms": 142342,
       "name": "LATINA",
       "url": "https://open.spotify.com/track/0EFqjnHd4S8ZWOK6EI9ILp"
+    },
+    {
+      "album": {
+        "name": "LINGERIE",
+        "url": "https://open.spotify.com/album/0ulXoe2khr8mDnfnic8ARc"
+      },
+      "artists": [
+        {
+          "name": "Aimar",
+          "url": "https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "LINGERIE",
+      "url": "https://open.spotify.com/track/7BAu2493qreRH66gxk5YLY"
     },
     {
       "album": {

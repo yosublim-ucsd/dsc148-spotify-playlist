@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Teri Baaton Mein Aisa Uljha Jiya
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Rocky Aur Rani Kii Prem Kahaani
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,598 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,123 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Tere Pyaar Mein \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO) | 4:26 |
 | 75 | [Baby Ko Bass Pasand Hai](https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Isheeta](https://open.spotify.com/artist/7BcWKKmwvuroPq4DkC1fxN), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:13 |
 
-Snapshot ID: `ZjM0nwAAAADp+AR0C3gBqiND+83TiMVs`
+Snapshot ID: `ZjStCgAAAABV4SIlBAWDDH3jBTnwr9Hg`

@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 8222483,
+  "2024-05-04": 8222760,
   "date_first_scraped": "2022-01-18",
-  "description": "Felipe e Rodrigo e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Thullio Milion\u00e1rio e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171100,
       "name": "Cama Repetida",
       "url": "https://open.spotify.com/track/5LycBidoF0kWptQYXEVPlx"
@@ -1907,6 +1907,44 @@
       "duration_ms": 221538,
       "name": "Conex\u00f5es de M\u00e1fia (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap"
+    },
+    {
+      "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213357,
+      "name": "CONFISS\u00d5ES PT1",
+      "url": "https://open.spotify.com/track/4OMSfAavn8k6HxZ0HwVtV1"
     },
     {
       "album": {
@@ -3087,7 +3125,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 169559,
       "name": "Eu N\u00e3o Dou Conta - Ao Vivo",
       "url": "https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY"
@@ -3427,6 +3465,28 @@
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/1jrBamLozddSX0DOjJTj31"
+    },
+    {
+      "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "album": {
@@ -3775,6 +3835,24 @@
       "duration_ms": 132922,
       "name": "Gostosinho Tu Cai",
       "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
+    },
+    {
+      "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110858,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
     },
     {
       "album": {
@@ -8454,6 +8532,24 @@
     },
     {
       "album": {
+        "name": "062 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Vazou Na Braquiara - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RX89Di479sc53wkaNgt9E"
+    },
+    {
+      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -8561,7 +8657,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
@@ -8775,7 +8871,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 271058,
       "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
       "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 31412,
+  "2024-05-04": 31445,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -2746,6 +2746,28 @@
     },
     {
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160036,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H"
+    },
+    {
+      "album": {
         "name": "Freeway",
         "url": "https://open.spotify.com/album/4fBfJVLmH5IF0qs8HAPksa"
       },
@@ -4712,6 +4734,24 @@
     },
     {
       "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
+    },
+    {
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -5149,7 +5189,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 173635,
       "name": "Minding My Business",
       "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
@@ -5891,7 +5931,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"

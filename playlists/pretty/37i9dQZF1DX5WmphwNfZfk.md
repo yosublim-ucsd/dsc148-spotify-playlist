@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Alicia Creti
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,141 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,144 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 |
 | 50 | [Bruised](https://open.spotify.com/track/3rrGP7jRgDEmfBMQWOQjsp) | [Laughing](https://open.spotify.com/artist/5WF5gT05O9c5XCF6kFal64) | [Bruised](https://open.spotify.com/album/7DZBe8bsdPu4X1MJkOGyLK) | 3:52 |
 
-Snapshot ID: `ZjRhQAAAAADNHvXfL3nEA+yFOeVP4Xva`
+Snapshot ID: `ZjU0RgAAAACjd1i+EboGTSI2bhS0N4r2`

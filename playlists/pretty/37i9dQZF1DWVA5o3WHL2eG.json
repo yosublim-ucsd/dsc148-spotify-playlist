@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 33973,
+  "num_followers": 33999,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Frag f\u00fcr ne Freundin",
         "url": "https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 150819,
       "name": "Frag f\u00fcr ne Freundin",
       "url": "https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Otto Normal",
         "url": "https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 157784,
       "name": "Otto Normal",
       "url": "https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "Zur Party",
+        "url": "https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4"
+      },
+      "artists": [
+        {
+          "name": "6euroneunzig",
+          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
+        }
+      ],
+      "duration_ms": 136857,
+      "name": "Zur Party",
+      "url": "https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "hello sunshine",
         "url": "https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 221038,
       "name": "F\u00fchl",
       "url": "https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "Zur Party",
-        "url": "https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4"
-      },
-      "artists": [
-        {
-          "name": "6euroneunzig",
-          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
-        }
-      ],
-      "duration_ms": 136857,
-      "name": "Zur Party",
-      "url": "https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -435,42 +435,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "ich hoff du brichst mir das herz",
-        "url": "https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb"
-      },
-      "artists": [
-        {
-          "name": "ma\u00efa",
-          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "ich hoff du brichst mir das herz",
-      "url": "https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "Two Bodies In A Bed",
-        "url": "https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L"
-      },
-      "artists": [
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        },
-        {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Two Bodies In A Bed",
-      "url": "https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Kreislauf",
         "url": "https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07"
       },
@@ -487,18 +451,18 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "entschuldigung",
-        "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
+        "name": "ich hoff du brichst mir das herz",
+        "url": "https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb"
       },
       "artists": [
         {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
         }
       ],
-      "duration_ms": 151108,
-      "name": "entschuldigung",
-      "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
+      "duration_ms": 160034,
+      "name": "ich hoff du brichst mir das herz",
+      "url": "https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -523,6 +487,42 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "Two Bodies In A Bed",
+        "url": "https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        },
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Two Bodies In A Bed",
+      "url": "https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "entschuldigung",
+        "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 151108,
+      "name": "entschuldigung",
+      "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "Four Days",
         "url": "https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 219972,
       "name": "Four Days",
       "url": "https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Nicht Ich",
+        "url": "https://open.spotify.com/album/7watQnItLt86vUTFSf7259"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Nicht Ich",
+      "url": "https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -567,22 +583,6 @@
       "duration_ms": 156363,
       "name": "DiEBiN",
       "url": "https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "Nicht Ich",
-        "url": "https://open.spotify.com/album/7watQnItLt86vUTFSf7259"
-      },
-      "artists": [
-        {
-          "name": "Madeline Juno",
-          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Nicht Ich",
-      "url": "https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "MESS",
-        "url": "https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb"
+        "name": "Poetry (for the scorned and lonely)",
+        "url": "https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL"
       },
       "artists": [
         {
-          "name": "SISKA",
-          "url": "https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3"
+      "duration_ms": 167583,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Poetry (for the scorned and lonely)",
-        "url": "https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL"
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "SISKA",
+          "url": "https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN"
         }
       ],
-      "duration_ms": 167583,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg"
+      "duration_ms": 167142,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "Kein Feuerwerk",
-        "url": "https://open.spotify.com/album/6ptzrTMrswVzRpbbVFrR1Q"
-      },
-      "artists": [
-        {
-          "name": "Karen",
-          "url": "https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb"
-        }
-      ],
-      "duration_ms": 162565,
-      "name": "Kein Feuerwerk",
-      "url": "https://open.spotify.com/track/3qwaxNH0LpkKgGeaY9iWUD"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Hoffe, dir geht's mies",
         "url": "https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193826,
       "name": "Hoffe, dir geht's mies",
       "url": "https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "Kein Feuerwerk",
+        "url": "https://open.spotify.com/album/6ptzrTMrswVzRpbbVFrR1Q"
+      },
+      "artists": [
+        {
+          "name": "Karen",
+          "url": "https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb"
+        }
+      ],
+      "duration_ms": 162565,
+      "name": "Kein Feuerwerk",
+      "url": "https://open.spotify.com/track/3qwaxNH0LpkKgGeaY9iWUD"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "GOLDEN DAYS",
-        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "GOLDEN DAYS",
-      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "Meere",
         "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 173359,
       "name": "Vergleiche",
       "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "GOLDEN DAYS",
+        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "GOLDEN DAYS",
+      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
     }
   ],
   "unique_name": "EQUAL GSA",

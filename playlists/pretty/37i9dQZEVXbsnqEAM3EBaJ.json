@@ -6,10 +6,90 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADpe2MpPjGBgFP82PCGoGYl",
+  "snapshot_id": "AAAAAAAAAADAbCjr89LAjc+X27411xoP",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Pandemonium II: The Battle of the Underworlds",
+        "url": "https://open.spotify.com/album/1opj1AGDdduavKpRdxqswt"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0bu102WXhNEytr3sKab6Wp"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Beautiful & Broken",
+        "url": "https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 208919,
+      "name": "Beautiful & Broken",
+      "url": "https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Totalmente Pose\u00eddos (Banda de Sonido Original de la Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/0SiqFBMYsazTSqhYxXrkjz"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 268211,
+      "name": "La Banquina de Alg\u00fan Lado",
+      "url": "https://open.spotify.com/track/0GYfW2lmrhKxPSPLGXwWzu"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Veritas",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "QWERTY (Live in Tokyo, 2006)",
         "url": "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/1ZUCprAO5NeQvI6yIqCtNX"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Pete Hammond Hi-NRG Remixes",
         "url": "https://open.spotify.com/album/03S6HcZLdd9IdKJOUfyX32"
@@ -45,7 +125,7 @@
       "url": "https://open.spotify.com/track/6zd5ReZh9qj0S8PYM8qAq3"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Crooked Boy",
         "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
@@ -61,7 +141,7 @@
       "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Nonetheless",
         "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
@@ -77,7 +157,7 @@
       "url": "https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl"
@@ -93,7 +173,7 @@
       "url": "https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "2 Song Acoustic Single",
         "url": "https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096"
@@ -113,7 +193,7 @@
       "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "100PRE YORO",
         "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
@@ -133,7 +213,7 @@
       "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
         "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
@@ -157,9 +237,9 @@
       "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "To Save a Child",
+        "name": "To Save A Child: An Intimate Live Concert",
         "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
       },
       "artists": [
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/3ThHAriukjvBCs91zisfhN"
@@ -189,7 +269,7 @@
       "url": "https://open.spotify.com/track/5WKQO6v5H1MjYTC2UroX7r"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Niebla",
         "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Vibraciones Superiores",
         "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
@@ -241,7 +321,7 @@
       "url": "https://open.spotify.com/track/3jp0Lig4UeEPeEUFmZkzxy"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Out Of The Shadows 2.0",
         "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
@@ -257,7 +337,7 @@
       "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Covenant + Sharks",
         "url": "https://open.spotify.com/album/1GXcOZVvAxXlXTMZ0JkYGs"
@@ -273,7 +353,7 @@
       "url": "https://open.spotify.com/track/7qMSo3gtxYwZvqWU3EekKs"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Krime Iz a Bizness 2",
         "url": "https://open.spotify.com/album/3bwCpDBUwK2tiYVC4fRfwq"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/41oqR5tkYYJWNRI0efZfcA"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Children's Album, Op. 39: No. 16 - Old French Song, Molto moderato",
         "url": "https://open.spotify.com/album/0lT0odRanrwCLZdFqhU2rN"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/1KnejpoCEbAOPmdu0qocKm"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Schakal 2024",
         "url": "https://open.spotify.com/album/7mH1TrpboegMnI25ILBzdc"
@@ -333,23 +413,7 @@
       "url": "https://open.spotify.com/track/2wPHfvoSX2jJFSecj7J9c0"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Buena Ruta Hermano",
-        "url": "https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Buena Ruta Hermano",
-      "url": "https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/75KzKVMbyJTK4QeDN4oBCa"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/0KcauaScxdQDQeYIHGbH6D"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "This Is The Way (feat. DMX)",
         "url": "https://open.spotify.com/album/5v62vw7EFG1nCGFqVVSxkB"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/2e0JD2w049iqr8Hoo2geu2"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/3sG1H6IHNKHO38uJg95ldk"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/06Z4ckMBakLA5TbHMtPo5y"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/5sT3xB9xKSdhmsfvMybK4K"
@@ -433,7 +497,7 @@
       "url": "https://open.spotify.com/track/0PywtXgECoKYMPUGsIJERV"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Nuestra guerra",
         "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
@@ -453,7 +517,7 @@
       "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Application For Release From The Dream",
         "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
@@ -469,7 +533,7 @@
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Bloodwren",
         "url": "https://open.spotify.com/album/56SLgCGA1eL3OFeRDpO8AY"
@@ -485,7 +549,7 @@
       "url": "https://open.spotify.com/track/6LTMY4Go1DL2ODu8sbzd2d"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Oral (Olof Dreijer Remix)",
         "url": "https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Let's Go Crazy Tonight (Live in Berlin)",
         "url": "https://open.spotify.com/album/57lI2dT90bg4H0sTS6wvL8"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/5aKSdqyXadMEo1RDm59T29"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Ultime Parole",
         "url": "https://open.spotify.com/album/1JIAumWFjyLMhO23UWYv7q"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/2ojcxuRm2guo83HxuGGbcr"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/2F0QTLIDxftmqszP8PwzuW"
@@ -597,7 +661,7 @@
       "url": "https://open.spotify.com/track/2C5JOOpoCqIykysmepkvyg"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "El Dios",
         "url": "https://open.spotify.com/album/0ILltRTb175nYtXtEiZNJV"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/1EjB9GyBPevH8tW0YPk79M"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Under My Umbrella",
         "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
@@ -641,7 +705,7 @@
       "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Unforgiven II",
         "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
@@ -657,7 +721,7 @@
       "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "People Are Good (Remixes)",
         "url": "https://open.spotify.com/album/6sLLqY8h5eINbeJZE8mYIk"
@@ -677,7 +741,7 @@
       "url": "https://open.spotify.com/track/0YZw12okgfcN1fVcg0n1iH"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
@@ -697,7 +761,7 @@
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "The Seven Laws",
         "url": "https://open.spotify.com/album/73BEnQ5IEdWmifXOYTx5L7"
@@ -725,7 +789,7 @@
       "url": "https://open.spotify.com/track/0kegL4mrbdvkbzJemHuZa4"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5q24cunZhuYVqbCLp1F01Q"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/11CCwCjixBQpz4I1pFBjfP"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0"

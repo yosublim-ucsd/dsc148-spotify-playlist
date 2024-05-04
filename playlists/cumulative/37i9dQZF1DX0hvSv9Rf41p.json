@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Riot Ten",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Tape B and Mersiv",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 160929,
       "name": "4am",
       "url": "https://open.spotify.com/track/68ojxu2S93yBPTJvoiJhZn"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 303428,
       "name": "Alien Communication",
       "url": "https://open.spotify.com/track/5l5eTWEYoBllCByeF4Zjwt"
@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Babylon (Don\u2019t Let Me Fall)",
+        "url": "https://open.spotify.com/album/6orC9EgteQrKlzhSZ3MdKY"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Babylon (Don\u2019t Let Me Fall)",
+      "url": "https://open.spotify.com/track/51hmyIDEDuZvddfZMp1SqF"
+    },
+    {
+      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
       },
@@ -1427,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Bass Drop",
+        "url": "https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140874,
+      "name": "Bass Drop",
+      "url": "https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK"
+    },
+    {
+      "album": {
         "name": "Bass In Yo Face",
         "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
       },
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 185142,
       "name": "Bite Your Lip pt. 2",
       "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
@@ -2551,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Caffeine Induced Psychosis",
+        "url": "https://open.spotify.com/album/3tuRzYthWtWZB3BsqBYQWA"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Caffeine Induced Psychosis",
+      "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
+    },
+    {
+      "album": {
         "name": "Call Of The Unicorn",
         "url": "https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1"
       },
@@ -2862,6 +2920,28 @@
       "duration_ms": 188571,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
+    },
+    {
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
     },
     {
       "album": {
@@ -4408,7 +4488,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
@@ -4740,7 +4820,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157966,
       "name": "EARTHQUAKE",
       "url": "https://open.spotify.com/track/4Of6ZpbrtS49Yr8CccEWrT"
@@ -5420,6 +5500,28 @@
       "duration_ms": 140999,
       "name": "F______ LOVE YOU",
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
+    },
+    {
+      "album": {
+        "name": "Faceplant On The Galaxy",
+        "url": "https://open.spotify.com/album/0lBvouAwxR05GhHMaItDmw"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285529,
+      "name": "Faceplant On The Galaxy",
+      "url": "https://open.spotify.com/track/4VtsLbU3MGaFRpAwFsbVcg"
     },
     {
       "album": {
@@ -7834,7 +7936,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
@@ -8458,7 +8560,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 241632,
       "name": "Insidious",
       "url": "https://open.spotify.com/track/0KlN0Cyk1wZA1kwFWJVZtN"
@@ -12742,7 +12844,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
@@ -12926,6 +13028,28 @@
       "duration_ms": 174857,
       "name": "REDLINE",
       "url": "https://open.spotify.com/track/2rAH5DmorvybHnY6wqFaIA"
+    },
+    {
+      "album": {
+        "name": "REGICIDE",
+        "url": "https://open.spotify.com/album/2TGOQClg0exn3cgKWkA8se"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "REGICIDE",
+      "url": "https://open.spotify.com/track/4Ic4NFdhUifY28MXwwlU51"
     },
     {
       "album": {
@@ -14775,6 +14899,32 @@
     },
     {
       "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/01ip3bMMo5fhWPGkXAZthN"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170482,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6ygUWJDpqwdTVV1Qfxixqo"
+    },
+    {
+      "album": {
         "name": "Overthrown (The Thrones of Blood Remix Album)",
         "url": "https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE"
       },
@@ -15108,7 +15258,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 249600,
       "name": "Stigma - Eptic Remix",
       "url": "https://open.spotify.com/track/0oi4fo1xgKrpcrL4NZo3ty"
@@ -15214,6 +15364,32 @@
       "duration_ms": 194558,
       "name": "Strictly 4 Tha",
       "url": "https://open.spotify.com/track/0qBIwcab1a5J8RDczBALuW"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123981,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
     },
     {
       "album": {
@@ -15354,6 +15530,28 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "album": {
+        "name": "Sweet Shop (Hamdi Remix)",
+        "url": "https://open.spotify.com/album/5TjOHQlI8CSEzMJCJyspZl"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274308,
+      "name": "Sweet Shop - Hamdi Remix",
+      "url": "https://open.spotify.com/track/6CdGDfcTOSSCsNd7jUW8RJ"
     },
     {
       "album": {
@@ -15644,7 +15842,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 155538,
       "name": "Tear Jerker",
       "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
@@ -16322,7 +16520,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 137553,
       "name": "Tiny Human",
       "url": "https://open.spotify.com/track/7luAcnwuoz3q8gxkKWG2kq"
@@ -16666,6 +16864,32 @@
       "duration_ms": 212935,
       "name": "Trip To Mars",
       "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
+    },
+    {
+      "album": {
+        "name": "Trippy Land",
+        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Trippy Land",
+      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
       "album": {
@@ -18032,7 +18256,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"

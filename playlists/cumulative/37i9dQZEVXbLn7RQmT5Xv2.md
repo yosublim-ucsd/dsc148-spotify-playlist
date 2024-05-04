@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-824 songs - 2 day 0 hr 9 min
+825 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [3latol](https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [3latol](https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx) | 3:08 | 2021-12-30 | 2022-01-15 |
 | [5 BEL\-7OB](https://open.spotify.com/track/3ta6tnPyY85NniRsBI4JeD) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 2:37 | 2021-12-30 | 2022-01-01 |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2021-08-10 | 2021-08-12 |
-| [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-03 |  |
+| [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-03 | 2024-05-04 |
 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 | 2022-05-18 | 2022-07-06 |
 | [7OB KHENA2](https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:44 | 2023-09-05 | 2023-12-01 |
 | [7Rb](https://open.spotify.com/track/1m7ffTBuZaatStOR8Gj0nc) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7Rb](https://open.spotify.com/album/6wJtU5I5ChMhFuV41xTHTB) | 2:48 | 2021-08-15 | 2021-09-16 |
@@ -510,6 +510,7 @@
 | [SAN STEFANO](https://open.spotify.com/track/0B6AYBv6KlwUwHtAIj9lzF) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/6KKkeRpV3Nf7QVouHOyqNR) | 2:57 | 2022-06-13 | 2022-07-21 |
 | [SAN STEFANO](https://open.spotify.com/track/2iFj2z7KNZjQfYZHVk02ZT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [SAN STEFANO](https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:57 | 2022-07-20 | 2022-07-29 |
+| [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-05-03 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2022-04-26 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-05-09 |
 | [Sawwah](https://open.spotify.com/track/3Xy4JokxMKrTP7OxKEXBWi) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 2:25 | 2023-10-05 | 2023-11-20 |
@@ -780,11 +781,11 @@
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-01 |  |
 | [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2023-10-03 |  |
 | [لما تضلم](https://open.spotify.com/track/0g2cQuLfbu8D5iaWQg9Txj) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/59Eme8mflDl9BF7dIJ7MGx) | 2:46 | 2024-03-20 | 2024-05-02 |
-| [لما تضلم](https://open.spotify.com/track/11dHZLY9Rfz8mPnydmSzwY) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/4ojGdRf3Ye98W9kCDHNzw6) | 2:46 | 2024-05-01 |  |
+| [لما تضلم](https://open.spotify.com/track/11dHZLY9Rfz8mPnydmSzwY) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/4ojGdRf3Ye98W9kCDHNzw6) | 2:46 | 2024-05-01 | 2024-05-04 |
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-27 | 2023-09-27 |
 | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/track/1VDFqucFhHuldAZGNYrNt1) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Farid](https://open.spotify.com/artist/60H8oTIvEmE39gGGVTfNku) | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/album/7eVzmFhRfoA5Xg576aoopt) | 3:21 | 2022-10-15 | 2022-10-19 |
 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 | 2023-11-16 | 2023-11-24 |
-| [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-07-24 | 2024-04-17 |
+| [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-07-24 |  |
 | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/track/0sRMA5RMTncLpfZ6Uk9Wi1) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC), [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG) | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/album/5SQGV3iWGYOKzxLNay9jad) | 2:48 | 2021-04-02 | 2021-10-24 |
 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2023-12-04 | 2024-04-16 |
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-06-23 | 2023-12-05 |

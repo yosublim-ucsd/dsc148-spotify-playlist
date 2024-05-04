@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 268122,
       "name": "Before",
       "url": "https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 279786,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33"
@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
@@ -6890,6 +6890,24 @@
       "duration_ms": 236493,
       "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "album": {
+        "name": "I Am Easy to Find",
+        "url": "https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Rylan",
+      "url": "https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1"
     },
     {
       "album": {

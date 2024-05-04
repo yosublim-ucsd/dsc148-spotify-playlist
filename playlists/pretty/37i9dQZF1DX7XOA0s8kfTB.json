@@ -1,15 +1,15 @@
 {
   "description": "Music from \u201cGirls Band Cry\u201d / \u30a2\u30cb\u30e1\u300e<a href=\"https://girls-band-cry.com/\">\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30af\u30e9\u30a4</a>\u300f\u3092\u5f69\u308b\u6570\u3005\u306e\u697d\u66f2\u9054\u304c\u3053\u3053\u306b\u3002\u6012\u308a\u3082\u559c\u3073\u3082\u54c0\u3057\u3055\u3082\u5168\u90e8\u3076\u3061\u3053\u3081\u3002  \u00a9\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-  "num_followers": 2133,
+  "num_followers": 2201,
   "original_name": "Girls Band Cry \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30af\u30e9\u30a4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiKG8AAAAABtYsuCW/RH/IHyukLghS2h",
+  "snapshot_id": "ZjUzfwAAAADCSpBV0e3+9VoyENVLxcRt",
   "tracks": [
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
         "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
+      "album": {
+        "name": "\u65b0\u5ddd\u5d0e\uff08\u4eee\uff09 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza"
+      },
+      "artists": [
+        {
+          "name": "\u300c\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30af\u30e9\u30a4\u300d",
+          "url": "https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1"
+        }
+      ],
+      "duration_ms": 28117,
+      "name": "\u65b0\u5ddd\u5d0e\uff08\u4eee\uff09 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE"
+    },
+    {
+      "added_at": "2024-05-03 18:57:03",
+      "album": {
+        "name": "\u8996\u754c\u306e\u9685 \u673d\u3061\u308b\u97f3 (\u65b0\u5ddd\u5d0e\uff08\u4eee\uff09)",
+        "url": "https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "\u8996\u754c\u306e\u9685 \u673d\u3061\u308b\u97f3 - \u65b0\u5ddd\u5d0e\uff08\u4eee\uff09",
+      "url": "https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9"
+    },
+    {
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u58f0\u306a\u304d\u9b5a (\u65b0\u5ddd\u5d0e\uff08\u4eee\uff09)",
         "url": "https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u7a7a\u306e\u7bb1 (\u4e95\u82b9\u4ec1\u83dc\u3001\u6cb3\u539f\u6728\u6843\u9999)",
         "url": "https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u8ab0\u306b\u3082\u306a\u308c\u306a\u3044\u79c1\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "Vo. \u4e95\u82b9 \u4ec1\u83dc \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/0Ir9TfyqxdDeIXDnYszTUh"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/3TXOno2ekRTwZR39KrmvSF"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u540d\u3082\u306a\u304d\u4f55\u3082\u304b\u3082",
         "url": "https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u507d\u308a\u306e\u7406",
         "url": "https://open.spotify.com/album/20nzrK1EPA0yAzHm8GMfj7"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/0utotNyTQgcj3ryT8FuAVu"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "Gt. \u6cb3\u539f\u6728 \u6843\u9999 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u6c17\u9b31\u3001\u767d\u6fc1\u3059",
         "url": "https://open.spotify.com/album/2gqiFS1rMMBYjrPi7NtFzn"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/2wxq162dGuXaQuhFMbgLSp"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u7406\u60f3\u7684\u30d1\u30e9\u30c9\u30af\u30b9\u3068\u306f",
         "url": "https://open.spotify.com/album/44MHX9OKTB297w51I0TfXM"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/5TNgYaeJdFjrR9BfsEmwDY"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "Dr. \u5b89\u548c \u3059\u3070\u308b \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u7206\u305c\u3066\u54b2\u304f",
         "url": "https://open.spotify.com/album/5Fiv8V10wlCa5Cop5FMmxr"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/615jr8wFWfeTiRhfAHSG9D"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u9ece\u660e\u3092\u7a7f\u3064",
         "url": "https://open.spotify.com/album/7Ds0BL9lcPgWVqfZJloAIo"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/7A6Ase9m9II2njZuHLOFq5"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "Key. \u6d77\u8001\u585a \u667a \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/0eQW6RYzETuvSjTKFEjM8P"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/6qrAG1fMnWCzaTGsB5mES0"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u6975\u79c1\u7684\u6975\u5f69\u8272\u30a2\u30f3\u30b5\u30fc",
         "url": "https://open.spotify.com/album/4RJ3m1en7gKpVGpXTNjCdM"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/3wemos54Nu8zliDXfDjfvK"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u50b7\u3064\u304d\u50b7\u3064\u3051\u75db\u304f\u3066\u8f9b\u3044",
         "url": "https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/2185RCcistacxWByF55kAz"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "Ba. \u30eb\u30d1 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u904b\u547d\u306b\u8ced\u3051\u305f\u3044\u8ad6\u7406",
         "url": "https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0"
     },
     {
-      "added_at": "2024-04-19 15:00:00",
+      "added_at": "2024-05-03 18:57:03",
       "album": {
         "name": "\u30b5\u30e8\u30ca\u30e9\u30b5\u30e8\u30ca\u30e9\u30b5\u30e8\u30ca\u30e9",
         "url": "https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0"

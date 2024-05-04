@@ -1,12 +1,12 @@
 {
-  "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
-  "num_followers": 3762,
+  "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
+  "num_followers": 3761,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADRescdM9CcF0WOCOmmoHlZ",
+  "snapshot_id": "ZjLXgAAAAACa74HSnK/arn/5lyNtg0Sg",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 83626,
-      "name": "Bueno, Bueno Probando",
-      "url": "https://open.spotify.com/track/0UmWL3lUXe5iFUh6dJE5wg"
+      "duration_ms": 191893,
+      "name": "Busca Amor",
+      "url": "https://open.spotify.com/track/0zE9OCKsW0KsxSF7PXiWzJ"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Busca Amor",
-      "url": "https://open.spotify.com/track/0zE9OCKsW0KsxSF7PXiWzJ"
+      "duration_ms": 83626,
+      "name": "Bueno, Bueno Probando",
+      "url": "https://open.spotify.com/track/0UmWL3lUXe5iFUh6dJE5wg"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 458866,
-      "name": "La Balona de la Conquista",
-      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
+      "duration_ms": 150626,
+      "name": "Favor de Llenar Con Letra de Molde",
+      "url": "https://open.spotify.com/track/01AYELgjTZcl4YUBFXx9ON"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 150626,
-      "name": "Favor de Llenar Con Letra de Molde",
-      "url": "https://open.spotify.com/track/01AYELgjTZcl4YUBFXx9ON"
+      "duration_ms": 458866,
+      "name": "La Balona de la Conquista",
+      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naco Es Chido",
-        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Todos Tienen Tortita",
-      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180306,
       "name": "Dulce Amor",
       "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Todos Tienen Tortita",
+      "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naco Es Chido",
-        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Cancion Para Un Arma\u00f1o",
-      "url": "https://open.spotify.com/track/1BaFuldYAV0jxVdWFPaCIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El \u00daltimo Guacarrock (En Vivo)",
         "url": "https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 217853,
       "name": "El Guacarock Del Santo - En Vivo",
       "url": "https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Cancion Para Un Arma\u00f1o",
+      "url": "https://open.spotify.com/track/1BaFuldYAV0jxVdWFPaCIO"
     },
     {
       "added_at": null,

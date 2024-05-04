@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Cupnoodle
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,246 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,268 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EX](https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [EX](https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig) | 2:51 |
+| 1 | [EX](https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [EX](https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig) | 3:28 |
 | 2 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 |
 | 3 | [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 |
 | 4 | [delusional love](https://open.spotify.com/track/7iN4YBqCJidMv7Wz8lCadp) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [BRINX](https://open.spotify.com/artist/5CFCafUWBxZKHHlHCMEaIk) | [delusional love](https://open.spotify.com/album/3PKngp08hrS83muNQrjSw8) | 2:29 |

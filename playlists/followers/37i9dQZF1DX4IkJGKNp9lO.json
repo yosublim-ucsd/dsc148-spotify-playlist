@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 31380,
+  "2024-05-04": 31388,
   "date_first_scraped": "2021-12-21",
   "description": "",
   "name": "Svensk Punk",
@@ -703,6 +703,24 @@
       "duration_ms": 68638,
       "name": "Boostade Egon",
       "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
+    },
+    {
+      "album": {
+        "name": "Boulder Dash",
+        "url": "https://open.spotify.com/album/1rZebCDKD6CnEwQih6iAHl"
+      },
+      "artists": [
+        {
+          "name": "Korslagda Kukar",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214167,
+      "name": "Boulder Dash",
+      "url": "https://open.spotify.com/track/6Pg9ifIvNc6yOyXuGJI7LA"
     },
     {
       "album": {
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 148653,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/34LbkBmXcOH2NaBJWm4I8L"
@@ -3059,6 +3077,24 @@
       "duration_ms": 138040,
       "name": "L\u00e5t dom brinna",
       "url": "https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm"
+    },
+    {
+      "album": {
+        "name": "Link\u00f6ping!",
+        "url": "https://open.spotify.com/album/3jkDhyKS24VVhvUU93Ul11"
+      },
+      "artists": [
+        {
+          "name": "Knifven",
+          "url": "https://open.spotify.com/artist/3XjDzkzNYvDrUU23wbQwYi"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74465,
+      "name": "L\u00c5T MIG D\u00d6",
+      "url": "https://open.spotify.com/track/3xsfRcllce9q5KSo5KYHKc"
     },
     {
       "album": {
@@ -5575,7 +5611,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 187173,
       "name": "\u00c4lska Mig",
       "url": "https://open.spotify.com/track/3UQTJo6Hck0rknKPIX0tDa"

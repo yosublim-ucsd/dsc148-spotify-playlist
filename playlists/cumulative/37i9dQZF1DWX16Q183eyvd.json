@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180444,
       "name": "Get You A Friend",
       "url": "https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ"
@@ -826,6 +826,28 @@
       "duration_ms": 186093,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1T4TCM0A22kV5Ts0MhDas9"
+    },
+    {
+      "album": {
+        "name": "Happy Mother's Day",
+        "url": "https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Happy Mother's Day",
+      "url": "https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM"
     },
     {
       "album": {
@@ -1854,7 +1876,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 170594,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph"

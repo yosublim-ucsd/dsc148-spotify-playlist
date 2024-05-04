@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Emei",
-  "num_followers": 54483,
+  "num_followers": 55304,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,22 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+        "name": "1:59 (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+      "duration_ms": 192089,
+      "name": "1:59 (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -143,22 +147,18 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "1:59 (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
       },
       "artists": [
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 192089,
-      "name": "1:59 (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -387,18 +387,34 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+        "name": "Ranchero",
+        "url": "https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+      "duration_ms": 175094,
+      "name": "Ranchero",
+      "url": "https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK"
+    },
+    {
+      "added_at": "2024-05-02 14:43:42",
+      "album": {
+        "name": "BIG UP",
+        "url": "https://open.spotify.com/album/0iTK7j6vohHdBI7DwdUf1d"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 160748,
+      "name": "BIG UP",
+      "url": "https://open.spotify.com/track/78QfJ1zk7Tae5gTOHFI6I2"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -423,34 +439,18 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "BIG UP",
-        "url": "https://open.spotify.com/album/0iTK7j6vohHdBI7DwdUf1d"
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
       "artists": [
         {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 160748,
-      "name": "BIG UP",
-      "url": "https://open.spotify.com/track/78QfJ1zk7Tae5gTOHFI6I2"
-    },
-    {
-      "added_at": "2024-05-02 14:43:42",
-      "album": {
-        "name": "Ranchero",
-        "url": "https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 175094,
-      "name": "Ranchero",
-      "url": "https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 173823,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
-    },
-    {
-      "added_at": "2024-05-02 14:43:42",
-      "album": {
         "name": "I Ain't A Cowgirl",
         "url": "https://open.spotify.com/album/7vQmGhj7VW4TM4YeBN1nRW"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 181148,
       "name": "I Ain't A Cowgirl",
       "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "added_at": "2024-05-02 14:43:42",
+      "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "World on a String",
-        "url": "https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "World on a String",
-      "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
-    },
-    {
-      "added_at": "2024-05-02 14:43:42",
-      "album": {
         "name": "Scary Love",
         "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 180603,
       "name": "Scary Love",
       "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
+    },
+    {
+      "added_at": "2024-05-02 14:43:42",
+      "album": {
+        "name": "World on a String",
+        "url": "https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
     },
     {
       "added_at": "2024-05-02 14:43:42",

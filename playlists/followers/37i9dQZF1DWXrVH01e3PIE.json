@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 627866,
+  "2024-05-04": 627779,
   "date_first_scraped": "2022-01-24",
-  "description": "Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea en la casa del Trap Argentino.",
+  "description": "Rei en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1765,6 +1765,28 @@
       "duration_ms": 163468,
       "name": "eternidad",
       "url": "https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o"
+    },
+    {
+      "album": {
+        "name": "Factos",
+        "url": "https://open.spotify.com/album/4GAfjkvxRN1ZvGvUnOEavK"
+      },
+      "artists": [
+        {
+          "name": "Nissa",
+          "url": "https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy"
+        },
+        {
+          "name": "ENEZ 4R",
+          "url": "https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122040,
+      "name": "Factos",
+      "url": "https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu"
     },
     {
       "album": {
@@ -3539,7 +3561,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 159306,
       "name": "NO PARA",
       "url": "https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO"
@@ -4202,6 +4224,24 @@
     },
     {
       "album": {
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/1jyyGmiWCqNtxMN7HhVQhD"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/3XB1ccS8WJXTG3QbDqiK8J"
+    },
+    {
+      "album": {
         "name": "Pro Player",
         "url": "https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL"
       },
@@ -4477,7 +4517,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 240956,
       "name": "Sabio",
       "url": "https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge"

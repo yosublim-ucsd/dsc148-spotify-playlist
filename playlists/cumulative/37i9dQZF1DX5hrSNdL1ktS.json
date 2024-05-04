@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Bebe Ricota",
+        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Bebe Ricota",
+      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
+    },
+    {
+      "album": {
         "name": "Amores Pasajeros",
         "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 170322,
       "name": "Cochinadas",
       "url": "https://open.spotify.com/track/4RT7qqEVp1YTol9JVx6BtC"
@@ -4553,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Kataplum",
+        "url": "https://open.spotify.com/album/165U9s9XRuWNboVoXn36yz"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120863,
+      "name": "Kataplum",
+      "url": "https://open.spotify.com/track/70wZmIVcoYjJnEwjXJKIp9"
+    },
+    {
+      "album": {
         "name": "Kawasaki",
         "url": "https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB"
       },
@@ -5962,7 +6002,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 221481,
       "name": "Marroneo",
       "url": "https://open.spotify.com/track/3V012HJBXI5lpCildeHAFA"
@@ -8693,6 +8733,28 @@
     },
     {
       "album": {
+        "name": "Regreso La Bandida",
+        "url": "https://open.spotify.com/album/7r3fxEf6qc40MwtJwhpsDQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Martinez",
+          "url": "https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Regreso La Bandida",
+      "url": "https://open.spotify.com/track/1yuTlON3xyN2JeefcL0080"
+    },
+    {
+      "album": {
         "name": "ReSURrecci\u00f3n",
         "url": "https://open.spotify.com/album/4Zl4spMsauBbw3Dr4YGOGJ"
       },
@@ -10665,6 +10727,28 @@
     },
     {
       "album": {
+        "name": "U R SUCH A LAME! (RMX)",
+        "url": "https://open.spotify.com/album/0AzBQzdTwYYk9aHSqyffWT"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167184,
+      "name": "U R SUCH A LAME! - RMX",
+      "url": "https://open.spotify.com/track/5UWWDzGBAQgN3BIxh6ZFmX"
+    },
+    {
+      "album": {
         "name": "Un Putero (feat. Aguila DS & Gogo Mix)",
         "url": "https://open.spotify.com/album/5XHqZKDZGg0kPrGmgfl4vw"
       },
@@ -10736,7 +10820,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 194042,
       "name": "Una Noche",
       "url": "https://open.spotify.com/track/0PByhmyCwq9MCyc0MRJ0IV"
@@ -10758,7 +10842,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 214666,
       "name": "UNA RAYA M\u00c1S",
       "url": "https://open.spotify.com/track/6xXbyR2OEM4GlnvKH1t45Z"

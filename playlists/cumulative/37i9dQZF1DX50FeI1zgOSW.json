@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 186285,
       "name": "Chance eh ille",
       "url": "https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 285354,
       "name": "Kaadhal Payanam",
       "url": "https://open.spotify.com/track/5VK3lmgiBIARsq2ZoJxLJl"
@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Kannadi Mugam",
+        "url": "https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM"
+      },
+      "artists": [
+        {
+          "name": "Vishnu",
+          "url": "https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212504,
+      "name": "Kannadi Mugam",
+      "url": "https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2"
+    },
+    {
+      "album": {
         "name": "Kannil Veesum",
         "url": "https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ"
       },
@@ -2385,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Laila x Majnu",
+        "url": "https://open.spotify.com/album/3KkCR3h70DWMcqgZvLzDNA"
+      },
+      "artists": [
+        {
+          "name": "Swag Madrasis",
+          "url": "https://open.spotify.com/artist/2FIDxch0IdXQcBEpwoknbQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Laila x Majnu",
+      "url": "https://open.spotify.com/track/3TDazJP7kKplHUlG0vL3Po"
+    },
+    {
+      "album": {
         "name": "Enakkena Oru Ulagam",
         "url": "https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv"
       },
@@ -2587,6 +2623,32 @@
     },
     {
       "album": {
+        "name": "Malare",
+        "url": "https://open.spotify.com/album/29nOM78m3iF0BIo9mviX9c"
+      },
+      "artists": [
+        {
+          "name": "V. Sanjeev",
+          "url": "https://open.spotify.com/artist/116P1Hzh4SnY9KN2tAkAR2"
+        },
+        {
+          "name": "Sikkil Gurucharan",
+          "url": "https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt"
+        },
+        {
+          "name": "Ramesh Ramamoorthy",
+          "url": "https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/1ZDiBP33aBD82QORUFDI88"
+    },
+    {
+      "album": {
         "name": "Malarum Vazhvey",
         "url": "https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn"
       },
@@ -2638,7 +2700,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 240000,
       "name": "Manam",
       "url": "https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK"
@@ -2664,7 +2726,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 271698,
       "name": "Manidha",
       "url": "https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs"
@@ -3591,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Ohh baby",
+        "url": "https://open.spotify.com/album/5sFnKxanj2GfkBDYylVdpB"
+      },
+      "artists": [
+        {
+          "name": "Pakeecbala",
+          "url": "https://open.spotify.com/artist/7CiXx6zWGKJBrQgbnSNQAa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ohh baby",
+      "url": "https://open.spotify.com/track/3OFcjtynBhxIo7bqicTMHI"
+    },
+    {
+      "album": {
         "name": "OORO",
         "url": "https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df"
       },
@@ -4481,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Suzhal",
+        "url": "https://open.spotify.com/album/3Q3B9SVmJeVTJc7cL9PAwI"
+      },
+      "artists": [
+        {
+          "name": "Hari",
+          "url": "https://open.spotify.com/artist/2mZB29tnf9O6e16nZ2FlMX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257338,
+      "name": "Suzhal",
+      "url": "https://open.spotify.com/track/4iSofwCbRsGuZtIu0gXG4I"
+    },
+    {
+      "album": {
         "name": "Teddy Bear",
         "url": "https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k"
       },
@@ -4926,7 +5024,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 242700,
       "name": "Theera",
       "url": "https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO"
@@ -5346,7 +5444,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 236769,
       "name": "Vachi Seiyapora",
       "url": "https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF"
@@ -5582,6 +5680,32 @@
       "duration_ms": 193920,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq"
+    },
+    {
+      "album": {
+        "name": "VIDHI",
+        "url": "https://open.spotify.com/album/3ONnO67FNhUtCLLJQspqsQ"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Abin Pushpakaran",
+          "url": "https://open.spotify.com/artist/0HsJJ771AQsRIYA6859JYs"
+        },
+        {
+          "name": "Varsha Baskar",
+          "url": "https://open.spotify.com/artist/4OPgvsG0jW3c4R2hIldZii"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "VIDHI",
+      "url": "https://open.spotify.com/track/7rLl8RpMQvhPRGwlCBZk11"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 117440,
+  "2024-05-04": 117428,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Uruguay.",
   "name": "Top 50 - Uruguay",
@@ -12273,7 +12273,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 131032,
       "name": "QUE SED",
       "url": "https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR"
@@ -16667,7 +16667,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157021,
       "name": "Ya no me duele :,)",
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"

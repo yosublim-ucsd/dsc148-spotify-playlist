@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/5w9BlHIKDG74ubSX27vbOv"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/3sUak4xuJrHWPsetV4BUQi"
+    },
+    {
+      "album": {
         "name": "Lightwerker",
         "url": "https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo"
       },

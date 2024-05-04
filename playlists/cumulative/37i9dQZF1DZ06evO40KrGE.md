@@ -2,7 +2,7 @@
 
 ### [This Is Cassiane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40KrGE)
 
-> This Is Cassiane\. Los temas esenciales, todos en una lista.
+> This is Cassiane\. The essential tracks, all in one playlist.
 
 62 songs - 5 hr 18 min
 

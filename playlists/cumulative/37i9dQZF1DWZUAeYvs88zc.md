@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-528 songs - 1 day 5 hr 41 min
+529 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Forgive Me \(feat\. Izzy Bizu\)](https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:28 | 2022-07-28 | 2023-01-29 |
 | [Forgive Myself](https://open.spotify.com/track/4upXlYzMHIwAd8fR2cp6sp) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Forgive Myself](https://open.spotify.com/album/4zYpRSmCxbwKtFaoHhezsG) | 2:53 | 2020-05-31 | 2021-10-02 |
 | [Fragile](https://open.spotify.com/track/3ZiU5siL7ZMYpakEg6X9Q9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:47 | 2019-07-28 | 2019-08-08 |
+| [French Exit](https://open.spotify.com/track/7nFYnsLIX8EhyFJcPgdIDX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:21 | 2024-05-03 |  |
 | [Friendly Fire](https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:42 | 2021-11-14 | 2022-07-29 |
 | [fuck, i'm lonely](https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [fuck, i'm lonely](https://open.spotify.com/album/60sI3iRfHfu7YpcTpZ29W1) | 3:18 | 2019-08-02 | 2021-10-02 |
 | [Get Outta My Heart](https://open.spotify.com/track/7GqKsFVvsP3SVNQmrmGZSG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:00 | 2023-02-07 | 2023-02-25 |
@@ -280,7 +281,7 @@
 | [Losing You \- Spotify Singles](https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Joe Cleere](https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA) | [Losing You \- Spotify Singles](https://open.spotify.com/album/4mvTc8TXIbBjfruHuuwk4m) | 3:00 | 2023-12-08 | 2024-02-22 |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2020-06-01 | 2021-10-23 |
 | [Loud Places](https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 4:43 | 2019-07-27 | 2020-08-07 |
-| [Love Affair](https://open.spotify.com/track/1nIsNBlsG7ZQ8qXyLPmUmN) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Love Affair](https://open.spotify.com/album/3cfciCisNLUnGAdeGy7xGj) | 2:52 | 2024-04-15 |  |
+| [Love Affair](https://open.spotify.com/track/1nIsNBlsG7ZQ8qXyLPmUmN) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Love Affair](https://open.spotify.com/album/3cfciCisNLUnGAdeGy7xGj) | 2:52 | 2024-04-15 | 2024-05-04 |
 | [Love for a Minute](https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 3:11 | 2022-01-21 | 2022-06-18 |
 | [Love Me](https://open.spotify.com/track/53hNIcq8OLj9OUNvQ4ulFM) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me](https://open.spotify.com/album/61v9VKrjIIoWWJD2tdVR4J) | 3:14 | 2019-05-26\* | 2021-05-24 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,720 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,768 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

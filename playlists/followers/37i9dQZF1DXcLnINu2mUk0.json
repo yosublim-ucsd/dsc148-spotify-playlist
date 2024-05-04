@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 45347,
+  "2024-05-04": 45347,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jo\u00e3o Maia Ferreira e Alex D'Alva.",
   "name": "Seda",
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171327,
       "name": "Blunted",
       "url": "https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN"
@@ -5351,7 +5351,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 205862,
       "name": "IN\u00cdCIO",
       "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
@@ -7253,7 +7253,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153288,
       "name": "NIAGARA",
       "url": "https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M"
@@ -7355,6 +7355,24 @@
       "duration_ms": 177900,
       "name": "No Stress No Money",
       "url": "https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg"
+    },
+    {
+      "album": {
+        "name": "Noites Que Vivemos",
+        "url": "https://open.spotify.com/album/4iU0kHCPV9WMLIUkShArY1"
+      },
+      "artists": [
+        {
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163468,
+      "name": "Noites Que Vivemos",
+      "url": "https://open.spotify.com/track/541PcUR69GcPpoDBo83vys"
     },
     {
       "album": {
@@ -10460,6 +10478,24 @@
     },
     {
       "album": {
+        "name": "S\u00d3 MAIS UMA VEZ",
+        "url": "https://open.spotify.com/album/3oc4vzAfvhjUVzbSAPwdD6"
+      },
+      "artists": [
+        {
+          "name": "Mkmike",
+          "url": "https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215969,
+      "name": "S\u00d3 MAIS UMA VEZ",
+      "url": "https://open.spotify.com/track/4Mqu73Obe19D1UGNX16ad0"
+    },
+    {
+      "album": {
         "name": "S\u00f3 N\u00f3s Os Dois",
         "url": "https://open.spotify.com/album/0PBeGaks9i9J7Ho4uqQx8W"
       },
@@ -12047,6 +12083,32 @@
       "duration_ms": 148467,
       "name": "\u00e2ngulo morto",
       "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Mentira",
+        "url": "https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD"
+      },
+      "artists": [
+        {
+          "name": "Easy B",
+          "url": "https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP"
+        },
+        {
+          "name": "MIRZA Lauchand",
+          "url": "https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl"
+        },
+        {
+          "name": "YINIH",
+          "url": "https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244660,
+      "name": "\u00c9 Mentira",
+      "url": "https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx"
     },
     {
       "album": {

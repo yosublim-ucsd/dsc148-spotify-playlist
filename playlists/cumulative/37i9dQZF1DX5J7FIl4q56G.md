@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Dååth
 
-6,333 songs - 17 day 21 hr 8 min
+6,334 songs - 17 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5084,6 +5084,7 @@
 | [Survive](https://open.spotify.com/track/6JydHiroBYCSN0g7WQpT3T) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Survive](https://open.spotify.com/album/0PVXD1dZtR07zTpA8PJcqJ) | 4:39 | 2022-06-06 | 2022-06-10 |
 | [Susi](https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [UKKO](https://open.spotify.com/album/1dhIUr4d0OPP58yIjnB1m1) | 4:03 | 2021-12-17 | 2022-01-21 |
 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 | 2023-05-26 | 2023-10-28 |
+| [Sw\(Er\)](https://open.spotify.com/track/5WaOsR3KpuAOqe5T5Whq9d) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Xander Raymond Charles](https://open.spotify.com/artist/0zFeLakYduCcgoJ1ZmK2CH) | [Sw\(Er\)](https://open.spotify.com/album/0NHre0p1sVTB8raiUCOJtb) | 3:21 | 2024-05-03 |  |
 | [Swallowed By The Earth](https://open.spotify.com/track/4L6XoVXkIznbbnptvFyMk0) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Swallowed By The Earth](https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB) | 3:26 | 2023-10-06 | 2023-10-14 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2022-09-24 |
 | [Swan Song](https://open.spotify.com/track/64q2xOrEX0Vmlmu2ywX4YG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Swan Song](https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue) | 3:56 | 2022-04-29 | 2022-05-06 |
@@ -5820,7 +5821,7 @@
 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 | 2023-09-08 | 2023-09-16 |
 | [Undone](https://open.spotify.com/track/1JCX4KXgGY2n5VuMbGt3DY) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S) | [Undone](https://open.spotify.com/album/2Id7DSsoHJQUBS6ZFGQmBq) | 3:10 | 2022-05-20 | 2022-05-27 |
 | [Unfamiliar](https://open.spotify.com/track/2QU5VC9WgWdbktHKBrKKNX) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 3:44 | 2023-05-05 | 2023-05-13 |
-| [Unforgiveable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-03 |  |
+| [Unforgivable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-03 |  |
 | [Unforgiven](https://open.spotify.com/track/09S44mRSYf0VqBdwFdQXf7) | [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Unforgiven](https://open.spotify.com/album/37MrG2pMTHqdMFINf1GGYR) | 4:25 | 2022-11-18 | 2022-11-26 |
 | [Unforgotten](https://open.spotify.com/track/6vRl3nayCFYs8XATz9sjX5) | [Across The Divide](https://open.spotify.com/artist/0nSiDv4EGEzX8Gozbw5Qxe) | [Unforgotten](https://open.spotify.com/album/01A753ghJk78KsYT4MPQfJ) | 3:47 | 2023-02-24 | 2023-03-04 |
 | [UNGØD](https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [UNGØD](https://open.spotify.com/album/350e8e4wldgOMcThEOffvj) | 3:47 | 2024-02-16 | 2024-02-24 |

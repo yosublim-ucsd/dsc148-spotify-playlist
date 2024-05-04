@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-82 songs - 4 hr 44 min
+84 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 | 2024-04-19 |
 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 |  |
 | [Find Your Way \- Acoustic](https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 3:39 | 2023-06-30 | 2023-09-02 |
-| [Fuego](https://open.spotify.com/track/7EDyotg14mU02A92I7MIkF) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:29 | 2023-06-30 |  |
+| [Fuego](https://open.spotify.com/track/7EDyotg14mU02A92I7MIkF) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:29 | 2023-06-30 | 2024-05-04 |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-06-30 |  |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-22 |  |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-06-30 |  |
@@ -44,10 +44,11 @@
 | [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-30 | 2024-03-16 |
 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 | 2024-03-22 |  |
 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 |  |
+| [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 | 2024-05-03 |  |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 | 2024-04-27 |
 | [My Light](https://open.spotify.com/track/0ODhQkKwD6Sg3nIFK7GD7R) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [Let The Light In EP](https://open.spotify.com/album/3KcggRmGrhbU47A71dJ4HH) | 6:01 | 2023-06-30 | 2023-10-24 |
-| [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 |  |
+| [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 |  |
 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 | 2023-12-15 |  |
 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-11-10 |  |
@@ -56,6 +57,7 @@
 | [Pineapple Drink](https://open.spotify.com/track/3EiV7BXmyIEJbUYpulc7Kj) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Katelyn Skye](https://open.spotify.com/artist/32GN439n6P2c3lwfWJMYi2) | [The Lost Tapes](https://open.spotify.com/album/5gKtx3nrdXfYNrZPI4b42h) | 3:04 | 2023-06-30 | 2024-02-23 |
 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 |  |
+| [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 |  |
 | [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 | 2024-02-09 |
 | [Run](https://open.spotify.com/track/4pHXSEahOasITwRbwWePta) | [Gathuru Gitema](https://open.spotify.com/artist/0KkdhbWTLEsThAKdRuwZt1) | [Run](https://open.spotify.com/album/3jtUo5zpNxH0Rom0xR0dXX) | 4:11 | 2023-06-30 | 2024-02-23 |
 | [Runaway](https://open.spotify.com/track/3T6SSkt8wFNAbRXr059GEL) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Why Am I](https://open.spotify.com/album/0UpzcwYzTv2bexQrNwboyh) | 4:00 | 2023-06-30 |  |

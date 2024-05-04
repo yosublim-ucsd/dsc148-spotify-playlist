@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 439827,
+  "2024-05-04": 439915,
   "date_first_scraped": "2020-10-20",
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
   "name": "This Is Ti\u00ebsto",
@@ -5081,6 +5081,32 @@
       "duration_ms": 124600,
       "name": "Miami (Original Mix)",
       "url": "https://open.spotify.com/track/0GXyu2iFC3ECfK8c4CF9xN"
+    },
+    {
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "album": {

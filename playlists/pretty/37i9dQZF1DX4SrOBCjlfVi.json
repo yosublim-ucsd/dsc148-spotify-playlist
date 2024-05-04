@@ -1,6 +1,6 @@
 {
   "description": "All the New Joints featuring Lil Tecca, Kendrick Lamar, Moneybagg Yo and more!",
-  "num_followers": 267976,
+  "num_followers": 268161,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
@@ -219,7 +219,7 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Ten/Rya Interlude (feat. Key Glock)",
+        "name": "Ten/Rya Interlude (feat. Key Glock & Rya Maxwell)",
         "url": "https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD"
       },
       "artists": [
@@ -230,10 +230,14 @@
         {
           "name": "Key Glock",
           "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Rya Maxwell",
+          "url": "https://open.spotify.com/artist/0QGpeQgkAun6D7nh2rJcCN"
         }
       ],
       "duration_ms": 360077,
-      "name": "Ten/Rya Interlude (feat. Key Glock)",
+      "name": "Ten/Rya Interlude (feat. Key Glock & Rya Maxwell)",
       "url": "https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2"
     },
     {
@@ -815,7 +819,7 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "SHININ",
+        "name": "Shinin",
         "url": "https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP"
       },
       "artists": [
@@ -825,7 +829,7 @@
         }
       ],
       "duration_ms": 134347,
-      "name": "SHININ",
+      "name": "Shinin",
       "url": "https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz"
     },
     {

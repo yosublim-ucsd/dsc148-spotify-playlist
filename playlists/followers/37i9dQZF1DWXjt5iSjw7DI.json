@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 89639,
+  "2024-05-04": 89706,
   "date_first_scraped": "2022-01-02",
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
   "name": "Legendary Country Live",
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 767346,
       "name": "Free Bird - 1976/Live At Bill Graham's Winterland",
       "url": "https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi"
@@ -4053,7 +4053,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 214746,
       "name": "Sweet Little 16 - Live",
       "url": "https://open.spotify.com/track/26G5z8KD3UN5RhSpxsgvbP"

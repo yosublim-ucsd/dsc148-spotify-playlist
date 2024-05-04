@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 140680,
+  "2024-05-04": 140735,
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=9FQZqrCVRby-kTUgFQTi2Q\">Sjava</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=4CWPuTqvTISeONU30nZLdg\">Aubrey Qwana</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 258577,
       "name": "BIZAN'UMAMA",
       "url": "https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM"
@@ -3691,7 +3691,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 214000,
       "name": "iNtwenhle",
       "url": "https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL"
@@ -6482,6 +6482,24 @@
     },
     {
       "album": {
+        "name": "Ndixolele",
+        "url": "https://open.spotify.com/album/1Xu7No9RW8RON7jwelBez5"
+      },
+      "artists": [
+        {
+          "name": "Kwanda",
+          "url": "https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "Ndixolele",
+      "url": "https://open.spotify.com/track/0kxp0TQBA7geTT0CYJik4X"
+    },
+    {
+      "album": {
         "name": "Cwaka",
         "url": "https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV"
       },
@@ -7738,6 +7756,24 @@
     },
     {
       "album": {
+        "name": "Love Don't Cost a Thing",
+        "url": "https://open.spotify.com/album/3IAqPeEOFmOe88dBgcoj2Q"
+      },
+      "artists": [
+        {
+          "name": "Nicey Beatz",
+          "url": "https://open.spotify.com/artist/1hR94zIVrhbISkR8MZDZl6"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Nzuri",
+      "url": "https://open.spotify.com/track/6xdbjH7ic96kZYs7juaNaK"
+    },
+    {
+      "album": {
         "name": "New faces to old problems",
         "url": "https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO"
       },
@@ -8267,7 +8303,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 171031,
       "name": "Qongqotha (live) - Demo",
       "url": "https://open.spotify.com/track/72bqWnVS3F7C06i64dvDny"
@@ -11667,6 +11703,32 @@
       "duration_ms": 358956,
       "name": "Woza Mntana",
       "url": "https://open.spotify.com/track/486lU2BE0ZY75sAOWViR6p"
+    },
+    {
+      "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/0QZYbJ4zAzziQoahlvnXO0"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        },
+        {
+          "name": "Chvna",
+          "url": "https://open.spotify.com/artist/4qKrkF6Eml8l1DKS0AlBbI"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279300,
+      "name": "X2",
+      "url": "https://open.spotify.com/track/1XqzyXxiaThMnlzZTC1tSW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-560 songs - 1 day 9 hr 21 min
+561 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Charlie Pickle](https://open.spotify.com/track/115TnBbSiS8Jxn6KQICZeQ) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Charlie Pickle](https://open.spotify.com/album/7fLDKHCfXK4lrnNeCDSoJ9) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Charlie Pickle](https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Way Up In The Hills](https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv) | 4:16 | 2024-02-23 | 2024-04-19 |
 | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs) | 8:03 | 2021-12-17 | 2023-04-15 |
+| [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 | 2024-04-26 |  |
 | [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 | 2022-07-15 |  |
 | [Chasing Rainbows](https://open.spotify.com/track/6e86xgqEXDNF7vOOZ7WrV3) | [Casey Penn](https://open.spotify.com/artist/1rNmOdI3Gyd9GnqXDp095b) | [Chasing Rainbows](https://open.spotify.com/album/7n98xt9P9976k8DknakjDs) | 2:39 | 2022-06-11 | 2022-06-14 |
 | [Choices And Changes](https://open.spotify.com/track/4hqJJdwJuWx0y6sNcHIHYF) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Weighted Mind](https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe) | 3:19 | 2021-12-31 | 2023-04-05 |
@@ -133,7 +134,7 @@
 | [Dry Town](https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Dry Town](https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6) | 2:42 | 2021-12-17 | 2022-07-27 |
 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 | 2022-03-25 | 2023-12-24 |
 | [East Virginia Blues](https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG) | 3:42 | 2024-01-26 | 2024-04-19 |
-| [East Virginia Blues](https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:59 | 2021-12-17 |  |
+| [East Virginia Blues](https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:59 | 2021-12-17 | 2024-05-04 |
 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 | 2022-07-22 | 2023-08-05 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2021-12-17 | 2022-07-28 |
 | [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 | 2023-08-10 |

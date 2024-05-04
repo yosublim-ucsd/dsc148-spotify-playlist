@@ -6553,6 +6553,32 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Remix Pack",
+        "url": "https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178216,
+      "name": "Pretty Girls - Remix",
+      "url": "https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q"
+    },
+    {
+      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,259 songs - 2 day 17 hr 57 min
+1,261 songs - 2 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
 | [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-25 |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
+| [Free My Soul](https://open.spotify.com/track/2NY9ERTEQnP0VOnHhMOW90) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [Free My Soul](https://open.spotify.com/album/7MVn5ssUDz8uXQT2XZ2jek) | 2:54 | 2024-05-03 |  |
 | [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 | 2022-09-03 |
 | [Frenemy](https://open.spotify.com/track/38fGD18era2pGm0GO82sSn) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Frenemy](https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt) | 2:35 | 2024-01-11 | 2024-03-08 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2023-10-19 | 2024-01-26 |
@@ -445,7 +446,7 @@
 | [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 | 2023-05-19 | 2023-06-16 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-10 | 2022-07-21 |
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
-| [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 |  |
+| [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 | 2024-05-04 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
@@ -1031,6 +1032,7 @@
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 | 2023-07-07 |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU) | 3:15 | 2024-03-14 | 2024-04-19 |
+| [Supersonic P\*$$y](https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Supersonic P\*$$y](https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN) | 2:47 | 2024-05-03 |  |
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 | 2023-10-20 |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
 | [SVAG](https://open.spotify.com/track/4ONPQrk76tFwINmmnDVUTS) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [SVAG](https://open.spotify.com/album/1yxQP0h71Da7mv2tqvMhD6) | 2:10 | 2023-10-05 | 2023-11-17 |
@@ -1209,7 +1211,7 @@
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-19 | 2023-09-09 |
 | [Waiting on Your Love](https://open.spotify.com/track/24Xb1t3v9EmLIxGrkezlys) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Waiting on Your Love](https://open.spotify.com/album/5W5j070IXwKqX2mq6laTwX) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Walk Away](https://open.spotify.com/track/2HjiabJKOLvVze6mEZ7Yrk) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Kismet](https://open.spotify.com/album/2ZFspo0XyOmNF2YUpjosCl) | 4:10 | 2023-10-19 | 2023-10-27 |
-| [Want Your Love](https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R) | [Mollie Minott](https://open.spotify.com/artist/5qEUQIObnjiIqKMQtbxvTl) | [Want Your Love](https://open.spotify.com/album/06hTi27qfrfZY68OGzbBCG) | 2:42 | 2024-05-02 |  |
+| [Want Your Love](https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R) | [Mollie Minott](https://open.spotify.com/artist/5qEUQIObnjiIqKMQtbxvTl) | [Want Your Love](https://open.spotify.com/album/06hTi27qfrfZY68OGzbBCG) | 2:42 | 2024-05-02 | 2024-05-04 |
 | [Wasn't Meant To Be](https://open.spotify.com/track/0GRw7DZGp7KC9Plsy4DDgn) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [Wasn't Meant To Be](https://open.spotify.com/album/2YvV30u3YMsFucH6dMXQib) | 3:13 | 2024-01-25 | 2024-03-15 |
 | [Water over wine](https://open.spotify.com/track/51W8HW4bkAWqc1MDfQpydS) | [Dolly Dolores](https://open.spotify.com/artist/0AKqrIVjkHri0sY1PqZQk7) | [Water over wine](https://open.spotify.com/album/5HHoFWh56BK2P6RH5B9CIF) | 2:59 | 2024-02-08 | 2024-02-25 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 | 2023-04-28 |

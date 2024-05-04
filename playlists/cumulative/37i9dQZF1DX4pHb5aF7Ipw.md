@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  Bohemia
 
-97 songs - 4 hr 47 min
+98 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [500 GRAMS](https://open.spotify.com/track/215PAiPALqLo3YAby27eGX) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [500 GRAMS](https://open.spotify.com/album/6JQPaS87dfS5mDJu3rEokw) | 3:40 | 2024-02-29 | 2024-04-20 |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 |  |
 | [94 Flow](https://open.spotify.com/track/7nfLjhLhQJHiauslrpXgnr) | [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [94 Flow](https://open.spotify.com/album/3wLyMJcP3IKdOJCm3C97n5) | 2:36 | 2023-03-18 |  |
-| [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 |  |
+| [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 | 2024-05-04 |
 | [After Death](https://open.spotify.com/track/08K8yeCpIivZJyN6DcuKfr) | [King Dhillon](https://open.spotify.com/artist/5tJyWsClOFLf52T8BPgYNb), [Masand Music](https://open.spotify.com/artist/1uMUSHIymhjS3TLvI5fMo1) | [After Death](https://open.spotify.com/album/0RirvxfQFNY5HIgI3aNTp3) | 2:48 | 2023-03-18 | 2023-04-27 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-03-18 |  |
 | [Akaal](https://open.spotify.com/track/0llzWsqUifJ2B2UtP9ST0o) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Akaal](https://open.spotify.com/album/6Xe0PVNMmjZVl4ofQNy9xd) | 2:28 | 2023-03-18 | 2023-10-12 |
@@ -90,6 +90,7 @@
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-12 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-05-26 |  |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 |  |
+| [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-05-03 |  |
 | [Shehzaada](https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [Shehzaada](https://open.spotify.com/album/0jClMwcSRCzW2CpZMl0uUs) | 2:55 | 2024-04-12 |  |
 | [Speedin](https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M) | [Speedin](https://open.spotify.com/album/5rytu6XDOtK6JMBK1NmHWi) | 2:21 | 2023-10-11 |  |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-26 |  |

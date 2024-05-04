@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,211 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,200 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 62 | [idlm](https://open.spotify.com/track/3CfI0vmUAQ7dlUvBdGZZ1D) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [idlm](https://open.spotify.com/album/33IfCg2Ou1Z56s2DnjhirV) | 2:33 |
 | 63 | [blind spot](https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [blind spot](https://open.spotify.com/album/3ZphzQmhpHU9LY4TrNcgbW) | 3:21 |
 | 64 | [Superman](https://open.spotify.com/track/6zRNC5bXxaUHgihZSNMiL8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Superman](https://open.spotify.com/album/30H3pEsM0Z3Fn6VR8hwu6H) | 2:54 |
-| 65 | [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 |
+| 65 | [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 |
 | 66 | [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 |
 | 67 | [Miss Me Too](https://open.spotify.com/track/5gMOMjSZZzg11UQbXLbFfr) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Miss Me Too](https://open.spotify.com/album/1tbuOsExv6AsyN56JV0CTP) | 3:08 |
 | 68 | [Open Hearts](https://open.spotify.com/track/1rCr67Uoj5GndsMEC8Gkvq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6h2sXjfVdBakT2T3w0R7Vv) | 3:23 |

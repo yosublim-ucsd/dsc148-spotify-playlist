@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=4CWPuTqvTISeONU30nZLdg">Aubrey Qwana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,680 likes - 55 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,735 likes - 55 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

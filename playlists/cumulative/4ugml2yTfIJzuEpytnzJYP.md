@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-254 songs - 16 hr 7 min
+255 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Kindred Spirits](https://open.spotify.com/track/4eZhS8oWElqOcF9acq3iJG) | [LitaLotus](https://open.spotify.com/artist/096jdva2vCbGgulvRdQrA8), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Essence](https://open.spotify.com/album/6uyvvUKCvBz2KFaKPGaebK) | 4:06 | 2022-10-14 | 2023-05-27 |
 | [Labyrinth](https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Labyrinth](https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa) | 3:18 | 2023-02-15 | 2023-05-27 |
 | [Lessons](https://open.spotify.com/track/1hrKjYBJDWZw4xWLIOPIT3) | [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Lessons](https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy) | 2:32 | 2022-01-17 | 2022-02-18 |
+| [Light It Up](https://open.spotify.com/track/3sUak4xuJrHWPsetV4BUQi) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Light It Up](https://open.spotify.com/album/5w9BlHIKDG74ubSX27vbOv) | 3:29 | 2024-05-04 |  |
 | [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 | 2022-12-16 | 2023-05-31 |
 | [Lose My Breath](https://open.spotify.com/track/3dcHTQceN4dnOXmFJ7a7a5) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Syntheism](https://open.spotify.com/album/4cNbfcidFGCWOlFYZAajB2) | 3:22 | 2023-06-09 | 2023-08-06 |
 | [Lost Souls \- ATYYA Remix](https://open.spotify.com/track/60KhEnHybUOC0a0ziqR9Yb) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Lost Souls \(ATYYA Remix\)](https://open.spotify.com/album/09yEzA91373rOjUnxYzrIk) | 4:03 | 2022-09-17 | 2022-10-17 |

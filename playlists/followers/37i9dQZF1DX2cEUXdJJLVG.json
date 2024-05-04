@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 74943,
+  "2024-05-04": 74953,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -6422,6 +6422,32 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/0IKOdP4WsG2FIVUPHqxzUR"
+      },
+      "artists": [
+        {
+          "name": "Rachel Robinson",
+          "url": "https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g"
+        },
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154227,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/1BvbFjLtesDFeA2fjT1jt8"
+    },
+    {
+      "album": {
         "name": "The Light (feat. Darren Fewins)",
         "url": "https://open.spotify.com/album/3sCbtWFjWgxiBo4IjmjR3e"
       },
@@ -6855,6 +6881,28 @@
       "duration_ms": 211428,
       "name": "Vida Delicia - Edit",
       "url": "https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf"
+    },
+    {
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "LaMay",
+          "url": "https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226051,
+      "name": "Virtual Cool",
+      "url": "https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ"
     },
     {
       "album": {

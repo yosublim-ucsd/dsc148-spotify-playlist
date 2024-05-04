@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 2",
+        "url": "https://open.spotify.com/album/15Y3CvqU96xvLxfQruinm3"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152977,
+      "name": "Aqu\u00ed Sigo De Pie - En Vivo",
+      "url": "https://open.spotify.com/track/7fKCHFiNyh2W6QoxfJefv8"
+    },
+    {
+      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 163826,
       "name": "Tumbate El Rollo feat. Larry Hernandez (Bonus Track)",
       "url": "https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq"

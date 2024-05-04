@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,688 likes - 97 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,731 likes - 97 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 96 | [ACTIVE BOYS](https://open.spotify.com/track/7xH4dmgrfE856DW65FtCOi) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [ACTIVE BOYS](https://open.spotify.com/album/1S8NRk0yrEw2mBRwHjlhFX) | 2:06 |
 | 97 | [INGEN ANNAN](https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [INGEN ANNAN](https://open.spotify.com/album/7A170JHkGo9IGaTydd1txD) | 1:58 |
 
-Snapshot ID: `ZjQM4AAAAAAXoXAe4H5FgJc8NGb/x8PI`
+Snapshot ID: `ZjTuVAAAAAA2sBmJMw1yhgrq4l8X0+nn`

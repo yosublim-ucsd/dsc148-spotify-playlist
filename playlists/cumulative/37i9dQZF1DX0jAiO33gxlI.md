@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rincon Sapiência
 
-638 songs - 1 day 10 hr 12 min
+639 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aham](https://open.spotify.com/track/320Lc0ig9vTNhInxgIAVDD) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Aham](https://open.spotify.com/album/5Uxz77HDrXrXA8647HuySJ) | 2:21 | 2023-06-09 | 2023-06-24 |
 | [AINDA](https://open.spotify.com/track/79NQsbzaReqkgprbvi4PUx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 3:01 | 2022-10-21 | 2022-11-12 |
 | [Ajuste](https://open.spotify.com/track/5fZw7tqLL8UXOG9IzPIHGa) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Idan Onigun](https://open.spotify.com/album/30Zttd5DMFhNEKCbRUKHLm) | 1:25 | 2024-03-01 | 2024-03-30 |
+| [ALFORRIA](https://open.spotify.com/track/3mZUy1LWhpfdwr2OAZb1FE) | [Onã](https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p) | [ALFORRIA](https://open.spotify.com/album/51GnTblpTTgwsptmLsh6Ra) | 2:28 | 2024-05-03 |  |
 | [Algo Íntimo](https://open.spotify.com/track/7e0DPzHixf5MyclQRCUkJa) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Algo Íntimo](https://open.spotify.com/album/5r8KbnTBjBDQe0yp0h3WHE) | 2:43 | 2022-07-29 | 2022-10-08 |
 | [Algoritmos](https://open.spotify.com/track/2yJVTB6XyFXFCA6FHxliM3) | [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV) | [Algoritmos](https://open.spotify.com/album/4VSgdtcfdz8Yewj5SJfMBA) | 2:15 | 2023-09-01 | 2023-10-14 |
 | [Alice](https://open.spotify.com/track/70rJOsiZjeL2O5vAD4Un0H) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Alice](https://open.spotify.com/album/0i2yuiNkOKAcbqQWD42ESv) | 3:43 | 2022-04-08 | 2022-05-03 |

@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169270,
       "name": "4310",
       "url": "https://open.spotify.com/track/7aKYbJ7TxJbohM6osKPzQa"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 204000,
       "name": "A Rose For Emily",
       "url": "https://open.spotify.com/track/5Uz2MUDtIeWqZoIniV03OQ"
@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Molecule EP",
+        "url": "https://open.spotify.com/album/3X5mGBu3KaIToghsMIUqUP"
+      },
+      "artists": [
+        {
+          "name": "NIGHTDIVISION",
+          "url": "https://open.spotify.com/artist/35zxmprzToZ15d3HUmscan"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183793,
+      "name": "Alteration",
+      "url": "https://open.spotify.com/track/7kBo3rQ7p5s9TFe8BRV7IJ"
+    },
+    {
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6vDMqEJJxt17UyNCuJduGB"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 279801,
       "name": "Arguing With A Fool",
       "url": "https://open.spotify.com/track/6NUsW9kTzEeFcKMEuagqet"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 360000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0yX47FNOPtx2pCaiIWYqUo"
@@ -4207,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Let It All Hang Out / Built For Speed",
+        "url": "https://open.spotify.com/album/2xoLh1c0wREx92eXxTDka3"
+      },
+      "artists": [
+        {
+          "name": "Honeyboy Slim & The Bad Habits",
+          "url": "https://open.spotify.com/artist/6Lkr14qW5grkKXTHIAK14V"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153839,
+      "name": "Built For Speed",
+      "url": "https://open.spotify.com/track/5B0VQLA7xN1eEDCRNmsaST"
+    },
+    {
+      "album": {
         "name": "Buio freddo",
         "url": "https://open.spotify.com/album/2y0NVlhStfjtZP98YTcGUT"
       },
@@ -4298,6 +4334,28 @@
       "duration_ms": 80000,
       "name": "Burn Through the Forest",
       "url": "https://open.spotify.com/track/0okmLYIx5McxB4m0DHWugI"
+    },
+    {
+      "album": {
+        "name": "Burnin' for You",
+        "url": "https://open.spotify.com/album/5dn5RB7SqKJRmsAtU5qLlB"
+      },
+      "artists": [
+        {
+          "name": "Underground Fire",
+          "url": "https://open.spotify.com/artist/58aTWpcVPsrJiQqT4hjYjE"
+        },
+        {
+          "name": "Ann-Sofie Hoyles",
+          "url": "https://open.spotify.com/artist/28JFjeoaOCVHMcxWJD58Bd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288352,
+      "name": "Burnin' for You",
+      "url": "https://open.spotify.com/track/6hRrUaZ9RKpnDdJoKPQOXq"
     },
     {
       "album": {
@@ -6040,7 +6098,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 194624,
       "name": "Coup De Grace - Single Edit",
       "url": "https://open.spotify.com/track/1BwUpmybg0vaqZX752nKQj"
@@ -6330,7 +6388,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 198857,
       "name": "Dagdr\u00f6mmar",
       "url": "https://open.spotify.com/track/0rZI2CIoVzKEG3XE4Hmh7h"
@@ -7954,7 +8012,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208960,
       "name": "Drama",
       "url": "https://open.spotify.com/track/1QPl9UT1d8XEoaxIpmOu1P"
@@ -9158,7 +9216,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 229505,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/5vmrGjSH2l2b7FXmMUPyaX"
@@ -9259,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "Empty Spaces",
+        "url": "https://open.spotify.com/album/2TIh5esbD7moPgLOlkw7Hq"
+      },
+      "artists": [
+        {
+          "name": "DISCOTEC",
+          "url": "https://open.spotify.com/artist/5ZhyHRDCUMwlK1YIo1CtSp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252374,
+      "name": "Empty Spaces",
+      "url": "https://open.spotify.com/track/1tpV2wMwvqgh58EDVzWdiY"
+    },
+    {
+      "album": {
         "name": "En ainna plass",
         "url": "https://open.spotify.com/album/6c2e7Ina1oI3buPVA9NFit"
       },
@@ -9270,7 +9346,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222074,
       "name": "En ainna plass",
       "url": "https://open.spotify.com/track/06lpFe4rZDZB7WX56NLNdh"
@@ -9396,7 +9472,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172999,
       "name": "En la oscuridad de la noche",
       "url": "https://open.spotify.com/track/4yctpVI3sOJgNj8w2cAk9C"
@@ -9712,6 +9788,24 @@
       "duration_ms": 238000,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/2WvPpSzYHXlzruEoFCxtS2"
+    },
+    {
+      "album": {
+        "name": "VAPE",
+        "url": "https://open.spotify.com/album/4WUBiOG8NZCzVFRNK64mHP"
+      },
+      "artists": [
+        {
+          "name": "Mice and Women",
+          "url": "https://open.spotify.com/artist/79T0WIereimXrj2HJKmQVS"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Escape Game",
+      "url": "https://open.spotify.com/track/5iS6Iv49XYu0dS5RW4Tuf3"
     },
     {
       "album": {
@@ -10446,6 +10540,24 @@
       "duration_ms": 105492,
       "name": "Familial Wound",
       "url": "https://open.spotify.com/track/2kobZHlugFXLmp7iB8cgBy"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/4FBiTNStVDRj8hVVHt8KJZ"
+      },
+      "artists": [
+        {
+          "name": "Colo",
+          "url": "https://open.spotify.com/artist/6TFpOEEjPqltOG3DhEjyUB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "Family Calls",
+      "url": "https://open.spotify.com/track/33pVmj7BBMOI1xnUk9Kh13"
     },
     {
       "album": {
@@ -11836,6 +11948,24 @@
       "duration_ms": 190369,
       "name": "Fr\u00e4mlingar - Live",
       "url": "https://open.spotify.com/track/3qtfkYsexP2PDn965h4QKG"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e5n Gamla Stan till dig",
+        "url": "https://open.spotify.com/album/5uyRgenXKY9NCzzYCU3qI4"
+      },
+      "artists": [
+        {
+          "name": "Sista Striden",
+          "url": "https://open.spotify.com/artist/5LbjV1pf4ZpgV4RQcaNBsV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277617,
+      "name": "Fr\u00e5n Gamla Stan till dig",
+      "url": "https://open.spotify.com/track/4Ljw8n8yNr1PYe13vMWJdL"
     },
     {
       "album": {
@@ -14455,6 +14585,24 @@
     },
     {
       "album": {
+        "name": "Hj\u00e4rtat I Din Hand",
+        "url": "https://open.spotify.com/album/0mloNeJUZtA7eu9DApJU27"
+      },
+      "artists": [
+        {
+          "name": "Rebi",
+          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177019,
+      "name": "Hj\u00e4rtat I Din Hand",
+      "url": "https://open.spotify.com/track/2o8ICFbpym10mHgJqMOcbp"
+    },
+    {
+      "album": {
         "name": "Hj\u00e4rtattack",
         "url": "https://open.spotify.com/album/5tXieCU2OKxeEOXzeOJONe"
       },
@@ -14798,7 +14946,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 356660,
       "name": "Huldrespel",
       "url": "https://open.spotify.com/track/6IDFLH4TV8IsCPw8Oe2VM5"
@@ -17846,7 +17994,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173879,
       "name": "Koda",
       "url": "https://open.spotify.com/track/63ilODVMpzpuIMzmIQpAEh"
@@ -17922,6 +18070,24 @@
       "duration_ms": 237701,
       "name": "Kotiin",
       "url": "https://open.spotify.com/track/36YbIpr9OjDot7ILtZnIm7"
+    },
+    {
+      "album": {
+        "name": "Sju sv\u00e5ra \u00e5r",
+        "url": "https://open.spotify.com/album/55pNwyjeV6p4fgxQARslW1"
+      },
+      "artists": [
+        {
+          "name": "Sju sv\u00e5ra \u00e5r",
+          "url": "https://open.spotify.com/artist/2Hjy288GRAIeyKXBerZIjJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100128,
+      "name": "Kramen",
+      "url": "https://open.spotify.com/track/58eNYIMIzRUKb94LhUlzA2"
     },
     {
       "album": {
@@ -19240,7 +19406,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 620000,
       "name": "LILYSH / binaural",
       "url": "https://open.spotify.com/track/4UIRt1GBZOMedfIGQ2glp7"
@@ -19406,7 +19572,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 431375,
       "name": "Livmodern f\u00f6rbl\u00f6der",
       "url": "https://open.spotify.com/track/1l3Rde8Z1OlfVY3kK7xzeu"
@@ -20744,7 +20910,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210994,
       "name": "Me voy a quedar",
       "url": "https://open.spotify.com/track/7HmFrnBEE8PyAG7BNriYqw"
@@ -21299,6 +21465,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/44kGRBGZ5R1d9uok9p3HYI"
+      },
+      "artists": [
+        {
+          "name": "DATSKO",
+          "url": "https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/3T5SmoJDIJjVxc8Rf4xQ7B"
+    },
+    {
+      "album": {
         "name": "Miss Hurricane",
         "url": "https://open.spotify.com/album/08nh3epWKi9CUJrTgrGUpd"
       },
@@ -21732,7 +21916,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 336190,
       "name": "Munti Kong Bituin",
       "url": "https://open.spotify.com/track/2PcdxAyWUE8l7Dt8m1E4vB"
@@ -21804,7 +21988,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 217142,
       "name": "My Life",
       "url": "https://open.spotify.com/track/3uYfspQ7e2AccPDaweuZ8L"
@@ -22024,7 +22208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 251653,
       "name": "M\u00e5nen \u00c4r R\u00f6d",
       "url": "https://open.spotify.com/track/5Hna0E2B0d28ReheCkTAWG"
@@ -22830,6 +23014,24 @@
       "duration_ms": 201923,
       "name": "No One Left To Fight",
       "url": "https://open.spotify.com/track/37xkZ8JQ1RGCa8pEEyZ67s"
+    },
+    {
+      "album": {
+        "name": "Lo-fi Love",
+        "url": "https://open.spotify.com/album/01nQxIkUjA7r8GjZdJNyPY"
+      },
+      "artists": [
+        {
+          "name": "MiA MiU",
+          "url": "https://open.spotify.com/artist/6Vn8gccHuLh2r3GuuGUcvl"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194908,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/19OHQK60NK9t32OvgCNQlt"
     },
     {
       "album": {
@@ -23768,7 +23970,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180306,
       "name": "Ollaan melkein Ruotsissa",
       "url": "https://open.spotify.com/track/2RyaDzfc3WbWNQY8u3PDHV"
@@ -25019,6 +25221,24 @@
     },
     {
       "album": {
+        "name": "Maybe Acoustic",
+        "url": "https://open.spotify.com/album/6423dq75nQN5c6EFE18z94"
+      },
+      "artists": [
+        {
+          "name": "Lynn",
+          "url": "https://open.spotify.com/artist/1GUHB0m4dBshtsVmT3n630"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/5XjrjjEGnijbqnJx5qmnHV"
+    },
+    {
+      "album": {
         "name": "Paul And John's Old Melody",
         "url": "https://open.spotify.com/album/2O4hUFwGSEZnAK9ffH7BEw"
       },
@@ -25990,6 +26210,24 @@
       "duration_ms": 185624,
       "name": "Pussi",
       "url": "https://open.spotify.com/track/0y92QlOThN4WZ51KzM3lMX"
+    },
+    {
+      "album": {
+        "name": "Put Down Ur Purse",
+        "url": "https://open.spotify.com/album/4erEMR0aveDv7PLIhOTJrz"
+      },
+      "artists": [
+        {
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190565,
+      "name": "Put Down Ur Purse",
+      "url": "https://open.spotify.com/track/7EJUmaUx4vt90ebJzKRa7x"
     },
     {
       "album": {
@@ -27375,6 +27613,28 @@
     },
     {
       "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/3zTT63bTOJArgXmQFyoA6p"
+      },
+      "artists": [
+        {
+          "name": "Peter Mikkola",
+          "url": "https://open.spotify.com/artist/4h7pQ8I5B4C4JMzDdVgmQB"
+        },
+        {
+          "name": "Perra Hamqvist",
+          "url": "https://open.spotify.com/artist/39DbY4dveFhaRM1lOcNBFb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364135,
+      "name": "Running Out Of Time - Extended Version",
+      "url": "https://open.spotify.com/track/7ebQM54nLoYMzWRFrw5wzy"
+    },
+    {
+      "album": {
         "name": "Runs In The Family",
         "url": "https://open.spotify.com/album/2HO9yV5q9D5COOgObJpv1C"
       },
@@ -28318,7 +28578,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184919,
       "name": "SHES THE KEY",
       "url": "https://open.spotify.com/track/7ewrlpoTnypvQJxOwiLEKl"
@@ -28796,6 +29056,24 @@
       "duration_ms": 103384,
       "name": "Skapa en hit",
       "url": "https://open.spotify.com/track/56CVngHdiEKYx3eyODaj4a"
+    },
+    {
+      "album": {
+        "name": "Skinless Gods",
+        "url": "https://open.spotify.com/album/0veoYGdWR7xLdcF4FQZLKu"
+      },
+      "artists": [
+        {
+          "name": "Grand Cadaver",
+          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175031,
+      "name": "Skinless Gods",
+      "url": "https://open.spotify.com/track/3itJ35dFsASYHpeeCLrNxW"
     },
     {
       "album": {
@@ -29494,7 +29772,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173265,
       "name": "Solar (Forever Ain't Real)",
       "url": "https://open.spotify.com/track/2nNN9cZNWLt9ve3y35206v"
@@ -29858,7 +30136,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203190,
       "name": "Songs of Mary Mae",
       "url": "https://open.spotify.com/track/3YqaK7xzCiNz06GUt9ZYIP"
@@ -30900,7 +31178,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 278070,
       "name": "Sun kanssas valvon",
       "url": "https://open.spotify.com/track/3mSUPtJkmki1sZRaZml18d"
@@ -32168,7 +32446,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 223631,
       "name": "The House That Jack Built",
       "url": "https://open.spotify.com/track/4uR8xYi87Ld7i3vrPAv3A0"
@@ -35102,6 +35380,24 @@
       "duration_ms": 209039,
       "name": "Vastakaikuu",
       "url": "https://open.spotify.com/track/2DVZ2YsltIpvfAruQWD7HD"
+    },
+    {
+      "album": {
+        "name": "Rent vatten",
+        "url": "https://open.spotify.com/album/6s0ssPqZUXORYIcZ3Oy1hk"
+      },
+      "artists": [
+        {
+          "name": "Nica Mei",
+          "url": "https://open.spotify.com/artist/3yHp094YFRbHopTZNjGbMo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264309,
+      "name": "Vatten",
+      "url": "https://open.spotify.com/track/5baLgiNstru4mFIPhBA7kU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-296 songs - 14 hr 21 min
+298 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK) | 2:17 | 2023-08-11 |  |
 | [Bandolera \(feat\. Buza\)](https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [Buza](https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB) | [Bandolera \(feat\. Buza\)](https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh) | 2:55 | 2024-01-26 |  |
 | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Melissa Brooks](https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr) | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH) | 2:31 | 2023-06-09 |  |
+| [Bass Drop](https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bass Drop](https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05) | 2:20 | 2024-05-03 |  |
 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 | 2023-05-19 |  |
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |
 | [Bassline \- 4B Remix](https://open.spotify.com/track/7GGhEm8OtSxjjA0kTacEzo) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bassline \(4B Remix\)](https://open.spotify.com/album/0fz5yLDyUogI8CK98sSlid) | 1:48 | 2023-12-15 |  |
@@ -160,6 +161,7 @@
 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 | 2022-10-07 | 2023-04-09 |
 | [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 | 2023-03-06 |
 | [Like You](https://open.spotify.com/track/7w7aMtmoXjwW61cAUjNDkT) | [Michael Grald](https://open.spotify.com/artist/6PWZqYrlDYcnz4haClAiL6) | [Like You](https://open.spotify.com/album/4Dmv8SK1yxWmZe38Q3Ed8i) | 3:45 | 2023-11-22 |  |
+| [Little Luv](https://open.spotify.com/track/2pWXBBrVw4tqfCcmt4I3Gs) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Little Luv](https://open.spotify.com/album/6kIQiqvRdTriDaBxfWfceo) | 3:16 | 2024-05-03 |  |
 | [Lockup \(feat\. NEWYON\)](https://open.spotify.com/track/15aTBfj5AimmXhVrj9tU5h) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [SSOS](https://open.spotify.com/artist/1X90DISqAUei3m4aEHCYhR), [NEWYON](https://open.spotify.com/artist/2WZr7KzJCA3Z5ZZAhVQufn) | [Lockup \(feat\. NEWYON\)](https://open.spotify.com/album/1qYIHfSHQvglXsYeUv8T9Z) | 2:27 | 2023-04-14 |  |
 | [Loco](https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [Loco](https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi) | 2:45 | 2022-07-27 | 2023-04-09 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-187 songs - 10 hr 13 min
+188 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2023-08-22 | 2024-04-19 |
 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 | 2023-08-22 |  |
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 | 2024-04-19 |
-| [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 | 2024-03-20 |  |
+| [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 | 2024-03-20 | 2024-05-04 |
 | [Not Water But Rest](https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA) | [Shake Stew](https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6), [Precious Nnebedum](https://open.spotify.com/artist/5mnjbLL5Lpi3LW9Wnzir2O) | [Lila](https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf) | 5:56 | 2023-10-13 |  |
 | [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |
 | [OLDRICH](https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx) | [OLDRICH](https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl) | 2:21 | 2023-08-22 |  |
@@ -174,6 +174,7 @@
 | [The Elephant in the Room](https://open.spotify.com/track/4kG68VmZZJcRqCR5r2tg0Z) | [An0](https://open.spotify.com/artist/7bGMJI5extdRfbKjw1NufB), [kevin](https://open.spotify.com/artist/3S8QW0sAq2cXykM7MKCC0z), [An0kevin](https://open.spotify.com/artist/31UWwbJn6pacSbQ499Ubw4) | [Motions](https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s) | 4:29 | 2023-08-22 | 2024-04-19 |
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 |  |
+| [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2024-03-20 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2023-08-22 | 2024-04-19 |
 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 |  |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 |  |

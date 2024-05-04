@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+    },
+    {
+      "album": {
         "name": "Burning Bush",
         "url": "https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB"
       },
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 174773,
       "name": "Daddy Kane (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 166071,
       "name": "Live from the Roxy (feat. Boldy James)",
       "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
@@ -7208,7 +7226,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 257665,
       "name": "Magic Dust (feat. Evidence)",
       "url": "https://open.spotify.com/track/3V6JhUdxUCx1TzUjH9jCJz"
@@ -8582,7 +8600,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
@@ -10365,6 +10383,28 @@
     },
     {
       "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178765,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
+    },
+    {
+      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
       },
@@ -11634,6 +11674,24 @@
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
+    },
+    {
+      "album": {
+        "name": "SUNDAY SCARIES",
+        "url": "https://open.spotify.com/album/37I0PC0k15kEXsbEAYLSXt"
+      },
+      "artists": [
+        {
+          "name": "JERREAU",
+          "url": "https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107832,
+      "name": "SUNDAY SCARIES",
+      "url": "https://open.spotify.com/track/37ZjKTh2vteCm9jd3CRmZ4"
     },
     {
       "album": {
@@ -13544,7 +13602,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182500,
       "name": "Winner's Blues",
       "url": "https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq"

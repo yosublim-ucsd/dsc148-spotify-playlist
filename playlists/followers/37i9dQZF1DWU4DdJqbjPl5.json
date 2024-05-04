@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 203668,
+  "2024-05-04": 203665,
   "date_first_scraped": "2022-02-25",
   "description": "The smoothest Afro R&B out right now. Cover: Juls",
   "name": "Tantalizers",
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 279776,
       "name": "Bekezela (feat. Mthandazo Gatya)",
       "url": "https://open.spotify.com/track/5VszpClrr82fD5eBwtHpLa"
@@ -3787,7 +3787,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
@@ -3813,6 +3813,24 @@
       "duration_ms": 174178,
       "name": "Look What You Made Me Do (with Simi)",
       "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172687,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
     },
     {
       "album": {
@@ -6555,6 +6573,24 @@
       "duration_ms": 176283,
       "name": "To Last",
       "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "album": {
+        "name": "Tolo (Faut m'oublier)",
+        "url": "https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169254,
+      "name": "Tolo (Faut m'oublier)",
+      "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
     },
     {
       "album": {

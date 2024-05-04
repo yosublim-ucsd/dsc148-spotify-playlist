@@ -1,13 +1,33 @@
 {
   "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 339645,
+  "num_followers": 339758,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zhix/AAAAADNLAUig43CR6idrq9K92+x",
+  "snapshot_id": "ZjRhfAAAAABt8vtjjCtGeOxh9NuMxDZa",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Le Temps",
+        "url": "https://open.spotify.com/album/1n4hvFzzdgmA0gpxjnWW9H"
+      },
+      "artists": [
+        {
+          "name": "Ludovic Louis",
+          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
+        },
+        {
+          "name": "Rossy De Palma",
+          "url": "https://open.spotify.com/artist/7qfJiqIiUlCzDd0lIidYos"
+        }
+      ],
+      "duration_ms": 260867,
+      "name": "Le Temps",
+      "url": "https://open.spotify.com/track/3Dj70LxvP07JwexR0mTGN4"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
@@ -3875,26 +3895,6 @@
       "duration_ms": 120025,
       "name": "Feel The Bern - Alt Take",
       "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "The Hornet's Nest",
-        "url": "https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8"
-      },
-      "artists": [
-        {
-          "name": "Eleven 76",
-          "url": "https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz"
-        },
-        {
-          "name": "Golden Rules",
-          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
-        }
-      ],
-      "duration_ms": 136020,
-      "name": "The Hornet's Nest",
-      "url": "https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y"
     },
     {
       "added_at": "2022-07-29 04:02:00",

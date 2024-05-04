@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 453683,
+  "num_followers": 453804,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQakwAAAADoYYNJwDlBS40rPg3dCAmO",
+  "snapshot_id": "ZjUVjgAAAABF8MwOep89bX4NVX+geG1h",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -341,6 +341,34 @@
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
+      "added_at": "2024-05-03 16:49:18",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/2NFr0YmfDAVbsLVtWY5XWZ"
+      },
+      "artists": [
+        {
+          "name": "Catpack",
+          "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+        },
+        {
+          "name": "Phil Beaudreau",
+          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/03UKfWyoE48oFWWLZWz2eI"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Green Eyes",
@@ -373,22 +401,6 @@
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
-      "added_at": "2022-04-18 03:39:12",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
       "added_at": "2023-04-05 03:29:43",
       "album": {
         "name": "11",
@@ -405,36 +417,20 @@
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
-      "added_at": "2023-04-05 03:06:38",
+      "added_at": "2022-04-18 03:39:12",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
       "added_at": "2024-04-18 18:10:45",
@@ -451,6 +447,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2023-04-05 03:06:38",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2023-06-07 16:02:09",
@@ -483,6 +495,22 @@
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -535,26 +563,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Where Do You Go",
         "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
       },
@@ -567,22 +575,6 @@
       "duration_ms": 237493,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
-    },
-    {
-      "added_at": "2022-09-09 13:33:50",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -605,6 +597,22 @@
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
+      "added_at": "2022-09-09 13:33:50",
+      "album": {
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
       "added_at": "2023-06-02 01:45:44",
       "album": {
         "name": "Trouble / In My Head",
@@ -619,22 +627,6 @@
       "duration_ms": 186528,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2022-12-07 04:54:47",
@@ -667,6 +659,26 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -757,6 +769,22 @@
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
       "added_at": "2022-12-07 04:04:10",
       "album": {
         "name": "head down",
@@ -825,6 +853,22 @@
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     },
     {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
       "added_at": "2023-10-10 01:29:29",
       "album": {
         "name": "Ghosts",
@@ -843,22 +887,6 @@
       "duration_ms": 258120,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2023-06-02 01:19:32",
@@ -947,22 +975,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
-      },
-      "artists": [
-        {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
       },
@@ -975,6 +987,22 @@
       "duration_ms": 210922,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Apollonia",
+        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Foreign Affair",
+      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1093,22 +1121,6 @@
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
-      "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Japan",
@@ -1127,6 +1139,22 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
+    },
+    {
+      "added_at": "2024-01-03 18:42:32",
+      "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1231,22 +1259,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
@@ -1259,6 +1271,22 @@
       "duration_ms": 228213,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1629,22 +1657,6 @@
       "url": "https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW"
     },
     {
-      "added_at": "2022-12-07 04:05:43",
-      "album": {
-        "name": "Fallaway",
-        "url": "https://open.spotify.com/album/4x7g9rKQxdxzZIKoKImOka"
-      },
-      "artists": [
-        {
-          "name": "Molly McPhaul",
-          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
-        }
-      ],
-      "duration_ms": 197763,
-      "name": "Fallaway",
-      "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
-    },
-    {
       "added_at": "2022-04-07 04:20:19",
       "album": {
         "name": "Lemon Squeezy / Afrique",
@@ -1669,6 +1681,22 @@
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
     },
     {
+      "added_at": "2022-12-07 04:05:43",
+      "album": {
+        "name": "Fallaway",
+        "url": "https://open.spotify.com/album/4x7g9rKQxdxzZIKoKImOka"
+      },
+      "artists": [
+        {
+          "name": "Molly McPhaul",
+          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
+        }
+      ],
+      "duration_ms": 197763,
+      "name": "Fallaway",
+      "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
+    },
+    {
       "added_at": "2022-09-30 04:05:07",
       "album": {
         "name": "I'm Dancing",
@@ -1691,34 +1719,6 @@
       "duration_ms": 331746,
       "name": "I'm Dancing",
       "url": "https://open.spotify.com/track/7gGObhepvI410Fys1avsdp"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Into the Wave",
-        "url": "https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD"
-      },
-      "artists": [
-        {
-          "name": "Adam Ratner",
-          "url": "https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K"
-        },
-        {
-          "name": "Jacob Mann",
-          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
-        },
-        {
-          "name": "Sam Wilkes",
-          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
-        },
-        {
-          "name": "Tamir Barzilay",
-          "url": "https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Into the Wave",
-      "url": "https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz"
     }
   ],
   "unique_name": "Soft Office",

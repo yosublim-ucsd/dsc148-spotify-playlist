@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=kCgl0RVbRP2qbiq7r6lByw">Porcelain Moon</a>
 
-717 songs - 1 day 16 hr 57 min
+719 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Any Wonder](https://open.spotify.com/track/4CD1fsXvcBFi8UpEG5NXZt) | [Savio](https://open.spotify.com/artist/6dtQQr6xQEbWPD7BgvBdqN), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [The Indications](https://open.spotify.com/artist/4Bi2r5s8zPqvMLZgTNyDtO) | [The Bohemian Underground](https://open.spotify.com/album/3NdCQegppalv14TnDyktt3) | 3:06 | 2023-09-15 | 2023-12-08 |
 | [Appaloosa Bones](https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J) | 3:59 | 2023-07-13 | 2023-09-02 |
 | [Apples and Pairs](https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V) | [Lily Hollows](https://open.spotify.com/artist/39K69becRQ7hdkwMrnGNlQ) | [Apples and Pairs](https://open.spotify.com/album/3fIQE6HbRgsygxmQPIG6mV) | 3:17 | 2023-04-06 | 2023-05-26 |
+| [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-05-03 |  |
 | [As long as you drive](https://open.spotify.com/track/1ERoe7iqMDXaY3yLdNqg2a) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [As long as you drive](https://open.spotify.com/album/3a3gFEBYfxagf1OQORHD5e) | 3:41 | 2024-03-15 | 2024-03-23 |
 | [As The Sun Shines](https://open.spotify.com/track/6ZZ1JyFWpUv1szHI8HE4e9) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [As The Sun Shines](https://open.spotify.com/album/5E1NPZKh07VCnKMKJmLKWg) | 1:57 | 2023-11-17 | 2024-01-12 |
 | [As the Universe so the Soul](https://open.spotify.com/track/5etRGpBT0YASzCvCrpTKu7) | [Recall from the FUTURE](https://open.spotify.com/artist/0O8ssLACysgZ8d9AQlLo1c) | [As the Universe so the Soul](https://open.spotify.com/album/46w2rQ7A25zuEBwRsbpYp1) | 4:25 | 2023-09-15 | 2023-12-08 |
@@ -229,7 +230,7 @@
 | [Gaslight \(Caught Fire\)](https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Gaslight \(Caught Fire\)](https://open.spotify.com/album/1n2H1RFsKWsALRmyz1tewi) | 2:57 | 2022-07-28 | 2022-12-02 |
 | [Gasoline](https://open.spotify.com/track/5gG8U6wMw8WRWzS4po7r3x) | [Cowie](https://open.spotify.com/artist/63K0O2a07QUZoNn9cqDt35) | [Gasoline](https://open.spotify.com/album/0fUxexsiSTK0fIJHby7bbN) | 3:35 | 2023-11-24 | 2024-01-12 |
 | [ghost in the machine](https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2) | [emerger](https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7) | [ghost in the machine](https://open.spotify.com/album/2HNFlTUUoE4UTfX0gSKlEp) | 3:27 | 2022-11-10 | 2023-02-10 |
-| [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 | 2024-02-22 |  |
+| [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 | 2024-02-22 | 2024-05-04 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-29 |  |
 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 | 2024-01-18 | 2024-02-02 |
 | [give](https://open.spotify.com/track/0NLhvK9vUSITapD6YHqR3c) | [Lyssa Heyman](https://open.spotify.com/artist/4ZJfrvm7c4gAWHOgBYGiLO) | [give](https://open.spotify.com/album/3PEAnGvmd5uaPsAOWlLITK) | 3:06 | 2023-09-01 | 2023-11-25 |
@@ -522,7 +523,7 @@
 | [Save Me](https://open.spotify.com/track/6yrdhCKzaN5c8JGNWzLtQy) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Save Me](https://open.spotify.com/album/39jSoPLLSCKFqy7VgmYMeV) | 3:18 | 2022-09-29 | 2022-10-21 |
 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 | 2022-11-24 |  |
 | [Screen Saviour](https://open.spotify.com/track/2VDhCwjfmixbmnL6h63I2m) | [The Misty Cliffs](https://open.spotify.com/artist/3CFW4FL5DJJeohKk1gakqO) | [The Misty Cliffs](https://open.spotify.com/album/1OqHVUHiB8nmMP5MglQesP) | 3:10 | 2024-02-09 | 2024-03-30 |
-| [Seasons Change](https://open.spotify.com/track/0K0f1yZYSHiC8B08qYTmiJ) | [Fever Fields](https://open.spotify.com/artist/4Moi2zWtZnsR94AwwLHECC) | [Seasons Change](https://open.spotify.com/album/1CZkeYwmfdyAJthwVKkUac) | 3:08 | 2024-04-05 |  |
+| [Seasons Change](https://open.spotify.com/track/0K0f1yZYSHiC8B08qYTmiJ) | [Fever Fields](https://open.spotify.com/artist/4Moi2zWtZnsR94AwwLHECC) | [Seasons Change](https://open.spotify.com/album/1CZkeYwmfdyAJthwVKkUac) | 3:08 | 2024-04-05 | 2024-05-04 |
 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 | 2024-02-22 |  |
 | [Self Talk](https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3) | [Mike Baz](https://open.spotify.com/artist/1wwKCIcDbJw2jUA2OvGhGQ) | [Self Talk](https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7) | 3:09 | 2023-09-15 | 2023-12-08 |
 | [Seriously, Goodluck With That](https://open.spotify.com/track/4GuGH9ty89UAljxqjxJU4H) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Seriously, Goodluck With That](https://open.spotify.com/album/72vFcIJ5QGoRZTjOlx2WYV) | 3:29 | 2023-09-15 | 2023-12-22 |
@@ -698,6 +699,7 @@
 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 | 2023-07-28 | 2023-10-27 |
 | [Winter Depression](https://open.spotify.com/track/6qE4LaHVH7Dgkm7N9Bhp2o) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Winter Depression](https://open.spotify.com/album/0bxEi3qP1bHHtLV8IVDifF) | 3:33 | 2023-10-12 | 2023-12-22 |
 | [Wish I Was](https://open.spotify.com/track/4ZIY0grkEJXEGKNNlGPEn3) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [The Seed](https://open.spotify.com/album/386dEHxWISrlTeyn94DSiT) | 3:33 | 2023-06-15 | 2023-07-29 |
+| [Wishbone](https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone](https://open.spotify.com/album/6diOY2LpUsnQqlqgr7ApEw) | 2:53 | 2024-05-03 |  |
 | [Wishes](https://open.spotify.com/track/203two1At4kMewDcqlWMEv) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Wishes](https://open.spotify.com/album/0H827J0CQa5apQsW5xcc0M) | 3:05 | 2023-04-21 | 2023-07-07 |
 | [With You](https://open.spotify.com/track/15FipwvwpsyKDbTWQoEC3O) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [With You](https://open.spotify.com/album/1fN2XKS8areahC7LnEwxML) | 4:24 | 2023-11-17 | 2024-01-12 |
 | [Wolves At War](https://open.spotify.com/track/0U2LVmr7cqEmKfdSC5yo1I) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Legacy Of Love](https://open.spotify.com/album/4nSeHpoIVpaNz5le6nX1Xo) | 4:34 | 2023-11-30 | 2024-01-12 |

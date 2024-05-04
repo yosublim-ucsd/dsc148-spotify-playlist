@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,148 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,149 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 18 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |
 | 19 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 |
 | 20 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
-| 21 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 |
-| 22 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
+| 21 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
+| 22 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 |
 | 23 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
 | 24 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 | 25 | [Logha](https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Swish](https://open.spotify.com/artist/0CMKtAa3P8sJ6MJjs8sqPi) | [Logha](https://open.spotify.com/album/4YNYUx2sXyYGcfNfqEc3pn) | 3:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 36 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 |
 | 37 | [Langa](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 |
 | 38 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
-| 39 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
-| 40 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
+| 39 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
+| 40 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
 | 41 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 42 | [UntitledHak](https://open.spotify.com/track/0qVckExflVKTkFoF2PueoG) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [UntitledHak](https://open.spotify.com/album/3lXbD09iKoRX5SsnuUOYMF) | 3:23 |
 | 43 | [Marsa](https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Marsa](https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt) | 2:56 |

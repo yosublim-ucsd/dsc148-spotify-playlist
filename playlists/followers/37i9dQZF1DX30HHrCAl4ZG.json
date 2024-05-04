@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 827087,
+  "2024-05-04": 827050,
   "date_first_scraped": "2021-12-21",
   "description": "Explore all things indie rock right now. Featuring music from Hana Vu",
   "name": "Today's Indie Rock",
@@ -203,7 +203,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 198903,
       "name": "22",
       "url": "https://open.spotify.com/track/7jECqeVkbeYMvKNsYJvjY4"
@@ -849,6 +849,24 @@
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
+    },
+    {
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "album": {
@@ -2314,6 +2332,24 @@
     },
     {
       "album": {
+        "name": "BEG",
+        "url": "https://open.spotify.com/album/3hRu8uw81oSlAXkGY3LqaZ"
+      },
+      "artists": [
+        {
+          "name": "Cam Rao",
+          "url": "https://open.spotify.com/artist/0reunFOO4l81BNysaJUCPV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "BEG",
+      "url": "https://open.spotify.com/track/1CyHaB9SvOTOBRmOI3O23A"
+    },
+    {
+      "album": {
         "name": "Being Square",
         "url": "https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE"
       },
@@ -3295,7 +3331,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 175120,
       "name": "Bored",
       "url": "https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW"
@@ -3609,7 +3645,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 193000,
       "name": "Brain Damage",
       "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
@@ -4254,6 +4290,24 @@
     },
     {
       "album": {
+        "name": "Can't Be Still",
+        "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178362,
+      "name": "Can't Be Still",
+      "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
+    },
+    {
+      "album": {
         "name": "Can't Be What You Think",
         "url": "https://open.spotify.com/album/4wiyYbZodR1G7BY2V2GEW5"
       },
@@ -4889,6 +4943,24 @@
       "duration_ms": 166285,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "album": {
@@ -6585,10 +6657,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "album": {
+        "name": "Knives For Aries",
+        "url": "https://open.spotify.com/album/2EL0n7jffmOwkdEvm60kwi"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126246,
+      "name": "Difluoroethane",
+      "url": "https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp"
     },
     {
       "album": {
@@ -6823,6 +6913,24 @@
       "duration_ms": 224840,
       "name": "Do You Remember The Times",
       "url": "https://open.spotify.com/track/54MoFn8dZpwraIs6k4gqtR"
+    },
+    {
+      "album": {
+        "name": "Do You?",
+        "url": "https://open.spotify.com/album/4XjrrQbXfmeDOhHJLc49AN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199815,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/2gkvkeDHP6Ek6fiIHcjdbV"
     },
     {
       "album": {
@@ -8140,6 +8248,24 @@
     },
     {
       "album": {
+        "name": "Everything At Once",
+        "url": "https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
+    },
+    {
+      "album": {
         "name": "Everything Is Boring",
         "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
       },
@@ -9203,7 +9329,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 185213,
       "name": "Foam",
       "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
@@ -9905,7 +10031,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
@@ -10341,7 +10467,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 219498,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
@@ -11239,7 +11365,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167586,
       "name": "How Can I Love Her More?",
       "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
@@ -18190,6 +18316,24 @@
     },
     {
       "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Peppermint Roses",
+      "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
+    },
+    {
+      "album": {
         "name": "Pebble Brain",
         "url": "https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB"
       },
@@ -19109,7 +19253,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 314440,
       "name": "Read The Room",
       "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
@@ -21480,6 +21624,24 @@
     },
     {
       "album": {
+        "name": "Sour Patch",
+        "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201735,
+      "name": "Sour Patch",
+      "url": "https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB"
+    },
+    {
+      "album": {
         "name": "space girl",
         "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
       },
@@ -22039,6 +22201,28 @@
       "duration_ms": 259634,
       "name": "Street Fight",
       "url": "https://open.spotify.com/track/7wDrCnNA7DL3P7M50JCEoZ"
+    },
+    {
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        },
+        {
+          "name": "xmal",
+          "url": "https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126620,
+      "name": "Streetwise",
+      "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
     },
     {
       "album": {
@@ -25639,7 +25823,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"

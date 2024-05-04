@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 308570,
+  "num_followers": 308661,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "HUMAN (Live)",
+        "url": "https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 419406,
+      "name": "Dreams - Live",
+      "url": "https://open.spotify.com/track/4l28c3njvOqasE4lLPP2cx"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Moments: Mighty Sound",
         "url": "https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 589421,
       "name": "Catch the Wind (Spontaneous)",
       "url": "https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "HUMAN (Live)",
-        "url": "https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 419406,
-      "name": "Dreams - Live",
-      "url": "https://open.spotify.com/track/4l28c3njvOqasE4lLPP2cx"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Great Redeemer",
-        "url": "https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq"
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
       "artists": [
         {
-          "name": "Lucy Grimble",
-          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 305670,
-      "name": "Great Redeemer",
-      "url": "https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ"
+      "duration_ms": 398213,
+      "name": "Worth It All - Live",
+      "url": "https://open.spotify.com/track/0RYfzm4aLjbc2mSrupcNtm"
     }
   ],
   "unique_name": "epicPRAISE",

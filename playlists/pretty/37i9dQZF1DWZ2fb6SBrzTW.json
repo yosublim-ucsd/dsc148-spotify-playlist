@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 31412,
+  "num_followers": 31445,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Bad Friends",
         "url": "https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Life of the Party",
-        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 192477,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
     }
   ],
   "unique_name": "Keep Fit Club ",

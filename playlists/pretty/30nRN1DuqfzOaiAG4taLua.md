@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/30nRN1DuqfzOaiAG4taLua.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Vida \- Extended Mix](https://open.spotify.com/track/3xA8EUmahI3QmYVMRgV0O0) | [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [La Vida](https://open.spotify.com/album/6gOrB9C4lmwSYg5OogYDUv) | 4:11 |
-| 2 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [BLK OUT](https://open.spotify.com/artist/1F2dvP18rgi7Zdvn5HlM3l) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 |
+| 2 | [PLAY](https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [DAVID BLK](https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF) | [PLAY](https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8) | 2:01 |
 | 3 | [Ininna Tora](https://open.spotify.com/track/3hBvz6hfpRuh8mxSnoplMG) | [Mazdem](https://open.spotify.com/artist/5HuVtqpuZlBSeQs0NLMehi) | [Ininna Tora](https://open.spotify.com/album/4din5YpFUJZK4tnvwFKbAj) | 3:16 |
 | 4 | [Vazilando \- Radio Edit](https://open.spotify.com/track/2RLRhf7kmUTHCwh3QsXi5G) | [Gonan Drew](https://open.spotify.com/artist/7vMFXzl7w3Q4Jt0dmGJRqS) | [Vazilando](https://open.spotify.com/album/2lNgt39ta4lVjYN7mCoDUK) | 5:15 |
 | 5 | [Supernova](https://open.spotify.com/track/4Y6135FzHh1cqPz7dYAZCt) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Supernova](https://open.spotify.com/album/2gI747KJDHtlAcUwxpSpGw) | 2:32 |

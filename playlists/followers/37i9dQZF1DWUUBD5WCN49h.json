@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 14858,
+  "2024-05-04": 14859,
   "date_first_scraped": "2022-10-01",
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: F3line",
   "name": "Sizzlers ",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 180000,
       "name": "+44",
       "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 141992,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/77h8ylsHRqWAMkL3OWPHtA"
@@ -3128,6 +3128,24 @@
     },
     {
       "album": {
+        "name": "Tha Gawd - Side A",
+        "url": "https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6"
+      },
+      "artists": [
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0DwpN7XEunQTNDb3ceANPm"
+    },
+    {
+      "album": {
         "name": "Cotton Candy (Sweet Like)",
         "url": "https://open.spotify.com/album/381HEXGT1tAB97V4cxP0lH"
       },
@@ -3634,6 +3652,24 @@
     },
     {
       "album": {
+        "name": "Do You Wrong",
+        "url": "https://open.spotify.com/album/2qyMjL4RRrJYKFOjJylumL"
+      },
+      "artists": [
+        {
+          "name": "Trad",
+          "url": "https://open.spotify.com/artist/5wfrF1HNYrwwh2uUxae0Kw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154928,
+      "name": "Do You Wrong",
+      "url": "https://open.spotify.com/track/1W1EUFVDXPVzSJaGELzbLi"
+    },
+    {
+      "album": {
         "name": "Doing U Better",
         "url": "https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh"
       },
@@ -3819,6 +3855,24 @@
       "duration_ms": 178357,
       "name": "Don't Stop Believing",
       "url": "https://open.spotify.com/track/5WGfXuEnqIkaFHiimm017j"
+    },
+    {
+      "album": {
+        "name": "Don't Stop Tonight",
+        "url": "https://open.spotify.com/album/025wtOUUXO39GQ8qx1uu4m"
+      },
+      "artists": [
+        {
+          "name": "D G",
+          "url": "https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123783,
+      "name": "Don't Stop Tonight",
+      "url": "https://open.spotify.com/track/3h5IdmPoFnEYNXUGV50FP3"
     },
     {
       "album": {
@@ -4455,7 +4509,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179826,
       "name": "Fa Lala",
       "url": "https://open.spotify.com/track/3oDOczWpp1KiOYSb5LaWvp"
@@ -4921,7 +4975,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 115177,
       "name": "Flex",
       "url": "https://open.spotify.com/track/6hnpD2ITuful5OacuOaJ1t"
@@ -5901,6 +5955,28 @@
       "duration_ms": 157575,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/5y7w8e8F3Ipwt9KnZeXKMZ"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ"
+      },
+      "artists": [
+        {
+          "name": "Twiss Tosin",
+          "url": "https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK"
+        },
+        {
+          "name": "LordKnowz",
+          "url": "https://open.spotify.com/artist/5kMgDc2PSSyx2eUc3RZLdu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO"
     },
     {
       "album": {
@@ -8029,7 +8105,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184285,
       "name": "Know",
       "url": "https://open.spotify.com/track/2c9dcjP15etxA83s5PkMdn"
@@ -8181,7 +8257,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 170666,
       "name": "Lalalala",
       "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
@@ -12123,6 +12199,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/6NNRLvP9TQq4ECmZ4Z6w5V"
       },
       "artists": [
@@ -12369,7 +12463,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167741,
       "name": "Proverbs 31 Woman",
       "url": "https://open.spotify.com/track/4fi5eKXzsVMDo5lSxqWx6X"
@@ -12901,6 +12995,24 @@
       "duration_ms": 204900,
       "name": "RIDE N SING",
       "url": "https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t"
+    },
+    {
+      "album": {
+        "name": "Reintroduction",
+        "url": "https://open.spotify.com/album/2zNRvWwUSCHvyzRdNydVYQ"
+      },
+      "artists": [
+        {
+          "name": "Mariam Davina",
+          "url": "https://open.spotify.com/artist/51vfZpTHztEiU2zRPYgWiO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/23QQBPzq387FgvjbMVJK4A"
     },
     {
       "album": {
@@ -14177,7 +14289,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 121198,
       "name": "Special Ting",
       "url": "https://open.spotify.com/track/0ffu2K1gzPsyQGxUwy0OPZ"
@@ -14329,7 +14441,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 179112,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/6XDN480UFkVvFLhe5ZVrX8"
@@ -14671,7 +14783,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 116189,
       "name": "Sweetie Rebecca",
       "url": "https://open.spotify.com/track/3eHJskLizfSfy7bbhlnlm7"
@@ -15174,6 +15286,28 @@
     },
     {
       "album": {
+        "name": "This Your Love",
+        "url": "https://open.spotify.com/album/01fd8SgD5HD12GXjG7TRXX"
+      },
+      "artists": [
+        {
+          "name": "Loveb3rd",
+          "url": "https://open.spotify.com/artist/1FvbHhxGnWzxIJRIi4RpM5"
+        },
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153148,
+      "name": "This Your Love",
+      "url": "https://open.spotify.com/track/34MrlzU6wlpncR6UrF8ob6"
+    },
+    {
+      "album": {
         "name": "Thoughts",
         "url": "https://open.spotify.com/album/7mRqHWPSn8WwhKSJmEAL7G"
       },
@@ -15237,7 +15371,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 220800,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ"
@@ -15458,6 +15592,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/6WnjMhT6b5MgUwF6bHI6nh"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/5vVK17McjmUaEXBBtmgvHW"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/5QSy0gLXf5rdtjV5vHUmdX"
       },
@@ -15637,7 +15789,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 255483,
       "name": "Tufanye??",
       "url": "https://open.spotify.com/track/36PjGiuSiDBrdMtDw131Bj"
@@ -16190,6 +16342,24 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6tOWSPL3bvu7gvkRjx7S2z"
+      },
+      "artists": [
+        {
+          "name": "Joel Prodigee",
+          "url": "https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7yYHvtG3OvRQKVfhbaJqa6"
+    },
+    {
+      "album": {
         "name": "Weird Space",
         "url": "https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk"
       },
@@ -16259,7 +16429,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 165720,
       "name": "Whats Up",
       "url": "https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC"
@@ -16553,7 +16723,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167272,
       "name": "Win",
       "url": "https://open.spotify.com/track/7BBbeVgXfMmProAUAepV44"
@@ -16715,10 +16885,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144952,
       "name": "WRONGS",
       "url": "https://open.spotify.com/track/7ydl4S47WMYBgG54b2jet3"
+    },
+    {
+      "album": {
+        "name": "Wunmi",
+        "url": "https://open.spotify.com/album/57y5UNQeSlYhyPh1bFjKw4"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Wunmi",
+      "url": "https://open.spotify.com/track/0pujdli31EocqYmuXSZ2uw"
     },
     {
       "album": {

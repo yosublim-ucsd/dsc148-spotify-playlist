@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Down\-tempo and easy listening music\. Cover: Budjerah
+> Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,708 likes - 430 songs - 23 hr 7 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,707 likes - 430 songs - 23 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 2 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 3 | [Same Things](https://open.spotify.com/track/0lGfXIzwIPBLeP149vMCS9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx) | 2:49 |
-| 4 | [The Loneliest I Ever Was](https://open.spotify.com/track/0y7hOVuGBLrlttFeQ3NsgU) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Yours Forever](https://open.spotify.com/album/2dpE9xtpAn2WneiRfxWEN9) | 2:49 |
-| 5 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 |
-| 6 | [Between The Lines](https://open.spotify.com/track/7i22WLIibSqrRQrRh27nh9) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Between The Lines](https://open.spotify.com/album/3frKrSwNzjM5GimBgr2lnc) | 3:41 |
-| 7 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 4 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 5 | [The Loneliest I Ever Was](https://open.spotify.com/track/0y7hOVuGBLrlttFeQ3NsgU) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Yours Forever](https://open.spotify.com/album/2dpE9xtpAn2WneiRfxWEN9) | 2:49 |
+| 6 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 |
+| 7 | [Between The Lines](https://open.spotify.com/track/7i22WLIibSqrRQrRh27nh9) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Between The Lines](https://open.spotify.com/album/3frKrSwNzjM5GimBgr2lnc) | 3:41 |
 | 8 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 |
 | 9 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 10 | [MERLOT](https://open.spotify.com/track/30UDUJFpL8hEY6D0eiV7Gc) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [MERLOT](https://open.spotify.com/album/26xqHT27zigQm127bNp1li) | 3:16 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 429 | [Operator](https://open.spotify.com/track/0SEvjN9rWrif8YJPLePfrC) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 4:28 |
 | 430 | [COMPANY](https://open.spotify.com/track/5v44bEpQ6rYkvmOTMrxT1g) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [COMPANY](https://open.spotify.com/album/4uGVYkbs6vejP7wGaJ1NOm) | 3:27 |
 
-Snapshot ID: `AAAG7hOL/Kb4SpN8v08LCP14AXKJr8ec`
+Snapshot ID: `AAAG8EXWJ2q9Zq9tnNLn3FSIKvTRDrWp`

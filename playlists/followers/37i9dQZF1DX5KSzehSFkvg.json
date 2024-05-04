@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 64710,
+  "2024-05-04": 64730,
   "date_first_scraped": "2023-07-11",
   "description": "Les meilleurs hits Pop du Maghreb sont ici. Cover: Kawtar",
   "name": "Top Maghreb Pop",
@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Ana Li",
+        "url": "https://open.spotify.com/album/6wHY8wCwymtn21pP7v4ojF"
+      },
+      "artists": [
+        {
+          "name": "Rajaa Belmir",
+          "url": "https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp"
+        },
+        {
+          "name": "Omar Belmir",
+          "url": "https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201092,
+      "name": "Ana Li",
+      "url": "https://open.spotify.com/track/0QXWD3HCBZhErRayaX8MFz"
+    },
+    {
+      "album": {
         "name": "Ana Lik",
         "url": "https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn"
       },
@@ -339,6 +361,24 @@
       "duration_ms": 234382,
       "name": "Baqi",
       "url": "https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/65JXgsLC8qe5l2p2m5QMQr"
+      },
+      "artists": [
+        {
+          "name": "Ihab Amir",
+          "url": "https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245695,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/063GYMhvBMc2MO2pqGUFEW"
     },
     {
       "album": {
@@ -799,7 +839,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 213178,
       "name": "Heeya",
       "url": "https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA"
@@ -1315,7 +1355,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 184041,
       "name": "Malak",
       "url": "https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA"

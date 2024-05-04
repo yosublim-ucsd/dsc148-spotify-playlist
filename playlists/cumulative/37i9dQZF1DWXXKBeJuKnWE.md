@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Trash Boat
 
-325 songs - 19 hr 36 min
+327 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-21 | 2023-12-01 |
 | [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Abortion](https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Abortion](https://open.spotify.com/album/1ZcgrAlvWGlYthMo5bCsJC) | 2:40 | 2024-01-26 |  |
+| [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-03 |  |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-02-10 | 2023-03-25 |
 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 | 2022-11-10 | 2023-02-18 |
 | [All Or Nothing](https://open.spotify.com/track/4X7W1t7pii0H8i5YS4Zu5Z) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [All Or Nothing](https://open.spotify.com/album/4MzxRsRJOsaU76pZxhNUCI) | 3:18 | 2023-07-25 | 2024-01-27 |
@@ -32,7 +33,7 @@
 | [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-13 | 2023-08-11 |
 | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj) | 3:12 | 2023-10-13 |  |
 | [Better Way Out](https://open.spotify.com/track/2OVvGwLJ9IYY9wxPzissxv) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Better Way Out](https://open.spotify.com/album/1i1rVDmckHqPKFtxDrHM8d) | 4:36 | 2023-07-06 | 2023-07-14 |
-| [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 |  |
+| [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 | 2024-05-04 |
 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 | 2023-10-13 | 2024-04-19 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 |  |
 | [Bleeding](https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Death Melodies](https://open.spotify.com/album/7hMvX9SJmUEORfGoIlrLlB) | 3:18 | 2024-03-08 |  |
@@ -177,6 +178,7 @@
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-11 | 2023-08-05 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2023-07-26 |
 | [Lost In The Grandeur](https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:50 | 2022-11-10 | 2023-01-20 |
+| [Love And Pain](https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore Special Edition](https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf) | 4:13 | 2024-05-03 |  |
 | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/track/7l6IaO7sLMyvHfuqz2EkAO) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/album/48nf5ENyYy7vnZ0dILcyu4) | 2:30 | 2023-05-11 | 2024-03-08 |
 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-03-23 | 2023-07-26 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 | 2023-04-17 |
@@ -298,7 +300,7 @@
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2023-12-01 |  |
 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-04-11 |  |
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 | 2024-04-19 |
-| [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 |  |
+| [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 | 2024-05-04 |
 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 | 2023-04-21 | 2024-02-17 |
 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 | 2022-11-10 | 2023-07-26 |
 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 | 2024-04-19 |  |

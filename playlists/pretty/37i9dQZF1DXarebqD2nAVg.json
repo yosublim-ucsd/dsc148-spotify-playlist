@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447135,
+  "num_followers": 447130,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
+        "name": "Memories & Notes",
+        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 113357,
+      "name": "Memories & Notes",
+      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
         "name": "Lose Traction",
         "url": "https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 138663,
       "name": "roamwave",
       "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
-        "name": "Memories & Notes",
-        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 113357,
-      "name": "Memories & Notes",
-      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
     },
     {
       "added_at": "2024-03-20 14:41:15",

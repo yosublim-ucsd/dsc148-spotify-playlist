@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 886353,
+  "2024-05-04": 886453,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Tony Boy in cover, <a href=\"spotify:playlist:37i9dQZF1DWVjDgOMO8jZl\">uno dei 6 artisti RADAR 2024</a>!",
+  "description": "Solo il meglio dello street rap italiano. ANNA in cover \ud83d\udc8b",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2056,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/3WyrKzgCeGQQcUtW8ZwLMP"
+    },
+    {
+      "album": {
         "name": "BUTTERFLY (feat. Simba La Rue)",
         "url": "https://open.spotify.com/album/0LQztskA5rLSCCNMY2fqHx"
       },
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 176455,
       "name": "BUTTERFLY (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/64XgqICgALmJ4nGeuOc6LS"
@@ -4584,6 +4602,28 @@
     },
     {
       "album": {
+        "name": "Ninho De La Calle",
+        "url": "https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Guai (feat. Fre_nky)",
+      "url": "https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX"
+    },
+    {
+      "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
       },
@@ -5542,6 +5582,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "La Ca$$a",
+      "url": "https://open.spotify.com/track/5RNZaMaGSxrTkNVsMUqPOk"
+    },
+    {
+      "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
       },
@@ -6045,7 +6103,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 203504,
       "name": "LOS DIABLOS (feat. Artie 5ive & 167 Gang)",
       "url": "https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR"
@@ -6133,7 +6191,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 135652,
       "name": "Machiavelli (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
@@ -6576,6 +6634,28 @@
     },
     {
       "album": {
+        "name": "L'Angelo del Male",
+        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Miez A Via (feat. Geolier)",
+      "url": "https://open.spotify.com/track/1lKCEBF9dBDOklnyl5tbK9"
+    },
+    {
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -6953,7 +7033,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167076,
       "name": "Nato Per Questo",
       "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
@@ -7905,6 +7985,28 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "album": {
+        "name": "PETTINATO (feat. Side Baby)",
+        "url": "https://open.spotify.com/album/5MGxMhasNjC4TwEd5Sr6gt"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124629,
+      "name": "PETTINATO (feat. Side Baby)",
+      "url": "https://open.spotify.com/track/440qvNmOk5Doccg3MIFzGg"
     },
     {
       "album": {
@@ -9420,6 +9522,24 @@
     },
     {
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151515,
+      "name": "Soldi Arrotolati",
+      "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+    },
+    {
+      "album": {
         "name": "Soldi Puliti",
         "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
       },
@@ -9906,6 +10026,32 @@
     },
     {
       "album": {
+        "name": "T10",
+        "url": "https://open.spotify.com/album/6DlUG1SCjHeq666F4aPoox"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "T10",
+      "url": "https://open.spotify.com/track/5O4dxlXUhsrpUxojfZTwKW"
+    },
+    {
+      "album": {
         "name": "TAF TAF",
         "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
       },
@@ -10379,7 +10525,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 167624,
       "name": "TOWN",
       "url": "https://open.spotify.com/track/3fQyOBCQBj3gZfc9Q4e5P1"
@@ -10515,7 +10661,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144864,
       "name": "TUNNEL",
       "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"
@@ -11387,7 +11533,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 162935,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr"

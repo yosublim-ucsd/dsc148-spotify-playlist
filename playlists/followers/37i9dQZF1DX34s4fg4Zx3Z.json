@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 22475,
+  "2024-05-04": 22507,
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Tu\u1ea5n V\u00f5",
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: The Cassette",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -2431,7 +2431,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 264786,
       "name": "Ban Ng\u00e0y N\u1eb1m M\u01a1",
       "url": "https://open.spotify.com/track/7K9yid5VYfPVqM52XYbnOA"
@@ -3773,7 +3773,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 202500,
       "name": "B\u1eadn L\u00f2ng",
       "url": "https://open.spotify.com/track/3q5U9H4GzUPnJ6USUKH6h1"
@@ -4743,7 +4743,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 190191,
       "name": "Ch\u00e0o bu\u1ed5i s\u00e1ng",
       "url": "https://open.spotify.com/track/5cawhr5FgDitCCFljl4rWd"
@@ -13276,6 +13276,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00e1ch M\u1eddi",
+        "url": "https://open.spotify.com/album/2R3nHhhelaDr2X6h2pOGRj"
+      },
+      "artists": [
+        {
+          "name": "Phan Y\u1ebfn Nhi",
+          "url": "https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289759,
+      "name": "Kh\u00e1ch M\u1eddi",
+      "url": "https://open.spotify.com/track/4dqebxMNdPhq5GPJpdW62i"
+    },
+    {
+      "album": {
         "name": "Kh\u00e1ch m\u1eddi (lofi)",
         "url": "https://open.spotify.com/album/5AsMzIvengLU7DsxCbQzQA"
       },
@@ -17501,7 +17519,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 186519,
       "name": "M\u1eb7t N\u1ea1 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/24mpIf2LSG0lYTyMeru8VG"
@@ -20414,6 +20432,24 @@
     },
     {
       "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/1XphmO08ShDpzp8QP2rPv6"
+      },
+      "artists": [
+        {
+          "name": "dNam",
+          "url": "https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212582,
+      "name": "N\u1ebfu em c\u00f3 v\u1ec1",
+      "url": "https://open.spotify.com/track/2cc7rk3aTGC9Tv6PgHe61Z"
+    },
+    {
+      "album": {
         "name": "N\u1ebfu Kh\u00f4ng G\u00ec Thay \u0110\u1ed5i (feat. Mu\u1ed9ii) [Another Version]",
         "url": "https://open.spotify.com/album/2DIGbiGV1O580mfiSSyZp6"
       },
@@ -23226,6 +23262,24 @@
     },
     {
       "album": {
+        "name": "T\u1eeb V\u1ef1c Th\u1eb3m \u0110\u1ebfn R\u00eca \u00c1nh S\u00e1ng",
+        "url": "https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z"
+      },
+      "artists": [
+        {
+          "name": "The Cassette",
+          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "So\u1ea1n",
+      "url": "https://open.spotify.com/track/6M3x8hn7OYct4DXZZYKvEa"
+    },
+    {
+      "album": {
         "name": "Splendid",
         "url": "https://open.spotify.com/album/4ooMTDuDopmq0RlfCFyMzl"
       },
@@ -25770,6 +25824,24 @@
     },
     {
       "album": {
+        "name": "T\u1eeb V\u1ef1c Th\u1eb3m \u0110\u1ebfn R\u00eca \u00c1nh S\u00e1ng",
+        "url": "https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z"
+      },
+      "artists": [
+        {
+          "name": "The Cassette",
+          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326422,
+      "name": "Treo (2am)",
+      "url": "https://open.spotify.com/track/5kGsa6CIvN5RaTb3rKzUdL"
+    },
+    {
+      "album": {
         "name": "Tri K\u1ef7",
         "url": "https://open.spotify.com/album/45p5URyPipuzapUUXpD5rP"
       },
@@ -27185,7 +27257,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 289855,
       "name": "T\u1ea1i Sao Kh\u00f4ng N\u00f3i",
       "url": "https://open.spotify.com/track/1N4T4aZm8lIEAqL2oSafId"
@@ -32249,6 +32321,28 @@
       "duration_ms": 287759,
       "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ed9c T\u1ea5u",
+        "url": "https://open.spotify.com/album/2NOKd5icDwO6s5xtBLLcMz"
+      },
+      "artists": [
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh"
+        },
+        {
+          "name": "Yamix H\u1ea7u Ca",
+          "url": "https://open.spotify.com/artist/18iwGxdJmSK5EYvWyORNsx"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "\u0110\u1ed9c T\u1ea5u",
+      "url": "https://open.spotify.com/track/5orwmnojt4ThS0cdoR8Se6"
     },
     {
       "album": {

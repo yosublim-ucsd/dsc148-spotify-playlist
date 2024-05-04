@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>M\u00f6tley Cr\u00fce</b>",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>P.O.D.</b>",
   "name": "VOLUME",
   "tracks": [
     {
@@ -583,6 +583,32 @@
     },
     {
       "album": {
+        "name": "Veritas",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
+    },
+    {
+      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
       },
@@ -1121,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
+    },
+    {
+      "album": {
         "name": "April Showers",
         "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
@@ -1598,7 +1642,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
@@ -2543,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "album": {
         "name": "Break (feat. Atreyu)",
         "url": "https://open.spotify.com/album/1eTo6j9TnscQfp0bUUl9dL"
       },
@@ -2602,6 +2664,24 @@
       "duration_ms": 179688,
       "name": "Break the Mold",
       "url": "https://open.spotify.com/track/5hjvbLXLfNgRmylohmmSy7"
+    },
+    {
+      "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "album": {
@@ -4352,7 +4432,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
@@ -4750,7 +4830,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. Bert McCracken)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
@@ -7451,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "There Goes The Neighbourhood",
+        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w"
+    },
+    {
+      "album": {
         "name": "Ghosted",
         "url": "https://open.spotify.com/album/5R0BZ1kvWdyIgprKpPgeAf"
       },
@@ -9717,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "album": {
         "name": "IT'S YOUR LACK OF RESPECT",
         "url": "https://open.spotify.com/album/2uzDhEhJXQlls4uOBkXKCp"
       },
@@ -10890,7 +11006,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 141333,
       "name": "LIGHTHOUSE",
       "url": "https://open.spotify.com/track/5VuzFzdNs6Rqybv6f2OmXZ"
@@ -14720,7 +14836,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
@@ -18350,7 +18466,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 189113,
       "name": "The Flowering",
       "url": "https://open.spotify.com/track/460bVuH1Az7OH4bC87PoWY"

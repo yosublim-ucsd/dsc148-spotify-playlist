@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 216964,
+  "2024-05-04": 216927,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. RIZHA",
   "name": "helium",
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 153630,
       "name": "ESA MISMA NOCHE",
       "url": "https://open.spotify.com/track/1XL0v02xUZoMji1JxpeyI5"
@@ -1553,6 +1553,28 @@
       "duration_ms": 213000,
       "name": "estr333s",
       "url": "https://open.spotify.com/track/3fEirtdnmiW0BZNKs0mfxF"
+    },
+    {
+      "album": {
+        "name": "Estrella De La Noche",
+        "url": "https://open.spotify.com/album/21uXi8TrDnKuCRARfnia6G"
+      },
+      "artists": [
+        {
+          "name": "Imperial Blxndie",
+          "url": "https://open.spotify.com/artist/7yLoYQcZVkMgie2CvjpuT1"
+        },
+        {
+          "name": "Iced Coffeeboy",
+          "url": "https://open.spotify.com/artist/37vyOCKaeLQZKGtMd8iadR"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185460,
+      "name": "Estrella De La Noche",
+      "url": "https://open.spotify.com/track/3GGd933RB3nS915oezHTJl"
     },
     {
       "album": {

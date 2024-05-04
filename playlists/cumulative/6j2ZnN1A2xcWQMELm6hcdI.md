@@ -4,13 +4,14 @@
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Normani
 
-459 songs - 22 hr 43 min
+463 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(still ur\) SCREENSAVER](https://open.spotify.com/track/1P4c6mov2eCTYguQIXbyAH) | [TOMGIRL504EVER](https://open.spotify.com/artist/6X9QKhznQB6EYTlV325akc) | [\(still ur\) SCREENSAVER](https://open.spotify.com/album/6fEMczS12dAKuRSBmiMTVi) | 2:07 | 2024-02-01 |  |
 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 | 2023-12-08 |  |
 | [1\-800\-GOT\-STRESS](https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [1\-800\-GOT\-STRESS](https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ) | 3:09 | 2023-06-02 |  |
+| [100 Bands](https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [100 Bands](https://open.spotify.com/album/4c4krYMGjRDh5FxtEEQhP2) | 2:07 | 2024-05-03 |  |
 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 | 2023-05-19 |  |
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 |  |
 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-12 |  |
@@ -140,6 +141,7 @@
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 |  |
 | [Evangeline \- bedroom sessions](https://open.spotify.com/track/3uxcO1EhggfMxswMdcOMrc) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Evangeline \(bedroom sessions\)](https://open.spotify.com/album/0eZjtTvS2HwKmUYJPvkc7f) | 3:09 | 2023-05-05 |  |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-06-10 |
+| [Expensive \(feat\. Flo Milli\)](https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Expensive \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35) | 3:01 | 2024-05-03 |  |
 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 | 2023-07-07 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-06-03 | 2023-02-05 |
 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 | 2022-06-03 | 2023-03-18 |
@@ -404,6 +406,7 @@
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 |  |
 | [tamale](https://open.spotify.com/track/3wYBsydE652XR0KSmUegEZ) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [tamale](https://open.spotify.com/album/5YhH1YhPsOhn4Zg3satPMh) | 2:14 | 2022-06-03 | 2023-03-25 |
 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 | 2022-06-24 | 2023-03-25 |
+| [Te Espero Sentada](https://open.spotify.com/track/4bEY1yu9hUoDslA1oc9OIa) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [En Otra Vida](https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD) | 2:44 | 2024-05-03 |  |
 | [Technique \(Sprite Limelight\)](https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Technique \(Sprite Limelight\)](https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1) | 2:23 | 2023-08-18 |  |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-06-10 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-12 |  |
@@ -467,5 +470,6 @@
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
 | [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 | 2023-05-05 |  |
 | [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 | 2024-03-22 |  |
+| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-05-03 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

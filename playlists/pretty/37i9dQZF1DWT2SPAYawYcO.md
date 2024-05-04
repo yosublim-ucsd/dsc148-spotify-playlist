@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,675 likes - 84 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,747 likes - 84 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 15 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
 | 16 | [Days Of The Week](https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Days Of The Week](https://open.spotify.com/album/3Mxp2vbDYmA1vtoQ5lAkwB) | 3:32 |
 | 17 | [CANADA \(w/ jnhygs\) \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \(w/ jnhygs\) \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 |
-| 18 | [Miles on It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Miles on It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 18 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 19 | [Big Wigs](https://open.spotify.com/track/3kQbrKm8wlltjW3WQedAsz) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Jupiter](https://open.spotify.com/album/3G03d2kICeS203zzQrSt9j) | 2:56 |
 | 20 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 |
 | 21 | [World Collapsing](https://open.spotify.com/track/54U3uh0DEnN4FacyBpGbCj) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [World Collapsing](https://open.spotify.com/album/4NIepjlsLLb7reEDqGQhQb) | 4:05 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 58 | [Manila](https://open.spotify.com/track/2OtUyvATrWPXSVxwMNMfqX) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [Manila](https://open.spotify.com/album/6NiBBxcWeaBPx58J3jkVHt) | 3:27 |
 | 59 | [Get Lit](https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get Lit](https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde) | 3:26 |
 | 60 | [Magnus II](https://open.spotify.com/track/1gt4xLxedUyHSFtCZDNNgi) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Magnus II](https://open.spotify.com/album/1VVhURJ42Rm6zqNfnlaEIS) | 4:13 |
-| 61 | [Somedays](https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Somedays](https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7) | 3:53 |
+| 61 | [Some Days](https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Some Days](https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7) | 3:53 |
 | 62 | [Gangsta Lean](https://open.spotify.com/track/6cCUTFJ2uRzTO205PGTkhS) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Gangsta Lean](https://open.spotify.com/album/0hgmt43uuaYXt5xcd3vBmF) | 3:23 |
 | 63 | [Ur Luv](https://open.spotify.com/track/6mxStNzF1zwZI1BnG3AgRC) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Ur Luv](https://open.spotify.com/album/17WU2suTMATe6nwXatrNmc) | 3:52 |
 | 64 | [Kiss the Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss the Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 |

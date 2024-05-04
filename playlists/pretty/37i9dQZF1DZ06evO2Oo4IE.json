@@ -1,12 +1,12 @@
 {
-  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 178057,
+  "description": "This is Janis Joplin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 178079,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAABe6wFRiv6i+LIRj5tPLrXT",
+  "snapshot_id": "ZjLXgAAAAACssotJ24/2tjTPNwru3tH0",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+        "name": "Janis Joplin's Greatest Hits",
+        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
+      "duration_ms": 479600,
+      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin's Greatest Hits",
-        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 479600,
-      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
+      "duration_ms": 143360,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -779,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 237559,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joplin In Concert",
         "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
@@ -815,6 +779,26 @@
       "duration_ms": 345800,
       "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
       "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
     },
     {
       "added_at": null,

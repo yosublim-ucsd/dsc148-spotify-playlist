@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > 
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 53,466 likes - 61 songs - 3 hr 35 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 53,432 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

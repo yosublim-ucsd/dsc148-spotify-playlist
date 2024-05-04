@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=JaM1DQtzR\_m7WRi47RP6NA>Manana</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=1JTMf38\_RxahO7HM59iohQ>Qing Madi</a>, <a href=https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR?si=1IheAN6fQLqYLiclUMcpKw>Chloë</a>
 
-230 songs - 12 hr 8 min
+233 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-04-18 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 |  |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
+| [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 |  |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [Love Letters](https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 2:38 | 2023-10-26 | 2024-03-15 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-25 |  |
@@ -194,6 +195,7 @@
 | [So Lonely \- Tony Duardo Remix](https://open.spotify.com/track/29FIJcySX9HSKStH8fIvXV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [So Lonely \(Tony Duardo Remix\)](https://open.spotify.com/album/7FwzPtg4AStHnXVtIF78Cw) | 3:49 | 2023-10-12 | 2024-02-09 |
 | [Someone Like You](https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy) | [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Desires](https://open.spotify.com/album/1jxx3QjNXfKNRkpN6bkdvz) | 3:09 | 2024-02-08 | 2024-04-26 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-01-13 |
+| [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-05-03 |  |
 | [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 |  |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 |  |
 | [Sticky](https://open.spotify.com/track/7uVUoTvxC1nOAuZBr72DWS) | [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4) | [LOSE CTRL](https://open.spotify.com/album/4sfRXbUnks97MCW5LqtfkI) | 3:47 | 2023-10-12 | 2023-10-20 |
@@ -219,6 +221,7 @@
 | [Untitled](https://open.spotify.com/track/3SDuxybGXAPeLV4vvR2uwF) | [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [Interludes](https://open.spotify.com/album/2yrT3MXQ26xeb7KjVcSTTn) | 2:28 | 2024-02-22 | 2024-04-19 |
 | [Uzong'khumbula](https://open.spotify.com/track/7mD56wV0H5HlbXzujpKFDS) | [Kallo](https://open.spotify.com/artist/2r0WWQy8Ro4SuaxPq1gIVO) | [Uzong'khumbula](https://open.spotify.com/album/5bhqSLe1lWwDTieAYnYtby) | 4:09 | 2023-11-09 | 2024-01-26 |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-11-16 |  |
+| [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 |  |
 | [Voodoo](https://open.spotify.com/track/2ryIzbmrbRWMfhelJiVcR8) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Voodoo](https://open.spotify.com/album/73hkRIHrOXz1RlVITE16mY) | 3:04 | 2023-10-12 | 2023-10-20 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2024-02-08 |  |
 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 | 2024-02-22 |  |

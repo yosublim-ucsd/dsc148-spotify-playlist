@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-83 songs - 4 hr 55 min
+87 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando Pase El Temblor](https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Cuando Pase El Temblor](https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d) | 4:56 | 2021-05-13 |  |
 | [De Musica Ligera](https://open.spotify.com/track/4t4WLbLGtGF8SLat7erPRI) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [De Musica Ligera](https://open.spotify.com/album/2WBqtI7ilp1ldg2eBIpMLO) | 3:10 | 2021-05-13 |  |
+| [De Verdad \- Versión Acústica](https://open.spotify.com/track/6W9UqX0GbQm78CCwaJtDn3) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Versiones Para El Tiempo Y La Distancia, Vol\. 2](https://open.spotify.com/album/3nuFz3EVPwX5eyUYKezjIS) | 3:23 | 2024-05-03 |  |
 | [Dejate Caer \- Unplugged Version](https://open.spotify.com/track/12J5Y7Ep2WgK91vtop1HHX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:29 | 2021-05-13 |  |
-| [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 | 2021-05-13 |  |
+| [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 | 2021-05-13 | 2024-05-04 |
 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 | 2021-05-13 |  |
+| [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 | 2024-05-03 |  |
 | [Domingo de Ceniza](https://open.spotify.com/track/4sOlPDKhf5fKPOAcWyBE1t) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:48 | 2023-03-17 | 2023-04-01 |
 | [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 | 2023-11-22 |  |
 | [El Amor Despues Del Amor](https://open.spotify.com/track/2UInWUPg1jiOkXWCBr2CKD) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Amor Despues Del Amor](https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI) | 3:00 | 2021-05-13 |  |
@@ -90,6 +92,8 @@
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |
 | [Veneno Vil](https://open.spotify.com/track/5Tuesi0A7MxD6nU2UoHt00) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Veneno Vil](https://open.spotify.com/album/0DzCTqhV9LpnFSYYNVAgsE) | 3:13 | 2021-05-13 |  |
+| [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/track/340jugUb06Yq0CwiUnZT50) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/album/61P20Js8bZj20akjMyHqdY) | 2:49 | 2024-05-03 |  |
+| [Ya No Llores Más](https://open.spotify.com/track/4lOmtrxu0fqqJXoA61zuUa) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Ya No Llores Más](https://open.spotify.com/album/3WF0Dh8UqHVhLOptDetOUE) | 3:00 | 2024-05-03 |  |
 | [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

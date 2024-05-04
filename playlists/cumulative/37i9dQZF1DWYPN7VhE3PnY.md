@@ -4,7 +4,7 @@
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-63 songs - 3 hr 53 min
+64 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2023-01-05 |  |
 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2023-01-05 | 2024-04-19 |
 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 | 2023-01-05 |  |
-| [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 | 2023-11-15 |  |
+| [One Wrong Move](https://open.spotify.com/track/1F3PsLL945LiG4WzNauTTX) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp), [Lloren](https://open.spotify.com/artist/6BXnCNvWCmFRvlMazWAomB) | [One Wrong Move](https://open.spotify.com/album/4JKKiPROj8SnydfYYy0rYm) | 3:42 | 2024-03-04 |  |
+| [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 | 2023-11-15 | 2024-05-04 |
 | [Saturn Return](https://open.spotify.com/track/1YHj0psFLzoAS9Dvq4HISp) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf), [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi), [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Saturn Return](https://open.spotify.com/album/4bP6i3HMC80i32M7SPg4kG) | 2:15 | 2023-09-07 |  |
 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 | 2023-01-05 |  |
 | [Siren](https://open.spotify.com/track/4xb8JHIN56xixSl6vkSPjm) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Siren](https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi) | 3:20 | 2023-01-05 |  |

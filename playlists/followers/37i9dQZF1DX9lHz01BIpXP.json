@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 1517,
+  "2024-05-04": 1523,
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ\">Benjamen</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5-3ltZAmQIajFl12I2zImA\">Early B</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -2441,6 +2441,24 @@
       "duration_ms": 183062,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
+    },
+    {
+      "album": {
+        "name": "Tolgevang",
+        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
+      },
+      "artists": [
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Tolgevang",
+      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
     },
     {
       "album": {

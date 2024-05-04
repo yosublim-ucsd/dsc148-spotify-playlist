@@ -4,14 +4,14 @@
 
 > Big hits from the world of acoustics.
 
-470 songs - 1 day 3 hr 52 min
+471 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2021-03-09 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-03-09 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2021-03-09 |  |
-| [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 | 2021-03-09 |  |
+| [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 | 2021-03-09 | 2024-05-04 |
 | [A Thousand Miles \- Acoustic](https://open.spotify.com/track/1YuUPfLPOyvB1QYDKam0tc) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/4dbG2curXKnkFG8XYEj9eY) | 4:38 | 2022-01-10 | 2024-04-19 |
 | [A Thousand Miles \- Acoustic](https://open.spotify.com/track/3TojJXOWkr1uGG36WfbefQ) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Acoustic Vibe](https://open.spotify.com/album/0815ClGgpPW7rk7jXz2vad) | 4:38 | 2022-01-10 | 2022-11-13 |
 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 | 2021-03-09 |  |
@@ -156,6 +156,7 @@
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/7ahKxobHI1fMPSbhf9KvyP) | 3:22 | 2021-03-09 |  |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24) | 3:22 | 2022-01-10 | 2024-04-19 |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/4xLPimxtUDL7lJ6gouXVFK) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Live Version](https://open.spotify.com/album/2WOqsN4x4QiKLq6Ze9LonA) | 3:22 | 2022-01-10 | 2022-11-13 |
+| [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/1QDnmfye4v7yZ7RBPFjzXT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Noonie Bao Acoustic Mix\)](https://open.spotify.com/album/3s5esxv8ThJSUlQ1J6ezpE) | 3:51 | 2023-10-23 |  |
 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/1QSBIX7yP1krOq9TtX7iY9) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Acoustic Dance](https://open.spotify.com/album/7ENA1OJWzHqzVXHBoLu5Se) | 3:51 | 2022-01-10 | 2022-11-13 |
 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 | 2022-01-10 | 2023-10-29 |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2021-03-09 |  |

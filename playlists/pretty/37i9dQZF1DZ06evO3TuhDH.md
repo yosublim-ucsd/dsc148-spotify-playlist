@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray\. The essential tracks, all in one playlist.
+> This Is Coi Leray\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 16,025 likes - 51 songs - 2 hr 22 min
 
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 48 | [Paranoid \(with Polo G\)](https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:27 |
 | 49 | [What U Want](https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What U Want](https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh) | 3:44 |
 | 50 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 |
-| 51 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
+| 51 | [Sex So Good \(feat\. Coi Leray\)](https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:32 |
 
-Snapshot ID: `ZjGGAAAAAAD4dyEIkjSFEXqNOP9hgevt`
+Snapshot ID: `ZjLXgAAAAACioHLVcvJZVczm3NiXEV7J`

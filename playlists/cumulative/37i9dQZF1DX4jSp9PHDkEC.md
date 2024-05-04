@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-535 songs - 1 day 12 hr 5 min
+536 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-01-17 | 2024-04-19 |
 | [Beating](https://open.spotify.com/track/5EQHQEFO3S4Kv20cD6wSRX) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Colourgrade](https://open.spotify.com/album/0Uu5MAL65d04IDQ3h1waXy) | 3:41 | 2023-01-17 |  |
 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-25 | 2023-10-27 |
-| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 | 2024-04-29 |
+| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 |  |
 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 | 2024-04-19 |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Behind the Backs of Houses](https://open.spotify.com/track/2m1iKwWyFR49YOVUpX6FG0) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/1s8AIgVgFsMkigJlEz23ht) | 6:38 | 2023-01-17 |  |
@@ -130,7 +130,7 @@
 | [Dream](https://open.spotify.com/track/2hyi2lp9nOTbTtNUpdYZFq) | [Jesper Zacco](https://open.spotify.com/artist/7BPXZSsEdd5Da674ciA284) | [Dream](https://open.spotify.com/album/1NA38XFxLQWFoHp7LTPNw4) | 4:12 | 2023-01-17 |  |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2023-01-17 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2023-01-17 | 2023-10-30 |
-| [Dreams](https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/1tNF8fGMGdCpHnZybCGW0R) | 4:39 | 2023-01-17 |  |
+| [Dreams](https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/1tNF8fGMGdCpHnZybCGW0R) | 4:39 | 2023-01-17 | 2024-05-04 |
 | [Dreams](https://open.spotify.com/track/4cqtXFFWc1AZaPw2qX8anQ) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:39 | 2023-01-17 | 2024-04-19 |
 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 | 2023-01-17 |  |
 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2023-01-17 | 2024-04-19 |
@@ -293,7 +293,7 @@
 | [Marin solitaire](https://open.spotify.com/track/2qDrA92gPqqc3wWS6m4VSR) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Marin solitaire](https://open.spotify.com/album/7x9znX7uVsArIoYcSLpapO) | 3:26 | 2023-01-17 |  |
 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 | 2023-01-17 | 2024-04-19 |
 | [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 | 2023-10-27 |
-| [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 |  |
+| [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2024-05-04 |
 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-06-30 | 2024-04-19 |
 | [Michigan](https://open.spotify.com/track/0u0DSp1eSzb4i3ErTCaTEG) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Singles](https://open.spotify.com/album/6EXy3sgDAoWuR5zyPm150T) | 3:35 | 2023-01-17 | 2024-04-19 |
 | [midnight sun](https://open.spotify.com/track/1podyfJH4yaihSJwZ5lF47) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/0AgaSbt6wqiK97bo9o3l5a) | 4:42 | 2023-01-17 |  |
@@ -380,6 +380,7 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-01-17 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjIjq7plLZgCmyHRpj042) | [Alih Jey](https://open.spotify.com/artist/5mdcH0FX9YUTUv9PXlxhBa) | [Running Up That Hill](https://open.spotify.com/album/7JT4iABklvGFoSUwGaqzhf) | 4:11 | 2023-01-17 |  |
 | [Running Up That Hill \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 3:56 | 2023-01-17 |  |
+| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 |  |
 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Safe With Me](https://open.spotify.com/track/6JXNQLqk8iSHgHp4ag7498) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [From Gas to Solid / you are my friend](https://open.spotify.com/album/0jDK15E80QD5ekIOlqdY7h) | 3:17 | 2023-01-17 | 2024-04-19 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |

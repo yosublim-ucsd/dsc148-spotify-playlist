@@ -1,15 +1,15 @@
 {
-  "description": "Taking it way back! Cover: Rick Ross",
-  "num_followers": 3679892,
+  "description": "Taking it way back! Cover: Snoop Dogg",
+  "num_followers": 3680222,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi6IFAAAAABiBzK/gJusiVFLrbHs6RpB",
+  "snapshot_id": "ZjRjhwAAAACQJxCYfgeOS2X+u8djieB/",
   "tracks": [
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -29,23 +29,27 @@
       "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+        "name": "No Limit Top Dogg",
+        "url": "https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
         }
       ],
-      "duration_ms": 317506,
-      "name": "Southernplayalisticadillacmuzik",
-      "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
+      "duration_ms": 234533,
+      "name": "Bitch Please",
+      "url": "https://open.spotify.com/track/5Sm1X46tna50RstHZvw072"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
@@ -65,7 +69,23 @@
       "url": "https://open.spotify.com/track/1mFxMJ2UZGFow4sx75vJ6Z"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Lupe Fiasco's The Cool",
         "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
@@ -85,23 +105,39 @@
       "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
-        "name": "Deeper Than Rap",
-        "url": "https://open.spotify.com/album/1V7LkBaQoxo0wbd0iKkn5a"
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 256400,
-      "name": "Mafia Music",
-      "url": "https://open.spotify.com/track/4IgP2sTH5RYOpx9gbHQyMT"
+      "duration_ms": 313546,
+      "name": "No Vaseline",
+      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Player's Ball",
+      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -117,23 +153,7 @@
       "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Gin and Juice",
-      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Slim Shady LP (Expanded Edition)",
         "url": "https://open.spotify.com/album/10nO3EJJDMm6j6d2uK3Jah"
@@ -181,7 +201,31 @@
       "url": "https://open.spotify.com/track/0Fv6CfegUbD5Egs0dj8CVB"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "No Limit Top Dogg",
+        "url": "https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "C-Murder",
+          "url": "https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x"
+        },
+        {
+          "name": "Magic",
+          "url": "https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Down 4 My N's",
+      "url": "https://open.spotify.com/track/14uUTfHIwIp587cz13UI5A"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
@@ -197,7 +241,7 @@
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Stillmatic",
         "url": "https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6"
@@ -213,23 +257,7 @@
       "url": "https://open.spotify.com/track/06UPCXzhIsXnceSXmKLMEY"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/135lkyQRwFlWfmHjJTxtld"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
@@ -249,7 +277,95 @@
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity",
+      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 317506,
+      "name": "Southernplayalisticadillacmuzik",
+      "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "My Krazy Life",
+        "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 235632,
+      "name": "My Nigga",
+      "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Gin and Juice",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Slim Shady LP (Expanded Edition)",
         "url": "https://open.spotify.com/album/10nO3EJJDMm6j6d2uK3Jah"
@@ -269,39 +385,7 @@
       "url": "https://open.spotify.com/track/2iW8D4Vdy8lrOEBkYEJOzd"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity",
-      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
@@ -321,7 +405,7 @@
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
@@ -341,23 +425,7 @@
       "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Death Certificate",
-        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "No Vaseline",
-      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -373,7 +441,7 @@
       "url": "https://open.spotify.com/track/3EjmNhVqZ4FjK8ZyVKWKM6"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Asleep In The Bread Aisle",
         "url": "https://open.spotify.com/album/6QCSrh0eusuJrRpYjnmtTN"
@@ -389,7 +457,7 @@
       "url": "https://open.spotify.com/track/1akgiRM3mN2nxu2AX6ACCW"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
@@ -417,7 +485,7 @@
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
@@ -437,7 +505,7 @@
       "url": "https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -493,7 +561,7 @@
       "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Southernplayalisticadillacmuzik",
         "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
@@ -529,7 +597,7 @@
       "url": "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Slim Shady LP (Expanded Edition)",
         "url": "https://open.spotify.com/album/10nO3EJJDMm6j6d2uK3Jah"
@@ -545,7 +613,7 @@
       "url": "https://open.spotify.com/track/3zXGMmgIygV00eFxyqmbeO"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
@@ -561,7 +629,7 @@
       "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
@@ -577,7 +645,7 @@
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -601,7 +669,7 @@
       "url": "https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
@@ -621,7 +689,7 @@
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
@@ -637,39 +705,7 @@
       "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Player's Ball",
-      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Chicken - N - Beer",
         "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -709,7 +745,27 @@
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
+      "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
@@ -733,7 +789,7 @@
       "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
@@ -749,7 +805,7 @@
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
@@ -765,7 +821,7 @@
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
@@ -781,7 +837,7 @@
       "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
@@ -797,23 +853,7 @@
       "url": "https://open.spotify.com/track/6QdVBqkKNUqCqercvUHMkP"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -833,35 +873,7 @@
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        },
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
-      "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
-    },
-    {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Ready to Die (The Remaster)",
         "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
@@ -877,7 +889,7 @@
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -893,7 +905,7 @@
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Trap Muzik",
         "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
@@ -909,7 +921,7 @@
       "url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
     },
     {
-      "added_at": "2024-04-28 17:32:04",
+      "added_at": "2024-05-03 04:09:43",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"

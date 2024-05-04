@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 537110,
+  "2024-05-04": 537186,
   "date_first_scraped": "2022-05-31",
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
   "name": "This Is Five Finger Death Punch",
@@ -2138,6 +2138,24 @@
     },
     {
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
+    },
+    {
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
       },
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"

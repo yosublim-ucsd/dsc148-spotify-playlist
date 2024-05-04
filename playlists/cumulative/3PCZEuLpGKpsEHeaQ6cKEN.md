@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Fedde Le Grand
 
-1,018 songs - 2 day 6 hr 31 min
+1,019 songs - 2 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Hear U](https://open.spotify.com/track/4OqzTUnNcYXJ8hLhvkwa5i) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Hear U](https://open.spotify.com/album/3ipY5dqZuxwkQUNyfFhgPD) | 3:28 | 2023-12-07 | 2024-04-05 |
 | [Heartbeat \- Joachim Pastor Remix](https://open.spotify.com/track/6evgHqkkOC3b4CvBu4i4Dp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [George Maple](https://open.spotify.com/artist/19m3oZKjGSLzVW0OGIAcNg), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Heartbeat \(Joachim Pastor Remix\)](https://open.spotify.com/album/5c1HSW5iZk2LUI1Nd97Cbl) | 4:01 | 2023-03-30 | 2023-07-21 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2022-06-09 | 2022-10-14 |
+| [Heaven](https://open.spotify.com/track/1tY5yzx4n1A6ugSOrT1MlF) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/4Czr2eLWiUt10jmlulnhrm) | 2:45 | 2024-05-03 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-06-09 | 2023-03-10 |
 | [HELLO 2K22](https://open.spotify.com/track/50iCAV06s0g1cPOoZSNR77) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn) | [HELLO 2K22](https://open.spotify.com/album/6TAXMd648Ma2FmiEY6w9gN) | 3:25 | 2022-06-30 | 2022-08-12 |
 | [Helter Skelter](https://open.spotify.com/track/6c47kb1UyEDDK6r3EJu1Dj) | [Kokiri](https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv) | [Helter Skelter](https://open.spotify.com/album/5SimEb9VfV4K7GmeeLogha) | 2:52 | 2022-11-17 | 2023-01-13 |

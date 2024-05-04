@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-2,572 songs - 7 day 19 hr 4 min
+2,574 songs - 7 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Exposed](https://open.spotify.com/track/7kwHZG9ylcxS3TbsvjPNEq) | [J\. Idahosa](https://open.spotify.com/artist/3828644WeUb0vBaRcrInkx), [Foehw](https://open.spotify.com/artist/0pjGl7nx6nFrgISJFmNOQH) | [Exposed](https://open.spotify.com/album/0pllqIWkD0mKl5iR9lmWK4) | 3:38 | 2023-06-23 | 2023-07-07 |
 | [Extra](https://open.spotify.com/track/6BDDuQ22E1mZ4AW3lDeQGO) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Extra](https://open.spotify.com/album/3fFRSxihlYY626RgMOrAMp) | 2:14 | 2023-07-28 | 2023-08-04 |
 | [Extract Gold](https://open.spotify.com/track/4e0QTWqPVxQLKS4qXm2L3M) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK) | [Extract Gold](https://open.spotify.com/album/6CsyEprF1sUnLDIstpfQ5z) | 4:17 | 2023-10-13 | 2023-10-27 |
+| [Eyac Renewal Praise](https://open.spotify.com/track/6wmoLFNQ1QVd7SkD7A0qma) | [Kidamrproducer](https://open.spotify.com/artist/381cD0cV1gKQO9450pDGRx), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7) | [Eyac Renewal Praise](https://open.spotify.com/album/7mO1iJDhaJRD3xHuYEGnDe) | 3:58 | 2024-05-03 |  |
 | [EYES ON THE PRIZE](https://open.spotify.com/track/165iBhrPLrtIfnxCSDfaPD) | [PdG](https://open.spotify.com/artist/0fWEQsOZHEv4oFsB2m9I4Q), [Big Daviz](https://open.spotify.com/artist/7BxIaY4kH7Xg2HeEt3eajU) | [EYES ON THE PRIZE](https://open.spotify.com/album/0dG8PtyWyxOqUGcnaQyhO6) | 3:29 | 2024-03-08 | 2024-03-16 |
 | [Eyin Ni](https://open.spotify.com/track/33OnpXiAbjdZnSyyQYV4Di) | [Gabbie Drille](https://open.spotify.com/artist/16Wn9EqLKYo2QyTScpwecT) | [Eyin Ni](https://open.spotify.com/album/46mBub7ZeaLtl2MReP8oP0) | 4:56 | 2023-08-18 | 2023-09-01 |
 | [Eyin nikan \- Live](https://open.spotify.com/track/55Yg5k8ajmpC3ES9bybglN) | [Lily Perez](https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD) | [Eyin nikan \(Live\)](https://open.spotify.com/album/6pd93FHDakQovCGrDSCGAb) | 8:03 | 2023-08-04 | 2023-08-18 |
@@ -1239,6 +1240,7 @@
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-23 | 2023-07-07 |
 | [Ke sikiloe ke Jesu \- Radio\-Edit](https://open.spotify.com/track/7g7mt6FBEwl16O5FmC8jPL) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Venomous V2](https://open.spotify.com/album/4GABnSea2cOenZQh8TYKrf) | 4:08 | 2023-06-23 | 2023-06-30 |
 | [Ke Sikiloe ke Jesu \- Vocal Mix](https://open.spotify.com/track/7hnK9me5mAiyXfLhPuSjq6) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL), [Sontshikazi](https://open.spotify.com/artist/6F8uSzrsCKZEuoH86Yv7ji) | [Ke Sikiloe ke Jesu \(Vocal Mix\)](https://open.spotify.com/album/3ouydPSetgsnuQ2r7ZsWjo) | 5:36 | 2023-11-24 | 2023-12-08 |
+| [KE TSAMAYA JWALE KA BOHLE \[with Locustmusiq\]](https://open.spotify.com/track/5iwyn2HbfZJqpby1wVHQpS) | [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Kasii Lifestyle Originals\_music](https://open.spotify.com/artist/6PFpge1UfxPOT2MT9iVfq1) | [KE TSAMAYA JWALE KA BOHLE \[with Locustmusiq\]](https://open.spotify.com/album/3gTSAJ4ba7Lfq310zLKpfj) | 4:07 | 2024-05-03 |  |
 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 | 2023-07-14 | 2023-07-28 |
 | [Ke Tshepile Wena \- Amapiano Remix](https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Amapiano Remix\)](https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh) | 5:14 | 2023-08-04 | 2023-08-18 |
 | [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 | 2023-08-04 |

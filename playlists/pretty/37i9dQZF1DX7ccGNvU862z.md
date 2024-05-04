@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,350 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,418 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
-| 2 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
+| 1 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
+| 2 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 3 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
-| 4 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
+| 4 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
 | 5 | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/track/6nq8USZIpU2oc7x5vxThHu) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/album/6368pIXTmYj3JO0tF6C0Yg) | 4:27 |
 | 6 | [สักวัน](https://open.spotify.com/track/1EFSXXGOppO1wsMvmpviSo) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [สักวัน](https://open.spotify.com/album/3lnrqTtTOSB8QFmbDm3VaX) | 3:29 |
 | 7 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 16 | [เมาจัด](https://open.spotify.com/track/3Olk6l3VTiHcqK4nXUX6sY) | [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ), [LOMAX](https://open.spotify.com/artist/3eiNvaC2ld4aGm4Iaqzaos) | [เมาจัด](https://open.spotify.com/album/4vI26mtb0mVxfPrUBBSt9a) | 2:57 |
 | 17 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 |
 | 18 | [ไร้รัก](https://open.spotify.com/track/7LQegHlWROlwRO1WgYfXVR) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ) | [ไร้รัก](https://open.spotify.com/album/4o4WWN1a3bH0Z7IxOKhNAa) | 3:33 |
-| 19 | [ชอบทรงไหน](https://open.spotify.com/track/6j4j3ZhsWz89qhxTyBXqT4) | [BABYBIGBOY](https://open.spotify.com/artist/40vACwV6LsV979rQRvvEOD), [THAOWANZ](https://open.spotify.com/artist/1B2M6UfGB1zXfz5rDSEHs0), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [1LIFE](https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3) | [ชอบทรงไหน](https://open.spotify.com/album/0XQzlCi0XrYMdme5M8HgHT) | 3:22 |
-| 20 | [ธรรมดา](https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ธรรมดา](https://open.spotify.com/album/0otHGYvDt2h177Iw4OvDmK) | 2:24 |
+| 19 | [New Flame](https://open.spotify.com/track/2kFsWpSVMvgYZLw9pqFZRm) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [New Flame](https://open.spotify.com/album/7gF2mNVm8DwM6mGqHaLVCX) | 2:16 |
+| 20 | [ชอบทรงไหน](https://open.spotify.com/track/6j4j3ZhsWz89qhxTyBXqT4) | [BABYBIGBOY](https://open.spotify.com/artist/40vACwV6LsV979rQRvvEOD), [THAOWANZ](https://open.spotify.com/artist/1B2M6UfGB1zXfz5rDSEHs0), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [1LIFE](https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3) | [ชอบทรงไหน](https://open.spotify.com/album/0XQzlCi0XrYMdme5M8HgHT) | 3:22 |
 | 21 | [ทางชัน](https://open.spotify.com/track/24pDCzPUPoD3wYjpynpo2n) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ทางชัน](https://open.spotify.com/album/1PPs8UbsmKpo2GDxWYOyY7) | 3:11 |
 | 22 | [Missed Call](https://open.spotify.com/track/1fNr9IOJ7mMsWorMQFlsW8) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Missed Call](https://open.spotify.com/album/3b4wW8YhqVI7qqV4k89hUC) | 2:12 |
 | 23 | [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/track/1jan7lM5FsAiDDTNUVUNec) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/album/6OUVjEpY6KObXiEwYbHvCD) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [เติบโต \(โดยไม่มีเธอ\)](https://open.spotify.com/track/45FSW9JohxF1SMTGWLw8Ue) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [\*Blackheart](https://open.spotify.com/artist/4PKxv39iCqVHn97VxES26r), [DAVIDBOIE](https://open.spotify.com/artist/1t5y656mS7n3HlAVKTNYuj) | [เติบโต \(โดยไม่มีเธอ\)](https://open.spotify.com/album/7qpKLYQjdxVGj8ALkCsrtr) | 4:14 |
 | 50 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 
-Snapshot ID: `ZjEfSgAAAADTyO6JyTVBerGmNeGoX/JK`
+Snapshot ID: `ZjTKiQAAAAA6xQFGn4wXLOO3mIC39Z4H`

@@ -2,7 +2,7 @@
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
+> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:5d1JhBfyb58upMXCZOdbQu">Phil Wickham</a>
 
 383 songs - 23 hr 53 min
 

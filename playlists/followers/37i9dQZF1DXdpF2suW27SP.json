@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 177167,
+  "2024-05-04": 177162,
   "date_first_scraped": "2022-07-17",
-  "description": "Vado M\u00e1s Ki \u00c1s e Mc Prego Prego entram na zona. ",
+  "description": "LON3R JOHNY entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -283,6 +283,24 @@
       "duration_ms": 207807,
       "name": "4AM no Rio",
       "url": "https://open.spotify.com/track/6Z0omreb7QNSj3ptomTmOU"
+    },
+    {
+      "album": {
+        "name": "5 de Maio",
+        "url": "https://open.spotify.com/album/2GI8bC7lxElFSmYjxxZ8sJ"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "5 de Maio",
+      "url": "https://open.spotify.com/track/5ouBml5nl0MCZfYeqDXyMx"
     },
     {
       "album": {
@@ -4619,7 +4637,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 353814,
       "name": "G\u00e9niu",
       "url": "https://open.spotify.com/track/1OiiqJ8EQrALdKxWSJsPSz"
@@ -6142,6 +6160,28 @@
     },
     {
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/31NvTWLmlVBfnrwu1OzV1H"
+      },
+      "artists": [
+        {
+          "name": "Satiro Mc",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        },
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/45iFUQKNVkSFXah35yvZaz"
+    },
+    {
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -6595,7 +6635,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 191700,
       "name": "Mundo Novo",
       "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
@@ -6963,7 +7003,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 144761,
       "name": "NOSOS2",
       "url": "https://open.spotify.com/track/58eA6UM5GU2GGYo8139UxW"
@@ -9251,7 +9291,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 195714,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/1HokVALLDjwqdtVpuP8Vwv"
@@ -9913,6 +9953,24 @@
       "duration_ms": 219374,
       "name": "Tempero",
       "url": "https://open.spotify.com/track/5aObfslcyWOUklHK8SUM8b"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/3KHv5InQ2K3hbn9lRYSNVw"
+      },
+      "artists": [
+        {
+          "name": "Pilitchi",
+          "url": "https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/5h2XeQ309ZqodPEOBAyUFm"
     },
     {
       "album": {
@@ -10897,6 +10955,24 @@
       "duration_ms": 163404,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/2UkcmJbpicpLOVxDLgU9Pl"
+    },
+    {
+      "album": {
+        "name": "WOW!",
+        "url": "https://open.spotify.com/album/6acbvN5Pe1pKO58pys1H94"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/2pxjD7HGonOXbBOcw5Cd7o"
     },
     {
       "album": {

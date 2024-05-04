@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Mother's Embrace",
+        "url": "https://open.spotify.com/album/1CjVstZsmXVWyeUduC5n7Y"
+      },
+      "artists": [
+        {
+          "name": "Anton De Ville",
+          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123508,
+      "name": "A Mother's Embrace",
+      "url": "https://open.spotify.com/track/6Ei6AIq1k3kcGNXFmUGlZU"
+    },
+    {
+      "album": {
         "name": "A Mother's Heart",
         "url": "https://open.spotify.com/album/1ATFQZOKu1iwKfezW8k6Fk"
       },
@@ -3371,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Dave The Dancing Dinosaur",
+        "url": "https://open.spotify.com/album/02oswqoZJMijSh1OZSgnXi"
+      },
+      "artists": [
+        {
+          "name": "Leo Button",
+          "url": "https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78978,
+      "name": "Dave The Dancing Dinosaur",
+      "url": "https://open.spotify.com/track/0F6E3SmWBUVpG5Y19WJ3rc"
+    },
+    {
+      "album": {
         "name": "Daytime Lullaby",
         "url": "https://open.spotify.com/album/66kSO4tsfYCS9droErYj8t"
       },
@@ -3958,7 +3994,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 132692,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/3xr80E2YijvMBXXZVk3Xds"
@@ -5114,6 +5150,24 @@
       "duration_ms": 225244,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK"
+    },
+    {
+      "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/5dp9mbwacgNKu9GIe2Py1T"
+      },
+      "artists": [
+        {
+          "name": "Maria Mangasson",
+          "url": "https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104750,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/6kegD00kMojbCnvI3CnPJJ"
     },
     {
       "album": {
@@ -8519,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "Little Frogs",
+        "url": "https://open.spotify.com/album/5r9j4z6T183GgxHtXrRwlt"
+      },
+      "artists": [
+        {
+          "name": "Isa Kaur",
+          "url": "https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71875,
+      "name": "Little Frogs",
+      "url": "https://open.spotify.com/track/5UJtvCLf8lSXYftazQXQUx"
+    },
+    {
+      "album": {
         "name": "Little George",
         "url": "https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh"
       },
@@ -9970,7 +10042,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 66337,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/4vZgef3PS0jcTTYYBfcRj5"
@@ -10816,7 +10888,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 122544,
       "name": "Old MacDonald Had a Farm",
       "url": "https://open.spotify.com/track/3vMaeivogNy0c26qG1hWo5"
@@ -11032,7 +11104,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 82351,
       "name": "Our Quiet Place - Harp Version",
       "url": "https://open.spotify.com/track/2lobqow3CzYBtgZTbzxnyc"
@@ -12472,7 +12544,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 64762,
       "name": "Sleep Little Richard",
       "url": "https://open.spotify.com/track/3pr3HDLJN8PuGVD4fp7Cwb"
@@ -12994,7 +13066,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 115000,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl"
@@ -13138,7 +13210,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 73170,
       "name": "Sleepy times",
       "url": "https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye"
@@ -13984,7 +14056,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 68004,
       "name": "Summer Winds",
       "url": "https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz"
@@ -14380,7 +14452,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 86635,
       "name": "Swimming With Dolphins",
       "url": "https://open.spotify.com/track/2PVl2xJzBDDxcnsOF6gwcw"
@@ -14992,7 +15064,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 103624,
       "name": "The Moon Looks Like A Cake",
       "url": "https://open.spotify.com/track/2plQn19ZnV5cquaAPu3NZc"
@@ -15190,7 +15262,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 77659,
       "name": "The Stars and The Moon",
       "url": "https://open.spotify.com/track/42Cj3aQRIAaE0Fii8rwHLT"
@@ -17498,6 +17570,24 @@
       "duration_ms": 95937,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ"
+    },
+    {
+      "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/3cPHt6wjnrBjna1j91BRJV"
+      },
+      "artists": [
+        {
+          "name": "Elvira Sola",
+          "url": "https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132259,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/3eHpGo0AL8gOpsPB1U6umJ"
     },
     {
       "album": {

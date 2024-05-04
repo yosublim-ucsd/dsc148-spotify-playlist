@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,074 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,111 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 73 | [Guts](https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Guts](https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6) | 5:04 |
 | 74 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 75 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
-| 76 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
-| 77 | [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 |
+| 76 | [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 |
+| 77 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
 | 78 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 | 79 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 |
 | 80 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 82 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 83 | [Keeping Time](https://open.spotify.com/track/5Nuf5uErDlIRWUYHiXKpXN) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:31 |
 | 84 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 |
-| 85 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
-| 86 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
-| 87 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
-| 88 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |
+| 85 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
+| 86 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |
+| 87 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
+| 88 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
 | 89 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 |
 | 90 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
 | 91 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
@@ -112,10 +112,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 102 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
 | 103 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 |
 | 104 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 |
-| 105 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
-| 106 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 |
+| 105 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 |
+| 106 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 |
 | 107 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 |
-| 108 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 |
+| 108 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
 | 109 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 |
 | 110 | [Cascades](https://open.spotify.com/track/70p2JCsiqE8hhrFhb0dhuq) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Modern Dread](https://open.spotify.com/album/2DSkwAMBZN0NY9mz2xJogR) | 3:36 |
 | 111 | [PBR \(with girlhouse\)](https://open.spotify.com/track/7pb6zMQEK9LBAP140UNIpt) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [PBR \(with girlhouse\)](https://open.spotify.com/album/4BmMN4Z1v1JjU9zelxaBH3) | 3:38 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 117 | [sunstruck](https://open.spotify.com/track/74ofPe4D7s8ajM7A7haPYE) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [sunstruck](https://open.spotify.com/album/3Ngb3n0RgkVD6Uo6pIvU9c) | 5:01 |
 | 118 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/3jE1H7U8EFjj8wcYPMtKuY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Write A List of Things To Look Forward To](https://open.spotify.com/album/0Agc23wEgrRlf0CgmZMWxn) | 2:48 |
 | 119 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 |
-| 120 | [Realiti](https://open.spotify.com/track/7JClJ8WmR4Dz0BrwW1bwdL) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Realiti](https://open.spotify.com/album/70XDWkcp7Naoiv64surVEM) | 3:06 |
-| 121 | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/track/22jIDSIjnT1lmW2zrMZR3v) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/album/5EZhEQ1p48myR6KLhO2Rl4) | 3:05 |
+| 120 | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/track/22jIDSIjnT1lmW2zrMZR3v) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Dirtbag Transformation \(Still Dirty\)](https://open.spotify.com/album/5EZhEQ1p48myR6KLhO2Rl4) | 3:05 |
+| 121 | [Realiti](https://open.spotify.com/track/7JClJ8WmR4Dz0BrwW1bwdL) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Realiti](https://open.spotify.com/album/70XDWkcp7Naoiv64surVEM) | 3:06 |
 | 122 | [Hasta La Vista](https://open.spotify.com/track/6YLzLfLo0Pn65NCcHUocvS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [So When You Gonna...](https://open.spotify.com/album/0GhGbJ83FB1iR27bCFwmj5) | 3:42 |
 | 123 | [Devotion](https://open.spotify.com/track/2vSuUcBhcqYZ3RXTKAx3Bp) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Devotion](https://open.spotify.com/album/5Kc1qSfhJMkL5EE4MBXwt6) | 3:57 |
 | 124 | [Big Wheel](https://open.spotify.com/track/366DDVYAJoT1Cc8ijYN9FM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel / Stellate](https://open.spotify.com/album/1EYHnhHes6AWnHthRn19uf) | 3:15 |

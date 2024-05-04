@@ -4,7 +4,7 @@
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-79 songs - 5 hr 46 min
+80 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2018-10-05 |  |
 | [Erè mèla mèla](https://open.spotify.com/track/4nXo0xfR51S9wmad3izbgh) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 4:39 | 2018-10-05 |  |
 | [Ete Endet Nesh Gedawo](https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn) | [Muluken Melesse](https://open.spotify.com/artist/6FDbzigNDaiwwFStEcKsEw) | [Muluken Melesse, Vol\. 1](https://open.spotify.com/album/0KKI4kN0mkSU1SqbPCJ9Tf) | 1:10 | 2023-08-14 |  |
+| [Eté endénesh gèdawo](https://open.spotify.com/track/3jiOL97tuAOvlSOllwG9Lx) | [Muluqèn Mèllèssè](https://open.spotify.com/artist/0ntfbwjC0Kg4xv5EEQf8LM) | [Ethiopiques, Vol\. 1: Golden Years of Modern Ethiopian Music 1969\-1975](https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ) | 4:15 | 2024-05-03 |  |
 | [Feqer Endè Krar \- Yebèqagnal](https://open.spotify.com/track/5tpY7Uhgp4IFeoJWTyQWFl) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:52 | 2018-10-05 |  |
 | [Hasabé](https://open.spotify.com/track/7I8UGMoawvaY2cHKAQtV5Z) | [Tèshomè Meteku](https://open.spotify.com/artist/4KFGKV6WLBQMoVJrxd3FRz) | [Hasabé and Others \(Ethiopiques\)](https://open.spotify.com/album/0TxMOWAvkXphdjykS4mDAq) | 3:58 | 2023-08-14 |  |
 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 | 2023-12-04 | 2024-04-19 |
@@ -67,7 +68,7 @@
 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 | 2023-08-14 |  |
 | [Tezeta](https://open.spotify.com/track/76GxqadAOFgjbxaWNN5cve) | [Menelik Wossenachew](https://open.spotify.com/artist/4wXa8Vbzex42qgiNfUrDjq) | [Ernesto Chahoud Presents Taitu – Soul\-Fuelled Stompers from 1960s – 1970s Ethiopia](https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y) | 4:28 | 2023-08-14 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2018-10-05 |  |
-| [The Biz](https://open.spotify.com/track/5EnmWxi8cgG4XOJtfksBrX) | [The Transgressors](https://open.spotify.com/artist/1WUtHNIH3KFKWxOfS0i0KV) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:02 | 2018-10-05 |  |
+| [The Biz](https://open.spotify.com/track/5EnmWxi8cgG4XOJtfksBrX) | [The Transgressors](https://open.spotify.com/artist/1WUtHNIH3KFKWxOfS0i0KV) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:02 | 2018-10-05 | 2024-05-04 |
 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 | 2023-12-04 |  |
 | [Wede Harer Guzo](https://open.spotify.com/track/7Ihi6UcJKndJKlsm0A4hjZ) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/5i6yMY4F7UoOuJD6wRV6NN) | 6:35 | 2023-08-14 |  |
 | [Wègèné](https://open.spotify.com/track/5TlvrqyKd1SyyCII2MNiBL) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Addis Kan](https://open.spotify.com/album/6hxVKuND15lz4j6Hr1L5EO) | 4:48 | 2018-10-05 |  |

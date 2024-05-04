@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Plebes del Rancho de Ariel Camacho. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
   "num_followers": 152650,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAADSiyhnMA57WKIUROTGWIfD",
+  "snapshot_id": "ZjLXgAAAAABN9U8rFEZlHuhrlOFGERpB",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosas del Olvido",
         "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 178040,
       "name": "Cosas del Olvido",
       "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 210681,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 219226,
       "name": "50 Mentadas",
       "url": "https://open.spotify.com/track/7CXDjMhOzM2PX3DHHPMxIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 210681,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
-  "2024-05-03": 227536,
+  "2024-05-04": 227585,
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: CKay and Olamide ",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boy Spyce",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 188737,
       "name": "360",
       "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 157570,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
@@ -2901,7 +2901,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 160097,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/54Fc0M8PNb7yAI5ieyuUEk"
@@ -3067,6 +3067,24 @@
       "duration_ms": 194666,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "album": {
@@ -3871,6 +3889,28 @@
       "duration_ms": 142040,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
+    },
+    {
+      "album": {
+        "name": "Gbera",
+        "url": "https://open.spotify.com/album/1hdcBkpvXUrsHaFFnbjEXh"
+      },
+      "artists": [
+        {
+          "name": "Pryme",
+          "url": "https://open.spotify.com/artist/2BfAlovyHR2zzxNVhFo1VK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166158,
+      "name": "Gbera",
+      "url": "https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU"
     },
     {
       "album": {
@@ -6171,7 +6211,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 178000,
       "name": "Lose Control (feat. Blxckie)",
       "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
@@ -6193,6 +6233,24 @@
       "duration_ms": 120500,
       "name": "Lose Ya",
       "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172687,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
     },
     {
       "album": {
@@ -8057,7 +8115,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 149387,
       "name": "Panadol",
       "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
@@ -10754,6 +10812,28 @@
     },
     {
       "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
         "name": "Wahala (feat. Olamide)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -11463,6 +11543,24 @@
       "duration_ms": 179191,
       "name": "You",
       "url": "https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX"
+    },
+    {
+      "album": {
+        "name": "You (Rum & Schnapp)",
+        "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You (Rum & Schnapp)",
+      "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
     },
     {
       "album": {

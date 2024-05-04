@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Saint Levant
 
-2,504 songs - 5 day 13 hr 50 min
+2,505 songs - 5 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1317,7 +1317,7 @@
 | [Leitmotiv](https://open.spotify.com/track/15hkBz9ac754HWEx1qXQQm) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Leitmotiv](https://open.spotify.com/album/5ciEyxTMqX0t2I7RGyNqyd) | 5:02 | 2022-11-04 | 2022-11-26 |
 | [Les Alizés](https://open.spotify.com/track/2zS7ZUhvULy8opOGsZvOLD) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Années Sauvages](https://open.spotify.com/album/1Qinl8uCGcCxXzgROA3sf6) | 3:31 | 2023-10-06 | 2023-10-14 |
 | [Les amourettes](https://open.spotify.com/track/30zwnPdJ9CIfebBZMpQC9s) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Les amourettes](https://open.spotify.com/album/6qWbvCgV8X7p50mEgStUJO) | 4:03 | 2022-07-08 | 2022-07-30 |
-| [Les anciens](https://open.spotify.com/track/4JUZj7glx3NJNbstZ4ngCj) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Les anciens](https://open.spotify.com/album/0S4B4PuZQlrHffe43T4Y0Z) | 3:01 | 2024-05-03 |  |
+| [Les anciens](https://open.spotify.com/track/4JUZj7glx3NJNbstZ4ngCj) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Les anciens](https://open.spotify.com/album/0S4B4PuZQlrHffe43T4Y0Z) | 3:01 | 2024-05-03 | 2024-05-04 |
 | [Les artifices](https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Les artifices](https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq) | 3:58 | 2023-01-13 | 2023-01-28 |
 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 | 2022-05-27 | 2022-06-11 |
 | [Les bateaux](https://open.spotify.com/track/7H59XLEDL3Kjli9WT0XRT0) | [Guillaume Bordel](https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG) | [Les bateaux](https://open.spotify.com/album/09xJqM3dN4yqKzMMTQrAng) | 3:41 | 2023-02-24 | 2023-03-04 |
@@ -1397,6 +1397,7 @@
 | [London](https://open.spotify.com/track/3NJUh3z3w8zJ3wKHMzMZhL) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [London](https://open.spotify.com/album/1MuMxkgKEszMvtESLqtw3p) | 2:40 | 2022-09-30 | 2022-10-15 |
 | [London Fever](https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [London Fever](https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V) | 3:22 | 2023-06-02 | 2023-08-19 |
 | [Long feu](https://open.spotify.com/track/49bEamx2i86poxwPWGEEvX) | [Ariel](https://open.spotify.com/artist/6E8If98t7xy5cJYy4eUntD), [Poulin](https://open.spotify.com/artist/5LvMLkptn5AokNYLnahOIE) | [Chroniques souterraines](https://open.spotify.com/album/6n4envaUhjRaUQ1OhKNMpq) | 3:30 | 2022-02-11 | 2022-02-26 |
+| [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 |  |
 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 | 2023-04-07 | 2023-04-29 |
 | [Loup blanc](https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Loup blanc](https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r) | 2:40 | 2023-03-17 | 2023-04-15 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2024-01-27 |

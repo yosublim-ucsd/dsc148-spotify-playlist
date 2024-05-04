@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" /「薬屋のひとりごと」の楽曲を1つのプレイリストで。©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,215 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 2 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
-| 3 | [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【転生したらスライムだった件】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 |
+| 3 | [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 |
 | 4 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
 | 5 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 |
 | 6 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/4rvIcSHZXDxbUmS8TWAUKc) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/1O12uQUwJC6XOw2szvYKp4) | 2:28 |

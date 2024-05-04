@@ -1,12 +1,12 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. SAIKO",
-  "num_followers": 826582,
+  "num_followers": 826639,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjENkgAAAAAqH2iuH2Aj2vrAdT7KVjAr",
+  "snapshot_id": "ZjSugQAAAAB2FJqpbUkmeEkJN70vmgZ5",
   "tracks": [
     {
       "added_at": "2024-04-29 17:31:33",
@@ -51,6 +51,30 @@
     {
       "added_at": "2024-04-29 17:31:33",
       "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 253962,
+      "name": "BADGYAL",
+      "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
+    },
+    {
+      "added_at": "2024-04-29 17:31:33",
+      "album": {
         "name": "Martini",
         "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
       },
@@ -91,22 +115,22 @@
     {
       "added_at": "2024-04-29 17:31:33",
       "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+        "name": "Kilerito",
+        "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 253962,
-      "name": "BADGYAL",
-      "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
+      "duration_ms": 225270,
+      "name": "Kilerito",
+      "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
     },
     {
       "added_at": "2024-04-29 17:31:33",
@@ -127,26 +151,6 @@
       "duration_ms": 279893,
       "name": "ESKELETO",
       "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
-    },
-    {
-      "added_at": "2024-04-29 17:31:33",
-      "album": {
-        "name": "Kilerito",
-        "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 225270,
-      "name": "Kilerito",
-      "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
     },
     {
       "added_at": "2024-04-29 17:31:33",
@@ -227,6 +231,26 @@
       "duration_ms": 212975,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/0Ps4UneYQVkuPb9zXkqFVI"
+    },
+    {
+      "added_at": "2024-05-03 09:29:37",
+      "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
     },
     {
       "added_at": "2024-04-29 17:31:33",
@@ -871,26 +895,6 @@
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": "2024-04-29 17:31:33",
-      "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     }
   ],
   "unique_name": "PEGAO",

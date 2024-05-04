@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,099 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,188 likes - 65 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
-| 2 | [A Place In The Sun \(feat\. Jack Johnson with Paula Fuga\)](https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Why Not](https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID) | 4:16 |
-| 3 | [What My World Spins Around](https://open.spotify.com/track/5kJCFjKSlqamGV2CUPU1xm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO2](https://open.spotify.com/album/3CmiVTobmHmZDOEKsgCt2a) | 3:16 |
-| 4 | [Why Kiki?](https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59) | 2:39 |
+| 1 | [Why Kiki?](https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59) | 2:39 |
+| 2 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
+| 3 | [A Place In The Sun \(feat\. Jack Johnson with Paula Fuga\)](https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Why Not](https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID) | 4:16 |
+| 4 | [What My World Spins Around](https://open.spotify.com/track/5kJCFjKSlqamGV2CUPU1xm) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO2](https://open.spotify.com/album/3CmiVTobmHmZDOEKsgCt2a) | 3:16 |
 | 5 | [Feel the Sunshine](https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 2:58 |
 | 6 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 |
 | 7 | [Starting All Over Again \- Acoustic Sessions](https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Starting All Over Again \(Acoustic Sessions\)](https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi) | 4:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 64 | [Whee Ha Swing](https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 2:37 |
 | 65 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `Zism/AAAAAAjm1g31vmzbS+7Wq9VKKMu`
+Snapshot ID: `ZjRhQAAAAACjWrOqGEpQSp9oc4TdDrsf`

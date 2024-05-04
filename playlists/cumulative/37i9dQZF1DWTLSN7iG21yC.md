@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-686 songs - 1 day 12 hr 47 min
+687 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-22 | 2022-04-20 |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-03-09 | 2023-12-27 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-06-07 | 2023-01-28 |
-| [Heaven](https://open.spotify.com/track/7hFiSpPEyu7lFHxy4nJOmo) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory \(With Choir And Strings\)](https://open.spotify.com/album/5GuOPJC3u1bOduMaiYg534) | 3:52 | 2023-12-26 |  |
+| [Heaven](https://open.spotify.com/track/7hFiSpPEyu7lFHxy4nJOmo) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory \(With Choir And Strings\)](https://open.spotify.com/album/5GuOPJC3u1bOduMaiYg534) | 3:52 | 2023-12-26 | 2024-05-04 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-03-09 | 2023-06-14 |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-04-14 | 2024-04-19 |
 | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA) | 2:38 | 2021-08-13 |  |
@@ -509,6 +509,7 @@
 | [Richest Man](https://open.spotify.com/track/4n27tJxtkJZzO3suIcec7F) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Richest Man](https://open.spotify.com/album/72u9K4DIF5swbFvBnvwXMc) | 3:26 | 2021-11-12 | 2022-04-19 |
 | [Richest Man](https://open.spotify.com/track/4OBzcmjbRPimbllYjkaMEC) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Richest Man](https://open.spotify.com/album/37uPftFnUnKLMebK35OVJv) | 2:28 | 2022-02-04 | 2022-04-20 |
 | [Rise](https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rise](https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3) | 3:36 | 2021-10-01 | 2022-07-29 |
+| [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 |  |
 | [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 | 2023-06-23 | 2023-08-05 |
 | [roll over, baby](https://open.spotify.com/track/6tbtPAY92umzdAlQQOdJkB) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [roll over, baby](https://open.spotify.com/album/68MzlG2mwETSByGOWCkMD8) | 3:24 | 2021-08-27 | 2022-07-29 |
 | [Roll the Credits](https://open.spotify.com/track/0NuaTWjCPxj1V0toBiHax1) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Roll the Credits](https://open.spotify.com/album/3SF9khf8m04qurRv0gj4vN) | 2:19 | 2021-10-22 | 2022-06-21 |

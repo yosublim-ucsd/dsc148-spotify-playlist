@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-461 songs - 22 hr 35 min
+462 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 | 2022-12-17 |
 | [Juice](https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Juice](https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP) | 2:36 | 2023-12-15 |  |
 | [Juicy Sushi](https://open.spotify.com/track/0Y5IZuawYGfvmmLwRz1YW2) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Juicy Sushi](https://open.spotify.com/album/3tKRSStZAlKxPsW9RuOZI2) | 2:24 | 2021-10-29 | 2022-04-20 |
-| [Jump](https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Jump](https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr) | 2:49 | 2024-04-19 |  |
+| [Jump](https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Jump](https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr) | 2:49 | 2024-04-19 | 2024-05-04 |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-05-05 | 2023-06-05 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 | 2023-09-23 |
 | [Last Call](https://open.spotify.com/track/4NNbfrTRxqytVvgw1A2ajE) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/0DyriCMgX3WYavt9F1gIQO) | 3:02 | 2023-12-08 | 2024-04-19 |
@@ -359,6 +359,7 @@
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-10 | 2023-04-16 |
 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 | 2023-11-17 |  |
 | [Ravers Bounce](https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [Ravers Bounce](https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi) | 3:15 | 2023-12-01 |  |
+| [Reading My Mind](https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 2:15 | 2024-05-03 |  |
 | [Ready or Not](https://open.spotify.com/track/4c0bQ6itmzAJ4DYlIdCmpm) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [Ready or Not](https://open.spotify.com/album/1GN99bcJIUkMUu1CwtGCuJ) | 3:08 | 2021-10-29 | 2022-07-21 |
 | [Real Love](https://open.spotify.com/track/7gF0avLmjgWz9TYxXT12T2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Real Love](https://open.spotify.com/album/3KqTXkQpNuyIqs6eUl5kRd) | 3:14 | 2023-08-18 | 2023-09-28 |
 | [Red Handed](https://open.spotify.com/track/3L5vu7DBK62Nr3UIREIEJE) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Red Handed](https://open.spotify.com/album/6wbcvjFi81H1FRQXUZDygg) | 2:51 | 2021-10-29 | 2022-08-06 |

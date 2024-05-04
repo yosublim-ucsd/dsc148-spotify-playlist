@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this epic rap mix.
 
-437 songs - 1 day 0 hr 12 min
+438 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Old English](https://open.spotify.com/track/2MO3mSPBH8U9qalH72vqZ1) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Old English](https://open.spotify.com/album/1uxU3gVbnwKwDlcY3FV8QJ) | 3:21 | 2022-03-25 | 2022-04-20 |
 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 | 2022-03-25 | 2022-04-20 |
 | [On The Road \(feat\. Meek Mill & Lil Baby\)](https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:38 | 2021-09-03 | 2022-10-29 |
+| [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM...FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2024-05-02 |  |
 | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/track/6bCWyr3C3ngZdwizTYWQTG) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/album/68E8KEIn6CawoxJetxyYRl) | 2:55 | 2021-09-03 | 2022-07-29 |
 | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz) | 2:15 | 2021-09-03 | 2022-10-29 |
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2022-04-29 |  |
@@ -398,7 +399,7 @@
 | [Tip Toe \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:05 | 2022-03-25 | 2022-04-18 |
 | [To The Max](https://open.spotify.com/track/3MdkwG35RwKMije28gIykv) | [Lil Loaded](https://open.spotify.com/artist/7scapvSjZLSm0fBgqGM0Mn) | [To The Max](https://open.spotify.com/album/0D5ALXUeG7b54ntNcXoivn) | 2:06 | 2022-03-25 | 2022-06-14 |
 | [Too Blessed](https://open.spotify.com/track/79OsVQutiLllWaiDTcKl5M) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Too Blessed](https://open.spotify.com/album/5xPypwH9YfbpxXMDqdQGTI) | 3:20 | 2021-09-03 | 2022-04-17 |
-| [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 | 2024-01-11 |  |
+| [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 | 2024-01-11 | 2024-05-04 |
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2022-03-25 | 2022-10-29 |
 | [Trophies](https://open.spotify.com/track/1nFgXsg2CUbyK0BJX9cmfj) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/7DkzymHZTu4YgXRexqzuGe) | 3:08 | 2021-12-15 | 2022-07-18 |
 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 | 2022-04-29 | 2022-10-29 |

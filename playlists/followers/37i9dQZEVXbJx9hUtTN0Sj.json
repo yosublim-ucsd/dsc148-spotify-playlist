@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 22942,
+  "2024-05-04": 22945,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -2366,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "FUNK ESTRANHO - SUPER SLOWED",
+        "url": "https://open.spotify.com/album/7jGx3EgvTllCvIhKIJuXce"
+      },
+      "artists": [
+        {
+          "name": "ALXIKE",
+          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150009,
+      "name": "FUNK ESTRANHO - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/4QdSkchEnVddhTy1PO9iv9"
+    },
+    {
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 262105,
       "name": "Ghetto Millionnaire",
       "url": "https://open.spotify.com/track/4umILaHHpP1jgkpl6BUK9j"
@@ -3413,7 +3431,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 224841,
       "name": "Karma's A Bitch",
       "url": "https://open.spotify.com/track/3LwEb2gndSporUInoVxUFB"
@@ -3475,6 +3493,24 @@
       "duration_ms": 147692,
       "name": "kompa pasi\u00f3n",
       "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC"
     },
     {
       "album": {
@@ -4140,6 +4176,28 @@
     },
     {
       "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "album": {
         "name": "May Ninth",
         "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
       },
@@ -4737,7 +4795,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 174911,
       "name": "Oya L\u00e9l\u00e9 - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/2z7wiLusgnSDKLgGEdyCo3"
@@ -5333,7 +5391,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 355879,
       "name": "Roar",
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
@@ -6610,6 +6668,24 @@
     },
     {
       "album": {
+        "name": "Tous les matins",
+        "url": "https://open.spotify.com/album/4xiW2wFgDy2apj4itYl2QT"
+      },
+      "artists": [
+        {
+          "name": "Victorien",
+          "url": "https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176078,
+      "name": "Tous les matins",
+      "url": "https://open.spotify.com/track/6bWBDJNvnragZZqKKFaAFl"
+    },
+    {
+      "album": {
         "name": "Tout va changer",
         "url": "https://open.spotify.com/album/0B5XZeetVZ0YFyFaYlJZ6N"
       },
@@ -6621,7 +6697,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 142550,
       "name": "Tout va changer",
       "url": "https://open.spotify.com/track/337D2hB4ecicdFDbS2sBxx"

@@ -1,37 +1,13 @@
 {
-  "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
+  "description": "This Is Miel San Marcos. Los temas esenciales, todos en una lista.",
   "num_followers": 54442,
   "original_name": "This Is Miel San Marcos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjGGAAAAAABp5rXq4IcOz+RU7Md7mdTK",
+  "snapshot_id": "ZjLXgAAAAADF6CcCcC8sJaLUqJC+E9ZJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesiones Ac\u00fasticas",
-        "url": "https://open.spotify.com/album/4qJJPN26P6zrvDj9JeWrF5"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Waleska Morales",
-          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
-        },
-        {
-          "name": "Matthew Morales",
-          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
-        }
-      ],
-      "duration_ms": 348164,
-      "name": "Nadie Como T\u00fa (Sesiones Ac\u00fasticas)",
-      "url": "https://open.spotify.com/track/1pVj7ZIqKGDkWjOyAdUAte"
-    },
     {
       "added_at": null,
       "album": {
@@ -543,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shekinah (Live)",
+        "url": "https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 510941,
+      "name": "Shekinah - Live",
+      "url": "https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mil Generaciones",
         "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
       },
@@ -567,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shekinah (Live)",
-        "url": "https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP"
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
       },
       "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 510941,
-      "name": "Shekinah - Live",
-      "url": "https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA"
+      "duration_ms": 183854,
+      "name": "Vino Celestial",
+      "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
     },
     {
       "added_at": null,
@@ -607,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento 1",
-        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/1t39A0vsBWAJUmjWY58KsX"
       },
       "artists": [
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 183854,
-      "name": "Vino Celestial",
-      "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
+      "duration_ms": 436631,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/4ilNreJxoar2uDpYCeOr0P"
     },
     {
       "added_at": null,
@@ -635,6 +631,22 @@
       "duration_ms": 275840,
       "name": "Libre (En Vivo)",
       "url": "https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 305015,
+      "name": "Leva\u0301ntate Sen\u0303or",
+      "url": "https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO"
     },
     {
       "added_at": null,
@@ -687,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento 1",
-        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 305015,
-      "name": "Leva\u0301ntate Sen\u0303or",
-      "url": "https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X SIEMPRE",
         "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
       },
@@ -719,6 +715,22 @@
       "duration_ms": 349280,
       "name": "Jesucristo Basta",
       "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 246167,
+      "name": "Mu\u0301sica del Cielo",
+      "url": "https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m"
     },
     {
       "added_at": null,
@@ -755,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento 1",
-        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 246167,
-      "name": "Mu\u0301sica del Cielo",
-      "url": "https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeshua el Sonido de Libertad",
         "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
       },
@@ -787,6 +783,22 @@
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 98866,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd"
     },
     {
       "added_at": null,
@@ -831,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 331377,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Avivamiento 1",
         "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
       },
@@ -840,9 +872,9 @@
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 98866,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd"
+      "duration_ms": 173450,
+      "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
+      "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
     },
     {
       "added_at": null,
@@ -867,22 +899,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL"
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
         }
       ],
-      "duration_ms": 331377,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT"
+      "duration_ms": 722770,
+      "name": "Medley Evangelio (En Vivo)",
+      "url": "https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG"
     },
     {
       "added_at": null,
@@ -916,37 +956,9 @@
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 173450,
-      "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
-      "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVANGELIO (En Vivo)",
-        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Josh Morales",
-          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
-        },
-        {
-          "name": "Matthew Morales",
-          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
-        },
-        {
-          "name": "Luis Morales Jr.",
-          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
-        }
-      ],
-      "duration_ms": 722770,
-      "name": "Medley Evangelio (En Vivo)",
-      "url": "https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG"
+      "duration_ms": 238720,
+      "name": "Grande Y Fuerte",
+      "url": "https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5"
     },
     {
       "added_at": null,
@@ -967,46 +979,6 @@
       "duration_ms": 469537,
       "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
       "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Basta Tu Palabra",
-        "url": "https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z"
-      },
-      "artists": [
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "Me Basta Tu Palabra",
-      "url": "https://open.spotify.com/track/057pumBKYToozI7AF5bNwP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avivamiento 1",
-        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "Grande Y Fuerte",
-      "url": "https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5"
     },
     {
       "added_at": null,
@@ -1035,22 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impresionante",
-        "url": "https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2"
+        "name": "Me Basta Tu Palabra",
+        "url": "https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
         },
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 336709,
-      "name": "Impresionante",
-      "url": "https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b"
+      "duration_ms": 357000,
+      "name": "Me Basta Tu Palabra",
+      "url": "https://open.spotify.com/track/057pumBKYToozI7AF5bNwP"
     }
   ],
   "unique_name": "This Is Miel San Marcos",

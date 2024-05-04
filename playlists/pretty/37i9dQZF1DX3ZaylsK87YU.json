@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 186026,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
         }
       ],
-      "duration_ms": 238546,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
+      "duration_ms": 346750,
+      "name": "Shepherd of My Soul",
+      "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
       },
       "artists": [
         {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 346750,
-      "name": "Shepherd of My Soul",
-      "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "My Hope Is in the Lord",
-      "url": "https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "This Is My Father's World",
         "url": "https://open.spotify.com/album/03ox5Kk1wNCRo3UYNhKiBV"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 368378,
       "name": "This Is My Father's World",
       "url": "https://open.spotify.com/track/4FLpCfvea5IELWT889oa9k"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "My Hope Is in the Lord",
+      "url": "https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "God I Look to You",
-        "url": "https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT"
-      },
-      "artists": [
-        {
-          "name": "John Ward",
-          "url": "https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j"
-        }
-      ],
-      "duration_ms": 278936,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Broken Voice",
         "url": "https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 190880,
       "name": "doxology",
       "url": "https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "God I Look to You",
+        "url": "https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT"
+      },
+      "artists": [
+        {
+          "name": "John Ward",
+          "url": "https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j"
+        }
+      ],
+      "duration_ms": 278936,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9"
     },
     {
       "added_at": "2023-02-18 04:59:55",

@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-304 songs - 17 hr 6 min
+305 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2022-04-12 | 2022-07-29 |
 | [HELLO](https://open.spotify.com/track/6RFFcuwXQwmxF1djh4xTuH) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Ending Again Part.2](https://open.spotify.com/album/5ROgA3EIdkr1Rauyuklkhm) | 3:25 | 2022-04-12 | 2022-07-25 |
 | [Hello Tutorial](https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X) | 3:22 | 2022-06-20 | 2022-06-28 |
-| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 |  |
+| [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-05-04 |
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 |  |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
 | [honest \(feat\. 16\)](https://open.spotify.com/track/4Z6goHBB4GVpVkDwSQypMI) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [honest](https://open.spotify.com/album/33elE8VZ5oU1zYgA1Tkejs) | 2:53 | 2023-11-04 | 2023-11-16 |
@@ -258,6 +258,7 @@
 | [The Space Between](https://open.spotify.com/track/0lBeCroAGkEdjwKZ3xfcLg) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [SoYou X Urban Zakapa \(Kwon Soonil & Park Yongin\) 'The Space Between'](https://open.spotify.com/album/0vNqTP8EJiXY2XU7YTnTKx) | 3:31 | 2022-04-12 | 2022-04-21 |
 | [The Sweetest Love](https://open.spotify.com/track/69Ht2mj09Y3KCTg57sCsgb) | [Ham Yonji](https://open.spotify.com/artist/0ApM8QPEnTUN5RU5Qh6W5F) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/5nvsIWsZSEfgxZDQLmbaJs) | 2:52 | 2022-04-12 | 2022-04-21 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 | 2022-08-19 |
+| [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2024-03-21 |  |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-04 | 2022-07-09 |
 | [Time Machine](https://open.spotify.com/track/0tZzmBIxQbjpTVU7Aanj4J) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Time Machine](https://open.spotify.com/album/6eF7NbhQGi4LL2HIxMULBk) | 3:25 | 2022-04-21 | 2022-07-28 |
 | [time to be with you](https://open.spotify.com/track/7MdF5reoWTTno0XWAuUnZG) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Jword](https://open.spotify.com/artist/6Dp6OYo93kad6QAcXezQRq), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [time to be with you](https://open.spotify.com/album/6VsK76kmWXbgdt7KbiqEGC) | 4:03 | 2022-04-21 | 2022-07-24 |

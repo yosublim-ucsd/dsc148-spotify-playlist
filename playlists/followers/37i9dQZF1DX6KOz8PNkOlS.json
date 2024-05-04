@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 453683,
+  "2024-05-04": 453804,
   "date_first_scraped": "2023-07-23",
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
   "name": "Soft Office",
@@ -759,7 +759,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 198842,
       "name": "Into the Wave",
       "url": "https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz"
@@ -1672,6 +1672,24 @@
     },
     {
       "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-03",
       "duration_ms": 226476,
       "name": "Muse",
       "url": "https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj"

@@ -1,5 +1,5 @@
 {
-  "2024-05-03": 133045,
+  "2024-05-04": 133041,
   "date_first_scraped": "2022-06-02",
   "description": "Worship songs for the whole family.",
   "name": "Christian Kids Worship",
@@ -473,6 +473,28 @@
       "duration_ms": 92960,
       "name": "God Makes Messy Things",
       "url": "https://open.spotify.com/track/7ceXmbSuREX1itjzFxCyBS"
+    },
+    {
+      "album": {
+        "name": "God Of The Impossible",
+        "url": "https://open.spotify.com/album/6bhOniVs3hIEyo5fuTAty0"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "William Kelly",
+          "url": "https://open.spotify.com/artist/4OQbdlMOq7jqEhJJXAZi11"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277917,
+      "name": "God Of The Impossible",
+      "url": "https://open.spotify.com/track/7ikT2DFrI6wZOsSIfYF9wX"
     },
     {
       "album": {
