@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,584 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,657 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 37 | [Tombé](https://open.spotify.com/track/399mh97iAmjU34de5MebHp) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb) | 3:53 |
 | 38 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 |
 | 39 | [Dernière danse](https://open.spotify.com/track/4AjFKHMK0aT5RH5bDarR0f) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 3:11 |
-| 40 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
-| 41 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
+| 40 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
+| 41 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
 | 42 | [Un jour au mauvais endroit](https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Les feux d'artifice](https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh) | 4:54 |
-| 43 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
-| 44 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 43 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 44 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
 | 45 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
 | 46 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
 | 47 | [Coco Câline](https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:45 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 60 | [La femme chocolat](https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La femme chocolat](https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM) | 2:51 |
 | 61 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
 | 62 | [Lalalove You](https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh) | [BB Brunes](https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud) | [Nico Teen Love](https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k) | 3:00 |
-| 63 | [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 |
-| 64 | [Dusty Men \- French Version](https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Géant](https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7) | 3:25 |
+| 63 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
+| 64 | [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 |
 | 65 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
-| 66 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
+| 66 | [Dusty Men \- French Version](https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Géant](https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7) | 3:25 |
 | 67 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 68 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 69 | [Un été français](https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:26 |

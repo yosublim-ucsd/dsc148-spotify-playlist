@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-672 songs - 1 day 13 hr 57 min
+675 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2022-04-13 |  |
 | [City Kitty](https://open.spotify.com/track/46tYLLzHq8ipzBq6X7W9YI) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [City Kitty](https://open.spotify.com/album/3dNUFNvSOl0cg9B2FgpGER) | 3:36 | 2021-05-01 | 2022-04-13 |
 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-18 |  |
-| [CLOSE ONE!](https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [MARCH](https://open.spotify.com/album/0My709th5LtXCtWpTfqhLp) | 3:31 | 2024-03-01 |  |
+| [CLOSE ONE!](https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [MARCH](https://open.spotify.com/album/0My709th5LtXCtWpTfqhLp) | 3:31 | 2024-03-01 | 2024-05-05 |
 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-05-01 | 2022-12-14 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2022-04-13 | 2022-04-21 |
 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 | 2023-12-13 |  |
@@ -189,6 +189,7 @@
 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 | 2021-05-01 | 2022-04-13 |
 | [Evergreen](https://open.spotify.com/track/2dHT2samnOh9mGhCBlicpf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Evergreen](https://open.spotify.com/album/5eHNalmognU8bbYYMhgXRL) | 2:51 | 2022-05-27 | 2022-07-29 |
 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [To Love](https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe) | 3:36 | 2023-06-08 | 2023-08-19 |
+| [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 |  |
 | [Everybody’s Gonna Love Somebody \- Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody's Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 | 2021-05-01 | 2022-04-12 |
 | [eye 2 eye](https://open.spotify.com/track/6wlouslDoDFy2NH8HaPwQf) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [eye 2 eye](https://open.spotify.com/album/26suVOYpQ5SYiqo7CHyE46) | 3:05 | 2022-04-13 | 2022-04-21 |
 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 | 2021-05-01 | 2023-09-30 |
@@ -296,12 +297,12 @@
 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-10-14 | 2023-02-03 |
 | [I Wanna Get Better](https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:24 | 2024-04-18 |  |
 | [I Would Now](https://open.spotify.com/track/2DNIrSPvlpaLT1X9U5uY1k) | [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ), [Max Shrager](https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq) | [I Would Now](https://open.spotify.com/album/1SMrbpg9xEuq68a3RpXJTW) | 2:31 | 2023-09-29 | 2023-10-03 |
-| [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-07-07 |  |
+| [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-07-07 | 2024-05-05 |
 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 | 2024-01-26 |  |
 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 | 2021-05-01 | 2022-07-29 |
 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 | 2023-05-26 | 2024-04-19 |
 | [I'm So Bored](https://open.spotify.com/track/1SAF9h8xdE1YV02Dbgrn2L) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [I'm So Bored](https://open.spotify.com/album/0NWdGnIgHhsQ4ZwXPe1lUF) | 3:28 | 2021-05-01 | 2022-07-29 |
-| [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 | 2024-04-12 |  |
+| [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 | 2024-04-12 | 2024-05-05 |
 | [If I Were You](https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [If I Were You](https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT) | 2:51 | 2021-05-01 | 2022-04-14 |
 | [If You're Gonna Ignite](https://open.spotify.com/track/1pBmCuwkdiy3h4moGXnQu0) | [Doc Robinson](https://open.spotify.com/artist/5O0efDEpkqEmWbXD2zpkjz) | [If You're Gonna Ignite](https://open.spotify.com/album/1T69hvMB4Gei567c0IqP6J) | 4:10 | 2021-05-01 | 2022-04-14 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-10-14 | 2023-09-30 |
@@ -385,6 +386,7 @@
 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-02-16 |  |
 | [Mimi's Delivery Service](https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Mimi's Delivery Service](https://open.spotify.com/album/26i93seS4geUVSbjhloq5A) | 2:58 | 2023-03-17 | 2023-09-30 |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-05-01 | 2022-07-29 |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-03 |  |
 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 | 2023-05-26 | 2023-08-06 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-09-21 |  |
 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-04 | 2024-02-14 |
@@ -536,6 +538,7 @@
 | [Something to Lose](https://open.spotify.com/track/3ymNP4eOqyE6Ci7depianP) | [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Something to Lose](https://open.spotify.com/album/5x9hoO80ZMOmWkvL76IpSm) | 3:42 | 2021-05-01 | 2022-04-13 |
 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2021-05-01 | 2023-09-30 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-05-01 | 2022-07-29 |
+| [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-05-03 |  |
 | [Speedracer](https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV) | 2:58 | 2024-03-01 |  |
 | [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-05-01 | 2022-07-29 |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2022-07-22 | 2023-08-19 |

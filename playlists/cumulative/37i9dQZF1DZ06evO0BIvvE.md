@@ -2,7 +2,7 @@
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This is Billy Paul\. The essential tracks, all in one playlist.
+> This Is Billy Paul\. Los temas esenciales, todos en una lista.
 
 76 songs - 6 hr 10 min
 
@@ -46,7 +46,7 @@
 | [Let 'Em In](https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 5:03 | 2022-05-25 |  |
 | [Let Me In](https://open.spotify.com/track/7gbew8whyzhuI2ygCoQROR) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 3:51 | 2022-05-29 | 2022-05-31 |
 | [Let the Dollar Circulate](https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:58 | 2022-05-25 |  |
-| [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 | 2022-05-25 | 2024-05-03 |
+| [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 | 2022-05-25 |  |
 | [Let's Make a Baby](https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 7:10 | 2022-05-25 |  |
 | [Let's Stay Together](https://open.spotify.com/track/18lK1qUysT3bdjUZsHFFlb) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:25 | 2022-07-10 | 2024-04-16 |
 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 | 2022-05-25 |  |
@@ -61,7 +61,7 @@
 | [On A Clear Day \(You Can See Forever\)](https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 4:36 | 2022-05-27 | 2024-01-29 |
 | [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 | 2022-05-30 |  |
 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2022-05-25 |  |
-| [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 |  |
+| [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 | 2024-05-05 |
 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 | 2022-05-25 |  |
 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 | 2022-06-25 | 2023-10-02 |
 | [Sexual Therapy](https://open.spotify.com/track/33AzzJGC47kRAAJjwCBhe1) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 4:34 | 2023-08-11 | 2023-08-15 |

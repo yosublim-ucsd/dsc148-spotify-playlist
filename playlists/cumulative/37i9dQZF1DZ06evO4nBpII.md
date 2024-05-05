@@ -2,7 +2,7 @@
 
 ### [This Is Green Day](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBpII)
 
-> This Is Green Day\. Los temas esenciales, todos en una lista.
+> This is Green Day\. The essential tracks, all in one playlist.
 
 93 songs - 5 hr 4 min
 

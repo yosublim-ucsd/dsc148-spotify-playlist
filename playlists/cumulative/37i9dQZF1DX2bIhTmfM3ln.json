@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1"
+    },
+    {
+      "album": {
         "name": "Case",
         "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
       },
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -9639,7 +9657,7 @@
     },
     {
       "album": {
-        "name": "Vision (Remix)",
+        "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
@@ -9656,7 +9674,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166000,
-      "name": "Vision - Remix",
+      "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {

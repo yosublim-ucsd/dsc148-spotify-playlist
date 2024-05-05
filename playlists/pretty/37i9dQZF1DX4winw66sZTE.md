@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,740 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,729 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 80 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
 | 81 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
 | 82 | [Just Like a Dream](https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
-| 83 | [CLOSER](https://open.spotify.com/track/2xSmwI4qeqtb2iIElCfcZD) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [CLOSER](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) | 3:27 |
-| 84 | [ONE SHOT](https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [ONE SHOT](https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U) | 3:57 |
+| 83 | [ONE SHOT](https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [ONE SHOT](https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U) | 3:57 |
+| 84 | [CLOSER](https://open.spotify.com/track/2xSmwI4qeqtb2iIElCfcZD) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [CLOSER](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) | 3:27 |
 | 85 | [The Red Shoes](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:14 |
 | 86 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |
 | 87 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |

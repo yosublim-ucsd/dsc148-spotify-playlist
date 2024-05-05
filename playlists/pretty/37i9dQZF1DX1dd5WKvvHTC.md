@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs?si=SBcEfoTTRteVArBDUyl\_Ug">Armaan Malik</a>, <a href="https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX?si=WyO4f2\_zTMOpnb\-PR5IH7A">Calum Scott</a>, <a href="https://open.spotify.com/playlist/37i9dQZF1EFMXdDNyT5XPb?si=f17706ee09a94673">Jon Maguire</a> and <a href="https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT?si=57bbd3e8ae3b4985">Bill Maybury</a> .
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,931 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,959 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 8 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 |
 | 9 | [No More Tears](https://open.spotify.com/track/3zHbzeovM5WNhP08wxJegN) | [Naomi Kimpenu](https://open.spotify.com/artist/3k86tPTadNVbaxe89rFo1C) | [No More Tears](https://open.spotify.com/album/2ZeYpugE1qeuINYjRzRaei) | 3:33 |
 | 10 | [Try Me \- Reimagined](https://open.spotify.com/track/0GTpFfqlOONRhxAq47Ifrp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:58 |
-| 11 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 11 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 12 | [Not Myself](https://open.spotify.com/track/6pHbXMhMezNDZ5GeOKmInE) | [Zai](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Not Myself](https://open.spotify.com/album/269mxCeekCc4V2og796x6h) | 2:32 |
 | 13 | [Cool](https://open.spotify.com/track/0DwpN7XEunQTNDb3ceANPm) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:31 |
 | 14 | [know now](https://open.spotify.com/track/0tuOhOvSU9wluMRIhxxaOp) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [know now](https://open.spotify.com/album/2ZoU7pihcjsFzhlRXYnTs8) | 3:01 |

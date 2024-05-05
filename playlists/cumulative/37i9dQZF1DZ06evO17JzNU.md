@@ -4,7 +4,7 @@
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 4 min
+61 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [F\*CK](https://open.spotify.com/track/6e1e9WGpijrsGEDafrqmBL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [F\*CK](https://open.spotify.com/album/3qFjhIu38Fly1SXrWiD1Tq) | 2:05 | 2024-01-29 |  |
 | [G63](https://open.spotify.com/track/3E2aYBCPmf8kTq1Ug5E1sN) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [G63](https://open.spotify.com/album/7wfmoOfb10g2Y2ALkyWDty) | 2:45 | 2024-01-29 |  |
 | [Haciendo Mil Cosas](https://open.spotify.com/track/5MeC9hQFfXg8ZylieyMMzO) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Haciendo Mil Cosas](https://open.spotify.com/album/7vKfja3R6wFGwFos31XREP) | 4:50 | 2024-01-30 | 2024-02-18 |
+| [JOHNNIE WALKER](https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:15 | 2024-05-05 |  |
 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 | 2024-01-29 |  |
 | [Me Toco Ayudar](https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Toco Ayudar](https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg) | 3:15 | 2024-04-10 |  |
 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 | 2024-01-29 |  |
@@ -49,7 +50,7 @@
 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 | 2024-01-29 |  |
 | [PAGANI](https://open.spotify.com/track/5HJnWG1xSp74PL9vhfSMXt) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:52 | 2024-02-23 | 2024-03-09 |
 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 | 2024-01-29 |  |
-| [RUEDA AZUL](https://open.spotify.com/track/0c10rwA7d7c36i4p3qGqgL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:55 | 2024-02-24 |  |
+| [RUEDA AZUL](https://open.spotify.com/track/0c10rwA7d7c36i4p3qGqgL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:55 | 2024-02-24 | 2024-05-05 |
 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 | 2024-01-29 |  |
 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 | 2024-01-29 |  |
 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 | 2024-01-29 |  |

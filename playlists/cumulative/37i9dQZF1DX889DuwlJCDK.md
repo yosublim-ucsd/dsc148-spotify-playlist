@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。今週はBye\-Bye\-Handの方程式スペシャル！Playlist Storiesをチェックしよう。
 
-669 songs - 1 day 16 hr 43 min
+670 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [開戦前夜](https://open.spotify.com/track/3g5rhNKf6EOOxST9riIDHE) | [突然少年](https://open.spotify.com/artist/2dOae4NRUJBueAMBNlwELq) | [未来](https://open.spotify.com/album/6zgrOTMoQ1bHzeb5TuaJ4W) | 7:15 | 2023-12-12 | 2024-01-10 |
 | [降参宣言](https://open.spotify.com/track/4gYjoqTxddTxeTtV3Gfan3) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [降参宣言](https://open.spotify.com/album/0LLjYrutYY8RUNpySSyrRG) | 3:24 | 2023-12-19 | 2023-12-21 |
 | [雪月花](https://open.spotify.com/track/6jR9HOKraeOqG9QK0oNTbH) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [不器用な私だから](https://open.spotify.com/album/1GRLI4o90USPkzZOHLULka) | 5:15 | 2024-03-12 | 2024-04-24 |
+| [青いの。](https://open.spotify.com/track/1XqGNBbV15PgSZayE4b3tO) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [青いの。](https://open.spotify.com/album/5VgcEbE9sd4J9uRFJgQToH) | 4:07 | 2024-04-30 |  |
 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 | 2023-07-27 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-27 | 2024-01-17 |
 | [青春と一瞬](https://open.spotify.com/track/5hP00tcT87uyrdnei9g1Sw) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [青春と一瞬](https://open.spotify.com/album/4NYlrwd3LtrrKQfmuJu0P7) | 4:38 | 2023-07-27 |  |
@@ -674,7 +675,7 @@
 | [青春病](https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [青春病](https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb) | 5:21 | 2024-04-23 |  |
 | [面影](https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [面影](https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs) | 3:41 | 2023-09-12 |  |
 | [音楽準備室](https://open.spotify.com/track/4pIdagmV3l9kXgy8ljTQym) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [音楽準備室](https://open.spotify.com/album/0yptjseCCBAIYUl420hUyJ) | 3:35 | 2024-03-12 | 2024-03-14 |
-| [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 | 2023-10-12 |  |
+| [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 | 2023-10-12 | 2024-05-05 |
 | [高槻](https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [あの娘の春を想う](https://open.spotify.com/album/0Kzres1NymuEfctIVZF8JS) | 3:33 | 2024-01-09 | 2024-02-01 |
 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 | 2024-01-16 | 2024-03-06 |
 

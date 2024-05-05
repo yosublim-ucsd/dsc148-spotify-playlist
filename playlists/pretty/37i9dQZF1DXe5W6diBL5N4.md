@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: IVE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,313 likes - 227 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,421 likes - 227 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [Broke My Heart \(feat\. Lay Bankz\)](https://open.spotify.com/track/3uJndZkSKq1m5BdphdVXXr) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [If this is love, I want a refund](https://open.spotify.com/album/3gKYpwwDmuxMYhnETbN5Xd) | 1:51 |
 | 7 | [이 밤이 다 가기 전에](https://open.spotify.com/track/1hqgbBpTWSIIG8MlewfwMg) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [nightvibe2](https://open.spotify.com/album/25dD1vQuRvHb4jdShxb0Ar) | 2:23 |
 | 8 | [Radio Drive](https://open.spotify.com/track/0YWNfk3ONygowyOOTvlueu) | [9 and the Numbers](https://open.spotify.com/artist/3GtxaQXCwJZaoV9lmKofs0) | [Radio Drive](https://open.spotify.com/album/7K1yB4bLLhwIyjWYheXdY4) | 3:06 |
-| 9 | [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/6kDMoHTcBICPILP2aclPWZ) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 |
+| 9 | [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 |
 | 10 | [Gasoline](https://open.spotify.com/track/29gvL6gWNog8iMml53ig1C) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [EVERLASTING](https://open.spotify.com/album/0wMhHkNPeuL5Wf4uMzcxbt) | 2:51 |
 | 11 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 |
 | 12 | [flip \(feat\. 스카이민혁, Don Mills\) \(Clean Ver.\)](https://open.spotify.com/track/7vxNOU7mOMWYjp7dxvmaDG) | [KIM DAN](https://open.spotify.com/artist/5YXQmQgNteUrgFXoPyombD), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [VERSE BATTLE RAPCUP Round of 16 Part II](https://open.spotify.com/album/7MzrqYdS0ZpwBPFdrgSdfs) | 2:46 |

@@ -1,6 +1,6 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Morgan Wade",
-  "num_followers": 487917,
+  "num_followers": 488010,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Greener Pasture",
+        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 189442,
+      "name": "Greener Pasture",
+      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Greener Pasture",
-        "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 189442,
-      "name": "Greener Pasture",
-      "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
     },
     {
       "added_at": "2024-04-05 04:01:00",

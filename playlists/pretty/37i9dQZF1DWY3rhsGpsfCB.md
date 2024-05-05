@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,413 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,421 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 1 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 2 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 3 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 4 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 63 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 64 | [Realize \(feat\. taves\)](https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:13 |
 | 65 | [Coming Home](https://open.spotify.com/track/0UqEAKC6380mgNiIZ7dSN9) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:15 |
-| 66 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
-| 67 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 |
+| 66 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 |
+| 67 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 | 68 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
 | 69 | [Back For More](https://open.spotify.com/track/6V05qFS4oDAO7WjUSKh9tp) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Back For More](https://open.spotify.com/album/1iDvvvirRGmT74hyU0AsZt) | 2:43 |
 | 70 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |

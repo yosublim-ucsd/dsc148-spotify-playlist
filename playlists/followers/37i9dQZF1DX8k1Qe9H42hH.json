@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 4136,
+  "2024-05-05": 4189,
   "date_first_scraped": "2024-03-02",
   "description": "From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment. ",
   "name": "Disney Baby",
@@ -1275,6 +1275,28 @@
       "duration_ms": 254335,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID"
+    },
+    {
+      "album": {
+        "name": "Star Wars Lofi: Vol. 1",
+        "url": "https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl"
+      },
+      "artists": [
+        {
+          "name": "Nick Pingree",
+          "url": "https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz"
     },
     {
       "album": {

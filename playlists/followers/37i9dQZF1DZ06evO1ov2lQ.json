@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 3058,
+  "2024-05-05": 3059,
   "date_first_scraped": "2022-05-30",
   "description": "This is Biosphere. The essential tracks, all in one playlist.",
   "name": "This Is Biosphere",
@@ -549,6 +549,24 @@
       "duration_ms": 405141,
       "name": "Daphnis 26",
       "url": "https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb"
+    },
+    {
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405306,
+      "name": "Daphnis 26",
+      "url": "https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2"
     },
     {
       "album": {
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 312733,
       "name": "Wolfgang\u00b4s Wave",
       "url": "https://open.spotify.com/track/7re1JtuVKMjZggjswFVoUU"

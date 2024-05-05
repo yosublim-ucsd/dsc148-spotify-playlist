@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -2080,6 +2080,24 @@
       "duration_ms": 223560,
       "name": "Burning Times",
       "url": "https://open.spotify.com/track/3jq0ula2HD54lHumVcEx8b"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH"
+      },
+      "artists": [
+        {
+          "name": "Unto Others",
+          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj"
     },
     {
       "album": {

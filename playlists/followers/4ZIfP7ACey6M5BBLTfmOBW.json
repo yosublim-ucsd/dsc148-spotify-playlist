@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 29598,
+  "2024-05-05": 29597,
   "date_first_scraped": "2023-12-14",
   "description": "All the freshest hip-hop heaters in one list! Cover: Travis Scott.",
   "name": "Fresh Hip Hop",
@@ -25,6 +25,24 @@
       "duration_ms": 184543,
       "name": "'96 Bulls (feat. Drezus)",
       "url": "https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG"
+    },
+    {
+      "album": {
+        "name": "100 Bands",
+        "url": "https://open.spotify.com/album/4c4krYMGjRDh5FxtEEQhP2"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127183,
+      "name": "100 Bands",
+      "url": "https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 204339,
       "name": "Bat Phone",
       "url": "https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC"
@@ -876,6 +894,28 @@
     },
     {
       "album": {
+        "name": "Expensive (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Expensive (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
+    },
+    {
+      "album": {
         "name": "F*ck U Thought",
         "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
       },
@@ -1029,7 +1069,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181466,
       "name": "For The Mandem (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/1I70WBnGr34vSAJlfiUMRP"
@@ -1390,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Gotta Get U",
+        "url": "https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Gotta Get U",
+      "url": "https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34"
+    },
+    {
+      "album": {
         "name": "Have you seen my boyfriend (Freestyle) (feat. Zeddy Will)",
         "url": "https://open.spotify.com/album/4jxuee4gVBeOnYnYRuQAvV"
       },
@@ -1463,7 +1521,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 212357,
       "name": "I Got Paid Today",
       "url": "https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8"
@@ -1683,6 +1741,24 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "album": {
+        "name": "Lady Killers II",
+        "url": "https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II",
+      "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
     },
     {
       "album": {
@@ -2173,7 +2249,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 226206,
       "name": "Problems (feat. Pusha T)",
       "url": "https://open.spotify.com/track/0MtL7xAEQuJJ4WQZmxzsCw"
@@ -2355,6 +2431,28 @@
       "duration_ms": 232000,
       "name": "Same 24 (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU"
+    },
+    {
+      "album": {
+        "name": "Scar Tissue",
+        "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178765,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
     },
     {
       "album": {
@@ -2703,7 +2801,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 166581,
       "name": "Sunday Service",
       "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
@@ -2725,6 +2823,28 @@
       "duration_ms": 193280,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo"
+    },
+    {
+      "album": {
+        "name": "Tennessee (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Tennessee (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
     },
     {
       "album": {
@@ -2999,7 +3119,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 95064,
       "name": "What U Want?",
       "url": "https://open.spotify.com/track/55NP3m7Hy6yx7DKnstfPZN"

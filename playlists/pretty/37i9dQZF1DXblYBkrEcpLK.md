@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,122 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,203 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 45 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |
 | 46 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 47 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 |
-| 48 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
-| 49 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 |
+| 48 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 |
+| 49 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 50 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 |
 
 Snapshot ID: `ZifM8AAAAAAahQ2R7SkV1u8UyAvcbo1f`

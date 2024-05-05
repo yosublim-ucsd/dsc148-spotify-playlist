@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,914 likes - 86 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,070 likes - 86 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 15 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dream On](https://open.spotify.com/track/4Z7jIUqocfVg9CDYXq0QPL) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Punk Goes Classic Rock](https://open.spotify.com/album/6BfFctwh6EnS2IYH0ekIez) | 4:52 |
-| 2 | [A.N.I.C.](https://open.spotify.com/track/0bSjMn6rAMbN1yRlHloBHO) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 0:37 |
-| 3 | [Heroine](https://open.spotify.com/track/4dq223vwGSqVPhgW7mU9ui) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:35 |
-| 4 | [Sleeping On The Sidewalk \- Remastered 2011](https://open.spotify.com/track/3g1cVfFh6bJMB4z69jxONP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol\. 2 / 1977\-1982\)](https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7) | 3:07 |
-| 5 | [Lost](https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:01 |
-| 6 | [ugh!](https://open.spotify.com/track/3CHJC8N9seH3rjVhwGvkSW) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [ugh!](https://open.spotify.com/album/0gofQzxwNiYSgj0qt4TCYr) | 1:58 |
-| 7 | [Holy Secret](https://open.spotify.com/track/7hPr0QsPxswDGQQe6C2PzH) | [HB](https://open.spotify.com/artist/3b1eXoRLlTzS9yDgUPk5SH) | [Frozen Inside](https://open.spotify.com/album/3neHOYUjR0qK4bETHFvBTF) | 5:50 |
-| 8 | [Got the Life \- Live at CBGB](https://open.spotify.com/track/4yj7D1eec9WJQ13NHR9Unl) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF) | 4:06 |
-| 9 | [Stink Eye \(My Joy Is Irrational\)](https://open.spotify.com/track/5f7t5oVwjqgCZtZvfbaKBs) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Stink Eye \(My Joy Is Irrational\)](https://open.spotify.com/album/0RvicVdcKl1eIrAtvCL3XV) | 3:39 |
-| 10 | [Speechless](https://open.spotify.com/track/1AMYzC40LrOioafPGZkAkj) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Unconditional](https://open.spotify.com/album/0fTnGyrD3rUawLknAHeV48) | 3:23 |
-| 11 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
-| 12 | [The Phantom Of The Opera](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:08 |
+| 1 | [Present, Future, And Past](https://open.spotify.com/track/4ywZ7mVmlme6sq5O8vU00V) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Tracing Back Roots](https://open.spotify.com/album/3ySPWG4MBmIiJqDh1Kuio5) | 3:27 |
+| 2 | [Sonidos de Relajacion](https://open.spotify.com/track/2RNkl8g2OidaWUisrKfhlL) | [Naturaleza Sonidos](https://open.spotify.com/artist/1yGZ0aUFWJ2JK2uT37pbuP) | [Naturaleza Sonidos](https://open.spotify.com/album/6dGGWJWQDIpLJQvQzBRFP2) | 1:09 |
+| 3 | [Reservations](https://open.spotify.com/track/2Jn5B2ewyH4YfCWKKJEhF9) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0), [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Good Time Hotel](https://open.spotify.com/album/1rc72kgv4W11vCUHfbEEym) | 4:13 |
+| 4 | [Narcisista por Excelencia](https://open.spotify.com/track/5IF1w7i1bTx3opewdRfZeM) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Amantes Sunt Amentes](https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936) | 3:47 |
+| 5 | [We R Who We R](https://open.spotify.com/track/1xBH7qTxO8Nbjl3Elb7m38) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Punk Goes Pop, Volume 4](https://open.spotify.com/album/2fp3CYdsCAx9VXYHv1PTTv) | 3:26 |
+| 6 | [Another Night In London \(feat\. Gbnga\)](https://open.spotify.com/track/1knnCPLEuUrwNwgJiQJ2hY) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [Another Night In London \(feat\. Gbnga\)](https://open.spotify.com/album/1fDyNqivNgqnmXvIlKsTWb) | 2:38 |
+| 7 | [Silhouette of a Dancer \(Live Version\)](https://open.spotify.com/track/2Sq2EZfkolOJAucJuhLNIA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Lucidity \(10th Anniversary Edition\)](https://open.spotify.com/album/4zApuxmkizVW3LFcXaBiuz) | 5:50 |
+| 8 | [Para Ti](https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 3:51 |
+| 9 | [Turn The Other Way](https://open.spotify.com/track/2L6O0QR2Zmjy04PeD7hGDS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/46yRqBsLmCPBMumrBCY3kq) | 5:36 |
+| 10 | [Antes De Ti](https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Antes De Ti](https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN) | 4:02 |
+| 11 | [Tales Of Brave Ulysses](https://open.spotify.com/track/2mKY3LWyyLYgz3aFsHQk83) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 12 | [Would You Still Be There](https://open.spotify.com/track/0hDu1i5CzExwSSe0Yq12AO) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force: Full Circle](https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2) | 3:12 |
 
-Snapshot ID: `AAAAaL2Z/uQHX+OR4Nt/xZHXR5NBHE17`
+Snapshot ID: `AAAAatW/9ZQMvfGgGq+7k1sWiSgoKeFW`

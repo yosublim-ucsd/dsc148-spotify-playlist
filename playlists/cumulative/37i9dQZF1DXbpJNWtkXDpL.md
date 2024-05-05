@@ -4,7 +4,7 @@
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-348 songs - 18 hr 32 min
+349 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-05-11 | 2022-07-27 |
 | [Cuéntame de Ti](https://open.spotify.com/track/54lDDgMnq3UWwjxaXWd6bE) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Cuéntame de Ti](https://open.spotify.com/album/56Zy1G6xSyp69FPSEC3SEB) | 3:21 | 2021-10-01 | 2022-08-02 |
 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 | 2023-08-08 |  |
+| [DAIKIRI CON FRESA](https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [DAIKIRI CON FRESA](https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH) | 3:19 | 2024-05-03 |  |
 | [Dark Times](https://open.spotify.com/track/6t8QfeAAYhgmSMV3rOvIRw) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Dark Times](https://open.spotify.com/album/1KJ728YDU2jma0wgngWYaw) | 3:00 | 2022-05-13 | 2022-05-16 |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-09-28 | 2023-04-19 |
 | [Daydreaming](https://open.spotify.com/track/67M2lSad5KJRCCM7wYIovs) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Singles Table \(Deluxe\)](https://open.spotify.com/album/4BseeVs595AB7Pfza1zA8X) | 3:35 | 2022-05-13 | 2022-07-29 |
@@ -330,7 +331,7 @@
 | [Un Porro](https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [En Ciudades 878](https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3) | 4:17 | 2022-05-13 | 2023-04-19 |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2022-05-11 | 2023-04-09 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2023-07-03 |  |
-| [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 | 2023-04-18 |  |
+| [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 | 2023-04-18 | 2024-05-05 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-09-09 | 2023-04-19 |
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2021-10-01 | 2022-05-12 |
 | [Vas A Querer](https://open.spotify.com/track/4ioNX7DDXjwVXeX0gxIcHo) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vas A Querer](https://open.spotify.com/album/3PLGh2ZWumnBTX6iGV6wqc) | 2:59 | 2022-05-13 | 2022-07-27 |

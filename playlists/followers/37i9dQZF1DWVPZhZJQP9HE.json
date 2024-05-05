@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 67000,
+  "2024-05-05": 67022,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
   "name": "Tamil Indie",
@@ -1435,6 +1435,24 @@
       "duration_ms": 249600,
       "name": "Bhae Bhae",
       "url": "https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG"
+    },
+    {
+      "album": {
+        "name": "Bloody Bugger",
+        "url": "https://open.spotify.com/album/5fNwSJQe0NImEzmmIkgHTZ"
+      },
+      "artists": [
+        {
+          "name": "Nivas",
+          "url": "https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Bloody Bugger",
+      "url": "https://open.spotify.com/track/5H0ZK1rpUvrJt7JvhxpRTy"
     },
     {
       "album": {
@@ -7289,6 +7307,32 @@
       "duration_ms": 265228,
       "name": "Ok Kanmani",
       "url": "https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/5kWUG5S49XZIyY2875fL1i"
+      },
+      "artists": [
+        {
+          "name": "Sri Charan",
+          "url": "https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Dharshu Prakash",
+          "url": "https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/56fZS9eCVLNGrc4s9ebbz8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,330 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,348 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

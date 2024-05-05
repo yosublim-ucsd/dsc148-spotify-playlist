@@ -1,12 +1,12 @@
 {
-  "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 90732,
+  "description": "This Is Marcos Witt. Los temas esenciales, todos en una lista.",
+  "num_followers": 90738,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADL0K9OPlGOGCJZNS6+l51l",
+  "snapshot_id": "ZjQpAAAAAABPxEfYeaNk5m5MHv50zWvs",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Poder",
-        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
       },
       "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 302587,
-      "name": "Su Poder",
-      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
+      "duration_ms": 439484,
+      "name": "Enciende Una Luz",
+      "url": "https://open.spotify.com/track/7E47DjR4JzYcdpI5PxR7zn"
     },
     {
       "added_at": null,
@@ -155,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+        "name": "Su Poder",
+        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
       },
       "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 439484,
-      "name": "Enciende Una Luz",
-      "url": "https://open.spotify.com/track/7E47DjR4JzYcdpI5PxR7zn"
+      "duration_ms": 302587,
+      "name": "Su Poder",
+      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 236042,
-      "name": "De Gloria en Gloria",
-      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
+      "duration_ms": 366158,
+      "name": "Escucharte Hablar",
+      "url": "https://open.spotify.com/track/1Jsr3olWK54xIVnoSJvhy6"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 366158,
-      "name": "Escucharte Hablar",
-      "url": "https://open.spotify.com/track/1Jsr3olWK54xIVnoSJvhy6"
+      "duration_ms": 236042,
+      "name": "De Gloria en Gloria",
+      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 167758,
-      "name": "Porque para Siempre",
-      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios es Bueno",
-        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 325029,
-      "name": "En los Montes en los Valles",
-      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+      "duration_ms": 167758,
+      "name": "Porque para Siempre",
+      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 409547,
-      "name": "Poderoso",
-      "url": "https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a Jes\u00fas",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 178233,
       "name": "Perdonados",
       "url": "https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 409547,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f"
     },
     {
       "added_at": null,
@@ -907,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "X SIEMPRE",
-        "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 361389,
-      "name": "Cielo En La Tierra",
-      "url": "https://open.spotify.com/track/6mq6N3kTJAZmzbLIQsnFWz"
+      "duration_ms": 481175,
+      "name": "Damos honor a Ti feat.Danilo Montero",
+      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
     }
   ],
   "unique_name": "This Is Marcos Witt",

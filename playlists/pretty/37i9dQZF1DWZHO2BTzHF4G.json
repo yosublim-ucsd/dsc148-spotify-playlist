@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34831,
+  "num_followers": 34835,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 321093,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Boulevard of Broken Dreams",
-        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 261266,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -667,22 +683,6 @@
       "duration_ms": 185586,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -715,6 +715,22 @@
       "duration_ms": 264706,
       "name": "It's Been Awhile",
       "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 240493,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -875,6 +859,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -1027,8 +1043,8 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "All the Right Reasons (Walmart Exclusive Edition)",
+        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
       },
       "artists": [
         {
@@ -1036,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1183,22 +1199,6 @@
       "duration_ms": 211813,
       "name": "Walk Idiot Walk",
       "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "All the Right Reasons (Walmart Exclusive Edition)",
-        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 162106,
-      "name": "Faint",
-      "url": "https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr"
+      "duration_ms": 190986,
+      "name": "Know Your Enemy",
+      "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
     }
   ],
   "unique_name": "00s Summer Rock",

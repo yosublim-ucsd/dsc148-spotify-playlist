@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 592909,
+  "2024-05-05": 593082,
   "date_first_scraped": "2021-12-21",
-  "description": "Country Music that rocks. Cover: Ole 60",
+  "description": "Country Music that rocks. Cover: Avery Anna",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -5860,6 +5860,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Without Me",
+        "url": "https://open.spotify.com/album/4W92R9tdOKea59NHW0MaS2"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "Wake Up Without Me",
+      "url": "https://open.spotify.com/track/0eseAsEdgDdUYaVL0Duikp"
+    },
+    {
+      "album": {
         "name": "Wanna Be Saved",
         "url": "https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz"
       },
@@ -6413,7 +6431,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208480,
       "name": "Wrong Turns",
       "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"

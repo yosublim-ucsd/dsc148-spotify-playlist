@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 597610,
+  "2024-05-05": 598054,
   "date_first_scraped": "2022-02-06",
   "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Shawn Mendes",
   "name": "BILLIONS CLUB",
@@ -10423,6 +10423,24 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "album": {

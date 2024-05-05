@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 230161,
       "name": "Ate\u015fe D\u00fc\u015ft\u00fcm",
       "url": "https://open.spotify.com/track/3auN910HHNYykQo8i9q5J1"
@@ -9536,7 +9536,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 168975,
       "name": "Kehribar",
       "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
@@ -14414,7 +14414,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"
@@ -15544,6 +15544,24 @@
       "duration_ms": 176927,
       "name": "Ta\u015ftan",
       "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
+    },
+    {
+      "album": {
+        "name": "Tek Ba\u015f\u0131ma",
+        "url": "https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209136,
+      "name": "Tek Ba\u015f\u0131ma",
+      "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
     },
     {
       "album": {

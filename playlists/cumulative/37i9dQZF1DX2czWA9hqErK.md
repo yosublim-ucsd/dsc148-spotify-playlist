@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-668 songs - 1 day 13 hr 20 min
+669 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-20 | 2023-07-19 |
 | [In My Room](https://open.spotify.com/track/2JSXFft5Hga2HoyHG6pK87) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:13 | 2023-10-17 | 2023-11-08 |
 | [In The Cards](https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [In The Cards](https://open.spotify.com/album/5e3ZkbTHw3BtPoVI9VYXTS) | 3:00 | 2024-04-05 |  |
-| [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 | 2024-02-09 |  |
+| [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 | 2024-02-09 | 2024-05-05 |
 | [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-10-21 | 2023-06-20 |
 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-21 | 2022-11-24 |
 | [Innocence and Sadness](https://open.spotify.com/track/3UvLwVk149N2YDwTzpGM2b) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 4:12 | 2023-06-16 | 2024-03-29 |
@@ -645,6 +645,7 @@
 | [What Next](https://open.spotify.com/track/65VklTwNc5HoOH46Y8dN5g) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [What Next](https://open.spotify.com/album/2XoMPeRE5MuVrVrp5tptqu) | 3:31 | 2021-12-16 | 2022-04-27 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-18 |  |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-22 | 2024-02-15 |
+| [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 | 2024-05-03 |  |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-14 | 2023-03-14 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-25 | 2022-05-12 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-05-31 | 2023-08-02 |

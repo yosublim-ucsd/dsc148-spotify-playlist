@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 333217,
+  "num_followers": 333274,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
+        "name": "Synchronize (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Synchronize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
-        "name": "Synchronize (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "Synchronize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
     },
     {
       "added_at": "2024-01-16 15:01:27",

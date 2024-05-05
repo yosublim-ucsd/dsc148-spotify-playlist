@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 121340,
+  "2024-05-05": 121396,
   "date_first_scraped": "2022-05-12",
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
   "name": "Arsenico ",
@@ -231,13 +231,17 @@
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164177,
-      "name": "Ancora Qua",
+      "name": "Ancora Qua (feat. Tedua)",
       "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
     },
     {
@@ -1495,13 +1499,17 @@
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183439,
-      "name": "I Miss U",
+      "name": "I Miss U (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
     },
     {

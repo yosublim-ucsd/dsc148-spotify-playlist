@@ -1,12 +1,12 @@
 {
-  "description": "This Is Doechii. Los temas esenciales, todos en una lista.",
-  "num_followers": 9382,
+  "description": "This is Doechii. The essential tracks, all in one playlist.",
+  "num_followers": 9396,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABnkhBgE1Isiwj1WJWgAkod",
+  "snapshot_id": "ZjQpAAAAAACTQvYbG5zb8W67a86kK9F4",
   "tracks": [
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 61779,
-      "name": "Body Offer",
-      "url": "https://open.spotify.com/track/5hkfoVa5xBk7mOAXbVzroj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 214899,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
       },
@@ -519,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Swamp Anthem",
-        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
       "artists": [
         {
@@ -528,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 151826,
-      "name": "Universal Swamp Anthem",
-      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
+      "duration_ms": 214899,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe"
     },
     {
       "added_at": null,
@@ -544,15 +512,15 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 137038,
-      "name": "Everything You Needed",
-      "url": "https://open.spotify.com/track/1qn7230d9Ky4xkrV5eH0E7"
+      "duration_ms": 61779,
+      "name": "Body Offer",
+      "url": "https://open.spotify.com/track/5hkfoVa5xBk7mOAXbVzroj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+        "name": "Universal Swamp Anthem",
+        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
       },
       "artists": [
         {
@@ -560,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 220472,
-      "name": "Black Girl Memoir",
-      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
+      "duration_ms": 151826,
+      "name": "Universal Swamp Anthem",
+      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
     },
     {
       "added_at": null,
@@ -587,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 220472,
+      "name": "Black Girl Memoir",
+      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 137038,
+      "name": "Everything You Needed",
+      "url": "https://open.spotify.com/track/1qn7230d9Ky4xkrV5eH0E7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bra-Less",
         "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
@@ -603,38 +603,6 @@
       "duration_ms": 192000,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 86021,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 156036,
-      "name": "God",
-      "url": "https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi"
     },
     {
       "added_at": null,
@@ -659,6 +627,38 @@
       "duration_ms": 315074,
       "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
       "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 156036,
+      "name": "God",
+      "url": "https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 86021,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK"
     },
     {
       "added_at": null,

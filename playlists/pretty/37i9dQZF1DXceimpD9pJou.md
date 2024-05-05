@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,876 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,911 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 3 | [Del Salmo 23](https://open.spotify.com/track/0pu2dU13lq6MVr5MYECGRV) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Distrito Royal](https://open.spotify.com/artist/4oMlE314cSHFQYWjIstdK5) | [Del Salmo 23](https://open.spotify.com/album/5hK6POzhrSwOjmL45i0iVk) | 3:48 |
 | 4 | [Te Anhelo \- Live](https://open.spotify.com/track/2JsUPNiIWssxvxcOUybNdR) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie), [Daniella Reyes](https://open.spotify.com/artist/3FuVkjv92G8MncC4A1hGu1) | [Te Anhelo \(Live\)](https://open.spotify.com/album/49Hk7qeULzlR0BC6TjnPzL) | 5:52 |
 | 5 | [Profundamente Te Amo \- En Vivo](https://open.spotify.com/track/0BhWlXmzjr35pmuScdSJuB) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo \(En Vivo\)](https://open.spotify.com/album/6Rlee6Z1RaG7RG53GQhMfY) | 5:00 |
-| 6 | [Ha Llegado El Momento](https://open.spotify.com/track/4mLr6ZAjbqWvtgGJ8PjShD) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM) | [Ha Llegado El Momento](https://open.spotify.com/album/03JWHmutmunUwUSRMY1zTx) | 4:23 |
+| 6 | [Ha Llegado El Momento](https://open.spotify.com/track/4mLr6ZAjbqWvtgGJ8PjShD) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Charlee Buitrago](https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8), [Milca Crystal](https://open.spotify.com/artist/7AiWphrsGuVUhdhCmKFmWS) | [Ha Llegado El Momento](https://open.spotify.com/album/03JWHmutmunUwUSRMY1zTx) | 4:23 |
 | 7 | [Olas del Mar](https://open.spotify.com/track/2UOAZ6k8pJig7aSdp4unkL) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Olas del Mar](https://open.spotify.com/album/0HadtndfLBRSAoV6k8bvPG) | 2:56 |
 | 8 | [Eleva Tu Alma](https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Eleva Tu Alma](https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5) | 3:31 |
 | 9 | [DIOS HA SIDO BUENO \- Piano Version](https://open.spotify.com/track/22kD3KXAobzamNZ62v1c1T) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [DIOS HA SIDO BUENO \(Piano Version\)](https://open.spotify.com/album/251c0mxhMW12wd0Q6ql1Em) | 2:30 |

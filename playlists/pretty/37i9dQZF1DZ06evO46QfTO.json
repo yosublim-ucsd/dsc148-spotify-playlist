@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 71952,
+  "num_followers": 71957,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAA4RZc2P3YaclMkFxp/QB1a",
+  "snapshot_id": "ZjQpAAAAAAB9K7jg1J1xSlBP3kHuM5Yk",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "My Church",
-      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211767,
+      "name": "80s Mercedes",
+      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
       },
@@ -267,30 +267,6 @@
       "duration_ms": 175161,
       "name": "42",
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make You Say",
-        "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Make You Say",
-      "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
       "added_at": null,
@@ -327,6 +303,30 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make You Say",
+        "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Make You Say",
+      "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
       "added_at": null,

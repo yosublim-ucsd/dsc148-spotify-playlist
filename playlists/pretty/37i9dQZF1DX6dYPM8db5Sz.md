@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=kCgl0RVbRP2qbiq7r6lByw">Porcelain Moon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,523 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,525 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 17 | [Shortcuts](https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Shortcuts](https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ) | 2:53 |
 | 18 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 |
 | 19 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 20 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
-| 21 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
+| 20 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
+| 21 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 22 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 |
 | 23 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 24 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 35 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
 | 36 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 |
 | 37 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
-| 38 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
-| 39 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
-| 40 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
+| 38 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
+| 39 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
+| 40 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 41 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
-| 42 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
-| 43 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 42 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
+| 43 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
 | 44 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
 | 45 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
-| 46 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
-| 47 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
-| 48 | [Daydreaming](https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi) | [Joe Preyer](https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt) | [Daydreaming](https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1) | 3:56 |
-| 49 | [You're Gone](https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Echoes of Farewell](https://open.spotify.com/album/744YhwL1S9OvtUY6QkAPPc) | 2:49 |
-| 50 | [New Old Times](https://open.spotify.com/track/74xrdg0CobTeKelmdCdyKm) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [New Old Times](https://open.spotify.com/album/2jGbhP0UjeaFTQWwR2Kx0m) | 3:07 |
+| 46 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 |
+| 47 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 48 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
+| 49 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
+| 50 | [Daydreaming](https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi) | [Joe Preyer](https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt) | [Daydreaming](https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1) | 3:56 |
 
 Snapshot ID: `ZjSNVAAAAADvGeNtdw4iaM4zt8c93LqY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,937 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,957 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 67 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
 | 68 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
 | 69 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
-| 70 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 |
-| 71 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
+| 70 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
+| 71 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 |
 | 72 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
 | 73 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
 | 74 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [Mix melancólico](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a> e mais
+> <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a> and more
 
-596 songs - 1 day 10 hr 28 min
+597 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2023-12-23 | 2024-03-18 |
 | [River Of Tears](https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 4:14 | 2022-12-15 | 2024-01-01 |
 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 | 2024-01-15 | 2024-01-16 |
-| [Robin](https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:00 | 2024-05-04 |  |
+| [Robin](https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:00 | 2024-05-04 | 2024-05-05 |
 | [Robin Hood](https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Robin Hood](https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l) | 3:41 | 2023-02-24 | 2023-06-26 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 |  |
 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 | 2022-12-17 | 2023-01-18 |
@@ -461,6 +461,7 @@
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2022-12-04 | 2024-03-27 |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-12-14 |  |
 | [So Cold \(The Good Wife Trailer\)](https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8) | [Ben Cocks](https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ), [Nikisha Reyes\-Pile](https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl) | [...As Heard In](https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct) | 3:46 | 2022-12-04 | 2024-04-09 |
+| [So Long, London](https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:22 | 2024-05-05 |  |
 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 | 2022-12-01 | 2024-02-02 |
 | [Soft Skin](https://open.spotify.com/track/2y1NlQ3jhmmvtybRBLQGXm) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 1:57 | 2023-01-29 | 2023-01-30 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2023-02-25 | 2023-07-02 |

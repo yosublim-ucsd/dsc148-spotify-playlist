@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,863 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,864 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Mnogo mi otivash](https://open.spotify.com/track/7pptYhlWEMngXul1dcUS8d) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Mnogo mi otivash](https://open.spotify.com/album/31lE5VxzlUILcOPVsv3PAb) | 4:43 |
 | 50 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

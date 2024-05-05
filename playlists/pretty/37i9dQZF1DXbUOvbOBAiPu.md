@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,838 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,852 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 46 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 |
 | 47 | [JM WESTON](https://open.spotify.com/track/6KIIxU37HAOTk1tTxB5w2d) | [CRC](https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6) | [JM WESTON](https://open.spotify.com/album/5xH352VAhwHDp19WDcYXU6) | 2:54 |
 | 48 | [The Idea of You](https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Idea of You](https://open.spotify.com/album/5brGFiJgrngm9vyWMhzc9Y) | 3:06 |
-| 49 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 49 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 50 | [Believer \- Uit Liefde Voor Muziek](https://open.spotify.com/track/55St4h9U1q5RwEq6OcxO8P) | [Stan Van Samang](https://open.spotify.com/artist/3P9HA4lYhoPQKlUsF9jUWe) | [Believer \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/6ZP8wrMX2JA1JMqWqtgx8K) | 2:49 |
 | 51 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 |
 | 52 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 63 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
 | 64 | [What A Woman](https://open.spotify.com/track/2x0IElokcAprEpWdxOEeZS) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [What A Woman](https://open.spotify.com/album/3ttdvoQZaJHrSaLfj3uSsY) | 2:21 |
 | 65 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
-| 66 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 66 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 67 | [Vergeet me](https://open.spotify.com/track/12Lm7lXrThVbhptbWpf93A) | [Poot & Vijverman](https://open.spotify.com/artist/50ABfzTewlEETUN8YKlOdj) | [Vergeet me](https://open.spotify.com/album/7kmVIccJBLhT1dpuC6fSNh) | 3:12 |
 | 68 | [Remplaçable](https://open.spotify.com/track/4oTu9u7KnW9Syogi75xie1) | [Edouard van Praet](https://open.spotify.com/artist/1gNzUZYMzLy36VAKNbp9oe) | [Remplaçable](https://open.spotify.com/album/69YszDSqfaNcIpx00Jmo3Z) | 3:41 |
 | 69 | [FACEPLANT](https://open.spotify.com/track/7CcSeBM1ENcXhBFDDjnTOz) | [ZLDR](https://open.spotify.com/artist/4PXGFPvT87m4nP2aKDIJGT) | [FACEPLANT](https://open.spotify.com/album/1IBIUiuTk2nYurmSMzRbRD) | 3:01 |

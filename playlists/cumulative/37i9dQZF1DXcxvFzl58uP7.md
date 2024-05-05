@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-974 songs - 2 day 2 hr 33 min
+975 songs - 2 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-04-12 | 2022-04-21 |
 | [Nostalgia](https://open.spotify.com/track/7gtj3FWoAiQDPbON9EXNbH) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Nostalgia](https://open.spotify.com/album/3hFBnq1H23hlLwIooVXl1T) | 4:03 | 2019-11-14 | 2021-05-24 |
 | [notgonnalie](https://open.spotify.com/track/36ibjANovvUo60xwamxLt7) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [notgonnalie](https://open.spotify.com/album/1OYlACKzTcH3bgDsf2lDjf) | 2:50 | 2021-10-25 | 2022-04-21 |
+| [Nothing 2 See](https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Nothing 2 See](https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9) | 3:40 | 2024-05-03 |  |
 | [Nothing in Return](https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1) | 3:52 | 2021-02-27 | 2023-08-26 |
 | [Nothing in Return](https://open.spotify.com/track/53G729jc38JTStNPNX4dF1) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/3i7HKOoLl6nSPXaOjknDjN) | 3:52 | 2019-07-30\* | 2022-07-29 |
 | [Nothing Lasts](https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:36 | 2024-04-23 |  |
@@ -733,7 +734,7 @@
 | [Shooting Star](https://open.spotify.com/track/5HSCHarXwdTRIfVwsYnbRA) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Shooting Star](https://open.spotify.com/album/50hsrcRrFSSPzWIIPhDgRV) | 2:34 | 2020-06-20 | 2021-04-30 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-07-02 | 2022-04-17 |
 | [Shoulder](https://open.spotify.com/track/0cs9JUEbRpq0FKlrLatqnL) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3), [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:21 | 2020-10-16 | 2021-07-26 |
-| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 |  |
+| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 | 2024-05-05 |
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-09-29 | 2024-04-19 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-27 | 2022-07-29 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2019-11-15 |  |

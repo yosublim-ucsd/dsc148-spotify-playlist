@@ -1,6 +1,6 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 196390,
+  "num_followers": 196417,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Election Year",
-        "url": "https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI"
-      },
-      "artists": [
-        {
-          "name": "KillRadio",
-          "url": "https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr"
-        }
-      ],
-      "duration_ms": 203590,
-      "name": "Music in My Head",
-      "url": "https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Marching on Ferguson",
         "url": "https://open.spotify.com/album/4FEMJjyalJko1QFoX4C6b7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 175305,
       "name": "Marching on Ferguson",
       "url": "https://open.spotify.com/track/024ehhkqgITV2tDnIU0Teb"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Election Year",
+        "url": "https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI"
+      },
+      "artists": [
+        {
+          "name": "KillRadio",
+          "url": "https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr"
+        }
+      ],
+      "duration_ms": 203590,
+      "name": "Music in My Head",
+      "url": "https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Election Year, Pt. 1",
-        "url": "https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT"
-      },
-      "artists": [
-        {
-          "name": "KillRadio",
-          "url": "https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr"
-        }
-      ],
-      "duration_ms": 248931,
-      "name": "Election Year, Pt. 1",
-      "url": "https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Too Real",
         "url": "https://open.spotify.com/album/5vdQmnjcwSpFDnO5lRaDuh"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Election Year, Pt. 1",
+        "url": "https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT"
+      },
+      "artists": [
+        {
+          "name": "KillRadio",
+          "url": "https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr"
+        }
+      ],
+      "duration_ms": 248931,
+      "name": "Election Year, Pt. 1",
+      "url": "https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK"
     },
     {
       "added_at": "2023-06-23 04:01:00",

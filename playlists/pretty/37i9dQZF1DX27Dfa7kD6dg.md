@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,621 likes - 116 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,677 likes - 116 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 31 | [Un Verano en NY](https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:57 |
 | 32 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 |
 | 33 | [No Sirvo Pa' Queso](https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa) | [La Maxima 79](https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94) | [Regresando al Guaguancò](https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX) | 4:00 |
-| 34 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
+| 34 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
 | 35 | [Mi Mundo](https://open.spotify.com/track/6dvRYk3hch6cxh81jhKwFD) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:43 |
 | 36 | [Puerto Rico](https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 6:58 |
 | 37 | [Carbonerito](https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [35th Anniversary\- 35 Years Around the World](https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn) | 5:01 |
 | 38 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
-| 39 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
+| 39 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
 | 40 | [Por Eso Está Conmigo](https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA) | 4:40 |
 | 41 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:39 |
 | 42 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |

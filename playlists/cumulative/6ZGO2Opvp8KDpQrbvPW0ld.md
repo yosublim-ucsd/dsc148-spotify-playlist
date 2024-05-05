@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-1,340 songs - 2 day 0 hr 6 min
+1,340 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,7 +748,7 @@
 | [Morning Sun](https://open.spotify.com/track/13pRiQ4LhJJJ5mIMcsC19v) | [Jonny Alias](https://open.spotify.com/artist/6QopjwRKovcwYQCK2SGPMa), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl) | [Morning Sun](https://open.spotify.com/album/6rsFL4ztuCkOE8UuVNaC3Z) | 1:52 | 2024-04-17 |  |
 | [Morning Sun](https://open.spotify.com/track/4uJjAPtk9FjwWlYEEdafAU) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Morning Sun](https://open.spotify.com/album/42p50IxiN5aLkZjhYwIrZD) | 1:34 | 2023-12-07 | 2023-12-16 |
 | [moss](https://open.spotify.com/track/7iCKqohXltGyzcry0nMehf) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [moss](https://open.spotify.com/album/1kYSPmXtFVHGptfXULSnrB) | 2:08 | 2024-01-03 | 2024-02-22 |
-| [Motion](https://open.spotify.com/track/3lRbXUSVd6ZewvFhXHErbf) | [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero), [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Motion](https://open.spotify.com/album/1jsZ5iGE2krgACoZmu2hah) | 1:07 | 2024-04-11 |  |
+| [Motion](https://open.spotify.com/track/3lRbXUSVd6ZewvFhXHErbf) | [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero), [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Motion](https://open.spotify.com/album/1jsZ5iGE2krgACoZmu2hah) | 2:12 | 2024-04-11 |  |
 | [Mountain Bliss](https://open.spotify.com/track/4fAdnPDm2mHfRHtiKZUg8h) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Mountain Bliss](https://open.spotify.com/album/09DfRPMfaDajipHgNeROxU) | 1:24 | 2023-12-20 | 2024-03-02 |
 | [Moving Here](https://open.spotify.com/track/6SYydwzjQFLuzduqmQCpSh) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Moving Here](https://open.spotify.com/album/0DglylPKoFfVvVcmh6J07y) | 2:47 | 2023-12-07 | 2024-05-03 |
 | [movin’ forward](https://open.spotify.com/track/4CdbjHlEqMfTeedfrn0IEP) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [movin’ forward](https://open.spotify.com/album/7gDM9Ncz63j1fDAgnaaSNU) | 2:05 | 2024-05-02 |  |

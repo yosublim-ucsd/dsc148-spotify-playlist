@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 543317,
+  "num_followers": 543505,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-03 00:45:28",
       "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2024-05-03 00:45:28",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
-    },
-    {
-      "added_at": "2024-05-03 00:45:28",
-      "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2024-05-03 00:45:28",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-03 00:45:28",
       "album": {
-        "name": "Anitta",
-        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Zen",
-      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
-    },
-    {
-      "added_at": "2024-05-03 00:45:28",
-      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 244386,
       "name": "Te amar \u00e9 massa demais",
       "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
+    },
+    {
+      "added_at": "2024-05-03 00:45:28",
+      "album": {
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
     },
     {
       "added_at": "2024-05-03 00:45:28",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-05-03 00:45:28",
       "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2024-05-03 00:45:28",
-      "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+    },
+    {
+      "added_at": "2024-05-03 00:45:28",
+      "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2024-05-03 00:45:28",

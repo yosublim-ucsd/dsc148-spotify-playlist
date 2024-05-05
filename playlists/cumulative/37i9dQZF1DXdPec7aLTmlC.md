@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-770 songs - 1 day 16 hr 39 min
+771 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Gut Feeling](https://open.spotify.com/track/3cAeMlAUiqsdqNuauVk0Xy) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Gut Feeling](https://open.spotify.com/album/3Ze9vQd6aABkCkHPX9021n) | 3:02 | 2019-07-11 | 2019-11-09 |
 | [H.O.L.Y.](https://open.spotify.com/track/625SfHM2FVyyUj3cT8108G) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [H.O.L.Y.](https://open.spotify.com/album/7oCFkWFuRVBCSL2JrPP0LU) | 2:55 | 2019-06-21 | 2020-01-03 |
 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 | 2021-10-13 | 2022-07-29 |
-| [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-03-24 |  |
+| [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-03-24 | 2024-05-05 |
 | [Haloes](https://open.spotify.com/track/7vLR7NDAadIXfWjl2nw5Nr) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Haloes](https://open.spotify.com/album/4OkA09FvGYrV1cwJghn0BW) | 2:51 | 2019-10-22 | 2020-01-04 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 | 2019-07-09 | 2022-04-21 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-21 | 2024-04-19 |
@@ -685,6 +685,7 @@
 | [The Truth](https://open.spotify.com/track/43aNLlvCErobCJHCBOz7c1) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Once Upon a Mind](https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4) | 3:42 | 2019-12-15 | 2022-04-21 |
 | [Thelma + Louise](https://open.spotify.com/track/4UxATpWvXewD5EZUW01EeQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Thelma + Louise](https://open.spotify.com/album/4C5H43XMaCWlOqqHP7qXd7) | 2:17 | 2021-08-21 | 2022-07-29 |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/5yYFrOnqG8cEciKnsxHz2r) | 3:19 | 2019-06-21 | 2020-01-02 |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-02 |  |
 | [Think About Things](https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) | 2:53 | 2020-06-12 | 2021-05-26 |
 | [Think You Should](https://open.spotify.com/track/4QZHDAf0lw2PN6olVg0ztp) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO), [Linnea Dale](https://open.spotify.com/artist/3wuG1n9nWNz4szSzITG7wO) | [Think You Should](https://open.spotify.com/album/7itxK8CyOVj7nJEMlqWFYv) | 3:01 | 2019-06-21 | 2019-07-24 |
 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 | 2022-07-21 | 2024-04-19 |

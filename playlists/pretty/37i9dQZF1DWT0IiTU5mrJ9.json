@@ -1,6 +1,6 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 278160,
+  "num_followers": 278287,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
         "name": "Hands All Over (Revised International Standard version)",
         "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 201493,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -471,6 +471,22 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Storm Front",
-        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "We Didn't Start the Fire",
-      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "We Didn't Start the Fire",
+      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Four Tops - Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 203573,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Four Tops - Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Backstreet's Back",
         "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -951,6 +935,22 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 212253,
       "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
-        "name": "Reggatta De Blanc (Remastered 2003)",
-        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "Message In A Bottle",
-      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1047,22 +1031,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1079,18 +1047,34 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 212600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+      "duration_ms": 290280,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1107,6 +1091,22 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     }
   ],
   "unique_name": "Housework Hits!",

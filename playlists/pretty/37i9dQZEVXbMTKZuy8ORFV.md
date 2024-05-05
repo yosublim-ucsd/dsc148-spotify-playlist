@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,641 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,642 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 |
 | 50 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

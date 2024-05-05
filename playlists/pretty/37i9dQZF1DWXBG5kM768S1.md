@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,036 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,048 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 19 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 20 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
 | 21 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
-| 22 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
-| 23 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
+| 22 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
+| 23 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
 | 24 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
 | 25 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 |
 | 26 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 42 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
 | 43 | [Savner deg](https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Savner deg](https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7) | 3:01 |
 | 44 | [Eg glemmer deg aldri](https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg Glemmer Deg Aldri](https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ) | 2:58 |
-| 45 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 |
+| 45 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
 | 46 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
-| 47 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
+| 47 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 |
 | 48 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
 | 49 | [Stille Vann](https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:01 |
 | 50 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |

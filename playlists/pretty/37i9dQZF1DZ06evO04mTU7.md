@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is Ajuliacosta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,074 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 26 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 25 | [Aju](https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:33 |
 | 26 | [Roteiro Mudado](https://open.spotify.com/track/63mfLY9lu2Wm8WJ0suuwKK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:16 |
 
-Snapshot ID: `ZjLXgAAAAADQ5TOltxDEtmBrS/gGRLqj`
+Snapshot ID: `ZjQpAAAAAABAzUqNs2eYtb64+RxSqbfr`

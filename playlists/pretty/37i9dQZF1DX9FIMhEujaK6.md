@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,772 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,915 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 18 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 19 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
 | 20 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 |
-| 21 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
+| 21 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 22 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
-| 23 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
+| 23 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 24 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 25 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 | 26 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 31 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 32 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 33 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
-| 34 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 |
-| 35 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 34 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
+| 35 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 |
 | 36 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 37 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 38 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |

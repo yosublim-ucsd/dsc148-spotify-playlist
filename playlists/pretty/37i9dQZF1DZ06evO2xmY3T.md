@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 ### [This Is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
 
-> This Is Cardi B\. Los temas esenciales, todos en una lista.
+> This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,533 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,591 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 30 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 |
 | 31 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 |
 | 32 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
-| 33 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
-| 34 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
+| 33 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
+| 34 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 | 35 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
 | 36 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 37 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 49 | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls \(feat\. Cardi B, Bebe Rexha & Charli XCX\)](https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP) | 3:41 |
 | 50 | [Red Barz](https://open.spotify.com/track/4Cukzh6moDDM0RVTgRYbog) | [araabMUZIK](https://open.spotify.com/artist/2iXdwLTWyFhlN1MQWIymvM), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Barz](https://open.spotify.com/album/4wWVZFVLaVdzo1tXylyKV0) | 2:00 |
 
-Snapshot ID: `ZjLXgAAAAACJorSNKC2QjpaP1CHmApVe`
+Snapshot ID: `ZjQpAAAAAADjWmi+hH6S8rymEG3NHUp8`

@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -596,6 +596,24 @@
       "duration_ms": 103819,
       "name": "KRVSH!",
       "url": "https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/5VqHbt2w3TvXxkJB6dScNF"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2qCX72yNuIAJAHhhctvlky"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/1XARw6FvznquPlDUkgD9Bg"
     },
     {
       "album": {
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 198620,
       "name": "\u0410\u0424\u0422\u0415\u0420\u041f\u0410\u0422\u0418",
       "url": "https://open.spotify.com/track/2trIptvItNErAkJBJnJ3j9"
@@ -1325,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "\u0434\u0430\u043b\u0435\u043a\u043e (\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u0443\u0448\u0438\u0437\u043c) [prod. by wex & heysubr]",
+        "url": "https://open.spotify.com/album/3KXxUj15lVB5qolvUReTWB"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "\u0434\u0430\u043b\u0435\u043a\u043e (\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u0443\u0448\u0438\u0437\u043c) [prod. by wex & heysubr]",
+      "url": "https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k"
+    },
+    {
+      "album": {
         "name": "JERK SHIT HAPPENS",
         "url": "https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV"
       },
@@ -1376,6 +1412,28 @@
       "duration_ms": 182068,
       "name": "\u0414\u043e\u0440\u043e\u0433\u0430 \u0434\u043e\u043c\u043e\u0439",
       "url": "https://open.spotify.com/track/1ThEP94Iih9kvh08PJERVF"
+    },
+    {
+      "album": {
+        "name": "\u0414\u044b\u043c",
+        "url": "https://open.spotify.com/album/5KQKyNHSwed28OUBOj8T9q"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        },
+        {
+          "name": "JONY",
+          "url": "https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "\u0414\u044b\u043c",
+      "url": "https://open.spotify.com/track/4bC2tnzpkTMZs0EioWRxYb"
     },
     {
       "album": {
@@ -2279,13 +2337,31 @@
     },
     {
       "album": {
+        "name": "\u0420\u0430\u0437\u0431\u0443\u0434\u0438 \u043c\u0435\u043d\u044f",
+        "url": "https://open.spotify.com/album/3szw4w7Tp3WyMFhkpUyauh"
+      },
+      "artists": [
+        {
+          "name": "T-Fest",
+          "url": "https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182952,
+      "name": "\u0420\u0430\u0437\u0431\u0443\u0434\u0438 \u043c\u0435\u043d\u044f",
+      "url": "https://open.spotify.com/track/2X2k5WD2CProLG4qqTVd3S"
+    },
+    {
+      "album": {
         "name": "\u041a\u0435\u0442\u0430\u043c\u0438\u043d\u043e\u0432\u0430\u044f \u044f\u043c\u0430",
         "url": "https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP"
       },
       "artists": [
         {
           "name": "5mewmet",
-          "url": "https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih"
+          "url": "https://open.spotify.com/artist/1JOU8GC4rAXxSkYSOUFKWR"
         }
       ],
       "date_added": "2024-01-29",
@@ -2788,7 +2864,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 107467,
       "name": "\u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a",
       "url": "https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG"
@@ -2954,7 +3030,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

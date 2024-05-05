@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 453804,
+  "num_followers": 453927,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -309,22 +309,6 @@
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
       "added_at": "2024-01-03 18:20:01",
       "album": {
         "name": "Baby Face",
@@ -339,6 +323,22 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-05-03 16:49:18",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
-      "added_at": "2024-04-18 18:10:45",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "Colores Del Mar",
-      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
-    },
-    {
       "added_at": "2023-04-05 03:06:38",
       "album": {
         "name": "EL-MEAN",
@@ -463,6 +447,22 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2024-04-18 18:10:45",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "Colores Del Mar",
+      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
       "added_at": "2023-06-07 16:02:09",
@@ -499,18 +499,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -663,22 +667,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
-      "added_at": "2023-05-24 02:01:11",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
-    },
-    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "State of Mine",
@@ -831,6 +815,22 @@
       "duration_ms": 172436,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
+    },
+    {
+      "added_at": "2023-05-24 02:01:11",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2022-01-12 18:14:24",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
-      "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Feel The Pain / Fast Car",
@@ -1171,6 +1155,22 @@
       "duration_ms": 198373,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
+    },
+    {
+      "added_at": "2024-01-03 18:42:32",
+      "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Ooh La La",
@@ -1303,6 +1287,22 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     },
     {
-      "added_at": "2022-09-15 12:32:00",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 183494,
-      "name": "how",
-      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
-    },
-    {
       "added_at": "2024-01-11 02:15:10",
       "album": {
         "name": "SCARY WORLD",
@@ -1419,6 +1403,22 @@
       "duration_ms": 104072,
       "name": "NOBODY WANTS TO BE MY FRIEND",
       "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+    },
+    {
+      "added_at": "2022-09-15 12:32:00",
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "duration_ms": 183494,
+      "name": "how",
+      "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Ludi",
-        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
+        "name": "The Adventures Of Masta Splinta",
+        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
       },
       "artists": [
         {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+          "name": "Intalekt",
+          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
         }
       ],
-      "duration_ms": 146487,
-      "name": "I Love Vertigo",
-      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
+      "duration_ms": 221086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "The Adventures Of Masta Splinta",
-        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
+        "name": "Ludi",
+        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
       },
       "artists": [
         {
-          "name": "Intalekt",
-          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
         }
       ],
-      "duration_ms": 221086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
+      "duration_ms": 146487,
+      "name": "I Love Vertigo",
+      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1637,26 +1637,6 @@
       "url": "https://open.spotify.com/track/5z7aFiU5cDVhWXxAUo9S21"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Walking Flames",
-        "url": "https://open.spotify.com/album/2GkDoPv9tpc1mvw3Xh9heu"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Walking Flames",
-      "url": "https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW"
-    },
-    {
       "added_at": "2022-04-07 04:20:19",
       "album": {
         "name": "Lemon Squeezy / Afrique",
@@ -1679,6 +1659,26 @@
       "duration_ms": 212762,
       "name": "Lemon Squeezy",
       "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Walking Flames",
+        "url": "https://open.spotify.com/album/2GkDoPv9tpc1mvw3Xh9heu"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Walking Flames",
+      "url": "https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW"
     },
     {
       "added_at": "2022-12-07 04:05:43",

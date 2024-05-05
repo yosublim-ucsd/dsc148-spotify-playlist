@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,747 likes - 84 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,828 likes - 84 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 61 | [Some Days](https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Some Days](https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7) | 3:53 |
 | 62 | [Gangsta Lean](https://open.spotify.com/track/6cCUTFJ2uRzTO205PGTkhS) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Gangsta Lean](https://open.spotify.com/album/0hgmt43uuaYXt5xcd3vBmF) | 3:23 |
 | 63 | [Ur Luv](https://open.spotify.com/track/6mxStNzF1zwZI1BnG3AgRC) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Ur Luv](https://open.spotify.com/album/17WU2suTMATe6nwXatrNmc) | 3:52 |
-| 64 | [Kiss the Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss the Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 |
+| 64 | [Kiss The Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss The Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 |
 | 65 | [Mine](https://open.spotify.com/track/5TS2pObE8o52h6w0T6bSzt) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Mine](https://open.spotify.com/album/3allFyP3q2lzyE6omnAF52) | 3:03 |
 | 66 | [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 |
 | 67 | [days months years](https://open.spotify.com/track/4BxLHGsWsfadV7FO0qIbgU) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [days months years](https://open.spotify.com/album/67fooCPnoizKhfK50TDC07) | 3:14 |

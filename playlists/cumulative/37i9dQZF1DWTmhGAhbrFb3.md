@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-389 songs - 19 hr 13 min
+394 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2023-04-06 | 2023-07-29 |
 | [Bid to Wonder](https://open.spotify.com/track/3o9ntzrGGcWTf455Cotank) | [Reinstallation Conundrum](https://open.spotify.com/artist/0wi4qBw9aaXBjMr7peZ8eT) | [Sochi](https://open.spotify.com/album/2gvyCBlwTSzWCQlmAkw2CW) | 3:11 | 2023-04-06 | 2024-01-18 |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2023-04-06 | 2024-01-18 |
-| [Blissful Drift](https://open.spotify.com/track/0g6As2M9UUFkaXWE0eTbY9) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Blissful Drift](https://open.spotify.com/album/78PL8SM08sW5MmRZ77p76o) | 3:02 | 2024-02-26 |  |
+| [Blissful Drift](https://open.spotify.com/track/0g6As2M9UUFkaXWE0eTbY9) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Blissful Drift](https://open.spotify.com/album/78PL8SM08sW5MmRZ77p76o) | 3:02 | 2024-02-26 | 2024-05-05 |
 | [Bogha](https://open.spotify.com/track/6VdWgQuECUyNtfgm8ZBCKy) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha](https://open.spotify.com/album/3Ltc5DM8l3p3uqps7l9AR4) | 3:26 | 2023-11-10 |  |
+| [Breakthrough](https://open.spotify.com/track/1JF7MGHMuarWty6Yjbyfhr) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Breakthrough](https://open.spotify.com/album/3s6qRbBjaaX7hUVJ0Wnpay) | 2:41 | 2024-05-04 |  |
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2023-04-06 | 2024-04-23 |
 | [Burgeon](https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Burgeon](https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl) | 2:48 | 2024-01-17 |  |
 | [Bywyd](https://open.spotify.com/track/2C1IIUSDxqBsNr3k772BdT) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Bywyd](https://open.spotify.com/album/10SpdrXvHP9hQjJVOW5jft) | 2:21 | 2023-04-13 |  |
@@ -123,6 +124,7 @@
 | [Et øyeblikk](https://open.spotify.com/track/4wwtlq6dqi0ztt989n4yiQ) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Et øyeblikk](https://open.spotify.com/album/3Th1olVBm5YAxu68k1q4Qn) | 2:41 | 2023-04-06 | 2024-01-18 |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2023-04-06 | 2024-04-23 |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2023-04-06 | 2024-01-18 |
+| [Everlasting Lights](https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Everlasting Lights](https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO) | 3:19 | 2024-05-04 |  |
 | [Evermore](https://open.spotify.com/track/5S2fFnqCM8jYc4GL6k8dWK) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Evermore](https://open.spotify.com/album/0GqhgQEET7SJTiFydo3Svp) | 2:53 | 2023-04-13 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2023-04-06 | 2024-01-18 |
 | [Fading Memories](https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz) | [Zawar Hagano](https://open.spotify.com/artist/4sZQU2cNVFvCzZ3GK3n0S5) | [Fading Memories](https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM) | 2:55 | 2023-04-06 |  |
@@ -209,7 +211,7 @@
 | [Lost Love](https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Lost Love](https://open.spotify.com/album/0LZxDPJn8HdgZKFuN0O77l) | 3:07 | 2023-04-06 | 2024-01-18 |
 | [lucid](https://open.spotify.com/track/6v4GhvB0MKJxyQFJg7lkLF) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [lucid](https://open.spotify.com/album/0HChcKa0H2YEitThGSmi3r) | 2:39 | 2023-12-01 | 2024-03-07 |
 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 | 2023-04-06 | 2024-01-18 |
-| [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-04-22 |  |
+| [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-04-22 | 2024-05-05 |
 | [Luminous Clouds](https://open.spotify.com/track/3Zzs7RBd58qW0uppISjX6d) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Luminous Clouds](https://open.spotify.com/album/5BhSqPMIfJQPdAFrIbtBz0) | 2:55 | 2024-01-17 |  |
 | [Luova](https://open.spotify.com/track/1fMnqF3hdQWXiC5Amb9EI0) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Luova](https://open.spotify.com/album/1jg6KAF2cNqxqaeQnQ9AEI) | 2:04 | 2023-04-06 | 2024-04-23 |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2023-04-06 | 2024-01-18 |
@@ -236,6 +238,7 @@
 | [Montana](https://open.spotify.com/track/0gBjWQIJ9KcdzT26UzkNqn) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Montana](https://open.spotify.com/album/5naD0L2z5uMR7X8kPK9EsQ) | 2:46 | 2023-04-06 | 2024-04-03 |
 | [Moon Above](https://open.spotify.com/track/5CKjeZebaPRYMDEyNXuWxV) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Moon Above](https://open.spotify.com/album/2UDpTQBOMbyZF0q8x3WdHi) | 2:29 | 2024-04-02 |  |
 | [Moon Shimmer](https://open.spotify.com/track/7xhxmR9qab96Gou7NsKkPh) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Majestic Dream](https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9) | 2:32 | 2023-04-06 | 2024-01-18 |
+| [Mornum Disen](https://open.spotify.com/track/31Yx9rlyTUYQ5D41aNwTE2) | [Dunsø](https://open.spotify.com/artist/0qTYCCllmwOsFme4OxrbkZ) | [Mornum Disen](https://open.spotify.com/album/0si4PMRfQMn01aMWIuYiYs) | 3:05 | 2024-05-04 |  |
 | [Mountain Faces](https://open.spotify.com/track/5ZDg666GrOT1dc7fkdakaP) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Mountain Faces](https://open.spotify.com/album/2MmwSNMGtlPi2ZzwHEw6yS) | 2:59 | 2023-11-10 | 2024-04-03 |
 | [Moving Like the Mountain](https://open.spotify.com/track/2Ka7W7Gz06zhtKCOrLB0pR) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Courage In Her Pocket](https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx) | 2:59 | 2023-04-06 | 2024-01-18 |
 | [Muladhara Eclipse](https://open.spotify.com/track/59edQeJLmPzJF2lYzo2Vz2) | [Solar Sentinels](https://open.spotify.com/artist/0CschpxHjAw3bDniuMXEbl) | [Muladhara Eclipse](https://open.spotify.com/album/4F7654OCEy1ONcsuE8w0ml) | 2:31 | 2024-04-02 |  |
@@ -263,7 +266,9 @@
 | [Once Again](https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Once Again](https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe) | 3:33 | 2023-04-06 | 2024-04-03 |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2023-04-06 |  |
 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2023-04-06 | 2024-01-18 |
+| [Outer Landscape](https://open.spotify.com/track/3Ok08TYWMM3Fl655SAZ3jS) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Outer Landscape](https://open.spotify.com/album/19gKIWbf29Kb71g9xoKVjt) | 2:34 | 2024-05-04 |  |
 | [Outra Noite](https://open.spotify.com/track/2mH0B6EKz3XUy1SO77wfe5) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Outra Noite](https://open.spotify.com/album/0n4GsYckCir9CAVbcV3ddY) | 3:08 | 2023-04-06 |  |
+| [Overlook](https://open.spotify.com/track/6MOWiWuwr5BCarma1z8bsf) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Overlook](https://open.spotify.com/album/40SHFI7Rh6TQPu8TT5s2Sz) | 2:29 | 2024-05-04 |  |
 | [Parallel Void](https://open.spotify.com/track/0xlR8OODoH9NNF9yI7iSoQ) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Parallel Void](https://open.spotify.com/album/3ZiLcrESAcVR3QL2rtUHsm) | 2:54 | 2024-01-17 |  |
 | [Passing Pt\. 2](https://open.spotify.com/track/1xI0wUyKvS6X52icQaI3jo) | [Aleisha](https://open.spotify.com/artist/7l6luxZVx54LDIfZLTzYoj) | [Passing](https://open.spotify.com/album/37v6qu611SVpd3YU08ippf) | 2:00 | 2023-04-06 | 2024-01-18 |
 | [Pathways](https://open.spotify.com/track/1X8t9FdeTtwM5zvkjqOICk) | [Kenton](https://open.spotify.com/artist/4ca2Gq9ywZqv78Z2a39Hpg) | [Pathways](https://open.spotify.com/album/7oTxf5kOGua8NxsM7CHUdy) | 3:56 | 2024-01-17 | 2024-02-27 |

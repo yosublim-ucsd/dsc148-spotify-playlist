@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 53997,
+  "2024-05-05": 54050,
   "date_first_scraped": "2023-02-24",
   "description": "indie tunes with country experimentation featuring music from Faye Webster \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 227250,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 225372,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 242265,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 274540,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/50qVPaum8Ggach5KclAujQ"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 189974,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/4jkRnUuBruxsBxwGvljLTe"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 276390,
       "name": "Going For Oysters",
       "url": "https://open.spotify.com/track/2qJZU5QeYYYiPtlSd58qBH"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 244189,
       "name": "Golden Spoon",
       "url": "https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l"
@@ -1993,7 +1993,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 336273,
       "name": "Heights",
       "url": "https://open.spotify.com/track/43jnzVXFd2wqAvUolUCPHD"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 211734,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 319640,
       "name": "Return From The Ice",
       "url": "https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10"
@@ -3821,7 +3821,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 68000,
       "name": "Thanks",
       "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
@@ -3861,6 +3861,24 @@
       "duration_ms": 228459,
       "name": "The Bug Collector",
       "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
+    },
+    {
+      "album": {
+        "name": "Look to the East, Look to the West",
+        "url": "https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "The Light Nights",
+      "url": "https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX"
     },
     {
       "album": {

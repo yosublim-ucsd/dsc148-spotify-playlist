@@ -1269,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Safe and Warm",
+        "url": "https://open.spotify.com/album/1egZuBv32dHu4lipkduCbK"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Death Squad",
+          "url": "https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA"
+        },
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159270,
+      "name": "Safe and Warm",
+      "url": "https://open.spotify.com/track/70MbAE7OErx7JAIE1jSw1G"
+    },
+    {
+      "album": {
         "name": "Positive Rising: Part 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0"
       },

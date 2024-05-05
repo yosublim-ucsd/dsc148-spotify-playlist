@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 152 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 152 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 109 | [Soy Lo Que Soy](https://open.spotify.com/track/24w6O9gs7felE9pcmOjf3g) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Soy Lo Que Soy](https://open.spotify.com/album/7orMhgDujvSpM5DPbI2RVT) | 3:06 |
 | 110 | [Wav.](https://open.spotify.com/track/2DZxvgIkw1kBDCkuO0PWIm) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Wav.](https://open.spotify.com/album/31S9v5cXc5dUYopxlO8HOw) | 3:15 |
 | 111 | [Colores](https://open.spotify.com/track/5T742t8RYXAETzzhn7LwW4) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:15 |
-| 112 | [3.7.12](https://open.spotify.com/track/21uV3q5xgHm1JWyiVFXGXl) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
-| 113 | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/track/5Xk3yRKBX3inUkRIz5whSk) | [Julio Reyes Copello](https://open.spotify.com/artist/4wiFB5EMgEc4sSgc1VANgc), [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf), [Loris Cimino](https://open.spotify.com/artist/201Hzoik31VdWqPl2sZVDY) | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/album/3731wuA3WCaZhfzuqkXy75) | 3:07 |
+| 112 | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/track/5Xk3yRKBX3inUkRIz5whSk) | [Julio Reyes Copello](https://open.spotify.com/artist/4wiFB5EMgEc4sSgc1VANgc), [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf), [Loris Cimino](https://open.spotify.com/artist/201Hzoik31VdWqPl2sZVDY) | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/album/3731wuA3WCaZhfzuqkXy75) | 3:07 |
+| 113 | [3.7.12](https://open.spotify.com/track/21uV3q5xgHm1JWyiVFXGXl) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
 | 114 | [Não Te Vás](https://open.spotify.com/track/5aYttVgTTca2bZ5MnIjqjH) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Viver a Vida](https://open.spotify.com/album/05BzsUFyawyKNBosofEOSR) | 4:24 |
 | 115 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
 | 116 | [HERMANITA](https://open.spotify.com/track/2TT4dPryN7Ztazy4eGLNjc) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [POR EMPEZAR](https://open.spotify.com/album/5InAJ1YTxx2sxxmDtxFGsU) | 3:28 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 148 | [Wake Up Meditation \(Awakening\)](https://open.spotify.com/track/6xbuPg8yajxrZMU7bCT4H0) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade: Meditations](https://open.spotify.com/album/5KjkyFZZx2aef3tQKx3aUA) | 7:39 |
 | 149 | [Make a Choice](https://open.spotify.com/track/6HN6ahqgNMNql59e6dCWIo) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 3:45 |
 | 150 | [Beings of Light](https://open.spotify.com/track/3iyy5c0ccXUtWcduANWthp) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 4:49 |
-| 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
-| 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
+| 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
+| 152 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `AbQYIgAAAACCPFQv1TozuOvqoAW7/W+w`
+Snapshot ID: `AbQedgAAAACH9AXeL/8INUrS9L1o1HhQ`

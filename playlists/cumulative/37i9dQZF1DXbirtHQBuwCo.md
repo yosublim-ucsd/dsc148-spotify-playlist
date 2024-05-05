@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\(박재범\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: \(Cover: Guess who...?? Happy Children's Day!\)\)
 
 689 songs - 1 day 12 hr 55 min
 

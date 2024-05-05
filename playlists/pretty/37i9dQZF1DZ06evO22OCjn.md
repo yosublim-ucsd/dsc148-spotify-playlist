@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 ### [This Is Burna Boy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22OCjn)
 
-> This Is Burna Boy\. Los temas esenciales, todos en una lista.
+> This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,504 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,620 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 48 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 49 | [Afrikan Star](https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 3:14 |
 
-Snapshot ID: `ZjLXgAAAAAB/woyPhGRlwwLX65gZXL9p`
+Snapshot ID: `ZjQpAAAAAAB2iEsJUkxMKGFgTAGsaOZ+`

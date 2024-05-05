@@ -2,7 +2,7 @@
 
 ### [This Is Bring Me The Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VDZny)
 
-> This is Bring Me The Horizon\. Todos os maiores hits em uma só playlist.
+> This Is Bring Me The Horizon\. Los temas esenciales, todos en una lista.
 
 41 songs - 2 hr 35 min
 

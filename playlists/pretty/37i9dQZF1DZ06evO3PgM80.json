@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 18909,
+  "num_followers": 18912,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADM3IO7ChECq6I7TNW5oHdo",
+  "snapshot_id": "ZjQpAAAAAAC4Y+rMWnpycYp4oG+wPTa4",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 293617,
       "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
       "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 417426,
       "name": "Alfa e \u00d4mega - Ao Vivo",
       "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,

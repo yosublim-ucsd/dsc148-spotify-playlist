@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pepe Aguilar",
-  "num_followers": 200093,
+  "num_followers": 200153,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 186640,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
         "name": "El Tenampa",
         "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185406,
       "name": "El Pobre",
       "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 158884,
-      "name": "Cuesti\u00f3n De Tiempo",
-      "url": "https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
         "name": "ANTOLOG\u00cdA 20 A\u00d1OS",
         "url": "https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 248106,
       "name": "Llevarte al Cielo",
       "url": "https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
+      "duration_ms": 158884,
+      "name": "Cuesti\u00f3n De Tiempo",
+      "url": "https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+        "name": "La Perd\u00ed",
+        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+      "duration_ms": 170570,
+      "name": "La Perd\u00ed",
+      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1519,22 +1519,6 @@
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
-        "name": "La Perd\u00ed",
-        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 170570,
-      "name": "La Perd\u00ed",
-      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1559,6 +1543,38 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 233373,
       "name": "PALOMA BLANCA",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2024-04-26 16:37:44",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-26 16:37:44",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
-    },
-    {
-      "added_at": "2024-04-26 16:37:44",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 161373,
       "name": "Dime Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
+    },
+    {
+      "added_at": "2024-04-26 16:37:44",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "added_at": "2024-04-26 16:37:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ambar Lucid
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,146 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,171 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 39 | [Volverás](https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 3:39 |
 | 40 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
 | 41 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
-| 42 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
-| 43 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
+| 42 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
+| 43 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 44 | [La Mudanza](https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Mudanza](https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl) | 3:43 |
 | 45 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
 | 46 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 50 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
 | 51 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 |
 | 52 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
-| 53 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
-| 54 | [Enemigo Noches De Salón \- Noches De Salón](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo Noches De Salón](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
+| 53 | [Enemigo Noches De Salón \- Noches De Salón](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo Noches De Salón](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
+| 54 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
 | 55 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 56 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 57 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |

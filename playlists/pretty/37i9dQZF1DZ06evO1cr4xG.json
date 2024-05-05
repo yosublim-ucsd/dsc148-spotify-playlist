@@ -1,12 +1,12 @@
 {
-  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
-  "num_followers": 77122,
+  "description": "This is Trivium. The essential tracks, all in one playlist.",
+  "num_followers": 77140,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADq/eCx0jt1wSFu/z2D9WOI",
+  "snapshot_id": "ZjQpAAAAAADSpapHenMkB8ciS+eYglPj",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 431688,
-      "name": "The Shadow Of The Abattoir",
-      "url": "https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz"
+      "duration_ms": 233406,
+      "name": "No Way Back Just Through",
+      "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 331933,
-      "name": "The Wretchedness Inside",
-      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
+      "duration_ms": 289840,
+      "name": "Other Worlds",
+      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
     },
     {
       "added_at": null,
@@ -532,25 +532,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 233406,
-      "name": "No Way Back Just Through",
-      "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+      "duration_ms": 431688,
+      "name": "The Shadow Of The Abattoir",
+      "url": "https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 289840,
-      "name": "Other Worlds",
-      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
+      "duration_ms": 331933,
+      "name": "The Wretchedness Inside",
+      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -667,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Brave This Storm",
-      "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 409693,
-      "name": "Torn Between Scylla and Charybdis",
-      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -708,9 +660,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 265895,
-      "name": "Blind Leading the Blind",
-      "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
     },
     {
       "added_at": null,
@@ -731,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Vengeance Falls",
-      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -756,9 +692,41 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 714986,
-      "name": "Shogun",
-      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
+      "duration_ms": 409693,
+      "name": "Torn Between Scylla and Charybdis",
+      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 269853,
+      "name": "Brave This Storm",
+      "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 265895,
+      "name": "Blind Leading the Blind",
+      "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
     },
     {
       "added_at": null,
@@ -779,6 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 714986,
+      "name": "Shogun",
+      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Vengeance Falls",
+      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 245733,
-      "name": "No Way to Heal",
-      "url": "https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf"
+      "duration_ms": 320680,
+      "name": "Forsake Not the Dream",
+      "url": "https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0"
     }
   ],
   "unique_name": "This Is Trivium",

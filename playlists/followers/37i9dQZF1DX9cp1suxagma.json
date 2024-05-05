@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 118447,
+  "2024-05-05": 118455,
   "date_first_scraped": "2023-02-18",
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Ventino",
   "name": "Pop Colombia",
@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
+    },
+    {
+      "album": {
         "name": "Antonia Jones",
         "url": "https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt"
       },
@@ -879,7 +897,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178602,
       "name": "El Amor Es Perfecto",
       "url": "https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A"
@@ -1980,6 +1998,28 @@
     },
     {
       "album": {
+        "name": "Cartas",
+        "url": "https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r"
+      },
+      "artists": [
+        {
+          "name": "Cristina Charry",
+          "url": "https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ"
+        },
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Mercurio (Carta No. 9)",
+      "url": "https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2"
+    },
+    {
+      "album": {
         "name": "Mi Declaraci\u00f3n",
         "url": "https://open.spotify.com/album/0O6H2XeflTxPuFnoRQx1yz"
       },
@@ -2067,7 +2107,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 164887,
       "name": "Mundos Aparte",
       "url": "https://open.spotify.com/track/5sfnG7xd8angYVfT9RgdgQ"

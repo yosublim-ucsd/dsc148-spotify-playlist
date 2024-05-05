@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 10366,
+  "2024-05-05": 10365,
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Tyler Hubbard",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Miranda Lambert",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "Bet You Break My Heart",
+      "url": "https://open.spotify.com/track/3K4JO9u0cnpfp74vwU7e7L"
+    },
+    {
+      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -215,7 +233,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 116280,
       "name": "Black Powder",
       "url": "https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz"
@@ -547,10 +565,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/1rm5E8eTWuFDMSsngY4CII"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198403,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/6PL8OAhhl6vlnJlwO2vRaU"
     },
     {
       "album": {
@@ -883,6 +919,28 @@
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
+    },
+    {
+      "album": {
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "album": {
@@ -1248,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Let Your Horses Run",
+        "url": "https://open.spotify.com/album/7L4fsZ5y0XO6s55kweRB0W"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179986,
+      "name": "Let Your Horses Run",
+      "url": "https://open.spotify.com/track/7qVcidzvBuZCEDsULvdW8E"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Go Fishing",
         "url": "https://open.spotify.com/album/79vC94qpK1F4x3c8Q7SOZP"
       },
@@ -1259,7 +1335,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 199284,
       "name": "Let\u2019s Go Fishing",
       "url": "https://open.spotify.com/track/6ns6oRR7rI20Y5P5BQAqdK"
@@ -1313,7 +1389,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208106,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/3lT10s1U9K0vrEGpsu8kBP"
@@ -1943,7 +2019,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 198858,
       "name": "Roads That Go Nowhere",
       "url": "https://open.spotify.com/track/2ZB6CLPqN9OvtPKKC81Sq6"
@@ -2831,6 +2907,24 @@
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+    },
+    {
+      "album": {
+        "name": "Wranglers",
+        "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178196,
+      "name": "Wranglers",
+      "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
     },
     {
       "album": {

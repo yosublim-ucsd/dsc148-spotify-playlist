@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 43991,
+  "2024-05-05": 44000,
   "date_first_scraped": "2023-12-14",
   "description": "The Finest In Jazz Since 1939",
   "name": "Blue Note: The Finest In Jazz Since 1939",
@@ -1279,15 +1279,15 @@
       },
       "artists": [
         {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 570720,
-      "name": "Moanin' - Remastered 1998/Rudy Van Gelder Edition",
+      "name": "Moanin'",
       "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
     },
     {

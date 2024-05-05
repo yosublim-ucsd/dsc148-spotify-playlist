@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1289065,
+  "num_followers": 1289128,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 162205,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "HERicane",
         "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
-        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
@@ -1055,18 +1023,50 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
+      "duration_ms": 179140,
+      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "In Der Zeit Verlieren",
         "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1459,6 +1443,22 @@
       "duration_ms": 194946,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Blaue Stunde",
         "url": "https://open.spotify.com/album/48VSW134REUVskHHy2laF0"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 197893,
       "name": "Blaue Stunde",
       "url": "https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     }
   ],
   "unique_name": "Fr\u00fchlingsgef\u00fchle",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,884 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,834 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 59 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 60 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 61 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 |
-| 62 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
+| 62 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 63 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 |
 | 64 | [Vengo Del Futuro \- Remix](https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 4:15 |
-| 65 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
+| 65 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
 | 66 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 |
 | 67 | [Tqm](https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Tqm](https://open.spotify.com/album/46iWmNM0KiEGVCR1crEO6Q) | 3:36 |
 | 68 | [QUN](https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [QUN](https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH) | 3:09 |

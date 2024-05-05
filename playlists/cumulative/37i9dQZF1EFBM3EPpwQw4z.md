@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 6 hr 43 min
+116 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [The Waiting Song](https://open.spotify.com/track/3ppEf2JVRoabFZ69U3ptXy) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:19 | 2023-12-30 |  |
 | [The Way](https://open.spotify.com/track/0SgHedjG1IsPlAva2zWopq) | [Floating Pyramids](https://open.spotify.com/artist/2BPViZh660ILdvYlHbEw6S) | [Floating Pyramids \- EP](https://open.spotify.com/album/6ordSfwAg1jnFE6dfTJ3vj) | 3:11 | 2023-12-30 |  |
 | [The Zone](https://open.spotify.com/track/3xYPFXOJyWuwTYTPpZICAX) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Tremble](https://open.spotify.com/album/5jANRUVDZ8TNRg9ImcXNnV) | 3:15 | 2023-12-30 |  |
-| [Tiptoe](https://open.spotify.com/track/1qYh8ohfZpa6562mJYTAEi) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [The Crush EP](https://open.spotify.com/album/05xVvBMhhQlQ3DXABe9YY5) | 5:55 | 2024-04-26 |  |
+| [Tiptoe](https://open.spotify.com/track/1qYh8ohfZpa6562mJYTAEi) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [The Crush EP](https://open.spotify.com/album/05xVvBMhhQlQ3DXABe9YY5) | 5:55 | 2024-04-26 | 2024-05-05 |
+| [Tiptoe](https://open.spotify.com/track/22ykG2LTmGHF96CVUyv6vk) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [The Crush EP](https://open.spotify.com/album/1NQduazEn0BBfV3aLnPGnT) | 5:55 | 2024-05-04 |  |
 | [Tiptoe](https://open.spotify.com/track/3wET4fyXZfhxaz2Nv731bQ) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [The Crush](https://open.spotify.com/album/0Xe3Lq9WiNpq9rXyi1Zyj4) | 5:55 | 2023-12-30 | 2024-04-27 |
 | [Together We Fly](https://open.spotify.com/track/62QM2O99ggvA4GY0OOpcVw) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:09 | 2023-12-30 |  |
 | [Toothbrush Time](https://open.spotify.com/track/74PbbRXfYrw2FpIar3v8p3) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:48 | 2023-12-30 |  |

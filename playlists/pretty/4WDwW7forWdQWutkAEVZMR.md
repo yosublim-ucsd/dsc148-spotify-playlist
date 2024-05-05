@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Megan Moroney, Beyoncé, Miley Cyrus &amp; more! Cover: Megan Moroney
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,022 likes - 90 songs - 4 hr 41 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,021 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 2 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 |
 | 3 | [GOOD AS YOU](https://open.spotify.com/track/1nic0oEInWjHWGS8OGHhpr) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [GOOD AS YOU](https://open.spotify.com/album/4yfCVv9SfcDILYDYwEVirh) | 2:42 |
 | 4 | [II MOST WANTED](https://open.spotify.com/track/1p9V6jkWIBTc4ZQXssxyhc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [II MOST WANTED](https://open.spotify.com/album/4OOnmd1Igt4LiZYXLMUxcX) | 3:28 |
-| 5 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
-| 6 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 5 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
+| 6 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 7 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 |
 | 8 | [Luv No Slutz](https://open.spotify.com/track/2c0AAba3JQmFCrh2fvpNqK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Luv No Slutz](https://open.spotify.com/album/4SQlSxWoi8hnK6YKpiAQm3) | 2:39 |
 | 9 | [Not Myself](https://open.spotify.com/track/6pHbXMhMezNDZ5GeOKmInE) | [Zai](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Not Myself](https://open.spotify.com/album/269mxCeekCc4V2og796x6h) | 2:32 |

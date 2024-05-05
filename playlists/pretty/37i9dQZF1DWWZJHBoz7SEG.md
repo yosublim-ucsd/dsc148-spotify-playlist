@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Rolitas nuevas de Danny Ocean, Daddy Yankee y Piso 21 para disfrutar el finde! Dua Lupita en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,447 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,663 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

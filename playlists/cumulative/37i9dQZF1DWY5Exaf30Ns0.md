@@ -4,7 +4,7 @@
 
 > ¿searma o nosearma?
 
-464 songs - 1 day 4 hr 27 min
+465 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-08-12 | 2022-08-20 |
 | [Adoro \( Primera Fila \) \(feat\. Julieta Venegas\) \- En Vivo](https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Primera Fila](https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm) | 3:41 | 2021-06-16 | 2022-07-28 |
 | [Adoro \(with Armando Manzanero\) \- Remasterizado](https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Por El Mundo](https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh) | 3:31 | 2021-06-16 | 2022-07-25 |
-| [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-06-16 |  |
+| [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-06-16 | 2024-05-05 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-10-29 | 2022-11-18 |
 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 | 2021-06-16 | 2022-07-25 |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:34 | 2021-06-16 | 2022-08-13 |
@@ -105,6 +105,7 @@
 | [Desvelado](https://open.spotify.com/track/4jeAwDjr8nIj8EK6pVRbW9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Puro Tejano Gold](https://open.spotify.com/album/7IWL9rNxAZfi7DC4RfPSB2) | 3:42 | 2021-06-16 | 2022-07-21 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2021-06-16 |  |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2024-04-19 |  |
+| [Dime](https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Dime](https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq) | 2:53 | 2024-04-19 |  |
 | [Directo Al Corazon](https://open.spotify.com/track/4XDADiwTlLFwK7dpN0nlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tu](https://open.spotify.com/album/2p3X5Nll2HePONcBnzesyi) | 3:18 | 2021-06-16 | 2022-07-23 |
 | [Directo Al Corazón](https://open.spotify.com/track/2eKfXzhIFuULAV0OouaAHA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [25 Joyas](https://open.spotify.com/album/0cPNP34SqiaBfrph2pE3er) | 3:28 | 2021-06-16 | 2022-07-28 |
 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 | 2021-06-16 | 2022-07-29 |

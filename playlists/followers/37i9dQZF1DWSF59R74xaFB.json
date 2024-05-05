@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 529810,
+  "2024-05-05": 529818,
   "date_first_scraped": "2022-01-21",
   "description": "El amor no se escucha, se siente...",
   "name": "Radio Coraz\u00f3n",
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 144428,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
@@ -2273,7 +2273,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
@@ -2443,6 +2443,24 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
+    },
+    {
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "album": {
@@ -4260,6 +4278,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Nos Falt\u00f3 Decir",
+        "url": "https://open.spotify.com/album/2NzaZsiFSMcqaQnl3YGTif"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213305,
+      "name": "Lo Que Nos Falt\u00f3 Decir",
+      "url": "https://open.spotify.com/track/4KXRdZINGkREZ9jvQOHbCY"
+    },
+    {
+      "album": {
         "name": "Lo Que Ten\u00edas Conmigo",
         "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
       },
@@ -4910,6 +4946,24 @@
     },
     {
       "album": {
+        "name": "Morra",
+        "url": "https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Morra",
+      "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
+    },
+    {
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -4925,6 +4979,24 @@
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "album": {
+        "name": "MUJER MARAVILLA",
+        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "MUJER MARAVILLA",
+      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
     },
     {
       "album": {
@@ -4965,6 +5037,24 @@
       "duration_ms": 177640,
       "name": "M\u00e1s Que Amigos",
       "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
+    },
+    {
+      "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     },
     {
       "album": {
@@ -5541,7 +5631,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208180,
       "name": "Ojos Que No Ven",
       "url": "https://open.spotify.com/track/0qHlYaXuvSdp4vtXQGszYR"
@@ -6432,6 +6522,28 @@
     },
     {
       "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
+    },
+    {
+      "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
@@ -7063,7 +7175,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
@@ -8058,6 +8170,28 @@
     },
     {
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "album": {
         "name": "Un Invierno Sin Ti",
         "url": "https://open.spotify.com/album/3GFI2ZFyWOHWdhFIT40kCU"
       },
@@ -8323,7 +8457,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
@@ -8359,7 +8493,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 227121,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9"
@@ -8717,7 +8851,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 209052,
       "name": "\u00bfQu\u00e9 Hago Con los Besos?",
       "url": "https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0"

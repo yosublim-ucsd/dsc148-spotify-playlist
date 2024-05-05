@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 4792,
+  "2024-05-05": 4794,
   "date_first_scraped": "2022-08-06",
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
   "name": "This Is Shemekia Copeland",
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 285690,
       "name": "Great Rain",
       "url": "https://open.spotify.com/track/06KVyBpihkWpiiMpu8SJGY"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 181160,
       "name": "Ka-Ching",
       "url": "https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 174374,
       "name": "One I Love",
       "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 279640,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"

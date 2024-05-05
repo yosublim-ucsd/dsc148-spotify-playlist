@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 5520,
+  "2024-05-05": 5512,
   "date_first_scraped": "2022-11-23",
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
   "name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
@@ -2353,6 +2353,24 @@
     {
       "album": {
         "name": "\uae40\uc131\uc7ac",
+        "url": "https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Jae",
+          "url": "https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215849,
+      "name": "\ub9d0\ud558\uc790\uba74",
+      "url": "https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu"
+    },
+    {
+      "album": {
+        "name": "\uae40\uc131\uc7ac",
         "url": "https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o"
       },
       "artists": [
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 220000,
       "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
       "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"

@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-348 songs - 17 hr 12 min
+349 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 | 2023-03-18 |  |
 | [Helicoptero](https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 2:17 | 2023-05-26 | 2023-07-20 |
 | [Hoy Cobré](https://open.spotify.com/track/2dyE4JtP4uPd4mCnGrsiAd) | [El Boni](https://open.spotify.com/artist/2mL4qaZBHBa4V3ySSrKPgj), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Hoy Cobré](https://open.spotify.com/album/6H2MkJiVnpcRx2cqSd5ns0) | 2:29 | 2023-02-09 | 2023-03-11 |
+| [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 | 2024-05-04 |  |
 | [Hoy Te Toca \(with El Cherry Scom & Kunno\)](https://open.spotify.com/track/6nj7mjSnIllR4ciBpdi9gt) | [Rodrigo Films](https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ), [Kunno](https://open.spotify.com/artist/3tWbpLn172AGK2x4Yr3KgB), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Hoy Te Toca \(with El Cherry Scom & Kunno\)](https://open.spotify.com/album/7qYyqW4wCy6d5emJzdNceR) | 3:11 | 2023-02-09 | 2023-05-27 |
 | [Háblale de Cualto](https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 2:55 | 2022-03-11 | 2023-03-11 |
 | [Jarabito](https://open.spotify.com/track/7y509djdQxE44sohaOcmxQ) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Jarabito](https://open.spotify.com/album/2HTiDtOTtg9Ri1qPeoB0ud) | 3:45 | 2021-11-19 | 2022-03-18 |
@@ -330,7 +331,7 @@
 | [Trap Pea](https://open.spotify.com/track/7d9ybTfliQ5iOJB0i364OS) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Trap Pea](https://open.spotify.com/album/7c0cZeRY7STVHbapBKujen) | 3:48 | 2021-11-19 | 2022-03-18 |
 | [TROLA](https://open.spotify.com/track/0JwgWnxbxmNA13dZaQJeZo) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [TROLA](https://open.spotify.com/album/01VU9xUNvh4ebcqZoKGgpA) | 1:55 | 2023-09-29 | 2023-12-08 |
 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 | 2021-11-19 | 2023-08-04 |
-| [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 | 2023-09-29 |  |
+| [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 | 2023-09-29 | 2024-05-05 |
 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-01-04 |  |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 | 2023-12-14 |
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-02-09 | 2023-08-04 |

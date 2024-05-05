@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 94 songs - 5 hr 16 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 92 | [Eddie Cane](https://open.spotify.com/track/4ayIDD3cOVqsSLblJmmPP1) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Thinking Out Loud](https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj) | 1:58 |
 | 93 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 94 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
+| 95 | [Back On My BS](https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:34 |
+| 96 | [Hell Night](https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Hell Night](https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG) | 3:13 |
+| 97 | [Switch it Up \(feat\. G Herbo, No More Heroes\)](https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [No More Heroes](https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4) | [Shiesty Season \- Spring Deluxe](https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU) | 2:48 |
+| 98 | [Colombian Necktie](https://open.spotify.com/track/4wYu5bgBXctjSov4QUJxzZ) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [DR\. EV4L](https://open.spotify.com/album/4emCVXg7Sd9tFn0DEf8B1L) | 4:06 |
+| 99 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 |
 
-Snapshot ID: `AAAcjjP5vv8lMaWPx+pQLMw6ZzzVeUZ8`
+Snapshot ID: `AAAckwV+cfW60rMmFbbCLR/HOEpxImE0`

@@ -426,7 +426,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
@@ -2206,6 +2206,28 @@
       "duration_ms": 188817,
       "name": "Tease Me / Bad Guys",
       "url": "https://open.spotify.com/track/6ST6x5sSLYArqrh30p3KBs"
+    },
+    {
+      "album": {
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
     },
     {
       "album": {

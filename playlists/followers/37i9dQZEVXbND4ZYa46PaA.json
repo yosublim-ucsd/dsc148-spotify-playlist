@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 17334,
+  "2024-05-05": 17355,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Belgium.",
   "name": "Top Songs - Belgium",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 174106,
       "name": "Ceux qu'on \u00e9tait",
       "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210789,
       "name": "Fresh Out The Slammer",
       "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -1113,6 +1113,24 @@
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "album": {
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 220013,
       "name": "Oh qu'elle est belle",
       "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 293048,
       "name": "The Tortured Poets Department",
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"

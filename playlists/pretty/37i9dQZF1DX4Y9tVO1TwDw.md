@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,072 likes - 54 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 54 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 38 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
 | 39 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 40 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
-| 41 | [C'est La Vie](https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [C'est La Vie](https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7) | 3:05 |
-| 42 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 |
+| 41 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 |
+| 42 | [C'est La Vie](https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [C'est La Vie](https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7) | 3:05 |
 | 43 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 |
 | 44 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
 | 45 | [Luces De La Calle](https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:09 |

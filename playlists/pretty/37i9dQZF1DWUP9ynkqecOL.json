@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22089,
+  "num_followers": 22095,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Hijos De La Tierra",
+        "url": "https://open.spotify.com/album/3J2zjgISIvNFv5te5f5MWT"
+      },
+      "artists": [
+        {
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
+        },
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 336225,
+      "name": "Hijos De La Tierra",
+      "url": "https://open.spotify.com/track/58tRMABfrG0aWsOtHR32R6"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Sin darle motivo (Derrok Remix)",
         "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 328602,
       "name": "Sin darle motivo - Derrok Remix",
       "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Hijos De La Tierra",
-        "url": "https://open.spotify.com/album/3J2zjgISIvNFv5te5f5MWT"
-      },
-      "artists": [
-        {
-          "name": "Seba Campos",
-          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
-        },
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 336225,
-      "name": "Hijos De La Tierra",
-      "url": "https://open.spotify.com/track/58tRMABfrG0aWsOtHR32R6"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+      "duration_ms": 179000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
       },
       "artists": [
         {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Se que no Vas a Volver",
-      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Cada Uno con Su Bandera",
         "url": "https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh"
       },
@@ -1315,30 +1331,6 @@
       "duration_ms": 243072,
       "name": "Cada Uno con Su Bandera",
       "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Telesita",
-        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        },
-        {
-          "name": "Natalia Schvartz",
-          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
-        }
-      ],
-      "duration_ms": 264323,
-      "name": "Telesita",
-      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1383,18 +1375,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+        "name": "Telesita",
+        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
       },
       "artists": [
         {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        },
+        {
+          "name": "Natalia Schvartz",
+          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
         }
       ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+      "duration_ms": 264323,
+      "name": "Telesita",
+      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1415,42 +1415,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Que Bailen",
-        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        }
-      ],
-      "duration_ms": 338630,
-      "name": "A\u00f1oranza en las Yungas",
-      "url": "https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Toca",
         "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
       },
@@ -1467,22 +1431,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Miriam Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Coplita",
-      "url": "https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC"
+      "duration_ms": 338630,
+      "name": "A\u00f1oranza en las Yungas",
+      "url": "https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1511,22 +1471,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Los P\u00e1jaros",
-        "url": "https://open.spotify.com/album/6ep3yZWQVPVmHjxEBCZwfl"
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
       "artists": [
         {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         },
         {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+          "name": "Miriam Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS"
         }
       ],
-      "duration_ms": 260867,
-      "name": "Los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/3of6tull2ZmGDZImXi32yz"
+      "duration_ms": 229000,
+      "name": "Coplita",
+      "url": "https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1547,6 +1507,42 @@
       "duration_ms": 263428,
       "name": "Coraz\u00f3n de Agua",
       "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh"
     }
   ],
   "unique_name": "Electro Folklore",

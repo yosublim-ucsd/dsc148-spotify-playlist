@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 149218,
+  "2024-05-05": 149260,
   "date_first_scraped": "2022-09-17",
   "description": "2017 highlights from the home of indie music.",
   "name": "Best of Indie 2017",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 300106,
       "name": "3WW",
       "url": "https://open.spotify.com/track/5ong0qV1LTNeE4hAmRJM1b"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 232013,
       "name": "Deadcrush",
       "url": "https://open.spotify.com/track/4ggJO4tFslcHUjaRJaapDy"
@@ -2755,7 +2755,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 262600,
       "name": "Television / So Far So Good",
       "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
@@ -2777,6 +2777,24 @@
       "duration_ms": 276373,
       "name": "TERRITORY",
       "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
+    },
+    {
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188385,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
     },
     {
       "album": {

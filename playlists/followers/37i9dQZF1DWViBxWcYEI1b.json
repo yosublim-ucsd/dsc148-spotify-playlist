@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 356285,
+  "2024-05-05": 356306,
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Billianne",
+  "description": "For those with a taste for both the new and the classic. Cover: Alex Warren",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 205433,
       "name": "A Little Bit Happy - Spotify Singles",
       "url": "https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS"
@@ -1095,6 +1095,24 @@
       "duration_ms": 236533,
       "name": "Anyone Who Loves Me",
       "url": "https://open.spotify.com/track/56dqKGvngcvxSEt8i9CuKb"
+    },
+    {
+      "album": {
+        "name": "Anyways, I Love You",
+        "url": "https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You",
+      "url": "https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s"
     },
     {
       "album": {
@@ -3439,6 +3457,28 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197945,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu"
     },
     {
       "album": {
@@ -8483,7 +8523,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
@@ -12742,6 +12782,24 @@
     },
     {
       "album": {
+        "name": "My Way / Cyan Blue",
+        "url": "https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209370,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR"
       },
@@ -16935,7 +16993,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
@@ -18231,6 +18289,24 @@
       "duration_ms": 161950,
       "name": "Too Attached",
       "url": "https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L"
+    },
+    {
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "album": {

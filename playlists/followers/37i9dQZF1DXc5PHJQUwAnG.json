@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 164038,
+  "2024-05-05": 164056,
   "date_first_scraped": "2023-06-14",
   "description": "Bienvenidx a la trampa mexa. Peso Pluma y Arc\u00e1ngel en portada.",
   "name": "TRAPPERZ_MX",
@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "BLA BLA BLA",
+        "url": "https://open.spotify.com/album/46or8H9Be1QRn3gdWHhMDb"
+      },
+      "artists": [
+        {
+          "name": "Ibarra",
+          "url": "https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171218,
+      "name": "BLA BLA BLA",
+      "url": "https://open.spotify.com/track/2Cw9LLIE0RYQ9YoLV6ZWZg"
+    },
+    {
+      "album": {
         "name": "Blastoise",
         "url": "https://open.spotify.com/album/0kJB1zf1dkGVjj6bKB5K9g"
       },
@@ -1053,6 +1071,24 @@
       "duration_ms": 164494,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi"
+    },
+    {
+      "album": {
+        "name": "Chingona La Chona",
+        "url": "https://open.spotify.com/album/7vlUetIlI1WSghrtzrdimZ"
+      },
+      "artists": [
+        {
+          "name": "Someone Sm1",
+          "url": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152021,
+      "name": "Chingona La Chona",
+      "url": "https://open.spotify.com/track/6ODEaqHGFdoaZjPixrdwrp"
     },
     {
       "album": {
@@ -3072,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "Liga TBL",
+        "url": "https://open.spotify.com/album/73F23hRNRDBJP6a5lDZyG9"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "MENTE",
+          "url": "https://open.spotify.com/artist/15LSvZBysru2n8NHohzTyc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Liga TBL",
+      "url": "https://open.spotify.com/track/0nTlOipvjslhH7xWMYdqq6"
+    },
+    {
+      "album": {
         "name": "Like Viento",
         "url": "https://open.spotify.com/album/22v7T1TPXaIGI6nCt10VC5"
       },
@@ -4351,7 +4409,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 154255,
       "name": "Ponte las Pilas",
       "url": "https://open.spotify.com/track/2lVWhB8q3LpMOADDyES1RG"
@@ -4701,7 +4759,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 132000,
       "name": "Rollin n' Rollin",
       "url": "https://open.spotify.com/track/3GYXO0ZL5qqBEVpBP3xsR6"
@@ -5269,7 +5327,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 285306,
       "name": "Trap Gun - Vol. 1",
       "url": "https://open.spotify.com/track/3ZIe2aiW9TNUe23h36YIc4"

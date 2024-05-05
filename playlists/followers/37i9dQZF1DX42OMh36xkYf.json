@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 14625,
+  "2024-05-05": 14640,
   "date_first_scraped": "2023-09-27",
   "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Elsa y Elmar en portada.",
   "name": "IRIS",
@@ -217,6 +217,24 @@
       "duration_ms": 169285,
       "name": "BAD INTENCIONES",
       "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
+    },
+    {
+      "album": {
+        "name": "banco",
+        "url": "https://open.spotify.com/album/4kRm15NYrGovoR5lWt9CqY"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "banco",
+      "url": "https://open.spotify.com/track/2wCiFPVkLB8N6o6zLVXAdl"
     },
     {
       "album": {
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 355019,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"

@@ -4,11 +4,12 @@
 
 > Música tranquila para evadirse.
 
-253 songs - 14 hr 49 min
+254 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-28 | 2023-04-21 |
+| [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 | 2024-05-02 |  |
 | [A Song With No Name](https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 4:03 | 2023-12-28 | 2024-04-19 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-11-11 |  |
 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 | 2024-04-11 |  |
@@ -163,7 +164,7 @@
 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 | 2022-11-11 | 2024-04-19 |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2022-11-11 | 2024-04-19 |
 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 | 2024-02-08 | 2024-03-05 |
-| [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-05-02 |  |
+| [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-05-02 | 2024-05-05 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-11-11 |  |
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2023-01-06 | 2023-01-13 |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-11-11 | 2024-02-09 |

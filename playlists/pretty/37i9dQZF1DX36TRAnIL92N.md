@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,940 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,199 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 32 | [Ravarp](https://open.spotify.com/track/0abnHEEma5xkWazffnRpni) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Ravarp](https://open.spotify.com/album/6VYrX3so9Z3gquODJ6SVp8) | 3:47 |
 | 33 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
 | 34 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
-| 35 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
+| 35 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 |
 | 36 | [Tiki Tiki](https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o) | [ANSBRO](https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu) | [Tiki Tiki](https://open.spotify.com/album/6v260UdseJka96hzE3oy1d) | 6:23 |
 | 37 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 |
 | 38 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 39 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 40 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
-| 41 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 |
+| 41 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 42 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 43 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 |
 | 44 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |

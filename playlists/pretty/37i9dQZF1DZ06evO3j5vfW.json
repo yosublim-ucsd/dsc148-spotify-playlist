@@ -1,13 +1,37 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71264,
+  "num_followers": 71275,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADQn2K5LQBqMnYtn4lx70UL",
+  "snapshot_id": "ZjQpAAAAAABPSxMY8M0+2kYupF6+P0zU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 188284,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
+    },
     {
       "added_at": null,
       "album": {
@@ -147,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
@@ -163,22 +203,6 @@
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
     },
     {
       "added_at": null,
@@ -287,30 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Keeper",
-        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Dallerium",
-          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Time Keeper",
-      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -331,6 +331,30 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Keeper",
+        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "Time Keeper",
+      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
     },
     {
       "added_at": null,
@@ -623,30 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -671,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hero (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Hero - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -691,22 +715,6 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightvision EP",
-        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Skin On Skin",
-      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "added_at": null,
@@ -763,28 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The Floor (Nicky Romero Edit)",
-        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
-      },
-      "artists": [
-        {
-          "name": "Loud 'N Bright",
-          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "To The Floor (Nicky Romero Edit)",
-      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Why Do I Call",
-        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
       },
       "artists": [
         {
@@ -792,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 158958,
-      "name": "Why Do I Call",
-      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "added_at": null,
@@ -819,6 +807,42 @@
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
       "added_at": null,
@@ -959,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mahoya",
-        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "Mahoya",
-      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -995,6 +1003,22 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mahoya",
+        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "Mahoya",
+      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
     },
     {
       "added_at": null,

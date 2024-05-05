@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,390 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,417 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 59 | [Show Me A Leader \- Radio Edit](https://open.spotify.com/track/46Li5B2A8xJ9cOYw5YEc2D) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Show Me A Leader \(Radio Edit\)](https://open.spotify.com/album/3o1f3dMUhQCTPuaWpkYKAk) | 3:48 |
 | 60 | [Berkeley's On Fire](https://open.spotify.com/track/0qQdqHBetnQZprhYBgJ9yh) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Berkeley's On Fire](https://open.spotify.com/album/79usZKShpi6oo1MuwiBslY) | 3:47 |
 | 61 | [Amplifier](https://open.spotify.com/track/3iEJfetLpNgqQM0riDWP9R) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Amplifier](https://open.spotify.com/album/3C3OZNijbICjzXv1BydjNH) | 3:34 |
-| 62 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 |
-| 63 | [Marching on Ferguson](https://open.spotify.com/track/024ehhkqgITV2tDnIU0Teb) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Marching on Ferguson](https://open.spotify.com/album/4FEMJjyalJko1QFoX4C6b7) | 2:55 |
+| 62 | [Marching on Ferguson](https://open.spotify.com/track/024ehhkqgITV2tDnIU0Teb) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Marching on Ferguson](https://open.spotify.com/album/4FEMJjyalJko1QFoX4C6b7) | 2:55 |
+| 63 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 |
 | 64 | [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 |
 | 65 | [Party Political](https://open.spotify.com/track/4JbN4v3db2tYlX7kwRnPj2) | [Full Scale](https://open.spotify.com/artist/3IeikfWOXb5ECI8DEHXj8x) | [Rock N' Shock](https://open.spotify.com/album/5mPvdmUfoBhnXp9E8VLw4D) | 3:57 |
 | 66 | [N.I.G.G.a\. \(Not OK\)](https://open.spotify.com/track/3GgT9XmJMThUxcRYaI58Kg) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Cat & Mouse](https://open.spotify.com/album/5qEZVA8hye6yQrSXZY5WGO) | 3:54 |
 | 67 | [Revolt](https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Revolt](https://open.spotify.com/album/66D9J9GPQ6r188tGdqyuw1) | 2:34 |
 | 68 | [The Culling](https://open.spotify.com/track/1yB4sUSgRGEeiSslaoRpYD) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [The Culling](https://open.spotify.com/album/0ivE5xssJONtVg91oLWQGO) | 3:14 |
 | 69 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd) | 3:25 |
-| 70 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 |
-| 71 | [Too Real](https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too Real](https://open.spotify.com/album/5vdQmnjcwSpFDnO5lRaDuh) | 4:04 |
-| 72 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 |
+| 70 | [Too Real](https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too Real](https://open.spotify.com/album/5vdQmnjcwSpFDnO5lRaDuh) | 4:04 |
+| 71 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 |
+| 72 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 |
 | 73 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 |
 | 74 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:16 |
 | 75 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 |

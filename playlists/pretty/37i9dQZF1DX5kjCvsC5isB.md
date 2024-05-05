@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > Women who rock our world\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,324 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,396 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 34 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 | 35 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 |
 | 36 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
-| 37 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
-| 38 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
+| 37 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
+| 38 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
 | 39 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 40 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 41 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 48 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 |
 | 49 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 |
 | 50 | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j) | 3:34 |
-| 51 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
-| 52 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
-| 53 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
-| 54 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
+| 51 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
+| 52 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
+| 53 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
+| 54 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
 | 55 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
 | 56 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 57 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 86 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 87 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 88 | [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 |
-| 89 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
-| 90 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
-| 91 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 89 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
+| 90 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 91 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 | 92 | [Heartstrings](https://open.spotify.com/track/1mbjK97guGHZjDQpvaRqYI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Heartstrings](https://open.spotify.com/album/1fWHWOGtmjZWhK1dZpmmau) | 2:42 |
 | 93 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 |
 | 94 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |

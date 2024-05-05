@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 709458,
+  "2024-05-05": 709547,
   "date_first_scraped": "2021-12-21",
   "description": "This week's best new metal & hard rock tracks. Cover: D\u00e5\u00e5th",
   "name": "All New Metal",
@@ -95002,6 +95002,28 @@
     },
     {
       "album": {
+        "name": "Sw(Er)",
+        "url": "https://open.spotify.com/album/0NHre0p1sVTB8raiUCOJtb"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        },
+        {
+          "name": "Xander Raymond Charles",
+          "url": "https://open.spotify.com/artist/0zFeLakYduCcgoJ1ZmK2CH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Sw(Er)",
+      "url": "https://open.spotify.com/track/5WaOsR3KpuAOqe5T5Whq9d"
+    },
+    {
+      "album": {
         "name": "Swallowed By The Earth",
         "url": "https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB"
       },
@@ -108859,7 +108881,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224160,
-      "name": "Unforgiveable",
+      "name": "Unforgivable",
       "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {

@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 7 min
+63 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Horas Extras](https://open.spotify.com/track/1bGuvf2hlATjmaZyOnC5KI) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:56 | 2023-03-10 |  |
 | [INTRO](https://open.spotify.com/track/79QnZgmqW6AzWJaJBLcMII) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 0:39 | 2023-12-13 | 2023-12-25 |
 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 | 2023-03-10 |  |
+| [Jódete](https://open.spotify.com/track/4gjeN5aJLZXYNTP4jnBJEI) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jódete](https://open.spotify.com/album/0173L1XV9o8fVZ7hr2dYJg) | 3:10 | 2024-05-05 |  |
 | [La Malquerida](https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:35 | 2023-03-10 |  |
 | [La Necia](https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [La Necia](https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup) | 2:22 | 2023-03-10 |  |
 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 | 2023-03-10 |  |
@@ -47,7 +48,7 @@
 | [Me Mocho Un Huevo](https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Me Mocho Un Huevo](https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH) | 2:16 | 2023-03-10 | 2024-01-24 |
 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 | 2024-01-23 |  |
 | [Me Vale](https://open.spotify.com/track/2IDLfzhNVnpwlloAZ8IFQG) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Me Vale](https://open.spotify.com/album/6tlZI7LS7Kwk34qfyG5Zcp) | 4:08 | 2023-03-10 | 2023-11-11 |
-| [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:39 | 2023-09-15 |  |
+| [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:39 | 2023-09-15 | 2024-05-05 |
 | [Mi Problema](https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:04 | 2023-03-10 |  |
 | [Mi Problema \- En Vivo](https://open.spotify.com/track/4ZkZXB9qHQzEdkWD3ZtCyT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México](https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg) | 3:05 | 2023-09-15 | 2023-11-11 |
 | [NI MUERTA](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 | 2023-07-22 |  |

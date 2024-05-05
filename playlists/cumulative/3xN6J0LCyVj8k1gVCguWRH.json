@@ -43427,6 +43427,32 @@
     },
     {
       "album": {
+        "name": "Pretty Little Things",
+        "url": "https://open.spotify.com/album/0FdkqFrUc1XGFjDxCvfjkD"
+      },
+      "artists": [
+        {
+          "name": "Kovan",
+          "url": "https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW"
+        },
+        {
+          "name": "Poylux",
+          "url": "https://open.spotify.com/artist/1ST0rgGokl1BkQ9CN5d4Sh"
+        },
+        {
+          "name": "liquidfive",
+          "url": "https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151209,
+      "name": "Pretty Little Things",
+      "url": "https://open.spotify.com/track/6GNUPnL8wM0usAYNnmDrmJ"
+    },
+    {
+      "album": {
         "name": "Pretty Wing (Demo)",
         "url": "https://open.spotify.com/album/5RsBdTC1MF0CIuHQ97mImw"
       },

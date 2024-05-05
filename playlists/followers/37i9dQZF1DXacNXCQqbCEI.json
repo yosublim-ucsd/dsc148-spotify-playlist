@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 351434,
+  "2024-05-05": 351450,
   "date_first_scraped": "2021-12-28",
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
   "name": "El\u00e9ctrica Selv\u00e1tica",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 287387,
       "name": "Ag\u00fcita del Equilibrio - Remix",
       "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184886,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 253626,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
@@ -3241,6 +3241,24 @@
       "duration_ms": 460800,
       "name": "Naeku - John Talabot Remix",
       "url": "https://open.spotify.com/track/54REQf3i68j955Q5nhBHQE"
+    },
+    {
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "album": {

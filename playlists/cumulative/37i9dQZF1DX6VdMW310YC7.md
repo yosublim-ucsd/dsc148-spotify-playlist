@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,617 songs - 4 day 15 hr 14 min
+1,618 songs - 4 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Breathe In](https://open.spotify.com/track/0DzRRsU837SFfGg3qHggZt) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [Breathe In](https://open.spotify.com/album/3OlOyy3r8jil3U0aYzALyw) | 4:25 | 2024-04-05 |  |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-03-27 | 2024-04-19 |
 | [Brighter](https://open.spotify.com/track/6PKGDDpYt39sJfHJrYxJW4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:41 | 2020-05-18 | 2020-07-03 |
+| [Brighter \- Emmit's Version](https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Brighter \(Emmit's Version\)](https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt) | 2:42 | 2024-05-03 |  |
 | [brighter days](https://open.spotify.com/track/0OidLNIUhWSBX2UEXbaqQS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 3:56 | 2020-03-20 | 2020-07-18 |
 | [Brightest Light \(feat\. Josh Wantie\) \- Radio Edit](https://open.spotify.com/track/4A1IGpeMdt8sUdTPfNzYcd) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [Josh Wantie](https://open.spotify.com/artist/0pge2gEtqePVRTkYcK4hQb) | [Brightest Light \(feat\. Josh Wantie\) \[Radio Edit\]](https://open.spotify.com/album/5ePsyNYPL613mI8nqs7kwS) | 3:25 | 2020-05-18 | 2020-07-03 |
 | [Brightest Lights \(feat\. POLIÇA\)](https://open.spotify.com/track/6zf6b2S8E2L3Z2iYiDFQfs) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/1TsV2ic0M07iWunG3jFbFC) | 6:52 | 2020-02-29\* | 2022-07-29 |
@@ -664,7 +665,7 @@
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 | 2023-09-09 |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |
-| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 |  |
+| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 | 2024-05-05 |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2020-03-16 | 2021-01-11 |
 | [I Found You \- Prospa Remix](https://open.spotify.com/track/2LenfxaYtwKW8LwYXu8sqw) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [I Found You \(Prospa Remix\)](https://open.spotify.com/album/0jDkEfxSXzCUK9noxG2wCL) | 4:01 | 2023-09-08 | 2023-09-22 |
 | [I Get You](https://open.spotify.com/track/6ClgdWhFNpAGAMFAjAbor1) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Get You](https://open.spotify.com/album/6C4LwRgUfaPVnbYgDHfsEC) | 3:57 | 2020-03-17 | 2020-10-09 |

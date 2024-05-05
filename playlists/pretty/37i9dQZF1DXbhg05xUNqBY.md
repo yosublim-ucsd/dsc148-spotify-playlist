@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,663 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,665 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 43 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 |
 | 44 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 |
 | 45 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
-| 46 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
-| 47 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
+| 46 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
+| 47 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
 | 48 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
 | 49 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 50 | [Show Me What It Means](https://open.spotify.com/track/7rA6eHljnanyoQ5QyHWQrv) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Show Me What It Means](https://open.spotify.com/album/0WJ9VhlvVj1U0QADkAz02d) | 4:30 |
 | 51 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 52 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 53 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
-| 54 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
-| 55 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
-| 56 | [Dreaming of Eden](https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Dreaming of Eden](https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT) | 4:14 |
+| 54 | [Dreaming of Eden](https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Dreaming of Eden](https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT) | 4:14 |
+| 55 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
+| 56 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
 | 57 | [You Are My Salvation](https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [You Are My Salvation](https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd) | 3:02 |
 | 58 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 |
 | 59 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 67 | [Kingdom of God](https://open.spotify.com/track/2jneHgyd1uUIfk7eVhqmDK) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Kingdom of God](https://open.spotify.com/album/6AjIsBDVmomaL3GeB3H7uJ) | 4:47 |
 | 68 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
 | 69 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 |
-| 70 | [Raise a Hallelujah](https://open.spotify.com/track/5i0a1Vdu2sIacKMNZZabRM) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Raise a Hallelujah](https://open.spotify.com/album/4ffzIhEXSxyagekHE9wIm7) | 5:43 |
+| 70 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 |
 
 Snapshot ID: `ZIxbTgAAAADjBnNvamkuo23gYyoMHGUf`

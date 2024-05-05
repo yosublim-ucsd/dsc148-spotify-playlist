@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 277816,
+  "2024-05-05": 277821,
   "date_first_scraped": "2022-05-26",
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
   "name": "Rock Total",
@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188695,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
+    },
+    {
+      "album": {
         "name": "d Bien a MaL",
         "url": "https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG"
       },
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 285440,
       "name": "Los \u00c1ngeles, California",
       "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
@@ -3027,7 +3045,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180804,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
@@ -4201,7 +4219,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
@@ -4411,7 +4429,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 190000,
       "name": "Su Lado De La Cama",
       "url": "https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb"
@@ -5237,6 +5255,24 @@
       "duration_ms": 168977,
       "name": "Zero",
       "url": "https://open.spotify.com/track/3zOHI5gwoN5juUNhnVpuwP"
+    },
+    {
+      "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171945,
+      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
+      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
     },
     {
       "album": {

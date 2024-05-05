@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 3 hr 38 min
+80 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [PLN](https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PLN](https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg) | 2:45 | 2024-04-05 |  |
 | [Poco Comercial](https://open.spotify.com/track/0CV9rp5yFZCqBAE4F4gx1N) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:43 | 2024-04-05 |  |
 | [Presente Y Futuro](https://open.spotify.com/track/7InkTnO35uecjCJucwXrWx) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:14 | 2024-04-05 |  |
+| [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-05-04 |  |
 | [Profesora](https://open.spotify.com/track/19oN7fnXXZUyXE7jzLBalc) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:34 | 2024-04-05 |  |
 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 | 2024-04-05 |  |
 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 | 2024-04-05 |  |

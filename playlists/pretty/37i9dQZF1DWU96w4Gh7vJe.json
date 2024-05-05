@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574529,
+  "num_followers": 574549,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Catriona",
-        "url": "https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso"
-      },
-      "artists": [
-        {
-          "name": "Matthaios",
-          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
-        }
-      ],
-      "duration_ms": 204512,
-      "name": "Catriona",
-      "url": "https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2"
-    },
-    {
-      "added_at": "2024-02-27 03:02:56",
-      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2024-02-27 03:02:56",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+        "name": "Catriona",
+        "url": "https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso"
       },
       "artists": [
         {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
         }
       ],
-      "duration_ms": 312133,
-      "name": "Buko",
-      "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
+      "duration_ms": 204512,
+      "name": "Catriona",
+      "url": "https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2"
     },
     {
       "added_at": "2024-02-27 03:02:56",
@@ -515,6 +499,22 @@
       "duration_ms": 167086,
       "name": "Don't Know What To Do (Don't Know What To Say)",
       "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
+    },
+    {
+      "added_at": "2024-02-27 03:02:56",
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 312133,
+      "name": "Buko",
+      "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
     },
     {
       "added_at": "2024-02-27 03:02:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia, Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,178 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,179 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 14 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 |
 | 15 | [Péroxyde](https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Péroxyde](https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF) | 2:51 |
 | 16 | [Mauvais rêve](https://open.spotify.com/track/6u2UQSSpp6fO3LubYW3ef6) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:50 |
-| 17 | [Potion](https://open.spotify.com/track/1KZfFKGx6fPEAqMJh4BKNi) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Potion](https://open.spotify.com/album/2TBeusZ0VFhF22CupNSplb) | 2:59 |
+| 17 | [Potion](https://open.spotify.com/track/1KZfFKGx6fPEAqMJh4BKNi) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Majosty](https://open.spotify.com/artist/6S6YyE0Pz6mYmTCER2PI1A), [agoldencoast](https://open.spotify.com/artist/6ks6hf6P8T5aOYZt8ykVlv) | [Potion](https://open.spotify.com/album/2TBeusZ0VFhF22CupNSplb) | 2:59 |
 | 18 | [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 |
 | 19 | [La peine](https://open.spotify.com/track/2eqde2wm6T2EBRcI3oLKS0) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La peine](https://open.spotify.com/album/5ZzNnKX8zV7iAONaQnRalt) | 3:34 |
 | 20 | [ROWZIN 2](https://open.spotify.com/track/14IiU9Q0w97lGKCdOtNCsM) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [ROWZIN 2](https://open.spotify.com/album/3VT7DFjIBMm07KIGKIRwPJ) | 2:06 |

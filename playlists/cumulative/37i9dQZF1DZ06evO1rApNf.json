@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
+    },
+    {
+      "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
       },
@@ -976,7 +998,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 173960,
       "name": "No Es Normal (con Jay Wheeler)",
       "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"

@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
-  "num_followers": 24687,
+  "num_followers": 24696,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
-        }
-      ],
-      "duration_ms": 224433,
-      "name": "Criminal - Minit Remix",
-      "url": "https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        }
+      ],
+      "duration_ms": 224433,
+      "name": "Criminal - Minit Remix",
+      "url": "https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
-      },
-      "artists": [
-        {
-          "name": "DUE",
-          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
-        }
-      ],
-      "duration_ms": 121406,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 251026,
       "name": "INVU - Moon Kyoo Remix",
       "url": "https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
+      },
+      "artists": [
+        {
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
+        }
+      ],
+      "duration_ms": 121406,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
-      },
-      "artists": [
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
-        }
-      ],
-      "duration_ms": 274761,
-      "name": "28 Reasons - LOOZBONE Remix",
-      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.5 : Criminal Remixes",
         "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 211506,
       "name": "Criminal - SUMIN Remix",
       "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        }
+      ],
+      "duration_ms": 274761,
+      "name": "28 Reasons - LOOZBONE Remix",
+      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
-        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 197418,
-      "name": "FOREVER 1 - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.13 : Sticker Remixes",
         "url": "https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 182267,
       "name": "MOM (feat. So!YoON!)",
       "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
+        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 197418,
+      "name": "FOREVER 1 - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1627,6 +1627,26 @@
       "duration_ms": 171000,
       "name": "Closer To The End (with Bemo Rouge)",
       "url": "https://open.spotify.com/track/6Covx7dIBduWl1I8c6fWHk"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "2 Baddies - Biicla Remix",
+      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1727,26 +1747,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "2 Baddies - Biicla Remix",
-      "url": "https://open.spotify.com/track/7gjG59cMvwEGdGRSmDvTuq"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "ION",
         "url": "https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI"
       },
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "Techno Drop",
+        "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
+      },
+      "artists": [
+        {
+          "name": "NAEMS",
+          "url": "https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "duration_ms": 161727,
+      "name": "Techno Drop",
+      "url": "https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "Shining Like the Sun in the Sky",
         "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 139047,
       "name": "Samduck",
       "url": "https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "Techno Drop",
-        "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
-      },
-      "artists": [
-        {
-          "name": "NAEMS",
-          "url": "https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO"
-        },
-        {
-          "name": "Arkins",
-          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
-        }
-      ],
-      "duration_ms": 161727,
-      "name": "Techno Drop",
-      "url": "https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF"
     },
     {
       "added_at": "2024-04-18 05:50:31",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 ### [This Is Slipknot](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYGncI)
 
-> This is Slipknot\. Todos os maiores hits em uma só playlist.
+> This Is Slipknot\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,598 likes - 45 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,198 likes - 45 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 44 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 |
 | 45 | [Adderall](https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:40 |
 
-Snapshot ID: `ZjLXgAAAAACB8Q+OnMTE3wB1t/nu56kc`
+Snapshot ID: `ZjQpAAAAAACbkrkMBJimW8B2O6MKCq9o`

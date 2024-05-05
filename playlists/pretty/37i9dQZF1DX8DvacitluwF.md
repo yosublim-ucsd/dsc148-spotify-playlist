@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=1JTMf38\_RxahO7HM59iohQ>Qing Madi</a>, <a href=https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR?si=1IheAN6fQLqYLiclUMcpKw>Chloë</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,768 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,782 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 1 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 2 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 3 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 4 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 |

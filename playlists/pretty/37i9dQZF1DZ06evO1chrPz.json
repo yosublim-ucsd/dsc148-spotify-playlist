@@ -1,12 +1,12 @@
 {
-  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 196853,
+  "description": "This Is Bethel Music. Los temas esenciales, todos en una lista.",
+  "num_followers": 196888,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAtl7enGDU7AwxKwwsHG1Nb",
+  "snapshot_id": "ZjQpAAAAAABkNLeZzIWH82sUGzQNZz8+",
   "tracks": [
     {
       "added_at": null,
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 485396,
-      "name": "Be Enthroned - Live",
-      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+      "duration_ms": 339870,
+      "name": "Pieces - Live",
+      "url": "https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37"
     },
     {
       "added_at": null,
@@ -628,13 +628,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 339870,
-      "name": "Pieces - Live",
-      "url": "https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37"
+      "duration_ms": 485396,
+      "name": "Be Enthroned - Live",
+      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 347566,
-      "name": "Reign Above It All - Live",
-      "url": "https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -759,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
       "artists": [
         {
@@ -770,15 +750,11 @@
         {
           "name": "Paul McClure",
           "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 600035,
-      "name": "Stand In Awe (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW"
+      "duration_ms": 347566,
+      "name": "Reign Above It All - Live",
+      "url": "https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe"
     },
     {
       "added_at": null,
@@ -807,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 600035,
+      "name": "Stand In Awe (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Up Here",
         "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 294280,
       "name": "Surrounded By Holy",
       "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 451297,
       "name": "Show Me Your Face (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Is Hollow",
-        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 519288,
-      "name": "Death Is Hollow (Live)",
-      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
     },
     {
       "added_at": null,
@@ -931,30 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 442158,
-      "name": "When You Walk Into The Room (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
@@ -971,6 +947,26 @@
       "duration_ms": 281506,
       "name": "We Dance - Live",
       "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 759555,
+      "name": "Forever YHWH/Worthy Of It All (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY"
     },
     {
       "added_at": null,
@@ -1007,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
       },
       "artists": [
         {
@@ -1016,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 759555,
-      "name": "Forever YHWH/Worthy Of It All (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY"
+      "duration_ms": 318120,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl"
     }
   ],
   "unique_name": "This Is Bethel Music",

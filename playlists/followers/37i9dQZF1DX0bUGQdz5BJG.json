@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 179943,
+  "2024-05-05": 180044,
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Tucker Wetmore",
+  "description": "Music City must-hears. Cover: Kelsey Hart",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -1367,6 +1367,24 @@
       "duration_ms": 208760,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/6xtHnvTZrfpYIowpmcusGu"
+    },
+    {
+      "album": {
+        "name": "All This Could Be Yours",
+        "url": "https://open.spotify.com/album/648wJZLfgvnuVH2Wbbv6VH"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146874,
+      "name": "All This Could Be Yours",
+      "url": "https://open.spotify.com/track/5Dxdjqe9Z5HBGFFph9Ptzx"
     },
     {
       "album": {
@@ -4787,6 +4805,24 @@
       "duration_ms": 182676,
       "name": "Burn Me Out",
       "url": "https://open.spotify.com/track/3ZPXtpUsLQk0FLz1Vzv2gQ"
+    },
+    {
+      "album": {
+        "name": "Burn My Summer",
+        "url": "https://open.spotify.com/album/1NKUSmelSWQfrlG0Kn6em2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Burn My Summer",
+      "url": "https://open.spotify.com/track/2ekb44iYmFkur19s0oFnwn"
     },
     {
       "album": {
@@ -8843,7 +8879,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200726,
       "name": "Drinking Buddy",
       "url": "https://open.spotify.com/track/7cUbKuuwovfRivtx1pmLnF"
@@ -10283,7 +10319,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 192146,
       "name": "Flannel",
       "url": "https://open.spotify.com/track/2lEBhc9R8WDLRg68dCtHZp"
@@ -17879,7 +17915,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 235173,
       "name": "Keepin' The Lights On",
       "url": "https://open.spotify.com/track/7oVfdrMlhiTtWPmXoZggVw"
@@ -20524,6 +20560,24 @@
     },
     {
       "album": {
+        "name": "Made For",
+        "url": "https://open.spotify.com/album/2Gjw5EUedhfi3EToqZW5vm"
+      },
+      "artists": [
+        {
+          "name": "Will Dempsey",
+          "url": "https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215288,
+      "name": "Made For",
+      "url": "https://open.spotify.com/track/0U9MEoRc5mvh5WKM691Kp5"
+    },
+    {
+      "album": {
         "name": "Made Her That Way",
         "url": "https://open.spotify.com/album/3bo4bAoRAswCfOqmhIt1IV"
       },
@@ -21068,6 +21122,24 @@
     },
     {
       "album": {
+        "name": "Man Upstairs",
+        "url": "https://open.spotify.com/album/5C8Gd9hHE6ZmXELGEB7QKK"
+      },
+      "artists": [
+        {
+          "name": "Tim Dugger",
+          "url": "https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199445,
+      "name": "Man Upstairs",
+      "url": "https://open.spotify.com/track/0Ys0iML8dhgaZDhYu60oHM"
+    },
+    {
+      "album": {
         "name": "Marlboro Man",
         "url": "https://open.spotify.com/album/1NXlQvwy2Tb7H41KyIEeeB"
       },
@@ -21281,6 +21353,24 @@
       "duration_ms": 247446,
       "name": "Maybe In Another Life",
       "url": "https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS"
+    },
+    {
+      "album": {
+        "name": "Maybe It'd Be Different",
+        "url": "https://open.spotify.com/album/7hK8MTZ07M4bOJlJfWk22h"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181903,
+      "name": "Maybe It'd Be Different",
+      "url": "https://open.spotify.com/track/18cYDWkm64a7Evbp0rzPWZ"
     },
     {
       "album": {
@@ -23518,6 +23608,24 @@
     },
     {
       "album": {
+        "name": "Love Wins",
+        "url": "https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229299,
+      "name": "No Stoppin' This Train",
+      "url": "https://open.spotify.com/track/55lrjPDHBVfKUD5ipPzWCy"
+    },
+    {
+      "album": {
         "name": "No Tellin'",
         "url": "https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR"
       },
@@ -24301,6 +24409,24 @@
       "duration_ms": 205440,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/3e8rtuXApwV6vwoOMWDRXN"
+    },
+    {
+      "album": {
+        "name": "On My Way Out",
+        "url": "https://open.spotify.com/album/1kXUD4uplYer8uCLJnUfZ7"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "On My Way Out",
+      "url": "https://open.spotify.com/track/2nXEZEBZtr6iDFfvu6CyOI"
     },
     {
       "album": {
@@ -29191,7 +29317,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 175384,
       "name": "So Do I",
       "url": "https://open.spotify.com/track/4rnGatjVZ7P37HaYLLgCW1"
@@ -31052,6 +31178,24 @@
     },
     {
       "album": {
+        "name": "Take it Slow",
+        "url": "https://open.spotify.com/album/37y5FTRox6skvakMrsNf5J"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229606,
+      "name": "Take it Slow",
+      "url": "https://open.spotify.com/track/0zOgvYDK8Bq6BZsHs9burH"
+    },
+    {
+      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -31791,6 +31935,24 @@
       "duration_ms": 189416,
       "name": "Tennessee's Waiting",
       "url": "https://open.spotify.com/track/6n3bppUeyLmvw2yP54ZM7d"
+    },
+    {
+      "album": {
+        "name": "Tequila Helps",
+        "url": "https://open.spotify.com/album/7xEcMlszJ5BX1TiuvVfrPc"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Tequila Helps",
+      "url": "https://open.spotify.com/track/1QAU2FnwqL8OK3kjCMuTnA"
     },
     {
       "album": {
@@ -33743,6 +33905,24 @@
       "duration_ms": 194055,
       "name": "To Be Continued...",
       "url": "https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr"
+    },
+    {
+      "album": {
+        "name": "to be honest",
+        "url": "https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205970,
+      "name": "To Be Honest",
+      "url": "https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l"
     },
     {
       "album": {
@@ -37041,7 +37221,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 166040,
       "name": "Wind Up Missin' You",
       "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
@@ -37800,6 +37980,28 @@
     },
     {
       "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/4V4T7v1kXNMMIC6BWPR613"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        },
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207359,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/0JmNkATdoAVWq3vqWROtmB"
+    },
+    {
+      "album": {
         "name": "Yep",
         "url": "https://open.spotify.com/album/0DtVgJeRg9ZbbFSjWKfis0"
       },
@@ -38457,7 +38659,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172500,
       "name": "Your Boy",
       "url": "https://open.spotify.com/track/7EfUOr3K3yarhqo2wCMqRe"

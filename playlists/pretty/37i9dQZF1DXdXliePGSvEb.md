@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,058 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,079 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 31 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |
 | 32 | [Don't Let Go](https://open.spotify.com/track/6IKgXtJX61K7kByC3ZTRWM) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 4:29 |
 | 33 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 34 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
-| 35 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 |
+| 34 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 |
+| 35 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 | 36 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
 | 37 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 38 | [The Abyss](https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Abyss](https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS) | 7:18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 3183,
+  "num_followers": 3192,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACqKfGKYIO+2Ls1HoVc8KCp",
+  "snapshot_id": "ZjQpAAAAAADABpKCOXVcf8WgmIa3iKBn",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Mind / Let Me",
-        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 188322,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Zone",
         "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
@@ -467,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Sweat It",
-        "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
+        "name": "My Mind / Let Me",
+        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "BINGEWATCH",
-          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
         }
       ],
-      "duration_ms": 176750,
-      "name": "Don't Sweat It",
-      "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
+      "duration_ms": 188322,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
       "added_at": null,
@@ -503,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake the Bass 4",
-        "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
+        "name": "Don't Sweat It",
+        "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "BINGEWATCH",
+          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
         }
       ],
-      "duration_ms": 183848,
-      "name": "Honey Dip",
-      "url": "https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD"
+      "duration_ms": 176750,
+      "name": "Don't Sweat It",
+      "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 157460,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake the Bass 4",
+        "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 183848,
+      "name": "Honey Dip",
+      "url": "https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171473,
+      "name": "Hustler - Radio Edit",
+      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 171473,
-      "name": "Hustler - Radio Edit",
-      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 187263,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 188190,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 235650,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188190,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR"
     },
     {
       "added_at": null,

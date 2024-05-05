@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Tillu Square
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,071 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,510 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 21 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 |
 | 22 | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj) | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi) | 3:19 |
 | 23 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 |
-| 24 | [Hukum \(From "Jailer"\)](https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Bhaskarabhatla Ravi Kumar](https://open.spotify.com/artist/6JyljSrn40SaA7h6wwQSip) | [Hukum \(From "Jailer"\)](https://open.spotify.com/album/72CICJmh1qsqSPbU4xA7Le) | 3:27 |
+| 24 | [Hukum \(From "Jailer"\)](https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Hukum \(From "Jailer"\)](https://open.spotify.com/album/72CICJmh1qsqSPbU4xA7Le) | 3:27 |
 | 25 | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naa Madhi \(From "Thiru"\)](https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3) | 2:54 |
 | 26 | [Adigaa](https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ayshath Safa](https://open.spotify.com/artist/2md8WdiGwu88TOzcVC4bpa) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 3:30 |
 | 27 | [Andhamyna Bhamalu](https://open.spotify.com/track/1JJjHoFLuQQKddOzD8pYsS) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Manmadhudu](https://open.spotify.com/album/2aNP8WRBq1cUgP4hvblCVa) | 4:18 |

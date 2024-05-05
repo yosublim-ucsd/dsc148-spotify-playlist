@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Jesse & Joy en portada.",
-  "num_followers": 666340,
+  "num_followers": 666621,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Mi Eterno Amor Secreto",
         "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "La Guerita",
-        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "La Guerita",
-      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 161897,
-      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Gato \u00d1ero",
         "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 175090,
       "name": "Gato \u00d1ero",
       "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 161897,
+      "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
         }
       ],
-      "duration_ms": 204956,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     }
   ],
   "unique_name": "Top M\u00e9xico",

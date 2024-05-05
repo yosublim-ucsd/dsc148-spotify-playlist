@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This Is League of Legends\. Los temas esenciales, todos en una lista.
+> This is League of Legends\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,317 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,333 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 39 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
 | 40 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 41 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 |
-| 42 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
-| 43 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 42 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 43 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
 | 44 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 | 45 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 46 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
 | 51 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 |
 
-Snapshot ID: `ZjLXgAAAAACieaPsLlY9ZN4pR74QIrz7`
+Snapshot ID: `ZjQpAAAAAABKixzA2qjawvSR6zNspH86`

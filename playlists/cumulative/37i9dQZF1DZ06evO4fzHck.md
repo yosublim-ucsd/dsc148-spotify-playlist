@@ -2,9 +2,9 @@
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. The essential tracks, all in one playlist.
+> This Is The Cure\. Los temas esenciales, todos en una lista.
 
-72 songs - 5 hr 18 min
+73 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,13 +20,14 @@
 | [Catch](https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:43 | 2022-11-04 |  |
 | [Charlotte Sometimes \- Single Version](https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith \(Deluxe Edition\)](https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T) | 4:13 | 2022-11-04 |  |
 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 | 2022-11-04 |  |
+| [Closedown \- Remastered 2010](https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:18 | 2024-05-05 |  |
 | [Cold \- 2005 Remaster](https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:26 | 2023-02-10 | 2024-02-25 |
 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 | 2022-12-12 |  |
 | [Cut \- 1990 Demo](https://open.spotify.com/track/1Esj2DJR8Xlxru5RDQtcoP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 3:33 | 2022-11-16 | 2022-12-08 |
 | [Cut \- 1990 Demo](https://open.spotify.com/track/6FMzcxqfyw7LKhgUPd3JWf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF) | 3:33 | 2022-11-04 | 2022-11-17 |
 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 | 2022-11-04 |  |
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2022-11-04 |  |
-| [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 | 2024-04-15 |  |
+| [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 | 2024-04-15 | 2024-05-05 |
 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 | 2022-11-04 | 2022-12-30 |
 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 | 2022-11-04 |  |
 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 | 2022-11-04 |  |

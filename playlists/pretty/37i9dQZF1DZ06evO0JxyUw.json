@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 260230,
+  "description": "This Is Christina Aguilera. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 260263,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAlh8wO8ki+hUKe9Yo2oMN4",
+  "snapshot_id": "ZjQpAAAAAADYkFw8K3WP3AMo4l81WFm0",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 265733,
+      "name": "Pero Me Acuerdo de T\u00ed",
+      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": null,
@@ -284,9 +284,25 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 215800,
-      "name": "What a Girl Wants",
-      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
     },
     {
       "added_at": null,
@@ -307,22 +323,6 @@
       "duration_ms": 216573,
       "name": "Do What U Want",
       "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
     },
     {
       "added_at": null,
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -411,6 +411,54 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
     },
     {
       "added_at": null,
@@ -451,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 263826,
-      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning To Fly",
         "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
       },
@@ -479,6 +511,22 @@
       "duration_ms": 176941,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
     },
     {
       "added_at": null,
@@ -636,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 120453,
-      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
+      "duration_ms": 184773,
+      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
     },
     {
       "added_at": null,
@@ -708,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 184773,
-      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
+      "duration_ms": 120453,
+      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
     },
     {
       "added_at": null,
@@ -747,26 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amore (Remastered)",
-        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
         }
       ],
-      "duration_ms": 262306,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
+      "duration_ms": 245293,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
     },
     {
       "added_at": null,
@@ -803,22 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+        "name": "Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         },
         {
-          "name": "XNDA",
-          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 245293,
-      "name": "Pipe (feat. XNDA)",
-      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+      "duration_ms": 262306,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
     },
     {
       "added_at": null,
@@ -859,26 +907,6 @@
       "duration_ms": 122226,
       "name": "Steppin' Out with My Baby (with Christina Aguilera)",
       "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Si No Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
     },
     {
       "added_at": null,
@@ -947,38 +975,6 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
-        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
-      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

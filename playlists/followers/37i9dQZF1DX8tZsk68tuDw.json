@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1942205,
+  "2024-05-05": 1942136,
   "date_first_scraped": "2020-10-13",
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Barry Can't Swim.",
   "name": "Dance Rising",
@@ -55287,6 +55287,28 @@
       "duration_ms": 194763,
       "name": "Waiting (feat. Stephen Puth)",
       "url": "https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl"
+    },
+    {
+      "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "album": {

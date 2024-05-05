@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 26704,
+  "num_followers": 26708,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Needle in the Groove",
+        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
+      },
+      "artists": [
+        {
+          "name": "Papa Grows Funk",
+          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "Do U Want It?",
+      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Sudaka",
         "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 202808,
       "name": "Sudaka",
       "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Needle in the Groove",
-        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
-      },
-      "artists": [
-        {
-          "name": "Papa Grows Funk",
-          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Do U Want It?",
-      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "7 Am",
-        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
-      },
-      "artists": [
-        {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "P1cky",
-          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
-        }
-      ],
-      "duration_ms": 239387,
-      "name": "7 Am",
-      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1191,22 +1171,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
-        }
-      ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1223,22 +1187,38 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Le Hicimos a los Espejos?",
-        "url": "https://open.spotify.com/album/2SrHyAA6EE5NFGv1vka41s"
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
       "artists": [
         {
-          "name": "Nicol\u00e1s Carou",
-          "url": "https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp"
-        },
-        {
-          "name": "Wen",
-          "url": "https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q"
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
         }
       ],
-      "duration_ms": 166183,
-      "name": "Olvidado en una Cueva Que Implot\u00f3",
-      "url": "https://open.spotify.com/track/3CPcyW800SDhVerNoj8GQh"
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "7 Am",
+        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+      },
+      "artists": [
+        {
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "P1cky",
+          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+        }
+      ],
+      "duration_ms": 239387,
+      "name": "7 Am",
+      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Le Hicimos a los Espejos?",
+        "url": "https://open.spotify.com/album/2SrHyAA6EE5NFGv1vka41s"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s Carou",
+          "url": "https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp"
+        },
+        {
+          "name": "Wen",
+          "url": "https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q"
+        }
+      ],
+      "duration_ms": 166183,
+      "name": "Olvidado en una Cueva Que Implot\u00f3",
+      "url": "https://open.spotify.com/track/3CPcyW800SDhVerNoj8GQh"
     },
     {
       "added_at": "2024-04-26 03:00:00",

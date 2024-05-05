@@ -4,7 +4,7 @@
 
 > ¡Hay tamales! ¡Tamales calientitos! Verdes, rojos, de dulce, de mole, ¡y hasta oaxaqueños!
 
-197 songs - 12 hr 21 min
+198 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2021-11-30 |  |
 | [La Locura Está en Mí \(feat\. Porta & Eneyser\) \- Remix](https://open.spotify.com/track/448WCkNg0QupLcngnGbKvV) | [Santaflow](https://open.spotify.com/artist/3uvTa6pDzj0T6EfMslXOCs), [Porta](https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB), [Eneyser](https://open.spotify.com/artist/07B0GRdqLzTptVcXcBSwR9) | [Ave Fénix](https://open.spotify.com/album/17mOgx8EYjcQ7R9EUr87SG) | 3:25 | 2023-01-10 | 2023-06-13 |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 | 2021-11-30 |  |
-| [La Pobreza \- Rebajada](https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 2:46 | 2023-11-10 |  |
+| [La Pobreza \- Rebajada](https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 2:46 | 2023-11-10 | 2024-05-05 |
 | [La Que Me Gusta](https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E) | 3:59 | 2021-11-30 |  |
 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 | 2021-11-30 | 2022-07-29 |
 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 | 2021-11-30 |  |
@@ -117,6 +117,7 @@
 | [Manos de Tijera](https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj) | 3:50 | 2023-11-10 | 2024-04-19 |
 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 | 2023-06-13 | 2023-11-11 |
 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 | 2023-06-13 |  |
+| [Mi Princesa](https://open.spotify.com/track/16Bp59vZMZDe9vQS4waCJO) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/652p9fzYmUhJc6iqqkbDe3) | 3:03 | 2023-11-10 |  |
 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 | 2021-11-30 | 2022-07-28 |
 | [Moriré](https://open.spotify.com/track/0BesqvlvkbU9FZMiQHrIzA) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 3:28 | 2021-11-30 | 2023-06-13 |
 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2023-01-10 |  |

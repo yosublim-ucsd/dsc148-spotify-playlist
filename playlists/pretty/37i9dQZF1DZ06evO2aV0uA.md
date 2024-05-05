@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This is Lamb of God\. Todos os maiores hits em uma só playlist.
+> This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,459 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,493 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 9 | [Now You've Got Something to Die For](https://open.spotify.com/track/4YthwCt7NMqxQCQfJPZMnU) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:39 |
 | 10 | [Descending](https://open.spotify.com/track/2rvQ8M4T6rbpc2c63pwNMu) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:35 |
 | 11 | [Ruin](https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:54 |
-| 12 | [Omens](https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:47 |
+| 12 | [Ditch](https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:37 |
 | 13 | [Hourglass](https://open.spotify.com/track/2pd1Lm8Jsslf2VdWQv0Je8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:00 |
 | 14 | [Blacken the Cursed Sun](https://open.spotify.com/track/7gNqCN4EK3B0mnklBp7EqP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:28 |
 | 15 | [11th Hour](https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:44 |
-| 16 | [Ditch](https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:37 |
+| 16 | [Omens](https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:47 |
 | 17 | [The Faded Line](https://open.spotify.com/track/46WIf1TzfOl4jfaWbGn9QT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:37 |
-| 18 | [Again We Rise](https://open.spotify.com/track/5b7PFsHhtWAFV2AZC869Mf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:30 |
-| 19 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 |
+| 18 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 |
+| 19 | [Again We Rise](https://open.spotify.com/track/5b7PFsHhtWAFV2AZC869Mf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:30 |
 | 20 | [Set To Fail](https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:46 |
 | 21 | [Ashes of the Wake](https://open.spotify.com/track/4qRe7JlY6zvKzrzlXTugo6) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 5:45 |
 | 22 | [Desolation](https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 43 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
 | 44 | [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 |
 | 45 | [The Death Of Us \- From The "Bill & Ted Face The Music" Soundtrack](https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa) | 3:59 |
-| 46 | [The Undertow](https://open.spotify.com/track/659HIjo4YGCavNiVEgqBtI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 4:46 |
-| 47 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
+| 46 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
+| 47 | [The Undertow](https://open.spotify.com/track/659HIjo4YGCavNiVEgqBtI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 4:46 |
 | 48 | [Embers \(feat\. Chino Moreno\)](https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:56 |
 | 49 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 | 50 | [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 |
 
-Snapshot ID: `ZjLXgAAAAAC8SxMDuHkXMCRmoAJYgnov`
+Snapshot ID: `ZjQpAAAAAAAn7i6T+UnbsyqEzeaEASN+`

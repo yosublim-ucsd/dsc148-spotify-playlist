@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. The essential tracks, all in one playlist.
+> This Is Joe Bonamassa\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,616 likes - 51 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,636 likes - 51 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 27 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
 | 28 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 |
 | 29 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 |
-| 30 | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 |
+| 30 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
 | 31 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
-| 32 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
+| 32 | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 |
 | 33 | [Stay Free](https://open.spotify.com/track/4NOfeN9b6hDAG3voJlw3bg) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Stay Free](https://open.spotify.com/album/5RHIAFOTuTSVZvc3A2YhHC) | 4:30 |
 | 34 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:58 |
-| 35 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
-| 36 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
-| 37 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
+| 35 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
+| 36 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
+| 37 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
 | 38 | [Lazy Poker Blues](https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:17 |
-| 39 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
-| 40 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
+| 39 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
+| 40 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
 | 41 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
 | 42 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 |
 | 43 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 | 51 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
 
-Snapshot ID: `ZjLXgAAAAABp0yNZEd41pg/WHy0jhQXT`
+Snapshot ID: `ZjQpAAAAAADL3WHMM5ZjgPywsxRY+Am+`

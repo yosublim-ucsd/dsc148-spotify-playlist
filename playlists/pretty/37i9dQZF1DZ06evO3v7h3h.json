@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46286,
+  "num_followers": 46287,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABG5dFfLLQTuA9l8D1FFI+p",
+  "snapshot_id": "ZjQpAAAAAACX+X8c5wAtVUl/ZVSx8RaG",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 179818,
       "name": "At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -799,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 189098,
+      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
+      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -827,38 +859,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 189098,
-      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
-      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idas e Vindas",
-        "url": "https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ"
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 216100,
-      "name": "Idas e Vindas",
-      "url": "https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh"
+      "duration_ms": 195000,
+      "name": "Meu Amigo Tempo",
+      "url": "https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si"
     },
     {
       "added_at": null,
@@ -971,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+        "name": "Idas e Vindas",
+        "url": "https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Meu Amigo Tempo",
-      "url": "https://open.spotify.com/track/3xF4D5CH0PvI5UJwA261Si"
+      "duration_ms": 216100,
+      "name": "Idas e Vindas",
+      "url": "https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 116660,
+      "name": "C\u00ea J\u00e1 Teve um Sonho?",
+      "url": "https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 192361,
       "name": "Outra Dose 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 116660,
-      "name": "C\u00ea J\u00e1 Teve um Sonho?",
-      "url": "https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm"
     },
     {
       "added_at": null,

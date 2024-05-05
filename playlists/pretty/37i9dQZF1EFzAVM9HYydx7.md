@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 276 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 276 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 149 | [Cold Sweat](https://open.spotify.com/track/4RSYgNxty83tnXcexSdgVA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 5:11 |
 | 150 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
 | 151 | [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/193hIaWPYRtzWIcTAMtkKI) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [These Things Happen Too \(Deluxe\)](https://open.spotify.com/album/2uGyQQS82uzaTXSBe2bs4A) | 2:50 |
-| 152 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
-| 153 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 152 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 153 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
 | 154 | [My Side](https://open.spotify.com/track/4alHkxxwAhvoGg3dJCATKV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:54 |
 | 155 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
 | 156 | [Broke](https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 2:59 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 275 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 276 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbQYKgAAAAAca5DHRjfBwIyb6kGhMHQ5`
+Snapshot ID: `AbQeQAAAAAAOr2rSQx45JRjXkrfHKbhx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,501 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,597 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 |
 | 50 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
 
-Snapshot ID: `ZjOqcAAAAACCmEBmykCvoYsoq9fRFqxF`
+Snapshot ID: `Zja98AAAAACHBBbXnsbK341yOfTZ3PSQ`

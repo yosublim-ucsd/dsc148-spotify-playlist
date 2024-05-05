@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 ### [This Is The Used](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZCBBm)
 
-> This is The Used\. The essential tracks, all in one playlist.
+> This Is The Used\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,047 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,051 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 7 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
 | 8 | [The Bird and the Worm](https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:45 |
 | 9 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
-| 10 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
-| 11 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 |
+| 10 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 |
+| 11 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 12 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 |
 | 13 | [Let It Bleed](https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:10 |
-| 14 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 |
-| 15 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
-| 16 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
-| 17 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
+| 14 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
+| 15 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 |
+| 16 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
+| 17 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
 | 18 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 |
 | 19 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 |
 | 20 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 47 | [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 |
 | 48 | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s) | 2:24 |
 
-Snapshot ID: `ZjLXgAAAAADctxxNOBHITtJsm/2pzS97`
+Snapshot ID: `ZjQpAAAAAADRBK7s8k/gTl56c/hKVgLF`

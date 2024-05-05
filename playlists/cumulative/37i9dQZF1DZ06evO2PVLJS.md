@@ -2,7 +2,7 @@
 
 ### [This Is Vicente Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PVLJS)
 
-> This is Vicente Fernández\. The essential tracks, all in one playlist.
+> This is Vicente Fernández\. De viktigaste låtarna samlade i en spellista.
 
 58 songs - 2 hr 59 min
 

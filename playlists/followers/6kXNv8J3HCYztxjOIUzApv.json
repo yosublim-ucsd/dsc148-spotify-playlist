@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 60577,
+  "2024-05-05": 60581,
   "date_first_scraped": "2022-06-10",
   "description": "Rock out while you work out! Follow for updates!",
   "name": "Hard Rock Workout",
@@ -1763,6 +1763,24 @@
       "duration_ms": 236360,
       "name": "Eyeless",
       "url": "https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ"
+    },
+    {
+      "album": {
+        "name": "F**k The Bad Vibes",
+        "url": "https://open.spotify.com/album/2i0zGJaC9rXDzWCmRm5W3o"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "F**k The Bad Vibes",
+      "url": "https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv"
     },
     {
       "album": {

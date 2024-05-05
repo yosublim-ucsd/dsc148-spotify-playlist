@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,420 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,421 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,7 +293,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 283 | [Soma](https://open.spotify.com/track/7KQ6WnRzf34MrwcFLpgO6k) | [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg), [Quit Life](https://open.spotify.com/artist/131d0lUjgpK3wqNziktPge) | [365](https://open.spotify.com/album/3UO9TX6RwGywlkQcGIoWq8) | 3:35 |
 | 284 | [Tension](https://open.spotify.com/track/3LKDbqdTSoYuW7T3ZpZO3H) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [St Martin](https://open.spotify.com/album/3My6Ho50T6skrNAvyTPheA) | 8:50 |
 | 285 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
-| 286 | [dnt forget me](https://open.spotify.com/track/0G7wf9sLsKUux52wRtBRkt) | [binxxieee](https://open.spotify.com/artist/2kVkiCaXc4TukfWyJMYSpT) | [dnt forget me](https://open.spotify.com/album/4HZcMogrOEqSXzQEyBEfDf) | 2:18 |
+| 286 | [dnt forget me](https://open.spotify.com/track/0G7wf9sLsKUux52wRtBRkt) | [binx](https://open.spotify.com/artist/5HwnpcgrHPXdNGs6cA8Q4y) | [dnt forget me](https://open.spotify.com/album/4HZcMogrOEqSXzQEyBEfDf) | 2:18 |
 | 287 | [Vitamins](https://open.spotify.com/track/0YWwhyfC6D94P2UnDOVbkO) | [KissClub](https://open.spotify.com/artist/2a4FxKpVmIjCrqcDNwA40B) | [Vitamins](https://open.spotify.com/album/5UYYUVemBMns0dbJFFnTqQ) | 2:33 |
 | 288 | [Untitled IV](https://open.spotify.com/track/4ziCKpNj8dDFCi5kNrUECp) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 4:44 |
 | 289 | [Redemption](https://open.spotify.com/track/4VHrgyMrSuf4MzJhzqnXYP) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Redemption](https://open.spotify.com/album/1e9xHSkmu9GrjDsWFbxtlr) | 7:07 |

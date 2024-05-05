@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 625357,
+  "num_followers": 625413,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-04-17 14:41:20",
       "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
+    },
+    {
+      "added_at": "2024-04-17 14:41:20",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2024-04-17 14:41:20",
-      "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     },
     {
       "added_at": "2024-04-17 14:41:20",
@@ -879,18 +879,22 @@
     {
       "added_at": "2024-04-17 14:41:20",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0rypL4vmBetlVD3PnjVJvd"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        },
+        {
+          "name": "Afrob",
+          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Kids (2 Finger an den Kopf)",
-      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
+      "duration_ms": 229520,
+      "name": "Get Up (Radio Edit)",
+      "url": "https://open.spotify.com/track/1WlTJc85nw6jHFoHc6We8O"
     },
     {
       "added_at": "2024-04-17 14:41:20",

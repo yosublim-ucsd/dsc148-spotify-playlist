@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 7197,
+  "2024-05-05": 7270,
   "date_first_scraped": "2023-06-10",
   "description": "Canciones pa\u2019 tra, tra, tra. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
   "name": "comer, dormir, perrear, repetir",
@@ -608,6 +608,32 @@
     },
     {
       "album": {
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
+      },
+      "artists": [
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -773,7 +799,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"

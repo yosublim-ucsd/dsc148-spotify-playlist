@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 142557,
+  "2024-05-05": 142663,
   "date_first_scraped": "2022-05-13",
   "description": "From Joburg and Lagos... to Chicago. Get lost in the electro and bass vibes.",
   "name": "Afrotronica",
@@ -227,6 +227,28 @@
       "duration_ms": 468979,
       "name": "Amplified Zone",
       "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
+    },
+    {
+      "album": {
+        "name": "Ancestral Land",
+        "url": "https://open.spotify.com/album/4IWO4wpEqJimCtg00wB90u"
+      },
+      "artists": [
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318551,
+      "name": "Ancestral Land",
+      "url": "https://open.spotify.com/track/2Hg5iCt8Vb57WmFChzslaE"
     },
     {
       "album": {
@@ -1720,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "Johera",
+        "url": "https://open.spotify.com/album/4VLl23SPuaHiBAtRDnGFwe"
+      },
+      "artists": [
+        {
+          "name": "Sinner & James",
+          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217619,
+      "name": "Johera",
+      "url": "https://open.spotify.com/track/7AG0NUtZokzSr6Ypwq0M9L"
+    },
+    {
+      "album": {
         "name": "Almighty Push",
         "url": "https://open.spotify.com/album/1AohI2EDB0ad4fomkNBWmd"
       },
@@ -3031,6 +3071,32 @@
       "duration_ms": 262908,
       "name": "Sbindi Uyabulala",
       "url": "https://open.spotify.com/track/6ZmAyjPb2R318kKMdSm2yy"
+    },
+    {
+      "album": {
+        "name": "Scilla E Cariddi (TR3NACRIA Remix)",
+        "url": "https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR"
+      },
+      "artists": [
+        {
+          "name": "Klement Bonelli",
+          "url": "https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "TR3NACRIA",
+          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Scilla E Cariddi - TR3NACRIA Remix",
+      "url": "https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L"
     },
     {
       "album": {

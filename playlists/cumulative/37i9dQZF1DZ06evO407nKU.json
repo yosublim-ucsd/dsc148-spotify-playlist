@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Ex de Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218202,
+      "name": "Ex de Verdad (En Vivo)",
+      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
+    },
+    {
+      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },

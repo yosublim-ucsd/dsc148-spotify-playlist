@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 676281,
+  "num_followers": 676398,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 261093,
-      "name": "The Man Who Sold The World - Live",
-      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World - Live",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 302736,
       "name": "Creep - Spotify Singles",
       "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Free Rein to Passions (Deluxe)",
-        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 130397,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Sugar We\u2019re Goin Down",
         "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 221481,
       "name": "Sugar We\u2019re Goin Down",
       "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Free Rein to Passions (Deluxe)",
+        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 130397,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
     },
     {
       "added_at": "2024-04-19 19:49:27",

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/3EVdK5zVS1ILSuMFnkUwU4"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/0hCJTpYhPZDQ0YY9f4TxT1"
+    },
+    {
+      "album": {
         "name": "Aere Perrenius",
         "url": "https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 193469,
       "name": "Coucher",
       "url": "https://open.spotify.com/track/0gBwjXf71aUxndZSzrJ6Ej"
@@ -830,6 +848,24 @@
       "duration_ms": 160909,
       "name": "Cromulence",
       "url": "https://open.spotify.com/track/1ieDBki4IKdEww6W5kZagE"
+    },
+    {
+      "album": {
+        "name": "Dawel",
+        "url": "https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu"
+      },
+      "artists": [
+        {
+          "name": "Charles Sardo",
+          "url": "https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165606,
+      "name": "Dawel",
+      "url": "https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr"
     },
     {
       "album": {
@@ -952,7 +988,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 192000,
       "name": "Ensorceler",
       "url": "https://open.spotify.com/track/2Fi6BCJD9cafMcnI6FBSaI"
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 192257,
       "name": "Erinnerungen",
       "url": "https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y"
@@ -1121,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Echoes",
+        "url": "https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp"
+      },
+      "artists": [
+        {
+          "name": "Ella Hush",
+          "url": "https://open.spotify.com/artist/6dcMOViRlnkmZkjhckcMmx"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Ethereal Echoes",
+      "url": "https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s"
+    },
+    {
+      "album": {
         "name": "Evanescenza",
         "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
@@ -1172,6 +1226,24 @@
       "duration_ms": 192666,
       "name": "Expression",
       "url": "https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS"
+      },
+      "artists": [
+        {
+          "name": "Ava Mills",
+          "url": "https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171299,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT"
     },
     {
       "album": {
@@ -1370,6 +1442,24 @@
       "duration_ms": 178575,
       "name": "Here And There",
       "url": "https://open.spotify.com/track/2CHT0b02VjzQokfGso30lz"
+    },
+    {
+      "album": {
+        "name": "Hidden Surfaces",
+        "url": "https://open.spotify.com/album/3gI7th38cfdMF9Olco2BhS"
+      },
+      "artists": [
+        {
+          "name": "An Valsa",
+          "url": "https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "Hidden Surfaces",
+      "url": "https://open.spotify.com/track/1LEHnycNFavMZbrUz8PGAB"
     },
     {
       "album": {
@@ -1748,7 +1838,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 168510,
       "name": "Mare Silentis",
       "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
@@ -2000,10 +2090,28 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 180909,
       "name": "Orphic",
       "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/6yzFtuNu7WopvMMWvgi7Eu"
+      },
+      "artists": [
+        {
+          "name": "D\u00f3tira",
+          "url": "https://open.spotify.com/artist/28cLenuWuw1qNrnHDUHbr8"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/5Y3UEfhQaXy2Iy5Hv2fJvc"
     },
     {
       "album": {
@@ -2529,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Something Free",
+        "url": "https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P"
+      },
+      "artists": [
+        {
+          "name": "Aurora's Aria",
+          "url": "https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209846,
+      "name": "Something Free",
+      "url": "https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5"
+    },
+    {
+      "album": {
         "name": "Soothing Silence",
         "url": "https://open.spotify.com/album/4eQ7KKy8yS84W0SrvIH7LP"
       },
@@ -2692,7 +2818,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 127723,
       "name": "Suavizar el Dolor",
       "url": "https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,713 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,818 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 42 | [Stack\-O\-Lee](https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:56 |
 | 43 | [\(You've Got To\) Love Her With A Feeling](https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Blues With A Feeling](https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB) | 3:45 |
 | 44 | [Worried Life Blues](https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 2:50 |
-| 45 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
-| 46 | [\(I Think\) Drowning on Dry Land](https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh), [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Good Things Don't Happen Every Day](https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE) | 3:03 |
+| 45 | [\(I Think\) Drowning on Dry Land](https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh), [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Good Things Don't Happen Every Day](https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE) | 3:03 |
+| 46 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
 | 47 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
 | 48 | [Please Send Me Someone to Love](https://open.spotify.com/track/7qMdTdlhhYjKfEbNBpNBEq) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [The Blues Collective \- Percy Mayfield](https://open.spotify.com/album/3DLOUqLCKBmsZcZi7JVDLU) | 2:54 |
 | 49 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |

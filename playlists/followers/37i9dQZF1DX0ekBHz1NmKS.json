@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 195578,
+  "2024-05-05": 195595,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -6620,6 +6620,24 @@
     },
     {
       "album": {
+        "name": "Free My Soul",
+        "url": "https://open.spotify.com/album/7MVn5ssUDz8uXQT2XZ2jek"
+      },
+      "artists": [
+        {
+          "name": "Naliyah",
+          "url": "https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Free My Soul",
+      "url": "https://open.spotify.com/track/2NY9ERTEQnP0VOnHhMOW90"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85"
       },
@@ -8167,7 +8185,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156034,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG"
@@ -19152,6 +19170,24 @@
     },
     {
       "album": {
+        "name": "Supersonic P*$$y",
+        "url": "https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN"
+      },
+      "artists": [
+        {
+          "name": "Bishat",
+          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167382,
+      "name": "Supersonic P*$$y",
+      "url": "https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
       },
@@ -22495,7 +22531,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 162720,
       "name": "Want Your Love",
       "url": "https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R"

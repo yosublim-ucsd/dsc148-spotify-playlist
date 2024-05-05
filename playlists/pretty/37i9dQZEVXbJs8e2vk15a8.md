@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,273 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,272 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [QUÍTENME EL TELÉFONO \(feat\. Yandel, Jay Wheeler\)](https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:54 |
 | 50 | [Hello Baby](https://open.spotify.com/track/4GSv8OmWyUK4fHPCicLLLj) | [Pablo Antonio](https://open.spotify.com/artist/1urRPTvrCAnAoIF8LNS1lW), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr) | [Hello Baby](https://open.spotify.com/album/0Oo45nYqPcyFfavoZEVN32) | 2:33 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

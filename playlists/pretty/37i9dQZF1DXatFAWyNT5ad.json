@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 138632,
+  "num_followers": 138702,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "All the Things I Hate About You",
         "url": "https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 195823,
       "name": "All the Things I Hate About You",
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 165799,
-      "name": "Bitter Sweet Love",
-      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "DIRT",
-        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "DIRT",
-      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Dead To Me",
         "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 157504,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "DIRT",
+      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "DO YOU LIKE ME?",
         "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 177808,
       "name": "DO YOU LIKE ME?",
       "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 187838,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Don't Call Me",
         "url": "https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 212414,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 187838,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/7IqIVuASgCnZ4q5e39KUDQ"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/6ZArwNtFh1a4204U7QexUa"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "City of Angels",
         "url": "https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 132053,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7IqIVuASgCnZ4q5e39KUDQ"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6ZArwNtFh1a4204U7QexUa"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "hurt like it should",
         "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
       },
@@ -1887,22 +1903,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Little Like Hell",
         "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
@@ -1915,6 +1915,22 @@
       "duration_ms": 187804,
       "name": "Little Like Hell",
       "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1935,22 +1951,6 @@
       "duration_ms": 159863,
       "name": "cheerleader (ft. Waterparks)",
       "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "u & the tin man",
-        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148602,
-      "name": "u & the tin man",
-      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Bittersweet 16",
         "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/0AOa1XIQ4vYjAv5uflTrMN"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "u & the tin man",
+        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148602,
+      "name": "u & the tin man",
+      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Sagittarius",
-        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Kickflip",
-      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 181580,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Sagittarius",
+        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Kickflip",
+      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 281644,
-      "name": "30 Somehow",
-      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
       },
@@ -2519,18 +2503,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
         }
       ],
-      "duration_ms": 186670,
-      "name": "Good Feeling About You",
-      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+      "duration_ms": 281644,
+      "name": "30 Somehow",
+      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2547,6 +2531,22 @@
       "duration_ms": 205933,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 186670,
+      "name": "Good Feeling About You",
+      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
     }
   ],
   "unique_name": "Pop Rock",

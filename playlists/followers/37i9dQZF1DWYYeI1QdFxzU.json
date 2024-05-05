@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 680823,
+  "2024-05-05": 680824,
   "date_first_scraped": "2022-05-26",
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
   "name": "The Wind Down",
@@ -2170,6 +2170,40 @@
     },
     {
       "album": {
+        "name": "RITUAL (evocation)",
+        "url": "https://open.spotify.com/album/4DLnLBvf6aKhABSsGMVpET"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
+        },
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        },
+        {
+          "name": "Cherif Hashizume",
+          "url": "https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351420,
+      "name": "RITUAL (evocation)",
+      "url": "https://open.spotify.com/track/1mtkcUtTvtscfzIlOmcPBW"
+    },
+    {
+      "album": {
         "name": "Graal (Prologue)",
         "url": "https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8"
       },
@@ -2735,7 +2769,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 91000,
       "name": "Unladder",
       "url": "https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC"

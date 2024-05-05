@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,233 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,238 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 20 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
 | 21 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
 | 22 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
-| 23 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
-| 24 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 |
+| 23 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 |
+| 24 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
 | 25 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
 | 26 | [Saudade daquilo](https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:58 |
 | 27 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |

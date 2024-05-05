@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 434291,
+  "num_followers": 434847,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "duration_ms": 101086,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
-      },
-      "artists": [
-        {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
-        }
-      ],
-      "duration_ms": 101086,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 290775,
-      "name": "Little Lover",
-      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "tidal wave",
         "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 290775,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 184300,
-      "name": "Life Is Suffering",
-      "url": "https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "In Heaven",
         "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 186159,
       "name": "Praying for July - Spotify Singles",
       "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 184300,
+      "name": "Life Is Suffering",
+      "url": "https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu"
     },
     {
       "added_at": "2024-04-05 04:00:00",

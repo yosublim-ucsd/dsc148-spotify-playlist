@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 68313,
+  "2024-05-05": 68318,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
   "name": "Top 50 - Czech Republic",
@@ -4089,7 +4089,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 165428,
       "name": "Cassiopea",
       "url": "https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB"
@@ -5441,7 +5441,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7107,6 +7107,24 @@
       "duration_ms": 188731,
       "name": "Etapy",
       "url": "https://open.spotify.com/track/274hSUsqFdt1qDqs3nu9E2"
+    },
+    {
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "album": {
@@ -10247,7 +10265,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -10341,7 +10359,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -10569,7 +10587,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 215171,
       "name": "Ibalgin",
       "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
@@ -13403,7 +13421,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -13545,7 +13563,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -15487,7 +15505,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/6nVEV8CIU4dw12oVZbKJtl"
@@ -20111,7 +20129,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 170275,
       "name": "Pr\u00e1zdno",
       "url": "https://open.spotify.com/track/4H4a8ICJEjhEr7Bsc27MDw"
@@ -26897,7 +26915,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 140326,
       "name": "Vitej",
       "url": "https://open.spotify.com/track/7EaJ7n3cuFmjtq2nLkRVrQ"
@@ -27743,7 +27761,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
-  "num_followers": 224815,
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "num_followers": 224854,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACrBmwc0CGPDXo6iBeSfD5K",
+  "snapshot_id": "ZjQpAAAAAAA1LEHxmtY50F5h2ZLia32x",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stilelibero",
         "url": "https://open.spotify.com/album/1T2L4oDjpkXixxar9oNwWm"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 251413,
       "name": "Pi\u00f9 che puoi (feat. Cher)",
       "url": "https://open.spotify.com/track/1PNEeTt2kEIWAzbkW2PeBW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Historias (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "F\u00e1bula - Remastered 2021",
+      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (Remastered 192 khz)",
-        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 277266,
-      "name": "F\u00e1bula - Remastered 2021",
-      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+      "duration_ms": 253053,
+      "name": "Una Historia Importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Una Historia Importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alas Y Raices",
+        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Dimelo a Mi",
+      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Y Raices",
-        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+        "name": "e2",
+        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 238640,
-      "name": "Dimelo a Mi",
-      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+      "duration_ms": 222240,
+      "name": "No Estamos Solos",
+      "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
     },
     {
       "added_at": null,
@@ -779,26 +799,6 @@
       "duration_ms": 271093,
       "name": "Un Angel No Es",
       "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "e2",
-        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "No Estamos Solos",
-      "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,467 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,531 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 3:00 |
 | 22 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 |
 | 23 | [Bêbado e Apaixonado](https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Bêbado e Apaixonado](https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd) | 2:55 |
-| 24 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
-| 25 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 24 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 25 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
 | 26 | [Quando a Chuva Passar](https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Memórias da Taty \- Parte 1](https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg) | 3:10 |
 | 27 | [Carrossel](https://open.spotify.com/track/0UdNZYAdu4OhGBwF8xjAej) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Carrossel](https://open.spotify.com/album/6HX2UuIXOHTMP5Wrijn1xo) | 2:47 |
 | 28 | [Medusa](https://open.spotify.com/track/0HK7bfg1m4bAQLR5B0wruC) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Medusa](https://open.spotify.com/album/3HcXOQpyZOzWFJXxd9rETo) | 2:42 |

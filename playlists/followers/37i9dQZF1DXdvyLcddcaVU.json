@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 518637,
+  "2024-05-05": 519293,
   "date_first_scraped": "2023-07-29",
   "description": "#fyp\n",
   "name": "t'as la ref ?",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 165506,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 241413,
       "name": "Apprends-moi !",
       "url": "https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 438857,
       "name": "Astronaute",
       "url": "https://open.spotify.com/track/4bodTYPSNBkMGyiGm7xxMF"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 207546,
       "name": "Babylone",
       "url": "https://open.spotify.com/track/2j494b1ZhXswDVorEIV5va"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -958,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Bomba Internationale",
+        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165402,
+      "name": "Bomba Internationale",
+      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
+    },
+    {
+      "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv"
       },
@@ -973,6 +991,28 @@
       "duration_ms": 178373,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
+    },
+    {
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "album": {
@@ -2048,6 +2088,24 @@
     },
     {
       "album": {
+        "name": "2.6.Z",
+        "url": "https://open.spotify.com/album/76EPcq3yFSKI4Y0gnTnnqW"
+      },
+      "artists": [
+        {
+          "name": "Lasco",
+          "url": "https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dimanche soir",
+      "url": "https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr"
+    },
+    {
+      "album": {
         "name": "Dingue de toi (Nabi-Nabilla)",
         "url": "https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW"
       },
@@ -2226,6 +2284,24 @@
     },
     {
       "album": {
+        "name": "Divinidylle",
+        "url": "https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "D\u00e8s que j'te vois",
+      "url": "https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8"
+    },
+    {
+      "album": {
         "name": "D\u00e9lit",
         "url": "https://open.spotify.com/album/7sKoDDg4cns52JOPb74TTW"
       },
@@ -2379,6 +2455,24 @@
       "duration_ms": 180025,
       "name": "Est-ce que tu regrettes ?",
       "url": "https://open.spotify.com/track/68QlpGOAApokhQ3wcRpGpO"
+    },
+    {
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "album": {
@@ -2899,7 +2993,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 205186,
       "name": "Guantanamera (She's Hot)",
       "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
@@ -2939,7 +3033,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 155448,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
@@ -2961,6 +3055,24 @@
       "duration_ms": 175370,
       "name": "Hess",
       "url": "https://open.spotify.com/track/4vaU4xiDGJvzFPT1x33tUn"
+    },
+    {
+      "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
     },
     {
       "album": {
@@ -3073,7 +3185,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
@@ -3127,7 +3239,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
@@ -3893,7 +4005,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 125994,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
@@ -4173,7 +4285,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -4463,7 +4575,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
@@ -4503,6 +4615,24 @@
       "duration_ms": 223141,
       "name": "Michael Jordan",
       "url": "https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "album": {
@@ -4699,7 +4829,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 195105,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR"
@@ -4800,6 +4930,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/54NfArLaY7lyO3x0D5G5RX"
+      },
+      "artists": [
+        {
+          "name": "Prinsess Jorge",
+          "url": "https://open.spotify.com/artist/6f2aOoKCFhLJLEJqZKyf7j"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr"
+    },
+    {
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -4833,7 +4981,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -5051,7 +5199,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178253,
       "name": "On ira",
       "url": "https://open.spotify.com/track/0O7j6n6xv3XtsqAqZw0nYM"
@@ -5167,7 +5315,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 179146,
       "name": "Paqueta",
       "url": "https://open.spotify.com/track/1MVFkoITWetg97ZJCrJV1I"
@@ -6469,7 +6617,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -6505,7 +6653,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 114626,
       "name": "Tacata",
       "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
@@ -6885,7 +7033,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
@@ -6965,6 +7113,24 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345186,
+      "name": "Veridis Quo",
+      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
       "album": {

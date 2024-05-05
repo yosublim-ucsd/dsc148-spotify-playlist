@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 111732,
+  "2024-05-05": 111755,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
   "name": "Top 50 - Hong Kong",
@@ -2701,6 +2701,24 @@
       "duration_ms": 210200,
       "name": "eternal sunshine",
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "album": {
@@ -6381,7 +6399,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"

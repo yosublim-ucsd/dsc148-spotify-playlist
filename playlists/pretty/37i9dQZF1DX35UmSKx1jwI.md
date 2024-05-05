@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,208 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,254 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 49 | [Fire \(with Elderbrook\)](https://open.spotify.com/track/5HFPK8mcO6BGPZNeZPZI5L) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Fire \(with Elderbrook\)](https://open.spotify.com/album/1T7yxksU7XWdi3qpW9eWYC) | 2:43 |
 | 50 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 51 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 52 | [Drive \(feat\. Delilah Montagu\) \- Edit](https://open.spotify.com/track/6X7PK2UQMUU36ux9pynSkV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive \(feat\. Delilah Montagu\)](https://open.spotify.com/album/3EDihmekkrp2FXfJiMAJlV) | 3:11 |
-| 53 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |
+| 52 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |
+| 53 | [Drive \(feat\. Delilah Montagu\) \- Edit](https://open.spotify.com/track/6X7PK2UQMUU36ux9pynSkV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive \(feat\. Delilah Montagu\)](https://open.spotify.com/album/3EDihmekkrp2FXfJiMAJlV) | 3:11 |
 | 54 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 | 55 | [Old Friend](https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:19 |
 | 56 | [Therapy](https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This Is Pedro Suárez\-Vértiz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,422 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,430 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 34 | [Déjame Vivir](https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:42 |
 | 35 | [Sed](https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 4:20 |
 | 36 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
-| 37 | [Túnel del Tiempo](https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:16 |
-| 38 | [Los Niños Se Enamoran](https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:24 |
+| 37 | [Los Niños Se Enamoran](https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:24 |
+| 38 | [Túnel del Tiempo](https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:16 |
 | 39 | [El Triunfo Tan Soñado](https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 4:22 |
 | 40 | [Amazonas](https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:56 |
 | 41 | [Mariló](https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 5:17 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 43 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 | 44 | [El Bailador](https://open.spotify.com/track/5Oz2k5OlgGNiB8O8flFdDG) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:33 |
 
-Snapshot ID: `ZjLXgAAAAABYg3ACz8gNKEbokihRXe0e`
+Snapshot ID: `ZjQpAAAAAACfB1E/1JrKqisaV5FPdMHK`

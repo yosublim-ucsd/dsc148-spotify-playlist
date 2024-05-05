@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 95429,
+  "num_followers": 95420,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-04-23 17:56:56",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2024-04-23 17:56:56",
+      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 190188,
       "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
-    },
-    {
-      "added_at": "2024-04-23 17:56:56",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
       "added_at": "2024-04-23 17:56:56",
@@ -768,17 +768,13 @@
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 221231,
-      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
-      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
+      "duration_ms": 200592,
+      "name": "Al\u00e9 (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
       "added_at": "2024-04-23 17:56:56",
@@ -936,13 +932,17 @@
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 200592,
-      "name": "Al\u00e9 (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
+      "duration_ms": 221231,
+      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
+      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
     },
     {
       "added_at": "2024-04-23 17:56:56",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-04-23 17:56:56",
       "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2024-04-23 17:56:56",
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
-    },
-    {
-      "added_at": "2024-04-23 17:56:56",
-      "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2024-04-23 17:56:56",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-04-23 17:56:56",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
-    },
-    {
-      "added_at": "2024-04-23 17:56:56",
-      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2024-04-23 17:56:56",
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
     },
     {
       "added_at": "2024-04-23 17:56:56",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-04-23 17:56:56",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2024-04-23 17:56:56",
+      "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2024-04-23 17:56:56",
-      "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2024-04-23 17:56:56",

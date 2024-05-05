@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,705 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,826 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
 | 2 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
 | 3 | [Made in India](https://open.spotify.com/track/6NVGAoLnJaooF97t8Kgs78) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:26 |
-| 4 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
+| 4 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 5 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 |
 | 6 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
 | 7 | [Ab Mujhe Raat Din](https://open.spotify.com/track/4y5mqhrI0tdYI4M3EFluxP) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:25 |

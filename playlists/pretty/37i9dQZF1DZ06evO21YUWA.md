@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 ### [This Is Harold Budd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA)
 
-> This is Harold Budd\. The essential tracks, all in one playlist.
+> This Is Harold Budd\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,051 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,054 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 31 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
 | 32 | [Arriving](https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:25 |
 | 33 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
-| 34 | [Arabesque 1 \- 2013 Remaster](https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:52 |
+| 34 | [Little Heart \- 2013 Remaster](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
 | 35 | [Nove Alberi](https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 6:00 |
-| 36 | [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 |
+| 36 | [Sunlit Silhouette](https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:15 |
 | 37 | [The Room Obscured](https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Room](https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq) | 1:03 |
-| 38 | [Little Heart \- 2013 Remaster](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
+| 38 | [Arabesque 1 \- 2013 Remaster](https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:52 |
 | 39 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
-| 40 | [Sunlit Silhouette](https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:15 |
+| 40 | [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 |
 | 41 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
 | 42 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
 | 43 | [Rub With Ashes](https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:02 |
 | 44 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 |
-| 45 | [The Panther of Small Favors](https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:17 |
+| 45 | [She is My Weakness](https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 3:41 |
 | 46 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
-| 47 | [She is My Weakness](https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 3:41 |
+| 47 | [The Panther of Small Favors](https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:17 |
 | 48 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
 | 49 | [Avenue of Shapes](https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:27 |
 
-Snapshot ID: `ZjLXgAAAAAAFyr5FzJW7uZcTUX3DuvFD`
+Snapshot ID: `ZjQpAAAAAAAtChDNf8EQCRs+HGPInHQC`

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 602487,
+  "num_followers": 602556,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAwx9JcK8hMNY9WnLUnZNi5",
+  "snapshot_id": "ZjQpAAAAAACSVS7kk/3Zi8otmF4UbICE",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Like I Never Left (feat. Akon)",
-      "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+      "duration_ms": 255733,
+      "name": "One Of Those Days",
+      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 255733,
-      "name": "One Of Those Days",
-      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
+      "duration_ms": 229733,
+      "name": "Like I Never Left (feat. Akon)",
+      "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
       "duration_ms": 298106,
       "name": "Same Script, Different Cast",
       "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 248266,
       "name": "Call You Tonight",
       "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,

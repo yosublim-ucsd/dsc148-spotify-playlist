@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 ### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is Pantera\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,332 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,392 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [Hole in the Sky \- 2003 Remaster](https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 4:16 |
 | 40 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 
-Snapshot ID: `ZjLXgAAAAADDGUTOAwALBmxDpDjVazPK`
+Snapshot ID: `ZjQpAAAAAADKFPjTByBJkwWoz0DHYFR9`

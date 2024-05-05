@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 258053,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap"
@@ -1114,6 +1114,28 @@
       "duration_ms": 222684,
       "name": "INEEDYOURLOVE",
       "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
+    },
+    {
+      "album": {
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     },
     {
       "album": {

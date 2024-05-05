@@ -2,9 +2,9 @@
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This Is Kaliii\. Los temas esenciales, todos en una lista.
+> This is Kaliii\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 28 min
+73 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 | 2024-02-10 |  |
 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/0QZvDwAKRuOXMnjIWfiJUf) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 | 2023-11-10 |  |
 | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw) | 2:33 | 2023-06-07 |  |
+| [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:40 | 2024-05-05 |  |
 | [Dan Živih Mrtvaca](https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Djubre](https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Svetište Svinja](https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m) | 4:35 | 2023-06-07 |  |
 | [Do A Bitch](https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:44 | 2023-06-07 |  |
 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 | 2023-06-23 |  |
@@ -54,7 +55,7 @@
 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 | 2023-06-07 |  |
 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 | 2023-12-13 |  |
 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 | 2023-06-07 |  |
-| [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 | 2023-06-07 |  |
+| [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 | 2023-06-07 | 2024-05-05 |
 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 | 2023-06-07 |  |
 | [Rockers Step Like Kelly](https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 2:58 | 2023-12-15 |  |
 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 | 2024-02-24 |  |

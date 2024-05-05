@@ -2,9 +2,9 @@
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This Is Carin Leon\. Los temas esenciales, todos en una lista.
+> This is Carin Leon\. The essential tracks, all in one playlist.
 
-139 songs - 7 hr 23 min
+140 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 | 2023-08-25 |  |
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2023-08-25 |  |
 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 | 2022-06-01 | 2023-08-26 |
+| [Buenos Tiempos](https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Buenos Tiempos](https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV) | 3:48 | 2024-05-05 |  |
 | [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 | 2022-06-01 | 2023-05-23 |
 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 | 2022-06-01 | 2022-12-13 |
 | [Como Duele Equivocarse](https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo) | 3:46 | 2022-12-12 | 2023-02-15 |

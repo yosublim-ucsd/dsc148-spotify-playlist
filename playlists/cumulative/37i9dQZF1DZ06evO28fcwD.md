@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-141 songs - 9 hr 23 min
+142 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Paulina](https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:45 | 2021-12-29 | 2023-05-06 |
 | [Peace Train/Isitimela Sokuthula](https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:40 | 2021-12-28 |  |
 | [People Get Ready](https://open.spotify.com/track/59eUyVQKwDYI92CQFfo1q4) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:56 | 2021-12-31 | 2022-05-27 |
-| [Possessed](https://open.spotify.com/track/5hKWoCiXC0GFy1KyjilzJl) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Machelements, Vol\. 1](https://open.spotify.com/album/6O45a6NvnI5hj8rO0GXppx) | 3:57 | 2023-12-13 |  |
+| [Possessed](https://open.spotify.com/track/5hKWoCiXC0GFy1KyjilzJl) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Machelements, Vol\. 1](https://open.spotify.com/album/6O45a6NvnI5hj8rO0GXppx) | 3:57 | 2023-12-13 | 2024-05-05 |
 | [Possessed \(feat\. Kerwin Du Bois & Ladysmith Black Mambazo\)](https://open.spotify.com/track/2DrPhYull6fT49DUOdEbyw) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Machelements \(Volume 1\)](https://open.spotify.com/album/5swDuO84IPdgpn4dzAmTIJ) | 3:57 | 2021-12-28 | 2023-11-11 |
 | [Rise Again](https://open.spotify.com/track/4NGzRGPN0ePqxFm5j1csXJ) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phendula](https://open.spotify.com/album/1M6DsrTxbMkYOv9dEI2X3G) | 4:07 | 2023-03-20 |  |
 | [River Of Dreams](https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5Wjx5HcyrsiR9eFe6Q8bUU) | 5:31 | 2021-12-28 | 2022-10-13 |
@@ -121,6 +121,7 @@
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/1xqIZGxTRGVp5ZTpdU4d7J) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:52 | 2021-12-28 | 2022-10-11 |
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/5BujScz3tYp115DoioZUCs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:52 | 2022-10-24 |  |
 | [Swing Low Sweet Chariot](https://open.spotify.com/track/5eTQdyKwV5KJCK1yuBmVOX) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:52 | 2022-10-10 | 2022-10-24 |
+| [Thandiwe Wami](https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Isitimela](https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK) | 4:00 | 2024-05-05 |  |
 | [There Come Our Mothers](https://open.spotify.com/track/1KRI6lKwEbd6u410wkagfv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Travels: World Music For Kids](https://open.spotify.com/album/11RNYbvO9tW4SDpzjGD3lT) | 2:06 | 2023-05-19 | 2023-05-26 |
 | [This Little Light of Mine \(Bonus Track\)](https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu Revisited: 30th Anniversary Celebration](https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X) | 3:41 | 2021-12-28 |  |
 | [This Town](https://open.spotify.com/track/4JJct5QXjrrAVw05RN5oQt) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:53 | 2022-09-10 |  |

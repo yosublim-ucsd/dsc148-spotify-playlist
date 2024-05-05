@@ -2,7 +2,7 @@
 
 ### [This Is Cassiane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40KrGE)
 
-> This is Cassiane\. The essential tracks, all in one playlist.
+> This is Cassiane\. Todos os maiores hits em uma só playlist.
 
 62 songs - 5 hr 18 min
 
@@ -12,12 +12,12 @@
 | [A Alma Abatida](https://open.spotify.com/track/512xriilWCODMzkyhFaR4O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:07 | 2024-02-10 |  |
 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 | 2023-07-09 |  |
 | [Amigo Espírito Santo](https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Ao Som dos Louvores](https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU) | 5:13 | 2023-07-09 |  |
-| [Ao Estrugir a Trombeta](https://open.spotify.com/track/0V3gGGIw36rS8vjVyicDLw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:09 | 2023-07-09 | 2023-11-11 |
+| [Ao Estrugir a Trombeta](https://open.spotify.com/track/0V3gGGIw36rS8vjVyicDLw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:09 | 2023-07-09 |  |
 | [Basta Uma Palavra](https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:35 | 2023-07-09 |  |
 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 | 2023-07-09 | 2023-09-16 |
 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 | 2023-07-09 |  |
-| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 |  |
+| [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 | 2024-05-05 |
 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 | 2024-05-03 |  |
 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 | 2023-07-09 |  |
 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 | 2024-01-22 |  |

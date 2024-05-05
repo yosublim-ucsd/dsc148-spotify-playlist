@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1970811,
+  "2024-05-05": 1971076,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -5137,7 +5137,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 123000,
       "name": "Careless",
       "url": "https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T"
@@ -5419,7 +5419,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 97500,
       "name": "chapter one",
       "url": "https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn"
@@ -6073,7 +6073,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 136230,
       "name": "Cloud Castle",
       "url": "https://open.spotify.com/track/3qJTcQgiZq1Yzg8kYwHpfC"
@@ -21335,6 +21335,24 @@
       "duration_ms": 95858,
       "name": "Neon Vision",
       "url": "https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna"
+    },
+    {
+      "album": {
+        "name": "Netflix & Chill",
+        "url": "https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv"
+      },
+      "artists": [
+        {
+          "name": "Tama",
+          "url": "https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141433,
+      "name": "Netflix & Chill",
+      "url": "https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9"
     },
     {
       "album": {

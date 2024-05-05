@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,532 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,529 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 63 | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/track/0so3FrbwEKDuagdoxUovAs) | [ANDALUZ](https://open.spotify.com/artist/5p8YPBQTHFW5PRl5B1C4QF) | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/album/3NnUzyLpvcvazOd6RYG455) | 2:22 |
 | 64 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |
 | 65 | [California](https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:10 |
-| 66 | [Self\-Esteem](https://open.spotify.com/track/7oMQBs40QK1wQ3dI4pc29Q) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash \(2008 Remaster\)](https://open.spotify.com/album/6xkuVd7iJcSSJamThkWY0p) | 4:17 |
-| 67 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
+| 66 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
+| 67 | [Self\-Esteem](https://open.spotify.com/track/7oMQBs40QK1wQ3dI4pc29Q) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash \(2008 Remaster\)](https://open.spotify.com/album/6xkuVd7iJcSSJamThkWY0p) | 4:17 |
 | 68 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
 | 69 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
 | 70 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |

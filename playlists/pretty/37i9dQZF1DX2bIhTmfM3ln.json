@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 33956,
+  "num_followers": 34006,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -59,7 +59,7 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Vision (Remix)",
+        "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
@@ -73,7 +73,7 @@
         }
       ],
       "duration_ms": 166000,
-      "name": "Vision - Remix",
+      "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
@@ -283,6 +283,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Wahala (feat. Olamide)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Wahala (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -307,42 +327,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Wahala (feat. Olamide)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Wahala (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 160885,
       "name": "Ilashe",
       "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 146000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 221242,
-      "name": "Mistaken",
-      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -931,18 +907,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
+      "duration_ms": 221242,
+      "name": "Mistaken",
+      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -959,6 +943,22 @@
       "duration_ms": 161632,
       "name": "Bucket List",
       "url": "https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Mumu",
         "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 148651,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Love Testament",
         "url": "https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 156226,
       "name": "Carry Am Go",
       "url": "https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 148651,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         }
       ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+      "duration_ms": 183652,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1"
     }
   ],
   "unique_name": "Lovin' Beats",

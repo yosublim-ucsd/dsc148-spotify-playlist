@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 0,
+  "2024-05-05": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -331,7 +331,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 255360,
       "name": "A Song For The Hopeless",
       "url": "https://open.spotify.com/track/1CnlE8WnbWMpvHKMZGarUG"
@@ -353,6 +353,24 @@
       "duration_ms": 199920,
       "name": "A Vampires Lament",
       "url": "https://open.spotify.com/track/3yxCQVbZWTEiHQVuRKL4y7"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37506,
+      "name": "A.N.I.C.",
+      "url": "https://open.spotify.com/track/0bSjMn6rAMbN1yRlHloBHO"
     },
     {
       "album": {
@@ -573,7 +591,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 257120,
       "name": "Bark at the Moon",
       "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 248560,
       "name": "Canci\u00f3n de Lejos",
       "url": "https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158896,
       "name": "Don't Ask",
       "url": "https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI"
@@ -3477,6 +3495,24 @@
       "duration_ms": 264960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/0AJb1Y223Ao47JCDeAUO0z"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Classic Rock",
+        "url": "https://open.spotify.com/album/6BfFctwh6EnS2IYH0ekIez"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292426,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/4Z7jIUqocfVg9CDYXq0QPL"
     },
     {
       "album": {
@@ -4573,7 +4609,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 70367,
       "name": "FLINSKY",
       "url": "https://open.spotify.com/track/6AJMc5INWfrIhsGugFx1tV"
@@ -5124,6 +5160,24 @@
     },
     {
       "album": {
+        "name": "The Essential Korn",
+        "url": "https://open.spotify.com/album/7gVPfb2pdaMabA3GCiDbRF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246480,
+      "name": "Got the Life - Live at CBGB",
+      "url": "https://open.spotify.com/track/4yj7D1eec9WJQ13NHR9Unl"
+    },
+    {
+      "album": {
         "name": "Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
       },
@@ -5474,6 +5528,24 @@
     },
     {
       "album": {
+        "name": "Madness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gJN6hs310GViezelywxdu"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215697,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/4dq223vwGSqVPhgW7mU9ui"
+    },
+    {
+      "album": {
         "name": "Stand Up And Scream",
         "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
       },
@@ -5485,7 +5557,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 249800,
       "name": "Hey There Mr. Brooks",
       "url": "https://open.spotify.com/track/6dzgSgf7jNysk0m37mrQq0"
@@ -5561,6 +5633,24 @@
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "album": {
+        "name": "Frozen Inside",
+        "url": "https://open.spotify.com/album/3neHOYUjR0qK4bETHFvBTF"
+      },
+      "artists": [
+        {
+          "name": "HB",
+          "url": "https://open.spotify.com/artist/3b1eXoRLlTzS9yDgUPk5SH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350560,
+      "name": "Holy Secret",
+      "url": "https://open.spotify.com/track/7hPr0QsPxswDGQQe6C2PzH"
     },
     {
       "album": {
@@ -7378,6 +7468,24 @@
     },
     {
       "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301506,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN"
+    },
+    {
+      "album": {
         "name": "Killswitch Engage (Special Edition)",
         "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
       },
@@ -7569,7 +7677,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 248186,
       "name": "Lullaby - Remastered",
       "url": "https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE"
@@ -9343,7 +9451,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
@@ -10869,7 +10977,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167026,
       "name": "Seven Seas Of Rhye - Remastered 2011",
       "url": "https://open.spotify.com/track/5u99eyhU43QoLeXXG6caoL"
@@ -11226,6 +11334,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts (Vol. 2 / 1977-1982)",
+        "url": "https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Sleeping On The Sidewalk - Remastered 2011",
+      "url": "https://open.spotify.com/track/3g1cVfFh6bJMB4z69jxONP"
+    },
+    {
+      "album": {
         "name": "Black Sabbath (Remastered)",
         "url": "https://open.spotify.com/album/3kloiihScLGVQVI1uHvdsd"
       },
@@ -11460,6 +11586,24 @@
     },
     {
       "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/0fTnGyrD3rUawLknAHeV48"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/1AMYzC40LrOioafPGZkAkj"
+    },
+    {
+      "album": {
         "name": "Deep Purple: Deepest Purple (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4sdsjamPAsRT2dTuyCohnA"
       },
@@ -11627,6 +11771,24 @@
       "duration_ms": 228880,
       "name": "Still They Ride",
       "url": "https://open.spotify.com/track/3vq7ivsBg3GcvPOxRxvasu"
+    },
+    {
+      "album": {
+        "name": "Stink Eye (My Joy Is Irrational)",
+        "url": "https://open.spotify.com/album/0RvicVdcKl1eIrAtvCL3XV"
+      },
+      "artists": [
+        {
+          "name": "Indoor Pets",
+          "url": "https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219148,
+      "name": "Stink Eye (My Joy Is Irrational)",
+      "url": "https://open.spotify.com/track/5f7t5oVwjqgCZtZvfbaKBs"
     },
     {
       "album": {
@@ -12705,7 +12867,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 249666,
       "name": "The Logical Song",
       "url": "https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v"
@@ -12799,6 +12961,24 @@
       "duration_ms": 433423,
       "name": "The Obsessive Devotion",
       "url": "https://open.spotify.com/track/1dUsPb4e9L4BxED5fG2Uis"
+    },
+    {
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248706,
+      "name": "The Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe"
     },
     {
       "album": {
@@ -13459,7 +13639,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 310960,
       "name": "Twenty First Century Boy",
       "url": "https://open.spotify.com/track/4FxiAllpIaZMFIKHdAROWH"
@@ -13481,6 +13661,24 @@
       "duration_ms": 229013,
       "name": "Tyrant",
       "url": "https://open.spotify.com/track/41cySzFF8LIngCxYqvplnK"
+    },
+    {
+      "album": {
+        "name": "ugh!",
+        "url": "https://open.spotify.com/album/0gofQzxwNiYSgj0qt4TCYr"
+      },
+      "artists": [
+        {
+          "name": "judith",
+          "url": "https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118733,
+      "name": "ugh!",
+      "url": "https://open.spotify.com/track/3CHJC8N9seH3rjVhwGvkSW"
     },
     {
       "album": {
@@ -14801,7 +14999,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 233840,
       "name": "Your Way With Words Is Through Silence",
       "url": "https://open.spotify.com/track/1sfYgIFEvgWAFsSnbiBKxr"

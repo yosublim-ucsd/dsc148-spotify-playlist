@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 447917,
+  "num_followers": 447874,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 143413,
-      "name": "Hall & Oates",
-      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Boys In Blue / H.A.N.G",
         "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 148466,
       "name": "Boys In Blue",
       "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 143413,
+      "name": "Hall & Oates",
+      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Ultrasound",
-      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "DUST OFF / START AGAIN",
         "url": "https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 208218,
       "name": "Pressure Pad",
       "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Tom in 03",
-        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
-      },
-      "artists": [
-        {
-          "name": "Misplaced",
-          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
-        },
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 141671,
-      "name": "Tom in 03",
-      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/4CTR4308FLv0J234RjREIl"
       },
@@ -1131,38 +1111,6 @@
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Des Goblin (Edit)",
-        "url": "https://open.spotify.com/album/1RE8zs1HxegPITQLiAPp9B"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 211558,
-      "name": "Des Goblin - Edit",
-      "url": "https://open.spotify.com/track/5hgoMYZSEvTMX2ZhtUIi6m"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1183,6 +1131,42 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Tom in 03",
+        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 141671,
+      "name": "Tom in 03",
+      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Intermittent Fast Living",
         "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198000,
       "name": "Fingernails",
       "url": "https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Des Goblin (Edit)",
+        "url": "https://open.spotify.com/album/1RE8zs1HxegPITQLiAPp9B"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 211558,
+      "name": "Des Goblin - Edit",
+      "url": "https://open.spotify.com/track/5hgoMYZSEvTMX2ZhtUIi6m"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Intermittent Fast Living",
+        "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
+      },
+      "artists": [
+        {
+          "name": "PET NEEDS",
+          "url": "https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Separation Anxiety",
+      "url": "https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Private Public Transport",
         "url": "https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "Nausea",
-      "url": "https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Big Pharma",
         "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 166314,
       "name": "Big Pharma",
       "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     }
   ],
   "unique_name": "The Punk List",

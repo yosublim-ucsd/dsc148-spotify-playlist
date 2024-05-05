@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 04 MAY",
+  "name": "NEW SINGLES RELEASES | UPDATED 05 MAY",
   "tracks": [
     {
       "album": {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 208919,
       "name": "Beautiful & Broken",
       "url": "https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9"
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/2rvNgaRCFs4iMNGTVtAYB5"
+      },
+      "artists": [
+        {
+          "name": "Flagman",
+          "url": "https://open.spotify.com/artist/2s4ixju6OxdIPwJiCbG3Nl"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138322,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/4s1VoWwgmm4YVQnPC1Y0xG"
+    },
+    {
+      "album": {
         "name": "Botoxxx",
         "url": "https://open.spotify.com/album/4yuhs9GqdOJxBcm1f22ZAZ"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 263942,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 117251,
       "name": "BULLY",
       "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 184929,
       "name": "ENGINE (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 180209,
       "name": "Every Little Thing I Say I Do",
       "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
@@ -884,6 +902,24 @@
       "duration_ms": 210229,
       "name": "EXIT 9 - with Blxst and Offset",
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
+    },
+    {
+      "album": {
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/7bH39Zpsu3XwyTSnZ36nmk"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/5GwlXi6YhxFM3wspppMAv5"
     },
     {
       "album": {
@@ -1219,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "I I I",
+        "url": "https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs"
+      },
+      "artists": [
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        },
+        {
+          "name": "Kobo Kanaeru",
+          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185876,
+      "name": "I I I",
+      "url": "https://open.spotify.com/track/0p5JKxO0pVynWVcWm3lMiP"
+    },
+    {
+      "album": {
         "name": "I Was Made For Lovin' You (from The Fall Guy)",
         "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
       },
@@ -1346,7 +1404,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
@@ -1368,6 +1426,24 @@
       "duration_ms": 176132,
       "name": "Lady Killers III",
       "url": "https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR"
+    },
+    {
+      "album": {
+        "name": "Lady Stardust (Alternative Version - Take 1)",
+        "url": "https://open.spotify.com/album/59ZyeJB3fDJu35cfRK0Bbm"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207131,
+      "name": "Lady Stardust - Alternative Version - Take 1",
+      "url": "https://open.spotify.com/track/6D4DDG0bTiCaC4x8EBvkSi"
     },
     {
       "album": {
@@ -1584,7 +1660,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
@@ -1664,6 +1740,32 @@
       "duration_ms": 340248,
       "name": "Oh France",
       "url": "https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW"
+    },
+    {
+      "album": {
+        "name": "Outta Pocket",
+        "url": "https://open.spotify.com/album/1tAqAkfzPyObLDw7SB5AiG"
+      },
+      "artists": [
+        {
+          "name": "Yung Oogway",
+          "url": "https://open.spotify.com/artist/5A5NJ5KyZtwBOvpmSM6VjQ"
+        },
+        {
+          "name": "Master Oogway",
+          "url": "https://open.spotify.com/artist/2opKsUNsav4ZAMYQt5KF3C"
+        },
+        {
+          "name": "manlikeisaac",
+          "url": "https://open.spotify.com/artist/6Zrb6rpCrSwC2MMSI5OZvf"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131231,
+      "name": "Outta Pocket",
+      "url": "https://open.spotify.com/track/6NEaH3J6X4G93qq8od3wGB"
     },
     {
       "album": {
@@ -1812,7 +1914,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 179015,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
@@ -1934,6 +2036,32 @@
       "duration_ms": 268741,
       "name": "Scarlet - Acoustic",
       "url": "https://open.spotify.com/track/1E91dH31Zu8LBfIOCZUvc1"
+    },
+    {
+      "album": {
+        "name": "Show My Love",
+        "url": "https://open.spotify.com/album/7pIu9h2ynbzntidblgFSHZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Show My Love",
+      "url": "https://open.spotify.com/track/4IlZc2pTaBy3KS0CDQ2Y3l"
     },
     {
       "album": {
@@ -2249,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "album": {
         "name": "TODAY",
         "url": "https://open.spotify.com/album/6LNV1NLfEHoncgRDkrxrF6"
       },
@@ -2368,14 +2514,14 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 189500,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/5ySfUdHpeoAgw8rXOoTlLz"
     },
     {
       "album": {
-        "name": "Vision (Remix)",
+        "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
@@ -2392,7 +2538,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166000,
-      "name": "Vision - Remix",
+      "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
@@ -2445,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "What to raise [Shin Kawasaki (Temporary)]",
+        "url": "https://open.spotify.com/album/1JQmy3IFC5OWpYdoz2Ncuy"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "What to raise - Shin Kawasaki (Temporary)",
+      "url": "https://open.spotify.com/track/4jgxQqykuLScJAmqUvpfaZ"
+    },
+    {
+      "album": {
         "name": "Whatsapp (Wassam)",
         "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
       },
@@ -2482,6 +2646,24 @@
       "duration_ms": 194134,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/1hxq7lHM4cPGH70z3uoBp8"
+    },
+    {
+      "album": {
+        "name": "Where That Came From",
+        "url": "https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191920,
+      "name": "Where That Came From",
+      "url": "https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd"
     },
     {
       "album": {

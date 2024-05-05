@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 758917,
+  "2024-05-05": 758975,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 219146,
       "name": "Adonis - feat. KIRBY",
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
@@ -1371,6 +1371,28 @@
     {
       "album": {
         "name": "Chasing",
+        "url": "https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff"
+      },
+      "artists": [
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181970,
+      "name": "Chasing",
+      "url": "https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR"
+    },
+    {
+      "album": {
+        "name": "Chasing",
         "url": "https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07"
       },
       "artists": [
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 125706,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 201497,
       "name": "Come Inside",
       "url": "https://open.spotify.com/track/4AcJVooOCZexEq1INGT6wP"
@@ -6239,7 +6261,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 234144,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
@@ -7496,6 +7518,24 @@
     },
     {
       "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246582,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF"
+    },
+    {
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/231tFVqfkebvdFqg1fjyB4"
       },
@@ -7769,6 +7809,24 @@
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/6WlivRKfQyk9vLeG8ljV3R"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252809,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
     },
     {
       "album": {
@@ -8671,6 +8729,24 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
+    },
+    {
+      "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 352422,
+  "num_followers": 352463,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-04-24 06:24:32",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2024-04-24 06:24:32",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 169866,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
-    },
-    {
-      "added_at": "2024-04-24 06:24:32",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2024-04-24 06:24:32",

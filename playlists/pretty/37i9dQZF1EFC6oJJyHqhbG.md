@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228 likes - 122 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 122 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 56 | [Daddy Like](https://open.spotify.com/track/7B09gC8k5Srx20Gj3UHrYq) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 2:55 |
 | 57 | [Hello](https://open.spotify.com/track/61g8o9dedhQo4Ik97QIVir) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 2:59 |
 | 58 | [On Your Side](https://open.spotify.com/track/656cRvXoLSQZWQ2FrzOCcD) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [WHITE](https://open.spotify.com/album/5pLjsnW9X7xn7cZCpMQnQd) | 5:40 |
-| 59 | [Heatwave](https://open.spotify.com/track/4UwjjWMRFYjUS0o0ybwlSF) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Heatwave](https://open.spotify.com/album/4HjXa31M73p243xdHqa4oB) | 3:48 |
-| 60 | [The Other Side](https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:47 |
+| 59 | [The Other Side](https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:47 |
+| 60 | [Heatwave](https://open.spotify.com/track/4UwjjWMRFYjUS0o0ybwlSF) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Heatwave](https://open.spotify.com/album/4HjXa31M73p243xdHqa4oB) | 3:48 |
 | 61 | [Alone](https://open.spotify.com/track/7Kmcb8CKVtZJVIuTcirYAz) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:01 |
 | 62 | [Thanks For Nothing](https://open.spotify.com/track/16xdlfTG9qkGYtrewla55U) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 2:50 |
 | 63 | [Un Love Me](https://open.spotify.com/track/4OoMl6NlkSlaeomEAoJGkM) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:12 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 68 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 |
 | 69 | [Thunder](https://open.spotify.com/track/1VmDBPdBgGfqCqcCmat15J) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Songs](https://open.spotify.com/album/2BrRKRD0BIpickQdiZAS5i) | 3:50 |
 | 70 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 |
-| 71 | [Hit Me Up \- From "Jem And The Holograms" Soundtrack](https://open.spotify.com/track/4u6drCuARg5ZwD5rl6sFrM) | [Jem and the Holograms](https://open.spotify.com/artist/7HY5Pq3S3lk3y5YfpKTIAL), [Stefanie Scott](https://open.spotify.com/artist/2FYOI01brbNN7gtT58DElr) | [Jem And The Holograms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tTLJCkq4iv578yMmHiosv) | 3:36 |
-| 72 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 71 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 72 | [Hit Me Up \- From "Jem And The Holograms" Soundtrack](https://open.spotify.com/track/4u6drCuARg5ZwD5rl6sFrM) | [Jem and the Holograms](https://open.spotify.com/artist/7HY5Pq3S3lk3y5YfpKTIAL), [Stefanie Scott](https://open.spotify.com/artist/2FYOI01brbNN7gtT58DElr) | [Jem And The Holograms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tTLJCkq4iv578yMmHiosv) | 3:36 |
 | 73 | [Light Me Up](https://open.spotify.com/track/7q6HP7HcSGtKjitPKYbKoR) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Light Me Up](https://open.spotify.com/album/7IrJIKRzxLEJDIqg9I4l5z) | 3:37 |
 | 74 | [Sleepwalker](https://open.spotify.com/track/0XjudwHx3iUrMlw52Lty59) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Sleepwalker](https://open.spotify.com/album/6lXSuoJYZwMaEdhATRzdw6) | 4:01 |
 | 75 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 88 | [American Youth French Kissing](https://open.spotify.com/track/1kmSbT5S418UVfpxGyMGR0) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [American Youth French Kissing](https://open.spotify.com/album/0TuDB51EX2AACnUfcfyulA) | 3:46 |
 | 89 | [Loco \(House Party\)](https://open.spotify.com/track/2bKE2Eebfh3uZm1KA75DEj) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 |
 | 90 | [Long Distance](https://open.spotify.com/track/3xd8hdab4Y2NqhhZmJhuCv) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Long Distance](https://open.spotify.com/album/2R03toQwJHDzU2Cjx7mcAd) | 3:49 |
-| 91 | [Somebody](https://open.spotify.com/track/21vmrfqQVLshCPWi0gacua) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:12 |
-| 92 | [Bad Girls Go to Heaven](https://open.spotify.com/track/0q74Fu3U8tjtm8oB1J4Ssq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Bad Girls Go to Heaven](https://open.spotify.com/album/78LxQKn0fS0wPQtK2LjGmP) | 2:53 |
+| 91 | [Bad Girls Go to Heaven](https://open.spotify.com/track/0q74Fu3U8tjtm8oB1J4Ssq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Bad Girls Go to Heaven](https://open.spotify.com/album/78LxQKn0fS0wPQtK2LjGmP) | 2:53 |
+| 92 | [Somebody](https://open.spotify.com/track/21vmrfqQVLshCPWi0gacua) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:12 |
 | 93 | [Thanks For Nothing](https://open.spotify.com/track/6iYA5flh8NteUV5bha09x2) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Joy](https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu) | 3:17 |
 | 94 | [Mad Mad World](https://open.spotify.com/track/7dHWQyP9o3JoZK8FLYqt9b) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Mad Mad World](https://open.spotify.com/album/0FMnyy6VTNMgtOzTJbIfQV) | 3:25 |
 | 95 | [Tanlines](https://open.spotify.com/track/4rVEiGcyZDFK49J4N8zbgr) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:45 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 121 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 122 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbQYKAAAAAAQNugCDcT7zvwJfjSqaiVO`
+Snapshot ID: `AbQecgAAAAACIvUjYwR2JkHGCuO34l/O`

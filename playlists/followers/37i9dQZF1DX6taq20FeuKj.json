@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2104000,
+  "2024-05-05": 2104049,
   "date_first_scraped": "2021-12-21",
   "description": "Get your gaming session going with this epic rap mix.",
   "name": "Power Gaming",
@@ -5896,6 +5896,24 @@
     },
     {
       "album": {
+        "name": "MM...FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+    },
+    {
+      "album": {
         "name": "Onna Come Up (feat. G Herbo) [Remix]",
         "url": "https://open.spotify.com/album/68E8KEIn6CawoxJetxyYRl"
       },
@@ -8357,7 +8375,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169344,
       "name": "Transportin'",
       "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"

@@ -4,7 +4,7 @@
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 17 min
+58 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,10 @@
 | [Miss Me](https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:58 | 2023-11-10 |  |
 | [MONEY ON ME](https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:23 | 2023-11-10 |  |
 | [Need Me](https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:20 | 2024-04-22 |  |
+| [Never Last](https://open.spotify.com/track/54KWlvEf7t2MJktwweWU23) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:21 | 2024-05-05 |  |
 | [NEVER LEFT](https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:48 | 2023-11-10 |  |
 | [NO DISCUSSION](https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 1:45 | 2023-11-10 |  |
+| [Number 2](https://open.spotify.com/track/4Ff5nIy2mlsnJa3mVlwSXD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/4Ge3zV3XBbEcfAXmW0Rbhc) | 2:17 | 2024-05-05 |  |
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2023-11-10 |  |
 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:33 | 2023-11-10 |  |
 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 | 2023-11-10 |  |

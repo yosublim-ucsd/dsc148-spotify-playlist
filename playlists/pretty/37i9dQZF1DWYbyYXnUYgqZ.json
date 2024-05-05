@@ -1,6 +1,6 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: LE SSERAFIM)",
-  "num_followers": 99909,
+  "num_followers": 99958,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2024-04-19 10:08:26",
+      "album": {
         "name": "Standing Next to You (USHER Remix)",
         "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (USHER Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
-    },
-    {
-      "added_at": "2024-04-19 10:08:26",
-      "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2024-04-19 10:08:26",
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2024-04-19 10:08:26",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1175,26 +1183,18 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "All Night (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 197763,
-      "name": "All Night (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+        "name": "All Night (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
       },
       "artists": [
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+      "duration_ms": 197763,
+      "name": "All Night (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2024-04-19 10:08:26",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2024-04-19 10:08:26",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
       "added_at": "2024-04-19 10:08:26",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
+        "name": "One-reeler / Act IV",
+        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
+    },
+    {
+      "added_at": "2024-04-19 10:08:26",
+      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "One-reeler / Act IV",
-        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2024-04-19 10:08:26",
-      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-04-19 10:08:26",
       "album": {
-        "name": "Beatbox - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 205133,
-      "name": "Beatbox",
-      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     }
   ],
   "unique_name": "K-Pop Gaming",

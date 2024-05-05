@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-373 songs - 22 hr 31 min
+374 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-03-29 |  |
 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 | 2022-02-14 | 2022-12-28 |
 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Neeka](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 | 2022-02-14 | 2022-07-29 |
-| [For You](https://open.spotify.com/track/5mfl2mpVEyZLXk2E52rpp4) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [For You](https://open.spotify.com/album/5alUzHwGQJOM883xkWTm8C) | 3:30 | 2024-03-08 |  |
+| [For You](https://open.spotify.com/track/5mfl2mpVEyZLXk2E52rpp4) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [For You](https://open.spotify.com/album/5alUzHwGQJOM883xkWTm8C) | 3:30 | 2024-03-08 | 2024-05-05 |
 | [Forbidden](https://open.spotify.com/track/0D34YQPdyGB3GW8xPuJ9F0) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [Placebo](https://open.spotify.com/album/648eBgLckKiA1OSLtOsehV) | 3:57 | 2022-02-14 | 2022-07-29 |
 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 | 2024-05-03 |  |
 | [Friends](https://open.spotify.com/track/18RdChpgvaAO7GXDjLks2B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 2:58 | 2022-02-14 | 2022-12-28 |
@@ -353,6 +353,7 @@
 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 | 2023-03-24 |  |
 | [Us](https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq) | 3:03 | 2023-06-16 | 2024-04-19 |
 | [Us](https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh) | 3:03 | 2022-02-14 | 2023-09-02 |
+| [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 |  |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-04-26 |  |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-03-08 |  |
 | [Washed in You](https://open.spotify.com/track/5yIQxg2ESpbzsQZPTHNhZi) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:15 | 2022-12-28 | 2023-01-11 |

@@ -51071,6 +51071,24 @@
     },
     {
       "album": {
+        "name": "GURUNDANGA",
+        "url": "https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA"
+      },
+      "artists": [
+        {
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Perra Melanc\u00f3lica",
+      "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
+    },
+    {
+      "album": {
         "name": "I hope you're listening...",
         "url": "https://open.spotify.com/album/0QTJdWlw7wABksRBxbhv6w"
       },
@@ -58786,7 +58804,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 183101,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/4pcEACnm3ZfZNNepcxCT0c"

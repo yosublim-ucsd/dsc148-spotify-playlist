@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 216180,
+  "num_followers": 216279,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 156069,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
         }
       ],
-      "duration_ms": 287720,
-      "name": "Eyes Be Closed",
-      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2024-04-12 04:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 332219,
+  "2024-05-05": 332222,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Canada.",
   "name": "Top 50 - Canada",
@@ -10431,7 +10431,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -13798,6 +13798,24 @@
     },
     {
       "album": {
+        "name": "Sit Still, Look Pretty",
+        "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
       },
@@ -14861,7 +14879,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -30171,7 +30189,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"

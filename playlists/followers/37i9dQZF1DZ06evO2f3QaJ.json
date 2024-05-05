@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 774,
+  "2024-05-05": 775,
   "date_first_scraped": "2023-09-19",
-  "description": "This is Zudizilla. The essential tracks, all in one playlist.",
+  "description": "This is Zudizilla. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Zudizilla",
   "tracks": [
     {
@@ -737,7 +737,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 313020,
       "name": "Pref\u00e1cio",
       "url": "https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 319485,
       "name": "TELA EM BRANCO",
       "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,403 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,402 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 | 51 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
 
-Snapshot ID: `ZjLXgAAAAACbQluJenBxkxzxmRXGlHtV`
+Snapshot ID: `ZjQpAAAAAADW4VzgYUjgoqGEwbr9Uac7`

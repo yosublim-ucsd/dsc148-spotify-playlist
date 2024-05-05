@@ -2,9 +2,9 @@
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This Is Flo Milli\. Los temas esenciales, todos en una lista.
+> This is Flo Milli\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 27 min
+76 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Edible \(feat\. Gunna\)](https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:56 | 2024-03-16 |  |
 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 | 2023-03-17 |  |
 | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1) | 3:36 | 2022-10-28 |  |
+| [Expensive \(feat\. Flo Milli\)](https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Expensive \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35) | 3:01 | 2024-05-05 |  |
 | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/track/1tV2tvirWkLkBhj2y2j5ZU) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [F'd Up \(feat\. Flo Milli\)](https://open.spotify.com/album/6D0Sma90a30imii8y1y0kN) | 3:09 | 2022-10-28 | 2024-03-17 |
 | [F.N.G.M.](https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 1:54 | 2022-10-28 | 2023-11-11 |
 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 | 2023-07-29 |  |
@@ -71,7 +72,7 @@
 | [Rodeo \(feat\. Flo Milli\) \- A7S Remix](https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Rodeo \(feat\. Flo Milli\) \[A7S Remix\]](https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW) | 3:15 | 2023-05-13 | 2023-06-11 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-02-25 |  |
 | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2) | 3:07 | 2023-04-08 |  |
-| [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 | 2022-10-28 |  |
+| [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 | 2022-10-28 | 2024-05-05 |
 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 | 2022-10-28 |  |
 | [Take It Up \- Remix](https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Take It Up Remix](https://open.spotify.com/album/5nAc94a7Z9NbtzcEk88H1n) | 2:25 | 2023-07-15 |  |
 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 | 2022-10-28 | 2023-08-14 |

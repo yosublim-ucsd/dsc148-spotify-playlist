@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,676 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,697 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 13 | [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 |
 | 14 | [I'll Leave It Up To You](https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 3:18 |
 | 15 | [Alive and Kickin' \- 2010 Remastered Version](https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 5:29 |
-| 16 | [Superfantastic](https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 3:43 |
-| 17 | [Ain't Seen Love Like That \- 2009 Remastered Version](https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:31 |
+| 16 | [Ain't Seen Love Like That \- 2009 Remastered Version](https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:31 |
+| 17 | [Superfantastic](https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 3:43 |
 | 18 | [You Don't Have to Be Strong \- Remastered Version](https://open.spotify.com/track/2fEWmr3cr5A00CFd6NaKNP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 5:06 |
 | 19 | [CDFF\-Lucky This Time \- 2010 Remastered Version](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 |
 | 20 | [Seven Impossible Days \- Live at Koseinenkin Hall, Tokyo, October 29, 1993](https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 49 | [Damn I'm in Love Again](https://open.spotify.com/track/4wGPXraznAXLV1a0eUGLA3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 2:55 |
 | 50 | [Stranger In My Life](https://open.spotify.com/track/6k7tDVwJiU2yFHycB90LN2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:25 |
 
-Snapshot ID: `ZjLXgAAAAADjnFezUV/Sq0upR4e33SEE`
+Snapshot ID: `ZjQpAAAAAACbqKOMWHK8vrybSd8go+4k`

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 56621,
+  "num_followers": 56616,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "L0V3 Tvp3",
         "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 129729,
       "name": "Ultimo Fim (Short)",
       "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -732,12 +748,12 @@
       },
       "artists": [
         {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV"
-        },
-        {
           "name": "Juniper",
           "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        },
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV"
         }
       ],
       "duration_ms": 218000,
@@ -759,22 +775,6 @@
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-04-05 03:01:00",

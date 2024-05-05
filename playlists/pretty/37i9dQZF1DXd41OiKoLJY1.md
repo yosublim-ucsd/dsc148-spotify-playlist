@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Giro\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,516 likes - 96 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,515 likes - 96 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 30 | [Paano Kung Tayo](https://open.spotify.com/track/4yrp8vSHmChRvafuMtYF5e) | [Claudine Co](https://open.spotify.com/artist/1l1AvE8QoyqoyVrdX6vqR0) | [Paano Kung Tayo](https://open.spotify.com/album/0x2j2cGHFNbXUBGBgqAkPp) | 3:40 |
 | 31 | [Dito Ka Lang](https://open.spotify.com/track/5NkRuVaOyhGmxtA3ZHqxad) | [Edwin Hurry Jr.](https://open.spotify.com/artist/2u6lI1BGjeacTKudw3Fwkv) | [Dito Ka Lang](https://open.spotify.com/album/4aJpWptGlFpURFSyNHQKeq) | 3:56 |
 | 32 | [Para Lamang Sa'yo](https://open.spotify.com/track/1ev8UEx1ycQe5FcJNXbaE6) | [Angelika Sam](https://open.spotify.com/artist/44Wte6i4Ds1lyVlvrTm7co) | [Para Lamang Sa'yo](https://open.spotify.com/album/1FVr4ugzRsKJebsiDCdEi5) | 3:24 |
-| 33 | [Aminin](https://open.spotify.com/track/3h7MHfTHDWBjNfG4UIaDgQ) | [Naiba](https://open.spotify.com/artist/0BmvKhzL7qeIdSRC6ckuHD) | [Aminin](https://open.spotify.com/album/6MZGwqcnc57ZNV2MRAFJJG) | 3:45 |
+| 33 | [Aminin](https://open.spotify.com/track/3h7MHfTHDWBjNfG4UIaDgQ) | [naïba](https://open.spotify.com/artist/0BmvKhzL7qeIdSRC6ckuHD) | [Aminin](https://open.spotify.com/album/6MZGwqcnc57ZNV2MRAFJJG) | 3:45 |
 | 34 | [4US2](https://open.spotify.com/track/1KSPOhn5jt8ez8PQoJ7fip) | [Bankyu](https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG), [25hearts](https://open.spotify.com/artist/77vD2NBRsPVcQI7lseX7fw) | [4US2](https://open.spotify.com/album/134iTKkEcKUoqnAXxue9sc) | 1:17 |
 | 35 | [Holiday](https://open.spotify.com/track/3Dq5YRqpdqcRpQx4Mfo1eU) | [Casper Blancaflor](https://open.spotify.com/artist/6sIVIzRcz0YkX8l61WJn9N), [Tetae](https://open.spotify.com/artist/1nLS6dFeKLlCBb4XaGaHg7) | [Holiday](https://open.spotify.com/album/6y2D8xK1mR9IjB1sXHvXHN) | 4:29 |
 | 36 | [Space and Time](https://open.spotify.com/track/7o8TZzkEAG0ogvHfNqejZw) | [Armeia](https://open.spotify.com/artist/5MPZeWH1rgNZG0HDLHWqhJ) | [Space and Time](https://open.spotify.com/album/4ftwpVwaFBPW4TRR9tNURE) | 2:32 |

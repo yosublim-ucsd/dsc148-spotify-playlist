@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1809738,
+  "2024-05-05": 1809723,
   "date_first_scraped": "2020-04-26",
   "description": "Keeping it lowkey with the best chill pop. Cover: Lauv",
   "name": "Chill Pop",
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 251510,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 240107,
       "name": "Andrew",
       "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
@@ -4203,7 +4203,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
@@ -5713,6 +5713,24 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
+    },
+    {
+      "album": {
+        "name": "Cotswold",
+        "url": "https://open.spotify.com/album/3fm6N2oUyIqugzNTeWdgsK"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226392,
+      "name": "Cotswold",
+      "url": "https://open.spotify.com/track/3KyJsal9f4ZuIwUKi8OHup"
     },
     {
       "album": {
@@ -13969,7 +13987,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 171544,
       "name": "In Your Hands",
       "url": "https://open.spotify.com/track/2wq5tNWrGnqtLOhmmI1g4K"
@@ -14941,6 +14959,24 @@
       "duration_ms": 180240,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/4gbB4ORVF9jqFWgPF8277Z"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt"
     },
     {
       "album": {
@@ -16627,7 +16663,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 214850,
       "name": "losing a friend",
       "url": "https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj"
@@ -17245,7 +17281,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -17585,7 +17621,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 149333,
       "name": "Me Again",
       "url": "https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc"
@@ -19488,6 +19524,24 @@
     },
     {
       "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "album": {
         "name": "No Right To Love You",
         "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
       },
@@ -20361,7 +20415,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
@@ -20585,6 +20639,24 @@
       "duration_ms": 199166,
       "name": "Only When I Look into Your Eyes",
       "url": "https://open.spotify.com/track/5MgXxIwMUkJQlv5WYxlUNS"
+    },
+    {
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/1j0ghnEkIWulw3bEANXLNQ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164496,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/4bXpGGhF2W3oieNMDfJl38"
     },
     {
       "album": {
@@ -22967,6 +23039,24 @@
       "duration_ms": 258514,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/2JYLqft0L5nz3tmks9Y6oL"
+    },
+    {
+      "album": {
+        "name": "Sacrifice Tomorrow",
+        "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145622,
+      "name": "Sacrifice Tomorrow",
+      "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
     },
     {
       "album": {
@@ -27424,6 +27514,28 @@
     },
     {
       "album": {
+        "name": "The Idea of You",
+        "url": "https://open.spotify.com/album/5brGFiJgrngm9vyWMhzc9Y"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Galitzine",
+          "url": "https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "The Idea of You",
+      "url": "https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B"
+    },
+    {
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM"
       },
@@ -28013,6 +28125,24 @@
       "duration_ms": 221936,
       "name": "There for You",
       "url": "https://open.spotify.com/track/5b4991SkpZ602JRRXX0Q4C"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "album": {
@@ -28773,6 +28903,24 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: I Don't Like Mondays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,308 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,355 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 34 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 35 | [ブレイクスルー](https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [ブレイクスルー](https://open.spotify.com/album/7wkmbAsdhTrQ8ThQVs5gMf) | 4:04 |
 | 36 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
-| 37 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
-| 38 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
+| 37 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
+| 38 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
 | 39 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 |
 | 40 | [やってみよう](https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 2:49 |
 | 41 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 62 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 63 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 |
 | 64 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
-| 65 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
-| 66 | [超メモリアル](https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [超メモリアル](https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs) | 3:33 |
-| 67 | [すごい速さ](https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 1:26 |
+| 65 | [すごい速さ](https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 1:26 |
+| 66 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
+| 67 | [超メモリアル](https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [超メモリアル](https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs) | 3:33 |
 | 68 | [エマ](https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Magic Number](https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy) | 3:27 |
 | 69 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 70 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 |
-| 71 | [大団円](https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f) | 5:25 |
-| 72 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
+| 71 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
+| 72 | [大団円](https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f) | 5:25 |
 | 73 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 |
 | 74 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 |
 | 75 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 94 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
 | 95 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 96 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 |
-| 97 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 |
-| 98 | [The Devil In Me](https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Devil In Me](https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu) | 4:23 |
+| 97 | [The Devil In Me](https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Devil In Me](https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu) | 4:23 |
+| 98 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 |
 | 99 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 | 100 | [Koino Mega Lover](https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 5:27 |
 

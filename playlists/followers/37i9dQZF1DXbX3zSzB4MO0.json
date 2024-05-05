@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 6281,
+  "2024-05-05": 6463,
   "date_first_scraped": "2023-09-07",
   "description": "Club vibes wherever you are!",
   "name": "Club Beats",
@@ -791,7 +791,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157673,
       "name": "Friends",
       "url": "https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb"
@@ -2339,6 +2339,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "album": {

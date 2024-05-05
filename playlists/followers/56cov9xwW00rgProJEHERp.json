@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 10642,
+  "2024-05-05": 10641,
   "date_first_scraped": "2023-12-14",
   "description": "Tunes from your favourite coffee shop.",
   "name": "But First Coffee",
@@ -111,6 +111,24 @@
       "duration_ms": 271013,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y"
+    },
+    {
+      "album": {
+        "name": "Back For The Funeral",
+        "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192701,
+      "name": "Back For The Funeral",
+      "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
     },
     {
       "album": {
@@ -522,6 +540,28 @@
     },
     {
       "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        },
+        {
+          "name": "Chase Ceglie",
+          "url": "https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M"
+    },
+    {
+      "album": {
         "name": "Fabrics",
         "url": "https://open.spotify.com/album/2lemypYT4ph9G1wOe7wAxn"
       },
@@ -855,7 +895,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180876,
       "name": "how to change a tire",
       "url": "https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr"
@@ -1697,7 +1737,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 166916,
       "name": "Spinnin",
       "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"

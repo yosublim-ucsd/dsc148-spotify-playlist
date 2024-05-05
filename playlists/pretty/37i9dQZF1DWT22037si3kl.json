@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Senndy",
-  "num_followers": 137512,
+  "num_followers": 137513,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 209013,
       "name": "N\u00e3o Me Para",
       "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -895,30 +895,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "\u00c1udio Proibido",
         "url": "https://open.spotify.com/album/6HBxzrHFqJRwioFBogNii6"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 162519,
       "name": "\u00c1udio Proibido",
       "url": "https://open.spotify.com/track/5XrZZrWUTuv66Z9gMK7iu2"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Caro",
-        "url": "https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG"
+        "name": "Dan\u00e7a na Chuva",
+        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
       },
       "artists": [
         {
-          "name": "Elito",
-          "url": "https://open.spotify.com/artist/7hTaNJ6aGpDoW7izIImHFY"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
         }
       ],
-      "duration_ms": 152392,
-      "name": "Caro",
-      "url": "https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g"
+      "duration_ms": 196024,
+      "name": "Dan\u00e7a na Chuva",
+      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1211,6 +1215,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Caro",
+        "url": "https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG"
+      },
+      "artists": [
+        {
+          "name": "Elito",
+          "url": "https://open.spotify.com/artist/7hTaNJ6aGpDoW7izIImHFY"
+        }
+      ],
+      "duration_ms": 152392,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Doce Amargo",
         "url": "https://open.spotify.com/album/5xQCIYa72QV5Iizya5JmOk"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Dan\u00e7a na Chuva",
-        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Di Marques",
-          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
-        }
-      ],
-      "duration_ms": 196024,
-      "name": "Dan\u00e7a na Chuva",
-      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
     },
     {
       "added_at": "2024-05-03 03:01:00",

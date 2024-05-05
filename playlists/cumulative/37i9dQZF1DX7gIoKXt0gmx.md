@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-328 songs - 19 hr 19 min
+329 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 | 2022-05-13 | 2022-11-14 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2019-05-26\* |  |
 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-01 | 2023-12-13 |
-| [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2022-04-22 |  |
+| [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2022-04-22 | 2024-05-05 |
 | [Do You Well](https://open.spotify.com/track/3dbGfRmXzqV5HLct1DOYAn) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [The Kinection](https://open.spotify.com/album/50MR5p6OhpS2YsyZRhgpfj) | 2:47 | 2020-11-13 | 2021-02-11 |
 | [Do You...](https://open.spotify.com/track/4THgRPmLvhNmM9Lzj8qrvH) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:27 | 2019-05-26\* | 2019-06-19 |
 | [Doing It Wrong](https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:25 | 2019-06-19\* | 2023-10-12 |
@@ -92,6 +92,7 @@
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-05-05 | 2022-04-21 |
 | [Erase](https://open.spotify.com/track/46da0B5khwiEzuulgsk5fm) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 3:56 | 2024-02-01 | 2024-02-24 |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2019-05-26\* |  |
+| [F U](https://open.spotify.com/track/3vfwoAAkvqlEQU9xmMgvVb) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [F U](https://open.spotify.com/album/58nhRIbbVOEcE93fMpZEzP) | 2:11 | 2024-05-03 |  |
 | [Favorite Mistake](https://open.spotify.com/track/3RVPyPf55ceoDjsshTWG1a) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:52 | 2023-01-27 | 2023-02-19 |
 | [Favorite Mistake](https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:52 | 2021-01-25 |  |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2019-06-19\* |  |

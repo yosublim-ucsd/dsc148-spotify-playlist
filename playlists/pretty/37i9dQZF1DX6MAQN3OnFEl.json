@@ -1,6 +1,6 @@
 {
   "description": "that's hot",
-  "num_followers": 465419,
+  "num_followers": 465568,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 254040,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 242013,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Bounty Killer",
-          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
       },
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2023-12-31 05:09:41",
       "album": {
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 238426,
       "name": "Pop",
       "url": "https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz"
+    },
+    {
+      "added_at": "2023-12-31 05:09:41",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "So Yesterday",
+      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
     },
     {
       "added_at": "2023-12-31 05:09:41",
@@ -1535,22 +1551,6 @@
       "duration_ms": 224960,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
-    },
-    {
-      "added_at": "2023-12-31 05:09:41",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "So Yesterday",
-      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
     },
     {
       "added_at": "2023-12-31 05:09:41",

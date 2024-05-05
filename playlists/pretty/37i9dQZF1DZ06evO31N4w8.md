@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 ### [This Is Los Rieleros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31N4w8)
 
-> This Is Los Rieleros Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,803 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,834 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 11 | [Que El Mundo Ruede](https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 2:53 |
 | 12 | [No Me Hagas Menos](https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Lo Bueno Lo Mejor](https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54) | 3:37 |
 | 13 | [Ayúdame A Olvidarte](https://open.spotify.com/track/694ISCxj0nirQhsAn830hu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:01 |
-| 14 | [Yo Quería A Las Dos](https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 2:43 |
-| 15 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
+| 14 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
+| 15 | [Yo Quería A Las Dos](https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 2:43 |
 | 16 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 |
 | 17 | [China De Los Ojos Negros](https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:15 |
 | 18 | [A Punto De Llorar](https://open.spotify.com/track/6CNZmbCSVhFJciK0uPSbpm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:02 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 36 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 |
 | 37 | [El Maquinista](https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:03 |
 | 38 | [Sabor Amargo](https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:39 |
-| 39 | [Señorita Cantinera \- Ft\. Polo Urias](https://open.spotify.com/track/3mGgITcQH3mFDEaiILoF44) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Polo Urias Y Su Maquina Norteña](https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z) | [Señorita Cantinera \(Ft\. Polo Urias\)](https://open.spotify.com/album/4ZxwyGJIOlWK2Lat34y0w5) | 4:10 |
-| 40 | [Por Tu Maldito Amor](https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:49 |
+| 39 | [Por Tu Maldito Amor](https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:49 |
+| 40 | [Señorita Cantinera \- Ft\. Polo Urias](https://open.spotify.com/track/3mGgITcQH3mFDEaiILoF44) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Polo Urias Y Su Maquina Norteña](https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z) | [Señorita Cantinera \(Ft\. Polo Urias\)](https://open.spotify.com/album/4ZxwyGJIOlWK2Lat34y0w5) | 4:10 |
 | 41 | [Capricho Maldito](https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:56 |
 | 42 | [Juan Marta](https://open.spotify.com/track/2qokG9oARhQAn2FPBt029T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:31 |
 | 43 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Tenía Razón Mi 'Amá](https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:01 |
 | 50 | [Reina De Reyes](https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Moraleja](https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL) | 3:14 |
 
-Snapshot ID: `ZjLXgAAAAABuutroRuKT7/UKxIhhys4W`
+Snapshot ID: `ZjQpAAAAAAAbTTyMQoyRiVKBf7KK3M3u`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Fantasma. Los temas esenciales, todos en una lista.",
-  "num_followers": 427425,
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
+  "num_followers": 427488,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAVsjPRS5gbj9jnXlJoKdSC",
+  "snapshot_id": "ZjQpAAAAAADtvxpJkvn8uzJspMqypyZt",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 194000,
       "name": "Fuerza (En Vivo)",
       "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equipo RR",
-        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
+        "name": "Ense\u00f1anza De Los Viejos",
+        "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
       "artists": [
         {
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 159976,
-      "name": "Equipo RR",
-      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
+      "duration_ms": 186435,
+      "name": "Ense\u00f1anza De Los Viejos",
+      "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ense\u00f1anza De Los Viejos",
-        "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
+        "name": "Equipo RR",
+        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
       },
       "artists": [
         {
@@ -456,13 +456,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 186435,
-      "name": "Ense\u00f1anza De Los Viejos",
-      "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
+      "duration_ms": 159976,
+      "name": "Equipo RR",
+      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 183057,
       "name": "De Mi Viejo",
       "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Zool\u00f3gico (En Vivo)",
+        "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "El Zool\u00f3gico - En Vivo",
+      "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 153428,
       "name": "En Esta Vida",
       "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Zool\u00f3gico (En Vivo)",
-        "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "El Zool\u00f3gico - En Vivo",
-      "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabor a Michelada",
-        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Sabor a Michelada",
-      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 155416,
       "name": "Hombre de Rancho",
       "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien EnRRedado",
         "url": "https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 172993,
       "name": "Bien EnRRedado",
       "url": "https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,

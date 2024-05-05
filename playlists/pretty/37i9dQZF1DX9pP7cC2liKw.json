@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 249598,
+  "num_followers": 249886,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+    },
+    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -359,22 +375,6 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2024-04-30 04:31:12",
@@ -413,26 +413,6 @@
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -455,6 +435,26 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -489,28 +489,20 @@
       "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
     },
     {
-      "added_at": "2023-07-21 19:49:45",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2022-09-02 05:59:31",
@@ -535,22 +527,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Apolinar",
         "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 251428,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
+      "added_at": "2023-07-21 19:49:45",
+      "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
     },
     {
-      "added_at": "2023-03-22 17:52:31",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Hybridism",
@@ -1051,6 +1035,22 @@
       "duration_ms": 308813,
       "name": "Aima",
       "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+    },
+    {
+      "added_at": "2023-03-22 17:52:31",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
       "added_at": "2023-03-24 19:15:37",
       "album": {
         "name": "La de la terraza",
@@ -1283,22 +1299,6 @@
       "duration_ms": 163730,
       "name": "La de la terraza",
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     }
   ],
   "unique_name": "Tulum Vibes",

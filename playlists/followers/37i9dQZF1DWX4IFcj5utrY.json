@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 73377,
+  "2024-05-05": 73383,
   "date_first_scraped": "2021-12-29",
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi_2TSQT5-u7_kKg-IyKg\">Omagoqa</a>",
   "name": "mint South Africa",
@@ -7019,6 +7019,32 @@
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
+        "name": "Gorah (Francis Mercier Midnight Mix)",
+        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "Gorah - Francis Mercier Midnight Mix",
+      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
     },
     {
       "album": {

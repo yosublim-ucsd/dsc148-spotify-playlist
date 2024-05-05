@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Omerta
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,543 likes - 100 songs - 6 hr 5 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,548 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

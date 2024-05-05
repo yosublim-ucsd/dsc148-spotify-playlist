@@ -1173,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "Av\u00edsame",
+        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Ness",
+          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163971,
+      "name": "Av\u00edsame",
+      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
+    },
+    {
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },

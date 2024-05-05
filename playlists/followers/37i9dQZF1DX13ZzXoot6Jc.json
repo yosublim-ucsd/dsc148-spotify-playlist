@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 455574,
+  "2024-05-05": 455576,
   "date_first_scraped": "2022-07-31",
   "description": "Country hits that will have you singing every word. Cover: Dean Brody",
   "name": "Country Favourites",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200426,
       "name": "Angels (Don\u2019t Always Have Wings)",
       "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 167333,
       "name": "Daylight Savings",
       "url": "https://open.spotify.com/track/2xa33dWwVl1vjzlC4PAZ9e"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 166622,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
@@ -2215,6 +2215,24 @@
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
+    },
+    {
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
     },
     {
       "album": {
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
@@ -3313,7 +3331,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 145499,
       "name": "No Bad Days",
       "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"
@@ -3375,6 +3393,36 @@
       "duration_ms": 160706,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
+    },
+    {
+      "album": {
+        "name": "The Compass Project - West Album",
+        "url": "https://open.spotify.com/album/2Wjh5hIRufYFzbinlm3JkR"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "George Canyon",
+          "url": "https://open.spotify.com/artist/5wGox9x2iVERIeTJIQnFeL"
+        },
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        },
+        {
+          "name": "Brad Johner",
+          "url": "https://open.spotify.com/artist/5b5AFlyH7nbIJ2mfkeGmTm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222482,
+      "name": "Oil And Cattle",
+      "url": "https://open.spotify.com/track/6tNH66hzFFqNoPmUhuWo2D"
     },
     {
       "album": {
@@ -3859,7 +3907,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
@@ -4436,6 +4484,24 @@
     },
     {
       "album": {
+        "name": "So Do I",
+        "url": "https://open.spotify.com/album/6GP6lddOxHm72zcNfVVKqo"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "So Do I",
+      "url": "https://open.spotify.com/track/4rnGatjVZ7P37HaYLLgCW1"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6sCZp1vcFZ7thbtRFd2jgK"
       },
@@ -4685,7 +4751,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168524,
       "name": "Summer Don't Go",
       "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
@@ -5359,7 +5425,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 277659,
       "name": "wait in the truck (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
@@ -6075,7 +6141,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"

@@ -1031,7 +1031,7 @@
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 225384,
+      "duration_ms": 100392,
       "name": "Bathembe Kimi",
       "url": "https://open.spotify.com/track/67YiD0DwpHjWAzqHKWzsAi"
     },
@@ -8176,12 +8176,12 @@
       },
       "artists": [
         {
-          "name": "Mnqobi Yazo",
-          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
-        },
-        {
           "name": "Nontokozo Mkhize",
           "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
         },
         {
           "name": "MusiholiQ",

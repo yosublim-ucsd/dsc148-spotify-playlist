@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vamo saí qqer dia?
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,010 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,019 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 17 | [Problemas](https://open.spotify.com/track/1seCWIyYI34GbrHMDXAfcP) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Wayys](https://open.spotify.com/artist/67x3KfTXqQxtJVSugeKSmr), [Dom'Ví](https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc) | [Problemas](https://open.spotify.com/album/5C4Y1IFkYEV2NYjJm1BcYV) | 3:24 |
 | 18 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 |
 | 19 | [Oh, Linda](https://open.spotify.com/track/2mCs9GkmTggqhWIBm4a9RO) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Pakau](https://open.spotify.com/artist/111jpJz8XiWltrlZwZPioK) | [Oh, Linda](https://open.spotify.com/album/2dD4DpNJXtmPCtxuOaLltY) | 2:33 |
-| 20 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 20 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
 | 21 | [Nem Sinto Sua Falta](https://open.spotify.com/track/4BxNHRXUeuploDVNrxnUX6) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [WVicttor](https://open.spotify.com/artist/4czNp3alCTl7x8X2v0Yhr5) | [Nem Sinto Sua Falta](https://open.spotify.com/album/0ptQMvWY7zn7cIGD6iWoE8) | 2:37 |
 | 22 | [Poesia Pra Ela](https://open.spotify.com/track/2muI2ZlXv8AVeoB2cE5kTl) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Poesia Pra Ela](https://open.spotify.com/album/4WJqg5tBknaiUoa9oH7sPU) | 5:11 |
 | 23 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 |

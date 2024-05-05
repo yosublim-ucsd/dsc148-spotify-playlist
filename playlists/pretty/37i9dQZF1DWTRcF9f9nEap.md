@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,210 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,290 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 38 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 | 39 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 | 40 | [Talk To Me Baby \(I Can’t Hold Out\)](https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:15 |
-| 41 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 |
-| 42 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
+| 41 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
+| 42 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 |
 | 43 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 |
 | 44 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 |
 | 45 | [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 |

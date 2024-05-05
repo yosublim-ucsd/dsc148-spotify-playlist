@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,894 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,965 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 40 | [Opps On Deck](https://open.spotify.com/track/5DTfAQZLAJgpFEVvQI3nYO) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Opps On Deck](https://open.spotify.com/album/0JGYrX36vuaaBLJ1yHaB8E) | 1:42 |
 | 41 | [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 |
 | 42 | [Go Again](https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Go Again](https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP) | 2:34 |
-| 43 | [Ain't Goin](https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Ain't Goin](https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV) | 2:06 |
+| 43 | [Ain't Goin](https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Ain't Goin \(feat\. Bossman Dlow\)](https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV) | 2:06 |
 | 44 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
 | 45 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 |
 | 46 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |

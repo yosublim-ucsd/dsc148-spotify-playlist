@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 330974,
+  "2024-05-05": 331091,
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Dharius y Gera MX en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Trueno en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -133,7 +133,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 255339,
       "name": "3 RAP",
       "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 333403,
       "name": "Arrogancia",
       "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
@@ -1519,6 +1519,28 @@
       "duration_ms": 234482,
       "name": "Cuervos",
       "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+    },
+    {
+      "album": {
+        "name": "Cualquier Parecido con La Realidad",
+        "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273823,
+      "name": "Cuidado en Quien Confias",
+      "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
     },
     {
       "album": {
@@ -4606,6 +4628,28 @@
     },
     {
       "album": {
+        "name": "NEZA",
+        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "NEZA",
+      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
+    },
+    {
+      "album": {
         "name": "Ni Con Money",
         "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
       },
@@ -5761,7 +5805,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 202736,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/4K8AqmWpvzezHIcCiSd882"
@@ -6015,6 +6059,28 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
+    {
+      "album": {
+        "name": "Sim\u00f3n, Sim\u00f3n",
+        "url": "https://open.spotify.com/album/1KXLpGo4XOn3USxbUPaiut"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Sim\u00f3n, Sim\u00f3n",
+      "url": "https://open.spotify.com/track/6zfRn7DcoN1LNDHj4tKNxC"
     },
     {
       "album": {
@@ -6553,6 +6619,24 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "album": {
+        "name": "THE ROOF IS ON FIRE",
+        "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112331,
+      "name": "THE ROOF IS ON FIRE",
+      "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
     },
     {
       "album": {
@@ -7107,7 +7191,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 162935,
       "name": "Vine Ma Hut",
       "url": "https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61"

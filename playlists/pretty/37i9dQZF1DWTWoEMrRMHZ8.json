@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Erasmo Carlos",
-  "num_followers": 343545,
+  "num_followers": 343528,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 160231,
+      "name": "Cremosa",
+      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 160231,
-      "name": "Cremosa",
-      "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
         "name": "Mariana e Mestrinho",
         "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "FICA",
-        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
         }
       ],
-      "duration_ms": 206781,
-      "name": "FICA",
-      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -555,18 +571,22 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
       },
       "artists": [
         {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
         }
       ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -583,26 +603,6 @@
       "duration_ms": 177099,
       "name": "Um, Dois, Tr\u00eas",
       "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -667,6 +667,26 @@
       "duration_ms": 219744,
       "name": "Ao Arrepio da Lei",
       "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -743,26 +763,6 @@
       "duration_ms": 205215,
       "name": "Coment\u00e1rio a Respeito de John",
       "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -1063,6 +1063,38 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
+        "name": "Sou Eu Que Vou Trabalhar",
+        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "duration_ms": 167713,
+      "name": "Sou Eu Que Vou Trabalhar",
+      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
         "name": "como anda vc?",
         "url": "https://open.spotify.com/album/15oBLYyaixTAaOXdFXj9wA"
       },
@@ -1131,38 +1163,6 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
-        "name": "Sou Eu Que Vou Trabalhar",
-        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
-      },
-      "artists": [
-        {
-          "name": "TRAGO",
-          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Gustavo Ruiz",
-          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
-        },
-        {
-          "name": "Alexandre Orion",
-          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
-        },
-        {
-          "name": "Rica Amabis",
-          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
-        }
-      ],
-      "duration_ms": 167713,
-      "name": "Sou Eu Que Vou Trabalhar",
-      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
     },
     {
       "added_at": "2024-05-03 13:36:36",

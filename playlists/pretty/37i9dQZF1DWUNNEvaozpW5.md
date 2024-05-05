@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Arde Bogotá con Bunbury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,177 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,258 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 36 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 |
 | 37 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
 | 38 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |
-| 39 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
+| 39 | [La Orilla](https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [La Orilla](https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP) | 3:19 |
 | 40 | [Lavar la Ropa](https://open.spotify.com/track/3IZ9WpjvXdVXyLR6RRHPiB) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [Lavar la Ropa](https://open.spotify.com/album/397Ty5qxOf86ZxpNRWoFNt) | 4:00 |
-| 41 | [La Orilla](https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [La Orilla](https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP) | 3:19 |
+| 41 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 42 | [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 |
 | 43 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 44 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 75 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 76 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
-| 77 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
-| 78 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
+| 77 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
+| 78 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
 | 79 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
 | 80 | [Hablar, Hablar, Hablar...](https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Los Zigarros](https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP) | 3:17 |
 | 81 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |

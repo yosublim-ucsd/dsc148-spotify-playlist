@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is Lauren Daigle. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
   "name": "This Is Lauren Daigle",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 273506,
       "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"

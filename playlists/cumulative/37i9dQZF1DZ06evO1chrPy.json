@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },

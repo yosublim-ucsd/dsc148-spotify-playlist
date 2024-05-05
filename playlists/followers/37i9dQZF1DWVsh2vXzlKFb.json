@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 486488,
+  "2024-05-05": 486500,
   "date_first_scraped": "2021-12-21",
   "description": "The t-shirt weather essentials.",
   "name": "Summer Indie",
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
@@ -1277,6 +1277,24 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/2QF8FbGBTXTzm0CRUWqndE"
+    },
+    {
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "album": {
@@ -1481,6 +1499,24 @@
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+    },
+    {
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "album": {
@@ -2249,7 +2285,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
@@ -2307,6 +2343,24 @@
       "duration_ms": 171035,
       "name": "Electric Girl",
       "url": "https://open.spotify.com/track/1huzyi7reLgbLmt821wt3I"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -3040,6 +3094,42 @@
     },
     {
       "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "album": {
         "name": "TILT",
         "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
       },
@@ -3213,7 +3303,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 134781,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
@@ -3412,6 +3502,24 @@
     },
     {
       "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290261,
+      "name": "I Know How You Get",
+      "url": "https://open.spotify.com/track/45wc09gWR3WymUNOx9hT8z"
+    },
+    {
+      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -3459,7 +3567,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
@@ -4853,6 +4961,24 @@
       "duration_ms": 260002,
       "name": "music to walk home to",
       "url": "https://open.spotify.com/track/2LFLkwyXZQn0ssPLiZns3x"
+    },
+    {
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "album": {
@@ -7041,7 +7167,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
@@ -7369,7 +7495,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
@@ -8583,7 +8709,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"

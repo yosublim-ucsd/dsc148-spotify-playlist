@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 ### [This Is Casting Crowns](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GdOmc)
 
-> This Is Casting Crowns\. Los temas esenciales, todos en una lista.
+> This is Casting Crowns\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,744 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,777 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Joyful, Joyful](https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:26 |
 | 50 | [American Dream](https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 4:10 |
 
-Snapshot ID: `ZjLXgAAAAAAOtA6Ob4RNPSUsZRCB/Aly`
+Snapshot ID: `ZjQpAAAAAAA8mt/R6os+G68EEScUqsIC`

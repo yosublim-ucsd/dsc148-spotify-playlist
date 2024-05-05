@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,111 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,138 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 27 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
 | 28 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
 | 29 | [Your Light](https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 5:07 |
-| 30 | [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 |
-| 31 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 30 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 31 | [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 |
 | 32 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
 | 33 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
 | 34 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 45 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 46 | [The Water](https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 3:23 |
 | 47 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
-| 48 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 |
-| 49 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
+| 48 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
+| 49 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 |
 | 50 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 |
 | 51 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 |
 | 52 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 74 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 75 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
 | 76 | [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 |
-| 77 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
+| 77 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 |
 | 78 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
-| 79 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 |
+| 79 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
 | 80 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
 | 81 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
 | 82 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 84 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 |
 | 85 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
 | 86 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |
-| 87 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
-| 88 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
+| 87 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
+| 88 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
 | 89 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 |
 | 90 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
 | 91 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |

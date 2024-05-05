@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1241,
+  "num_followers": 1242,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAZBuFzOGyZr6cPKRm/PSx6",
+  "snapshot_id": "ZjQpAAAAAADwPcCELzU5aMgHWpv3nKVm",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 169853,
-      "name": "An Ingenious Technique - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
+      "duration_ms": 137040,
+      "name": "Corals - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 137040,
-      "name": "Corals - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
+      "duration_ms": 169853,
+      "name": "An Ingenious Technique - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "We Took To The Skies",
-      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 191480,
-      "name": "Fueled Up and Headed South",
-      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 66280,
       "name": "Beauty Turns Men to Beasts",
       "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 95813,
-      "name": "The Museum",
-      "url": "https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 164053,
       "name": "I Should Tell You My Story Myself",
       "url": "https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 95813,
+      "name": "The Museum",
+      "url": "https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Park (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 298786,
-      "name": "Hideaway Medley",
-      "url": "https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -823,6 +799,22 @@
       "duration_ms": 421893,
       "name": "To Lose Himself in Vengeance",
       "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     }
   ],
   "unique_name": "This Is Steven Price",

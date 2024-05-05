@@ -4,7 +4,7 @@
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 46 min
+48 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Judas](https://open.spotify.com/track/1X1XDc35sbtcUeTzKatuYf) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:26 | 2022-10-26 | 2023-08-20 |
 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 | 2023-08-19 |  |
 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 | 2022-10-26 |  |
+| [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-05 |  |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-01-20 |  |
 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 | 2022-10-26 |  |
 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 | 2024-03-02 |  |

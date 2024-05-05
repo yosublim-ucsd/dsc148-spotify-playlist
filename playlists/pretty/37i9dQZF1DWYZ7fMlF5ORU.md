@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,787 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,826 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,18 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 43 | [Cântico Novo](https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Cântico Novo](https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK) | 2:54 |
 | 44 | [Me Curou \- Ao Vivo](https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ) | [Leandro Luz](https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat) | 4:43 |
 | 45 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
-| 46 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
-| 47 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
+| 46 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
+| 47 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
 | 48 | [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 |
 | 49 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
 | 50 | [Mais Que Vencedor](https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Redenção](https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA) | 4:07 |
 | 51 | [Um Mover](https://open.spotify.com/track/4CPSxZXYSURvwqOvwchHNH) | [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Um Mover](https://open.spotify.com/album/6VPPd5S0byGY4056iwRVMx) | 4:40 |
 | 52 | [Sangue de Jesus](https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK) | [Thalita Pertuzatti](https://open.spotify.com/artist/5jA3LhvXXKZrtZWYFxY1gg) | [Soul Gospel](https://open.spotify.com/album/0qIpBqACgyeA68ndfeMni3) | 3:11 |
 | 53 | [Permanecer](https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:46 |
-| 54 | [Oh Glória, Aleluia](https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM) | 3:45 |
-| 55 | [Me Faz Viver](https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 4:19 |
+| 54 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
+| 55 | [Oh Glória, Aleluia](https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM) | 3:45 |
 | 56 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
-| 57 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
+| 57 | [Me Faz Viver](https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 4:19 |
 | 58 | [Caixa D'Água](https://open.spotify.com/track/4L1Wr5eaMxjbcwPYi5iB9m) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Templo Soul](https://open.spotify.com/album/5bgQ741QKB6W4YPAVuaIIU) | 3:59 |
 | 59 | [Vê Se Vigia](https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:54 |
 | 60 | [Louvarei](https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD) | 3:54 |

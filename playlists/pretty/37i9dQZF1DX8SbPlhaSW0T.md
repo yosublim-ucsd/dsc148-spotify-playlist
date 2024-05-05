@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,178 likes - 34 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,197 likes - 34 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 | 30 | [Si Te Dejas Llevar](https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Si Te Dejas Llevar \(feat\. Juanka\)](https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY) | 3:47 |
 | 31 | [Hoy \(feat\. Bad Bunny\)](https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Real G4 Life Vol\. 3](https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0) | 3:54 |
 | 32 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
-| 33 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
+| 33 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 |
 | 34 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 
 Snapshot ID: `ZfC7cgAAAAB7Giv526GWuA9V7n7Zr2dU`

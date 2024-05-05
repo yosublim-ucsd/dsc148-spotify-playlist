@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-136 songs - 6 hr 12 min
+137 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 | 2024-03-26 |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 | 2024-04-20 |
+| [Maybe under some other sky](https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Maybe under some other sky](https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq) | 2:19 | 2024-04-29 |  |
 | [Meuse](https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Meuse](https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU) | 2:07 | 2024-04-08 |  |
 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 | 2024-03-25 |
 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 | 2023-11-20 | 2024-04-19 |
@@ -118,7 +119,7 @@
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2024-03-04 |  |
 | [Stella's lullaby](https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Stella's lullaby](https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1) | 2:25 | 2023-11-20 |  |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2024-03-04 |  |
-| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 |  |
+| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 | 2024-05-05 |
 | [Ständchen in D Minor \(After Schubert\), S\. 560](https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lise de la Salle](https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W) | [Liszt](https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is) | 5:57 | 2023-11-20 | 2024-04-19 |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2) | 1:29 | 2023-11-20 | 2024-04-19 |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-11-20 | 2024-02-12 |

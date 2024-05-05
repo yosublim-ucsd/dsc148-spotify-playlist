@@ -1,6 +1,6 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com Manu ",
-  "num_followers": 179467,
+  "num_followers": 179531,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-04-15 21:11:44",
       "album": {
-        "name": "Disse Adeus",
-        "url": "https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk"
-      },
-      "artists": [
-        {
-          "name": "Raphaela Santos",
-          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
-        }
-      ],
-      "duration_ms": 243018,
-      "name": "Disse Adeus",
-      "url": "https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER"
-    },
-    {
-      "added_at": "2024-04-15 21:11:44",
-      "album": {
         "name": "Cama de Solteiro",
         "url": "https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 199186,
       "name": "Cama de Solteiro",
       "url": "https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf"
+    },
+    {
+      "added_at": "2024-04-15 21:11:44",
+      "album": {
+        "name": "Disse Adeus",
+        "url": "https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk"
+      },
+      "artists": [
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "duration_ms": 243018,
+      "name": "Disse Adeus",
+      "url": "https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER"
     },
     {
       "added_at": "2024-04-15 21:11:44",

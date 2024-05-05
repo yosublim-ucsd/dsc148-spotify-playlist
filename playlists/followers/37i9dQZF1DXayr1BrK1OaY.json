@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 217767,
+  "2024-05-05": 217859,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156659,
       "name": "Can't Love Myself (feat. Mishaal & LPW)",
       "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
@@ -1141,6 +1141,24 @@
       "duration_ms": 277600,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
+    },
+    {
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
     },
     {
       "album": {
@@ -1736,6 +1754,28 @@
     },
     {
       "album": {
+        "name": "Given Up On You / Driver",
+        "url": "https://open.spotify.com/album/6mYCR6U0GYZxIbjTfA7ITk"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "ZOE ASKA",
+          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Given Up On You",
+      "url": "https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg"
+    },
+    {
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
@@ -1975,6 +2015,32 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I"
     },
     {
       "album": {
@@ -2577,7 +2643,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 122857,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5AoK7RPofkpTnMItx4MgtW"
@@ -3005,6 +3071,24 @@
       "duration_ms": 169528,
       "name": "Light",
       "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
       "album": {
@@ -3809,7 +3893,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 262310,
       "name": "No Tears In The Morning",
       "url": "https://open.spotify.com/track/2jZk7yWHeGqUmIXRnsHmNj"
@@ -3867,6 +3951,24 @@
       "duration_ms": 172939,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
     },
     {
       "album": {
@@ -4005,6 +4107,24 @@
       "duration_ms": 157461,
       "name": "on my mind",
       "url": "https://open.spotify.com/track/4tTgwybKE9Ybwj1CD0w7rD"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0NQddsB7zwntWpH9RVvYPt"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
     },
     {
       "album": {
@@ -4739,7 +4859,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 207871,
       "name": "Save Me - Kiimi Remix",
       "url": "https://open.spotify.com/track/1I926CHvCngPl4hBRGE9Rv"
@@ -5527,7 +5647,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
@@ -5719,7 +5839,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 184790,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre"
@@ -5799,7 +5919,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
@@ -6171,6 +6291,28 @@
       "duration_ms": 171360,
       "name": "Wasted - Yuto. Remix",
       "url": "https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166917,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
     },
     {
       "album": {

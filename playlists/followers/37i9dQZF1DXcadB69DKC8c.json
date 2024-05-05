@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 99770,
+  "2024-05-05": 99821,
   "date_first_scraped": "2021-12-29",
   "description": "Traditional Ethiopian nostalgic Tezeta music, soul and Afro-funk.",
   "name": "Tezeta",
@@ -443,6 +443,24 @@
       "duration_ms": 70000,
       "name": "Ete Endet Nesh Gedawo",
       "url": "https://open.spotify.com/track/1ej5hJkETVhM4LAuBPR8Vn"
+    },
+    {
+      "album": {
+        "name": "Ethiopiques, Vol. 1: Golden Years of Modern Ethiopian Music 1969-1975",
+        "url": "https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ"
+      },
+      "artists": [
+        {
+          "name": "Muluq\u00e8n M\u00e8ll\u00e8ss\u00e8",
+          "url": "https://open.spotify.com/artist/0ntfbwjC0Kg4xv5EEQf8LM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "Et\u00e9 end\u00e9nesh g\u00e8dawo",
+      "url": "https://open.spotify.com/track/3jiOL97tuAOvlSOllwG9Lx"
     },
     {
       "album": {
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182253,
       "name": "The Biz",
       "url": "https://open.spotify.com/track/5EnmWxi8cgG4XOJtfksBrX"

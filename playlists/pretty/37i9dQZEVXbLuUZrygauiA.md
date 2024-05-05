@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,391 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,401 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [HUMO](https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [HUMO](https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE) | 3:18 |
 | 50 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

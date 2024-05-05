@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,417 likes - 129 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,425 likes - 129 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 42 | [Just for One Night \(feat\. Astrid S\)](https://open.spotify.com/track/7AEV4oGvHPn1DtAE7pLCXR) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just For One Night \(feat\. Astrid S\)](https://open.spotify.com/album/0RXOXEux1zPAhFcL8AkzJY) | 3:46 |
 | 43 | [Hold \(Candyland Remix\)](https://open.spotify.com/track/6sFIeNeq18x9JCsCIwTvvw) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Jessica Jarrell](https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3), [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [I Am The Elephante Remixes](https://open.spotify.com/album/5BNJGWTaN96oYEmpSmXR77) | 2:16 |
 | 44 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
-| 45 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
-| 46 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
+| 45 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
+| 46 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 47 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
 | 48 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
 | 49 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 63 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
 | 64 | [Terms and Conditions](https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:29 |
 | 65 | [The Line](https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Line](https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG) | 3:19 |
-| 66 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
+| 66 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
 | 67 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 68 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:02 |
 | 69 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 128 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 129 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbQYIgAAAAAyU3nAsPZMdHX6KmbM1dLP`
+Snapshot ID: `AbQecgAAAAAlZTIcpY3toMNbtSycHir5`

@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
-  "num_followers": 954805,
+  "num_followers": 955096,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACyYZlJr91OVPe4V5xz+bBo",
+  "snapshot_id": "ZjQpAAAAAAA7f4PuCzqzhMjDxEPorzQd",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 263100,
-      "name": "T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Miel Amarga (En Vivo)",
         "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 258393,
       "name": "Hasta la Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 263100,
+      "name": "T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Equivocaste",
         "url": "https://open.spotify.com/album/3bab9IovKQWPggPRGFNueq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste",
       "url": "https://open.spotify.com/track/1aYCO1g5B1Jrg3kz6TXL3o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
     },
     {
       "added_at": null,

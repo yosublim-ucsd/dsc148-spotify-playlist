@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 ### [This Is Los Tucanes De Tijuana](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWaJws)
 
-> This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
+> This Is Los Tucanes De Tijuana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,074 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,189 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 50 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 |
 | 51 | [Los Mas Buscados](https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Los Mas Buscados](https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh) | 2:54 |
 
-Snapshot ID: `ZjLXgAAAAAB9GEKT2ruUEqydT/2MBZE+`
+Snapshot ID: `ZjQpAAAAAABzzuWvnJUNDGud1s+yN+h1`

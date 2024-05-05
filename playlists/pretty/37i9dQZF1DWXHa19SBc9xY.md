@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,712 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,759 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 21 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
 | 22 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
 | 23 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
-| 24 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
+| 24 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 25 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
-| 26 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
+| 26 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
 | 27 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
 | 28 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 |
 | 29 | [Aroeira](https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Casa Amarela](https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs) | [Aroeira](https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb) | 2:53 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 52 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 53 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 |
 | 54 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |
-| 55 | [Moradia](https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [Lírios São Deusas](https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss) | 3:08 |
-| 56 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
+| 55 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
+| 56 | [Moradia](https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [Lírios São Deusas](https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss) | 3:08 |
 | 57 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 |
 | 58 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
 | 59 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |

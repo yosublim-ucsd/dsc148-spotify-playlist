@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,868 songs - 4 day 0 hr 24 min
+1,870 songs - 4 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 2:59 | 2023-05-15 | 2023-05-18 |
-| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-27 |  |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-27 | 2024-05-05 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-12 | 2021-10-20 |
 | [Begravningsbål](https://open.spotify.com/track/0Rjr3kZmaMQO75RGBjCFZT) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:09 | 2022-05-28 | 2022-06-03 |
 | [Behöver inte dig idag](https://open.spotify.com/track/61YmcO62hGjw1RlDHZ0XEg) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Behöver inte dig idag](https://open.spotify.com/album/55SFrQkALH1L1oXmkHG4Is) | 3:00 | 2021-03-27\* | 2021-05-25 |
@@ -739,6 +739,7 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-24 | 2023-12-30 |
 | [Hon dansar vidare i livet](https://open.spotify.com/track/1aEU7mcRDTYBB4ASpqbjYE) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Gudarna på Västerbron](https://open.spotify.com/album/6VRCXuC1b2MGjiat5QZ0Ql) | 4:08 | 2023-03-27 | 2023-09-21 |
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-04-24 | 2023-04-30 |
+| [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 | 2024-05-04 |  |
 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-02-09 | 2023-03-02 |
 | [Hoodrich](https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:24 | 2023-03-01 | 2023-04-30 |
 | [Hope](https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi) | [STEFAN](https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug) | [Hope](https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK) | 3:03 | 2022-05-16 | 2022-05-29 |
@@ -1104,7 +1105,7 @@
 | [Minns ikväll](https://open.spotify.com/track/4VCvC5CL6vKbi7wMaY3G9j) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Minns ikväll](https://open.spotify.com/album/6ap69IiItOEqgRYIXmDGm0) | 2:55 | 2023-11-06 | 2023-11-21 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-11 | 2023-05-12 |
 | [MIRAKEL](https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:11 | 2024-02-10 | 2024-02-18 |
-| [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 | 2022-02-28 |  |
+| [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 | 2022-02-28 | 2024-05-05 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 | 2023-01-02 |
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-18 | 2022-08-31 |
 | [Misslyckad & hatad](https://open.spotify.com/track/3OqnzptKSFrtjr3sldBD1F) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Misslyckad & hatad](https://open.spotify.com/album/2XSRknUofEZ2zwK8tfm3Fa) | 2:27 | 2023-01-21 | 2023-02-16 |
@@ -1643,6 +1644,7 @@
 | [The Tortured Poets Department](https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:53 | 2024-04-20 | 2024-04-28 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-12 | 2022-11-14 |
 | [The Wrong Place](https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 2:56 | 2021-05-25 | 2021-05-26 |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-04 |  |
 | [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2023-10-29 | 2023-11-03 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-15 |
 | [Thug Part 2](https://open.spotify.com/track/06kMUDNk8XfiTdc5GVqsER) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Thug Part 2](https://open.spotify.com/album/1L5PlhGUyk4ANyM3TmnYE5) | 3:08 | 2022-03-18 | 2022-04-16 |

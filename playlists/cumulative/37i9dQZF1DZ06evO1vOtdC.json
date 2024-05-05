@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 238226,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
@@ -1650,6 +1650,28 @@
       "duration_ms": 245866,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
+    },
+    {
+      "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "album": {

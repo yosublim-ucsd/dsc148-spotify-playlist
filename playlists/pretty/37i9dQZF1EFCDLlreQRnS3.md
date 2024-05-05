@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 62 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 63 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
 | 64 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
-| 65 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
-| 66 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 65 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 66 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
 | 67 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 68 | [Lost in Life](https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Lost in Life](https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X) | 4:25 |
 | 69 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 80 | [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 |
 | 81 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 |
 | 82 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
-| 83 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
-| 84 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
+| 83 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
+| 84 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
 | 85 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 86 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 87 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 100 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 101 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbQYFQAAAAALIO35PfaK37HHTTlSFxLb`
+Snapshot ID: `AbQeaQAAAAC+sPZBbTKDXu6PHD5qI6oI`

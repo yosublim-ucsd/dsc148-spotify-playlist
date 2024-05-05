@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 187009,
+  "num_followers": 186999,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Someday At Christmas",
-        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
       "artists": [
         {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 203434,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -827,18 +843,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -855,42 +871,6 @@
       "duration_ms": 180588,
       "name": "Merry Like This",
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
-      "added_at": "2022-12-16 05:50:43",
-      "album": {
-        "name": "Here (For Christmas)",
-        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 253046,
-      "name": "Here (For Christmas)",
-      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -913,6 +893,26 @@
       "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
     },
     {
+      "added_at": "2022-12-16 05:50:43",
+      "album": {
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "His Gift",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
-      "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "It's Christmas",
@@ -959,6 +943,22 @@
       "duration_ms": 234560,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "December Baby",
         "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Best Of/20th Century - Christmas",
-        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Def The Halls",
@@ -1207,6 +1191,22 @@
       "duration_ms": 176461,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
       "added_at": "2022-11-25 20:23:30",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,803 likes - 114 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,895 likes - 114 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Us Down](https://open.spotify.com/track/7jRaQYNWfwexTjLW86TCtr) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Livid](https://open.spotify.com/artist/5DLwwUSV14DFRtj6s9BUFo) | [Hold Us Down](https://open.spotify.com/album/477IioDtrp79rMcKFF0bIw) | 2:49 |
+| 1 | [Hold Us Down](https://open.spotify.com/track/7jRaQYNWfwexTjLW86TCtr) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Hold Us Down](https://open.spotify.com/album/477IioDtrp79rMcKFF0bIw) | 2:49 |
 | 2 | [Addicted To Rave](https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:49 |
 | 3 | [Moonlight](https://open.spotify.com/track/2WHQYiXB1650BDpiaJBovF) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Moonlight \(feat\. Diandra Faye\)](https://open.spotify.com/album/0UsqRym0rpzvABGvK63Cgf) | 3:50 |
 | 4 | [Schooier \(feat\. Chicco\)](https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f) | [Schooier \(feat\. Chicco\)](https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV) | 3:38 |

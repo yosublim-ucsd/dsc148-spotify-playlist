@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 421205,
+  "description": "This is Lil Wayne. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "num_followers": 421287,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACo5z6o3Dvnu9YzHv353QlX",
+  "snapshot_id": "ZjQpAAAAAAA3wznlskzMlk4Gex03+rJ1",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "400 Degreez",
+        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Back That Azz Up",
+      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry 4 The Wait",
         "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 223173,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "400 Degreez",
-        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Mannie Fresh",
-          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Back That Azz Up",
-      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AIN'T GONNA ANSWER",
+        "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "AIN'T GONNA ANSWER",
+      "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AIN'T GONNA ANSWER",
-        "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "AIN'T GONNA ANSWER",
-      "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
     },
     {
       "added_at": null,

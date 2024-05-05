@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,901 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,896 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/track/2l6YkP5Rj1w3GsrhE7cDqx) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/album/3ks2icfvnL1iRYzEB24w51) | 2:29 |
 | 50 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

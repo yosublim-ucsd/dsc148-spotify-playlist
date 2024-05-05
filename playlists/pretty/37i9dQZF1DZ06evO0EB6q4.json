@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 211157,
+  "num_followers": 211259,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAC9RxBVsteX9rnqRqBzwh3F",
+  "snapshot_id": "ZjQpAAAAAABdb9eeBSFXhtdV98NBxOoN",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/03vDrY1YnJsfJa6fKp1Onc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Da Lo Mismo",
         "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 246480,
       "name": "Me Da Lo Mismo",
       "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/03vDrY1YnJsfJa6fKp1Onc"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
-      },
-      "artists": [
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
     },
     {
       "added_at": null,

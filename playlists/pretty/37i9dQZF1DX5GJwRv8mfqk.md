@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,403 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,504 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 20 | [El Quijote De Don Chuy](https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:57 |
 | 21 | [Borracho de Cochera](https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Borracho de Cochera](https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky) | 3:06 |
 | 22 | [Tú Me Caíste del Cielo](https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:34 |
-| 23 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
-| 24 | [Así Me Fue Contigo](https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Así Me Fue Contigo](https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt) | 3:52 |
+| 23 | [No Vamos a Funcionar](https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:16 |
+| 24 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
 | 25 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
-| 26 | [No Vamos a Funcionar](https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:16 |
+| 26 | [Así Me Fue Contigo](https://open.spotify.com/track/2KYksJs5u6n4YOuxnG6X36) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Así Me Fue Contigo](https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt) | 3:52 |
 | 27 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
 | 28 | [Cuando Fuiste Mía](https://open.spotify.com/track/2uMQxOPITUivAkAYrR02Br) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:36 |
 | 29 | [Y Comó Te Olvido](https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 3:46 |

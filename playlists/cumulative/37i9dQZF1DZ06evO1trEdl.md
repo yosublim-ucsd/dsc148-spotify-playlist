@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. The essential tracks, all in one playlist.
+> This Is The Three Degrees\. Los temas esenciales, todos en una lista.
 
 107 songs - 6 hr 39 min
 
@@ -59,7 +59,7 @@
 | [Lonely Town](https://open.spotify.com/track/5b7OwoCMxAOXnQnz8O0zbR) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:53 | 2023-12-30 | 2024-01-01 |
 | [Long Lost Lover](https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 2:57 | 2022-05-25 |  |
 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 | 2022-05-25 |  |
-| [Looking For Love](https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:29 | 2024-03-29 | 2024-05-03 |
+| [Looking For Love](https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:29 | 2024-03-29 |  |
 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 | 2022-05-25 |  |
 | [Love the One Your With](https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Silvester 70er Hits](https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej) | 3:50 | 2024-01-01 | 2024-01-09 |
 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 |  |
@@ -89,7 +89,7 @@
 | [T.S.O.P\. \- The Sound Of Philadelphia \- Rerecorded](https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Greatest Hits \(Re\-recorded\)](https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6) | 2:54 | 2023-07-29 | 2024-04-15 |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 | 2023-05-02 | 2024-04-03 |
 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 | 2022-05-25 |  |
-| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 |  |
+| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 | 2024-05-05 |
 | [The Heaven I Need \(Backing Track\)](https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm) | 3:17 | 2023-12-13 |  |
 | [The Heaven I Need \- Single Version](https://open.spotify.com/track/3XjxAp2oPICHJTXUDTga2f) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/5BrtfX0BIYysyPYyfDEA7J) | 3:17 | 2022-05-25 | 2023-12-14 |
 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 | 2022-09-01 |  |

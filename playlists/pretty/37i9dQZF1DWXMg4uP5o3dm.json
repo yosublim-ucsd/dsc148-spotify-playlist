@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 478879,
+  "num_followers": 478954,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-29 13:59:08",
       "album": {
-        "name": "PREDATOR",
-        "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "PREDATOR",
-      "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
-    },
-    {
-      "added_at": "2024-04-29 13:59:08",
-      "album": {
         "name": "honey catching season",
         "url": "https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
+    },
+    {
+      "added_at": "2024-04-29 13:59:08",
+      "album": {
+        "name": "PREDATOR",
+        "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "PREDATOR",
+      "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
     },
     {
       "added_at": "2024-04-29 13:59:08",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-29 13:59:08",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2024-04-29 13:59:08",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "added_at": "2024-04-29 13:59:08",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2024-04-29 13:59:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-04-29 13:59:08",
       "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 145414,
-      "name": "Idolize",
-      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
-    },
-    {
-      "added_at": "2024-04-29 13:59:08",
-      "album": {
         "name": "WICKED",
         "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
+    },
+    {
+      "added_at": "2024-04-29 13:59:08",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 145414,
+      "name": "Idolize",
+      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
     },
     {
       "added_at": "2024-04-29 13:59:08",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-04-29 13:59:08",
       "album": {
+        "name": "Same",
+        "url": "https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe"
+      },
+      "artists": [
+        {
+          "name": "Kyd the Band",
+          "url": "https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Same",
+      "url": "https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY"
+    },
+    {
+      "added_at": "2024-04-29 13:59:08",
+      "album": {
         "name": "Have My Back",
         "url": "https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 227897,
       "name": "Have My Back",
       "url": "https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR"
-    },
-    {
-      "added_at": "2024-04-29 13:59:08",
-      "album": {
-        "name": "Same",
-        "url": "https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe"
-      },
-      "artists": [
-        {
-          "name": "Kyd the Band",
-          "url": "https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Same",
-      "url": "https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY"
     },
     {
       "added_at": "2024-04-29 13:59:08",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-29 13:59:08",
       "album": {
-        "name": "god damn!",
-        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
-      },
-      "artists": [
-        {
-          "name": "viisi",
-          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "god damn!",
-      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
-    },
-    {
-      "added_at": "2024-04-29 13:59:08",
-      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/6NM4j24KhPa61wuqWxCZXk"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 208462,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/24u7GTKYh1iE1x66ufDBYN"
+    },
+    {
+      "added_at": "2024-04-29 13:59:08",
+      "album": {
+        "name": "god damn!",
+        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
+      },
+      "artists": [
+        {
+          "name": "viisi",
+          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "god damn!",
+      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
     },
     {
       "added_at": "2024-04-29 13:59:08",

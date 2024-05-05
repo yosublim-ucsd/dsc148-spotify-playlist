@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Dean Brody
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,574 likes - 96 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,576 likes - 96 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 63 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
 | 64 | [Southern and Slow](https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Southern and Slow](https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT) | 3:07 |
 | 65 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 |
-| 66 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 |
-| 67 | [Long Way Home](https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Long Way Home](https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq) | 2:37 |
+| 66 | [Long Way Home](https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Long Way Home](https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq) | 2:37 |
+| 67 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 |
 | 68 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 69 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 70 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |

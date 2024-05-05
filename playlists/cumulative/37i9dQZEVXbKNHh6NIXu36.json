@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 195736,
       "name": "04:30",
       "url": "https://open.spotify.com/track/3rl8q9HPOEw6zo6G1KQGfq"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 163013,
       "name": "Another Vibe (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 162906,
       "name": "Augenma\u00df (feat. Pashanim)",
       "url": "https://open.spotify.com/track/4H1N6Ej2EcgDm58aQIsuvP"
@@ -7166,7 +7184,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -13336,7 +13354,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 135372,
       "name": "forever",
       "url": "https://open.spotify.com/track/4iAq1t0b41GbvJECzWOTGe"
@@ -16464,7 +16482,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 191368,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
@@ -21448,7 +21466,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 136988,
       "name": "Liebe Gr\u00fcsse",
       "url": "https://open.spotify.com/track/4mVnqNiw2Kf5AHj9j0KD6u"
@@ -23009,6 +23027,32 @@
     },
     {
       "album": {
+        "name": "Mama hat gesagt",
+        "url": "https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196087,
+      "name": "Mama hat gesagt",
+      "url": "https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -23514,7 +23558,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 114253,
       "name": "Match_3",
       "url": "https://open.spotify.com/track/4iaDcHWWvPI63bMYpAIHhu"
@@ -24234,6 +24278,24 @@
       "duration_ms": 101480,
       "name": "Milano",
       "url": "https://open.spotify.com/track/4wXJldkJcvxENCYs5ghbNj"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "album": {
@@ -25221,6 +25283,28 @@
     },
     {
       "album": {
+        "name": "Motorsport",
+        "url": "https://open.spotify.com/album/6Vq448YyKdTTQwfbAzpdlF"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154741,
+      "name": "Motorsport",
+      "url": "https://open.spotify.com/track/0MT2Y0Mvbv5detaaHMM0SK"
+    },
+    {
+      "album": {
         "name": "MOTTO",
         "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
       },
@@ -25352,7 +25436,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -27976,7 +28060,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 95783,
       "name": "One Time",
       "url": "https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a"
@@ -28308,6 +28392,28 @@
       "duration_ms": 149310,
       "name": "P.S.",
       "url": "https://open.spotify.com/track/4yCWbjNkL84M2l5izo0bAw"
+    },
+    {
+      "album": {
+        "name": "Pa Mu",
+        "url": "https://open.spotify.com/album/4igosHYUt1kyGQV2vex8FB"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Pa Mu",
+      "url": "https://open.spotify.com/track/6aCAQmJMBHve3Tfelte1HR"
     },
     {
       "album": {
@@ -31180,7 +31286,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -32371,6 +32477,24 @@
     },
     {
       "album": {
+        "name": "Satisfya Freestyle",
+        "url": "https://open.spotify.com/album/4rGmfqEekfsBRAwaJ2SC1J"
+      },
+      "artists": [
+        {
+          "name": "Schumii Visionario",
+          "url": "https://open.spotify.com/artist/1fGd041Mm3XdNv3jR5rhN5"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Satisfya Freestyle",
+      "url": "https://open.spotify.com/track/3lvpJ35o45eUAH8VKSheta"
+    },
+    {
+      "album": {
         "name": "Sava i Dunav",
         "url": "https://open.spotify.com/album/7nLuexYdfkseqBpYKpztJG"
       },
@@ -32496,7 +32620,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 194255,
       "name": "Say Goodbye (feat. Monty Datta & Sn\u00f8w)",
       "url": "https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp"
@@ -32896,7 +33020,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 116071,
       "name": "schwarzer toyota",
       "url": "https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN"
@@ -33822,7 +33946,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -34086,6 +34210,32 @@
       "duration_ms": 141230,
       "name": "So muss sein!",
       "url": "https://open.spotify.com/track/1gZDbvoKxDXyKRHn2ccPet"
+    },
+    {
+      "album": {
+        "name": "So So Def (feat. Summer Cem & Nimo)",
+        "url": "https://open.spotify.com/album/4CPkcm6whVsY6f48SHjxpB"
+      },
+      "artists": [
+        {
+          "name": "Celo & Abdi",
+          "url": "https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169383,
+      "name": "So So Def (feat. Summer Cem & Nimo)",
+      "url": "https://open.spotify.com/track/5g6kQitL4OSo9tWkWDGkNT"
     },
     {
       "album": {
@@ -37549,6 +37699,28 @@
     },
     {
       "album": {
+        "name": "Toast \ud83c\udf78",
+        "url": "https://open.spotify.com/album/3q0D6xff7bLYN4HWfqwpxi"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179234,
+      "name": "Toast \ud83c\udf78",
+      "url": "https://open.spotify.com/track/3qIAER5BgecbZHfZmj7RBq"
+    },
+    {
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -39492,6 +39664,28 @@
     {
       "album": {
         "name": "Vorbei",
+        "url": "https://open.spotify.com/album/2onEVJhgQv6PjeCbwZZFMf"
+      },
+      "artists": [
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        },
+        {
+          "name": "ILO",
+          "url": "https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117656,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/7xq0ZfsN1ZjYcmdE5FYjWk"
+    },
+    {
+      "album": {
+        "name": "Vorbei",
         "url": "https://open.spotify.com/album/41HUyIckSyyHVfaRQ34scK"
       },
       "artists": [
@@ -40932,7 +41126,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -41046,7 +41240,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 154593,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7nEFkod9E9SQwHr7KIqVCQ"

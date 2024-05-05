@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 831,
+  "num_followers": 833,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAC0a1KvisUrdptev6US37UN",
+  "snapshot_id": "ZjQpAAAAAADfM3booOn+xsB7a1qtNdAr",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Rinse and Repeat",
-      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+      "duration_ms": 204533,
+      "name": "Rinse and Repeat",
+      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Like a Charm",
-      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+      "duration_ms": 207400,
+      "name": "Like a Charm",
+      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
     },
     {
       "added_at": null,

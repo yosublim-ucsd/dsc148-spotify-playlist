@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-476 songs - 1 day 1 hr 2 min
+478 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2022-04-29 | 2022-08-27 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-04-29 |  |
 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 | 2023-03-10 | 2023-07-01 |
-| [Mourning](https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/7nMVEzxsULtU5bodJ5vw6v) | 2:27 | 2023-06-30 |  |
+| [Mourning](https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/7nMVEzxsULtU5bodJ5vw6v) | 2:27 | 2023-06-30 | 2024-05-05 |
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-20 | 2022-08-27 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-03-31 | 2023-10-17 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-03-22 |  |
@@ -353,6 +353,7 @@
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-06-09 | 2024-03-23 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-03-10 | 2024-04-19 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-21 | 2023-03-18 |
+| [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 | 2024-05-03 |  |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2022-09-23 | 2022-12-17 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2022-04-29 |  |
 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 | 2024-01-26 | 2024-03-11 |
@@ -418,7 +419,7 @@
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-07-28 | 2023-09-16 |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 | 2023-03-11 |
-| [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 | 2024-03-22 |  |
+| [The Lost Ones](https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/1CnKBGgQ9zHLNU3JBXJ2OK) | 3:41 | 2024-03-22 | 2024-05-05 |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2022-04-29 |  |
 | [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-10 |  |
 | [THE WAY IT WAS](https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [THE WAY IT WAS](https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT) | 3:17 | 2022-05-20 | 2022-07-29 |
@@ -429,6 +430,7 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-29 | 2022-10-08 |
 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 | 2022-08-26 | 2022-09-05 |
 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good \(+ Time Bomb\)](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-21 | 2022-07-29 |
+| [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 | 2024-05-03 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-02 | 2024-01-20 |
 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 | 2023-11-10 | 2023-11-18 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2022-04-29 | 2022-06-18 |

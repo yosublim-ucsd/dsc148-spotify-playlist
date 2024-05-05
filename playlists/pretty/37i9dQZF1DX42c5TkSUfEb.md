@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,317 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,383 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 20 | [Ensemble](https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 3:02 |
 | 21 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 22 | [Shrike](https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:58 |
-| 23 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
-| 24 | [Jardin d'hiver](https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La Biographie de Luka Philipsen](https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip) | 2:58 |
+| 23 | [Jardin d'hiver](https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La Biographie de Luka Philipsen](https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip) | 2:58 |
+| 24 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 |
 | 25 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 26 | [Road Trippin'](https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:24 |
 | 27 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 65 | [So Beautiful](https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You're Stronger Than You Know](https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg) | 4:03 |
 | 66 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
 | 67 | [Never Give Up \(Acoustic Version\)](https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [Never Give Up \(Acoustic Version\)](https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng) | 3:07 |
-| 68 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
-| 69 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
+| 68 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
+| 69 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
 | 70 | [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 |
 | 71 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
 | 72 | [Poison & Wine](https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:39 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 79 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 |
 | 80 | [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 |
 | 81 | [Loneliness](https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Loneliness](https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf) | 4:03 |
-| 82 | [Alright](https://open.spotify.com/track/7ff2PJL1f9uwAragrgUSDN) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Alright](https://open.spotify.com/album/3wbCP5qlV3RNmTq1PV9zm4) | 4:23 |
-| 83 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 |
+| 82 | [Au début](https://open.spotify.com/track/0VtFGtivXsNESTS1obxocz) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Renan Luce](https://open.spotify.com/album/6URLzqJsHu81RVKPybvexf) | 3:23 |
+| 83 | [Alright](https://open.spotify.com/track/7ff2PJL1f9uwAragrgUSDN) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Alright](https://open.spotify.com/album/3wbCP5qlV3RNmTq1PV9zm4) | 4:23 |
 | 84 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 |
 | 85 | [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 |
 | 86 | [Les montagnes de Corée](https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Les montagnes de Corée](https://open.spotify.com/album/4gGUSlybPIo465qR464coa) | 3:17 |

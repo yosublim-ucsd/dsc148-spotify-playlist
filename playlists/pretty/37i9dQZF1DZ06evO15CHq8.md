@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 ### [This Is $uicideboy$](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
 
-> This Is $uicideboy$\. Los temas esenciales, todos en una lista.
+> This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,148 likes - 51 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,459 likes - 51 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 18 | [Avalon](https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Avalon](https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv) | 2:20 |
 | 19 | [Putrid Pride](https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
 | 20 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
-| 21 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
-| 22 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
+| 21 | [CLYDE \(I Hope at Least One of My Ex\-Girlfriends Hears This\)](https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(II\)](https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR) | 2:32 |
+| 22 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
 | 23 | [AWKWARD CAR DRIVE](https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [GERM HAS A DEATHWISH](https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23) | 1:49 |
 | 24 | [Now I'm up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 |
-| 25 | [Champion of Death](https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 1:56 |
-| 26 | [What the Fuck is Happening](https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
+| 25 | [What the Fuck is Happening](https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
+| 26 | [Champion of Death](https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 1:56 |
 | 27 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 |
 | 28 | [$outh $ide $uicide](https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:49 |
 | 29 | [Grey Gods](https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 3:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 36 | [Six Lines, Two Dragons, and a Messiah](https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 2:46 |
 | 37 | [Lte](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 |
 | 38 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 |
-| 39 | [Harvest Moon](https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part IX: The Soulseek Saga](https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd) | 2:16 |
-| 40 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 |
+| 39 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 |
+| 40 | [Harvest Moon](https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part IX: The Soulseek Saga](https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd) | 2:16 |
 | 41 | [Gloss of Blood](https://open.spotify.com/track/7zOIzXpbnCcx6iZfvOjGCQ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 1:44 |
 | 42 | [Styrofoam](https://open.spotify.com/track/5PPwyMqz0vexoXcLijbERR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XV: The Coast of Ashes Saga](https://open.spotify.com/album/37GOfx56LiCjhWQUg3StiJ) | 1:22 |
 | 43 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 50 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 |
 | 51 | [Center Core Never More](https://open.spotify.com/track/67IECOggWzBnCERhbOlTRp) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:44 |
 
-Snapshot ID: `ZjLXgAAAAABe0QzelggaiY5MIfGvFO06`
+Snapshot ID: `ZjQpAAAAAADLM0D8ANnVueOQU9P6snAi`

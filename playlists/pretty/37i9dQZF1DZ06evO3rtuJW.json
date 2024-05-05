@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32455,
+  "num_followers": 32460,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADWYMYvz/nfzST9RxjkdkGS",
+  "snapshot_id": "ZjQpAAAAAADn1jotcIw/aLxZrEUdc0C/",
   "tracks": [
     {
       "added_at": null,
@@ -515,46 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swervo",
-        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Honestly (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plenty",
         "url": "https://open.spotify.com/album/4MZXuEnQWt8bpqTRCpPOyY"
       },
@@ -583,6 +543,46 @@
       "duration_ms": 238421,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/3OZoJykI0r4G7ycbRXkDhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 214344,
+      "name": "Honestly (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Hood Cycle (Bonus)",
-      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Hood Cycle (Bonus)",
+      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 231983,
       "name": "Chi-Raq (with G Herbo)",
       "url": "https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
       },
       "artists": [
         {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 228251,
-      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+      "duration_ms": 176027,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
     }
   ],
   "unique_name": "This Is G Herbo",

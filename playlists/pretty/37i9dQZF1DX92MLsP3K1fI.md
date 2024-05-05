@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Mau y Ricky con Guaynaa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,347 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,364 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 22 | [Inmortal](https://open.spotify.com/track/6Wj8Xwu5LSOwcvAup56uhf) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Inmortal](https://open.spotify.com/album/4S42JxmVMMRlRvaeEieilB) | 3:45 |
 | 23 | [Bahamas](https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bahamas](https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS) | 3:43 |
 | 24 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
-| 25 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
+| 25 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
 | 26 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 |
 | 27 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 |
-| 28 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
-| 29 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
-| 30 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
+| 28 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
+| 29 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 |
+| 30 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
 | 31 | [FBI](https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [FBI](https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL) | 2:32 |
 | 32 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
 | 33 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |

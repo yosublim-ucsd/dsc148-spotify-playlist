@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,262 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,257 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 45 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 46 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 47 | [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 |
-| 48 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 |
-| 49 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
+| 48 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
+| 49 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 |
 | 50 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 51 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 52 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |

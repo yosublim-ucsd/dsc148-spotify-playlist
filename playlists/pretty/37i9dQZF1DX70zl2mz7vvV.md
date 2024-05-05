@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,804 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,845 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 46 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 | 47 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 | 48 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
-| 49 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
-| 50 | [When I See You Smile](https://open.spotify.com/track/0sedwk5jVoYD78bxdwJIjt) | [Singing Sweet](https://open.spotify.com/artist/1ABKdHci1opQWv1GLXH0Na) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:43 |
+| 49 | [When I See You Smile](https://open.spotify.com/track/0sedwk5jVoYD78bxdwJIjt) | [Singing Sweet](https://open.spotify.com/artist/1ABKdHci1opQWv1GLXH0Na) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:43 |
+| 50 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
 
 Snapshot ID: `ZIsNowAAAADVbcyQusLgTZ9Rt//ekhU1`

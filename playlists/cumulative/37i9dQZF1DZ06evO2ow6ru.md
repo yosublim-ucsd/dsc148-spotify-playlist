@@ -2,7 +2,7 @@
 
 ### [This Is All Time Low](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ow6ru)
 
-> This Is All Time Low\. Los temas esenciales, todos en una lista.
+> This is All Time Low\. The essential tracks, all in one playlist.
 
 69 songs - 3 hr 44 min
 
@@ -13,7 +13,7 @@
 | [Back to You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-05-01 |  |
 | [Back To You](https://open.spotify.com/track/2vXLuBxoWMgiOdzkxAVnMJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Back To You](https://open.spotify.com/album/1VUk2mDbkXcdEo2zk8ZbH2) | 3:07 | 2023-04-29 | 2023-05-02 |
 | [Backseat Serenade](https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:21 | 2023-03-19 |  |
-| [Blinding Lights](https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Blinding Lights](https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm) | 3:13 | 2023-03-19 | 2024-05-04 |
+| [Blinding Lights](https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Blinding Lights](https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm) | 3:13 | 2023-03-19 |  |
 | [Break Your Little Heart](https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 2:51 | 2023-03-19 |  |
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-19 |  |
 | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/track/1ubpxD40x6D9eI5jFqq8qq) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/album/3fDkswLzRGVWKXR8Mxkn3t) | 3:08 | 2023-05-27 | 2023-06-24 |
@@ -56,7 +56,7 @@
 | [Poppin' Champagne](https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:19 | 2023-04-08 |  |
 | [Pretty Venom \(Interlude\)](https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:02 | 2023-03-19 |  |
 | [Remembering Sunday](https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 4:16 | 2023-03-19 |  |
-| [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 | 2023-03-29 |  |
+| [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 | 2023-03-29 | 2024-05-05 |
 | [Six Feet Under The Stars](https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:36 | 2023-03-19 |  |
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2023-03-19 |  |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-03-19 | 2023-05-27 |

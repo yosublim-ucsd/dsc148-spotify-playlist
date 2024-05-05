@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1034095,
+  "num_followers": 1034303,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
       },
       "artists": [
         {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
         }
       ],
-      "duration_ms": 219066,
-      "name": "Electricity - Remastered 2003",
-      "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -759,6 +743,22 @@
       "duration_ms": 220533,
       "name": "The Model - 2009 Remaster",
       "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "Electricity - Remastered 2003",
+      "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Natural History - The Very Best of Talk Talk",
-        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Such a Shame",
-      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fine Young Cannibals",
         "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 215733,
       "name": "Johnny Come Home",
       "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Natural History - The Very Best of Talk Talk",
+        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Such a Shame",
+      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1539,34 +1539,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Rattlesnakes",
-        "url": "https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig"
+        "name": "Mange Tout (Extended Version)",
+        "url": "https://open.spotify.com/album/2LzsjicxCFmETqfLZJsQGv"
       },
       "artists": [
         {
-          "name": "Lloyd Cole and the Commotions",
-          "url": "https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp"
+          "name": "Blancmange",
+          "url": "https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG"
         }
       ],
-      "duration_ms": 207426,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/3JocHDZrr2rpOK0xsiZK8T"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Dance Vault Mixes - Whisper To A Scream (Birds Fly)",
-        "url": "https://open.spotify.com/album/0zWgSTLgDWUgkbKjiRop8w"
-      },
-      "artists": [
-        {
-          "name": "The Icicle Works",
-          "url": "https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Whisper to a Scream (Birds Fly) - Single Version",
-      "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
+      "duration_ms": 210533,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1587,6 +1571,38 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Dance Vault Mixes - Whisper To A Scream (Birds Fly)",
+        "url": "https://open.spotify.com/album/0zWgSTLgDWUgkbKjiRop8w"
+      },
+      "artists": [
+        {
+          "name": "The Icicle Works",
+          "url": "https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Whisper to a Scream (Birds Fly) - Single Version",
+      "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Rattlesnakes",
+        "url": "https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Cole and the Commotions",
+          "url": "https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/3JocHDZrr2rpOK0xsiZK8T"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Sons And Fascination/Sister Feelings Call",
         "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 351866,
       "name": "Theme For Great Cities",
       "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Mange Tout (Extended Version)",
-        "url": "https://open.spotify.com/album/2LzsjicxCFmETqfLZJsQGv"
-      },
-      "artists": [
-        {
-          "name": "Blancmange",
-          "url": "https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 338808,
-      "name": "New Gold Dream (81/82/83/84)",
-      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Stars We Are",
         "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 391426,
       "name": "Rapture - Remastered 2001",
       "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 338808,
+      "name": "New Gold Dream (81/82/83/84)",
+      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Seven and the Ragged Tiger",
-        "url": "https://open.spotify.com/album/1A1AKj7tAopU9MIZgWdSP9"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "New Moon on Monday",
-      "url": "https://open.spotify.com/track/35JVOjqj3ZqdyB8kvynb3q"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Liaisons Dangereuses",
         "url": "https://open.spotify.com/album/0CLrs7DbW00X29zA5XueEi"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 301213,
       "name": "Los Ni\u00f1os Del Parque",
       "url": "https://open.spotify.com/track/17I97bDgzf5GrFzpG8GV8H"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Seven and the Ragged Tiger",
+        "url": "https://open.spotify.com/album/1A1AKj7tAopU9MIZgWdSP9"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "New Moon on Monday",
+      "url": "https://open.spotify.com/track/35JVOjqj3ZqdyB8kvynb3q"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
-        "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Greatest Hits Volume One: A Slight Case Of Overbombing (2018 Remaster)",
         "url": "https://open.spotify.com/album/5qjUHQuDQfh8UwkQ9C5udu"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 617489,
       "name": "This Corrosion - 2018 Remaster",
       "url": "https://open.spotify.com/track/2JOAxHYCYFiFF5YmOxQ5O9"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
+        "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Pull Up To The Bumper",
+      "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
     },
     {
       "added_at": "2023-05-03 07:47:14",

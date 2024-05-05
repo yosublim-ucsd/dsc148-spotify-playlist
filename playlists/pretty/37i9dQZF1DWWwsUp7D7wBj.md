@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. Biza x Shak 🐺
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,325 likes - 14 songs - 48 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,328 likes - 14 songs - 48 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

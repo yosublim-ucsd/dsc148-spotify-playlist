@@ -4,7 +4,7 @@
 
 > 
 
-207 songs - 13 hr 22 min
+209 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Just How Sweet Is Your Love \- Walker & Royce Remix](https://open.spotify.com/track/4eED03ycPDxXWHJ3jr4zkp) | [Rhyze](https://open.spotify.com/artist/7jLxCKIw1LMQXKAFArmyvI), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Future Disco, Vol\. 10 \- Complete\. Repeat\. A Disco Drama](https://open.spotify.com/album/4TtlG2HZDEzRCeeR5zY9Tq) | 7:42 | 2018-01-19 |  |
 | [Keep Up](https://open.spotify.com/track/0H4ldHOvXdVJXyxHZZC3hm) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Keep Up](https://open.spotify.com/album/2wstSFU3VMTXdqTIuXARw6) | 2:42 | 2023-01-29 |  |
 | [Kendrick Told Me \- Extended Mix](https://open.spotify.com/track/3JYpLPvCwpW5AwKSm7HKAx) | [Ellenbeat](https://open.spotify.com/artist/2n9Hu8BTr5vq69SmyPPcES) | [Kendrick Told Me](https://open.spotify.com/album/5WjWwoe5JkQbHodh65afQj) | 4:44 | 2024-02-03 |  |
+| [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-05-04 |  |
 | [Kiss Like This](https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Kiss Like This](https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw) | 2:23 | 2024-01-19 |  |
 | [Kurosang](https://open.spotify.com/track/7dVIl4ZQ5D7Y0QVGxxbTeh) | [Andre Salmon](https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157), [Michael Joseph](https://open.spotify.com/artist/6Muy58OV9B3Sa30hOuCcfC) | [Kurosang Is the Light](https://open.spotify.com/album/10XFBBeWLgLaohQvABRF3h) | 2:10 | 2023-04-01 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-07-20 |  |
@@ -125,6 +126,7 @@
 | [Messan](https://open.spotify.com/track/3kFkC87V2f8xNiq0bt7MUV) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Nite Life](https://open.spotify.com/album/7m9RFeHuNcdS6GoKEpQFif) | 6:00 | 2023-07-20 |  |
 | [Million Days \- 2k23 Radio Edit](https://open.spotify.com/track/2Wzr7JmUaucW9uyLZTyn7i) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Million Days 2k23 Mix](https://open.spotify.com/album/7Ji6morXT7AQy2lpU9Bf4i) | 3:13 | 2023-07-20 |  |
 | [Missing \- Todd Terry Remix / Radio Edit](https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Like The Deserts Miss The Rain](https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK) | 3:55 | 2023-07-29 |  |
+| [MoFo](https://open.spotify.com/track/4ss7vGVQNMjHx8UNc3FSz1) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [MoFo](https://open.spotify.com/album/2IYT4Iow6Tlzqr2IVR51na) | 5:25 | 2024-05-04 |  |
 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-09 |  |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \- John Summit Remix](https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \[John Summit Remix\]](https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU) | 3:26 | 2023-03-19 |  |
 | [Music Control](https://open.spotify.com/track/69Txwro4ma2vMngqXratbH) | [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Music Control](https://open.spotify.com/album/0NKiyDU8aurcjapdqgFe8v) | 3:09 | 2023-07-01 |  |
@@ -203,7 +205,7 @@
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2023-12-20 |  |
 | [Wait No More](https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:32 | 2023-09-26 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6Z8lRAqGrHPnNn2oQKU6Ns) | [Ben Remember](https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc) | [Waiting 4 You](https://open.spotify.com/album/6axRRJ7ZLnoRsWJH33aysC) | 2:57 | 2024-02-03 |  |
-| [Wassablah](https://open.spotify.com/track/32cEwNAX7orz0FGL5XK8gw) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 6:28 | 2024-04-14 |  |
+| [Wassablah](https://open.spotify.com/track/32cEwNAX7orz0FGL5XK8gw) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 6:28 | 2024-04-14 | 2024-05-05 |
 | [We Are](https://open.spotify.com/track/09ZvCPAcFmFBGDAMS23Gc0) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [We Are](https://open.spotify.com/album/2nsc6sXh3kcuNLh7aI6XAC) | 7:24 | 2022-08-20 | 2024-01-21 |
 | [Whatsapp \- Original Mix](https://open.spotify.com/track/1ARYFT8AZQBGCy5mdPHp82) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Cherry Picks Volume 1.](https://open.spotify.com/album/45wj4inQt9OthWTlOtibKf) | 6:13 | 2022-12-12 |  |
 | [When The Beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When The Beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 | 2023-12-04 |  |

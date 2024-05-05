@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,983 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,008 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,14 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 78 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
 | 79 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 80 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |
-| 81 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
-| 82 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 81 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 82 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
 | 83 | [Adios palomita ingrata](https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3) | [Palomita y Teresita base](https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 84 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
 | 85 | [Al Tigre de los Arenales](https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [No Le Mezquine la Marca](https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1) | 2:09 |
 | 86 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
-| 87 | [La Flecha](https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Con Los Grandes](https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA) | 2:09 |
-| 88 | [Vieja Canoita](https://open.spotify.com/track/59vynfRyWX8XFYCZHZFLDf) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Estefanía Morand](https://open.spotify.com/artist/6I9ucOWNcE59ZepDGWGCus) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:01 |
+| 87 | [Vieja Canoita](https://open.spotify.com/track/59vynfRyWX8XFYCZHZFLDf) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Estefanía Morand](https://open.spotify.com/artist/6I9ucOWNcE59ZepDGWGCus) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:01 |
+| 88 | [La Flecha](https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Con Los Grandes](https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA) | 2:09 |
 | 89 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 |
 | 90 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
 

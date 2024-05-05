@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Odd Mob & OMNOM\. 50% techno, 50% house
 
-1,585 songs - 3 day 17 hr 18 min
+1,586 songs - 3 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Activate](https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Activate](https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM) | 3:22 | 2023-04-07 | 2023-07-15 |
 | [Addiction](https://open.spotify.com/track/0Udf6kbPQSJgtJD0iPLNqD) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Tigerlight](https://open.spotify.com/artist/01vSmhUgSriqhRCQOYTad4) | [Addiction](https://open.spotify.com/album/1qHMGF3yqe6mlrV8HhGZnE) | 3:38 | 2022-11-28 | 2023-02-04 |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-06-24 | 2022-08-27 |
+| [Afloja](https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Afloja](https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP) | 3:03 | 2024-04-26 |  |
 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/1mvypEtmZxHz1GT6zaW67g) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel \(CID Remix\)](https://open.spotify.com/album/1QxcMxNHAkFTSULS2RbRck) | 3:25 | 2022-07-15 | 2022-08-05 |
 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/6dvnv0i0XRht7krRl9Cxa1) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel](https://open.spotify.com/album/7MyFYLIU17KlllsurPyosf) | 3:25 | 2022-07-15 | 2022-08-20 |
 | [AFTERPARTY](https://open.spotify.com/track/4mhqmrl6F6n0SEUvZBTNVP) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH) | [AFTERPARTY](https://open.spotify.com/album/5zihtWtXEjHr2RgPfeuhVD) | 3:28 | 2022-12-02 | 2023-02-25 |
@@ -1106,7 +1107,7 @@
 | [Rain \- Mood EP Version](https://open.spotify.com/track/4V2i4mCnjqWGXPJsNc8Rm8) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Kerri Chandler's Nervous Tracks](https://open.spotify.com/album/0VBC5IHz4wNedZsjVz6J4m) | 7:51 | 2022-12-28 | 2023-01-06 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-04-15 | 2022-07-30 |
 | [Raise Your Hands](https://open.spotify.com/track/1gJAEeLhQVe1FlO1ZtHiwJ) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Tomash](https://open.spotify.com/artist/2NeLA2fc9NB01mIRvO8e4Y) | [Raise Your Hands](https://open.spotify.com/album/71VzE9MGGVGug64mNHXyMR) | 3:52 | 2023-08-18 | 2023-09-23 |
-| [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 | 2024-03-15 |  |
+| [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 | 2024-03-15 | 2024-05-05 |
 | [Rasta Man](https://open.spotify.com/track/6voZD5npVSYcPaNOYvmAqk) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Rasta Man](https://open.spotify.com/album/1xYGtXFxu13gBjjJrpPAdr) | 2:46 | 2023-10-27 | 2023-11-01 |
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-03-29 | 2024-05-04 |
 | [Rave Inside My Head \- Original Radio Edit](https://open.spotify.com/track/15pmiJhVuKRVSCsEYTpnZk) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [David LeSal](https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa) | [Rave Inside My Head](https://open.spotify.com/album/4jAn4kdK1cGZyblizFYm4V) | 3:14 | 2023-12-15 | 2024-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,346 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,347 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 3 | [Adolorido](https://open.spotify.com/track/15Piouu29zcmBKPE7rMGwY) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 4:23 |
 | 4 | [Ahora Que Vives Conmigo](https://open.spotify.com/track/6qge5eo4FexKVvYVQVqMbL) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 3:16 |
 | 5 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
-| 6 | [Algo Tiene Este Café](https://open.spotify.com/track/0gDIjC1PsO7NhiHeIM1lZM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 4:03 |
-| 7 | [Perdido](https://open.spotify.com/track/25zVsjcK15lfJLyII4Tl1S) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:00 |
+| 6 | [Perdido](https://open.spotify.com/track/25zVsjcK15lfJLyII4Tl1S) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:00 |
+| 7 | [Algo Tiene Este Café](https://open.spotify.com/track/0gDIjC1PsO7NhiHeIM1lZM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 4:03 |
 | 8 | [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 |
 | 9 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 |
 | 10 | [Amigo](https://open.spotify.com/track/1E6XDLIKqxAyO6qpNbFlSZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 3:27 |
 | 11 | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \- Unidos por el Rock](https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4), [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb), [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ) | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \(Unidos por el Rock\)](https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2) | 5:36 |
 | 12 | [Artesano de la Construccion](https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:56 |
 | 13 | [Cristina](https://open.spotify.com/track/4HGvjkFxUsx5Hl0czvXbME) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:39 |
-| 14 | [Me Haces Volar](https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 2:47 |
-| 15 | [Castillos \- En Vivo](https://open.spotify.com/track/6qtBaM4AznwA5blaTnNp0v) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:11 |
+| 14 | [Castillos \- En Vivo](https://open.spotify.com/track/6qtBaM4AznwA5blaTnNp0v) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:11 |
+| 15 | [Me Haces Volar](https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 2:47 |
 | 16 | [Barrio Pobre](https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:21 |
 | 17 | [Ni una Más](https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 5:00 |
 | 18 | [Pobre Rocanrolero](https://open.spotify.com/track/6PO1FpMte6nYYtpgKIa466) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:53 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 23 | [El Toque Mágico \- En Vivo](https://open.spotify.com/track/2J6LZUmtPAucGv1fEeTdPM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 5:45 |
 | 24 | [Lobo de Mar](https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 2:00 |
 | 25 | [Paredes](https://open.spotify.com/track/0EUHQu4kk8uis9dp7YC7nF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 3:06 |
-| 26 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 |
+| 26 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
 | 27 | [Acción y Reacción \- En Vivo](https://open.spotify.com/track/0BD1TZW7Q9I78kXjTfuuQu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:09 |
 | 28 | [Corrido](https://open.spotify.com/track/4Zlnswq4DjPzbY1mJWZoOD) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 3:01 |
-| 29 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
+| 29 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 |
 | 30 | [Pancho Panchito](https://open.spotify.com/track/3lPSwEQpAwvg5JMdDw0ZWW) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 3:19 |
 | 31 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
 | 32 | [Blues del Borracho](https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
 | 50 | [Octubre](https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Segunda Oportunidad \(Duetos: Caminando Voy\)](https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0) | 3:11 |
 
-Snapshot ID: `ZjLXgAAAAACG8rK9Ref6eV798mqtPWAY`
+Snapshot ID: `ZjQpAAAAAACMkzYpCRzjAOcXS12jJg3Q`

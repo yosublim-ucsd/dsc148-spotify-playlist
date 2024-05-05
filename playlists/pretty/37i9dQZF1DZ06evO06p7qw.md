@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This Is Manuel Medrano\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,826 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,898 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 29 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 30 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 
-Snapshot ID: `ZjLXgAAAAAB3/nUei3Jj4g7AOBxL7n8y`
+Snapshot ID: `ZjQpAAAAAAAFqzJ+CsWqcGSzO4XrfWbB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 112 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,049 likes - 112 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 69 | [Right There](https://open.spotify.com/track/47rzxY9wSpomHE1gT94jIT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 4:07 |
 | 70 | [Bad Decisions](https://open.spotify.com/track/4qtXU0epoC3zEmolXdBcu8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:46 |
 | 71 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
-| 72 | [Knew Better / Forever Boy](https://open.spotify.com/track/212ecIiQ47VqrOLRTwXaMB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:59 |
-| 73 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 |
+| 72 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 |
+| 73 | [Knew Better / Forever Boy](https://open.spotify.com/track/212ecIiQ47VqrOLRTwXaMB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:59 |
 | 74 | [six thirty](https://open.spotify.com/track/2IKJtXeR5UsaUjZB46fTOK) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:03 |
 | 75 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 |
 | 76 | [west side](https://open.spotify.com/track/1whfVLMKWqAX3uk97VXsNN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:12 |
@@ -113,12 +113,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 103 | [Jason's Song \(Gave It Away\)](https://open.spotify.com/track/0kngSEayfCOjR8w83R7vAT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 4:24 |
 | 104 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/1UjPANunXLp0G9hbQNyPh9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:34 |
 | 105 | [someone like u \- interlude](https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 1:16 |
-| 106 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/2Aq78kKI9yuloJQkcbhQbU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:07 |
-| 107 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
+| 106 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
+| 107 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/2Aq78kKI9yuloJQkcbhQbU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:07 |
 | 108 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 |
 | 109 | [side to side \- live](https://open.spotify.com/track/1FYLqciy2MckeKgTvOCawO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 4:20 |
 | 110 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 111 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
 | 112 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `AbQYFAAAAAAwNLAd504gWVot1B2LZUC/`
+Snapshot ID: `AbQeXgAAAABgNk1NezO1O0jli4KTt3zp`

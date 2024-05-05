@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 85224,
+  "num_followers": 85246,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 173493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin for Trumpet",
-        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Juraj Barto\u0161",
-          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
-        },
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        }
-      ],
-      "duration_ms": 510600,
-      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
-      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 78000,
       "name": "3 Preludes: No. 3 in E-Flat Minor: Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/3zaylAL8Xig8oSSWzc4PcI"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        },
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        }
+      ],
+      "duration_ms": 510600,
+      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
+      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

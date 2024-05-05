@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2202718,
+  "2024-05-05": 2203495,
   "date_first_scraped": "2023-03-20",
   "description": "The essential tracks, all in one playlist.",
   "name": "This Is Dua Lipa",
@@ -1011,6 +1011,24 @@
       "duration_ms": 200108,
       "name": "That Kind Of Woman",
       "url": "https://open.spotify.com/track/4FuZofNMHdtsEdrsqwF3xR"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "album": {

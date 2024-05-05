@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 1193218,
+  "2024-05-05": 1193819,
   "date_first_scraped": "2021-10-24",
-  "description": "Mellow songs from the 1980s.",
+  "description": "Mellow songs from the 1980s. Cover: Genesis",
   "name": "Soft 80s",
   "tracks": [
     {
@@ -5197,7 +5197,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 133400,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
@@ -5327,7 +5327,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 270133,
       "name": "Turn Back The Clock",
       "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"

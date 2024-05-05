@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,378 songs - 3 day 3 hr 48 min
+1,379 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [1983 ..\. 2006](https://open.spotify.com/track/72oqQ4NLRPW5kihAbeCl2G) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [Mgharba Tal Moute](https://open.spotify.com/album/5r9xbGwIFggy2p5JkBQE7A) | 4:05 | 2022-10-24 | 2022-10-25 |
 | [2! 3!](https://open.spotify.com/track/18wfNzieLOgddJzOeJhokU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [WINGS](https://open.spotify.com/album/1EnFJjX81khStbM3BhTDle) | 4:32 | 2021-11-28 | 2021-11-30 |
 | [212](https://open.spotify.com/track/5HuRMeMU14d9BunDYhXb61) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:15 | 2024-01-06 | 2024-01-12 |
+| [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 | 2024-05-04 |  |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
 | [27](https://open.spotify.com/track/4raYzSzA2QkaJToOw8fpV3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:31 | 2023-11-24 | 2024-02-05 |
 | [3 D Lil](https://open.spotify.com/track/1iAsWhtSFVaYYjJAPc70tp) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [3 D Lil](https://open.spotify.com/album/31E8zXmeidKAU33riHGwIh) | 3:43 | 2022-03-12 | 2022-03-25 |
@@ -729,7 +730,7 @@
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-03-27\* | 2023-12-09 |
 | [Love Scars](https://open.spotify.com/track/5WoBXa945fS87d083cSkrs) | [Saint Bandz](https://open.spotify.com/artist/72UY8MsiTbxAnwK5qhhIA5) | [Love Scars](https://open.spotify.com/album/6stEDqUbk8tmzltAYHqGeO) | 2:22 | 2023-03-01 | 2023-04-01 |
 | [Lovini](https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn) | 3:09 | 2022-03-01 | 2022-06-15 |
-| [Lovini](https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES) | 3:09 | 2022-07-01 |  |
+| [Lovini](https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES) | 3:09 | 2022-07-01 | 2024-05-05 |
 | [Low](https://open.spotify.com/track/0YVb75bOkTVz23irkQxPR7) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Vingt\-deux](https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis) | 2:38 | 2023-01-21 | 2023-02-03 |
 | [LV COCO](https://open.spotify.com/track/62yJbbO1aBTfdT2XAUtBxh) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [LV COCO](https://open.spotify.com/album/15MDWkpeViZTZrsRRM0BTP) | 3:03 | 2022-10-22 | 2022-11-05 |
 | [Lyam](https://open.spotify.com/track/7gZaKOU5UURV2NEr7oAWAM) | [PAUSE](https://open.spotify.com/artist/0uTp5GLBw29vSXNrkd8bE6) | [Metamorphose](https://open.spotify.com/album/4PUzOEvgJqoRZ5J66CF65k) | 3:35 | 2023-02-22 | 2023-04-21 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85511,
+  "num_followers": 85519,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Mar de Hiladas",
-        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
-      },
-      "artists": [
-        {
-          "name": "Babelgam",
-          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "T\u00fanel",
-      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Neum\u00e1ticos",
         "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 225456,
       "name": "Neum\u00e1ticos",
       "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Mar de Hiladas",
+        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
+      },
+      "artists": [
+        {
+          "name": "Babelgam",
+          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "T\u00fanel",
+      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
-      },
-      "artists": [
-        {
-          "name": "La Ramona",
-          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
-        }
-      ],
-      "duration_ms": 231121,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Texas",
         "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258946,
       "name": "Texas",
       "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
+      },
+      "artists": [
+        {
+          "name": "La Ramona",
+          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
+        }
+      ],
+      "duration_ms": 231121,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c"
+        "name": "La Clase Que Trabaja",
+        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
       },
       "artists": [
         {
-          "name": "Alfonso Espriella",
-          "url": "https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV"
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
         }
       ],
-      "duration_ms": 189702,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
+      "duration_ms": 187500,
+      "name": "La Clase Que Trabaja",
+      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "La Clase Que Trabaja",
-        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "La Clase Que Trabaja",
-      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Campesino",
         "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278724,
       "name": "Campesino",
       "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c"
+      },
+      "artists": [
+        {
+          "name": "Alfonso Espriella",
+          "url": "https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV"
+        }
+      ],
+      "duration_ms": 189702,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Antes de Que Sea Muy Tarde",
-        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
-      },
-      "artists": [
-        {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Antes de Que Sea Muy Tarde",
-      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 276000,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Antes de Que Sea Muy Tarde",
+        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
+      },
+      "artists": [
+        {
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Antes de Que Sea Muy Tarde",
+      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
     },
     {
       "added_at": "2023-10-07 00:35:47",

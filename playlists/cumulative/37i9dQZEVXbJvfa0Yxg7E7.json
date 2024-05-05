@@ -1809,6 +1809,28 @@
     },
     {
       "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/4qoGKNSazyc7sPavUG3uQ6"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194595,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/0Crp2H6SCmv5ZomBW3Kqae"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/30UpSPTI7CDPcdcYPurOaE"
       },
@@ -5128,7 +5150,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 180923,
       "name": "Cocaina",
       "url": "https://open.spotify.com/track/13tzQyVcDgH0aIcImt7TGk"
@@ -5654,6 +5676,28 @@
       "duration_ms": 187234,
       "name": "Da det var oss",
       "url": "https://open.spotify.com/track/2mtC4zyp4Dn3GaoGonrWax"
+    },
+    {
+      "album": {
+        "name": "Da vi var to",
+        "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187790,
+      "name": "Da vi var to",
+      "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
     },
     {
       "album": {
@@ -12311,6 +12355,28 @@
     },
     {
       "album": {
+        "name": "Helaften",
+        "url": "https://open.spotify.com/album/2zOwRGNoXTIE01W0ohNcf0"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196950,
+      "name": "Helaften",
+      "url": "https://open.spotify.com/track/26QEzbB5F5BfD0a0CB8ywX"
+    },
+    {
+      "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
@@ -13319,6 +13385,36 @@
     },
     {
       "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -14006,7 +14102,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -14402,7 +14498,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -15954,7 +16050,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 183615,
       "name": "Jeg vil ha (Parlamentet)",
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
@@ -25065,6 +25161,28 @@
     },
     {
       "album": {
+        "name": "Roc Boyz Freestyle",
+        "url": "https://open.spotify.com/album/28OnYFIb8XwZXhk7n6qHD1"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "ORIO",
+          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122075,
+      "name": "Roc Boyz Freestyle",
+      "url": "https://open.spotify.com/track/7zcguFnATwSR7XjBtvW2B0"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -27186,7 +27304,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -28122,7 +28240,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -29788,7 +29906,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -29956,6 +30074,24 @@
       "duration_ms": 339012,
       "name": "TheMostBeautifulShowInTheWorld(RightNow)_v2_020822.wav",
       "url": "https://open.spotify.com/track/5nG1GrKDzkOQ9pWw49uhgj"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "album": {
@@ -31208,6 +31344,28 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+    },
+    {
+      "album": {
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/0CNpyUgFOxwgo6HmmPFkAY"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168999,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/1Nj3f3q1cLe79irCb2Ln0b"
     },
     {
       "album": {

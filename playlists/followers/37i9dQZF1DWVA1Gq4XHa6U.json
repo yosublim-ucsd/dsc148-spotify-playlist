@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 3680222,
+  "2024-05-05": 3680930,
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Rick Ross",
+  "description": "Taking it way back! Cover: Snoop Dogg",
   "name": "Gold School",
   "tracks": [
     {
@@ -193,7 +193,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 246400,
       "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
       "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 234533,
       "name": "Bitch Please",
       "url": "https://open.spotify.com/track/5Sm1X46tna50RstHZvw072"
@@ -990,6 +990,28 @@
     },
     {
       "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
       },
@@ -1267,6 +1289,32 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
+        "name": "No Limit Top Dogg",
+        "url": "https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "C-Murder",
+          "url": "https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x"
+        },
+        {
+          "name": "Magic",
+          "url": "https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Down 4 My N's",
+      "url": "https://open.spotify.com/track/14uUTfHIwIp587cz13UI5A"
     },
     {
       "album": {
@@ -3253,7 +3301,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 256400,
       "name": "Mafia Music",
       "url": "https://open.spotify.com/track/4IgP2sTH5RYOpx9gbHQyMT"
@@ -3565,6 +3613,32 @@
       "duration_ms": 268400,
       "name": "My Name Is",
       "url": "https://open.spotify.com/track/0Fv6CfegUbD5Egs0dj8CVB"
+    },
+    {
+      "album": {
+        "name": "My Krazy Life",
+        "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235632,
+      "name": "My Nigga",
+      "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
     },
     {
       "album": {
@@ -5231,7 +5305,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 313106,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/135lkyQRwFlWfmHjJTxtld"
@@ -5963,7 +6037,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 246200,
       "name": "Who Am I (What\u2019s My Name)?",
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"

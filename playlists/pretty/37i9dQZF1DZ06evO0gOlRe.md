@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,328 likes - 37 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,359 likes - 37 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 15 | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz) | 3:30 |
 | 16 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
 | 17 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 |
-| 18 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
-| 19 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 18 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 19 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
 | 20 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
 | 21 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 |
 | 22 | [This Is Your Life](https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP) | 2:35 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 36 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 |
 | 37 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 
-Snapshot ID: `ZjLXgAAAAABYqbfGIkOC5Bo+kvxRgDAQ`
+Snapshot ID: `ZjQpAAAAAAAWFRVCd6QAdLw+0BFj0B3N`

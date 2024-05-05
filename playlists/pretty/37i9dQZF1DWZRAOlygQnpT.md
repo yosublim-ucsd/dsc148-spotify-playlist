@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,875 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,960 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 27 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
 | 28 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 |
 | 29 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
-| 30 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
-| 31 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
+| 30 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
+| 31 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
 | 32 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:13 |
 | 33 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
 | 34 | [Tequila Con Limón](https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:37 |

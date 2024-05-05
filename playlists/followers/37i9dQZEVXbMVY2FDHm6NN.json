@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 34498,
+  "2024-05-05": 34533,
   "date_first_scraped": "2022-10-04",
   "description": "Your weekly update of the most played tracks right now - Taiwan.",
   "name": "Top Songs - Taiwan",
@@ -390,7 +390,7 @@
     },
     {
       "album": {
-        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
       "artists": [
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -1355,6 +1355,24 @@
       "duration_ms": 154236,
       "name": "Hate You",
       "url": "https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "HEYA",
+      "url": "https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN"
     },
     {
       "album": {
@@ -1984,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Love You With All My Heart",
+      "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1999,6 +2035,24 @@
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
     },
     {
       "album": {
@@ -2121,7 +2175,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -2443,7 +2497,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
@@ -2635,7 +2689,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 255287,
       "name": "SEX TAPE",
       "url": "https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr"
@@ -2841,7 +2895,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -2957,6 +3011,28 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
       "album": {
@@ -4487,6 +4563,24 @@
       "duration_ms": 196428,
       "name": "\u53ef\u80fd\u662f\u98ce\u592a\u5927\u4e86\u5427",
       "url": "https://open.spotify.com/track/7Kg4PcIlQKa2gJKrURRYDp"
+    },
+    {
+      "album": {
+        "name": "\u540d\u5b57",
+        "url": "https://open.spotify.com/album/57aoNt9kmpzov7sBNSmPNq"
+      },
+      "artists": [
+        {
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266342,
+      "name": "\u540d\u5b57",
+      "url": "https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK"
     },
     {
       "album": {
@@ -6373,7 +6467,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 222529,
       "name": "\u982d\u865f\u73a9\u5bb6 NO.1 Player",
       "url": "https://open.spotify.com/track/4UBEu6iSvM9vGqBwbaSiQP"

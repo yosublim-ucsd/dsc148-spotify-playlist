@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-536 songs - 1 day 12 hr 9 min
+537 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 |  |
 | [It Hurts](https://open.spotify.com/track/4vMCeNc8dsCJN4ITQK2NoQ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 3:23 | 2023-01-17 | 2024-04-19 |
 | [It's All About You](https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/38mNfogFOWzoGS4h8S4OfZ) | 3:20 | 2023-01-17 | 2024-04-19 |
-| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 |  |
+| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 | 2024-05-05 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2023-01-17 | 2024-04-19 |
 | [Jealousy](https://open.spotify.com/track/0t2CHswC5RVBRq7qvWBU4j) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Jealousy](https://open.spotify.com/album/2YWbrv6MAlIB234w61w3vR) | 3:36 | 2023-01-17 |  |
 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 | 2023-01-17 | 2024-04-19 |
@@ -539,6 +539,7 @@
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2023-01-17 |  |
 | [Youngblood](https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm) | 3:52 | 2023-01-17 |  |
 | [Youngblood](https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx) | 3:52 | 2023-01-17 | 2024-04-19 |
+| [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 | 2023-01-17 |  |
 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 | 2023-01-17 | 2024-04-19 |
 | [Your Lady](https://open.spotify.com/track/6D48OMdNw24Wo6DTKM4e0m) | [Pedro Blue](https://open.spotify.com/artist/5a5rsH8zoQQwaAmn6v75GL) | [Funky Room](https://open.spotify.com/album/5NE765GbUIQLAjY82hMM0E) | 4:28 | 2023-01-17 |  |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-14 |  |

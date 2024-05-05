@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 3597,
+  "2024-05-05": 3598,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq\">Joel Little</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Joel Little",
@@ -1293,6 +1293,24 @@
       "duration_ms": 201973,
       "name": "I Would",
       "url": "https://open.spotify.com/track/3VAlgnWebpkajPC1GVeeYE"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "If You Leave Me",
+      "url": "https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf"
     },
     {
       "album": {

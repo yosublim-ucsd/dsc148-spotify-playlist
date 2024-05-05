@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 372747,
+  "2024-05-05": 372828,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Dua Lipa",
   "name": "New Music Friday AU & NZ",
@@ -43182,24 +43182,24 @@
     },
     {
       "album": {
-        "name": "Miles on It",
+        "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168355,
-      "name": "Miles on It",
+      "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
@@ -60318,6 +60318,24 @@
     },
     {
       "album": {
+        "name": "Some Days",
+        "url": "https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Some Days",
+      "url": "https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9"
+    },
+    {
+      "album": {
         "name": "Some Say",
         "url": "https://open.spotify.com/album/3lj0jcCh7BSS4ZCeMeqvZb"
       },
@@ -60509,24 +60527,6 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "album": {
-        "name": "Somedays",
-        "url": "https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7"
-      },
-      "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        }
-      ],
-      "date_added": "2024-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233960,
-      "name": "Somedays",
-      "url": "https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9"
     },
     {
       "album": {

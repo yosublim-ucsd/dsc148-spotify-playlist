@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 147819,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF"
@@ -6648,6 +6648,24 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "album": {
+        "name": "Sacrifice Tomorrow",
+        "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145622,
+      "name": "Sacrifice Tomorrow",
+      "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
     },
     {
       "album": {
@@ -7896,7 +7914,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 221973,
       "name": "The Lost Ones",
       "url": "https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu"
@@ -8092,6 +8110,24 @@
       "duration_ms": 203061,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148665,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4"
     },
     {
       "album": {

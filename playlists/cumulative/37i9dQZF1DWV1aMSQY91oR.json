@@ -12691,6 +12691,24 @@
     },
     {
       "album": {
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
         "name": "Maybe It's Me...",
         "url": "https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx"
       },
@@ -24279,6 +24297,24 @@
     },
     {
       "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -28008,6 +28044,24 @@
       "duration_ms": 170294,
       "name": "Not Impressed",
       "url": "https://open.spotify.com/track/1dlfnOELqllivx9e5MLsHq"
+    },
+    {
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "album": {
@@ -39632,7 +39686,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 227211,
       "name": "TakeDat",
       "url": "https://open.spotify.com/track/6fJCA6KjZLUHb87LV62hVT"

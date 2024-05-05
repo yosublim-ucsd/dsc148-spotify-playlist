@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,095 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,177 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 47 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
 | 48 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
 | 49 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 |
-| 50 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 51 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
+| 50 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
+| 51 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 52 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 |
 | 53 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
 | 54 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 |
 | 55 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 56 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
-| 57 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
+| 57 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
 | 58 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
-| 59 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
+| 59 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
 | 60 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
 | 61 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 62 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |

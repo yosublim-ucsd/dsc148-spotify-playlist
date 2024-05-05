@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370,920 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,371,207 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 46 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 |
 | 47 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 |
 | 48 | [Migraine](https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [When I Met You](https://open.spotify.com/album/4t3FtECyV1gClHmpBhXSfB) | 4:27 |
-| 49 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
-| 50 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
+| 49 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
+| 50 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
 
 Snapshot ID: `Zh9jDwAAAAAywh79cNUo1CM9BUz/oqiW`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 465480,
+  "num_followers": 465861,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-04-19 16:23:59",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-04-19 16:23:59",
+      "album": {
         "name": "Modo DND",
         "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-04-19 16:23:59",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-04-19 16:23:59",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-04-19 16:23:59",
       "album": {
-        "name": "Ch y la Pizza",
-        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 136913,
-      "name": "Ch y la Pizza",
-      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
-    },
-    {
-      "added_at": "2024-04-19 16:23:59",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 183797,
       "name": "El Menos Visto",
       "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "added_at": "2024-04-19 16:23:59",
+      "album": {
+        "name": "Ch y la Pizza",
+        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 136913,
+      "name": "Ch y la Pizza",
+      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
     },
     {
       "added_at": "2024-04-19 16:23:59",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-04-19 16:23:59",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2024-04-19 16:23:59",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2024-04-19 16:23:59",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2024-04-19 16:23:59",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-04-19 16:23:59",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
-    },
-    {
-      "added_at": "2024-04-19 16:23:59",
-      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
+    },
+    {
+      "added_at": "2024-04-19 16:23:59",
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2024-04-19 16:23:59",

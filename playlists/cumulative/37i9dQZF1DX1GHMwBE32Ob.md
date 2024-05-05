@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Vibes Inc
 
-238 songs - 10 hr 58 min
+239 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 |  |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-11-23 |
 | [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 | 2024-04-19 |
+| [Desire](https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ) | [Badsome](https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT) | [Desire](https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ) | 2:27 | 2024-05-03 |  |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2023-12-08 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 | 2024-04-19 |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 | 2024-04-19 |  |
@@ -128,7 +129,7 @@
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 | 2023-12-15 |
 | [Koni Baje](https://open.spotify.com/track/4kOKUxm84unlT2VxwEp1pB) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stranger](https://open.spotify.com/album/5XgZB2QHhjbyFduvvHkh0A) | 2:13 | 2023-02-14 | 2023-02-17 |
 | [Kosalabaro](https://open.spotify.com/track/6M5uAfQ1rfLpgPAtl5ArCl) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ika of Africa](https://open.spotify.com/album/7a1ykEG6P58L8iJ4mnDSva) | 3:09 | 2022-11-25 | 2022-12-02 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2024-05-05 |
 | [Kpk \(Ko Por Ke\)](https://open.spotify.com/track/4v9ARraq3gGFPbgfVUyHGa) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Rexxie](https://open.spotify.com/artist/7Brq2wxtsh6RQAqqLDEQON) | [Best of Mohbad](https://open.spotify.com/album/2IIJUXmvz71nOru199lCMl) | 3:11 | 2023-10-20 | 2023-10-27 |
 | [Kpk \(Ko Por Ke\)](https://open.spotify.com/track/5Qwug8jOoTvV4vpgyft0qG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Rexxie](https://open.spotify.com/artist/7Brq2wxtsh6RQAqqLDEQON) | [InterSpace Presents: Afrobeats October 2023](https://open.spotify.com/album/2pahIIqK0w6esams7reROy) | 3:11 | 2023-10-20 | 2023-10-21 |
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 | 2024-02-09 |

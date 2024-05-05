@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 784125,
+  "num_followers": 784153,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Feel This Moment (feat. Christina Aguilera)",
-      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -535,22 +535,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+      "duration_ms": 229506,
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -895,26 +895,6 @@
       "duration_ms": 248133,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -939,6 +919,26 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "21 Reasons (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 155253,
+      "name": "21 Reasons (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "21 Reasons (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 155253,
-      "name": "21 Reasons (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 155076,
       "name": "Barbie Girl - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2443,26 +2443,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Thank You [Not So Bad]",
-        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "Thank You [Not So Bad]",
-      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Is This Love (Remix)",
         "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
       },
@@ -2483,6 +2463,26 @@
       "duration_ms": 199655,
       "name": "Is This Love - Remix",
       "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Thank You [Not So Bad]",
+        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Thank You [Not So Bad]",
+      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2587,26 +2587,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Never Let Me Down",
-        "url": "https://open.spotify.com/album/5qrCoCKxWEDf5y5yERNArR"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/0Je3J2ml1lrnTLXXIlxrvR"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
       },
@@ -2683,6 +2663,26 @@
       "duration_ms": 186262,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Never Let Me Down",
+        "url": "https://open.spotify.com/album/5qrCoCKxWEDf5y5yERNArR"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/0Je3J2ml1lrnTLXXIlxrvR"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -3123,6 +3123,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "I Got U",
+        "url": "https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 285596,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Emigrante Del Mundo",
         "url": "https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D"
       },
@@ -3179,26 +3199,6 @@
       "duration_ms": 210012,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/6WQLkih8nE0JdUCEyLaGnQ"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "I Got U",
-        "url": "https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 285596,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY"
     },
     {
       "added_at": "2023-08-07 22:19:56",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-833 songs - 2 day 2 hr 6 min
+834 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2021-03-27\* | 2021-06-11 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2023-12-18 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
-| [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2023-10-24 |  |
+| [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2023-10-24 | 2024-05-05 |
+| [711](https://open.spotify.com/track/4dnlLz7zpWmuBgGeIHJYL0) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/7mGQSG3GPyox65DMOAX0j7) | 3:42 | 2024-05-04 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-05-11 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-13 | 2022-07-17 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2023-01-03 |

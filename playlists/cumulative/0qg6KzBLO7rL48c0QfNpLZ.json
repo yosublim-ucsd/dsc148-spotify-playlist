@@ -2593,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/0z5dbKBLmLJX6SOXYGEhVQ"
+      },
+      "artists": [
+        {
+          "name": "Steam Phunk",
+          "url": "https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh"
       },
@@ -4411,7 +4433,7 @@
     },
     {
       "album": {
-        "name": "Paradise (feat. Modi)",
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/2KnmXGIW5lO2EBx8vgSKy3"
       },
       "artists": [
@@ -4428,7 +4450,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132524,
-      "name": "Paradise (feat. Modi)",
+      "name": "Paradise",
       "url": "https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG"
     },
     {

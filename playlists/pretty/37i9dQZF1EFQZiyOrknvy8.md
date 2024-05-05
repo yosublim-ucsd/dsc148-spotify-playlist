@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 126 | [ich hasse dich](https://open.spotify.com/track/2JLZAtFOW9jTDHN1r9rlQI) | [youareslowlykillingme](https://open.spotify.com/artist/1OO6NNsMdnnZqjFPKaIiZp) | [ich hasse dich](https://open.spotify.com/album/76ABHtDaeYPnY1zpefPGR7) | 2:24 |
 | 127 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 |
 | 128 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 |
-| 129 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
-| 130 | [Delfine](https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei \(Deluxe Edition\)](https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq) | 3:09 |
+| 129 | [Delfine](https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei \(Deluxe Edition\)](https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq) | 3:09 |
+| 130 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
 | 131 | [Not About You](https://open.spotify.com/track/2qxVLzNuYZ5krJAhUQmC1E) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Stay](https://open.spotify.com/album/6hLb1BSmPR9aglZsak7vHT) | 3:31 |
 | 132 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
 | 133 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 138 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 139 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbQYJQAAAABZIuhi5PKsn6BVTkkmoRnD`
+Snapshot ID: `AbQecgAAAAAOgPn2OiWle47sjO4BrB5p`

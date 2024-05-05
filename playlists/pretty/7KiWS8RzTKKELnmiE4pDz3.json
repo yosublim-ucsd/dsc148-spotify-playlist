@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcjjP5vv8lMaWPx+pQLMw6ZzzVeUZ8",
+  "snapshot_id": "AAAckwV+cfW60rMmFbbCLR/HOEpxImE0",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -1639,6 +1639,98 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2024-05-05 03:34:50",
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 94426,
+      "name": "Back On My BS",
+      "url": "https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"
+    },
+    {
+      "added_at": "2024-05-05 03:35:06",
+      "album": {
+        "name": "Hell Night",
+        "url": "https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Hell Night",
+      "url": "https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T"
+    },
+    {
+      "added_at": "2024-05-05 03:35:20",
+      "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
+    },
+    {
+      "added_at": "2024-05-05 03:35:34",
+      "album": {
+        "name": "DR. EV4L",
+        "url": "https://open.spotify.com/album/4emCVXg7Sd9tFn0DEf8B1L"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 246585,
+      "name": "Colombian Necktie",
+      "url": "https://open.spotify.com/track/4wYu5bgBXctjSov4QUJxzZ"
+    },
+    {
+      "added_at": "2024-05-05 03:43:16",
+      "album": {
+        "name": "AI YoungBoy 2",
+        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Rich As Hell",
+      "url": "https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4"
     }
   ],
   "unique_name": "main ",

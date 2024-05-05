@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,050 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693,468 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 96 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
 | 97 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 98 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
-| 99 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
-| 100 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:31 |
+| 99 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:31 |
+| 100 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
 | 101 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
 | 102 | [Fucked up Kids](https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Summer Bones](https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh) | 2:31 |
 | 103 | [Shake It Out](https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Mean Everything To Nothing](https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s) | 5:11 |
@@ -115,14 +115,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 105 | [Match & Tinder](https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI) | [You Blew It!](https://open.spotify.com/artist/3jvWpZJpokYCoT0QV4OJg0) | [Keep Doing What You're Doing](https://open.spotify.com/album/6CIF1X6UWZeUzsOEv1GzpH) | 2:39 |
 | 106 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
 | 107 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
-| 108 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
-| 109 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
+| 108 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
+| 109 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
 | 110 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
 | 111 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
 | 112 | [Give It Up](https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Forget What You Know](https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu) | 3:39 |
 | 113 | [We're At The Top Of The World](https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:17 |
-| 114 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
-| 115 | [I Want To Hear You Sad](https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk) | 3:30 |
+| 114 | [I Want To Hear You Sad](https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk) | 3:30 |
+| 115 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
 | 116 | [Promise](https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:16 |
 | 117 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
 | 118 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |

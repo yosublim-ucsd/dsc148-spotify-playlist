@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85302,
+  "num_followers": 85313,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -715,6 +715,26 @@
       "duration_ms": 225264,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Lo que fuera",
+        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 177019,
+      "name": "Lo que fuera",
+      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -783,26 +803,6 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Lo que fuera",
-        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 177019,
-      "name": "Lo que fuera",
-      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "A D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 202230,
       "name": "A D\u00f3nde Vamos?",
       "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Todo el Universo",
-        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Todo el Universo",
-      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 208908,
       "name": "SUR",
       "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Todo el Universo",
+        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Todo el Universo",
+      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "GUARACHA",
-        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        }
-      ],
-      "duration_ms": 157688,
-      "name": "GUARACHA",
-      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "GUARACHA",
+        "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "duration_ms": 157688,
+      "name": "GUARACHA",
+      "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "C\u00e1llame",
         "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Seremos Idiotas",
-        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
       "artists": [
         {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Seremos Idiotas",
-      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1567,6 +1551,22 @@
       "duration_ms": 277674,
       "name": "Ganas - Spotify Singles",
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "Vete De Una Vez",
+        "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Vete De Una Vez",
+      "url": "https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "PAHPAHPAH",
         "url": "https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 131874,
       "name": "PAHPAHPAH",
       "url": "https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Vete De Una Vez",
-        "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 252706,
-      "name": "Vete De Una Vez",
-      "url": "https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1739,26 +1739,18 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Bajo la Lluvia \u96e8\u66dd",
-        "url": "https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P"
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
       },
       "artists": [
         {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        },
-        {
-          "name": "Greta Dumont",
-          "url": "https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk"
-        },
-        {
-          "name": "A.B.R.E.",
-          "url": "https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 247185,
-      "name": "Bajo la Lluvia \u96e8\u66dd",
-      "url": "https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9"
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     }
   ],
   "unique_name": "Radio Indie",

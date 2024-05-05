@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 
 ### [This Is Metro Boomin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
 
-> This Is Metro Boomin\. Los temas esenciales, todos en una lista.
+> This is Metro Boomin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,103 likes - 32 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,305 likes - 32 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,6 +39,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 | 29 | [Drink N Dance](https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:40 |
 | 30 | [dangerous](https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:25 |
 | 31 | [Annihilate \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, Lil Wayne, Offset\)](https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:51 |
-| 32 | [Jealous](https://open.spotify.com/track/4k8XSN1nCJ0rMf4OKF3zEz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:44 |
+| 32 | [Nights Like This](https://open.spotify.com/track/6c0rii1TOf2fvq3hhqqExW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:52 |
 
-Snapshot ID: `ZjLXgAAAAAD11Gi5/YFWW9Twv0QzClRm`
+Snapshot ID: `ZjQpAAAAAABUiF0znwKxQhk56fqRSmhz`

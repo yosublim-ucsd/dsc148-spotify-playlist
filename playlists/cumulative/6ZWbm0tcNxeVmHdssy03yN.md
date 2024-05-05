@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-3,800 songs - 8 day 9 hr 32 min
+3,801 songs - 8 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2605,6 +2605,7 @@
 | [Perfection](https://open.spotify.com/track/2m2cnm4l2sDblgypxPurxz) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Perfection](https://open.spotify.com/album/304gqm9oLjUSdzr6BsSYlR) | 3:24 | 2024-03-29 | 2024-04-19 |
 | [Perfectly Opposite](https://open.spotify.com/track/20n8zRBiLefkmmb2vNXanm) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Perfectly Opposite](https://open.spotify.com/album/1NUuIVPiTzqXPOhp1HwEUR) | 2:42 | 2023-02-10 | 2023-03-04 |
 | [PERFUME](https://open.spotify.com/track/5N5YIdijJA2LbLGNlWgbjS) | [Blackswann](https://open.spotify.com/artist/4I8F7D0wb6365qHpwN65nl) | [PERFUME](https://open.spotify.com/album/5Lomx97akrvFR3o4tKclwj) | 2:48 | 2023-01-20 | 2023-02-16 |
+| [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 | 2024-05-04 |  |
 | [Persistence](https://open.spotify.com/track/3NTLH1seeBuLeKgFTOYykW) | [sisi](https://open.spotify.com/artist/2dRzi2hYCGlZqwsKfK68lR) | [I hope you're listening...](https://open.spotify.com/album/0QTJdWlw7wABksRBxbhv6w) | 2:49 | 2023-12-15 | 2024-01-13 |
 | [Perth](https://open.spotify.com/track/6ZaCKD6mzsj9gWKAL1RPE2) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Perth](https://open.spotify.com/album/5CcszYeWdW5CxLMRadic4L) | 3:29 | 2023-04-07 | 2023-05-13 |
 | [Petty](https://open.spotify.com/track/5N3plGLU680DanTUQ0VLVd) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Petty](https://open.spotify.com/album/06B3r2YWw9djhFV6IcFiyj) | 2:33 | 2022-12-09 | 2022-12-24 |
@@ -2993,7 +2994,7 @@
 | [Silent Road](https://open.spotify.com/track/6N7KuAAfu8XoR8mrCDDvSv) | [emerger](https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7) | [Bloom \(Deluxe\)](https://open.spotify.com/album/3gMD4FPCdtg1fevIPwA5wP) | 3:46 | 2023-05-19 | 2023-06-10 |
 | [SILHOUETTE](https://open.spotify.com/track/1oACt661ciJ05ZXyHpqaUS) | [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [SILHOUETTE](https://open.spotify.com/album/5U3G0g45P5Ax0EWDdd6C3v) | 2:15 | 2023-06-30 | 2023-07-22 |
 | [Silverline](https://open.spotify.com/track/4xZquoRZVEDlyPZ1qEpyPz) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Silverline](https://open.spotify.com/album/4aAgl7KIiMyyimM85ulBS8) | 2:22 | 2024-03-08 | 2024-04-06 |
-| [Simmer Down](https://open.spotify.com/track/4pcEACnm3ZfZNNepcxCT0c) | [Casper Walsh](https://open.spotify.com/artist/4PW6TRoX9GI8eZt18LQ1aW) | [Simmer Down](https://open.spotify.com/album/6D9NTpouTbSPeKnjwnEEjw) | 3:03 | 2024-04-05 | 2024-04-27 |
+| [Simmer Down](https://open.spotify.com/track/4pcEACnm3ZfZNNepcxCT0c) | [Casper Walsh](https://open.spotify.com/artist/4PW6TRoX9GI8eZt18LQ1aW) | [Simmer Down](https://open.spotify.com/album/6D9NTpouTbSPeKnjwnEEjw) | 3:03 | 2024-04-05 |  |
 | [Simple Man](https://open.spotify.com/track/0nSKTKGxSHP0bOaQW5pTHt) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Simple Man](https://open.spotify.com/album/7ppGfIkV9Zj3rzMB3eNn3O) | 3:42 | 2021-03-27 | 2021-06-05 |
 | [Sin Darnos Cuenta](https://open.spotify.com/track/1KpkRDNBS2jz9uuU65yl0i) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Sin Darnos Cuenta](https://open.spotify.com/album/1BHHAIBZLvC9QWFNL0DtCK) | 3:24 | 2023-03-17 | 2023-04-09 |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-06-09 | 2023-07-02 |

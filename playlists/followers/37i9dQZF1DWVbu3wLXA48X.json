@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 109680,
+  "2024-05-05": 109676,
   "date_first_scraped": "2021-12-21",
   "description": "Current indie tunes from Asia and around the world. Cover: Tom Misch ",
   "name": "Indie Shuffle",
@@ -7488,6 +7488,24 @@
     },
     {
       "album": {
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180209,
+      "name": "Every Little Thing I Say I Do",
+      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
+    },
+    {
+      "album": {
         "name": "Keep On Smiling",
         "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
       },
@@ -14084,6 +14102,24 @@
     },
     {
       "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "album": {
         "name": "The House of Tomorrow (Remastered)",
         "url": "https://open.spotify.com/album/6mTdIsbwm0eF22xlIr6XP5"
       },
@@ -16748,6 +16784,24 @@
     },
     {
       "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "album": {
         "name": "The Last Thing Left",
         "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
       },
@@ -16985,6 +17039,24 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
+    },
+    {
+      "album": {
+        "name": "Nothing 2 See",
+        "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220499,
+      "name": "Nothing 2 See",
+      "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
     },
     {
       "album": {
@@ -18441,6 +18513,24 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Peppermint Roses",
+      "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
     },
     {
       "album": {
@@ -24288,6 +24378,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/56ALbArb98jRcfSITJ4xsP"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245980,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/7L33BfYhHwlQM8QqE1Fy3D"
+    },
+    {
+      "album": {
         "name": "The Hills",
         "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
       },
@@ -24357,6 +24465,24 @@
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
+    },
+    {
+      "album": {
+        "name": "Look to the East, Look to the West",
+        "url": "https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "The Light Nights",
+      "url": "https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX"
     },
     {
       "album": {

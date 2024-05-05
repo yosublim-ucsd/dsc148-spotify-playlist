@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,977 likes - 76 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,980 likes - 76 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 15 | [Sol La, Al Sol](https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 7:48 |
 | 16 | [Willie](https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF) | [Guillermo Vadala](https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD) | [Bajo Piel](https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH) | 5:01 |
 | 17 | [Viernes 3AM](https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Adrián Iaies](https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh) | [Cinemateca Finlandesa](https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3) | 4:36 |
-| 18 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
-| 19 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 |
+| 18 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 |
+| 19 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
 | 20 | [Estambul](https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:55 |
 | 21 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 |
 | 22 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 56 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 |
 | 57 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 |
 | 58 | [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 |
-| 59 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 |
-| 60 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
+| 59 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
+| 60 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 |
 | 61 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
 | 62 | [Cabrera's Blues](https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:15 |
 | 63 | [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,693 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 29 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 30 | [Naughty Girl](https://open.spotify.com/track/0CPLnPUUHh44vAzDSM5ZlR) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:28 |
 | 31 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 |
-| 32 | [Lose My Breath](https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 4:02 |
-| 33 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 |
+| 32 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 |
+| 33 | [Lose My Breath](https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 4:02 |
 | 34 | [What You Waiting For?](https://open.spotify.com/track/0ny5zITdmyNwyTPVzRGscU) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:41 |
 | 35 | [I Don't Wanna Know \(feat\. Enya & P\. Diddy\) \- 2016 Remaster](https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt) | [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:17 |
 | 36 | [It's My Life](https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [It's My Life](https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF) | 3:46 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 56 | [Hit My Heart \- Sfaction Radio Edit](https://open.spotify.com/track/1gP9feeY5DxLh0gJsIFAoC) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF) | [Hit My Heart \(Official Recordings Full Package\)](https://open.spotify.com/album/61YHzlDAxEShdM2J9506yE) | 3:16 |
 | 57 | [Don't Leave Home](https://open.spotify.com/track/7ddFviC4ObJzizg98keTNt) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 3:46 |
 | 58 | [Sobri \- Notre destin](https://open.spotify.com/track/6PTxyxvHiIbgQRMA5IdnAO) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz), [Amine](https://open.spotify.com/artist/3OpXEYnkpqSBaJjFWGeJxy) | [Raï'n'B Fever](https://open.spotify.com/album/6z5Yzw4fzAfL3ya1SsFECh) | 3:33 |
-| 59 | [Afrodisiac](https://open.spotify.com/track/62K7EHA67O48gg7lTtcyc2) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:48 |
-| 60 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
+| 59 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
+| 60 | [Afrodisiac](https://open.spotify.com/track/62K7EHA67O48gg7lTtcyc2) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:48 |
 
 Snapshot ID: `ZIsMCwAAAACow5JWDZFfqpznbQ5WNqg1`

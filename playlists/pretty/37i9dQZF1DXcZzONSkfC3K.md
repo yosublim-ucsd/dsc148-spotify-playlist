@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,756 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,790 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 33 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
 | 34 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
 | 35 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 |
-| 36 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
-| 37 | [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 |
+| 36 | [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 |
+| 37 | [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 |
 | 38 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 | 39 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz Gold](https://open.spotify.com/album/4I0GURNIly2aPl4KIqKDvU) | 4:55 |
 | 40 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 |

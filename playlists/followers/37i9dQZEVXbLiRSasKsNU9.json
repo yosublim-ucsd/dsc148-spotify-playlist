@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1761014,
+  "2024-05-05": 1761047,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -385,7 +385,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
@@ -4280,6 +4280,24 @@
     },
     {
       "album": {
+        "name": "B012",
+        "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "B012",
+      "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
+    },
+    {
+      "album": {
         "name": "Babaero",
         "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
       },
@@ -4733,7 +4751,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -48087,6 +48105,24 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "album": {

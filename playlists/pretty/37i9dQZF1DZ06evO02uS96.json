@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 161389,
+  "num_followers": 161421,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABh3/BCwD1K7wRx1wsSwYc9",
+  "snapshot_id": "ZjQpAAAAAABrxEt5i/IWcBdK4z2STa2H",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "800",
-        "url": "https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 233045,
-      "name": "800",
-      "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 233493,
       "name": "Brave Shine",
       "url": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "800",
+        "url": "https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 233045,
+      "name": "800",
+      "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SPARK-AGAIN",
-      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 305333,
       "name": "\u8776\u3005\u7d50\u3073",
       "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "I beg you",
-      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 261773,
       "name": "ninelie",
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 232786,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/3fIMaGEhHBRtLa1ZwNB7M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,

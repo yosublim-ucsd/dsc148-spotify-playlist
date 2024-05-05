@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,806 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,898 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 17 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 18 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 |
 | 19 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 |
-| 20 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
-| 21 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
+| 20 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
+| 21 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
 | 22 | [Sultans of Ping](https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Ghost City](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) | 4:46 |
 | 23 | [Baboon](https://open.spotify.com/track/4mgS9q5U0a8sh42tp3UgMy) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/7n8f4VpR5BAC9IiLiiIWKl) | 3:26 |
 | 24 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 35 | [Railroad Cancellation](https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [World Class Listening Problem](https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk) | 5:16 |
 | 36 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 |
 | 37 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
-| 38 | [Raft Easily](https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 3:37 |
-| 39 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
+| 38 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
+| 39 | [Raft Easily](https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 3:37 |
 | 40 | [Jap'n Cazz](https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:25 |
 | 41 | [Hungover Tehran](https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [Retcon](https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR) | 4:16 |
 | 42 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 52 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 53 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
 | 54 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
-| 55 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
-| 56 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
+| 55 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
+| 56 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
 | 57 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
 | 58 | [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 |
 | 59 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |

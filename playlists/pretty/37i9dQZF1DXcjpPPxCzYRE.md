@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,543 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,594 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 43 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 44 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 45 | [And I Love Her](https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 2:42 |
-| 46 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
-| 47 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
+| 46 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
+| 47 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
 | 48 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 |
 | 49 | [Smile](https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 4:17 |
 | 50 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 64 | [You and I](https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK) | 3:24 |
 | 65 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 66 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
-| 67 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
-| 68 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
+| 67 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
+| 68 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 69 | [Don't You Cry For Me \- Acoustic](https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me \(Acoustic\)](https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7) | 4:35 |
 | 70 | [Livin´ On a Prayer](https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG) | [Softband](https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV) | [Acoustic Hits](https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q) | 3:48 |
-| 71 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
-| 72 | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/album/25syvOHfcxMYUwdqkYqtE9) | 4:18 |
+| 71 | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/album/25syvOHfcxMYUwdqkYqtE9) | 4:18 |
+| 72 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
 | 73 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 74 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
 | 75 | [Renegades \- Acoustic Version](https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM) | [Vinyl Hotel](https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h) | [Café Acoustic Session \(Acoustic Version\)](https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 84 | [Caramelo](https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:25 |
 | 85 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 |
 | 86 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
-| 87 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 |
-| 88 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
+| 87 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
+| 88 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 |
 | 89 | [Chilleando por Madrid](https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE) | [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET), [Raphael Karell](https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8) | [Chilleando por Madrid](https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8) | 3:54 |
 | 90 | [No debería quererte \- Acústico](https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry) | [Marina](https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X) | [No debería quererte EP](https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ) | 2:37 |
 | 91 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 97 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
 | 98 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
 | 99 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
-| 100 | [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 |
+| 100 | [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 |
 
 Snapshot ID: `ZjNfVAAAAAB+/CLlighLTm5a5Lf0IwwJ`

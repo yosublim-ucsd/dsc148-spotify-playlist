@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-396 songs - 23 hr 10 min
+397 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [La Mia Hit \- feat\. Max Pezzali](https://open.spotify.com/track/7weRU1RLH8sZDqLBQho082) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [La Mia Hit \(feat\. Max Pezzali\)](https://open.spotify.com/album/5qOvT8yV2ZFlCyTGcUrFyf) | 3:32 | 2022-05-05 | 2022-07-29 |
 | [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 | 2024-03-27 |  |
 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-03-27 |  |
-| [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 | 2024-03-27 |  |
+| [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 | 2024-03-27 | 2024-05-05 |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2024-03-27 |  |
 | [lady](https://open.spotify.com/track/7wXb66O5ZZU77xtqNDH0gl) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [lady](https://open.spotify.com/album/3X7nxQaNFuK1W5QYVpIvUL) | 2:36 | 2022-05-05 | 2022-07-29 |
 | [Latina](https://open.spotify.com/track/5ve9r4C6D4NnDXQ6AAXu5V) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Fortuna](https://open.spotify.com/album/0sODDDrfUq5gsokMbtWB6W) | 3:23 | 2022-05-05 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 | 2022-05-05 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-05-05 | 2022-09-22 |
 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 | 2022-09-21 | 2024-04-19 |
+| [Let You Love Me](https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:11 | 2024-03-27 |  |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2024-01-30 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-05-05 | 2024-04-19 |
 | [Loca](https://open.spotify.com/track/0kGVziydYk9eNPDdcHJcdH) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Loca](https://open.spotify.com/album/07eT26hyOYkOlvUzjM9djw) | 2:26 | 2022-05-05 | 2022-07-29 |

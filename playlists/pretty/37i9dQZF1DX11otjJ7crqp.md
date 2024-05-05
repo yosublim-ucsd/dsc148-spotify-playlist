@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,302 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,471 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 27 | [One Kiss](https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1) | 3:32 |
 | 28 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
 | 29 | [Figure It Out](https://open.spotify.com/track/1FKLjv8XJ2Vmuov1IiA2UV) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/7K1M5dMmTU1PKsmGbB2GNV) | 3:39 |
-| 30 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 30 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 31 | [Who Would I Be](https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Void](https://open.spotify.com/album/75mEqyUrrBb3wBz5yWNPnu) | 2:06 |
 | 32 | [Language](https://open.spotify.com/track/0ISr8vZIPxEhDLKJyYcJwM) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [\~waves\~](https://open.spotify.com/album/3kI628lfoiP0G2IqpySfeF) | 2:52 |
 | 33 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 |

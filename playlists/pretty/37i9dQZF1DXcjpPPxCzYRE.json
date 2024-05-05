@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 399543,
+  "num_followers": 399594,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "the man",
-        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
-      },
-      "artists": [
-        {
-          "name": "de clair.",
-          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
-        }
-      ],
-      "duration_ms": 159635,
-      "name": "the man",
-      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "the man",
+        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
+      },
+      "artists": [
+        {
+          "name": "de clair.",
+          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
+        }
+      ],
+      "duration_ms": 159635,
+      "name": "the man",
+      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 240622,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Caballo Blanco (feat. Macaco)",
         "url": "https://open.spotify.com/album/25syvOHfcxMYUwdqkYqtE9"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 258999,
       "name": "Caballo Blanco (feat. Macaco)",
       "url": "https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 240622,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "La ventanita",
-        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 255168,
-      "name": "La ventanita",
-      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 271061,
       "name": "Aire",
       "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "La ventanita",
+        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 255168,
+      "name": "La ventanita",
+      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "NUNCA ES TARDE",
-        "url": "https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I"
+        "name": "_BCN626",
+        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
       },
       "artists": [
         {
-          "name": "Chill Chicos",
-          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
-        },
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "_juno",
+          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
         }
       ],
-      "duration_ms": 188000,
-      "name": "NUNCA ES TARDE",
-      "url": "https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG"
+      "duration_ms": 184746,
+      "name": "_El Infinito",
+      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
     }
   ],
   "unique_name": "Relax en casa",

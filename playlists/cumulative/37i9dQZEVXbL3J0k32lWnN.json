@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "OCHO",
+        "url": "https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105144,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o"
+    },
+    {
+      "album": {
         "name": "Championship",
         "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
       },
@@ -4338,6 +4356,24 @@
       "duration_ms": 189347,
       "name": "Chart",
       "url": "https://open.spotify.com/track/705n1V0dBe4UOZC1oaah9a"
+    },
+    {
+      "album": {
+        "name": "Cheat Code",
+        "url": "https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149143,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t"
     },
     {
       "album": {
@@ -9978,7 +10014,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 172338,
       "name": "Gennem Dit Hjerte (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb"
@@ -12880,7 +12916,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -13236,6 +13272,28 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "album": {
@@ -15580,7 +15638,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 171696,
       "name": "Kom & Gik (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/3X6DHQxD7T4eZTsRKYfU2l"
@@ -20384,10 +20442,28 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 174222,
       "name": "OCHO",
       "url": "https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz"
+    },
+    {
+      "album": {
+        "name": "OCHO",
+        "url": "https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "OCHO",
+      "url": "https://open.spotify.com/track/4PZsbDDL8SBQx4TzplT7gW"
     },
     {
       "album": {
@@ -22020,7 +22096,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -27002,6 +27078,24 @@
       "duration_ms": 172173,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/6H6RfU4EOOMywv5dtxEG2U"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "album": {

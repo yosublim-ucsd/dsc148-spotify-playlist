@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Estilo Sin Límite, Paty Cantu en portada.
 
-398 songs - 21 hr 18 min
+399 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Completamente](https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:01 | 2021-12-17 | 2022-03-18 |
 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 | 2023-07-14 | 2024-03-23 |
 | [Con La Misma Piedra](https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:39 | 2021-12-17 |  |
-| [Con Que Me Pagas \- En Vivo](https://open.spotify.com/track/0zbX5CH6xqlpr97SJKavlL) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:10 | 2024-01-26 |  |
+| [Con Que Me Pagas \- En Vivo](https://open.spotify.com/track/0zbX5CH6xqlpr97SJKavlL) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:10 | 2024-01-26 | 2024-05-05 |
 | [Con Todo Respeto](https://open.spotify.com/track/77JQLi4hKpVtGE0kZGYKLN) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP) | [Con Todo Respeto](https://open.spotify.com/album/2TJT4KODVjN1IdPISVGQ9N) | 3:01 | 2021-12-17 | 2022-03-19 |
 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 | 2022-03-18 | 2022-04-29 |
 | [Con Tu Recuerdo](https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Con Tu Recuerdo](https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc) | 2:57 | 2022-12-09 | 2023-02-25 |
@@ -175,7 +175,7 @@
 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 | 2023-08-22 | 2024-02-24 |
 | [Les Molesta](https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Les Molesta](https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90) | 2:43 | 2022-12-09 | 2023-07-01 |
 | [Libro Abierto \- En Vivo](https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7), [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Libro Abierto \(En Vivo\)](https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL) | 2:39 | 2024-03-29 |  |
-| [Lindo Güerito \- En Vivo](https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:32 | 2024-02-23 | 2024-05-04 |
+| [Lindo Güerito \- En Vivo](https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:32 | 2024-02-23 |  |
 | [Llevarte al Cielo](https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 4:08 | 2023-10-27 | 2024-02-24 |
 | [Llorar Por Ella](https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Llorar Por Ella](https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV) | 2:48 | 2024-05-03 |  |
 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 | 2023-10-27 |  |
@@ -255,7 +255,7 @@
 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 | 2021-12-17 | 2022-09-03 |
 | [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 | 2023-07-14 | 2024-03-23 |
 | [Nos Equivocamos](https://open.spotify.com/track/3VWXZ8sDfUqviwRdK7NoBx) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Nos Equivocamos](https://open.spotify.com/album/6EgxLNfvLVKZQsOsvQDrqw) | 4:23 | 2021-12-17 | 2022-03-17 |
-| [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 | 2024-01-12 |  |
+| [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 | 2024-01-12 | 2024-05-05 |
 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 | 2024-02-09 | 2024-04-19 |
 | [Nube de Paso](https://open.spotify.com/track/1OKSoHANCvAxufNdHZKhes) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Nube de Paso](https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4) | 2:58 | 2024-04-19 |  |
 | [Ojalá Que No Puedas](https://open.spotify.com/track/2KtO9NfY8sY3gJyEKdUhFr) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Le Lloro A Cabrones](https://open.spotify.com/album/1yb6Tix7xyNRTrWOqEGgqc) | 3:06 | 2022-02-25 | 2022-09-03 |
@@ -303,6 +303,7 @@
 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 | 2021-12-17 | 2023-06-17 |
 | [Que Razón Tenía Mi Apá](https://open.spotify.com/track/1JDZPztDQcdFHrPcN1GGNl) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Que Razón Tenía Mi Apá](https://open.spotify.com/album/5vA7q0O1i0fGn19lBuoTe4) | 3:14 | 2021-12-17 | 2022-02-23 |
 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 | 2021-12-17 | 2022-01-29 |
+| [Quería Que Fueras Tú](https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Quería Que Fueras Tú](https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY) | 2:54 | 2024-05-03 |  |
 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Quiero Abrazarte Tanto](https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3) | 3:31 | 2023-06-16 | 2024-02-10 |
 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 | 2022-01-28 | 2022-04-09 |
 | [Quiero Andar al 420](https://open.spotify.com/track/5PQHmdQ2KJ5ZPHyKHIWQbQ) | [Ely Quintero](https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT) | [Quiero Andar al 420](https://open.spotify.com/album/7vtOXGRZbnZTwAQLnULbJO) | 2:42 | 2022-01-28 | 2022-02-17 |

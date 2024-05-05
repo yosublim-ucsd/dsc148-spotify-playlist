@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,613 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,648 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 39 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 |
 | 40 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 |
 | 41 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
-| 42 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
-| 43 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
+| 42 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
+| 43 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
 | 44 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 45 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 46 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
 | 47 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 |
-| 48 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
-| 49 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 |
-| 50 | [Happy Happy Birds](https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [Happy Birds](https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw) | 2:49 |
+| 48 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 |
+| 49 | [Happy Happy Birds](https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [Happy Birds](https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw) | 2:49 |
+| 50 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
 
 Snapshot ID: `ZgLhXwAAAAAOt+MxZsTHtJ3GRyizW83K`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,004 likes - 41 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,044 likes - 41 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 28 | [Sacrifice Reprise \- Matthew Herbert's Pins and Needles Mix](https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Bastards](https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw) | 0:37 |
 | 29 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 |
 | 30 | [5 Years](https://open.spotify.com/track/3mmB2OL6YP2FwMR6eQ5mp5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 4:29 |
-| 31 | [Borealis](https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE) | 4:06 |
-| 32 | [Atopos](https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:46 |
+| 31 | [Atopos](https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:46 |
+| 32 | [Borealis](https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE) | 4:06 |
 | 33 | [Undo](https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:38 |
 | 34 | [Oceania](https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:24 |
 | 35 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 |
 | 36 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
-| 37 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m) | 3:44 |
-| 38 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
-| 39 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
-| 40 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
+| 37 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
+| 38 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m) | 3:44 |
+| 39 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
+| 40 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
 | 41 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 |
 
-Snapshot ID: `ZjLXgAAAAAD97PwYW11+kSPXdtkBGD9B`
+Snapshot ID: `ZjQpAAAAAADu2bnrEXKAR43OJqAixq1Z`

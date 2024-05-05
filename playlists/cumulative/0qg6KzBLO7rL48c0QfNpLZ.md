@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-313 songs - 14 hr 10 min
+314 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2024-01-10 |  |
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2023-12-29 |  |
 | [Hold You Right](https://open.spotify.com/track/28y1M9jyAiSMhCHT6SZj8U) | [CUBY](https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0) | [Hold You Right](https://open.spotify.com/album/7BjUTDBE7qcJdx6pYd5Njj) | 2:21 | 2024-04-19 |  |
+| [Holding On](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Holding On](https://open.spotify.com/album/0z5dbKBLmLJX6SOXYGEhVQ) | 2:22 | 2024-05-04 |  |
 | [Home](https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Bucko.](https://open.spotify.com/artist/7amYz3MYdqevjGc0hyVk4r), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Home](https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh) | 2:12 | 2024-01-19 | 2024-03-16 |
 | [Honest](https://open.spotify.com/track/0jb7asCfeo6sZZ2BVsUjxn) | [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Honest](https://open.spotify.com/album/0B0bRT09B8QF1RTQAgmIw9) | 3:20 | 2024-03-15 | 2024-04-15 |
 | [Hope](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:00 | 2024-01-02 |  |
@@ -213,7 +214,7 @@
 | [Outta My Head](https://open.spotify.com/track/4ES3yLJjDV9vMieX7cbJpj) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Outta My Head](https://open.spotify.com/album/7eMLJEJZvSPtHUZCTlOLWZ) | 2:01 | 2024-01-18 |  |
 | [Over It](https://open.spotify.com/track/4sCykQR7GPo6YJylrbqWCr) | [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Over It](https://open.spotify.com/album/7cJHTR2XO7eAwtWVy9L8OO) | 2:34 | 2023-04-07 |  |
 | [Overthinking](https://open.spotify.com/track/5Ci0MkMkPuIRSYrn7aT7ok) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Overthinking](https://open.spotify.com/album/3Wy5qyYqfgF7RaRjeui3C3) | 2:14 | 2023-12-07 |  |
-| [Paradise \(feat\. Modi\)](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [Paradise \(feat\. Modi\)](https://open.spotify.com/album/2KnmXGIW5lO2EBx8vgSKy3) | 2:12 | 2023-12-15 |  |
+| [Paradise](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [Paradise](https://open.spotify.com/album/2KnmXGIW5lO2EBx8vgSKy3) | 2:12 | 2023-12-15 |  |
 | [Paris](https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Paris](https://open.spotify.com/album/17UydYUpL2HYS6OQcYeKTK) | 2:57 | 2024-02-02 |  |
 | [Please Tell Rosie](https://open.spotify.com/track/2IDDQFHRf9iH35jeL89uNs) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:52 | 2023-07-26 |  |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2023-12-21 |  |

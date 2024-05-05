@@ -1,12 +1,12 @@
 {
-  "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
+  "description": "This Is Jon Hassell. Los temas esenciales, todos en una lista.",
   "num_followers": 2990,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADzRtSnv8jIRl3kGS6qItQd",
+  "snapshot_id": "ZjQpAAAAAABuxmh/I5fKCZd9phQinl3Z",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 425178,
-      "name": "Viva Shona",
-      "url": "https://open.spotify.com/track/6eVb6kUeuLlYfliUnX3fgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listening To Pictures (Pentimento Volume One)",
         "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 312666,
       "name": "Al Kongo Udu",
       "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 425178,
+      "name": "Viva Shona",
+      "url": "https://open.spotify.com/track/6eVb6kUeuLlYfliUnX3fgU"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Noir",
-        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
-      },
-      "artists": [
-        {
-          "name": "David Toop",
-          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
-        },
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 563026,
-      "name": "Slow Loris Versus Poison Snail",
-      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siwan",
         "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
       },
@@ -543,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 384256,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seeing Through Sound (Pentimento Volume Two)",
         "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
       },
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+        "name": "Pink Noir",
+        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
       },
       "artists": [
+        {
+          "name": "David Toop",
+          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
+        },
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 384256,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
+      "duration_ms": 563026,
+      "name": "Slow Loris Versus Poison Snail",
+      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Empire II",
-      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siwan",
         "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 256533,
       "name": "Ayshyin Raquin",
       "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Empire II",
+      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Power Spot",
         "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
@@ -743,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
         }
       ],
-      "duration_ms": 392933,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
+      "duration_ms": 174533,
+      "name": "Kaboo (Play)",
+      "url": "https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX"
     },
     {
       "added_at": null,
@@ -840,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Kaboo (Play)",
-      "url": "https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX"
+      "duration_ms": 144506,
+      "name": "Night Moves (Fear)",
+      "url": "https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU"
     },
     {
       "added_at": null,
@@ -911,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash of the Spirit",
-        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Farafina",
-          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
         }
       ],
-      "duration_ms": 144506,
-      "name": "Night Moves (Fear)",
-      "url": "https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU"
+      "duration_ms": 313980,
+      "name": "Empire IV",
+      "url": "https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60"
     },
     {
       "added_at": null,
@@ -956,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
         }
       ],
-      "duration_ms": 403186,
-      "name": "Itimad",
-      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
+      "duration_ms": 270040,
+      "name": "Ondas Do Mar De Vigo",
+      "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
     },
     {
       "added_at": null,
@@ -975,22 +991,6 @@
       "duration_ms": 261173,
       "name": "Miracle Steps",
       "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 313980,
-      "name": "Empire IV",
-      "url": "https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60"
     }
   ],
   "unique_name": "This Is Jon Hassell",

@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 386235,
+  "2024-05-05": 386233,
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass. Cover: NURKO",
+  "description": "Future & melodic bass. Cover: Wavedash",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -877,7 +877,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
@@ -1025,6 +1025,28 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
+    },
+    {
+      "album": {
+        "name": "Before We Say Goodbye",
+        "url": "https://open.spotify.com/album/4700dcBAB51SCGMQR79bEW"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Before We Say Goodbye",
+      "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
     },
     {
       "album": {
@@ -1673,7 +1695,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208341,
       "name": "Collect Call - Adventure Club Remix",
       "url": "https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm"
@@ -1903,6 +1925,24 @@
       "duration_ms": 213542,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
+    },
+    {
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/2VjgJx2JjkdRlJBTtem6in"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Jane",
+          "url": "https://open.spotify.com/artist/1LpxuJ9gD3eHAPjGGvr9Zy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245714,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3ND04Few0cZd4LmGzxNXGt"
     },
     {
       "album": {
@@ -2665,7 +2705,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 248275,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
@@ -2823,6 +2863,24 @@
       "duration_ms": 229161,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
+    },
+    {
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/1PAUNTA94Ih7eyzvV9FrNb"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255019,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/4O3QY53xKadk9EJXUhSOsh"
     },
     {
       "album": {
@@ -3091,7 +3149,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222400,
       "name": "Enough",
       "url": "https://open.spotify.com/track/1v2ZGStXrkBnQXuBvSxkTp"
@@ -4749,7 +4807,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 273793,
       "name": "Halfway Down (Matrix & Futurebound Remix)",
       "url": "https://open.spotify.com/track/3hqQhewdFGEW5rfTPqIpCT"
@@ -4995,7 +5053,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208095,
       "name": "Heart of Stone (feat. Nevve)",
       "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
@@ -6548,6 +6606,32 @@
     },
     {
       "album": {
+        "name": "Lie Awake",
+        "url": "https://open.spotify.com/album/7o9yymac690fmOnuXhqglk"
+      },
+      "artists": [
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "Xyan",
+          "url": "https://open.spotify.com/artist/4EDCf6apSbfCPkoDqGyVOy"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Lie Awake",
+      "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf"
       },
@@ -6987,6 +7071,24 @@
       "duration_ms": 118809,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/4wKf4F0N5fz1ziHw5u6BWB"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5lnine5W9NSTbrfBH1F6u3"
+      },
+      "artists": [
+        {
+          "name": "Cinema Kid",
+          "url": "https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230679,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/6eVVBm3RlVeNReLG9EEFTI"
     },
     {
       "album": {
@@ -7493,6 +7595,28 @@
       "duration_ms": 185571,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2fHznHYgWJ2nwk16rAA6gv"
+    },
+    {
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/7kvdbDYqOuq8uAGh7K6EEo"
+      },
+      "artists": [
+        {
+          "name": "Fendy Cisneros",
+          "url": "https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2"
+        },
+        {
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/2vU025H67ltSIEZFhtJcpX"
     },
     {
       "album": {
@@ -8535,7 +8659,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
@@ -8667,7 +8791,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 259315,
       "name": "Phantom Love",
       "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
@@ -9770,6 +9894,32 @@
     },
     {
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "meesh",
+          "url": "https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "SKYFALLING",
+      "url": "https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ"
+    },
+    {
+      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc"
       },
@@ -9925,6 +10075,28 @@
       "duration_ms": 197184,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/63ZVznFlskQ476pRXraojW"
+    },
+    {
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/44ofxxhOkd7cNHUmyBAbRO"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        },
+        {
+          "name": "Beatcore",
+          "url": "https://open.spotify.com/artist/72et9F2RPU0kc5tQXtflxY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192827,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/1zXJFiquUDA5kDUMJRbTgu"
     },
     {
       "album": {
@@ -11735,7 +11907,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
@@ -11765,6 +11937,32 @@
       "duration_ms": 211862,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/11ZzN3XPH3M2DuLLAthWxR"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232420,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/5oTeS54T2KErbIe5XwJbjW"
     },
     {
       "album": {

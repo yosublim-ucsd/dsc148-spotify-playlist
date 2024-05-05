@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Kendrick Lamar, Sia, Mr.Children, 千葉雄喜 and more! cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,647 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,667 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 81 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 |
 | 82 | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 |
 | 83 | [Scar Tissue](https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Scar Tissue](https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r) | 2:58 |
-| 84 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 84 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 85 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
 | 86 | [close to you](https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [close to you](https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL) | 2:40 |
 | 87 | [Money](https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:31 |

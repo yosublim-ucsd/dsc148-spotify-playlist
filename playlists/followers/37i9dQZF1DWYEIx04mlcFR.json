@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 79684,
+  "2024-05-05": 79685,
   "date_first_scraped": "2022-02-10",
   "description": "la nueva ola de artistas con Humbe y Bruses en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 207786,
       "name": "Al Parque",
       "url": "https://open.spotify.com/track/12t8uKp5KH8N8ibjRvdesB"
@@ -1375,6 +1375,28 @@
       "duration_ms": 195000,
       "name": "Calamidad",
       "url": "https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7e0leqj1Y2QcqqyUtKHdld"
+      },
+      "artists": [
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        },
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc"
     },
     {
       "album": {
@@ -2445,6 +2467,36 @@
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "album": {
+        "name": "disfraz",
+        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "disfraz",
+      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
     },
     {
       "album": {
@@ -3559,7 +3611,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 195750,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
@@ -3733,6 +3785,24 @@
       "duration_ms": 160001,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
+    },
+    {
+      "album": {
+        "name": "KR1MIN4L",
+        "url": "https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137532,
+      "name": "KR1MIN4L",
+      "url": "https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre"
     },
     {
       "album": {
@@ -4057,7 +4127,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 143474,
       "name": "Llamadas Vac\u00edas",
       "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
@@ -5023,7 +5093,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 193088,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/112k1AA4xejaK2EIx9RhRU"
@@ -6594,6 +6664,28 @@
     },
     {
       "album": {
+        "name": "QTVB",
+        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        },
+        {
+          "name": "MI$HA",
+          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "QTVB",
+      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
+    },
+    {
+      "album": {
         "name": "QUE SE ACABE EL MUNDO POR FAVOR",
         "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
       },
@@ -7640,6 +7732,24 @@
     },
     {
       "album": {
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "album": {
         "name": "Solitario",
         "url": "https://open.spotify.com/album/0skWZGkmTK0L3EIhIyRJlM"
       },
@@ -8369,7 +8479,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 214790,
       "name": "todo pasa",
       "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"

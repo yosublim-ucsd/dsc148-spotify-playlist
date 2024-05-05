@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. The essential tracks, all in one playlist.
+> This Is Eminem\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,666,257 likes - 52 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,666,851 likes - 52 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 51 | [Love The Way You Lie \(Part II\) \- Pt\. 2](https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:56 |
 | 52 | [Zeus \(feat\. White Gold\)](https://open.spotify.com/track/2lPE6W6ONJKmBE6hLjpIYo) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:50 |
 
-Snapshot ID: `ZjLXgAAAAADygb9TRUmQC0rDdEtL/LH/`
+Snapshot ID: `ZjQpAAAAAAAugxd3lNInQmfalMvz0y9e`

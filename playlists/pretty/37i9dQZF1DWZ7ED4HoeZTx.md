@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,025 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,070 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 21 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
 | 22 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 |
 | 23 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
-| 24 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
+| 24 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 25 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 26 | [because](https://open.spotify.com/track/3GI5dJDbotiqkMYpdbYekS) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [because](https://open.spotify.com/album/4l09EaMZupt9ZUgsCyVtjT) | 4:32 |
 | 27 | [A Million Miles Away](https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 8:01 |
-| 28 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 28 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
 | 29 | [ODDTAXI](https://open.spotify.com/track/2Lwl5ElqC6Nq2CAwXxmsOE) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/5RyStjfQGvf0wan3sC88rs) | 3:23 |
 | 30 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
 | 31 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 34 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 35 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 36 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
-| 37 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
-| 38 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
+| 37 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
+| 38 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 39 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
 | 40 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
-| 41 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
-| 42 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
+| 41 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
+| 42 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
 | 43 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
 | 44 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
 | 45 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |

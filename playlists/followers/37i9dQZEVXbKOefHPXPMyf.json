@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 17715,
+  "2024-05-05": 17715,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -1043,6 +1043,24 @@
       "duration_ms": 247058,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/6j0u5ErJPUbAzDURe99VWQ"
+    },
+    {
+      "album": {
+        "name": "Abyss (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "album": {
@@ -4481,7 +4499,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -8957,7 +8975,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
@@ -19769,7 +19787,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -22903,7 +22921,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
@@ -28725,6 +28743,24 @@
       "duration_ms": 288053,
       "name": "Palabras Sobran - Remix",
       "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
+    },
+    {
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254883,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: DJ Snake & Peso Pluma ",
-  "num_followers": 499145,
+  "num_followers": 499155,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,26 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+        "name": "Ride Or Die, Pt. 2",
+        "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+      "duration_ms": 158728,
+      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+      "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -527,26 +535,18 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Ride Or Die, Pt. 2",
-        "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 158728,
-      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
-      "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
         "name": "Hass Hass",
         "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
-        "name": "LET THE WORLD BURN",
-        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
-      },
-      "artists": [
-        {
-          "name": "Chris Grey",
-          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
-        }
-      ],
-      "duration_ms": 163290,
-      "name": "LET THE WORLD BURN",
-      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
         "name": "It Was Always You (Siempre Fuiste T\u00fa)",
         "url": "https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 209493,
       "name": "It Was Always You (Siempre Fuiste T\u00fa)",
       "url": "https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1563,6 +1563,26 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2024-05-03 16:59:49",
+      "album": {
+        "name": "Joga Bonito",
+        "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 124471,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2024-05-03 16:59:49",
       "album": {
-        "name": "Joga Bonito",
-        "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
       "artists": [
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
         }
       ],
-      "duration_ms": 124471,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-05-03 16:59:49",
@@ -1719,22 +1735,6 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2024-05-03 16:59:49",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-05-03 16:59:49",

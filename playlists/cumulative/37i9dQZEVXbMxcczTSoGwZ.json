@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 161150,
       "name": "Autiotalo",
       "url": "https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu"
@@ -6733,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "El\u00e4ke",
+        "url": "https://open.spotify.com/album/1HYF6TtJFt5EDj7H0drm9X"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156189,
+      "name": "El\u00e4ke",
+      "url": "https://open.spotify.com/track/1H5PY3gQFtYFMU86uZCzPu"
+    },
+    {
+      "album": {
         "name": "El\u00e4m\u00e4 kantaa mua",
         "url": "https://open.spotify.com/album/7EWdwxBHTyysZPib99zrLN"
       },
@@ -8406,7 +8424,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -13966,6 +13984,32 @@
       "duration_ms": 159540,
       "name": "Kadut ei tuu unohtaa",
       "url": "https://open.spotify.com/track/7cafPRjzSPHWtDPyzMOEiy"
+    },
+    {
+      "album": {
+        "name": "Kahdestaan",
+        "url": "https://open.spotify.com/album/0F5huBRQgMMGP6xe2whvTm"
+      },
+      "artists": [
+        {
+          "name": "Ida Paul & Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        },
+        {
+          "name": "Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183156,
+      "name": "Kahdestaan",
+      "url": "https://open.spotify.com/track/20EKTIVvqixfqqwz1JcpE4"
     },
     {
       "album": {
@@ -19605,6 +19649,24 @@
     },
     {
       "album": {
+        "name": "Maljapuhe",
+        "url": "https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158159,
+      "name": "Maljapuhe",
+      "url": "https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h"
+    },
+    {
+      "album": {
         "name": "Mama sano",
         "url": "https://open.spotify.com/album/3zfAYcqEcUxolb0CDRgvx0"
       },
@@ -21712,7 +21774,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 206213,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/1WboGiF8KWA7HTKoaXlqGa"
@@ -22278,7 +22340,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 166187,
       "name": "Mun vuoro safkaa",
       "url": "https://open.spotify.com/track/2uc376dOBgeCLynv8CHGCz"
@@ -22496,6 +22558,28 @@
       "duration_ms": 145546,
       "name": "muuttolinnut, rantahiekkaa,",
       "url": "https://open.spotify.com/track/53oUldz3oD6EywO53Juq8m"
+    },
+    {
+      "album": {
+        "name": "Muuttolintu",
+        "url": "https://open.spotify.com/album/6B14cmVkJAaEXnBGUQ3TS2"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        },
+        {
+          "name": "Keko Salata",
+          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Muuttolintu",
+      "url": "https://open.spotify.com/track/2eMyC0SxsZRIGh3p81tcJ8"
     },
     {
       "album": {
@@ -24205,6 +24289,24 @@
     },
     {
       "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/5QIRNve6xdexE4Tn7Jff8O"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182975,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/1KgpX3wWu0tIJR9HXg8Gkm"
+    },
+    {
+      "album": {
         "name": "Olkap\u00e4\u00e4",
         "url": "https://open.spotify.com/album/0vN5maf8hlE9Qr46a6NVtm"
       },
@@ -24496,7 +24598,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 159919,
       "name": "Onks se kuollu? (feat. Pihlaja)",
       "url": "https://open.spotify.com/track/647n34NjL2NtvKTd0U0EBZ"
@@ -26620,7 +26722,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -27835,6 +27937,24 @@
     },
     {
       "album": {
+        "name": "Rikas syd\u00e4n",
+        "url": "https://open.spotify.com/album/3YTgGrVdRoCSfAsforI7nB"
+      },
+      "artists": [
+        {
+          "name": "Mikko Harju",
+          "url": "https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "Rikas syd\u00e4n",
+      "url": "https://open.spotify.com/track/1S6G4FJjrwxV80c4Ra5isS"
+    },
+    {
+      "album": {
         "name": "Riko mut",
         "url": "https://open.spotify.com/album/3bUMZhux4Sr5eGlNQvbBxq"
       },
@@ -29028,7 +29148,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 152195,
       "name": "Sekasin",
       "url": "https://open.spotify.com/track/16PuZ41gLitc7vL0d08KOt"
@@ -31111,6 +31231,24 @@
     },
     {
       "album": {
+        "name": "Stunttaa",
+        "url": "https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Stunttaa",
+      "url": "https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -32012,7 +32150,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 177699,
       "name": "Sytk\u00e4ri (feat. AHTI)",
       "url": "https://open.spotify.com/track/1qrhTBdde8r9IactB9HUJt"
@@ -32808,7 +32946,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 245309,
       "name": "Tehtiin t\u00e4\u00e4 (feat. Sexmane)",
       "url": "https://open.spotify.com/track/6vV1vh8tZyklW01nLAljcJ"
@@ -35383,6 +35521,24 @@
     },
     {
       "album": {
+        "name": "Valheista kaunein",
+        "url": "https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160350,
+      "name": "Valheista kaunein",
+      "url": "https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp"
+    },
+    {
+      "album": {
         "name": "Valitsisin sut",
         "url": "https://open.spotify.com/album/3PFKKQINXWOgnuT1Cld2gO"
       },
@@ -35654,6 +35810,28 @@
       "duration_ms": 197030,
       "name": "Vapaa / Lenn\u00e4n (feat. jambo)",
       "url": "https://open.spotify.com/track/0JtfHqf1q81kOxFXuGzOtV"
+    },
+    {
+      "album": {
+        "name": "Varjoissa (feat. SHRTY)",
+        "url": "https://open.spotify.com/album/0cx9WU12EUywZYYWsUJ46a"
+      },
+      "artists": [
+        {
+          "name": "\u00d6veri",
+          "url": "https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173296,
+      "name": "Varjoissa (feat. SHRTY)",
+      "url": "https://open.spotify.com/track/1UX8fhWSC8Lf5hTrPly1Ra"
     },
     {
       "album": {
@@ -37198,6 +37376,40 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200288,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w"
     },
     {
       "album": {

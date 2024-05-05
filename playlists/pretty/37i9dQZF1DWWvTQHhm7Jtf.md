@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,971 likes - 70 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,974 likes - 70 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 63 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 | 64 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 |
 | 65 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
-| 66 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
-| 67 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
+| 66 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
+| 67 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
 | 68 | [Dead Indeed \- Tunnel Mix by Mind Over Midi](https://open.spotify.com/track/7LRuezpAWx0uaIapbAB1Dc) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Recoloured \- The Remix Album](https://open.spotify.com/album/169WztoC1KJfXh9B2wEkWI) | 7:53 |
 | 69 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 |
 | 70 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 |

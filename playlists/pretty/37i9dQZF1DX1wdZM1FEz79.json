@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bLAS) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 285295,
+  "num_followers": 285302,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,22 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 207163,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
       "added_at": "2024-05-02 12:20:47",
@@ -59,22 +63,18 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+      "duration_ms": 207163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
     },
     {
       "added_at": "2024-05-02 12:20:47",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
-    },
-    {
-      "added_at": "2024-05-02 12:20:47",
-      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 171680,
       "name": "Love, Maybe (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
+    },
+    {
+      "added_at": "2024-05-02 12:20:47",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
       "added_at": "2024-05-02 12:20:47",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2024-05-02 12:20:47",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2024-05-02 12:20:47",
+      "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2024-05-02 12:20:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 235157,
-      "name": "A story that will turn into a poem",
-      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
-    },
-    {
-      "added_at": "2024-05-02 12:20:47",
-      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
+    },
+    {
+      "added_at": "2024-05-02 12:20:47",
+      "album": {
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 235157,
+      "name": "A story that will turn into a poem",
+      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
     },
     {
       "added_at": "2024-05-02 12:20:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-02 12:20:47",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2024-05-02 12:20:47",
-      "album": {
         "name": "Navillera (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "added_at": "2024-05-02 12:20:47",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

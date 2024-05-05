@@ -1,12 +1,12 @@
 {
-  "description": "This is Kacey Musgraves. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 136824,
+  "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
+  "num_followers": 136876,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAPV5bdiMWtUj5QSYcFhIKZ",
+  "snapshot_id": "ZjQpAAAAAAAXR/VHqCu6+dl7rI2uPH9q",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Step Off",
+      "url": "https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -739,6 +755,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139653,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -748,9 +796,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 182680,
-      "name": "Step Off",
-      "url": "https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G"
+      "duration_ms": 188386,
+      "name": "Blowin' Smoke",
+      "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
     },
     {
       "added_at": null,
@@ -775,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139653,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
@@ -800,25 +832,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 152453,
-      "name": "Family Is Family",
-      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Blowin' Smoke",
-      "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
+      "duration_ms": 193026,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 134986,
       "name": "Love\u2019s Gonna Live Here",
       "url": "https://open.spotify.com/track/22PvVttdf9S1kPqscIjtHP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3"
     },
     {
       "added_at": null,

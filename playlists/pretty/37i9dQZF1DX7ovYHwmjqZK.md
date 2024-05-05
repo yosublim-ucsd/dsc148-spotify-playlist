@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,330 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,432 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 29 | [A Sombra do Meu Chapéu](https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn) | [Rua das Pretas](https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj), [Pierre Aderne](https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z), [Nani Medeiros](https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z) | [Um Copo de Fado, Dois de Bossa Nova](https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG) | 5:02 |
 | 30 | [Cláudia](https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9), [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Vamos Partir Pro Mundo \- a Música de Antonio Adolfo e Tibério Gaspar](https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa) | 3:24 |
 | 31 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 |
-| 32 | [Saudade Fez um Samba](https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Saudade Fez um Samba](https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7) | 2:50 |
-| 33 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 |
+| 32 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 |
+| 33 | [Saudade Fez um Samba](https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Saudade Fez um Samba](https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7) | 2:50 |
 | 34 | [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 |
 | 35 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 |
 | 36 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-19",
-  "description": "This Is Metro Boomin. Los temas esenciales, todos en una lista.",
+  "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
   "name": "This Is Metro Boomin",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 224666,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4k8XSN1nCJ0rMf4OKF3zEz"
@@ -998,6 +998,28 @@
       "duration_ms": 147986,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
+    },
+    {
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/6c0rii1TOf2fvq3hhqqExW"
     },
     {
       "album": {

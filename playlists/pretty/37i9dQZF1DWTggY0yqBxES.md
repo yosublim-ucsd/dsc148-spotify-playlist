@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,509 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,575 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 38 | [CHEVY THANG](https://open.spotify.com/track/3d9995PfvymUKvnYB9a2CK) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [CHROME CASKETZ 2: ARMAGEDDON](https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE) | 1:30 |
 | 39 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 |
 | 40 | [What It Do](https://open.spotify.com/track/1VWoUgwdh1FSuF0KKRJU1E) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [What It Do](https://open.spotify.com/album/7CPV08Fhdf7N8SYyMdhnes) | 1:51 |
-| 41 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Wolfacejoeyy](https://open.spotify.com/artist/0QujlQVKpWb0bxG2yKEV4k) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
+| 41 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
 | 42 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 43 | [PERFECT](https://open.spotify.com/track/3D7LJWHulSV2vSEyxoyjg0) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [PERFECT](https://open.spotify.com/album/76thoyOTw8CPoTtRXoIYoU) | 2:41 |
 | 44 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |

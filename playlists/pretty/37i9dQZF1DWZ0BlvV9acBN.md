@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,983 likes - 70 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,006 likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 18 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
 | 19 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |
 | 20 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
-| 21 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 |
-| 22 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
+| 21 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
+| 22 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 |
 | 23 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 24 | [Eu Vou Amanhecer \- Ao Vivo](https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Eu Vou Amanhecer \(ao Vivo\)](https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj) | 5:41 |
 | 25 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |

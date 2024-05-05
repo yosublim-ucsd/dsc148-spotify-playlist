@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2582152,
+  "num_followers": 2582203,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Where You Are (GRiZ Remix)",
-        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Where You Are - GRiZ Remix",
-      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -171,18 +163,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+        "name": "Where You Are (GRiZ Remix)",
+        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
       },
       "artists": [
         {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+      "duration_ms": 240000,
+      "name": "Where You Are - GRiZ Remix",
+      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 316420,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 316420,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Machines",
-        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "The Machines",
-      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "The Machines",
+        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "The Machines",
+      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
       "added_at": "2024-04-12 04:00:00",

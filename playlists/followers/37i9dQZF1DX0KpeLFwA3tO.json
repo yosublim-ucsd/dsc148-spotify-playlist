@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 305863,
+  "2024-05-05": 305909,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Lambrini Girls ",
+  "description": "The best new music from the wide world of punk. Cover: Frank Turner ",
   "name": "All New Punk",
   "tracks": [
     {
@@ -946,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+    },
+    {
+      "album": {
         "name": "Adderall (End of the Line)",
         "url": "https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3"
       },
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 91328,
       "name": "Agujas",
       "url": "https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 195686,
       "name": "ALEXITHYMIA",
       "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
@@ -4698,6 +4716,24 @@
     },
     {
       "album": {
+        "name": "Can't Be Still",
+        "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178362,
+      "name": "Can't Be Still",
+      "url": "https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX"
+    },
+    {
+      "album": {
         "name": "Can't Even Drown",
         "url": "https://open.spotify.com/album/3rvF7ppj8Kix5rSoCDj1IC"
       },
@@ -4829,7 +4865,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 188201,
       "name": "CAR",
       "url": "https://open.spotify.com/track/0dJmlOm0zHBwoFoBEQxZrA"
@@ -5445,7 +5481,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222186,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
@@ -6986,6 +7022,24 @@
     },
     {
       "album": {
+        "name": "DARLING BOY",
+        "url": "https://open.spotify.com/album/4NV1YYsPYAlYAnTowSsZVu"
+      },
+      "artists": [
+        {
+          "name": "Agatha is Dead!",
+          "url": "https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "DARLING BOY",
+      "url": "https://open.spotify.com/track/4rckE0L55fx4HEbpLMG3x3"
+    },
+    {
+      "album": {
         "name": "Date With Death",
         "url": "https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA"
       },
@@ -7301,6 +7355,24 @@
       "duration_ms": 202751,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/7kOXDIUX7DVNvvaFA1lGWZ"
+    },
+    {
+      "album": {
+        "name": "death (reimagined)",
+        "url": "https://open.spotify.com/album/4byrsQcgW6wtKK9ZL1Txif"
+      },
+      "artists": [
+        {
+          "name": "Sad Park",
+          "url": "https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198741,
+      "name": "death - reimagined",
+      "url": "https://open.spotify.com/track/0DjdaYZmVM2hv6B9mippof"
     },
     {
       "album": {
@@ -9485,7 +9557,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121860,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/25DmwsN2PTX01OU1rluikq"
@@ -11354,6 +11426,24 @@
     },
     {
       "album": {
+        "name": "Good 4 U",
+        "url": "https://open.spotify.com/album/3fYGpSmCYUxjaPAXmi2pty"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/1yXmMDm8rtvMJbbItLNpRf"
+    },
+    {
+      "album": {
         "name": "Good Advice",
         "url": "https://open.spotify.com/album/3on1KjM0z0VQnpSq1FA30N"
       },
@@ -12166,6 +12256,28 @@
     },
     {
       "album": {
+        "name": "Hate You Sober",
+        "url": "https://open.spotify.com/album/4phQfwK9acDD1xIUvl3ucZ"
+      },
+      "artists": [
+        {
+          "name": "Mest",
+          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
+        },
+        {
+          "name": "ICE NINE KILLS",
+          "url": "https://open.spotify.com/artist/6LaNKuNH6HZ60Qmqp4v7zc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Hate You Sober",
+      "url": "https://open.spotify.com/track/403gNVk8s1q7azySLCWeE9"
+    },
+    {
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -12585,6 +12697,24 @@
       "duration_ms": 139713,
       "name": "HELLO//GOODBYE",
       "url": "https://open.spotify.com/track/0qbljrZfzWKZiBHlSKVay7"
+    },
+    {
+      "album": {
+        "name": "Black Box Sessions",
+        "url": "https://open.spotify.com/album/7tniGdtGS80UKANog5vcYL"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159288,
+      "name": "Help Me, I'm Spiralling",
+      "url": "https://open.spotify.com/track/2NZddDNNNlBLC79meReiNI"
     },
     {
       "album": {
@@ -14009,7 +14139,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 130547,
       "name": "I'm a Rat",
       "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
@@ -14045,7 +14175,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 160683,
       "name": "I'M IN THE MARKET TO PLEASE NO ONE",
       "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
@@ -14312,6 +14442,24 @@
     },
     {
       "album": {
+        "name": "Sailor Honeymoon",
+        "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
+      },
+      "artists": [
+        {
+          "name": "Sailor Honeymoon",
+          "url": "https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157198,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR"
+    },
+    {
+      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/2fCL5h7qOc9dEyqynzIBzE"
       },
@@ -14453,6 +14601,24 @@
       "duration_ms": 198654,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2onHY8ek2aQ1haU0iGndJD"
+    },
+    {
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "International Hide and Seek Champions",
+      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
     },
     {
       "album": {
@@ -16961,7 +17127,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 187998,
       "name": "Lost My Shadow",
       "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
@@ -18435,7 +18601,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 204053,
       "name": "Modern Myth",
       "url": "https://open.spotify.com/track/4eazENP23FtK9VfnjGEFPk"
@@ -23397,7 +23563,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181835,
       "name": "Run",
       "url": "https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag"
@@ -25754,6 +25920,24 @@
     },
     {
       "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr"
       },
@@ -25801,7 +25985,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 104232,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF"
@@ -27752,6 +27936,24 @@
     },
     {
       "album": {
+        "name": "THANK GOD I'M A CELEBRITY",
+        "url": "https://open.spotify.com/album/5NygT71nKXV8J6X6Petsou"
+      },
+      "artists": [
+        {
+          "name": "lil aaron",
+          "url": "https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194827,
+      "name": "THANK GOD I'M A CELEBRITY",
+      "url": "https://open.spotify.com/track/6tVRJPq4cEVD8ys7lnbieb"
+    },
+    {
+      "album": {
         "name": "That Was A Joke",
         "url": "https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF"
       },
@@ -29553,7 +29755,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168601,
       "name": "Trouble Breathing",
       "url": "https://open.spotify.com/track/7nKW5AAHoJXfvLXRWEeR0N"
@@ -29683,6 +29885,24 @@
       "duration_ms": 154142,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX"
+    },
+    {
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153426,
+      "name": "Turnout",
+      "url": "https://open.spotify.com/track/4B2KI6R4Bcfh6Fis0QUEv7"
     },
     {
       "album": {

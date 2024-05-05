@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,976 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,033 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 56 | [Concierto de Mariachi \- Morena de Mi Corazon](https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 |
 | 57 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 |
 | 58 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
-| 59 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
-| 60 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
+| 59 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
+| 60 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
 | 61 | [Se Que No Vendras](https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Se Que No Vendras](https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G) | 2:17 |
 | 62 | [María Elena](https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Tuyo Es Mi Corazón](https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6) | 2:53 |
 | 63 | [Cielo Rojo \- Cruz de Olvido](https://open.spotify.com/track/1yROJSRPzpxb40eketUs99) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra](https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A) | 2:55 |
 | 64 | [La Llorona \(Duet\)](https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:38 |
 | 65 | [La Zandunga](https://open.spotify.com/track/2fyoGUVZCGbwvyiBcmM1UP) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 1:54 |
 | 66 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
-| 67 | [Mi Ciudad](https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [En la Intimidad](https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5) | 3:47 |
+| 67 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
 | 68 | [El Andariego](https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 3:25 |
 | 69 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
 | 70 | [En el Último Trago](https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [16 Fabulosas Interpretaciones Con Juan Verónico y Su Guitarra](https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP) | 2:18 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 72 | [Si Me Faltas Tu](https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Si Me Faltas Tu](https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT) | 3:37 |
 | 73 | [Canción Mixteca \- Qué Lejos Estoy](https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:26 |
 | 74 | [Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera](https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:45 |
-| 75 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
+| 75 | [Mi Ciudad](https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [En la Intimidad](https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5) | 3:47 |
 | 76 | [Pasitos](https://open.spotify.com/track/34t7XTMCWWBumlXC2dtzx2) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:37 |
 | 77 | [Volver, Volver](https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:34 |
 | 78 | [La Borrachita](https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Guitarra De México](https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M) | 3:08 |

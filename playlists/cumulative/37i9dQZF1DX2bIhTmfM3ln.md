@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-503 songs - 1 day 1 hr 8 min
+504 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Caress](https://open.spotify.com/track/6q7DBeVGhkp3gzlra8eW0x) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Caress](https://open.spotify.com/album/5XiXNUAYZ00xwVf3KAVqK0) | 2:22 | 2022-05-26 | 2022-08-07 |
 | [Carry Am Go](https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Love Testament](https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje) | 2:36 | 2024-03-08 |  |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-03-17 |  |
+| [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 | 2024-05-03 |  |
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2024-02-13 | 2024-02-16 |
 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 | 2024-02-02 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2024-04-19 |
@@ -137,7 +138,7 @@
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 |  |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 | 2024-02-13 | 2024-02-16 |
-| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 |  |
+| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 | 2024-05-05 |
 | [Dynamite](https://open.spotify.com/track/4HHMYC5atoi0ZRQfmkxuLB) | [Sherizz](https://open.spotify.com/artist/2f3cw59N6NrXxJIEwiCgDt) | [Dynamite](https://open.spotify.com/album/1XpuyYKixpvqeENPZL0MyA) | 2:36 | 2024-03-01 | 2024-04-19 |
 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 | 2022-02-11 | 2022-11-14 |
 | [Early Momo](https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Teslim: The Energy Still Lives in Me](https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI) | 3:14 | 2023-01-13 | 2024-02-09 |
@@ -481,7 +482,7 @@
 | [Uwa Ni Lé](https://open.spotify.com/track/0x6ynQ608fmoeQJGpecuh5) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Obilisa](https://open.spotify.com/artist/2CCK2X9XXEiiZ2J9A3t9P6), [Medi Meyz](https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:44 | 2023-06-09 | 2023-08-11 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-13 | 2024-02-03 |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-12-08 |  |
-| [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 |  |
+| [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 |  |
 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-19 |  |
 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 | 2022-09-01 | 2022-10-31 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-01-20 |

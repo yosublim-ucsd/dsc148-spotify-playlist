@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,785 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,784 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 20 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
 | 21 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 22 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 23 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
-| 24 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
+| 23 | [Natural](https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Natural](https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq) | 3:25 |
+| 24 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 |
 | 25 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 26 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 27 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 29 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 30 | [SHIT SHOW \(feat\. Leellamarz\)](https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:14 |
 | 31 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 32 | [I Am Yours](https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054) | 3:31 |
+| 32 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 |
 | 33 | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Someday \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW) | 3:01 |
-| 34 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 |
+| 34 | [I Am Yours](https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054) | 3:31 |
 | 35 | [JUST RIGHT \(feat\. SOLE\)](https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:58 |
 | 36 | [이렇게 좋아해 본 적이 없어요](https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [이렇게 좋아해 본 적이 없어요 \(From “소녀의 세계” \[Original Soundtrack\]\)](https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS) | 4:19 |
 | 37 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |

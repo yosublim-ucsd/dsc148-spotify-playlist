@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:33hj9n9Y19jGhXk8m7ezKR">Destin Laurel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,339 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,414 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 37 | [CANADIAN TUX](https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16) | [CANADIAN TUX](https://open.spotify.com/album/6TmW1C4YNsMEIrwnZBJbjE) | 2:18 |
 | 38 | [CALL \(feat\. Luh Tyler\)](https://open.spotify.com/track/5nYQInI5l56jGprE0EDtKA) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [PRINCESS POP THAT](https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a) | 2:17 |
 | 39 | [a gentle gigg...](https://open.spotify.com/track/1goQhPlu2xq4GT8ZM2eiu7) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Jake Chapman](https://open.spotify.com/artist/61vqterkbDdQxQ1IO0Oybx) | [a gentle gigg...](https://open.spotify.com/album/2dKS8Oj7T9u7U3UzAtVbJk) | 1:54 |
-| 40 | [Nothing like you](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like you](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
+| 40 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
 | 41 | [ATLANTA INTERLUDE](https://open.spotify.com/track/43QwyJGbNbW5T0TcrkNlyb) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [THE CALM](https://open.spotify.com/album/4ne1I4y1mu1oFORtFYhVZD) | 3:44 |
 | 42 | [crazy](https://open.spotify.com/track/7CoXJX7cNTHcE894jYfTv2) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [BACK TO THE BASICS](https://open.spotify.com/album/0nBSBQLPQetFf06OE8OpdS) | 2:56 |
 | 43 | [angrylilaccidents](https://open.spotify.com/track/62zGQLfgceKrMSPmttZmkA) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [angrylilaccidents](https://open.spotify.com/album/5zB2sbIs6vmKhEFaspPTd4) | 2:30 |

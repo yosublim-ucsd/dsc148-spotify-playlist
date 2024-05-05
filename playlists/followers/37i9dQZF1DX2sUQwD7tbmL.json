@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2004067,
+  "2024-05-05": 2004147,
   "date_first_scraped": "2021-12-21",
   "description": "The best indie rock vibes \u2014 classic and current. ",
   "name": "Feel-Good Indie Rock",
@@ -433,6 +433,24 @@
       "duration_ms": 250066,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/7LgW5lfcYQTUpLx8GpU4eB"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173447,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
     },
     {
       "album": {
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208411,
       "name": "Back To The Start",
       "url": "https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 229640,
       "name": "Buttons - Take 2",
       "url": "https://open.spotify.com/track/18wRejV2is4dNBoq1YDh7b"
@@ -4617,6 +4635,24 @@
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+    },
+    {
+      "album": {
+        "name": "Hello Lonely",
+        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Hello Lonely",
+      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
     },
     {
       "album": {

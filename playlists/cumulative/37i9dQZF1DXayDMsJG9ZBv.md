@@ -2,7 +2,7 @@
 
 ### [Hot Hits Japan: 洋楽&邦楽ヒッツ](https://open.spotify.com/playlist/37i9dQZF1DXayDMsJG9ZBv)
 
-> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: 藤井 風
+> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: 藤井風
 
 459 songs - 1 day 2 hr 59 min
 

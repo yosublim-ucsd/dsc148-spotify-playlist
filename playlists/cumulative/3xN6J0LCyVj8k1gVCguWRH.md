@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,313 songs - 7 day 20 hr 1 min
+3,314 songs - 7 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2279,6 +2279,7 @@
 | [Pressure](https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Pressure](https://open.spotify.com/album/6Cmpsdprlh6oV7QaJhUmrf) | 3:38 | 2024-04-17 |  |
 | [Pretend Goodbye](https://open.spotify.com/track/7xGpghpnQHIphKwvSUtYTi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Pretend Goodbye](https://open.spotify.com/album/53BVYFhYGuZdfNsZY0wRHJ) | 3:38 | 2020-02-16 | 2020-02-24 |
 | [Pretty](https://open.spotify.com/track/5YE5SdtdLIvIf4mLxXDuoD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:58 | 2023-07-24 | 2023-12-14 |
+| [Pretty Little Things](https://open.spotify.com/track/6GNUPnL8wM0usAYNnmDrmJ) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Poylux](https://open.spotify.com/artist/1ST0rgGokl1BkQ9CN5d4Sh), [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Pretty Little Things](https://open.spotify.com/album/0FdkqFrUc1XGFjDxCvfjkD) | 2:31 | 2024-05-05 |  |
 | [Pretty Wing \- Demo](https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb) | [Native Son](https://open.spotify.com/artist/0SfWfkaC6bXSQjoHF0qg77) | [Pretty Wing \(Demo\)](https://open.spotify.com/album/5RsBdTC1MF0CIuHQ97mImw) | 3:14 | 2023-05-15 | 2023-06-03 |
 | [Pretty Words](https://open.spotify.com/track/1OSgEqykNwJaywE9vuldh5) | [Milksteaklol](https://open.spotify.com/artist/3QsLVIYfjWVjZCPYvodlf7) | [Pretty Words](https://open.spotify.com/album/1AlDH0YeOnUvUxQLtGrBFr) | 2:29 | 2023-06-09 | 2023-06-30 |
 | [Princesa](https://open.spotify.com/track/1iudLIWTOP6XfeXXdCp3E4) | [Ladis B](https://open.spotify.com/artist/6dhzwyJtmGTnSGgPwEjebA) | [Princesa](https://open.spotify.com/album/0qk58upKcA4afo3lN9OJ0g) | 3:42 | 2024-01-05 | 2024-01-13 |

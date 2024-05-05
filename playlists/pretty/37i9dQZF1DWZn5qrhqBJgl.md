@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,966 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,003 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 8 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
 | 9 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
 | 10 | [Le jour où j'ai arrêté le rap \(Instrumental\)](https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [Le jour où j'ai arrêté le rap](https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY) | 3:22 |
-| 11 | [Grace](https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Grace](https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi) | 2:24 |
-| 12 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 11 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 12 | [Grace](https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Grace](https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi) | 2:24 |
 | 13 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
 | 14 | [Breakaway](https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo) | [Aldo Levitt](https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw) | [Breakaway](https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut) | 2:49 |
 | 15 | [Selflessly](https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [How Did We](https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB) | 3:01 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 26 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 |
 | 27 | [Groovly](https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Groovly](https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E) | 3:34 |
 | 28 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
-| 29 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
-| 30 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
+| 29 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
+| 30 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
 | 31 | [Skye](https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd) | [Off / Side](https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR) | [Skye](https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT) | 3:10 |
 | 32 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
 | 33 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |

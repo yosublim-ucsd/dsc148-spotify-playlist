@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,515 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,559 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 34 | [Cinco Minutos y Nada Más](https://open.spotify.com/track/2hqdjMileiJr3OGpXl7eAH) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Enamorados Para Toda La Vida](https://open.spotify.com/album/72Wb2uk9oGhQhboNpzL3PP) | 5:22 |
 | 35 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 |
 | 36 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 37 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
-| 38 | [La Carretera 1](https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Imperio de la Cumbia](https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx) | 4:47 |
+| 37 | [La Carretera 1](https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Imperio de la Cumbia](https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx) | 4:47 |
+| 38 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
 | 39 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 40 | [MALAMOR](https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [MALAMOR](https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK) | 3:18 |
 | 41 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 46 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
 | 47 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
 | 48 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
-| 49 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
+| 49 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
 | 50 | [Un Hombre No Llora](https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Un Hombre No Llora](https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI) | 5:00 |
-| 51 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
+| 51 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
 | 52 | [Ahora Que Te Vas](https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Ahora Que Te Vas](https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL) | 3:05 |
 | 53 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 54 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 92 | [Huellas de Amor](https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [De Fiesta Con Hechizo](https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf) | 3:29 |
 | 93 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 94 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 |
-| 95 | [Chiquitita](https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 4:44 |
+| 95 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 |
 | 96 | [Medallita](https://open.spotify.com/track/6XMY9qZM7HXXu0PVqnv7y9) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 4:30 |
-| 97 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 |
+| 97 | [Chiquitita](https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 4:44 |
 | 98 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
 | 99 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
 | 100 | [El Menú](https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Moral Distraída](https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx) | 3:18 |

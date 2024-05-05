@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,226 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,286 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

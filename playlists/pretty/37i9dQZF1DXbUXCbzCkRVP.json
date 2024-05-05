@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 48827,
+  "num_followers": 48900,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+        "name": "Sunfall",
+        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Sarah Rogo",
+          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
         }
       ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+      "duration_ms": 240259,
+      "name": "Sunfall Blues",
+      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -367,22 +371,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Sunfall",
-        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
       "artists": [
         {
-          "name": "Sarah Rogo",
-          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
-        },
-        {
-          "name": "Haus Music",
-          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 240259,
-      "name": "Sunfall Blues",
-      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
       "artists": [
         {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -875,22 +891,6 @@
       "duration_ms": 194106,
       "name": "The Stumble",
       "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "The Screwdriver",
-      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Blues On The South Side",
         "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 254133,
       "name": "Homesick's Shuffle",
       "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "The Screwdriver",
+      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
     },
     {
       "added_at": "2023-08-23 10:31:46",

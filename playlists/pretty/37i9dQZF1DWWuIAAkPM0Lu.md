@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a> har <a href="spotify:track:3rGYQLxtPkFSgrEPkgUX5t">Cheat Code'en</a>  👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,093 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,176 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 21 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 |
 | 22 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
 | 23 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
-| 24 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 24 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 25 | [GARANTI \(feat\. Jamaika\)](https://open.spotify.com/track/1NyBPzOrwoUMjyGreMnmzo) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 2:51 |
 | 26 | [Unsure](https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Unsure](https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P) | 2:48 |
 | 27 | [7 Days](https://open.spotify.com/track/1joLEIIJU5bvxJOF6hp9FF) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [Enter](https://open.spotify.com/album/2Lklu5LMX1eYLcRi0tX9Wa) | 3:24 |

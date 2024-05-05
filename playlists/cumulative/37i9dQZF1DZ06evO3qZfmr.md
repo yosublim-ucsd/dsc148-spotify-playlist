@@ -4,7 +4,7 @@
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-20 songs - 1 hr 8 min
+21 songs - 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 | 2023-09-15 |  |
 | [I Love Me](https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:10 | 2023-09-15 |  |
 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 | 2023-09-15 |  |
+| [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 | 2024-05-05 |  |
 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 | 2023-09-15 |  |
 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 | 2023-09-15 |  |
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-20 |  |

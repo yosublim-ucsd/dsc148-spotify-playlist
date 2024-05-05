@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,250 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,268 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 17 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 |
 | 18 | [En la Jaula](https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [Por Tu Honor](https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12) | 3:57 |
 | 19 | [Maldita Historia](https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw) | [De La Tierra](https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1) | [De La Tierra](https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k) | 4:26 |
-| 20 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 20 | [Eres Tan Mala Como la Carne de Puerco](https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z) | [Marraneitors](https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs) | [Rebelión En El Chiquero](https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR) | 2:30 |
 | 21 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
-| 22 | [Eres Tan Mala Como la Carne de Puerco](https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z) | [Marraneitors](https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs) | [Rebelión En El Chiquero](https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR) | 2:30 |
+| 22 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
 | 23 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 24 | [El Charro](https://open.spotify.com/track/4kLJUOOd8yrb1frZ3oKFE1) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 1:50 |
 | 25 | [Nuevo Orden Mundial](https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Nuevo Orden Mundial](https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r) | 3:51 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 44 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 45 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 | 46 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
-| 47 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
-| 48 | [Toca Madera](https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm) | [Panzer](https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N) | [Toca Madera](https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1) | 3:31 |
-| 49 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 |
+| 47 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 |
+| 48 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
+| 49 | [Toca Madera](https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm) | [Panzer](https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N) | [Toca Madera](https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1) | 3:31 |
 | 50 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 
 Snapshot ID: `ZgG2dgAAAAB3TyrDwA/h+Im9n96uWz9+`

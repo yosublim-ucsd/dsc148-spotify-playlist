@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,936 likes - 129 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,013 likes - 129 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 14 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
 | 15 | [MAD](https://open.spotify.com/track/4V01s0JP4VH4lFOPD8Z5KY) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [MAD](https://open.spotify.com/album/5PJgYBYCnGDjXfLhwN3CHq) | 2:45 |
 | 16 | [Dagar som aldrig tar slut](https://open.spotify.com/track/09olrvgVUSM3dbNGP6x7fE) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dagar som aldrig tar slut](https://open.spotify.com/album/02dhUBkEIAJWMu7Uf1MWn2) | 3:12 |
-| 17 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 17 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 18 | [close to you](https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [close to you](https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL) | 2:40 |
 | 19 | [Boyband Comeback](https://open.spotify.com/track/6uSilGB6C7cNtktthk22bI) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Boyband Comeback](https://open.spotify.com/album/6ZAGgMfTsLq9c8rfj7L42D) | 3:02 |
-| 20 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 20 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 21 | [FREKVENS](https://open.spotify.com/track/2iuFm8WB4WTs9WoTr3STek) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [FREKVENS](https://open.spotify.com/album/6kFHDmQaLrsSl69mNtf8IO) | 2:25 |
 | 22 | [still that kid \(deep down\)](https://open.spotify.com/track/6nUBmt4IEwxt6qWIXogGcZ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [still that kid \(deep down\)](https://open.spotify.com/album/7ylG8uFMFzwS9EgpVL9ms3) | 3:14 |
 | 23 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 |
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 120 | [DO YOU REMEMBER?](https://open.spotify.com/track/59A5LZK8mD22b3h4kYfODX) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [DO YOU REMEMBER?](https://open.spotify.com/album/45pd4mH1xyMdRKzFxuwrGr) | 3:19 |
 | 121 | [FÖRSTÅ MIG](https://open.spotify.com/track/0m1zaz7s5g5BWNL5senAKL) | [Chelsea](https://open.spotify.com/artist/7cpD0IpxFzM58WpbR6VZU6), [D\-MONEY BEATZ](https://open.spotify.com/artist/6DFNFYbFnoaORc90hIYhPT) | [FÖRSTÅ MIG](https://open.spotify.com/album/5uvn0ISDAwlY4Q2IdigdaQ) | 2:30 |
 | 122 | [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 |
-| 123 | [BENIDORM](https://open.spotify.com/track/5z0y4LZqTSmtWdZnWOcLnL) | [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG) | [BENIDORM](https://open.spotify.com/album/3rPY37B7Fd8aVuS8Cllrwt) | 2:41 |
+| 123 | [BENIDORM](https://open.spotify.com/track/5z0y4LZqTSmtWdZnWOcLnL) | [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [BENIDORM](https://open.spotify.com/album/3rPY37B7Fd8aVuS8Cllrwt) | 2:41 |
 | 124 | [Satellite](https://open.spotify.com/track/1emiVL0MBzCXEsELdsWDEl) | [Natalie Carrion](https://open.spotify.com/artist/2ofcid66LbQTeWrc9C3IO4) | [Satellite](https://open.spotify.com/album/6NCT6T1se8jEqAdeG6hgbh) | 3:06 |
 | 125 | [Trouble](https://open.spotify.com/track/6a1wEsOSEg5ddleQrLK7ci) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Trouble](https://open.spotify.com/album/1R8ajxCsMIdkoeX9Z3C8Ya) | 3:16 |
 | 126 | [Pump It Up](https://open.spotify.com/track/5fdlHpyX6pzBv03RujUx7K) | [Soho Disco](https://open.spotify.com/artist/4QUOWaXZAU66Kgr3ynuYUy) | [Pump It Up](https://open.spotify.com/album/05zajA415XpfFlxejgR9lf) | 2:54 |

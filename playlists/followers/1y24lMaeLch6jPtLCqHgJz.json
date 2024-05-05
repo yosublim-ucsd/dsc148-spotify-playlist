@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 84879,
+  "2024-05-05": 84869,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -3283,6 +3283,36 @@
       "duration_ms": 179062,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/1zow991U4NRHThdjkWzLJK"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait (Hardwell & Olly James Remix)",
+        "url": "https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
+      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL"
     },
     {
       "album": {

@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Have You Heard of Christmas?",
+        "url": "https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218602,
+      "name": "Everything You Want (feat. MUNA)",
+      "url": "https://open.spotify.com/track/6FtRq9dtuyZdcSkqhnBANh"
+    },
+    {
+      "album": {
         "name": "Tough Boy",
         "url": "https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws"
       },
@@ -1466,6 +1488,24 @@
       "duration_ms": 207400,
       "name": "I Could Never",
       "url": "https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw"
+    },
+    {
+      "album": {
+        "name": "Have You Heard of Christmas?",
+        "url": "https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185557,
+      "name": "I Don't Need It To Be Christmas At All",
+      "url": "https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh"
     },
     {
       "album": {
@@ -2752,6 +2792,24 @@
       "duration_ms": 203010,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA"
+    },
+    {
+      "album": {
+        "name": "Have You Heard of Christmas?",
+        "url": "https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142154,
+      "name": "RUM PUM PUM",
+      "url": "https://open.spotify.com/track/3K64KNHsI85rLpAjCpYKGq"
     },
     {
       "album": {

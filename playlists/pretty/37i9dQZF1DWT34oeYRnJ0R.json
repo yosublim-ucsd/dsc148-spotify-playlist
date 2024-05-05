@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Hamilton & Zaider",
-  "num_followers": 665148,
+  "num_followers": 665119,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Mi Nena Remix",
-        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Mi Nena Remix",
-      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Se\u00f1orita (Remix)",
         "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 284021,
       "name": "Pacto (feat. Luar La L)",
       "url": "https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "roadhead",
         "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 157021,
       "name": "roadhead",
       "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1479,18 +1479,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Give Me",
-        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/0ybzn4FRTluKf7LRZdSr6E"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
+      "duration_ms": 230213,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/2F8IzXy0la2pnsbXPqdp85"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1531,26 +1539,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/0ybzn4FRTluKf7LRZdSr6E"
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        },
-        {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/2F8IzXy0la2pnsbXPqdp85"
+      "duration_ms": 165600,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Himalaya",
         "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 168871,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
     },
     {
       "added_at": "2024-04-19 04:00:00",

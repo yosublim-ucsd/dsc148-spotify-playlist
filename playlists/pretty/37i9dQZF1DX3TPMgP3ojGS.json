@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 415636,
+  "num_followers": 415751,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "A tale to tell",
-        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
-      },
-      "artists": [
-        {
-          "name": "Luiza Schmidt",
-          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
-        }
-      ],
-      "duration_ms": 130132,
-      "name": "A tale to tell",
-      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 152500,
       "name": "Eridani",
       "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "A tale to tell",
+        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "duration_ms": 130132,
+      "name": "A tale to tell",
+      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Countryside Mansion",
         "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
-      },
-      "artists": [
-        {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
       "artists": [
         {
-          "name": "Domi Nova",
-          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -635,6 +619,22 @@
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
       },
       "artists": [
         {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
         }
       ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
+      "duration_ms": 139375,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Elysian",
-        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
       },
       "artists": [
         {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
         }
       ],
-      "duration_ms": 139375,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Dancing Dreams",
-        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
-      },
-      "artists": [
-        {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Dancing Dreams",
-      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172500,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Dancing Dreams",
+        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+      },
+      "artists": [
+        {
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Dancing Dreams",
+      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Window Seat",
-        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Aspres",
-        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 199119,
-      "name": "Aspres",
-      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Aspres",
+        "url": "https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 199119,
+      "name": "Aspres",
+      "url": "https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
-      },
-      "artists": [
-        {
-          "name": "Portia Price",
-          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
-        }
-      ],
-      "duration_ms": 138301,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Quiet Eyes",
         "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+      },
+      "artists": [
+        {
+          "name": "Portia Price",
+          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+        }
+      ],
+      "duration_ms": 138301,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
     },
     {
       "added_at": "2024-02-22 05:36:01",

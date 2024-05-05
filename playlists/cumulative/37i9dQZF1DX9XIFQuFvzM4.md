@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-283 songs - 15 hr 49 min
+285 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Come See About Me](https://open.spotify.com/track/5QXAMj4GVRUPOQVUNJjLJl) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:42 | 2021-10-19 | 2022-07-29 |
 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 | 2021-10-19 | 2024-04-19 |
 | [Comencemos \(Let's Start\)](https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Tropicoso](https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz) | 2:32 | 2021-10-19 |  |
-| [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 | 2021-10-19 |  |
+| [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 | 2021-10-19 | 2024-05-05 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-10-19 | 2024-04-19 |
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2021-10-19 |  |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2021-10-19 |  |
@@ -135,6 +135,7 @@
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2021-10-19 |  |
 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 | 2021-10-19 | 2024-04-19 |
 | [I Second That Emotion](https://open.spotify.com/track/2f9HNN1AnSoBiW2aObROr3) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:46 | 2021-10-19 | 2022-07-29 |
+| [I Think](https://open.spotify.com/track/0KubmI0koWzdKaZdqLaXNj) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [I Think](https://open.spotify.com/album/3cyit0KF2bS4H3wAwB54bU) | 5:45 | 2022-10-07 |  |
 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 | 2021-10-19 |  |
 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 | 2021-10-19 |  |
 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 | 2021-10-19 |  |
@@ -167,6 +168,7 @@
 | [Last One Standing](https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us](https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX) | 7:16 | 2021-10-19 | 2024-03-01 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-10-19 | 2024-04-19 |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-10-19 | 2022-07-29 |
+| [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-03-28 |  |
 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-10-19 | 2023-10-30 |
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-10-19 | 2022-11-13 |
 | [Love Again](https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 3:30 | 2021-10-19 | 2022-06-07 |
@@ -240,7 +242,7 @@
 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2021-10-19 |  |
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2021-10-19 |  |
 | [Strictly Reserved for You](https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:42 | 2021-10-19 | 2024-01-19 |
-| [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 | 2021-10-19 |  |
+| [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 | 2021-10-19 | 2024-05-05 |
 | [Sunday Morning](https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Sunday Morning](https://open.spotify.com/album/5olG5OUfCDV6O5e1Ip3YXF) | 3:49 | 2021-10-19 |  |
 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2021-10-19 |  |
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-10-19 | 2024-04-19 |

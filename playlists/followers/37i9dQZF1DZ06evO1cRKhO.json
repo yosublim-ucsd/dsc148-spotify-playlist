@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 593,
+  "2024-05-05": 595,
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 714506,
       "name": "\"Blow Winds\"",
       "url": "https://open.spotify.com/track/6SnA1NoyrtxZrqHxqYWnmE"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 263826,
       "name": "Desposition",
       "url": "https://open.spotify.com/track/4ZWr04cqxx5RP5N0OlfZek"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 654386,
       "name": "Maritime Rites: Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -3497,7 +3497,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 1504466,
       "name": "The Beauty Of Sorrow",
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"

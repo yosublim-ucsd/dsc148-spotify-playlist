@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 ### [This Is Gracie Abrams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Cuzya)
 
-> This Is Gracie Abrams\. Los temas esenciales, todos en una lista.
+> This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,182 likes - 27 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,312 likes - 27 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 26 | [This is what the drugs are for](https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 27 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 
-Snapshot ID: `ZjLXgAAAAAAAZLBx1QVET4LQOiYy3jSO`
+Snapshot ID: `ZjQpAAAAAACAgGEBSQOPkfZseFskk5ih`

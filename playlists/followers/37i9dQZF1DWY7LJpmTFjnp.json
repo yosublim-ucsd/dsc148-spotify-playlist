@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 996890,
+  "2024-05-05": 996944,
   "date_first_scraped": "2022-02-09",
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
   "name": "La + Chingona",
@@ -475,6 +475,32 @@
       "duration_ms": 193565,
       "name": "Canci\u00f3n De Reflexi\u00f3n",
       "url": "https://open.spotify.com/track/5y0KY2Q6lbQk6vw4pAKlcz"
+    },
+    {
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
     },
     {
       "album": {
@@ -1692,6 +1718,24 @@
     },
     {
       "album": {
+        "name": "Intacta",
+        "url": "https://open.spotify.com/album/5j2F0xmmPA0FJEpETgYIxL"
+      },
+      "artists": [
+        {
+          "name": "La Barranca",
+          "url": "https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Intacta",
+      "url": "https://open.spotify.com/track/4W3cH8xMSkaM6oNd7GmL7Z"
+    },
+    {
+      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/4BsnVbmnvKel6j1bR3lCeS"
       },
@@ -1837,7 +1881,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 165076,
       "name": "La Noche De Los Monos - Demo 2001",
       "url": "https://open.spotify.com/track/3PdbEvPhn0SJuQcHrnjAXS"
@@ -2179,7 +2223,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 192020,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p"
@@ -2665,6 +2709,24 @@
       "duration_ms": 142988,
       "name": "Noticia Punk",
       "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
+    },
+    {
+      "album": {
+        "name": "Noticia Punk (Remasterizada)",
+        "url": "https://open.spotify.com/album/4yXuYGgh54H2R5EjELCRA5"
+      },
+      "artists": [
+        {
+          "name": "Rebel'd Punk",
+          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Noticia Punk - Remasterizada",
+      "url": "https://open.spotify.com/track/1wb2YWZEB6OaB2n6b1w4IK"
     },
     {
       "album": {
@@ -4107,7 +4169,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 176878,
       "name": "Whitexican",
       "url": "https://open.spotify.com/track/5tmN9xtyTHnbr6mfEyclsU"

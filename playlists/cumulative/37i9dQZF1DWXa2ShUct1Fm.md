@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-240 songs - 13 hr 24 min
+241 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Lucky](https://open.spotify.com/track/6BuUJqtxrQZWKOJFibfFFv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:17 | 2022-07-21 | 2024-04-19 |
 | [LUNCH](https://open.spotify.com/track/0MMIrw3mCssQj4uqJlBzdp) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:20 | 2023-02-06 |  |
 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 | 2024-04-29 |  |
+| [MAESTRO \(Orchestra Remix\)](https://open.spotify.com/track/36LiHWhPhdKScTlDpEsUyv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [MAESTRO \(Orchestra Remix\)](https://open.spotify.com/album/7GGV2EX8kvyOrb31e3qJSB) | 3:38 | 2024-05-05 |  |
 | [Mansae](https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:06 | 2022-05-27 |  |
 | [MANSAE](https://open.spotify.com/track/26OTyz9vMgYKvTvJONpNk4) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:06 | 2024-04-29 |  |
 | [March](https://open.spotify.com/track/5Av3flFGhQPu960OvjeNhm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:16 | 2022-05-27 |  |

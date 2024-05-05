@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 831224,
+  "num_followers": 831153,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 193435,
       "name": "Cuando Me Acerco A Ti",
       "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 219183,
-      "name": "CONTINGENTE",
-      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1775,18 +1775,22 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
       },
       "artists": [
         {
           "name": "Sech",
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 203392,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
+      "duration_ms": 204906,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1879,38 +1883,18 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
       "artists": [
         {
           "name": "Sech",
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
-    },
-    {
-      "added_at": "2024-01-19 05:21:58",
-      "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
+      "duration_ms": 203392,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1935,22 +1919,18 @@
     {
       "added_at": "2024-01-19 05:21:58",
       "album": {
-        "name": "BILLBOARD",
-        "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 234984,
-      "name": "BILLBOARD",
-      "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2024-01-19 05:21:58",
@@ -1971,6 +1951,26 @@
       "duration_ms": 252440,
       "name": "No Te Veo - Remix",
       "url": "https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38"
+    },
+    {
+      "added_at": "2024-01-19 05:21:58",
+      "album": {
+        "name": "BILLBOARD",
+        "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 234984,
+      "name": "BILLBOARD",
+      "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
     },
     {
       "added_at": "2024-01-19 05:21:58",

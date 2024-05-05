@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,314 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 5 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
 | 6 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
 | 7 | [Friends](https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Friends](https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m) | 2:39 |
-| 8 | [a dónde voy???](https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [a dónde voy???](https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx) | 3:15 |
-| 9 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 8 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 9 | [a dónde voy???](https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [a dónde voy???](https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx) | 3:15 |
 | 10 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 11 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
 | 12 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 31 | [Sinoca](https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Sinoca](https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn) | 3:35 |
 | 32 | [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 |
 | 33 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
-| 34 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
+| 34 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
 | 35 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
-| 36 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 |
+| 36 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
 | 37 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 | 38 | [Una noche que nunca termina](https://open.spotify.com/track/1UXbQVP8HhqtW7xQJks5gQ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:01 |
 | 39 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |

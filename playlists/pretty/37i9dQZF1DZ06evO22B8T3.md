@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This Is Paulo Londra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,567 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,571 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 3 | [Me Tiene Mal](https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Me Tiene Mal](https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV) | 4:10 |
 | 4 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 5 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
-| 6 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
-| 7 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
+| 6 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
+| 7 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
 | 8 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
 | 9 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
 | 10 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14) | 4:18 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 35 | [The World Is Yours To Take \- Latin Remix / Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/5zGzSO40FsFK65IloXM7DN) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The World Is Yours To Take \(Latin Remix / Budweiser Anthem Of The FIFA World Cup 2022\)](https://open.spotify.com/album/68fwKhBLMJQkUHQ9UH5AKS) | 2:54 |
 | 36 | [Cansado](https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cansado](https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu) | 3:02 |
 
-Snapshot ID: `ZjLXgAAAAAAI1oA6NBB18qSRXAf0uY58`
+Snapshot ID: `ZjQpAAAAAADM4u5D2cf7yr0fP23IfGIc`

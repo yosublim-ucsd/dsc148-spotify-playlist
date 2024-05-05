@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis R Conriquez, Net\u00f3n Vega en portada.",
-  "num_followers": 217481,
+  "num_followers": 217643,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -831,22 +831,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "El Disney",
-        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 149624,
-      "name": "El Disney",
-      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -867,6 +863,42 @@
       "duration_ms": 173397,
       "name": "Fresas De La Capital",
       "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "El Disney",
+        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 149624,
+      "name": "El Disney",
+      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 163359,
+      "name": "Fuga Del Jefe",
+      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -895,38 +927,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 163359,
-      "name": "Fuga Del Jefe",
-      "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "La Loteria",
         "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Guerreros Aztecas",
-        "url": "https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi"
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
         }
       ],
-      "duration_ms": 233898,
-      "name": "Guerreros Aztecas",
-      "url": "https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW"
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 235663,
       "name": "Clave 18",
       "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Guerreros Aztecas",
+        "url": "https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "Guerreros Aztecas",
+      "url": "https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1079,42 +1099,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Desde Topo Hasta La Sierra",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
-        }
-      ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "De la Estancia a Cosala",
         "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 139853,
       "name": "De la Estancia a Cosala",
       "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "La Firma del Flaquito",
-        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 231329,
-      "name": "La Firma del Flaquito",
-      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "El Fulano",
         "url": "https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 142438,
       "name": "El Fulano",
       "url": "https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "La Firma del Flaquito",
+        "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 231329,
+      "name": "La Firma del Flaquito",
+      "url": "https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "El 7 Tito Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 247944,
-      "name": "El 7 Tito Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+        "name": "El 7 Tito Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+      "duration_ms": 247944,
+      "name": "El 7 Tito Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "El Corrido Del MC",
+        "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "El Corrido Del MC",
+      "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Luces, C\u00e1mara y Acci\u00f3n",
         "url": "https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U"
       },
@@ -1583,38 +1599,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "10 Corridos Autorizados",
-        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 226944,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "El Corrido Del MC",
-        "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "El Corrido Del MC",
-      "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "El 4 a Arturo",
         "url": "https://open.spotify.com/album/6O9Fc8ghm8CmlRUy7XGe4k"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 237610,
       "name": "El 4 a Arturo",
       "url": "https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "10 Corridos Autorizados",
+        "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 226944,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Jefe Fresa",
+        "url": "https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Jefe Fresa",
+      "url": "https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Nuevo Mando",
         "url": "https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Jefe Fresa",
-        "url": "https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Jefe Fresa",
-      "url": "https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "19x O La Perris",
         "url": "https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9"
       },
@@ -1835,22 +1835,6 @@
       "duration_ms": 203871,
       "name": "19x O La Perris",
       "url": "https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "El Aguacatero",
-        "url": "https://open.spotify.com/album/5VWbudLsrwBZotVG0BdesN"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "El Aguacatero",
-      "url": "https://open.spotify.com/track/4h8lQ9ZedhxWw4nEbEBUrt"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Leyendas",
-        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+        "name": "El Aguacatero",
+        "url": "https://open.spotify.com/album/5VWbudLsrwBZotVG0BdesN"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 168806,
-      "name": "La Casa De Balta",
-      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
+      "duration_ms": 189906,
+      "name": "El Aguacatero",
+      "url": "https://open.spotify.com/track/4h8lQ9ZedhxWw4nEbEBUrt"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1907,6 +1891,22 @@
       "duration_ms": 185514,
       "name": "Arriba Los Santos",
       "url": "https://open.spotify.com/track/1f4Z31D2kJEOpNHECdJD5c"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 168806,
+      "name": "La Casa De Balta",
+      "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
     },
     {
       "added_at": "2024-04-26 06:00:00",

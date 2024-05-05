@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Jesse & Joy en portada.
 
-973 songs - 2 day 4 hr 25 min
+974 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [JOJOJO](https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [JOJOJO](https://open.spotify.com/album/3w8FEcSsFiXCO08UOY2Ji5) | 2:25 | 2023-11-24 | 2023-12-02 |
 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-06-30 | 2024-03-16 |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-08-25 | 2024-01-06 |
+| [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 | 2024-05-03 |  |
 | [KATY PERRY](https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY](https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t) | 2:35 | 2024-02-23 | 2024-04-13 |
 | [Kilos de Amor](https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos de Amor](https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp) | 3:56 | 2022-11-25 | 2022-12-31 |
 | [Kitty](https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:38 | 2024-04-26 |  |
@@ -739,7 +740,7 @@
 | [Quiten El Trap](https://open.spotify.com/track/47HKTaIC6f3I9wF10E1J2r) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Quiten El Trap](https://open.spotify.com/album/2ZuRVitZRB7NHOr4uwdjck) | 2:37 | 2022-09-23 | 2022-09-30 |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2022-10-21 | 2023-05-13 |
 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 | 2023-06-23 | 2023-07-29 |
-| [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 | 2024-05-03 |  |
+| [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 | 2024-05-03 | 2024-05-05 |
 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 | 2023-06-23 | 2023-09-09 |
 | [Qué Onda Perdida](https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN) | 3:43 | 2023-03-03 | 2023-05-20 |
 | [Qué Va a Ser de Mí \- En Vivo](https://open.spotify.com/track/2WKVmJuiIEt5XH1x5MCJJw) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Qué Va a Ser de Mí \(En Vivo\)](https://open.spotify.com/album/0Yn8x95Ol7GqDmjgJIk85k) | 3:14 | 2023-11-10 | 2023-11-18 |

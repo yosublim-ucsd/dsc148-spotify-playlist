@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,401 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,408 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 42 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 43 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 |
 | 44 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
-| 45 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
-| 46 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
+| 45 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
+| 46 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
 | 47 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 48 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 | 49 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 |

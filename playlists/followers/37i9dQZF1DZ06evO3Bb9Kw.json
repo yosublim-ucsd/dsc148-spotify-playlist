@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 168580,
+  "2024-05-05": 168606,
   "date_first_scraped": "2022-09-09",
-  "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
+  "description": "This is Miranda Lambert. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Miranda Lambert",
   "tracks": [
     {
@@ -283,7 +283,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 270334,
       "name": "Bramble Rose",
       "url": "https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "Famous In a Small Town",
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"

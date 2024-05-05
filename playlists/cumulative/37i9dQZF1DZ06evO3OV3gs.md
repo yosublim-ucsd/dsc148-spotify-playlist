@@ -2,7 +2,7 @@
 
 ### [This Is Madonna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OV3gs)
 
-> This is Madonna\. Todos os maiores hits em uma só playlist.
+> This is Madonna\. The essential tracks, all in one playlist.
 
 65 songs - 4 hr 41 min
 
@@ -51,7 +51,7 @@
 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 | 2023-07-28 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-07-28 |  |
 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 | 2023-07-28 |  |
-| [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2023-07-28 |  |
+| [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2023-07-28 | 2024-05-05 |
 | [Miles Away](https://open.spotify.com/track/5OWUKkLu9nesbbD0bLwcRL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:48 | 2023-10-10 | 2023-11-11 |
 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 | 2023-07-28 |  |
 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 | 2023-07-28 |  |
@@ -61,7 +61,7 @@
 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 | 2023-07-28 |  |
 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:22 | 2023-07-28 |  |
 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 | 2023-07-28 |  |
-| [Sorry](https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:41 | 2023-07-28 | 2024-05-04 |
+| [Sorry](https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:41 | 2023-07-28 |  |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-07-28 |  |
 | [Sorry \(with Madonna\) \- Eran Hersh and Darmon Remix](https://open.spotify.com/track/3zFW7a0w2ZNmlbeur0nEZn) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Sorry \(Remixes\)](https://open.spotify.com/album/4VGzNWf2GGiSe2Sde9XgSo) | 2:41 | 2023-08-25 | 2023-10-11 |
 | [Take a Bow](https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:21 | 2023-07-28 |  |

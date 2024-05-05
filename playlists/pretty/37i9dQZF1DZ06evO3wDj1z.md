@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 ### [This Is Sergio Vega "El Shaka"](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z)
 
-> This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
+> This Is Sergio Vega "El Shaka"\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,415 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,476 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 16 | [Cosas Raras](https://open.spotify.com/track/2wOk4s5MjR44Yat4DTTGHi) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:25 |
 | 17 | [El Jefe De Las Plazas](https://open.spotify.com/track/1pJMMnem25kCij6sF62hut) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:31 |
 | 18 | [El Ayudante](https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:44 |
-| 19 | [Me Vas A Doler](https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:33 |
+| 19 | [Tu Condena \- Ranchera Version](https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 2:48 |
 | 20 | [Solamente Tú](https://open.spotify.com/track/0fqH7Nucs1Pzm7xJo5I1xi) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:10 |
-| 21 | [Tu Condena \- Ranchera Version](https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 2:48 |
+| 21 | [Me Vas A Doler](https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:33 |
 | 22 | [Ni Se Te Ocurra \(Para Toda La Vida\)](https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Para Toda La Vida](https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc) | 3:32 |
 | 23 | [Como la Lluvia](https://open.spotify.com/track/0KHmN9FByUeQ0FEKbmOPPF) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:52 |
 | 24 | [Maniaco Y Loco](https://open.spotify.com/track/1EuXwKKhEXCIpaEoUO4RD6) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Cosas del Amor](https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:19 |
 | 50 | [El Melate](https://open.spotify.com/track/6ykBuAVP23NGrXVm9HsuVt) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:21 |
 
-Snapshot ID: `ZjLXgAAAAADwzN4LwMUQHMqonVJGvo+x`
+Snapshot ID: `ZjQpAAAAAABfMFseVVkecRY0sBqT/Vqi`

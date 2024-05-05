@@ -1,12 +1,12 @@
 {
   "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
-  "num_followers": 164494,
+  "num_followers": 164536,
   "original_name": "This Is Cage The Elephant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACx7igKf2NU4ImccX4w4rni",
+  "snapshot_id": "ZjQpAAAAAACZODxW8TuUeHZCacs4lT6P",
   "tracks": [
     {
       "added_at": null,
@@ -43,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx"
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 187973,
       "name": "Ready To Let Go",
       "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "Back Against the Wall",
-      "url": "https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Back Against the Wall",
+      "url": "https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9"
     },
     {
       "added_at": null,

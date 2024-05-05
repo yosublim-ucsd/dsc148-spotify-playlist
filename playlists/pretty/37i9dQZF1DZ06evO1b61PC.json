@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 10890,
+  "num_followers": 10891,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAB+kyExezmsedzri4W6wUNT",
+  "snapshot_id": "ZjQpAAAAAABpwrk3AhtRxVD68ifFBpfO",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        }
-      ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
     },
     {
       "added_at": null,

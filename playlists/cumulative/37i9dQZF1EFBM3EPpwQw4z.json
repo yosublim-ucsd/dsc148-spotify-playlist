@@ -1938,10 +1938,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 355304,
       "name": "Tiptoe",
       "url": "https://open.spotify.com/track/1qYh8ohfZpa6562mJYTAEi"
+    },
+    {
+      "album": {
+        "name": "The Crush EP",
+        "url": "https://open.spotify.com/album/1NQduazEn0BBfV3aLnPGnT"
+      },
+      "artists": [
+        {
+          "name": "Set Mo",
+          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355304,
+      "name": "Tiptoe",
+      "url": "https://open.spotify.com/track/22ykG2LTmGHF96CVUyv6vk"
     },
     {
       "album": {

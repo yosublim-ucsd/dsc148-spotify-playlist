@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 94299,
+  "num_followers": 94384,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 416840,
       "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
       "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "This Here Is Bobby Timmons",
-        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        }
-      ],
-      "duration_ms": 324160,
-      "name": "Dat Dere",
-      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "All Kinds Of Weather",
         "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254800,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        }
+      ],
+      "duration_ms": 324160,
+      "name": "Dat Dere",
+      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Explorations",
-        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
+      "duration_ms": 343826,
+      "name": "Re: Person I Knew",
+      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -879,8 +879,8 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+        "name": "Explorations",
+        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 343826,
-      "name": "Re: Person I Knew",
-      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
+      "duration_ms": 205840,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Some More Love Songs",
         "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Treasure Island",
-        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
+        "name": "Trio And Quintet",
+        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Elmo Hope Trio",
+          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
         }
       ],
-      "duration_ms": 566066,
-      "name": "The Rich (And The Poor)",
-      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
+      "duration_ms": 233320,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
+        "name": "Treasure Island",
+        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 566066,
+      "name": "The Rich (And The Poor)",
+      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
         "name": "Shai Maestro Trio",
         "url": "https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 267533,
       "name": "Angelo",
       "url": "https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
-        "name": "Trio And Quintet",
-        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
-      },
-      "artists": [
-        {
-          "name": "Elmo Hope Trio",
-          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Made Possible",
-        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
+        "name": "Fishin' In Stockholm",
+        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
         }
       ],
-      "duration_ms": 370133,
-      "name": "Pound For Pound",
-      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+      "duration_ms": 171609,
+      "name": "Dawn Mist",
+      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1663,38 +1663,42 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Fishin' In Stockholm",
-        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
+        "name": "Made Possible",
+        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
       },
       "artists": [
         {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 171609,
-      "name": "Dawn Mist",
-      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
+      "duration_ms": 370133,
+      "name": "Pound For Pound",
+      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
     },
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Crystal Silence",
-        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
+        "name": "Setting Standards - The New York Sessions",
+        "url": "https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m"
       },
       "artists": [
         {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         },
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 238800,
-      "name": "I'm Your Pal",
-      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+      "duration_ms": 464693,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7G47M8ZKK65VBf6tLhJ2ZL"
     }
   ],
   "unique_name": "Jazz Piano Classics",

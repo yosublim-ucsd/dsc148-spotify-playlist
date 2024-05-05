@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,937 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,942 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 18 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
 | 19 | [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 |
 | 20 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 |
-| 21 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 22 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
+| 21 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
+| 22 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
 | 23 | [Una Señal](https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Alegría y Gozo 2020](https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx) | 3:49 |
 | 24 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 |
 | 25 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |

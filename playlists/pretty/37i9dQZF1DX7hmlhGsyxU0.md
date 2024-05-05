@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,833 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,897 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 4 | [The Green Light \(The Great Gatsby\) \- Piano Version](https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U) | [Je Suis Parte](https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63) | [The Green Light \(The Great Gatsby\) \[Piano Version\]](https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd) | 2:17 |
 | 5 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 |
 | 6 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
-| 7 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
-| 8 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
+| 7 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
+| 8 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 9 | [Pure Imagination \(arr\. piano\)](https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ) | [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI), [Leslie Bricusse](https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3), [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [World Sleep Day](https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt) | 3:23 |
 | 10 | [Made To Be Wanting](https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Made To Be Wanting](https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF) | 3:03 |
 | 11 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |

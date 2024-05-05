@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Sebasti\u00e1n Romero.",
-  "num_followers": 123328,
+  "num_followers": 123344,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Capurgan\u00e1",
-        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
-      },
-      "artists": [
-        {
-          "name": "Astola y Rat\u00f3n",
-          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Capurgan\u00e1",
-      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Capurgan\u00e1",
+        "url": "https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu"
+      },
+      "artists": [
+        {
+          "name": "Astola y Rat\u00f3n",
+          "url": "https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Capurgan\u00e1",
+      "url": "https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "San Nosotros",
         "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 159230,
       "name": "San Nosotros",
       "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Escorpiano",
-        "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        }
-      ],
-      "duration_ms": 224285,
-      "name": "Mi Luz, Mi Voz, Mi Aliada",
-      "url": "https://open.spotify.com/track/4X8Pm0y8PiRtOXcnKUsS5Q"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Escorpiano",
+        "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "Mi Luz, Mi Voz, Mi Aliada",
+      "url": "https://open.spotify.com/track/4X8Pm0y8PiRtOXcnKUsS5Q"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "de amar y desandar",
+        "url": "https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U"
+      },
+      "artists": [
+        {
+          "name": "IDOIA",
+          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Mi vida huele a flor (un poema de Elvira Sastre)",
+      "url": "https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "de amar y desandar",
-        "url": "https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U"
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
       },
       "artists": [
         {
-          "name": "IDOIA",
-          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Mi vida huele a flor (un poema de Elvira Sastre)",
-      "url": "https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT"
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
+        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
         }
       ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+      "duration_ms": 133333,
+      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
+      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
-        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
-      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Plantar un bosque",
+        "url": "https://open.spotify.com/album/3CWrkvYyZCUPCM1x6FRhzx"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "duration_ms": 207690,
+      "name": "Plantar un bosque",
+      "url": "https://open.spotify.com/track/4Z86gAwX69INQHmsHWgJep"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Plantar un bosque",
-        "url": "https://open.spotify.com/album/3CWrkvYyZCUPCM1x6FRhzx"
-      },
-      "artists": [
-        {
-          "name": "Laaza",
-          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
-        }
-      ],
-      "duration_ms": 207690,
-      "name": "Plantar un bosque",
-      "url": "https://open.spotify.com/track/4Z86gAwX69INQHmsHWgJep"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Propuestas Imposibles",
-        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 223047,
-      "name": "Propuestas Imposibles",
-      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Propuestas Imposibles",
+        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 223047,
+      "name": "Propuestas Imposibles",
+      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "una se\u00f1al",
-        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "una se\u00f1al",
-      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "una se\u00f1al",
+        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "una se\u00f1al",
+      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Tananan\u00e1",
-        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Tananan\u00e1",
-      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Sonqollay",
         "url": "https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN"
       },
@@ -1775,6 +1755,26 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Tananan\u00e1",
+        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Tananan\u00e1",
+      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Resalada",
         "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
       },
@@ -1791,22 +1791,22 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+        "name": "Vamos A Dejarlo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0D2n4z3jx2vPuHUcryTuj0"
       },
       "artists": [
         {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+          "name": "Trinidad Rivas",
+          "url": "https://open.spotify.com/artist/1iuhESpzWDSspZACK8cALJ"
         },
         {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+          "name": "Tontxu",
+          "url": "https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO"
         }
       ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+      "duration_ms": 175357,
+      "name": "Vamos A Dejarlo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2jBFTw3WfBpWQBQeMIsugi"
     }
   ],
   "unique_name": "Cancionistas",

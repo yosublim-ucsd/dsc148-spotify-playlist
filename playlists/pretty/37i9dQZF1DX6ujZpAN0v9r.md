@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,227 likes - 148 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,399 likes - 148 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 42 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 43 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
 | 44 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
-| 45 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
-| 46 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 45 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 46 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
 | 47 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
 | 48 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
 | 49 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 68 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
 | 69 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
 | 70 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
-| 71 | [Blue Line Baby](https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Blue Line Baby](https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj) | 4:30 |
-| 72 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
+| 71 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
+| 72 | [Blue Line Baby](https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Blue Line Baby](https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj) | 4:30 |
 | 73 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 74 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
 | 75 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |

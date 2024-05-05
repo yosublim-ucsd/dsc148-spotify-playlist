@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 40 min
+108 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 | 2022-09-24 |  |
 | [Stay \- Festival Mix](https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stay \(Festival Mix\)](https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5) | 3:28 | 2023-09-15 | 2023-11-11 |
 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 | 2022-11-26 |  |
+| [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 | 2024-05-05 |  |
 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 | 2022-10-09 | 2023-07-31 |
 | [The Moment \(Novell\)](https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [The Moment \(Novell\)](https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub) | 3:20 | 2021-12-21 | 2022-08-06 |
 | [Time](https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Redefine EP](https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ) | 2:52 | 2022-10-12 | 2023-01-26 |

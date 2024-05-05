@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 596497,
+  "num_followers": 596899,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACrDhcmM7luoivok9ax1izr",
+  "snapshot_id": "ZjQpAAAAAACB+LhTLitF9X2AOf2kzssu",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 206146,
-      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": null,

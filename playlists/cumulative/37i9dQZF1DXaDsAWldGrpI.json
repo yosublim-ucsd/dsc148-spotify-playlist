@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Luke Combs",
+  "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
   "name": "Country Live",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 218720,
       "name": "21 Summer - Live",
       "url": "https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 291746,
       "name": "21st Century Honky Tonk American Band - Live From The Palomino",
       "url": "https://open.spotify.com/track/785wGEGspnkK6hkwwscdOT"
@@ -106,10 +106,44 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 228403,
       "name": "80s Mercedes (Live from SXSW 2016)",
       "url": "https://open.spotify.com/track/6iYIdaolmbPVqKPxcspOIs"
+    },
+    {
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262586,
+      "name": "A Boy Named Sue - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d"
     },
     {
       "album": {
@@ -142,7 +176,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 223275,
       "name": "American Honey - Live",
       "url": "https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77"
@@ -196,7 +230,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 471093,
       "name": "Baba O'Riley - Live at Fenway Park, Boston, MA, 08.20.2016",
       "url": "https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl"
@@ -316,7 +350,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 153362,
       "name": "Big Wheels - Live",
       "url": "https://open.spotify.com/track/3iRrWEGec6fx4lRudewydr"
@@ -334,10 +368,28 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 219586,
       "name": "Bless the Broken Road - Live / 2011",
       "url": "https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4"
+    },
+    {
+      "album": {
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111426,
+      "name": "Blue Moon Of Kentucky - Live",
+      "url": "https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI"
     },
     {
       "album": {
@@ -392,7 +444,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 307040,
       "name": "Boys 'Round Here (feat. Pistol Annies) - Live",
       "url": "https://open.spotify.com/track/2AAtzf2ZnXaAYOKIGs5g6u"
@@ -432,7 +484,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 242600,
       "name": "Break Up In A Small Town - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/7wv14dDZ6hnrBHB0MbIt7a"
@@ -450,7 +502,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 192306,
       "name": "Burn Out - Live From The Palomino",
       "url": "https://open.spotify.com/track/7ElrTK2lMQsp60ey2h45nd"
@@ -494,7 +546,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 346426,
       "name": "Can't You See (feat. Kid Rock) [Live] [Pass The Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre In Atlanta]",
       "url": "https://open.spotify.com/track/5WEVM8TCxYLE6ChEe1Tom6"
@@ -548,7 +600,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 310773,
       "name": "Chicken Fried (Live) [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/1ut0xFxNXho4lONKCfAu28"
@@ -584,7 +636,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 222586,
       "name": "Cold Beer Calling My Name - Live",
       "url": "https://open.spotify.com/track/1cAWVia2LjLD7F0ESODY8u"
@@ -628,7 +680,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 269533,
       "name": "Colder Weather (feat. Little Big Town) [Live] [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/6zshANE5F24ouL8THcKfxc"
@@ -664,7 +716,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 210877,
       "name": "County Roads - Live At The Basement East",
       "url": "https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld"
@@ -682,10 +734,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 233760,
       "name": "Creek Will Rise - Live",
       "url": "https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70"
+    },
+    {
+      "album": {
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149309,
+      "name": "D.I.V.O.R.C.E",
+      "url": "https://open.spotify.com/track/6Rmg5joHkL2dRrXa8m1oGq"
     },
     {
       "album": {
@@ -736,7 +806,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 199303,
       "name": "Don't Come Lookin' - Live",
       "url": "https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52"
@@ -790,7 +860,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 209365,
       "name": "Downtown - Live",
       "url": "https://open.spotify.com/track/5OSgA8BnIaPpoYQKRSVv9x"
@@ -812,7 +882,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 211798,
       "name": "Dreamer (feat. Texas Hill) - Live from the Ryman",
       "url": "https://open.spotify.com/track/2e4kqRRperR4V2TWWb36cW"
@@ -848,7 +918,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 225189,
       "name": "Drinkin My Baby Goodbye - Live",
       "url": "https://open.spotify.com/track/7KVKpaOxeimIyypMU6I123"
@@ -866,7 +936,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 232158,
       "name": "Drinkin' Problem - Live From The Palomino",
       "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
@@ -884,7 +954,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 237577,
       "name": "Drunk Girls Don't Cry (Live from SXSW 2016)",
       "url": "https://open.spotify.com/track/0fM5MtNJg3l7iGnOrxMoMB"
@@ -978,10 +1048,28 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 206120,
       "name": "Fishin' In The Dark - Live At The Red Deer Fine Arts Center, Canada/1991",
       "url": "https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163040,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
     },
     {
       "album": {
@@ -996,10 +1084,46 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 181200,
       "name": "For What It\u2019s Worth - Live",
       "url": "https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "Forget About It - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E"
+    },
+    {
+      "album": {
+        "name": "Live From The Troubadour",
+        "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266856,
+      "name": "Galveston - Live From The Troubadour / 2008",
+      "url": "https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu"
     },
     {
       "album": {
@@ -1068,10 +1192,32 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 243973,
       "name": "Good Day - Live From Europe",
       "url": "https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np"
+    },
+    {
+      "album": {
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Good Hearted Woman - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
     },
     {
       "album": {
@@ -1112,7 +1258,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 182426,
       "name": "Good Time To Me (feat. Lainey Wilson) - Live From Nashville's Big Bash",
       "url": "https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek"
@@ -1137,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "At the Ryman (Live)",
+        "url": "https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Hard Times - Live",
+      "url": "https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb"
+    },
+    {
+      "album": {
         "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
         "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
       },
@@ -1152,6 +1316,24 @@
       "duration_ms": 208752,
       "name": "Heading South - Live",
       "url": "https://open.spotify.com/track/1oahhuBQ0lDwfFj92D1k7V"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265678,
+      "name": "Heartache Tonight - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr"
     },
     {
       "album": {
@@ -1173,6 +1355,42 @@
     },
     {
       "album": {
+        "name": "Live at RCA Studios 1972",
+        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
+      "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
+    },
+    {
+      "album": {
+        "name": "Dolly: Live From London",
+        "url": "https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "Here You Come Again (Live)",
+      "url": "https://open.spotify.com/track/4oOr8nwiZhNZ3c8pKMyQnN"
+    },
+    {
+      "album": {
         "name": "Pass the Jar - Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta (Live)",
         "url": "https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb"
       },
@@ -1184,7 +1402,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 255093,
       "name": "Highway 20 Ride (Live) [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/7cLBnEsJgrnMQaaaCcaczx"
@@ -1209,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
+    },
+    {
+      "album": {
         "name": "Street Party Live",
         "url": "https://open.spotify.com/album/6RmHhMeHdNJPbxjhnLKAbW"
       },
@@ -1220,7 +1456,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 196309,
       "name": "House Party - Live From The Street Party Presented By Bose",
       "url": "https://open.spotify.com/track/0Boz5z3s23HtPiNrayrkxw"
@@ -1256,10 +1492,28 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 230970,
       "name": "Humble And Kind - Live",
       "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252040,
+      "name": "I Am A Man Of Constant Sorrow - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK"
     },
     {
       "album": {
@@ -1278,7 +1532,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 198428,
       "name": "I Hope You're Happy Now - Live from the CMA Awards 2020",
       "url": "https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX"
@@ -1296,7 +1550,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 236887,
       "name": "I Run To You - Live",
       "url": "https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix"
@@ -1350,10 +1604,32 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 976253,
       "name": "It Ain't My Fault - Live",
       "url": "https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg"
+    },
+    {
+      "album": {
+        "name": "Live At Texas Stadium",
+        "url": "https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236613,
+      "name": "It's 5 O'Clock Somewhere - Live",
+      "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
     },
     {
       "album": {
@@ -1372,7 +1648,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 311273,
       "name": "Jack Daniels - Live At Pepsi Center, Denver, CO / April 5, 2017",
       "url": "https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz"
@@ -1441,6 +1717,92 @@
     },
     {
       "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
+    },
+    {
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199106,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/2wkfdRXeYncUBraBBjeMoI"
+    },
+    {
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+    },
+    {
+      "album": {
         "name": "From The Road, Vol. 1: Covers",
         "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
       },
@@ -1456,6 +1818,24 @@
       "duration_ms": 264892,
       "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
       "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
+    },
+    {
+      "album": {
+        "name": "The Essential Bobby Bare",
+        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Marie Laveau",
+      "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
     },
     {
       "album": {
@@ -1488,7 +1868,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 299840,
       "name": "Maybe It Was Memphis - Live",
       "url": "https://open.spotify.com/track/7ygoOcZoGWWXddt5P1RTL0"
@@ -1542,7 +1922,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 203933,
       "name": "Missing One - Live",
       "url": "https://open.spotify.com/track/3b5ByZjvI4Gn3tgRIdGU7x"
@@ -1582,6 +1962,24 @@
       "duration_ms": 237488,
       "name": "My Jesus - Live From Kentucky",
       "url": "https://open.spotify.com/track/6n39kdFmrDM9HOmQQaeZ73"
+    },
+    {
+      "album": {
+        "name": "Aloha from Hawaii Via Satellite (Live)",
+        "url": "https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "My Way - Live at the Honolulu International Center",
+      "url": "https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i"
     },
     {
       "album": {
@@ -1643,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
+        "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
+      "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
+    },
+    {
+      "album": {
         "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
         "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
       },
@@ -1672,7 +2088,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 239973,
       "name": "Ol' Red - Live",
       "url": "https://open.spotify.com/track/1tCBOvBBXD61UUlkIVhcWu"
@@ -1697,6 +2113,40 @@
     },
     {
       "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
+    },
+    {
+      "album": {
         "name": "Get Closer (Deluxe Version)",
         "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
       },
@@ -1708,7 +2158,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 430293,
       "name": "Once In A Lifetime - Live At The Arena At Gwinnett, GA/2008",
       "url": "https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT"
@@ -1744,7 +2194,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 214000,
       "name": "Over For You - Live in Melbourne",
       "url": "https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl"
@@ -1834,10 +2284,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 167546,
       "name": "Pick Up the Tempo - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
       "url": "https://open.spotify.com/track/5Ck5ySY5fVPXUndrPYXjym"
+    },
+    {
+      "album": {
+        "name": "Top of the World Tour Live",
+        "url": "https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270320,
+      "name": "Ready to Run - Live - 2003",
+      "url": "https://open.spotify.com/track/7wzXlKNSYuLwd05Jz9SaYm"
     },
     {
       "album": {
@@ -1852,7 +2320,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 231213,
       "name": "Real Good Man - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT"
@@ -1877,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Live Anthology",
+        "url": "https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT"
+    },
+    {
+      "album": {
         "name": "Round Here (Live From Joe's Bar, Chicago / 2012)",
         "url": "https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV"
       },
@@ -1888,7 +2374,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 244906,
       "name": "Round Here - Live From Joe's Bar, Chicago / 2012",
       "url": "https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc"
@@ -1910,7 +2396,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 172568,
       "name": "RSVP - Live",
       "url": "https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm"
@@ -1928,7 +2414,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 341133,
       "name": "Rum - Live",
       "url": "https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v"
@@ -1968,10 +2454,28 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 362546,
       "name": "She Thinks My Tractor's Sexy - Live",
       "url": "https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn"
+    },
+    {
+      "album": {
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
     },
     {
       "album": {
@@ -1986,7 +2490,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 295266,
       "name": "She's in Love With the Boy (Live)",
       "url": "https://open.spotify.com/track/6ww19WNCddWn5QExASiph2"
@@ -2022,7 +2526,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 247240,
       "name": "Small Town USA - Live at the Ryman",
       "url": "https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi"
@@ -2058,7 +2562,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 168280,
       "name": "Somebody Else Will - Live at the Ryman",
       "url": "https://open.spotify.com/track/0tKMXjaXtRwEmjw30dakhe"
@@ -2130,7 +2634,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 252415,
       "name": "Stand Behind Me (Live)",
       "url": "https://open.spotify.com/track/2ZWhZTVIC3r428R939eIpE"
@@ -2148,7 +2652,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 222269,
       "name": "Started Right Here - Live",
       "url": "https://open.spotify.com/track/0sygbjwo6LURm9MzjNUFTS"
@@ -2209,6 +2713,42 @@
     },
     {
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273826,
+      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
+    },
+    {
+      "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
+    },
+    {
+      "album": {
         "name": "61 Days In Church Volume 1",
         "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
       },
@@ -2249,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
+    },
+    {
+      "album": {
         "name": "Live From the Ryman And More",
         "url": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
       },
@@ -2260,7 +2818,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 244963,
       "name": "The First Cut Is The Deepest - Live from the Ryman/2019",
       "url": "https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3"
@@ -2278,7 +2836,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 240356,
       "name": "These Boots - Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017",
       "url": "https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv"
@@ -2304,6 +2862,24 @@
       "duration_ms": 218152,
       "name": "This Too Shall Pass (feat. Zach Williams) (Live)",
       "url": "https://open.spotify.com/track/69hYzcgd827dKhwSMCsedv"
+    },
+    {
+      "album": {
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "album": {
@@ -2362,7 +2938,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 273986,
       "name": "Toes (feat. Shawn Mullins) [Live] [Pass the Jar - Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta]",
       "url": "https://open.spotify.com/track/4Wp0a9KdPSdQsNSB8JQ3lB"
@@ -2384,7 +2960,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
@@ -2420,7 +2996,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 367973,
       "name": "Waymore\u2019s Blues - Live at The Fillmore New York at Irving Plaza/ 2010",
       "url": "https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx"
@@ -2500,7 +3076,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 215773,
       "name": "What Hurts the Most - Live / 2011",
       "url": "https://open.spotify.com/track/4hlgImGb2SeTELFkZuhJsu"
@@ -2518,7 +3094,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 224253,
       "name": "What's Your Name - Live",
       "url": "https://open.spotify.com/track/3k5aZuYJfbfcVK9aj8xJOS"
@@ -2583,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
+    },
+    {
+      "album": {
         "name": "One More For The Fans (Live)",
         "url": "https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi"
       },
@@ -2594,7 +3188,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 267533,
       "name": "Whiskey Rock-A-Roller - Live",
       "url": "https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa"
@@ -2630,7 +3224,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 363528,
       "name": "Wings - Live at the Ryman",
       "url": "https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2"
@@ -2648,7 +3242,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 219441,
       "name": "Wish for the World - Live from Nashville",
       "url": "https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0"
@@ -2764,7 +3358,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 318840,
       "name": "You Look Good In My Shirt - Live At The Arena At Gwinnett, GA/2008",
       "url": "https://open.spotify.com/track/5udl9ZZkaqeYzBKvyawlZm"
@@ -2804,6 +3398,24 @@
       "duration_ms": 238585,
       "name": "You'll Think Of Me - Live",
       "url": "https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY"
+    },
+    {
+      "album": {
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Your Man - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaDsAWldGrpI"

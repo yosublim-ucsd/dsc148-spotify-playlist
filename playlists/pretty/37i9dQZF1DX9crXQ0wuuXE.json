@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 615582,
+  "num_followers": 615609,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Sing Into My Mouth",
-        "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "Ben Bridwell",
-          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Sing Into My Mouth",
+        "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 219480,
       "name": "On the Frame",
       "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Close Ties",
         "url": "https://open.spotify.com/album/4tBvlrS4v0KekohNQlV31W"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 314080,
       "name": "It Ain't Over Yet",
       "url": "https://open.spotify.com/track/7GJlAXotjV4uNS1seUDcVE"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Young Man",
-      "url": "https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt"
     },
     {
       "added_at": "2022-03-11 23:43:10",

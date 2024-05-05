@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 146035,
+  "2024-05-05": 146106,
   "date_first_scraped": "2021-12-30",
   "description": "Hand-curated cuts from the vault, no record player required. ",
   "name": "Turntable",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 308214,
       "name": "Fair Chance - Floating Points Remix",
       "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
@@ -3612,7 +3612,7 @@
     },
     {
       "album": {
-        "name": "Back to Mine: Horse Meat Disco (DJ Mix)",
+        "name": "All Back To: Horse Meat Disco",
         "url": "https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon"
       },
       "artists": [

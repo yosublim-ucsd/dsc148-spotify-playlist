@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 27562,
+  "2024-05-05": 27608,
   "date_first_scraped": "2023-06-13",
   "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Brytiago y Anuel AA en portada.",
   "name": "\u00c9xitos Puerto Rico",
@@ -452,6 +452,28 @@
     },
     {
       "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sharo Towers",
+          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "CARBON VRMOR",
+      "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
+    },
+    {
+      "album": {
         "name": "Chi-Partner",
         "url": "https://open.spotify.com/album/0kh4C95vVyBP8kP5PEK1rv"
       },
@@ -695,7 +717,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
@@ -1511,7 +1533,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -1824,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
+    },
+    {
+      "album": {
         "name": "LUCES DE COLORES",
         "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
       },
@@ -1893,7 +1933,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -2784,6 +2824,32 @@
     },
     {
       "album": {
+        "name": "Mr. W",
+        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "Puro Guayeteo",
+      "url": "https://open.spotify.com/track/6sLqrGRUo6Ozgrn3c4Gqk2"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -2919,7 +2985,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157021,
       "name": "roadhead",
       "url": "https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf"
@@ -3246,6 +3312,58 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Buena Para D\u00edas Malos",
+        "url": "https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Textos Fr\u00edos",
+      "url": "https://open.spotify.com/track/0aTmQfJO43j5wC0pDzWuEI"
+    },
+    {
+      "album": {
+        "name": "Toki",
+        "url": "https://open.spotify.com/album/4Ms2rHUlc1Gu47OPeMbvKn"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284783,
+      "name": "Toki",
+      "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -3439,7 +3557,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200000,
       "name": "UNA NOTi",
       "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"

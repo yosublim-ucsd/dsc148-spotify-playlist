@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban and Lainey Wilson, Miranda Lambert and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,891 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,144 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

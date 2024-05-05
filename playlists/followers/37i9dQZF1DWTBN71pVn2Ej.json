@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 362045,
+  "2024-05-05": 362687,
   "date_first_scraped": "2021-12-28",
   "description": "The shape of noise to come.",
   "name": "adrenaline",
@@ -2825,7 +2825,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 105556,
       "name": "Disturb The Peace",
       "url": "https://open.spotify.com/track/3E4a4lwG05VJCgB8A3m1hI"
@@ -3539,6 +3539,24 @@
       "duration_ms": 96242,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/17GTMjqXilz6PWd9eli8q6"
+    },
+    {
+      "album": {
+        "name": "Fright",
+        "url": "https://open.spotify.com/album/30iPjh1gaxjLZMZZEiHpzQ"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180854,
+      "name": "Fright",
+      "url": "https://open.spotify.com/track/3xSyht95rtagLatPqijwok"
     },
     {
       "album": {
@@ -5621,7 +5639,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 254571,
       "name": "Legacy Child",
       "url": "https://open.spotify.com/track/47bAmrdXXjNAsRMczqAYtl"
@@ -8813,6 +8831,24 @@
       "duration_ms": 173458,
       "name": "Stuck In A Loop",
       "url": "https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ"
+    },
+    {
+      "album": {
+        "name": "Losing Pace",
+        "url": "https://open.spotify.com/album/4DNQU7UaD3scp1GGJMiS0a"
+      },
+      "artists": [
+        {
+          "name": "Sledges",
+          "url": "https://open.spotify.com/artist/39MW9WVk4a5tpYN2Bw82qw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202090,
+      "name": "Stumbling as I Fall",
+      "url": "https://open.spotify.com/track/0QkjSWG4qtukt0HuhrdWN6"
     },
     {
       "album": {

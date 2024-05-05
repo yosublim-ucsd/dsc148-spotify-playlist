@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,597 likes - 171 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,598 likes - 171 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 62 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 63 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 64 | [Coattails](https://open.spotify.com/track/66uZIZ8Nz5OIuHUoLZK6X3) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:15 |
-| 65 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 |
-| 66 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
+| 65 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
+| 66 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 |
 | 67 | [One More](https://open.spotify.com/track/4nnKErDH3XokK9cG2tMs6a) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [One More](https://open.spotify.com/album/3T63sUIqazFcBbodR7xe10) | 3:28 |
 | 68 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
 | 69 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 171 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `AbQYGgAAAAAQ8v09IPu/k4ggOMROatQw`
+Snapshot ID: `AbQebgAAAAAhh9dV/GlNZ5J3ynqa61FJ`

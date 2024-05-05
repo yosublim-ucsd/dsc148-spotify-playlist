@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Kany Garc\u00eda y Eden Mu\u00f1oz en portada.",
-  "num_followers": 67354,
+  "num_followers": 67394,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-03 14:04:00",
       "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "added_at": "2024-05-03 14:04:00",
+      "album": {
         "name": "Ahora S\u00e9",
         "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 220161,
       "name": "Ahora S\u00e9",
       "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
-    },
-    {
-      "added_at": "2024-05-03 14:04:00",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": "2024-05-03 14:04:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-05-03 14:04:00",
       "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": "2024-05-03 14:04:00",

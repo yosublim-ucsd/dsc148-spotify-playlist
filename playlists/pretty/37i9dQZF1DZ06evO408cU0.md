@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,422 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,440 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 5 | [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 |
 | 6 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 |
 | 7 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
-| 8 | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
-| 9 | [Y Te Vas](https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:43 |
+| 8 | [Y Te Vas](https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:43 |
+| 9 | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
 | 10 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 |
 | 11 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
 | 12 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 41 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 | 42 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
 | 43 | [El Prisionero De La Celda 909](https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 3:41 |
-| 44 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
+| 44 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 |
 | 45 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
-| 46 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 |
+| 46 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
 | 47 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 |
 | 48 | [Joaquín](https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 3:06 |
 | 49 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 |
 | 50 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 
-Snapshot ID: `ZjLXgAAAAAAYid2WIga5JY9kO8ANcLgK`
+Snapshot ID: `ZjQpAAAAAAAJkBA6Fs5hgbj2hF/90bPy`

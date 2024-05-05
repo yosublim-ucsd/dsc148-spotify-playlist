@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: BABYMONSTER\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,824 likes - 64 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,957 likes - 64 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 50 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 |
 | 51 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 |
 | 52 | [UhUh](https://open.spotify.com/track/7DLH6I3RzLhMEiaOfahwbm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:22 |
-| 53 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
-| 54 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 |
+| 53 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 |
+| 54 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
 | 55 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
 | 56 | [Blue](https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Four Seasons](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) | 3:32 |
 | 57 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 |

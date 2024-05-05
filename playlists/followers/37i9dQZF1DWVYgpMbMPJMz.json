@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 977951,
+  "2024-05-05": 978067,
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5yCOPpDHEQxwSJJL2LAqLj\">Mack Brock</a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:6SppFn5ihgxDw7tdfthnaK\">Lakewood Music</a> & <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -370,6 +370,28 @@
     },
     {
       "album": {
+        "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
+        "url": "https://open.spotify.com/album/1kEXz6c1DSPl7Gr2rDTecv"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/3bOw1pf2tJeMnmalEA7i2o"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218576,
+      "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/7HPnlHRVAX3uNGkd7zTqlr"
+    },
+    {
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
       },
@@ -651,6 +673,32 @@
       "duration_ms": 292844,
       "name": "Awestruck",
       "url": "https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P"
+    },
+    {
+      "album": {
+        "name": "Back to Jesus",
+        "url": "https://open.spotify.com/album/3sHoBUZYTjKy3cG9wFFHVR"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        },
+        {
+          "name": "Alisha Eich",
+          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336042,
+      "name": "Back to Jesus",
+      "url": "https://open.spotify.com/track/4ZEkwE8wfIHg8r0GzmJP0c"
     },
     {
       "album": {
@@ -1375,7 +1423,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 257337,
       "name": "Breaking Me Down",
       "url": "https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3"
@@ -1877,7 +1925,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
@@ -2239,6 +2287,28 @@
       "duration_ms": 500657,
       "name": "Coming Back - Live",
       "url": "https://open.spotify.com/track/75vhFeCGUYqNXq06vLhoQ4"
+    },
+    {
+      "album": {
+        "name": "Command My Soul (Live)",
+        "url": "https://open.spotify.com/album/3kq0LLjY5ycWrGBrHUVWcE"
+      },
+      "artists": [
+        {
+          "name": "Vizion Worship",
+          "url": "https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0"
+        },
+        {
+          "name": "Kenzie Katlyn",
+          "url": "https://open.spotify.com/artist/1LzID8UM1uupTj5RTeZWt9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308942,
+      "name": "Command My Soul - Live",
+      "url": "https://open.spotify.com/track/18mceRNwuRHCVNsnRApZfS"
     },
     {
       "album": {
@@ -2993,7 +3063,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 350783,
       "name": "Found",
       "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
@@ -3386,6 +3456,28 @@
     },
     {
       "album": {
+        "name": "GOODBYE YESTERDAY",
+        "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298682,
+      "name": "GOODBYE YESTERDAY",
+      "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
+    },
+    {
+      "album": {
         "name": "Of Dirt And Grace: Live From The Land (Expanded Edition)",
         "url": "https://open.spotify.com/album/1GUEempDMheicK14bjCtv0"
       },
@@ -3561,6 +3653,32 @@
       "duration_ms": 225366,
       "name": "Halfway Empty - Live",
       "url": "https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7gYcSHhbGWPp2nJlJyuEKc"
+      },
+      "artists": [
+        {
+          "name": "Heaven Culture Music",
+          "url": "https://open.spotify.com/artist/7JOEajUwvnpNdkaA24jGpu"
+        },
+        {
+          "name": "Ashtyn Michael",
+          "url": "https://open.spotify.com/artist/22ZrcP93TaQskLlQMEagLh"
+        },
+        {
+          "name": "Tofunmi Adorna",
+          "url": "https://open.spotify.com/artist/4q5lJAb7UWYzkyYxzrtJ1h"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670769,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6eL0MTP4wcrELcg8MVsMT9"
     },
     {
       "album": {
@@ -3865,6 +3983,32 @@
       "duration_ms": 331786,
       "name": "Holy - Live",
       "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship",
+          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223235,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy"
     },
     {
       "album": {
@@ -4391,7 +4535,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 286318,
       "name": "I Believe - Live At Shepherd Church",
       "url": "https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y"
@@ -5062,6 +5206,28 @@
     },
     {
       "album": {
+        "name": "Indescribable (Live)",
+        "url": "https://open.spotify.com/album/0OsInJMPIo3mzpevs4yWex"
+      },
+      "artists": [
+        {
+          "name": "Worship Circle",
+          "url": "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
+        },
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268909,
+      "name": "Indescribable - Live",
+      "url": "https://open.spotify.com/track/3qUe5K2RfxLKU8M94bwNqQ"
+    },
+    {
+      "album": {
         "name": "Grace Upon Grace",
         "url": "https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc"
       },
@@ -5651,7 +5817,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 384293,
       "name": "Just One Drop - Live From New Orleans",
       "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
@@ -6037,7 +6203,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 239962,
       "name": "Let The People Sing - Live",
       "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
@@ -6971,7 +7137,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 216333,
       "name": "Never Walk Alone - Radio Edit",
       "url": "https://open.spotify.com/track/4cYNtjihMRCXnzBvQsO7oi"
@@ -7117,7 +7283,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 390967,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
@@ -7438,6 +7604,28 @@
     },
     {
       "album": {
+        "name": "Undeserving",
+        "url": "https://open.spotify.com/album/17Jzi0xBfJ9rImV03Gb88m"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dave Kull",
+          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339230,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/1vYteIOnwxr8btfWqQfsVv"
+    },
+    {
+      "album": {
         "name": "Onipotente / Omnipotent",
         "url": "https://open.spotify.com/album/2obLD6QuA1HKlGdkivRCPJ"
       },
@@ -7597,6 +7785,28 @@
       "duration_ms": 271145,
       "name": "Our God Will Go Before Us - Live",
       "url": "https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez"
+    },
+    {
+      "album": {
+        "name": "Outnumbered (Live)",
+        "url": "https://open.spotify.com/album/5hgMAQ7rrWZBFRbUddgOfu"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Outnumbered - Live",
+      "url": "https://open.spotify.com/track/2Dt3MmWoQKytfShbkCjIYw"
     },
     {
       "album": {
@@ -10531,7 +10741,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 310226,
       "name": "Thunder In The Desert",
       "url": "https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um"
@@ -10807,6 +11017,28 @@
       "duration_ms": 442264,
       "name": "Trust In God (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
+      "album": {
+        "name": "Trust Is In The Lord (feat. Chris Kuti) [Live]",
+        "url": "https://open.spotify.com/album/35BGHxBW5AC03GAzrXb1DY"
+      },
+      "artists": [
+        {
+          "name": "Lakepointe Music",
+          "url": "https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a"
+        },
+        {
+          "name": "Chris Kuti",
+          "url": "https://open.spotify.com/artist/0asHzVHmeEsJnkdi18k9IG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327523,
+      "name": "Trust Is In The Lord (feat. Chris Kuti) - Live",
+      "url": "https://open.spotify.com/track/01pypGLrbFFRUqw6NzzviZ"
     },
     {
       "album": {
@@ -11196,6 +11428,28 @@
     },
     {
       "album": {
+        "name": "Where You're Wanted (Live)",
+        "url": "https://open.spotify.com/album/5qnD3guQk7ke9bn5URoQ7V"
+      },
+      "artists": [
+        {
+          "name": "Church of the City New York",
+          "url": "https://open.spotify.com/artist/7KzjQ0i6ueIh45lCJHFcR6"
+        },
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292075,
+      "name": "Where You're Wanted - Live",
+      "url": "https://open.spotify.com/track/3GcfJsiKzQKlp7RlsbLPuH"
+    },
+    {
+      "album": {
         "name": "Who Else (Live)",
         "url": "https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB"
       },
@@ -11295,7 +11549,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 264177,
       "name": "Wild Faith",
       "url": "https://open.spotify.com/track/0mjwvSKLLVxaGj0dq6mcZ1"
@@ -11705,7 +11959,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 ### [This Is Avril Lavigne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aBNIs)
 
-> This is Avril Lavigne\. Todos os maiores hits em uma só playlist.
+> This Is Avril Lavigne\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,188 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,316 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 29 | [Let Me Go \(feat\. Chad Kroeger\)](https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 4:27 |
 | 30 | [Knockin' on Heaven's Door \- Studio Version](https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Nobody's Home](https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV) | 2:50 |
 | 31 | [Take Me Away](https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 2:57 |
-| 32 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 |
+| 32 | [The Best Damn Thing](https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:09 |
 | 33 | [Bad Girl \(feat\. Marilyn Manson\)](https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 2:54 |
-| 34 | [The Best Damn Thing](https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:09 |
+| 34 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 |
 | 35 | [He Wasn't](https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 2:59 |
 | 36 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 |
 | 37 | [Hello Kitty](https://open.spotify.com/track/5eo5uGyM4q70CLU3LZphfu) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 |
 | 50 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 |
 
-Snapshot ID: `ZjLXgAAAAAAg28xX9qqBtwzWdjTqOrhI`
+Snapshot ID: `ZjQpAAAAAABZz8MC3GCoQQyBv3/mfQip`

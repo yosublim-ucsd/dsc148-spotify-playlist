@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,951 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,999 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 20 | [Oil & Water](https://open.spotify.com/track/3uM2nOFIxGDQkkPrMKvBMZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Oil & Water](https://open.spotify.com/album/1I5q2NXnbfIgdKVnnMZGZg) | 3:29 |
 | 21 | [Roommates](https://open.spotify.com/track/17PptOBotUJkpT29mGyCB7) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Roommates // Overtime](https://open.spotify.com/album/4Fj5zzYFkEeSND67m9WbpL) | 3:20 |
 | 22 | [Won't Settle](https://open.spotify.com/track/56hGTwfJp5UKGxj92qSnyX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Won't Settle](https://open.spotify.com/album/6STKw95UhWbzYxTuusUzMW) | 4:06 |
-| 23 | [Wish It On You](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 |
+| 23 | [Wish It On You \(with AViVA\)](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You \(with AViVA\)](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 |
 | 24 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 |
 | 25 | [Feel Right Now](https://open.spotify.com/track/1hivZw2it6Q281wI18kC6H) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Feel Right Now](https://open.spotify.com/album/2yMi25dgaYP5ddnsGAPUY2) | 3:22 |
 | 26 | [Sad In Carolina](https://open.spotify.com/track/4q3jPOs1eS4BoHtG08r9QW) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Sad In Carolina](https://open.spotify.com/album/6zyGuyzZHVMvVmnvwVOCx9) | 3:10 |

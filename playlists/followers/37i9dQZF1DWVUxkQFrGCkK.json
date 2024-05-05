@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 267757,
+  "2024-05-05": 268200,
   "date_first_scraped": "2023-04-15",
   "description": "giza desert rave",
   "name": "Umami",
@@ -5652,6 +5652,24 @@
     },
     {
       "album": {
+        "name": "Long Train Running",
+        "url": "https://open.spotify.com/album/6eTt8VGehn4iQ8bKfpQqAH"
+      },
+      "artists": [
+        {
+          "name": "Ghostbusterz",
+          "url": "https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280161,
+      "name": "Long Train Running",
+      "url": "https://open.spotify.com/track/4pbh0GGWVn9RlunpD1wBoI"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -6630,7 +6648,7 @@
       "artists": [
         {
           "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/3eh0ESJAEiOgjjKAqwsztS"
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
         }
       ],
       "date_added": "2023-10-19",

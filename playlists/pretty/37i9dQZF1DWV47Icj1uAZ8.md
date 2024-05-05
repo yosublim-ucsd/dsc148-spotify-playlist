@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,253 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,277 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 45 | [Since I Seen't You](https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:15 |
 | 46 | [Young Nigga \(feat\. Puff Daddy\)](https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:56 |
 | 47 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 |
-| 48 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
-| 49 | [Blue Magic](https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:08 |
+| 48 | [Blue Magic](https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:08 |
+| 49 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
 | 50 | [Crazy You](https://open.spotify.com/track/7H4IsC0YmKnAjbGVGZGMQo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS) | 2:17 |
 
 Snapshot ID: `ZIsTswAAAACF6UVMRTSnwr5ITESuzVpU`

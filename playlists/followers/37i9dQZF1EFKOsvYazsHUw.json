@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 469,
+  "2024-05-05": 469,
   "date_first_scraped": "2022-11-12",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX\">Chiiild</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chiiild",
@@ -429,6 +429,24 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "album": {
+        "name": "The Juice: Vol. III",
+        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172289,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ"
     },
     {
       "album": {

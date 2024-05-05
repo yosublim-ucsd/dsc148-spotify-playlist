@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,314 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,347 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 |
 | 63 | [A Bit of Love](https://open.spotify.com/track/36SEr7gwsJ96hC5GCs5VEM) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [A Bit of Love](https://open.spotify.com/album/741QjU0V8tyMy68At6QwdN) | 2:28 |
 | 64 | [Unsure](https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Unsure](https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P) | 2:48 |
-| 65 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 65 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 66 | [It's Alright \(feat\. Malou\)](https://open.spotify.com/track/4R47YSOXTtC9Jph9yXRbk7) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's Alright \(feat\. Malou\)](https://open.spotify.com/album/0QHw3UCJpLpsCOYCk7MgaC) | 3:47 |
 | 67 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 |
 | 68 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 91 | [Over The Hill](https://open.spotify.com/track/1o5MV6pRgRkEqgHkoVEEvt) | [Certain Animals](https://open.spotify.com/artist/63B62h8zh5sHiv6iCvHMhZ) | [Over The Hill](https://open.spotify.com/album/1HjyBSiTqTEHQTshqFlfXm) | 3:26 |
 | 92 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 93 | [Note to Self](https://open.spotify.com/track/6tinHZoD33heoB6ngZdVsd) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Note to Self](https://open.spotify.com/album/2r141ZOH2USEGCxNVNBePF) | 3:50 |
-| 94 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 94 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 95 | [Outer Space](https://open.spotify.com/track/6Pe7PZ8IlkhgFFXVf1meLu) | [TEUN](https://open.spotify.com/artist/15hlOC6A250bIpvtHrj6h6) | [Homebound](https://open.spotify.com/album/3uoKlf8QPwcfdwlShrQwxF) | 5:05 |
 | 96 | [Song to the Siren](https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Lie To Me](https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV) | 4:15 |
 | 97 | [fuck it \(another song about you\)](https://open.spotify.com/track/42qmBtUMTV1iV2JRflRrhx) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [LOVE + POP Pt 2](https://open.spotify.com/album/145JtxDWygxW0iZPONGGSc) | 2:15 |

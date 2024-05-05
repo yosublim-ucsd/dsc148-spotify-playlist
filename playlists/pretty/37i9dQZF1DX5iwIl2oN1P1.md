@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,406 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,456 likes - 60 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 21 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 |
 | 22 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 23 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
-| 24 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
-| 25 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 |
+| 24 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 |
+| 25 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 | 26 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
 | 27 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
 | 28 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/6PWZf2hUR9TCA4DsmClUo6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 7:03 |

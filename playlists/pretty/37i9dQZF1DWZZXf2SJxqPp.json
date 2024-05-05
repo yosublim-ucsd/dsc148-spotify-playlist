@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 135950,
+  "num_followers": 135986,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
       "added_at": "2023-10-24 02:02:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -647,22 +663,6 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Juniore",
-        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A la plage",
-      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Pays imaginaire",
-      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -819,6 +787,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Juniore",
+        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A la plage",
+      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 297857,
       "name": "Walk with the Dreamers",
       "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "Pays imaginaire",
+      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Discoman",
         "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rain Check",
         "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
-      },
-      "artists": [
-        {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
-        }
-      ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Voyages",
         "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216104,
       "name": "Voyages",
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+      },
+      "artists": [
+        {
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+        }
+      ],
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1407,6 +1391,22 @@
       "duration_ms": 188920,
       "name": "L'amour, l'amour, l'amour",
       "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "A bite of papaya",
-        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
-      },
-      "artists": [
-        {
-          "name": "Miynt",
-          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
-        }
-      ],
-      "duration_ms": 257033,
-      "name": "A bite of papaya",
-      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Dubby Sunday",
         "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Station Romance",
-        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
+        "name": "A bite of papaya",
+        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
       "artists": [
         {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
         }
       ],
-      "duration_ms": 459560,
-      "name": "Station Romance",
-      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
+      "duration_ms": 257033,
+      "name": "A bite of papaya",
+      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1623,6 +1607,22 @@
       "duration_ms": 213133,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Station Romance",
+        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 459560,
+      "name": "Station Romance",
+      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
     },
     {
       "added_at": "2023-08-14 14:58:41",

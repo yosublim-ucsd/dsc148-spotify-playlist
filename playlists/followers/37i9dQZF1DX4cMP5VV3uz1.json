@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 153006,
+  "2024-05-05": 153069,
   "date_first_scraped": "2023-01-15",
   "description": "Filthy bass bangers to soundtrack your sesh",
   "name": "Proper Naughty ",
@@ -77,6 +77,28 @@
       "duration_ms": 231111,
       "name": "Affiliation, Pt. 2 - MPH Remix",
       "url": "https://open.spotify.com/track/3goOJt0XCZmAgbxgWqyGgV"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4JjIY6lalquagylMmJxOSW"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1XNQJZ8CfaTNIowJsaotvn"
     },
     {
       "album": {
@@ -241,7 +263,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 154858,
       "name": "Badda - Sinais VIP",
       "url": "https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU"
@@ -1205,7 +1227,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 119096,
       "name": "English Lad (Midnight Dance Party Remix)",
       "url": "https://open.spotify.com/track/3A47bmN1k7yugmUZxqVofH"
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 177266,
       "name": "Ninja Bike",
       "url": "https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh"
@@ -3075,7 +3097,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 122069,
       "name": "Party Muscle",
       "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
@@ -3207,6 +3229,28 @@
       "duration_ms": 188160,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
+    },
+    {
+      "album": {
+        "name": "Playing With Fire (feat. Zac Pajak)",
+        "url": "https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Zac Pajak",
+          "url": "https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Playing With Fire (feat. Zac Pajak)",
+      "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rvssian, Ayra Starr & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,530 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,556 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 67 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 68 | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/track/0HvaUKWOXnwAaTmoh4IBYy) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW) | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/album/2fTzljF7q1dG2tXkoPBS9L) | 4:05 |
 | 69 | [GUERRA](https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [GUERRA](https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt) | 3:52 |
-| 70 | [Certainly](https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB) | [SKN The Divine](https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK), [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2), [Joe On The Beat](https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF) | [Certainly](https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1) | 2:13 |
+| 70 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 |
 
 Snapshot ID: `Zg+PTQAAAACcp3M79yqdVFq2d5cUdcpg`

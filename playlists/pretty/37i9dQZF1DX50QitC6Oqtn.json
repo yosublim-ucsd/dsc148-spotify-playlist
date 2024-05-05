@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3488478,
+  "num_followers": 3488322,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 246735,
       "name": "Fire On Fire - From \"Watership Down\"",
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Colour It In",
-        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Toothpaste Kisses",
-      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190533,
       "name": "Patient",
       "url": "https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Colour It In",
+        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Toothpaste Kisses",
+      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 177438,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Cup Of Beats",
         "url": "https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Inner Monologue Part 2",
-        "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
+        "name": "Inner Monologue Part 2",
+        "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 177438,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
+      "duration_ms": 182800,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Under the Surface",
-        "url": "https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 196477,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Judgement",
         "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Under the Surface",
+        "url": "https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 196477,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3"
     },
     {
       "added_at": "2022-12-08 16:33:34",

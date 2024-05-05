@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+    },
+    {
+      "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },

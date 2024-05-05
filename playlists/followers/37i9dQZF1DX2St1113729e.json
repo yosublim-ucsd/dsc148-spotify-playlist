@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 216927,
+  "2024-05-05": 216896,
   "date_first_scraped": "2023-10-15",
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. RIZHA",
   "name": "helium",
@@ -679,6 +679,24 @@
       "duration_ms": 142285,
       "name": "Caballero de la Muerte",
       "url": "https://open.spotify.com/track/2lFJlrVU6sN8yRgkWXvYd3"
+    },
+    {
+      "album": {
+        "name": "Cansao de to",
+        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
+      },
+      "artists": [
+        {
+          "name": "M. Nieto",
+          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Cansao de to",
+      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
     },
     {
       "album": {
@@ -4163,7 +4181,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121666,
       "name": "Que m\u00e1s da",
       "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"

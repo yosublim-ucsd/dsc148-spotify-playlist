@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 100586,
+  "2024-05-05": 100861,
   "date_first_scraped": "2023-10-15",
   "description": "una lloradita y a seguirle \ud83e\udd72",
   "name": "pa llorar",
@@ -61,6 +61,28 @@
       "duration_ms": 153347,
       "name": "3 AM at a Party",
       "url": "https://open.spotify.com/track/05SS1T78bHkLPEb9VTvEoE"
+    },
+    {
+      "album": {
+        "name": "300 Noches",
+        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "300 Noches",
+      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
       "album": {
@@ -183,7 +205,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 190360,
       "name": "Amor Ordinario",
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
@@ -309,7 +331,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -884,6 +906,24 @@
     },
     {
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Del r\u00edo",
+      "url": "https://open.spotify.com/track/2G3ud9WTxl6uYRG75X6Ib0"
+    },
+    {
+      "album": {
         "name": "Delora",
         "url": "https://open.spotify.com/album/1SuodfdTXoL80PB9PKOZSo"
       },
@@ -1061,6 +1101,24 @@
       "duration_ms": 210240,
       "name": "Easily",
       "url": "https://open.spotify.com/track/0RnxpSzxzwZgFQ0NahQr9K"
+    },
+    {
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "album": {
@@ -1681,7 +1739,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -2508,6 +2566,28 @@
     },
     {
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -3139,7 +3219,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"

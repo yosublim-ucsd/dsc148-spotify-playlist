@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 67354,
+  "2024-05-05": 67394,
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Carin Leon en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Kany Garc\u00eda y Eden Mu\u00f1oz en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 170542,
       "name": "Anclada",
       "url": "https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222200,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/1mGml8E606PCYFKj5fjBmZ"
@@ -868,6 +868,28 @@
     },
     {
       "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "Buenos Tiempos",
+      "url": "https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx"
+    },
+    {
+      "album": {
         "name": "Inefable",
         "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
       },
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 252306,
       "name": "Coraz\u00f3n de Ave",
       "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
@@ -1642,6 +1664,36 @@
     },
     {
       "album": {
+        "name": "disfraz",
+        "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Irvin Mach",
+          "url": "https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst"
+        },
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "disfraz",
+      "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
+    },
+    {
+      "album": {
         "name": "Donde Nadie",
         "url": "https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT"
       },
@@ -1794,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/5AsvysZbjrV75p09twLnFC"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210055,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/5NGkOQpMzneM26Pr0a77uB"
+    },
+    {
+      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -1918,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz"
       },
@@ -1929,7 +2017,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 241780,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ"
@@ -2654,6 +2742,28 @@
     },
     {
       "album": {
+        "name": "Llorar Por Ella",
+        "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
+    },
+    {
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
@@ -2911,7 +3021,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 285953,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/7xo0Cq0yX79sSaKfxq7Q5r"
@@ -3161,6 +3271,24 @@
       "duration_ms": 221306,
       "name": "Morir",
       "url": "https://open.spotify.com/track/6XjDl7tQLZJTmdW77wleIp"
+    },
+    {
+      "album": {
+        "name": "MUJER MARAVILLA",
+        "url": "https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "MUJER MARAVILLA",
+      "url": "https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB"
     },
     {
       "album": {
@@ -3628,6 +3756,24 @@
     },
     {
       "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "album": {
         "name": "Pangea",
         "url": "https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU"
       },
@@ -3665,7 +3811,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173906,
       "name": "Parar\u00e1 (Ya Est\u00e1s Aqu\u00ed)",
       "url": "https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1"
@@ -3759,6 +3905,28 @@
       "duration_ms": 183529,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/3ZuFInBcAYRuRzoresTxCW"
+    },
+    {
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Por Un Amor",
+      "url": "https://open.spotify.com/track/60qAecYHQPoTj7NfpMoldU"
     },
     {
       "album": {
@@ -4238,6 +4406,28 @@
     },
     {
       "album": {
+        "name": "Solo Los Amantes Sobreviven",
+        "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "Solo Los Amantes Sobreviven",
+      "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
+    },
+    {
+      "album": {
         "name": "SOLO POR VOS",
         "url": "https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE"
       },
@@ -4383,7 +4573,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182506,
       "name": "Tauro Con Leo",
       "url": "https://open.spotify.com/track/0Ni7oJho2vvZhDTDi5Ixm3"

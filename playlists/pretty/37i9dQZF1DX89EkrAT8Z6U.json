@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1068518,
+  "num_followers": 1069566,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "RAHHHH",
-        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
-      },
-      "artists": [
-        {
-          "name": "alt!",
-          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
-        }
-      ],
-      "duration_ms": 60945,
-      "name": "RAHHHH",
-      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "She Bad",
         "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 105534,
       "name": "She Bad",
       "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "RAHHHH",
+        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
+      },
+      "artists": [
+        {
+          "name": "alt!",
+          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
+        }
+      ],
+      "duration_ms": 60945,
+      "name": "RAHHHH",
+      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Riders",
-        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
-      },
-      "artists": [
-        {
-          "name": "onimanxd",
-          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
-        }
-      ],
-      "duration_ms": 107620,
-      "name": "Riders",
-      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "die",
         "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 99560,
       "name": "die",
       "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Riders",
+        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
+      },
+      "artists": [
+        {
+          "name": "onimanxd",
+          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
+        }
+      ],
+      "duration_ms": 107620,
+      "name": "Riders",
+      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Dead on Arrival",
-        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "March!",
         "url": "https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 134500,
       "name": "March!",
       "url": "https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Dead on Arrival",
+        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
     },
     {
       "added_at": "2024-04-26 05:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-04-26 05:01:00",
       "album": {
-        "name": "Vito / Bad Boy",
-        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
-      },
-      "artists": [
-        {
-          "name": "Headband Andy",
-          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Vito / Bad Boy",
-      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
-    },
-    {
-      "added_at": "2024-04-26 05:01:00",
-      "album": {
         "name": "MAMBO",
         "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2024-04-26 05:01:00",
+      "album": {
+        "name": "Vito / Bad Boy",
+        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
+      },
+      "artists": [
+        {
+          "name": "Headband Andy",
+          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Vito / Bad Boy",
+      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
     },
     {
       "added_at": "2024-04-26 05:01:00",

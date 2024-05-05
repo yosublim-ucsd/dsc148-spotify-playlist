@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,592 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,593 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 | 49 | [MMA \- Gipsy Remix](https://open.spotify.com/track/3uIxUV37NSTY8sWyBQyjuz) | [Radek Malár](https://open.spotify.com/artist/07UPRJF1LzmNwCtEx9wrh6) | [MMA \(Gipsy Remix\)](https://open.spotify.com/album/1pug5LHH9DvnMMAqEchZgm) | 2:52 |
 | 50 | [PARANOIA](https://open.spotify.com/track/7odkDJx84eAIPmDHSTjPUU) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Paranoia](https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC) | 3:59 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

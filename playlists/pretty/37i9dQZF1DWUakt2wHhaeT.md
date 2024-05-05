@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > Manifest some motivation with Broadway's best "I Want" songs\. Cover: Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,825 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,840 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 32 | [Much More](https://open.spotify.com/track/77jyoNB7g3WT9LANJLeFU5) | [Tom Jones](https://open.spotify.com/artist/4jl6V2nfchNZBf1GHymBxk), [Harvey Schmidt](https://open.spotify.com/artist/6Dlt6QiAyN2YgN6j3aBJRJ), [Rita Gardner](https://open.spotify.com/artist/0dDr11ltZYuXGQ005GNiQF) | [The Fantasticks \(Original Cast Recording\)](https://open.spotify.com/album/4vCswuqUgwGki83DlPKY0E) | 2:36 |
 | 33 | [I'm The Greatest Star](https://open.spotify.com/track/7MxuUYqrCIy93h1EEHrIrL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Funny Girl \- Original Soundtrack Recording](https://open.spotify.com/album/0G8qWYPobQUV9wDm2XABPp) | 4:05 |
 | 34 | [Proud of Your Boy](https://open.spotify.com/track/12vY4vUvOchgy9HmC8fonf) | [Adam Jacobs](https://open.spotify.com/artist/5AmnFjIvQPCZJk3ES5kki4) | [Aladdin Original Broadway Cast Recording](https://open.spotify.com/album/4tPmCvpXwBaqbl3ECGbt6T) | 2:21 |
-| 35 | [The Beauty Is](https://open.spotify.com/track/3Qmb1Ohyk0955RnfLQvOvG) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Adam Guettel](https://open.spotify.com/artist/6UJMGTzCvEMmjfFlj34gPU) | [The Light in the Piazza](https://open.spotify.com/album/0sm6yo5ahSo3DlyekCdu5k) | 3:07 |
+| 35 | [The Beauty Is](https://open.spotify.com/track/3Qmb1Ohyk0955RnfLQvOvG) | [Kelli O'Hara](https://open.spotify.com/artist/4IeEWegTqac3VBLpKaZtxj), [Adam Guettel](https://open.spotify.com/artist/6UJMGTzCvEMmjfFlj34gPU) | [The Light in the Piazza](https://open.spotify.com/album/0sm6yo5ahSo3DlyekCdu5k) | 3:07 |
 | 36 | [All That's Known \- Original Broadway Cast Recording/2006](https://open.spotify.com/track/2rva0M9ct40LyAxwFi047X) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Spring Awakening \(Original Broadway Cast Recording\)](https://open.spotify.com/album/22BNtGKmvhmIcalNXzS9xC) | 2:01 |
 | 37 | [Just Breathe](https://open.spotify.com/track/0rc7DWOaM1pGttXrKu8lQK) | [Caitlin Kinnunen](https://open.spotify.com/artist/33RWcf3xOXdbUHIajavxaE) | [The Prom: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2EeSecVK1JVbirWHqgWoq6) | 2:47 |
 | 38 | [The Lamest Place In The World](https://open.spotify.com/track/0oUxFqumachSOZoIAhxybk) | [13 Orginal Cast](https://open.spotify.com/artist/1W4GVkbBIEXOuzrUrqLZ2A), [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [13 \(Deluxe Edition\)](https://open.spotify.com/album/62Oww5qIS1QtGvVDBgHBvx) | 3:02 |

@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 83933,
       "name": "Bathtime For George",
       "url": "https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 85720,
       "name": "Castleland Adventure",
       "url": "https://open.spotify.com/track/0ZDGnFayzMpiKryD0I7VOw"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 123533,
       "name": "Legend Of The Tortoise",
       "url": "https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 65306,
       "name": "No Such Thing as Magic",
       "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 66040,
       "name": "Royal Jet",
       "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
@@ -1656,6 +1656,24 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382120,
+      "name": "Spring Peach Tree Blossoms",
+      "url": "https://open.spotify.com/track/5p5f3NLKUOBm7xSYu5WjfV"
+    },
+    {
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 140160,
       "name": "Ted's Stuck In A Tree",
       "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"

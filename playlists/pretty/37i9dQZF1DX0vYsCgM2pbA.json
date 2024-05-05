@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 136610,
+  "num_followers": 136681,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -927,46 +927,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -987,6 +947,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "added_at": "2024-02-01 13:01:25",

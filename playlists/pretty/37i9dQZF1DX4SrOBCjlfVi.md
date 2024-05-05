@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Tecca, Kendrick Lamar, Moneybagg Yo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,161 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,306 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [Letter to the Devil](https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Letter to the Devil](https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8) | 2:25 |
 | 25 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 | 26 | [No Pressure](https://open.spotify.com/track/3nmzcKnaxEq7Hfwurn7Cyl) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [No Pressure](https://open.spotify.com/album/7GO2ix1WIKXYob5MkLIjd1) | 2:21 |
-| 27 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Wolfacejoeyy](https://open.spotify.com/artist/0QujlQVKpWb0bxG2yKEV4k) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
+| 27 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
 | 28 | [WTF They Want](https://open.spotify.com/track/7uMfsuyuQezblP9V0PqzTu) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [WTF They Want](https://open.spotify.com/album/7vx3eVxy6RLNMOOKXlI1nN) | 2:58 |
 | 29 | [3 AM In Cold Spring](https://open.spotify.com/track/7yniYfui84X7S1gYOVAO2b) | [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [3 AM In Cold Spring](https://open.spotify.com/album/4vnX2gvvwFsLDjMTf9b8bL) | 2:15 |
 | 30 | [Blade Runner](https://open.spotify.com/track/7tn7CmUija3RT6XttRdk3G) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Blade Runner](https://open.spotify.com/album/2bdXCY3k75YnCbusyL7naI) | 2:34 |
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Kash Kommandments](https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Kash Kommandments](https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY) | 3:29 |
 | 37 | [Luv No Slutz](https://open.spotify.com/track/2c0AAba3JQmFCrh2fvpNqK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Luv No Slutz](https://open.spotify.com/album/4SQlSxWoi8hnK6YKpiAQm3) | 2:39 |
 | 38 | [Steve Harvey](https://open.spotify.com/track/3uFLBg3x1B9xQb1iCuWNRk) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Steve Harvey](https://open.spotify.com/album/7fNNdIF9yktKGe0ro8Bl4U) | 2:26 |
-| 39 | [Runnin It Up](https://open.spotify.com/track/6EJrNWczAqaOxBU8O4lgZ1) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Wavy Da Ghawd](https://open.spotify.com/artist/22B4mQjoneTeT2bYeQlhXg) | [Buck 50](https://open.spotify.com/album/6Z0d7NuGF9pd6SJbqqiIVj) | 3:18 |
+| 39 | [Runnin It Up](https://open.spotify.com/track/6EJrNWczAqaOxBU8O4lgZ1) | [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Wavy Da Ghawd](https://open.spotify.com/artist/22B4mQjoneTeT2bYeQlhXg) | [Buck 50](https://open.spotify.com/album/6Z0d7NuGF9pd6SJbqqiIVj) | 3:21 |
 | 40 | [Say So](https://open.spotify.com/track/1hqDVSjqnMtVPYAk4Rg8Ti) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Say So](https://open.spotify.com/album/5Mm8icFRjwArLmZhsaDcBU) | 2:41 |
 | 41 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
 | 42 | [double tap](https://open.spotify.com/track/1JE37zGKjFiEBM82rUPECy) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [double tap](https://open.spotify.com/album/7aG3DisFd9OPX2EWB8loFs) | 2:04 |
 | 43 | [RIGHT OR WRONG](https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P) | [EVILSLIME](https://open.spotify.com/album/1QjQzHuJb4DnzmvqiQ2QkA) | 1:55 |
 | 44 | [Shinin](https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Shinin](https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP) | 2:14 |
-| 45 | [Ain't Goin](https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Ain't Goin](https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV) | 2:06 |
+| 45 | [Ain't Goin](https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Ain't Goin \(feat\. Bossman Dlow\)](https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV) | 2:06 |
 | 46 | [TAKING IT ALL](https://open.spotify.com/track/7gzTtm1NSVS468xeyD64r5) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [STAYTRUE](https://open.spotify.com/album/4KARGhg61RbhnhQhc1n5Tb) | 2:06 |
 | 47 | [PERFECT](https://open.spotify.com/track/3D7LJWHulSV2vSEyxoyjg0) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [PERFECT](https://open.spotify.com/album/76thoyOTw8CPoTtRXoIYoU) | 2:41 |
-| 48 | [Nothing like you](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like you](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
+| 48 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
 | 49 | [Carolina to New York](https://open.spotify.com/track/2iFsXp3FUEgMIby8VG0j8a) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Carolina to New York](https://open.spotify.com/album/5VrLosdMJFpyF2UArexsQu) | 2:28 |
 | 50 | [DRAPED UP](https://open.spotify.com/track/5tqOHroddkxD1vpeFAOTZZ) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [DRAPED UP](https://open.spotify.com/album/33kLMHgDQmUeGvubbVwaoG) | 2:33 |
 

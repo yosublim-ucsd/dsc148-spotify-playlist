@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3693225,
+  "num_followers": 3693322,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
         }
       ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
       "artists": [
         {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 262221,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 162338,
       "name": "Company",
       "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 262221,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 231784,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 236129,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 231784,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Summer Love (Jan Blomqvist Remix)",
-        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 349400,
-      "name": "Summer Love - Jan Blomqvist Remix",
-      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 257560,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Summer Love (Jan Blomqvist Remix)",
+        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 349400,
+      "name": "Summer Love - Jan Blomqvist Remix",
+      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1603,6 +1603,26 @@
       "duration_ms": 422374,
       "name": "Resen\u00e4ren",
       "url": "https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Still (Love You)",
-        "url": "https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ"
-      },
-      "artists": [
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        },
-        {
-          "name": "Jane Good",
-          "url": "https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE"
-        }
-      ],
-      "duration_ms": 183384,
-      "name": "Still (Love You)",
-      "url": "https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX"
       },
@@ -1763,6 +1763,26 @@
       "duration_ms": 168000,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Still (Love You)",
+        "url": "https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ"
+      },
+      "artists": [
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        },
+        {
+          "name": "Jane Good",
+          "url": "https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE"
+        }
+      ],
+      "duration_ms": 183384,
+      "name": "Still (Love You)",
+      "url": "https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1879,26 +1899,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Roused",
-        "url": "https://open.spotify.com/album/0PglcPyz0IqanKtax5Bkx1"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 251474,
-      "name": "Roused",
-      "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Feel You In Love",
         "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
       },
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP"
+        "name": "Roused",
+        "url": "https://open.spotify.com/album/0PglcPyz0IqanKtax5Bkx1"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         },
         {
-          "name": "Kairos Grove",
-          "url": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 298131,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0"
+      "duration_ms": 251474,
+      "name": "Roused",
+      "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
     },
     {
       "added_at": "2024-05-03 04:00:00",

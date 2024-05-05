@@ -1,12 +1,12 @@
 {
-  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 94415,
+  "description": "This Is Sergio Vega \"El Shaka\". Los temas esenciales, todos en una lista.",
+  "num_followers": 94476,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADwzN4LwMUQHMqonVJGvo+x",
+  "snapshot_id": "ZjQpAAAAAABfMFseVVkecRY0sBqT/Vqi",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Me Vas A Doler",
-      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+      "duration_ms": 168160,
+      "name": "Tu Condena - Ranchera Version",
+      "url": "https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Tu Condena - Ranchera Version",
-      "url": "https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW"
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
     },
     {
       "added_at": null,

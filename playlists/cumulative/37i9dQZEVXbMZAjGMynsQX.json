@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 151111,
       "name": "C\u00f3digo G",
       "url": "https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs"
@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -5112,7 +5112,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 144016,
       "name": "Don KBRN Freestyle",
       "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
@@ -8068,7 +8068,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 164776,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
@@ -15058,7 +15058,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
@@ -15936,7 +15936,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -15980,7 +15980,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
@@ -19393,6 +19393,36 @@
     },
     {
       "album": {
+        "name": "Toki",
+        "url": "https://open.spotify.com/album/4Ms2rHUlc1Gu47OPeMbvKn"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284783,
+      "name": "Toki",
+      "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -20276,7 +20306,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"

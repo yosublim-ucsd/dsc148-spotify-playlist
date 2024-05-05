@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This Is Julión Álvarez y su Norteño Banda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,878 likes - 47 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,597 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 45 | [El Aferrado](https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:43 |
 | 46 | [La María](https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:26 |
 | 47 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 |
+| 48 | [25 De Diciembre](https://open.spotify.com/track/2ZyPDr61OhPbnLp8L9rAjW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:54 |
 
-Snapshot ID: `ZjLXgAAAAAB8/OZ1sZHN3n0nxG0nobL/`
+Snapshot ID: `ZjQpAAAAAABcP31CUJzxD1ogfYHUnUcv`

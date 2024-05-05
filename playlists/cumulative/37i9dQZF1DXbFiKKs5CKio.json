@@ -1740,12 +1740,12 @@
       },
       "artists": [
         {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV"
-        },
-        {
           "name": "Juniper",
           "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        },
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV"
         }
       ],
       "date_added": "2023-11-10",

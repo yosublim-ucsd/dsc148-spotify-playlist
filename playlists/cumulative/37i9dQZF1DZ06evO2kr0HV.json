@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "S3CR3TOXXXX (Voice Note)",
+        "url": "https://open.spotify.com/album/1o2HLBQEnJXwv1dz0TaKF2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65172,
+      "name": "Vac\u00edo - Voice Note",
+      "url": "https://open.spotify.com/track/0BTjuhJ6uI06rcxkDsRmN5"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o C\u00edtrico",
         "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },

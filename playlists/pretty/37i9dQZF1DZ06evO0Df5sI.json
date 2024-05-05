@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 19789,
+  "num_followers": 19791,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACSWbIWTCUokagjV2PeeSc0",
+  "snapshot_id": "ZjQpAAAAAABrn8MbQpUj/z27EmRtIF/2",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 203533,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
+      "duration_ms": 225946,
+      "name": "Hot For Preacher",
+      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Hot For Preacher",
-      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
+      "duration_ms": 203533,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 207213,
       "name": "Jaked on Green Beers",
       "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 240213,
-      "name": "All on Black",
-      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,

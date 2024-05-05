@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 242945,
+  "num_followers": 243126,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 167013,
       "name": "Cozumel",
       "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+        "name": "Sa, Za...Sabor!!!",
+        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
         }
       ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+      "duration_ms": 233613,
+      "name": "Porque te Amo",
+      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Sa, Za...Sabor!!!",
-        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te Amo",
-      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 162000,
       "name": "Ponchito de Colores",
       "url": "https://open.spotify.com/track/0YZRusKhcSmMxaM1lJoSnH"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1827,22 +1843,6 @@
       "duration_ms": 190760,
       "name": "Amor De Adolescentes",
       "url": "https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Con Carino A Oaxaca",
         "url": "https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 185426,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2024-04-08 22:50:12",

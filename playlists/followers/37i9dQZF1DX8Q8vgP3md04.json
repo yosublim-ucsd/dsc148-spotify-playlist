@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 19915,
+  "2024-05-05": 19926,
   "date_first_scraped": "2021-12-29",
   "description": "Hit music from Ethiopia's finest.",
   "name": "Ethio-Pop",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 309013,
       "name": "Altelashim",
       "url": "https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC"
@@ -1413,6 +1413,24 @@
       "duration_ms": 143299,
       "name": "Pon Mi",
       "url": "https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/4PVi3ze2hRUq45YejBEsuj"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/2sj79jP5y6LxWux7yHd5ss"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83094,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/4RZcW3j9AOkU2R0p1QoLO9"
     },
     {
       "album": {

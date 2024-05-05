@@ -1,12 +1,12 @@
 {
-  "description": "This Is Rina Sawayama. Los temas esenciales, todos en una lista.",
-  "num_followers": 37379,
+  "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
+  "num_followers": 37383,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAp7iKOg76TsFbEIicMNF7a",
+  "snapshot_id": "ZjQpAAAAAAASPZMR/dITJQsE3LSv0G2q",
   "tracks": [
     {
       "added_at": null,
@@ -407,30 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
-        "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        },
-        {
-          "name": "VERNON",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 249280,
-      "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
-      "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": null,
@@ -483,22 +475,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+        "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
+        "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
         },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
+      "duration_ms": 249280,
+      "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
+      "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 244078,
-      "name": "Alterlife",
-      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 244078,
+      "name": "Alterlife",
+      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
     },
     {
       "added_at": null,

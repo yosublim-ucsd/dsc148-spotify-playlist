@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Big Mama's Bumble Bee",
       "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 278013,
       "name": "Gimme a Penny - Take 6",
       "url": "https://open.spotify.com/track/5XDdfhTKYX8rzmxXZPZs0e"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 265346,
       "name": "Good Time in London",
       "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 133133,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 154373,
       "name": "How Come",
       "url": "https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 105400,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
@@ -1208,6 +1208,24 @@
       "duration_ms": 176332,
       "name": "Instrumental, Pt.2 - Live",
       "url": "https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ"
+    },
+    {
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188081,
+      "name": "Interview With Big Mama Thornton",
+      "url": "https://open.spotify.com/track/6vtb0UiOawHn6wV80fN7jX"
     },
     {
       "album": {
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 158160,
       "name": "Rock-A-Bye Baby",
       "url": "https://open.spotify.com/track/2udEEYnBWucIfqTdg0SDWb"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 181066,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"

@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "SEMMI",
+        "url": "https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn"
+      },
+      "artists": [
+        {
+          "name": "Elef\u00e1nt",
+          "url": "https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259051,
+      "name": "BOCS",
+      "url": "https://open.spotify.com/track/2FQJjGenDT2XajHMOHvFCs"
+    },
+    {
+      "album": {
         "name": "bocs\u00e1nat",
         "url": "https://open.spotify.com/album/34FAN6XAoTyVX2y47ebTE1"
       },
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -4118,7 +4136,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 134117,
       "name": "Csao",
       "url": "https://open.spotify.com/track/5olAKfwVP4sI3ISiAcA4ll"
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -6486,7 +6504,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 164290,
       "name": "figyelj",
       "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
@@ -8628,6 +8646,24 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
     },
     {
       "album": {
@@ -13893,6 +13929,28 @@
     },
     {
       "album": {
+        "name": "Nem vagyok rosszul",
+        "url": "https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U"
+      },
+      "artists": [
+        {
+          "name": "Misshmusic",
+          "url": "https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nem vagyok rosszul",
+      "url": "https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV"
+    },
+    {
+      "album": {
         "name": "ELVESZETT!!4!",
         "url": "https://open.spotify.com/album/6a3F1WaC8cvsZuQRJplYkO"
       },
@@ -18625,6 +18683,24 @@
     },
     {
       "album": {
+        "name": "SEMMI",
+        "url": "https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn"
+      },
+      "artists": [
+        {
+          "name": "Elef\u00e1nt",
+          "url": "https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "SZERELEM",
+      "url": "https://open.spotify.com/track/1sYI5JCTCveH5OSBPH1Qz5"
+    },
+    {
+      "album": {
         "name": "Szeretni, akit nem lehet",
         "url": "https://open.spotify.com/album/6zJylWGhG71fZdNvxJzBB4"
       },
@@ -18724,6 +18800,24 @@
       "duration_ms": 121136,
       "name": "Szexbomb",
       "url": "https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD"
+    },
+    {
+      "album": {
+        "name": "SEMMI",
+        "url": "https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn"
+      },
+      "artists": [
+        {
+          "name": "Elef\u00e1nt",
+          "url": "https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235951,
+      "name": "SZOBA",
+      "url": "https://open.spotify.com/track/0n26Tbwdylm4vyGlBLl00j"
     },
     {
       "album": {
@@ -19328,7 +19422,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"

@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 49460,
+  "2024-05-05": 49506,
   "date_first_scraped": "2022-03-22",
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
   "name": "The Listening Room",
@@ -365,7 +365,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 405573,
       "name": "Album 4",
       "url": "https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL"
@@ -5025,7 +5025,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 311337,
       "name": "Returning After Leaving",
       "url": "https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5"

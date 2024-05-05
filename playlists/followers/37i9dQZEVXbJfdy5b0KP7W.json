@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 453640,
+  "2024-05-05": 453640,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Peru.",
   "name": "Top 50 - Peru",
@@ -8608,6 +8608,28 @@
     },
     {
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -8811,7 +8833,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 196989,
       "name": "Motor Y Motivo",
       "url": "https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP"
@@ -13623,7 +13645,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 282346,
       "name": "Tomar para Olvidar - Versi\u00f3n con Ernesto Pimentel",
       "url": "https://open.spotify.com/track/4nwH27hTMX0LjijJ5mJRST"
@@ -15377,7 +15399,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"

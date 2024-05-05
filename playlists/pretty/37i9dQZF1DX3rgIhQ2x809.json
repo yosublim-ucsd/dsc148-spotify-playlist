@@ -1,6 +1,6 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70556,
+  "num_followers": 70567,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "TAYYA",
+        "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TAYYA",
+      "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "TAYYA",
-        "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "TAYYA",
-      "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
+        "name": "Tratemos",
+        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
       },
       "artists": [
         {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+          "name": "Bernier",
+          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
+      "duration_ms": 229333,
+      "name": "Tratemos",
+      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1635,38 +1639,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tratemos",
-        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
       },
       "artists": [
         {
-          "name": "Bernier",
-          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Tratemos",
-      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1683,6 +1667,22 @@
       "duration_ms": 206837,
       "name": "Percocet",
       "url": "https://open.spotify.com/track/48R2Sww0UeFhqgiMHBZ2C7"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",

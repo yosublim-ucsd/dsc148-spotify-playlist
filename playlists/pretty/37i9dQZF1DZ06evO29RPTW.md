@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,227 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,253 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 8 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 4:07 |
 | 9 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
 | 10 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
-| 11 | [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 |
-| 12 | [Two\-Lane Blacktop](https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:02 |
+| 11 | [Two\-Lane Blacktop](https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:02 |
+| 12 | [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 |
 | 13 | [Demonoid Phenomenon](https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 4:11 |
 | 14 | [Never Gonna Stop \(The Red, Red Kroovy\)](https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:09 |
 | 15 | [Dead City Radio And The New Gods Of Supertown](https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Thunder Kiss '65 \- JDevil Number Of The Beast Remix](https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Mondo Sex Head](https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV) | 3:49 |
 | 50 | [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 |
 
-Snapshot ID: `ZjLXgAAAAACKtuYDUNSowxooiuhFrpxz`
+Snapshot ID: `ZjQpAAAAAABfmB56D2KHcvrXuQdk0vCw`

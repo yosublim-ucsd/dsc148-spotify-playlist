@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 134485,
+  "2024-05-05": 134487,
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
@@ -975,7 +975,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182000,
       "name": "Atracci\u00f3n Total",
       "url": "https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv"
@@ -4163,6 +4163,24 @@
       "duration_ms": 123309,
       "name": "Fortnight ago",
       "url": "https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA"
+    },
+    {
+      "album": {
+        "name": "Fragments of Euphoria",
+        "url": "https://open.spotify.com/album/45y293r9gbGgELK6bXWJWu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Petrov\u00e1",
+          "url": "https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Fragments of Euphoria",
+      "url": "https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX"
     },
     {
       "album": {

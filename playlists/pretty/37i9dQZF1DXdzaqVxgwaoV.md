@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,610 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,602 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 64 | [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 |
 | 65 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 |
 | 66 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 |
-| 67 | [La Paloma Guarumera](https://open.spotify.com/track/16bOQUi9cs6bb08VWDoH7U) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Mis Mejores Éxitos](https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D) | 2:56 |
-| 68 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
-| 69 | [Con los Crespos Hechos](https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:43 |
+| 67 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
+| 68 | [Con los Crespos Hechos](https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:43 |
+| 69 | [La Paloma Guarumera](https://open.spotify.com/track/16bOQUi9cs6bb08VWDoH7U) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Mis Mejores Éxitos](https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D) | 2:56 |
 | 70 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 |
-| 71 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
-| 72 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 |
-| 73 | [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 |
+| 71 | [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 |
+| 72 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
+| 73 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 |
 | 74 | [Tania](https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 3:39 |
 | 75 | [Distancia](https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:03 |
 | 76 | [Esta Navidad No Es Mia](https://open.spotify.com/track/0ZnZT0eGVzK6OiTjtAtRBw) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:24 |

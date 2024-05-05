@@ -2,7 +2,7 @@
 
 ### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This Is Katy Perry\. Los temas esenciales, todos en una lista.
+> This is Katy Perry\. The essential tracks, all in one playlist.
 
 87 songs - 5 hr 12 min
 
@@ -33,7 +33,7 @@
 | [Firework](https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2023-12-21 |  |
 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2023-08-30 | 2023-12-22 |
 | [Ghost](https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:23 | 2023-12-14 | 2023-12-22 |
-| [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2022-07-07 | 2024-05-04 |
+| [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2022-07-07 |  |
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2022-01-12 | 2022-07-08 |
 | [Hey Hey Hey](https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:34 | 2022-01-12 |  |
 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 | 2022-01-12 |  |
@@ -44,7 +44,7 @@
 | [If We Ever Meet Again \(Featuring Katy Perry\)](https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:52 | 2022-01-12 |  |
 | [If We Ever Meet Again \- International Radio Edit](https://open.spotify.com/track/1pU3C7v8zcEEPkdqaKSEi6) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [If We Ever Meet Again \(Featuring Katy Perry\) \[UK Version\]](https://open.spotify.com/album/7vRchjIhxXVAz5B22h30EY) | 3:58 | 2022-01-12 | 2022-10-13 |
 | [If You Can Afford Me](https://open.spotify.com/track/4WqiQqsqWRqcLPnoxwfPAi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 3:18 | 2023-12-20 | 2023-12-22 |
-| [International Smile](https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:47 | 2022-01-12 |  |
+| [International Smile](https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:47 | 2022-01-12 | 2024-05-05 |
 | [It Takes Two](https://open.spotify.com/track/4MxGfhE3DKxBhdSWTYvc4h) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:54 | 2022-03-20 | 2022-09-10 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/1htQDV8JxSuXG2QsNj5ttr) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:50 | 2023-12-13 | 2024-02-12 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 | 2023-07-25 |  |
@@ -57,7 +57,7 @@
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2022-01-12 |  |
 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 | 2022-01-12 |  |
 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 | 2022-01-12 |  |
-| [One Of The Boys](https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 4:07 | 2023-12-13 |  |
+| [One Of The Boys](https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys \(15th Anniversary Edition\)](https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0) | 4:07 | 2023-12-13 | 2024-05-05 |
 | [Only Love](https://open.spotify.com/track/6lWp5O5XH6smTt4vzd4Mgy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:18 | 2023-12-13 | 2023-12-22 |
 | [Part Of Me](https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:36 | 2022-01-12 |  |
 | [Peacock](https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:51 | 2022-05-13 | 2024-02-18 |
@@ -74,7 +74,7 @@
 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 | 2022-01-12 |  |
 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 | 2022-01-27 | 2024-04-06 |
 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2022-11-25 | 2023-07-22 |
-| [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-02-20 | 2024-05-04 |
+| [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-02-20 |  |
 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2022-01-12 | 2022-01-29 |
 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 | 2022-01-12 |  |
 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2023-12-21 |  |

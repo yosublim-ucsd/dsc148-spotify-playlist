@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1462289,
+  "num_followers": 1462446,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABvN398v+6mYOXQQ9FUfMdx",
+  "snapshot_id": "ZjQpAAAAAAAsO+gKz9zUoh0zo1d0wjIh",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General",
-        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+        "name": "Live Era '87-'93",
+        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 262776,
-      "name": "The General",
-      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
+      "duration_ms": 187333,
+      "name": "It's Alright - Live In Houston / 1992",
+      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Era '87-'93",
-        "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 187333,
-      "name": "It's Alright - Live In Houston / 1992",
-      "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
     },
     {
       "added_at": null,

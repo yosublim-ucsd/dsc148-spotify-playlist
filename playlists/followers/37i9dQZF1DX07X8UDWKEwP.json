@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 249451,
+  "2024-05-05": 249465,
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Nicki Nicole",
+  "description": "Lo nuevo del mundo tropical. Cover: Fonseca",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1452,6 +1452,28 @@
     },
     {
       "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Con Dinero y Sin Dinero",
+      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
       },
@@ -2085,6 +2107,24 @@
       "duration_ms": 228000,
       "name": "Dominicano",
       "url": "https://open.spotify.com/track/6KsdmOtIlMsR7iOSkpjbG8"
+    },
+    {
+      "album": {
+        "name": "Donde Hubo Fuego",
+        "url": "https://open.spotify.com/album/4cVx4DnNLtzookG5qCIsT3"
+      },
+      "artists": [
+        {
+          "name": "HeyBroders",
+          "url": "https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/29TVxzHPtlANh40yHsEkYB"
     },
     {
       "album": {
@@ -2987,7 +3027,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
@@ -3875,7 +3915,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
@@ -3971,6 +4011,28 @@
       "duration_ms": 201028,
       "name": "Llegaste",
       "url": "https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz"
+    },
+    {
+      "album": {
+        "name": "Llorar Por Ella",
+        "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
     },
     {
       "album": {
@@ -6629,7 +6691,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 204093,
       "name": "Si Alg\u00fan D\u00eda La Ves",
       "url": "https://open.spotify.com/track/5R2t5FeFjlvLSYWQ7qDsfN"
@@ -7174,6 +7236,28 @@
     },
     {
       "album": {
+        "name": "TE AMO \u2661",
+        "url": "https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "TE AMO \u2661",
+      "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
+    },
+    {
+      "album": {
         "name": "Te Busqu\u00e9",
         "url": "https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf"
       },
@@ -7399,6 +7483,32 @@
       "duration_ms": 179368,
       "name": "Tu Me Matas",
       "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
+    },
+    {
+      "album": {
+        "name": "Tu No Eres un Angel",
+        "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191727,
+      "name": "Tu No Eres un Angel",
+      "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
     },
     {
       "album": {
@@ -7663,7 +7773,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
@@ -8019,7 +8129,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 260000,
       "name": "Y Si Ma\u00f1ana",
       "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 2649,
+  "num_followers": 2648,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAVSyOk2P3bTGBGahhfqoNb",
+  "snapshot_id": "ZjQpAAAAAABg3Gl6bVnXzYL8n2bbOqm3",
   "tracks": [
     {
       "added_at": null,
@@ -612,17 +612,13 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 176302,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/3WPVobAUiAMiX6nS1UUMvl"
+      "duration_ms": 81730,
+      "name": "10X Melhor (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
     },
     {
       "added_at": null,
@@ -712,13 +708,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 81730,
-      "name": "10X Melhor (Interl\u00fadio)",
-      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
+      "duration_ms": 176302,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/3WPVobAUiAMiX6nS1UUMvl"
     },
     {
       "added_at": null,

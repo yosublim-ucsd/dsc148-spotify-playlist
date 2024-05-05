@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 243229,
+  "num_followers": 243279,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADqwQNklLmJLIX/Zlzz6RWY",
+  "snapshot_id": "ZjQpAAAAAAAeltFLHw8DqY+s9KJXQ5I3",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Come Cover Me",
-      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 313934,
       "name": "Harvest",
       "url": "https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Ghost River",
-      "url": "https://open.spotify.com/track/3sTZ4DxyZ4PcKxKj4MHLI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanborn",
         "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 322000,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Ghost River",
+      "url": "https://open.spotify.com/track/3sTZ4DxyZ4PcKxKj4MHLI8"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once (Remastered)",
-        "url": "https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 268109,
-      "name": "Dead Gardens - Remastered",
-      "url": "https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanborn",
         "url": "https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211306,
       "name": "Moondance",
       "url": "https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once (Remastered)",
+        "url": "https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268109,
+      "name": "Dead Gardens - Remastered",
+      "url": "https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M"
     },
     {
       "added_at": null,

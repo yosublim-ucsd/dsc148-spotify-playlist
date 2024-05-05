@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 1064599,
+  "2024-05-05": 1064682,
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, osea S3BZ & Spreen.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea S3BZS & Spreen.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -347,7 +347,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 247553,
       "name": "AKrusi",
       "url": "https://open.spotify.com/track/35lOpuKOGUJ97PROkLFcY8"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 151417,
       "name": "CADA VEZ QUE",
       "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
@@ -1745,6 +1745,28 @@
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
+    },
+    {
+      "album": {
+        "name": "Claro Que Lo Hice (En vivo)",
+        "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206094,
+      "name": "Claro Que Lo Hice - En vivo",
+      "url": "https://open.spotify.com/track/0l3KYSBuArosib58MemWQF"
     },
     {
       "album": {
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178736,
       "name": "Cuando Tus Ojos Me Ven",
       "url": "https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y"
@@ -2721,7 +2743,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 218536,
       "name": "EL DON",
       "url": "https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74"
@@ -3121,6 +3143,32 @@
       "duration_ms": 153488,
       "name": "Entre Beso y Beso",
       "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
+    },
+    {
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0gvlSJezcGQrbR2bmRiqsr"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196515,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3naQKuR07Ktb2NqW1s9T1Y"
     },
     {
       "album": {
@@ -4295,7 +4343,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
@@ -5061,6 +5109,24 @@
       "duration_ms": 164319,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2NoDVifTYfrBkBboPjo9P3"
+    },
+    {
+      "album": {
+        "name": "Maldito Amor",
+        "url": "https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193708,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET"
     },
     {
       "album": {
@@ -6358,6 +6424,28 @@
     },
     {
       "album": {
+        "name": "Noche de Estrellas",
+        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188368,
+      "name": "Noche de Estrellas",
+      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -7106,6 +7194,24 @@
     },
     {
       "album": {
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/1jyyGmiWCqNtxMN7HhVQhD"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/3XB1ccS8WJXTG3QbDqiK8J"
+    },
+    {
+      "album": {
         "name": "RAWR",
         "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
       },
@@ -7643,7 +7749,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
@@ -8440,6 +8546,28 @@
     },
     {
       "album": {
+        "name": "TE AMO \u2661",
+        "url": "https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "TE AMO \u2661",
+      "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
+    },
+    {
+      "album": {
         "name": "Te Cura (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
       },
@@ -8651,6 +8779,42 @@
       "duration_ms": 130358,
       "name": "The La Planta: Pushi Terraza Sessions #3",
       "url": "https://open.spotify.com/track/4v4vaVy7FFopIRVS8fEWyX"
+    },
+    {
+      "album": {
+        "name": "THE ROOF IS ON FIRE",
+        "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112331,
+      "name": "THE ROOF IS ON FIRE",
+      "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "album": {
@@ -10127,7 +10291,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 157666,
       "name": "\u00c1ngel de Amor",
       "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"

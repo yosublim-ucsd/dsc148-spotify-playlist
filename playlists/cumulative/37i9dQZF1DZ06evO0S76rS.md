@@ -2,9 +2,9 @@
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This is Grupo Niche\. The essential tracks, all in one playlist.
+> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
 
-80 songs - 6 hr 48 min
+81 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Buenaventura y Caney](https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:09 | 2022-09-08 | 2023-01-23 |
 | [Buenaventura y Caney](https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:09 | 2023-01-22 |  |
 | [Busca Por Dentro](https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:54 | 2022-09-08 |  |
-| [Busco](https://open.spotify.com/track/4ZjAiDe2fALsvfB6jP9eKj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 4:56 | 2024-04-16 |  |
+| [Busco](https://open.spotify.com/track/4ZjAiDe2fALsvfB6jP9eKj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 4:56 | 2024-04-16 | 2024-05-05 |
 | [Búscame](https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:17 | 2022-09-08 |  |
 | [Cali Aji](https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:37 | 2023-12-13 | 2024-02-06 |
 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 | 2022-09-24 | 2023-07-15 |
@@ -27,6 +27,7 @@
 | [Cielo de Tambores](https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:37 | 2022-09-08 |  |
 | [Como Podre Disimular](https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 5:34 | 2023-12-13 |  |
 | [Como Podre Disimular](https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mis Favoritas](https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G) | 5:34 | 2022-09-08 | 2023-12-14 |
+| [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-05 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2022-09-08 |  |
 | [Debiera Olvidarla](https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:24 | 2022-09-08 |  |
 | [Del Puente Pa' Allá](https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 6:00 | 2022-09-08 | 2023-12-14 |

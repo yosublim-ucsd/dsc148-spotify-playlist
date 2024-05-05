@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,182 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,162 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 81 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
 | 82 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 |
 | 83 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
-| 84 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 |
+| 84 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
 | 85 | [Welcome Christmas](https://open.spotify.com/track/57JghfzHziZPcEBlpjTssG) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Christmas Album](https://open.spotify.com/album/5O8Ifow0fmlJjvz8WFXveu) | 1:47 |
-| 86 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
+| 86 | [Sleigh Ride](https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 3:04 |
 | 87 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 |
-| 88 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 |
-| 89 | [Wrapped in Red](https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:36 |
+| 88 | [Wrapped in Red](https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:36 |
+| 89 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 |
 | 90 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 |
 | 91 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 |
 | 92 | [A Holly Jolly Christmas](https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:22 |

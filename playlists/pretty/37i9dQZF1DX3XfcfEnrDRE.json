@@ -1,6 +1,6 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 238794,
+  "num_followers": 238825,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Way, Truth, Life",
-        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Naomi Mae",
-          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Way, Truth, Life",
-      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
         "name": "Every Morning",
         "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
@@ -943,6 +923,22 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -967,18 +963,22 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+        "name": "Way, Truth, Life",
+        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Naomi Mae",
+          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
         }
       ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+      "duration_ms": 173500,
+      "name": "Way, Truth, Life",
+      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
+        "name": "Give My All",
+        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 199005,
+      "name": "Give My All",
+      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
-        "name": "Give My All",
-        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 199005,
-      "name": "Give My All",
-      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
         "name": "Pulp",
         "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 204000,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Can't Stop My Heart From Singing",
-        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
-      },
-      "artists": [
-        {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
-        },
-        {
-          "name": "Beau and Mercy Perkins",
-          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
-        }
-      ],
-      "duration_ms": 234925,
-      "name": "Can't Stop My Heart From Singing",
-      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
         "name": "Nothing is Wasted (Live)",
         "url": "https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l"
       },
@@ -1451,6 +1431,42 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Can't Stop My Heart From Singing",
+        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        },
+        {
+          "name": "Beau and Mercy Perkins",
+          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
+        }
+      ],
+      "duration_ms": 234925,
+      "name": "Can't Stop My Heart From Singing",
+      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/4SZJCyYeFDgozCFwILJUr1"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "duration_ms": 253846,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1uhOr4xSpCx8uaJkesYmqN"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-05-03 04:30:12",
       "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/6ofPGdVjQVbTqvT9x2PlDU"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 227027,
       "name": "Found",
       "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
+    },
+    {
+      "added_at": "2024-05-03 04:30:12",
+      "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2024-05-03 04:30:12",
@@ -1711,22 +1727,6 @@
       "duration_ms": 240967,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5"
-    },
-    {
-      "added_at": "2024-05-03 04:30:12",
-      "album": {
-        "name": "Good To Get Back",
-        "url": "https://open.spotify.com/album/57fqtJVrHL7dls78zUH44M"
-      },
-      "artists": [
-        {
-          "name": "Jim Sonefeld",
-          "url": "https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k"
-        }
-      ],
-      "duration_ms": 236006,
-      "name": "Good To Get Back",
-      "url": "https://open.spotify.com/track/5wFJ02TSnS18SSyFZzIIPw"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

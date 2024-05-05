@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 ### [This Is Héctor Lavoe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nm0YU)
 
-> This is Héctor Lavoe\. The essential tracks, all in one playlist.
+> This Is Héctor Lavoe\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,782 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,883 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 | 50 | [Dia De Ayer](https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Dia De Ayer](https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI) | 3:26 |
 
-Snapshot ID: `ZjLXgAAAAACIX5HpZoeGnj0yiXe1bLe/`
+Snapshot ID: `ZjQpAAAAAACSNfIhDyth7rkYDJoK3YeU`

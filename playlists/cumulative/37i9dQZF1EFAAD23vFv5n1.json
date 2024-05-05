@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Forza",
+        "url": "https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192389,
+      "name": "Forza",
+      "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
+    },
+    {
+      "album": {
         "name": "Fossi come te",
         "url": "https://open.spotify.com/album/2lxg3drmCXXmZxVcDKRr1P"
       },

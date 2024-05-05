@@ -599,18 +599,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Au bonheur des m\u00f4mes",
-        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
+        "name": "Une petite plume",
+        "url": "https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy"
       },
       "artists": [
         {
-          "name": "BAB et les chats",
-          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
+          "name": "Steve Waring",
+          "url": "https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg"
+        },
+        {
+          "name": "Alice Waring",
+          "url": "https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Diff\u00e9rents",
-      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
+      "duration_ms": 117176,
+      "name": "Une petite plume",
+      "url": "https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -651,22 +655,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Une petite plume",
-        "url": "https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy"
+        "name": "Au bonheur des m\u00f4mes",
+        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
       },
       "artists": [
         {
-          "name": "Steve Waring",
-          "url": "https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg"
-        },
-        {
-          "name": "Alice Waring",
-          "url": "https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV"
+          "name": "BAB et les chats",
+          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
         }
       ],
-      "duration_ms": 117176,
-      "name": "Une petite plume",
-      "url": "https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp"
+      "duration_ms": 157560,
+      "name": "Diff\u00e9rents",
+      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
     },
     {
       "added_at": "2023-08-08 08:47:20",

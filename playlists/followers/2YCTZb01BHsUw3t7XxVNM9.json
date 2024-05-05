@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 546,
+  "2024-05-05": 546,
   "date_first_scraped": "2023-10-10",
   "description": "Western orientated Hardcore Music by Japanese Artists",
   "name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",
@@ -5824,6 +5824,32 @@
     },
     {
       "album": {
+        "name": "CRYSTAL BREATH",
+        "url": "https://open.spotify.com/album/67dTbBe4yJrgLLDPMWwVsC"
+      },
+      "artists": [
+        {
+          "name": "CANVAS",
+          "url": "https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM"
+        },
+        {
+          "name": "Quimar",
+          "url": "https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb"
+        },
+        {
+          "name": "RoughSketch",
+          "url": "https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Onyx",
+      "url": "https://open.spotify.com/track/0VFgNc0WQzyHsrc3rmB0Pk"
+    },
+    {
+      "album": {
         "name": "OPEN WORLD EP",
         "url": "https://open.spotify.com/album/2rwM4z3zhZyTrLbApKNnwI"
       },
@@ -6125,6 +6151,32 @@
       "duration_ms": 276821,
       "name": "Plastic Buddha",
       "url": "https://open.spotify.com/track/6ltcrmQlPqQgpdDypYz87x"
+    },
+    {
+      "album": {
+        "name": "CARMINA",
+        "url": "https://open.spotify.com/album/1J52fJBK6sV7nz1FXQ7dIQ"
+      },
+      "artists": [
+        {
+          "name": "CANVAS",
+          "url": "https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM"
+        },
+        {
+          "name": "RoughSketch",
+          "url": "https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO"
+        },
+        {
+          "name": "Quimar",
+          "url": "https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/6NSXJWewDoDWQnPG3hJimi"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 83884,
+  "2024-05-05": 83980,
   "date_first_scraped": "2022-08-06",
-  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
+  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:58r1rB5t3VF5X6yXGPequV\">Maverick City Music</a> & <a href=\"spotify:artist:6008gjU9UTUCfLZoSun5SH\">Annatoria</a>",
   "name": "AfroGospel",
   "tracks": [
     {
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 202268,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/6J3zjGHvujZobCvPDLUBBk"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121067,
       "name": "Glad",
       "url": "https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4"
@@ -2456,6 +2456,28 @@
     },
     {
       "album": {
+        "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
+        "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239036,
+      "name": "In The Room (feat. Annatoria) - Afro Beat Version",
+      "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
+    },
+    {
+      "album": {
         "name": "Jah!",
         "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
       },
@@ -3031,6 +3053,24 @@
       "duration_ms": 204724,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3KLDzeX3wOXUFH0Md8cNql"
+      },
+      "artists": [
+        {
+          "name": "Sherwin Gardner",
+          "url": "https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1cn2fIjzzrBmEW5pcL1bo1"
     },
     {
       "album": {

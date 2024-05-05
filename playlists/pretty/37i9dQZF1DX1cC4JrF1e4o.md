@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,751 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,888 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 41 | [Black Coffee](https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:20 |
 | 42 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 |
 | 43 | [C'est Si Bon](https://open.spotify.com/track/3U69pCQwveSOn5bl9VAime) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:59 |
-| 44 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 |
-| 45 | [Cheek To Cheek \- 1998 Remastered](https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 3:06 |
+| 44 | [Cheek To Cheek \- 1998 Remastered](https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 3:06 |
+| 45 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 |
 | 46 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
 | 47 | [The Glory of Love](https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Hello Young Lovers](https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg) | 2:49 |
 | 48 | [Wives And Lovers](https://open.spotify.com/track/33yeTx321qQCaLyh2nE6BY) | [Jack Jones](https://open.spotify.com/artist/6eVCRmRG2HcfL4yx77A9WK) | [Wives And Lovers](https://open.spotify.com/album/6hjM6J8iejTPc41xoDXMN1) | 2:29 |

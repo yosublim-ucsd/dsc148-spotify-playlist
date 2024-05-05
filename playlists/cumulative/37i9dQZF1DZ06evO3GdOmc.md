@@ -2,7 +2,7 @@
 
 ### [This Is Casting Crowns](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GdOmc)
 
-> This Is Casting Crowns\. Los temas esenciales, todos en una lista.
+> This is Casting Crowns\. Todos os maiores hits em uma só playlist.
 
 73 songs - 5 hr 9 min
 

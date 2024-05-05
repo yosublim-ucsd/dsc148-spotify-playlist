@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 2149830,
+  "2024-05-05": 2149996,
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify country fan favorites. Cover: Lady A",
+  "description": "Spotify country fan favorites. Cover: Blake Shelton",
   "name": "Country Gold",
   "tracks": [
     {
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
@@ -3837,7 +3837,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 206230,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/1kqVSbwdlNKsPGv0aehcAZ"

@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, RAMON EL BRABO",
-  "num_followers": 167530,
+  "num_followers": 167551,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Deus N\u00e3o Usa Rolex",
+        "url": "https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 104582,
+      "name": "Deus N\u00e3o Usa Rolex",
+      "url": "https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Multiplica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 163183,
       "name": "Multiplica\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Deus N\u00e3o Usa Rolex",
-        "url": "https://open.spotify.com/album/03lo8KNZ2ruPaxTgVexzDD"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 104582,
-      "name": "Deus N\u00e3o Usa Rolex",
-      "url": "https://open.spotify.com/track/1z4UoXYJNZiyGPfCyLRrWk"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -451,38 +451,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Fogo De Palha",
-        "url": "https://open.spotify.com/album/2uMACAtkigyR3AQbAJxRxC"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "Fogo De Palha",
-      "url": "https://open.spotify.com/track/2a4kF4IuTYyQiO043TAQV9"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Louis V",
-        "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 132047,
-      "name": "Louis V",
-      "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
         "url": "https://open.spotify.com/album/3s5vcKGvTawT9YXMojqO9d"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 436577,
       "name": "Filhos de Crente #1 - Jesus Invadiu o Ac\u00fastico (feat. Lookas & Noventa)",
       "url": "https://open.spotify.com/track/6nb4anyJTi60sdQ0cZWbup"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 132047,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Fogo De Palha",
+        "url": "https://open.spotify.com/album/2uMACAtkigyR3AQbAJxRxC"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Fogo De Palha",
+      "url": "https://open.spotify.com/track/2a4kF4IuTYyQiO043TAQV9"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Bom Samaritano",
-        "url": "https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn"
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
         }
       ],
-      "duration_ms": 133727,
-      "name": "Bom Samaritano",
-      "url": "https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL"
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -647,26 +647,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Crises",
-        "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
+        "name": "Josu\u00e9",
+        "url": "https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 144489,
-      "name": "Crises",
-      "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
+      "duration_ms": 177915,
+      "name": "Josu\u00e9",
+      "url": "https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -695,34 +687,42 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+        "name": "Bom Samaritano",
+        "url": "https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn"
       },
       "artists": [
         {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+      "duration_ms": 133727,
+      "name": "Bom Samaritano",
+      "url": "https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL"
     },
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Josu\u00e9",
-        "url": "https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw"
+        "name": "Crises",
+        "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
       "artists": [
         {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
         }
       ],
-      "duration_ms": 177915,
-      "name": "Josu\u00e9",
-      "url": "https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7"
+      "duration_ms": 144489,
+      "name": "Crises",
+      "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Salmos 33:3",
+        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Salmos 33:3",
+      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Paulo & Silas",
         "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 173222,
       "name": "Paulo & Silas",
       "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Salmos 33:3",
-        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Salmos 33:3",
-      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Romanos 12:2",
+        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Romanos 12:2",
+      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Com Jesus Eu Ganho",
         "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 176425,
       "name": "Arca de No\u00e9",
       "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Romanos 12:2",
-        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Romanos 12:2",
-      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "O Mesmo Deus",
         "url": "https://open.spotify.com/album/1aHIcMetRa3z0i8YUd0uAo"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 208500,
       "name": "O Mesmo Deus",
       "url": "https://open.spotify.com/track/2iiTw2HUFAig6U5QhihQo8"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Pl\u00e1u",
+        "url": "https://open.spotify.com/album/6mq6LKGfhBHLOL6PtR75J0"
+      },
+      "artists": [
+        {
+          "name": "Filipe Antunes",
+          "url": "https://open.spotify.com/artist/6RSDm3xRPi6F5rsbYa9rJ1"
+        }
+      ],
+      "duration_ms": 148540,
+      "name": "Pl\u00e1u",
+      "url": "https://open.spotify.com/track/56XtKXj8TH3fhA1PrF6gI2"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Paracetamol (Divisa de Fogo)",
         "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 180000,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Pl\u00e1u",
-        "url": "https://open.spotify.com/album/6mq6LKGfhBHLOL6PtR75J0"
-      },
-      "artists": [
-        {
-          "name": "Filipe Antunes",
-          "url": "https://open.spotify.com/artist/6RSDm3xRPi6F5rsbYa9rJ1"
-        }
-      ],
-      "duration_ms": 148540,
-      "name": "Pl\u00e1u",
-      "url": "https://open.spotify.com/track/56XtKXj8TH3fhA1PrF6gI2"
     },
     {
       "added_at": "2024-05-03 03:01:00",

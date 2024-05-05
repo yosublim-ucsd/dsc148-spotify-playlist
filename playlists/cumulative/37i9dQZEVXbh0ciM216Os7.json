@@ -7718,7 +7718,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 252160,
       "name": "Evolve",
       "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
@@ -13200,7 +13200,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 150506,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3qsyNf2a5PP4GwNdgxp3GZ"
@@ -19874,7 +19874,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 295146,
       "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
       "url": "https://open.spotify.com/track/31HXCpg55lctRb3wGCElBF"
@@ -23281,6 +23281,28 @@
     },
     {
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240106,
+      "name": "Stay Awhile (feat. Ari Lennox)",
+      "url": "https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd"
+    },
+    {
+      "album": {
         "name": "Wake of the Flood: The Angel's Share",
         "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
       },
@@ -24822,7 +24844,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"

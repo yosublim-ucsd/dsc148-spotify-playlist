@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,579 likes - 98 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,600 likes - 98 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

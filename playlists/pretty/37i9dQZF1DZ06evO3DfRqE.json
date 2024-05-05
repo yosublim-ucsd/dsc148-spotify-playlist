@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 7780,
+  "num_followers": 7785,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABeyOR0xbHJ8erbSSo6UBfk",
+  "snapshot_id": "ZjQpAAAAAACJBMBqHdcmZMJanIVFHL+r",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 429346,
       "name": "Smokin' Strings",
       "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb - \u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX"
     },
     {
       "added_at": null,
@@ -595,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+        "name": "NHK\u5927\u6cb3\u30c9\u30e9\u30de\u300c\u9e92\u9e9f\u304c\u304f\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Vol.3",
+        "url": "https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL"
       },
       "artists": [
+        {
+          "name": "John R Graham",
+          "url": "https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+      "duration_ms": 93586,
+      "name": "\u9e92\u9e9f\u7d00\u884c III",
+      "url": "https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NHK\u5927\u6cb3\u30c9\u30e9\u30de\u300c\u9e92\u9e9f\u304c\u304f\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Vol.3",
-        "url": "https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL"
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
       },
       "artists": [
-        {
-          "name": "John R Graham",
-          "url": "https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 93586,
-      "name": "\u9e92\u9e9f\u7d00\u884c III",
-      "url": "https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz"
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
     },
     {
       "added_at": null,
@@ -687,70 +687,6 @@
       "duration_ms": 224400,
       "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YEAH.",
-        "url": "https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 310986,
-      "name": "\u4e00\u671f\u4e00\u4f1a",
-      "url": "https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Oama",
-      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 116426,
-      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
-      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
     },
     {
       "added_at": null,
@@ -796,37 +732,73 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 93466,
-      "name": "\u30b6\u30fb\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc"
+      "duration_ms": 116426,
+      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
-        "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        },
-        {
-          "name": "Henry Kapono",
-          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
-        },
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
+      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
         }
       ],
-      "duration_ms": 260803,
-      "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
-      "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
+      "duration_ms": 239226,
+      "name": "Oama",
+      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YEAH.",
+        "url": "https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 310986,
+      "name": "\u4e00\u671f\u4e00\u4f1a",
+      "url": "https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 93466,
+      "name": "\u30b6\u30fb\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc"
     },
     {
       "added_at": null,
@@ -867,6 +839,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+        "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        {
+          "name": "Henry Kapono",
+          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "duration_ms": 260803,
+      "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+      "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Go for Broke",
-      "url": "https://open.spotify.com/track/3F1gafJUKx3jpHgYgu96CE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 221560,
       "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
       "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Go for Broke",
+      "url": "https://open.spotify.com/track/3F1gafJUKx3jpHgYgu96CE"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

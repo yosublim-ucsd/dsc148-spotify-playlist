@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Plutonio.  ",
-  "num_followers": 61851,
+  "num_followers": 61902,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
       "artists": [
         {
           "name": "ProfJam",
           "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         }
       ],
-      "duration_ms": 312506,
-      "name": "JAMANTAH",
-      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -839,22 +843,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
       "artists": [
         {
           "name": "ProfJam",
           "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Jo\u00e3o Maia Ferreira",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         }
       ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
+      "duration_ms": 312506,
+      "name": "JAMANTAH",
+      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
     },
     {
       "added_at": "2024-04-25 23:00:00",

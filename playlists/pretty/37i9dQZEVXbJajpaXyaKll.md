@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,338 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,331 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Privity](https://open.spotify.com/track/4A3KLIDInsrkyxgqqk9irn) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Anthony Godfather](https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8) | [La Ciudad Del Party](https://open.spotify.com/album/2fMhhfZ2dnqWVNX1nEw6Lc) | 3:35 |
 | 50 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

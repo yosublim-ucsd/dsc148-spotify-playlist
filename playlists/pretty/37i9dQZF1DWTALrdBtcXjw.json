@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Norwegian Wood",
-        "url": "https://open.spotify.com/album/6uwjnx06zvMswsAo320rqG"
-      },
-      "artists": [
-        {
-          "name": "European Jazz Trio",
-          "url": "https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7w5wI4Ft9wFqL9ExKCU2rA"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Epoxy",
         "url": "https://open.spotify.com/album/2zfXczQ2QKFX2eRj5Ooxw4"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Norwegian Wood",
+        "url": "https://open.spotify.com/album/6uwjnx06zvMswsAo320rqG"
+      },
+      "artists": [
+        {
+          "name": "European Jazz Trio",
+          "url": "https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7w5wI4Ft9wFqL9ExKCU2rA"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "If You Want To",
         "url": "https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 166595,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Changes over Time",
+        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
+      },
+      "artists": [
+        {
+          "name": "Jon Davis",
+          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
+        }
+      ],
+      "duration_ms": 245698,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -475,22 +491,6 @@
       "duration_ms": 264150,
       "name": "It's a Blue World",
       "url": "https://open.spotify.com/track/24FZPmTSx4fba5N24y9rNp"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Changes over Time",
-        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
-      },
-      "artists": [
-        {
-          "name": "Jon Davis",
-          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
-        }
-      ],
-      "duration_ms": 245698,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Draw Me Nearer",
-      "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Moon and I",
         "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 335933,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Draw Me Nearer",
+      "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 340130,
-      "name": "In a Sentimental Mood",
-      "url": "https://open.spotify.com/track/1o8BJyTuOsMatD3RQp9NWB"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "There Will Never Be Another You",
         "url": "https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235047,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 340130,
+      "name": "In a Sentimental Mood",
+      "url": "https://open.spotify.com/track/1o8BJyTuOsMatD3RQp9NWB"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        }
-      ],
-      "duration_ms": 343542,
-      "name": "Old News",
-      "url": "https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Save US",
         "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 401813,
       "name": "Summer In Central Park",
       "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 343542,
+      "name": "Old News",
+      "url": "https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 391240,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "The Role of the Rhythm Section",
+        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        }
+      ],
+      "duration_ms": 346786,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "The Role of the Rhythm Section",
-        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
-      },
-      "artists": [
-        {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
-        }
-      ],
-      "duration_ms": 346786,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
-      },
-      "artists": [
-        {
-          "name": "Gene Hart Trio",
-          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Dolphin Dance",
-      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Preludes",
         "url": "https://open.spotify.com/album/5HZ0VaFyCKZsJgU3ab82T4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 468640,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5rnQpqWZ1KKJynn5INNh4Y"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Dolphin Dance",
+      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "2223",
         "url": "https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/4zjIL7HY1OKA16Pb7puwKl"
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
       },
       "artists": [
         {
-          "name": "Kevin Fort",
-          "url": "https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg"
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
         }
       ],
-      "duration_ms": 365520,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/6eYTj1vrX1hzj8WijBC0sf"
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 420055,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/3eCqeHM0bDAu5JRz1Zrlew"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/4zjIL7HY1OKA16Pb7puwKl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fort",
+          "url": "https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg"
+        }
+      ],
+      "duration_ms": 365520,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/6eYTj1vrX1hzj8WijBC0sf"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1803,30 +1803,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Brian Lynch Meets Bill Charlap",
-        "url": "https://open.spotify.com/album/48pBFx9vagHaifgJUnAl2w"
+        "name": "To Satch and Duke",
+        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
       },
       "artists": [
         {
-          "name": "Brian Lynch",
-          "url": "https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        },
-        {
-          "name": "Dwayne Burno",
-          "url": "https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT"
-        },
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Axel Schlosser Quartet",
+          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
         }
       ],
-      "duration_ms": 473466,
-      "name": "Blues For Gilad",
-      "url": "https://open.spotify.com/track/76szeG5Lqxb1iPjRPoZkZd"
+      "duration_ms": 317643,
+      "name": "In a Mellow Tone",
+      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1859,18 +1847,30 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "To Satch and Duke",
-        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
+        "name": "Brian Lynch Meets Bill Charlap",
+        "url": "https://open.spotify.com/album/48pBFx9vagHaifgJUnAl2w"
       },
       "artists": [
         {
-          "name": "Axel Schlosser Quartet",
-          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
+          "name": "Brian Lynch",
+          "url": "https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        },
+        {
+          "name": "Dwayne Burno",
+          "url": "https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
         }
       ],
-      "duration_ms": 317643,
-      "name": "In a Mellow Tone",
-      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
+      "duration_ms": 473466,
+      "name": "Blues For Gilad",
+      "url": "https://open.spotify.com/track/76szeG5Lqxb1iPjRPoZkZd"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2167,30 +2167,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "September Song",
-        "url": "https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Marco Fratini",
-          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
-        },
-        {
-          "name": "Roberto Gatto",
-          "url": "https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8"
-        }
-      ],
-      "duration_ms": 368856,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -2211,6 +2187,30 @@
       "duration_ms": 382453,
       "name": "Masthuggsgruppen - Live",
       "url": "https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "September Song",
+        "url": "https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Marco Fratini",
+          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
+        },
+        {
+          "name": "Roberto Gatto",
+          "url": "https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8"
+        }
+      ],
+      "duration_ms": 368856,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2291,30 +2291,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fort",
-          "url": "https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg"
-        },
-        {
-          "name": "Joe Policastro",
-          "url": "https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ"
-        },
-        {
-          "name": "Jon Deitemyer",
-          "url": "https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Lucky to Be Me",
-      "url": "https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs"
       },
@@ -2339,6 +2315,30 @@
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fort",
+          "url": "https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg"
+        },
+        {
+          "name": "Joe Policastro",
+          "url": "https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ"
+        },
+        {
+          "name": "Jon Deitemyer",
+          "url": "https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f"
+        }
+      ],
+      "duration_ms": 334306,
+      "name": "Lucky to Be Me",
+      "url": "https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q"
     },
     {
       "added_at": "2024-03-22 00:01:00",

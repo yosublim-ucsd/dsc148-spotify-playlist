@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,945 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,946 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 49 | [i like the way you kiss me](https://open.spotify.com/track/2GUJVz8cDtBePu2hd9oYZx) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [i like the way you kiss me](https://open.spotify.com/album/5kSK4LHlhuRc4qSBzeZWBI) | 2:13 |
 | 50 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

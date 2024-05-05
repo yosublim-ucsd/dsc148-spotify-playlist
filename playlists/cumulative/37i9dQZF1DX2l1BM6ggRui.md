@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-127 songs - 7 hr 11 min
+128 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2024-03-08 |  |
 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2023-11-03 | 2024-03-09 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2023-11-03 | 2024-03-09 |
-| [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 | 2024-03-27 |  |
+| [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 | 2024-03-27 | 2024-05-05 |
 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 | 2023-11-03 | 2024-03-09 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2023-11-03 | 2024-03-09 |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-11-03 | 2024-03-09 |
@@ -68,6 +68,7 @@
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-11-03 |  |
 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 | 2024-03-08 |  |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-11-03 | 2023-12-02 |
+| [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 | 2024-03-27 |  |
 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 | 2024-03-27 |  |
 | [Kidult](https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:12 | 2023-11-03 | 2024-03-09 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2023-11-03 | 2024-03-09 |

@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 18799,
+  "2024-05-05": 18812,
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Jay Wheeler",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Danny Ocean",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -3782,6 +3782,28 @@
     },
     {
       "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Con Dinero y Sin Dinero",
+      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "album": {
         "name": "PLANES DE MEDIANOCHE",
         "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
       },
@@ -4627,6 +4649,24 @@
       "duration_ms": 249170,
       "name": "Dancin' Days",
       "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+    },
+    {
+      "album": {
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163770,
+      "name": "De Bien a Mal",
+      "url": "https://open.spotify.com/track/2TweCNUiC4VVceGtQ5LuTc"
     },
     {
       "album": {
@@ -5733,6 +5773,24 @@
       "duration_ms": 188660,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/5vdJji14SAJksjDYl0uzAs"
+    },
+    {
+      "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217326,
+      "name": "D\u00f3nde est\u00e1s?",
+      "url": "https://open.spotify.com/track/3siKQLur5hZAaqWTw2H7Ck"
     },
     {
       "album": {
@@ -7867,6 +7925,24 @@
       "duration_ms": 215478,
       "name": "Ganas - Versi\u00f3n Merengue",
       "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
+    },
+    {
+      "album": {
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162721,
+      "name": "Garc\u00eda",
+      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
     },
     {
       "album": {
@@ -10068,6 +10144,24 @@
     },
     {
       "album": {
+        "name": "Ley universal",
+        "url": "https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189838,
+      "name": "Ley universal",
+      "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
+    },
+    {
+      "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
@@ -10330,6 +10424,28 @@
     },
     {
       "album": {
+        "name": "Llorar Por Ella",
+        "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
+    },
+    {
+      "album": {
         "name": "Habita",
         "url": "https://open.spotify.com/album/2mZqG5fb0c2lxPsVuZMiG2"
       },
@@ -10389,6 +10505,24 @@
       "duration_ms": 180565,
       "name": "LO LOGR\u00c9",
       "url": "https://open.spotify.com/track/46WF4Sv3OOpxuoK4kFqXiC"
+    },
+    {
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151463,
+      "name": "Lo mejor en tu vida",
+      "url": "https://open.spotify.com/track/6P3JPwDgzRzR4TXJuHRDaN"
     },
     {
       "album": {
@@ -12342,6 +12476,24 @@
     },
     {
       "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT"
       },
@@ -12916,6 +13068,24 @@
     },
     {
       "album": {
+        "name": "no quiero olvidarte",
+        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230049,
+      "name": "no quiero olvidarte",
+      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
+    },
+    {
+      "album": {
         "name": "AfroLOVA' 23",
         "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
       },
@@ -13051,6 +13221,24 @@
       "duration_ms": 180003,
       "name": "No Te Sientes Igual",
       "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
+    },
+    {
+      "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167501,
+      "name": "NO TE VAS",
+      "url": "https://open.spotify.com/track/0fnaiFtqcDqppcB8poxNpY"
     },
     {
       "album": {
@@ -13571,6 +13759,28 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Olas y Arenas",
+      "url": "https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn"
     },
     {
       "album": {
@@ -14201,6 +14411,24 @@
       "duration_ms": 205842,
       "name": "Pececitos",
       "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+    },
+    {
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208565,
+      "name": "Pedacito de Playa",
+      "url": "https://open.spotify.com/track/1wEkEIBnVGiVDupJofBwVL"
     },
     {
       "album": {
@@ -14907,6 +15135,24 @@
       "duration_ms": 196870,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP"
+    },
+    {
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "Por Toda la Vida",
+      "url": "https://open.spotify.com/track/4l5HZ6iRc2oN5NtcT141yq"
     },
     {
       "album": {
@@ -15629,6 +15875,28 @@
       "duration_ms": 256255,
       "name": "Qu\u00e9 Bonito Es Lo Bonito",
       "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181967,
+      "name": "Qu\u00e9 Bonito!",
+      "url": "https://open.spotify.com/track/02vRl8BNyH6h1sDxJ786oR"
     },
     {
       "album": {
@@ -16631,6 +16899,24 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/7531r2mkUMtB0tzNo1xSaM"
+    },
+    {
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "album": {
@@ -17879,6 +18165,24 @@
       "duration_ms": 141622,
       "name": "TE ENCANT\u00d3",
       "url": "https://open.spotify.com/track/5q52FaniZvJzziGHTJeie0"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Te Espero Sentada",
+      "url": "https://open.spotify.com/track/4bEY1yu9hUoDslA1oc9OIa"
     },
     {
       "album": {

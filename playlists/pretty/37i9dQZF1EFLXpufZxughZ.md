@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 99 | [Girl Like That \(feat\. Caleb Jacobson\)](https://open.spotify.com/track/6BPAozuOyKeit8cCwycmWP) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV), [Caleb Jacobson](https://open.spotify.com/artist/2EJZ9V5goL0NT50wQo7M4I) | [United We Stand](https://open.spotify.com/album/3v9U6evWUH2BjiwMy3K3L9) | 3:13 |
 | 100 | [I Been That Girl](https://open.spotify.com/track/7o2JyoEdDAlhdyzjAfol7m) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 2:53 |
 | 101 | [Co\-Defendant](https://open.spotify.com/track/0TEWH6vaudxvccI5dO2Ari) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:27 |
-| 102 | [Don't Quit \- Live](https://open.spotify.com/track/7I7fTsTJF0XzcL9Th8UeD0) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 7:07 |
-| 103 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 |
+| 102 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 |
+| 103 | [Don't Quit \- Live](https://open.spotify.com/track/7I7fTsTJF0XzcL9Th8UeD0) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 7:07 |
 | 104 | [Dime](https://open.spotify.com/track/3aiopvlbadQySEYnycJ7kV) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:36 |
 | 105 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
 | 106 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 124 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 125 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbQYJAAAAACDalZDkIn1gkdJwwa/K7SY`
+Snapshot ID: `AbQecgAAAADxds5pPK5+POy1wVdVX3uR`

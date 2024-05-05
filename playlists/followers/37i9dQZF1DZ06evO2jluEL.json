@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 22406,
+  "2024-05-05": 22407,
   "date_first_scraped": "2023-07-10",
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
   "name": "This Is Ludmila Ferber",
@@ -21,6 +21,24 @@
       "duration_ms": 255840,
       "name": "24 Horas por Dia",
       "url": "https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2"
+    },
+    {
+      "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339125,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
     },
     {
       "album": {
@@ -129,7 +147,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 243205,
       "name": "Andar com Deus",
       "url": "https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA"

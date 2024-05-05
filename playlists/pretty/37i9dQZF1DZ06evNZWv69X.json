@@ -1,12 +1,12 @@
 {
   "description": "This Is Mar de Copas. Los temas esenciales, todos en una lista.",
-  "num_followers": 7791,
+  "num_followers": 7795,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAD0S+qaHcrGH8JTOcd62Lfu",
+  "snapshot_id": "ZjQpAAAAAABM571uJxv3K72WZd9DyPu2",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suna",
         "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 199453,
       "name": "Enloqueciendo",
       "url": "https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Otra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
     },
     {
       "added_at": null,

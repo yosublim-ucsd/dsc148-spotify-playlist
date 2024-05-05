@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,126 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,118 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 20 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
 | 21 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:25 |
 | 22 | [Jolly old st Nicolas](https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Jolly old st Nicolas](https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5) | 1:44 |
-| 23 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
-| 24 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:15 |
+| 23 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:15 |
+| 24 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
 | 25 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 26 | [When We Kissed Under The Mistletoe](https://open.spotify.com/track/5vt00tH4PyhiAuV4kGIUAK) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [When We Kissed Under The Mistletoe](https://open.spotify.com/album/43omzeS1WIBkcVZuPkh3zs) | 2:24 |
 | 27 | [Christmas Waltz](https://open.spotify.com/track/3fHIRYjmv46IC9ZBZIdw1W) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 3:21 |

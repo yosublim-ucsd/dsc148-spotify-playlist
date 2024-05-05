@@ -4,7 +4,7 @@
 
 > Mood: Turnt
 
-802 songs - 1 day 14 hr 53 min
+803 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 | 2023-06-23 | 2023-09-30 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-03 | 2022-04-23 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-19 | 2023-03-25 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [Not My N\*gga Extended](https://open.spotify.com/track/281hW1bpZ523dJdtspABeh) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga Extended](https://open.spotify.com/album/7gKQ9IlbtIoNEwEZr9qMrv) | 3:01 | 2023-03-03 | 2023-06-17 |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-09-30 | 2023-05-06 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-12 |  |

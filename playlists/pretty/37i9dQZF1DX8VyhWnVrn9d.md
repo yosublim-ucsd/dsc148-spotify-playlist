@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,117 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,357 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 43 | [El Gato y Yo](https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ) | [Super Banda Radar](https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e) | [El Gato y Yo](https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk) | 3:01 |
 | 44 | [Mambo Lupita](https://open.spotify.com/track/5GEy2VbVgiLtmYNHfMphb1) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Quiero Contigo](https://open.spotify.com/album/40KZCK7YEf0CRVTTb3tOTI) | 2:50 |
 | 45 | [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 |
-| 46 | [Mi Linda Chiquilla](https://open.spotify.com/track/4kPJomkWyQVzhYOsgiu0mZ) | [Banda Zorro](https://open.spotify.com/artist/1FG9tCJF0EMHFvCOMWxsZH) | [Mix](https://open.spotify.com/album/2lwgjkkbnWQmbzg00bZLbg) | 3:25 |
-| 47 | [Billy No Seas Un Heroe](https://open.spotify.com/track/3XbdxBxtQKQl5oxaLYeCFu) | [Jalisco Band](https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95) | [Te Quiero Tanto](https://open.spotify.com/album/0LBqxI0ttaUxPhTXMm0s8I) | 2:59 |
+| 46 | [Billy No Seas Un Heroe](https://open.spotify.com/track/3XbdxBxtQKQl5oxaLYeCFu) | [Jalisco Band](https://open.spotify.com/artist/4CFd2ttswJMIvHHbolxz95) | [Te Quiero Tanto](https://open.spotify.com/album/0LBqxI0ttaUxPhTXMm0s8I) | 2:59 |
+| 47 | [Mi Linda Chiquilla](https://open.spotify.com/track/4kPJomkWyQVzhYOsgiu0mZ) | [Banda Zorro](https://open.spotify.com/artist/1FG9tCJF0EMHFvCOMWxsZH) | [Mix](https://open.spotify.com/album/2lwgjkkbnWQmbzg00bZLbg) | 3:25 |
 | 48 | [Funk Town](https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 4:06 |
 | 49 | [La Tabaquera](https://open.spotify.com/track/46fdZFOmWvg4zPzJqdBqUy) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:27 |
 | 50 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 |

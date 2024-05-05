@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 11 hr 32 min
+213 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 | 2021-12-27 |  |
 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 | 2021-12-27 |  |
 | [Everybody Says They’re Fine](https://open.spotify.com/track/3u08t7MEgvueIBfUe7M3O4) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go \(Special Edition\)](https://open.spotify.com/album/08zkdPR1WBr2vGKhp575H4) | 2:31 | 2022-11-03 |  |
+| [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/track/6FtRq9dtuyZdcSkqhnBANh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 3:38 | 2024-05-04 |  |
 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 | 2022-03-08 |  |
 | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/track/00JYHDGMCHtMnCw3iqBxkY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something \(feat\. Duncan Laurence\)](https://open.spotify.com/album/7ex8A5McEuRHMwynXZgONx) | 2:35 | 2021-12-27 |  |
 | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/album/3x97AnoAAIBGJuqZSTtVte) | 3:06 | 2021-12-27 |  |
@@ -84,6 +85,7 @@
 | [Hungover](https://open.spotify.com/track/75g7UV5B1ndLGsDvfjC489) | [Emmalyn](https://open.spotify.com/artist/75y1eTkF9JFAO2MIR2EXtg) | [Hungover](https://open.spotify.com/album/464LmfCz1lP28qe5ndSj6s) | 3:14 | 2022-10-18 |  |
 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 | 2021-12-27 |  |
 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 | 2021-12-27 |  |
+| [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 | 2024-05-04 |  |
 | [I Dont Change](https://open.spotify.com/track/72nSRQXCZHySA9AzByOGUC) | [K.I.D](https://open.spotify.com/artist/6SOM2ZHlhhImE1yxlwfEe9) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:13 | 2021-12-27 |  |
 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 | 2023-08-30 |  |
 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 | 2022-11-03 |  |
@@ -153,6 +155,7 @@
 | [Rock Hard](https://open.spotify.com/track/39x4G6gNmj0L24pILg9oqk) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Rock Hard](https://open.spotify.com/album/6PksrWCNFp5Amz30JdDmwf) | 2:04 | 2023-06-11 |  |
 | [Roommates](https://open.spotify.com/track/6Yqthq1zzVpynLPBb457I7) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/5dxJzhnP1EHXf9VCLElcOM) | 3:23 | 2021-12-27 | 2023-12-14 |
 | [Roommates](https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/2Cp9X2MWTLEAVp7EuIiEFt) | 3:23 | 2023-12-13 |  |
+| [RUM PUM PUM](https://open.spotify.com/track/3K64KNHsI85rLpAjCpYKGq) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 2:22 | 2024-05-04 |  |
 | [Run Into You](https://open.spotify.com/track/0LM43mK6NmlaO5MIKy5oBr) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Run Into You](https://open.spotify.com/album/2JWPHdT4xQktzBfOuW6t0R) | 2:55 | 2021-12-27 |  |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-15 | 2023-12-14 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-12-13 |  |

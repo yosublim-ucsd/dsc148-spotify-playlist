@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-394 songs - 23 hr 50 min
+395 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-24 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 | 2023-03-31 | 2024-04-19 |
 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-02-09 | 2023-04-04 |
-| [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2024-05-02 |  |
+| [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2024-05-02 | 2024-05-05 |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-12-15 | 2024-05-03 |
 | [Everyday](https://open.spotify.com/track/2VYqgye3Wf9ySE4qYM3iJn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:07 | 2022-04-14 | 2022-04-30 |
 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-10-06 | 2022-10-27 |
@@ -388,6 +388,7 @@
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2022-01-08 | 2022-04-19 |
 | [Wild Time](https://open.spotify.com/track/5V25JNAs17PQ3dJfmMIqSG) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 6:09 | 2021-12-15 | 2022-04-21 |
 | [Wish I Was You](https://open.spotify.com/track/2wbY4rxFUCDyvK7mksf5HG) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Wish I Was You](https://open.spotify.com/album/5E8qV4Xas0bLhhZJiNbPoq) | 3:07 | 2022-02-04 | 2022-02-12 |
+| [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-05-02 |  |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2022-06-10 | 2023-05-26 |
 | [Work](https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT) | 3:44 | 2022-01-08 | 2022-04-21 |
 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 | 2022-10-27 | 2024-04-19 |

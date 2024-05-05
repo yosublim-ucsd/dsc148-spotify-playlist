@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
@@ -7006,6 +7006,24 @@
       "duration_ms": 187043,
       "name": "Wish I Was You",
       "url": "https://open.spotify.com/track/2wbY4rxFUCDyvK7mksf5HG"
+    },
+    {
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "album": {

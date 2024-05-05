@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
-  "num_followers": 95322,
+  "num_followers": 95360,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "I'd Like To Walk Around In Your Mind",
+      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "I'd Like To Walk Around In Your Mind",
-      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "tiny things",
-      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 252986,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "tiny things",
+      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Like a Brother",
         "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1139,6 +1139,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Set Me Free, I'm an Animal",
         "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
       },
@@ -1167,38 +1199,6 @@
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
-      },
-      "artists": [
-        {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-        }
-      ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 195884,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "what we leave behind",
         "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Ultrapure",
-        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 177546,
-      "name": "Sink;Swim",
-      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
+      "duration_ms": 195884,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Holdup (with Claud)",
-        "url": "https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 156732,
-      "name": "Holdup (with Claud)",
-      "url": "https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Jean",
         "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 253666,
       "name": "Not Much",
       "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Holdup (with Claud)",
+        "url": "https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 156732,
+      "name": "Holdup (with Claud)",
+      "url": "https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1915,18 +1899,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 158374,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1943,6 +1927,22 @@
       "duration_ms": 262350,
       "name": "Witch Hazel",
       "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 158374,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
     },
     {
       "added_at": "2024-03-29 04:00:00",

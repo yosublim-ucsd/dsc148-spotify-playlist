@@ -1,6 +1,6 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1948203,
+  "num_followers": 1948843,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -251,6 +235,22 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Camp",
-        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 317293,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 182306,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -459,22 +475,6 @@
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
         "name": "act iii: on god? (she like)",
         "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 157838,
-      "name": "Ahi",
-      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Starburster",
-        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 221450,
-      "name": "Starburster",
-      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+      "duration_ms": 172106,
+      "name": "everytime",
+      "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 172106,
-      "name": "everytime",
-      "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "DISC TWO (SCRATCHED UP)",
-        "url": "https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3"
+        "name": "Feeling Lucky",
+        "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
         }
       ],
-      "duration_ms": 144489,
-      "name": "BIRTHDAY DANCE",
-      "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
+      "duration_ms": 151040,
+      "name": "Feeling Lucky",
+      "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1523,6 +1527,22 @@
       "duration_ms": 210666,
       "name": "Saturday Nights",
       "url": "https://open.spotify.com/track/5kfNriitmkNE8mUbZ7gbq8"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
+        "name": "DISC TWO (SCRATCHED UP)",
+        "url": "https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "BIRTHDAY DANCE",
+      "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1559,22 +1579,6 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Feeling Lucky",
-        "url": "https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb"
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 151040,
-      "name": "Feeling Lucky",
-      "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2024-04-27 12:54:22",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-04-27 12:54:22",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2024-04-27 12:54:22",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 194607,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+    },
+    {
+      "added_at": "2024-04-27 12:54:22",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2024-04-27 12:54:22",

@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1072885,
+  "num_followers": 1073133,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 220426,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -643,18 +643,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
         }
       ],
-      "duration_ms": 117173,
-      "name": "The Sunshine",
-      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -675,22 +679,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 117173,
+      "name": "The Sunshine",
+      "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
-      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Gimme Fiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 212106,
       "name": "I Turn My Camera On",
       "url": "https://open.spotify.com/track/10YGSqXSKL5g6VmXiuSdd2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "It Still Moves",
-        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "It Still Moves",
+        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
     },
     {
       "added_at": "2024-03-08 05:00:00",

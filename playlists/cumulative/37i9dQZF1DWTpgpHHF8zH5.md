@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-402 songs - 20 hr 35 min
+403 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Rest Of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 | 2022-05-16 | 2022-06-13 |
 | [Rewind](https://open.spotify.com/track/3xRnqDj1IhwZhsnrjXPOKk) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Rewind](https://open.spotify.com/album/7hFHwRgJchIyvc9M7n3C89) | 3:58 | 2023-02-17 | 2023-12-02 |
 | [Rise](https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rise](https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3) | 3:36 | 2022-05-06 | 2022-07-29 |
-| [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-06 |  |
+| [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-06 | 2024-05-05 |
 | [River](https://open.spotify.com/track/5nD2zmNcN7jZ1lrdj4ZVxX) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [River](https://open.spotify.com/album/6IQCulw5pQ0uEq2KqGS9fk) | 3:09 | 2022-05-06 | 2022-07-29 |
 | [Roller Coaster](https://open.spotify.com/track/6XnikZPkb059iYTuCjZt1X) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Roller Coaster](https://open.spotify.com/album/6CsCyO2V7he7qAmIDDVBa2) | 3:16 | 2022-05-06 | 2022-07-11 |
 | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2022-05-06 | 2022-07-29 |
@@ -364,6 +364,7 @@
 | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/track/7s5STnbx8NWbggIJDw1o9i) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/album/2IE8aTFgwS8s172Pi5x2zn) | 2:47 | 2022-05-06 | 2022-06-25 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-14 | 2022-12-03 |
 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 | 2024-01-26 |  |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-04 |  |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-12 |  |
 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 | 2022-05-06 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-07-22 | 2023-03-25 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 ### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
-> This is U2\. Todos os maiores hits em uma só playlist.
+> This Is U2\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,351 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,523 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 |
 | 50 | [Discotheque](https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:18 |
 
-Snapshot ID: `ZjLXgAAAAABs7feXboi/r3bHXolG9w2s`
+Snapshot ID: `ZjQpAAAAAAD5LUwUk52/V8TnhNxNSx5C`

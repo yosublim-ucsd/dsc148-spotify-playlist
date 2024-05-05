@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 104887,
+  "2024-05-05": 104905,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bolivia.",
   "name": "Top 50 - Bolivia",
@@ -1985,6 +1985,24 @@
       "duration_ms": 238628,
       "name": "Born Singer",
       "url": "https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Borro Cassette",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
       "album": {
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 228331,
       "name": "FILTRO",
       "url": "https://open.spotify.com/track/0SAGpMJQz3XdfRFdwuSX9b"

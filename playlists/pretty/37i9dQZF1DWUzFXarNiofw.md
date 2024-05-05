@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Coco Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,113 likes - 175 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,239 likes - 175 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 2 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 |
 | 3 | [UnLonely](https://open.spotify.com/track/0826ALNsO66vtU21l2Rqes) | [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [UnLonely](https://open.spotify.com/album/6rb6fSLEFEIiwDjAdhliuP) | 2:04 |
 | 4 | [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 |
-| 5 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 5 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 6 | [down](https://open.spotify.com/track/2aOGWRexXObCHluDRPFF51) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 1:11 |
 | 7 | [Falling or flying \- Reimagined](https://open.spotify.com/track/0OT6eMljP4fshxNA1STPgr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:30 |
 | 8 | [Paper Tigers](https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Paper Tigers](https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS) | 3:32 |

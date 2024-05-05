@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,070 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,098 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 541680,
+  "num_followers": 541707,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Overexposed Track By Track",
         "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Love On",
-        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 181650,
-      "name": "Love On",
-      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Between Us (Deluxe Version)",
         "url": "https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2024-03-29 15:23:22",

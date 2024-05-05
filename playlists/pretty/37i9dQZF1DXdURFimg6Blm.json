@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 601696,
+  "num_followers": 602015,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -583,6 +567,42 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -623,26 +643,6 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1183,26 +1183,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Quest For Fire",
-        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 146571,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD"
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1231,34 +1223,42 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
         }
       ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Easy On My Heart",
+        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "Easy On My Heart",
+      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Easy On My Heart",
-        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "Easy On My Heart",
-      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2024-05-03 04:00:00",

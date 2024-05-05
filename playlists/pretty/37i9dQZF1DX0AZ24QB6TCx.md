@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,143 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,152 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 30 | [Halt Plea](https://open.spotify.com/track/4RDbet8bxl0MPQMG9BLEDJ) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Halt Plea](https://open.spotify.com/album/2etuLjhlcEMvpjIKm76wSm) | 2:29 |
 | 31 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 32 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
-| 33 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 34 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
+| 33 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
+| 34 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 35 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 36 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 37 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 66 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 |
 | 67 | [Waves](https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr) | [Gryr](https://open.spotify.com/artist/3QNDp4bvJ5u3dPEyN3ymsf) | [Heino](https://open.spotify.com/album/3Z0NohL5kRMvuKP5HMD8Ne) | 5:04 |
 | 68 | [Forelsket](https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Milo Häfliger](https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT) | [Forelsket](https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7) | 5:36 |
-| 69 | [Living Machines](https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1) | [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [Underyourskin 100](https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj) | 5:07 |
-| 70 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
+| 69 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
+| 70 | [Living Machines](https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1) | [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [Underyourskin 100](https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj) | 5:07 |
 
 Snapshot ID: `ZdfgPAAAAAD+UuhfGSwDp2l859lEpxJi`

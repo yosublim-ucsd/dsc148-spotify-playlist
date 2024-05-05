@@ -4,7 +4,7 @@
 
 > songs that linger 😎 ft royel otis
 
-2,762 songs - 6 day 4 hr 47 min
+2,765 songs - 6 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 | 2023-06-02 | 2023-08-16 |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30\* | 2019-11-14 |
 | [Chaise Longue \- French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue \(French Version\)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-02 | 2022-11-08 |
+| [Challengers](https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 1:25 | 2024-05-04 |  |
 | [Chamber Of Reflection \- live stream 5/19/23](https://open.spotify.com/track/3gNmgzx1vOFcsA5UmIULgn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Chamber Of Reflection \(live stream 5/19/23\)](https://open.spotify.com/album/6mJyi0LV45BfhPWrguFDu9) | 2:33 | 2023-11-15 | 2024-01-11 |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 | 2020-05-28 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-22 | 2022-10-13 |
@@ -1576,6 +1577,7 @@
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2020-11-20 | 2021-12-02 |
 | [Miss You](https://open.spotify.com/track/0ntgJ7SC3V9XGDGBhPeoqj) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Miss You](https://open.spotify.com/album/1QoodoyEWytO0IVGCbEt69) | 2:25 | 2019-08-16 | 2019-11-14 |
 | [Missed the Mark](https://open.spotify.com/track/2kAoOf0Wlzo9KqQJ8gEJNx) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [After Ours](https://open.spotify.com/album/0Z7FOudBt3SgchfQyg5Dui) | 3:39 | 2023-11-10 | 2024-02-15 |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-04 |  |
 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-07 | 2023-04-09 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-14 |  |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-02-12 | 2021-03-06 |
@@ -2423,6 +2425,7 @@
 | [the car](https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [the car](https://open.spotify.com/album/2oOjAHADWlfAfYTFlWhcVl) | 2:59 | 2023-06-30 | 2023-08-26 |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-18 | 2024-01-05 |
 | [The Door](https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [The Door](https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5) | 3:31 | 2021-12-11 | 2022-02-26 |
+| [The Downtown Lights](https://open.spotify.com/track/38TMvbDxQCQJm9nzHqmpiK) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 6:31 | 2024-05-04 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-11 | 2022-08-27 |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-08-12 | 2022-09-13 |
 | [The Flowers](https://open.spotify.com/track/7jK9Aa2sjIytQYaKRG6Yix) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Flowers](https://open.spotify.com/album/0TxUTBUMlD9PRMNzvWppCq) | 4:22 | 2023-09-22 | 2023-12-14 |

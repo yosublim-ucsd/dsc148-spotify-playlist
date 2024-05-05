@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 485059,
+  "2024-05-05": 485053,
   "date_first_scraped": "2022-01-13",
   "description": "Real Rap. All Pressure. Cover: Sexyy Red",
   "name": "Pressure",
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 147692,
       "name": "BUGGIN",
       "url": "https://open.spotify.com/track/0y1phOQeYBTgg9JYtcnbn5"
@@ -2458,6 +2458,28 @@
     },
     {
       "album": {
+        "name": "Not Ya Girl: Act 1",
+        "url": "https://open.spotify.com/album/7Ml90LQW2HTBOz4GI6Sabp"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174455,
+      "name": "Come Here (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/78mTFHB8u7NvNWFWfk7uqY"
+    },
+    {
+      "album": {
         "name": "Come Here (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
       },
@@ -2712,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "Not Ya Girl: Act 1",
+        "url": "https://open.spotify.com/album/7Ml90LQW2HTBOz4GI6Sabp"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "Crazy Dream",
+      "url": "https://open.spotify.com/track/6ZkPJhCuGXum6jOfhpqCJd"
+    },
+    {
+      "album": {
         "name": "Crazy Girl",
         "url": "https://open.spotify.com/album/6MNPOurbkMv7THIlR1LlRO"
       },
@@ -2937,7 +2977,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121028,
       "name": "Dirt (Poem)",
       "url": "https://open.spotify.com/track/1UNMqg1gKDLXUyGszRnMMt"
@@ -5662,6 +5702,24 @@
     },
     {
       "album": {
+        "name": "Kash Kommandments",
+        "url": "https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209261,
+      "name": "Kash Kommandments",
+      "url": "https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH"
+    },
+    {
+      "album": {
         "name": "Kater To Me",
         "url": "https://open.spotify.com/album/7KLGjJFMjyGK2eFOcymZ6j"
       },
@@ -6612,6 +6670,24 @@
     },
     {
       "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -7511,7 +7587,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 113454,
       "name": "Oochie Walla",
       "url": "https://open.spotify.com/track/53GH14fEjEF853rdlLBjHz"
@@ -7687,6 +7763,24 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
+    },
+    {
+      "album": {
+        "name": "Paid & Put Up",
+        "url": "https://open.spotify.com/album/5nVjY2hP9r8D6oXjKfxGUh"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166592,
+      "name": "Paid & Put Up",
+      "url": "https://open.spotify.com/track/4beRWX5kyOfV6hYuHSzAF2"
     },
     {
       "album": {
@@ -9535,7 +9629,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 129705,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq"
@@ -10925,7 +11019,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 110440,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"

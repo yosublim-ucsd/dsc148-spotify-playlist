@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Tems",
-  "num_followers": 558239,
+  "num_followers": 558530,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -179,7 +179,7 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Vision (Remix)",
+        "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
       "artists": [
@@ -193,7 +193,7 @@
         }
       ],
       "duration_ms": 166000,
-      "name": "Vision - Remix",
+      "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Only Me",
         "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "POE",
+        "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "POE",
+      "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "POE",
-        "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "POE",
-      "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "KATIGORI",
+      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "KATIGORI",
-      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Lowkey!",
-        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 213710,
-      "name": "Lowkey!",
-      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Lowkey!",
+        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Lowkey!",
+      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-05-03 00:01:00",

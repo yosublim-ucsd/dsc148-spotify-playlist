@@ -1,6 +1,6 @@
 {
   "description": "tu\u00ea e tutu filhos da noite empurrando o palio na marginal",
-  "num_followers": 1376434,
+  "num_followers": 1376675,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,30 @@
     {
       "added_at": "2024-05-01 00:01:00",
       "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
+    },
+    {
+      "added_at": "2024-05-01 00:01:00",
+      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 438748,
       "name": "Desacato",
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
-    },
-    {
-      "added_at": "2024-05-01 00:01:00",
-      "album": {
-        "name": "10 Carros",
-        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "10 Carros",
-      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
     },
     {
       "added_at": "2024-05-01 00:01:00",

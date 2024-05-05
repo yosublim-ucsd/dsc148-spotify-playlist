@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,974 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,061 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 13 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 |
 | 14 | [528 Hz Mindfulness](https://open.spotify.com/track/67zLFjnzqQ7UppDq1HXczR) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [528 Hz Positive Transformation](https://open.spotify.com/album/19xQ3Y3XrQz88UeM1lfe1d) | 1:36 |
 | 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
-| 16 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
-| 17 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 |
+| 16 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 |
+| 17 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
 | 18 | [Wealth & Abundance Affirmations V](https://open.spotify.com/track/6fxQ4rWM61VA2qMlV6WHS6) | [Conscious Evolution](https://open.spotify.com/artist/3MK0kIDFuny7zZdLdVdCiS) | [Affirmations for Wealth & Abundance](https://open.spotify.com/album/15uDVru4nXzmJHYRilgN2P) | 2:34 |
 | 19 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
 | 20 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 477301,
+  "num_followers": 477295,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Know.",
         "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 226106,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "A Little Bit Yours",
         "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 225680,
       "name": "A Little Bit Yours",
       "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Let\u2019s Go Home Together",
         "url": "https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2023-06-09 16:26:46",

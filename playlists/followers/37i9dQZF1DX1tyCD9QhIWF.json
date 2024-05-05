@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2303866,
+  "2024-05-05": 2303850,
   "date_first_scraped": "2021-12-30",
   "description": "Big riffs and pounding drums to help you strut the streets.",
   "name": "Walk Like A Badass",
@@ -263,6 +263,24 @@
       "duration_ms": 183211,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
+    },
+    {
+      "album": {
+        "name": "Bodyclock",
+        "url": "https://open.spotify.com/album/3Ayej5ZG9LDDrWEge2bPeI"
+      },
+      "artists": [
+        {
+          "name": "Sick Love",
+          "url": "https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167278,
+      "name": "Bodyclock",
+      "url": "https://open.spotify.com/track/1TORJOAgWVeZP0yGpH6nzh"
     },
     {
       "album": {
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 198748,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/0l8NnoFm09sUNcts1ycOtV"

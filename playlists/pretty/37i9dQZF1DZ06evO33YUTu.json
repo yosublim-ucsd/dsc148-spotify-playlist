@@ -1,12 +1,12 @@
 {
   "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
-  "num_followers": 117968,
+  "num_followers": 117984,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABj/0oEto8N+yV5WN/spbsR",
+  "snapshot_id": "ZjQpAAAAAABYR495EmdBaOgXOvoO5CG8",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
         "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 168750,
       "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Error",
-        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 209361,
-      "name": "Error",
-      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
+      "duration_ms": 137386,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+        "name": "Error",
+        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 137386,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
+      "duration_ms": 209361,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
     },
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
       "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
+      "duration_ms": 139973,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
     },
     {
       "added_at": null,
@@ -875,38 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 139973,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cartagena ft. Greeicy",
-        "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 163438,
-      "name": "Cartagena ft. Greeicy",
-      "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
+      "duration_ms": 206666,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
     },
     {
       "added_at": null,
@@ -939,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos (Versi\u00f3n Piano)",
-        "url": "https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "Los Besos - Versi\u00f3n Piano",
-      "url": "https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YELIANA",
         "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
@@ -967,6 +931,42 @@
       "duration_ms": 136293,
       "name": "I Try For You",
       "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cartagena ft. Greeicy",
+        "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 163438,
+      "name": "Cartagena ft. Greeicy",
+      "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Besos (Versi\u00f3n Piano)",
+        "url": "https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "Los Besos - Versi\u00f3n Piano",
+      "url": "https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO"
     },
     {
       "added_at": null,

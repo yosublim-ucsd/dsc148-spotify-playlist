@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,955 likes - 44 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,971 likes - 44 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 31 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 32 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 |
 | 33 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
-| 34 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
+| 34 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
 | 35 | [Bassline Pumping](https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Bassline Pumping EP](https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE) | 3:30 |
-| 36 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 36 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
 | 37 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
 | 38 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 39 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |

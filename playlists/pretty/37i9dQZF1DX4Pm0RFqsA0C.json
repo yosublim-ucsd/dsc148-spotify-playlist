@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5520,
+  "num_followers": 5512,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+        "name": "All System Go",
+        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+      "duration_ms": 249420,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -431,18 +427,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "All System Go",
-        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 249420,
-      "name": "3!4!",
-      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
-        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Sleepless Rainy Night",
-      "url": "https://open.spotify.com/track/6FkYXuozDHGdeMzvjpRjpG"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "LOVE - The 3rd Album",
         "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
+        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Sleepless Rainy Night",
+      "url": "https://open.spotify.com/track/6FkYXuozDHGdeMzvjpRjpG"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 265116,
+      "name": "\uc120\ubb3c",
+      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -911,22 +927,6 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 265116,
-      "name": "\uc120\ubb3c",
-      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "To Heaven",
-        "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 250409,
-      "name": "To Heaven",
-      "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 220609,
       "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
       "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "To Heaven",
+        "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 250409,
+      "name": "To Heaven",
+      "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Let Me Love",
-        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "\ub2e4\uc9d0",
-      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "All Details",
         "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 265377,
       "name": "Baekjeonmupae",
       "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Let Me Love",
+        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "\ub2e4\uc9d0",
+      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+        "name": "Coming of age ceremony",
+        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
       "artists": [
         {
-          "name": "Hong Kyung Min",
-          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Shaky Friendship",
-      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
+      "duration_ms": 245423,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Coming of age ceremony",
-        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
       "artists": [
         {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+          "name": "Hong Kyung Min",
+          "url": "https://open.spotify.com/artist/0tpMp5rcHYVqktOutXVIlr"
         }
       ],
-      "duration_ms": 245423,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
+      "duration_ms": 236066,
+      "name": "Shaky Friendship",
+      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2024-04-04 20:06:12",

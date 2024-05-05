@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 165788,
+  "2024-05-05": 165824,
   "date_first_scraped": "2022-04-22",
   "description": "Sangre fresca en las escenas del indie y el rock. Blnko en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
@@ -1023,6 +1023,32 @@
       "duration_ms": 134054,
       "name": "Centro",
       "url": "https://open.spotify.com/track/53LDMgLJp2dMJPCFM3bYrc"
+    },
+    {
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt"
     },
     {
       "album": {
@@ -3328,6 +3354,36 @@
     },
     {
       "album": {
+        "name": "Junto a Mi",
+        "url": "https://open.spotify.com/album/1TjUpLBVrDItGQ9EsQ05lg"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        },
+        {
+          "name": "Legna Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3KT60z0Op7S337GY46cXm4"
+        },
+        {
+          "name": "Banaz",
+          "url": "https://open.spotify.com/artist/3VxtjXd11hcGpPN0PynOWy"
+        },
+        {
+          "name": "Cellegrini",
+          "url": "https://open.spotify.com/artist/33O902wB6TsITgNYTTHAan"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Junto a Mi",
+      "url": "https://open.spotify.com/track/7nqHyPFnsV9brqNdcz7gg1"
+    },
+    {
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -3411,7 +3467,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 198053,
       "name": "La Final",
       "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
@@ -4922,6 +4978,32 @@
     },
     {
       "album": {
+        "name": "Muerte a Televisa",
+        "url": "https://open.spotify.com/album/4FMyQOyT9UY4Y2JojH6LdC"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118732,
+      "name": "Muerte a Televisa",
+      "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
+    },
+    {
+      "album": {
         "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
         "url": "https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl"
       },
@@ -5379,6 +5461,24 @@
       "duration_ms": 193260,
       "name": "No se te puede dejar nada",
       "url": "https://open.spotify.com/track/4ReVkUKWe2FP7JCgj3Ueff"
+    },
+    {
+      "album": {
+        "name": "No Te Puedo Adivinar",
+        "url": "https://open.spotify.com/album/5UqzecHK6Gy2RJijHYBlvC"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161769,
+      "name": "No Te Puedo Adivinar",
+      "url": "https://open.spotify.com/track/5IhZ3Wtp3gSjBhKd9hwVJH"
     },
     {
       "album": {
@@ -6221,7 +6321,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 220733,
       "name": "Respuesta Sensorial",
       "url": "https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN"
@@ -6345,7 +6445,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 136551,
       "name": "Sabinal",
       "url": "https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR"

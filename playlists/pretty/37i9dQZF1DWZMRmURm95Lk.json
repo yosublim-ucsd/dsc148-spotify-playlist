@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Jack The Smoker e Big Joe in cover.",
-  "num_followers": 40767,
+  "num_followers": 40788,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 280000,
       "name": "Svegliarsi a Roma",
       "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Dio lodato",
         "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 260183,
       "name": "Dio lodato per sta chanche",
       "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "107 Elementi",
         "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
       },
@@ -1847,38 +1863,6 @@
       "duration_ms": 277946,
       "name": "Non Tradire Mai",
       "url": "https://open.spotify.com/track/1oGtFD9p7zQrcMi8ii7vqn"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Ritorno",
         "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
       },
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "TRUENO",
         "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 154623,
       "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
       "url": "https://open.spotify.com/track/10waLSoAi6HzxMSP50jIRr"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2347,18 +2347,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+        "name": "Laid Back",
+        "url": "https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui"
       },
       "artists": [
         {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Aeroplani",
-      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
+      "duration_ms": 150000,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2379,6 +2383,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Aeroplani",
+      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2391,22 +2411,6 @@
       "duration_ms": 275202,
       "name": "Chi Paga",
       "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Il Cuore e la Fame (DIECI - Ten Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QWXBOg8iy3EWaDdRcCuuf"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/76sinETeaEjtUNckLTmVqe"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2427,22 +2431,18 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Laid Back",
-        "url": "https://open.spotify.com/album/3J8xm3EGgGjzCpkjUQ7Aui"
+        "name": "Il Cuore e la Fame (DIECI - Ten Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QWXBOg8iy3EWaDdRcCuuf"
       },
       "artists": [
         {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Laid Back",
-      "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
+      "duration_ms": 195666,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/76sinETeaEjtUNckLTmVqe"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2495,6 +2495,34 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "Moltisanti",
+      "url": "https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Qualcosa \u00e8 cambiato",
         "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
       },
@@ -2543,6 +2571,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "IL CUORE E LA FAME",
+        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "4 Secondi",
+      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2555,34 +2599,6 @@
       "duration_ms": 368156,
       "name": "Delle Volte",
       "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "Moltisanti",
-      "url": "https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2607,22 +2623,6 @@
       "duration_ms": 208666,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "IL CUORE E LA FAME",
-        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "4 Secondi",
-      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2659,22 +2659,6 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2719,6 +2703,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Spinaci",
         "url": "https://open.spotify.com/album/43jSDGMz2VFfF2MlnCcgch"
       },
@@ -2743,8 +2743,8 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Storia di Antonio",
-        "url": "https://open.spotify.com/album/3Cftc0M2ekbfYZdBnhU3rk"
+        "name": "Un giardino",
+        "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
       },
       "artists": [
         {
@@ -2752,13 +2752,13 @@
           "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
         },
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
         }
       ],
-      "duration_ms": 205806,
-      "name": "Storia di Antonio",
-      "url": "https://open.spotify.com/track/7GjFG5zQXYS1G23C4aS2Ry"
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -2863,8 +2863,8 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Un giardino",
-        "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
+        "name": "Storia di Antonio",
+        "url": "https://open.spotify.com/album/3Cftc0M2ekbfYZdBnhU3rk"
       },
       "artists": [
         {
@@ -2872,13 +2872,13 @@
           "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
         },
         {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         }
       ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
+      "duration_ms": 205806,
+      "name": "Storia di Antonio",
+      "url": "https://open.spotify.com/track/7GjFG5zQXYS1G23C4aS2Ry"
     },
     {
       "added_at": "2024-05-02 22:01:00",

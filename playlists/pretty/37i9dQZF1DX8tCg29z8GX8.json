@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14181,
+  "num_followers": 14189,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-05-02 23:00:27",
-      "album": {
         "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
         "url": "https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 285034,
       "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
+    },
+    {
+      "added_at": "2024-05-02 23:00:27",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2024-05-02 23:00:27",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-05-02 23:00:27",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
+    },
+    {
+      "added_at": "2024-05-02 23:00:27",
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2024-05-02 23:00:27",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1219,30 +1219,18 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
       "artists": [
         {
-          "name": "Omar Sterling",
-          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 164844,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1267,18 +1255,30 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+      "duration_ms": 164844,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2024-05-02 23:00:27",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 250920,
       "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-05-02 23:00:27",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1455,46 +1455,30 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt"
+        "name": "Zazazela (feat. Zaba)",
+        "url": "https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU"
       },
       "artists": [
         {
-          "name": "G-West",
-          "url": "https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ"
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
         },
         {
-          "name": "Ghanaian Stallion",
-          "url": "https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF"
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
         }
       ],
-      "duration_ms": 197857,
-      "name": "People Pleaser",
-      "url": "https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi"
-    },
-    {
-      "added_at": "2024-05-02 23:00:27",
-      "album": {
-        "name": "Undress You",
-        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Undress You",
-      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+      "duration_ms": 279971,
+      "name": "Zazazela (feat. Zaba)",
+      "url": "https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk"
     },
     {
       "added_at": "2024-05-02 23:00:27",
@@ -1523,6 +1507,30 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
+        "name": "Undress You",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Undress You",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "added_at": "2024-05-02 23:00:27",
+      "album": {
         "name": "Fly Girl",
         "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
       },
@@ -1543,30 +1551,26 @@
     {
       "added_at": "2024-05-02 23:00:27",
       "album": {
-        "name": "Zazazela (feat. Zaba)",
-        "url": "https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         },
         {
-          "name": "ZiiBeats",
-          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
-        },
-        {
-          "name": "Zaba",
-          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 279971,
-      "name": "Zazazela (feat. Zaba)",
-      "url": "https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     }
   ],
   "unique_name": "Troski Rhythms",

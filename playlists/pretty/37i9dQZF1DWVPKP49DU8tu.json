@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 355853,
+  "num_followers": 355858,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -175,22 +159,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -231,6 +211,26 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "La noia",
-        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "La noia",
-      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "La noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "La noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "TUTA GOLD",
-        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 178467,
-      "name": "TUTA GOLD",
-      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+        "name": "TUTA GOLD",
+        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
         }
       ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+      "duration_ms": 178467,
+      "name": "TUTA GOLD",
+      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 210541,
       "name": "Casa Mia",
       "url": "https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "UN RAGAZZO UNA RAGAZZA",
-        "url": "https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "UN RAGAZZO UNA RAGAZZA",
-      "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "UN RAGAZZO UNA RAGAZZA",
+        "url": "https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "UN RAGAZZO UNA RAGAZZA",
+      "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Vai!",
-        "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Vai!",
-      "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Vai!",
+        "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Vai!",
+      "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "APNEA",
         "url": "https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 180923,
       "name": "APNEA",
       "url": "https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "DUE ALTALENE",
-        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "DUE ALTALENE",
-      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "GOVERNO PUNK",
         "url": "https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 205312,
       "name": "GOVERNO PUNK",
       "url": "https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "DUE ALTALENE",
+        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Pazza",
-        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "Pazza",
-      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 249866,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 214926,
-      "name": "Scrivile Scemo",
-      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 207615,
       "name": "Un Briciolo Di Allegria (con MINA)",
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "La rabbia non ti basta",
-        "url": "https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle"
+        "name": "Phoenix (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
       },
       "artists": [
         {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 189406,
-      "name": "La rabbia non ti basta",
-      "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
+      "duration_ms": 191120,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

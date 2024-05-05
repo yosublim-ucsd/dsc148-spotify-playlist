@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 6163204,
+  "2024-05-05": 6163096,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
   "name": "Hit Rewind",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -4213,7 +4213,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"

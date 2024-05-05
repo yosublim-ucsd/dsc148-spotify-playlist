@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,031 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,060 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 58 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 59 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
 | 60 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
-| 61 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
-| 62 | [Les feuilles mortes](https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Chante Prevert](https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT) | 3:21 |
+| 61 | [Les feuilles mortes](https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Chante Prevert](https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT) | 3:21 |
+| 62 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
 | 63 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
-| 64 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 |
-| 65 | [Dès que j'te vois](https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 3:23 |
+| 64 | [Dès que j'te vois](https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 3:23 |
+| 65 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 |
 | 66 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 | 67 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
 | 68 | [Les amoureux des bancs publics](https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens interprète ses dernières compositions N°2](https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 49021,
+  "num_followers": 49046,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ahoy!",
-        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "Squirrel of Possibility",
-      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
         "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 86800,
       "name": "Cripple Creek",
       "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "Squirrel of Possibility",
+      "url": "https://open.spotify.com/track/6V25eJUQ6sBV6ONkC7LeFa"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -404,17 +404,13 @@
       },
       "artists": [
         {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "Dirk Powell",
+          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+      "duration_ms": 224186,
+      "name": "Susan's Gone",
+      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -456,13 +452,17 @@
       },
       "artists": [
         {
-          "name": "Dirk Powell",
-          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Susan's Gone",
-      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -591,38 +591,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -639,6 +607,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 351091,
       "name": "The Good, the Bad and the Ugly",
       "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Leaving Cottondale",
-      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Banjo Haiku",
         "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 110693,
       "name": "Julie Ann Johnson",
       "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Leaving Cottondale",
+      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Cellopickin'",
-        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
-      },
-      "artists": [
-        {
-          "name": "William Jack",
-          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Cellopickin'",
-      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -1319,18 +1287,34 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         }
       ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cellopickin'",
+        "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
+      },
+      "artists": [
+        {
+          "name": "William Jack",
+          "url": "https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Cellopickin'",
+      "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
       "artists": [
         {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 325013,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1723,26 +1723,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mashbluegrass D-28",
-        "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
+        "name": "My Place in the Sun",
+        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
       },
       "artists": [
         {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        },
-        {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
         }
       ],
-      "duration_ms": 495278,
-      "name": "Mashbluegrass D-28",
-      "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
+      "duration_ms": 226306,
+      "name": "Whiskerhead Goes to Leningrad",
+      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1767,18 +1759,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "My Place in the Sun",
-        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
+        "name": "Mashbluegrass D-28",
+        "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
       },
       "artists": [
         {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        },
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
         }
       ],
-      "duration_ms": 226306,
-      "name": "Whiskerhead Goes to Leningrad",
-      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
+      "duration_ms": 495278,
+      "name": "Mashbluegrass D-28",
+      "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
     },
     {
       "added_at": "2024-04-12 04:00:00",

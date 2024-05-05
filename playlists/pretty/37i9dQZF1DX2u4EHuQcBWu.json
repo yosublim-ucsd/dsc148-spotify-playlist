@@ -1,6 +1,6 @@
 {
   "description": "Somos un pueblo fuerte que no se calla \u270a\ud83c\udf0e",
-  "num_followers": 191318,
+  "num_followers": 191386,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Buscando America",
-        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 483360,
-      "name": "El Padre Antonio - Y El Monaguillo Andres",
-      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Yo Vivo en Esta Ciudad",
         "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 227093,
       "name": "La Marcha De La Bronca",
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Buscando America",
+        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 483360,
+      "name": "El Padre Antonio - Y El Monaguillo Andres",
+      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+        "name": "El Objeto Antes Llamado Disco",
+        "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Rompan Todo",
-      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
+      "duration_ms": 273946,
+      "name": "Zopilotes",
+      "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "El Objeto Antes Llamado Disco",
-        "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 273946,
-      "name": "Zopilotes",
-      "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
+      "duration_ms": 237080,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "2 de Octubre",
+      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Grita Tierra",
         "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "2 de Octubre",
-      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "El Largo Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
+      },
+      "artists": [
+        {
+          "name": "Claudio Narea",
+          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Rico el Pa\u00eds",
+      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 114781,
       "name": "Nada Es Verdad (Finale) / Spoken Words",
       "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "El Largo Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
-      },
-      "artists": [
-        {
-          "name": "Claudio Narea",
-          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rico el Pa\u00eds",
-      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     },
     {
       "added_at": "2023-10-13 03:00:00",

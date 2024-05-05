@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-890 songs - 2 day 5 hr 59 min
+891 songs - 2 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Coming On Strong \- Trance Mix](https://open.spotify.com/track/4yozY8jbqO4L7Y8QRhH8sY) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Paul Findlay](https://open.spotify.com/artist/5PmrFNfi36ip2rjbGyY0AL), [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong \(Trance Mix\)](https://open.spotify.com/album/3OkNj45Dddtepk0AJECdKt) | 2:56 | 2024-02-23 |  |
 | [Coming Up \(Hold On\)](https://open.spotify.com/track/5JamVoaV0pgr8K90T93Phk) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Coming Up \(Hold On\)](https://open.spotify.com/album/5d82RvjKS1KqBpiuGb3ksx) | 4:16 | 2022-11-11 | 2022-12-16 |
 | [Completely](https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Completely](https://open.spotify.com/album/1oBKnCIdeXJqHN13zDNDoO) | 2:49 | 2022-03-25 | 2022-10-08 |
-| [Concentrate](https://open.spotify.com/track/1AO8Yfpq0V9LmFy5sIUOSm) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Concentrate](https://open.spotify.com/album/4c6mrmetESg9RbB1oie3HW) | 3:54 | 2023-07-21 |  |
+| [Concentrate](https://open.spotify.com/track/1AO8Yfpq0V9LmFy5sIUOSm) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Concentrate](https://open.spotify.com/album/4c6mrmetESg9RbB1oie3HW) | 3:54 | 2023-07-21 | 2024-05-05 |
 | [Confession](https://open.spotify.com/track/0sKJQ38BIstZUFXihXB4rU) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Confession](https://open.spotify.com/album/4toXocV8ZrRUSjvkeG26Fr) | 2:47 | 2023-08-04 |  |
 | [Connect](https://open.spotify.com/track/5hsZSzw7EVCbo1LHfC6PjO) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Connect](https://open.spotify.com/album/0XslhPY02zCbmuL0KtVFVT) | 3:19 | 2023-04-29 |  |
 | [Connected](https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid) | [Connected](https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu) | 3:33 | 2022-01-21 | 2023-02-25 |
@@ -811,6 +811,7 @@
 | [To The Moon](https://open.spotify.com/track/1v51csio3TbXknsqqvn6LL) | [Dominant Space](https://open.spotify.com/artist/1q2tLeClILAf7olhIJEeHV), [Discordia](https://open.spotify.com/artist/1lndaI4imQpxWI99hs6xLS) | [To The moon](https://open.spotify.com/album/1K8WzT2VQhHBeZXf7Y3X0f) | 3:25 | 2022-04-29 | 2022-05-03 |
 | [To The Stars \(A Dreamstate Anthem\)](https://open.spotify.com/track/4dlXQpecT7DNVqhy4G8ZID) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [To The Stars \(A Dreamstate Anthem\)](https://open.spotify.com/album/75B8cCnQthSrAjHkropoYm) | 3:42 | 2023-04-07 | 2024-02-17 |
 | [Today](https://open.spotify.com/track/79UxTfv0TRgly553eiphBt) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Today](https://open.spotify.com/album/3iCgYS2lyCQI71zlvQrgOJ) | 3:35 | 2023-03-10 | 2023-05-20 |
+| [Together Forever](https://open.spotify.com/track/5kgPGFORn3jYjQXmvJzJ58) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [ThoBa](https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd) | [Together Forever](https://open.spotify.com/album/32PNO3ivzTh9bQK2roHY6Q) | 4:04 | 2024-05-03 |  |
 | [Together We Rise](https://open.spotify.com/track/2Rqh32KeH2fB7RaKmXcVWL) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Together We Rise](https://open.spotify.com/album/78ib4pW80u75tuZBLCiQ17) | 3:22 | 2023-01-20 | 2023-11-16 |
 | [Torture](https://open.spotify.com/track/0nozR3GQJtFFjbEXQ1hGvy) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Torture](https://open.spotify.com/album/5QY3N522X0F33GXdGnMAoo) | 3:11 | 2022-04-08 | 2023-04-09 |
 | [Touch The Sky](https://open.spotify.com/track/2XbWo6a2g3MhkXsJyesWjG) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf), [MALENE](https://open.spotify.com/artist/4C65Z3y8cZMzGj3XHRi3E1) | [Suanda Music Radio Top 20 \(April 2022\)](https://open.spotify.com/album/1L5cntE7pAd1TscuYqBuwk) | 2:55 | 2022-04-22 | 2023-03-05 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 ### [This Is Senses Fail](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31u6DZ)
 
-> This Is Senses Fail\. Los temas esenciales, todos en una lista.
+> This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,802 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 10 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 |
 | 11 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/0vMvw4gKlM59AGO61KRnT7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:43 |
 | 12 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 |
-| 13 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 |
-| 14 | [Sick or Sane \(Fifty for a Twenty\)](https://open.spotify.com/track/29OR8OdN52TGvfzmIJLkIj) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 2:45 |
+| 13 | [Sick or Sane \(Fifty for a Twenty\)](https://open.spotify.com/track/29OR8OdN52TGvfzmIJLkIj) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 2:45 |
+| 14 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 |
 | 15 | [Lady in a Blue Dress](https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 3:18 |
 | 16 | [Lungs Like Gallows](https://open.spotify.com/track/7CQIwk5PSSVSB8sdJKZYbz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:20 |
-| 17 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 |
-| 18 | [The Priest and the Matador](https://open.spotify.com/track/1c65Bhl4i5mUmrSEfD75HJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 4:21 |
+| 17 | [The Priest and the Matador](https://open.spotify.com/track/1c65Bhl4i5mUmrSEfD75HJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 4:21 |
+| 18 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 |
 | 19 | [You're Cute When You Scream](https://open.spotify.com/track/5yPIfd3L1qNuruNs4BaQSI) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:25 |
-| 20 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 |
-| 21 | [Wolves at the Door](https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:27 |
-| 22 | [Every Day Is a Struggle](https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 3:04 |
+| 20 | [Wolves at the Door](https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:27 |
+| 21 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 |
+| 22 | [If There is Light, It Will Find You](https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 6:17 |
 | 23 | [NJ Falls Into the Atlantic](https://open.spotify.com/track/666IN8CY7vEX1Hzto5ZxIV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 3:48 |
-| 24 | [If There is Light, It Will Find You](https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 6:17 |
+| 24 | [Every Day Is a Struggle](https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 3:04 |
 | 25 | [Four Years](https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 4:15 |
 | 26 | [Still Searching](https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 4:18 |
 | 27 | [End of the World/A Game of Chess](https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 49 | [In Your Absence](https://open.spotify.com/track/7ougGsLXXBTJU13WFOE6W7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [In Your Absence](https://open.spotify.com/album/3UirsR8nqi8bDfjDzFUUR8) | 3:20 |
 | 50 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
 
-Snapshot ID: `ZjLXgAAAAACU309WoGr1UE4O8WB0ZDQM`
+Snapshot ID: `ZjQpAAAAAAAbW+/OSkf5JfU0Vb230tR7`

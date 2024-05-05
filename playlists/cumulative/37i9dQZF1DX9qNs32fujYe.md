@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-867 songs - 2 day 16 hr 0 min
+868 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Bliss](https://open.spotify.com/track/6dbruyCMT67nVbPvMiz07U) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Bliss](https://open.spotify.com/album/1cJgIaKTSOnv35U8QhFxJA) | 4:12 | 2022-04-08 | 2022-07-27 |
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-08-12 |  |
 | [Blood from Above](https://open.spotify.com/track/3OzBsTYpopjRDRwcoC0Cpw) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Blood from Above](https://open.spotify.com/album/1nbTmFgmG415Yl9bZlMMII) | 3:21 | 2022-03-22 | 2022-04-15 |
-| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 |  |
+| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2024-05-05 |
 | [Blood of the Levant](https://open.spotify.com/track/0PoMcX0HyQDLndrGMaFT2z) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Blood of the Levant](https://open.spotify.com/album/2fU5qEnXRpkEfHIhewAqoL) | 3:27 | 2022-01-28 | 2022-04-15 |
 | [Bloodheads United](https://open.spotify.com/track/6OzJLdiJV3jGUI6dE9YwvS) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Bloodheads United](https://open.spotify.com/album/5QeGSkkZ9J7KzYqBGOMx5J) | 5:20 | 2022-01-07 | 2022-05-25 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2021-12-17 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Burn in Hell](https://open.spotify.com/track/64SX0Q9EM9HIRSb8HXy059) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Burn in Hell](https://open.spotify.com/album/6aZDFczcI6rfSIdBJUoWyh) | 4:18 | 2021-12-17 | 2022-05-31 |
 | [Burning Heart](https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Burning Heart](https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J) | 5:55 | 2024-03-22 |  |
 | [Burning Times](https://open.spotify.com/track/3jq0ula2HD54lHumVcEx8b) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Blessed And The Damned](https://open.spotify.com/album/3Cg1jiRfFHatnPx40pqGL3) | 3:43 | 2022-03-22 | 2022-06-21 |
+| [Butterfly](https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Butterfly](https://open.spotify.com/album/1yImqDY0D5RKThLhZlONAH) | 3:08 | 2024-05-03 |  |
 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 | 2023-10-27 |  |
 | [California](https://open.spotify.com/track/5hs7EN2e47VSzJhIiSGR9j) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Clear Cold Beyond](https://open.spotify.com/album/5udxJVHVFuD35pKn9Oh2X3) | 4:25 | 2024-03-08 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-08-19 | 2023-02-11 |

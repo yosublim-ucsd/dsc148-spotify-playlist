@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,045 likes - 70 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,077 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 30 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 31 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 32 | [Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:24 |
-| 33 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
-| 34 | [Four to the Floor \- Thin White Duke Mix; Short Version](https://open.spotify.com/track/0Hx249i8UGY4cWLjmo1eIH) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Four To The Floor](https://open.spotify.com/album/6UXbFDhwOmwxVBFJPC0L3x) | 4:40 |
+| 33 | [Four to the Floor \- Thin White Duke Mix; Short Version](https://open.spotify.com/track/0Hx249i8UGY4cWLjmo1eIH) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Four To The Floor](https://open.spotify.com/album/6UXbFDhwOmwxVBFJPC0L3x) | 4:40 |
+| 34 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 35 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 36 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 37 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
 | 38 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
 | 39 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
-| 40 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
-| 41 | [Talisman](https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:16 |
+| 40 | [Talisman](https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:16 |
+| 41 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
 | 42 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
 | 43 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 44 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 58 | [Bentley's Gonna Sort You Out](https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA) | [Bentley Rhythm Ace](https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk) | [BRA](https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O) | 5:07 |
 | 59 | [Ordinary Pleasure](https://open.spotify.com/track/5MhdCkaa1vj51vaFTc3qia) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/1k6jh0c0c0mMCXPGT5D8LY) | 3:03 |
 | 60 | [Divine](https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 3:08 |
-| 61 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
-| 62 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
+| 61 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
+| 62 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
 | 63 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
 | 64 | [Drop The Pressure](https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:15 |
-| 65 | [Never Come Back](https://open.spotify.com/track/6u6gr3d6ZjBU79beyZcKOH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/2vd7zTZKzRYcpemh2tRCj4) | 5:05 |
+| 65 | [Home](https://open.spotify.com/track/2Q4RCXUENndsGZGyLfWikY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/2vd7zTZKzRYcpemh2tRCj4) | 2:36 |
 | 66 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |
 | 67 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
 | 68 | [Drops](https://open.spotify.com/track/7gxoYIY8Wqgdg7tQs17paE) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Platoon / Drops](https://open.spotify.com/album/1sLXks5C3euL9giDEpvNVB) | 2:51 |

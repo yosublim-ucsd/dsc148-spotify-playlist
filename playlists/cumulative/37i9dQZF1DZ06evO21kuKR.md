@@ -4,7 +4,7 @@
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 24 min
+95 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 | 2022-10-28 | 2023-05-31 |
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-10-28 | 2023-09-03 |
 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 | 2022-10-28 |  |
+| [TRYNA MAKE SURE](https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z) | 2:46 | 2024-05-05 |  |
 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 | 2024-02-17 |  |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-03-03 |  |
 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 | 2022-10-28 |  |

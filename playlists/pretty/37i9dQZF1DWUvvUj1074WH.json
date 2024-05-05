@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 179815,
+  "num_followers": 179949,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -391,22 +407,6 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Mil Siluetas",
-        "url": "https://open.spotify.com/album/5ceH4FeKHP9o2mautX4K9t"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/2hConpLOB6gmyM8vDkVOof"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "From Chaos",
         "url": "https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 206973,
       "name": "Amber",
       "url": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Mil Siluetas",
+        "url": "https://open.spotify.com/album/5ceH4FeKHP9o2mautX4K9t"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/2hConpLOB6gmyM8vDkVOof"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Defecto Perfecto",
         "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "Beber de Tu Sangre",
-      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "A Flock Of Seagulls (Deluxe)",
         "url": "https://open.spotify.com/album/4PBrFxguHrtne9aVbwWTh1"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 221798,
       "name": "I Ran (So Far Away) - Single Edit",
       "url": "https://open.spotify.com/track/0nIDF0qdk5iAIla7rZxxys"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+        }
+      ],
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Caja de Canciones",
         "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
@@ -2119,6 +2103,38 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 235026,
       "name": "Missing - Todd Terry Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2183,34 +2183,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns"
       },
       "artists": [
         {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 158253,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Solos en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 294973,
-      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg"
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2227,6 +2211,22 @@
       "duration_ms": 594453,
       "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+        }
+      ],
+      "duration_ms": 294973,
+      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg"
     },
     {
       "added_at": "2023-11-10 17:30:38",

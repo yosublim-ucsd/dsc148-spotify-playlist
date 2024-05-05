@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 303839,
+  "num_followers": 303843,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "ver2igo vol. 2",
-        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196456,
-      "name": "Pillow In My Arms",
-      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1279,6 +1247,38 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "ver2igo vol. 2",
+        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 196456,
+      "name": "Pillow In My Arms",
+      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
+      },
+      "artists": [
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "B-A-B-Y",
+      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -2075,22 +2091,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Carla",
-        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
-      },
-      "artists": [
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "B-A-B-Y",
-      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "BS",
         "url": "https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6"
       },
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 157220,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Feargal Sharkey",
         "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 281800,
       "name": "A Good Heart",
       "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 157220,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Eleven",
-      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 182497,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
     },
     {
       "added_at": "2024-04-05 00:00:00",

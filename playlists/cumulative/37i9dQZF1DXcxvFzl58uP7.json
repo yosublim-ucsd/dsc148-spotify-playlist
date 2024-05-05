@@ -11045,6 +11045,24 @@
     },
     {
       "album": {
+        "name": "Nothing 2 See",
+        "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220499,
+      "name": "Nothing 2 See",
+      "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
+    },
+    {
+      "album": {
         "name": "Nothing in Return",
         "url": "https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1"
       },
@@ -13462,7 +13480,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"

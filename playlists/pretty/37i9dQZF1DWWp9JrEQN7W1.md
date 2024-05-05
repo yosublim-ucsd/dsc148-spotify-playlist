@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 
 > listen to emma's getting ready playlist for this year's Met Gala\. Cover: anything goes host, emma chamberlain
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,848 likes - 31 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,913 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

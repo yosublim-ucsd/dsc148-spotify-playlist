@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,693 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,716 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 47 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 48 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 |
 | 49 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
-| 50 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
-| 51 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 |
+| 50 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 |
+| 51 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
 | 52 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
 | 53 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 |
 | 54 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |

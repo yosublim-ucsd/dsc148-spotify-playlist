@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,027 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,200 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 5 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 6 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 |
 | 7 | [Oogum Boogum Song](https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 3:06 |
-| 8 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
-| 9 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 8 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 9 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 10 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 |
 | 11 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
 | 12 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 84 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
 | 85 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 86 | [Smile Now, Cry Later](https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF) | [Sunny Ozuna And Sunliners](https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 4](https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8) | 2:00 |
-| 87 | [Daddy's Home](https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Daddy's Home: The Very Best Of Shep & The Limelites](https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr) | 2:47 |
-| 88 | [The Town I Live In](https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE) | [Thee Midniters](https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23) | [Greatest Slow Jams](https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw) | 3:18 |
+| 87 | [The Town I Live In](https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE) | [Thee Midniters](https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23) | [Greatest Slow Jams](https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw) | 3:18 |
+| 88 | [Daddy's Home](https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Daddy's Home: The Very Best Of Shep & The Limelites](https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr) | 2:47 |
 | 89 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
 | 90 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 |
 | 91 | [It's Gonna Take a Miracle](https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Deniece Williams \(The Columbia Years\)](https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv) | 4:10 |

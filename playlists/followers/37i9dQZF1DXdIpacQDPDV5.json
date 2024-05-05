@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 305905,
+  "2024-05-05": 305928,
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Justice",
+  "description": "The best of today's dance hits. Cover: Majestic, The Jammin Kid, and C\u00e9line Dion",
   "name": "mint Canada",
   "tracks": [
     {
@@ -3439,7 +3439,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
@@ -5044,6 +5044,28 @@
     },
     {
       "album": {
+        "name": "dive /stay/",
+        "url": "https://open.spotify.com/album/40F183249X27nHVY2QmCal"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "emma l\u00f8v",
+          "url": "https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185551,
+      "name": "dive /stay/",
+      "url": "https://open.spotify.com/track/41nkDiPZ1lOq90wnmJoL1L"
+    },
+    {
+      "album": {
         "name": "THINGS CHANGED",
         "url": "https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa"
       },
@@ -6601,7 +6623,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 247741,
       "name": "EYES",
       "url": "https://open.spotify.com/track/5VcDR60KUX1RQhBhNvGsvT"
@@ -9925,7 +9947,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
@@ -12567,7 +12589,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -15261,7 +15283,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
@@ -16042,6 +16064,28 @@
     },
     {
       "album": {
+        "name": "Not Giving You Up (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226453,
+      "name": "Not Giving You Up - Vandelux Remix",
+      "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
+    },
+    {
+      "album": {
         "name": "Not Over Yet (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
       },
@@ -16619,6 +16663,24 @@
       "duration_ms": 169655,
       "name": "On + On (with Justine Skye)",
       "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
+    },
+    {
+      "album": {
+        "name": "On Again",
+        "url": "https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "On Again",
+      "url": "https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"
     },
     {
       "album": {
@@ -17219,7 +17281,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
@@ -17491,7 +17553,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
@@ -19027,6 +19089,24 @@
     {
       "album": {
         "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168199,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/1oLDHF4F3E3HfdcOAMytuF"
       },
       "artists": [
@@ -19049,6 +19129,24 @@
       "duration_ms": 150622,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/1D643xL28RupQU5Ze9sH8P"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "album": {
@@ -19191,7 +19289,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 355879,
       "name": "Roar",
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
@@ -20273,6 +20371,32 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
       "album": {
@@ -21471,7 +21595,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
@@ -23766,6 +23890,24 @@
     },
     {
       "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK"
       },
@@ -25036,6 +25178,28 @@
     },
     {
       "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+    },
+    {
+      "album": {
         "name": "Flaws in Our Design",
         "url": "https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso"
       },
@@ -25059,6 +25223,32 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "album": {
+        "name": "Warmth (feat. Jono Dorr)",
+        "url": "https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        },
+        {
+          "name": "Jono Dorr",
+          "url": "https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219289,
+      "name": "Warmth (feat. Jono Dorr)",
+      "url": "https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv"
     },
     {
       "album": {

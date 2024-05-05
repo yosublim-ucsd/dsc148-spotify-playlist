@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 479646,
+  "description": "This is Black Eyed Peas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 479773,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACY05WRDgi0yIp8oMkW94AL",
+  "snapshot_id": "ZjQpAAAAAAAkp+BUFcDuSxykbzzRb5fr",
   "tracks": [
     {
       "added_at": null,
@@ -95,38 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Let's Get It Started - Spike Mix",
-      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Meet Me Halfway",
-      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -147,6 +115,38 @@
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 239773,
-      "name": "Don't Phunk With My Heart",
-      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
+      "duration_ms": 326960,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 326960,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
+      "duration_ms": 239773,
+      "name": "Don't Phunk With My Heart",
+      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "added_at": null,

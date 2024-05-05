@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 111927,
+  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
+  "num_followers": 112240,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADmiYY4wkt7tcaG0fR73Z2l",
+  "snapshot_id": "ZjQpAAAAAABXNkLzCLvgaqkPIX1PWzxh",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 205681,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 185738,
       "name": "Y Me Ver\u00e1n",
       "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 205681,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
     },
     {
       "added_at": null,

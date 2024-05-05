@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 ### [This Is Rina Sawayama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy)
 
-> This Is Rina Sawayama\. Los temas esenciales, todos en una lista.
+> This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,379 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,383 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,18 +31,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 21 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 22 | [Your Age](https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:54 |
 | 23 | [Cyber Stockholm Syndrome](https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:41 |
-| 24 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
+| 24 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 25 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 26 | [Catch Me In The Air](https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:35 |
 | 27 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
-| 28 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
+| 28 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
 | 29 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 |
 | 30 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
-| 31 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
+| 31 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 | 32 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 | 33 | [Bees & Honey \(Bonus Track\)](https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 1:46 |
 | 34 | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO) | 3:27 |
-| 35 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
+| 35 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 36 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 
-Snapshot ID: `ZjLXgAAAAAAp7iKOg76TsFbEIicMNF7a`
+Snapshot ID: `ZjQpAAAAAAASPZMR/dITJQsE3LSv0G2q`

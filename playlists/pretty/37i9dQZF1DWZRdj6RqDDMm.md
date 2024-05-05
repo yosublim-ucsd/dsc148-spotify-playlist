@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,479 likes - 101 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,942 likes - 101 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

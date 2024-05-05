@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Mike Shabb & Boldy James
 
-1,469 songs - 2 day 20 hr 1 min
+1,470 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [FALLEN STAR \(feat\. Y2K\)](https://open.spotify.com/album/25mw8OfaL2uShDPDb9Oieg) | 2:31 | 2022-04-29 | 2022-09-10 |
 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 | 2023-07-04 |  |
 | [Fam Without Blood](https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Fam Without Blood](https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k) | 3:01 | 2022-12-09 | 2023-03-25 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-04 |  |
 | [FAMOUS.](https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [FAMOUS.](https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG) | 1:55 | 2024-04-19 |  |
 | [Fast Life](https://open.spotify.com/track/6qv2lBdSdFof7UY0FLQMvu) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Fast Life](https://open.spotify.com/album/5w5Qyq7m9ZpQPmoRPx0IkF) | 1:55 | 2022-01-07 | 2022-03-05 |
 | [Fast Route](https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Fast Route](https://open.spotify.com/album/2pBXTzlMiG0H7o4koiswWy) | 2:59 | 2023-06-09 | 2023-07-15 |
@@ -1236,7 +1237,7 @@
 | [Sunday](https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Sunday](https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn) | 2:36 | 2023-02-10 | 2023-03-18 |
 | [Sunday Sessions](https://open.spotify.com/track/1cEJtvzcCX8eJjTLwqk0Gb) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Saxon Davis](https://open.spotify.com/artist/3S0FrAbzZIC0CUELVbkpa7) | [Sunday Sessions](https://open.spotify.com/album/2ceaCXh19Vnh4JoW8x1Jld) | 3:00 | 2023-02-24 | 2023-03-18 |
 | [Sunset Silhouette](https://open.spotify.com/track/00EWIuH62u7J34Lrk8ZaG8) | [GABI.](https://open.spotify.com/artist/7GJYItBw6A5skqnKs9Bbrz) | [Sunset Silhouette](https://open.spotify.com/album/5T0lPGzGye9OrqxjA07xOX) | 2:15 | 2022-08-05 | 2022-09-24 |
-| [Super Saiyan](https://open.spotify.com/track/6RXRqwUJRbz4RgJtXjdfuP) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ) | [Super Saiyan](https://open.spotify.com/album/5HG2iYM4rAA4H1b0jxpafa) | 2:00 | 2024-03-22 |  |
+| [Super Saiyan](https://open.spotify.com/track/6RXRqwUJRbz4RgJtXjdfuP) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ) | [Super Saiyan](https://open.spotify.com/album/5HG2iYM4rAA4H1b0jxpafa) | 2:00 | 2024-03-22 | 2024-05-05 |
 | [Superstar](https://open.spotify.com/track/32rBvMpfQntbWgRYY9msI6) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Dopeboy Melodies](https://open.spotify.com/album/6wZioUy0Whb95Men80cvit) | 2:29 | 2023-06-16 | 2023-09-02 |
 | [Superstar](https://open.spotify.com/track/0VWqFk6vPwmFirhZiF9tLx) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Superstar](https://open.spotify.com/album/6v2VAEBNxUZsDwYO99VTea) | 3:04 | 2022-01-07 | 2022-01-22 |
 | [Supply & Demand](https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Harsh Likhari](https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf) | [Supply & Demand](https://open.spotify.com/album/3ApvAZdo5jth2o0jb8Z7bO) | 2:33 | 2024-04-12 |  |

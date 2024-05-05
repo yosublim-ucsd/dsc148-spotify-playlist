@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,016 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,069 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 60 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 61 | [Entre fantasmas](https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Alo con las islas mutantes?](https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM) | 3:07 |
 | 62 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
-| 63 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
-| 64 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 63 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 64 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
 | 65 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 66 | [Rudi Not Dead](https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 4:26 |
-| 67 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
-| 68 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
+| 67 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
+| 68 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 69 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
 | 70 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
 | 71 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 94 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
 | 95 | [Mezcal](https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Mezcal](https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL) | 3:15 |
 | 96 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 97 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 |
-| 98 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
+| 97 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
+| 98 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 |
 | 99 | [Me Va A Castigar El Señor](https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 3:05 |
 | 100 | [Crimen en el Paraíso](https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Crimen en el Paraíso](https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3) | 3:32 |
 

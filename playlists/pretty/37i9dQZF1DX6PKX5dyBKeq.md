@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: K\-Trap & Blade Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,845 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,978 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 46 | [Holman Road](https://open.spotify.com/track/7wfsK4poDPV4Zid5UoAEF6) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Holman Road](https://open.spotify.com/album/5VrV9zcPVfI1qQEuR3NAme) | 2:32 |
 | 47 | [GBG \(Always Us\)](https://open.spotify.com/track/4U2RFswBperWBAftJBiEPH) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Snoop](https://open.spotify.com/artist/5rsSRuBUp9uGvWYSquN5I2) | [GBG \(Always Us\)](https://open.spotify.com/album/4MAptByx3bPT1GX2yPNOxp) | 2:30 |
 | 48 | [Sweet Boys Turned Sour](https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ) | [Sweet Boys Turned Sour](https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn) | 3:12 |
-| 49 | [WOW](https://open.spotify.com/track/7ezqWiO4OTxHg5EJmdFnWm) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [WOW](https://open.spotify.com/album/2rfzTU6eD889ohkn7XEtXv) | 2:30 |
+| 49 | [WOW](https://open.spotify.com/track/7ezqWiO4OTxHg5EJmdFnWm) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [WOW](https://open.spotify.com/album/2rfzTU6eD889ohkn7XEtXv) | 2:32 |
 | 50 | [Estelle](https://open.spotify.com/track/4pBMyDlaR7QvpgiY8i2pwg) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Estelle](https://open.spotify.com/album/43AccPi6GkAdbPJ5EXSbG9) | 3:13 |
 | 51 | [Let Me Go](https://open.spotify.com/track/4JSIdY48x13cug0R6QDjCH) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Let Me Go/Protagonist](https://open.spotify.com/album/1Kuus9GLAdsUA1THw8WyLn) | 2:22 |
 | 52 | [IT'S THAT REAL](https://open.spotify.com/track/2mp0MixDsimQHsEtUZERLG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [IT'S THAT REAL](https://open.spotify.com/album/4Xgm72a1q4DJLepVWIG8vj) | 2:21 |
 | 53 | [Marathon](https://open.spotify.com/track/5cwrQTTQ08JwwF8qZV5i3M) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Reflection](https://open.spotify.com/album/7hTRt1r8CvY0UFxdlLuhDt) | 2:03 |
-| 54 | [Lyrics Galore](https://open.spotify.com/track/2AhMDVUcUv2cNBEe5XuBkF) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Lyrics Galore](https://open.spotify.com/album/1boqk2nCWCW02CPOY3uejT) | 3:36 |
+| 54 | [Lyrics Galore](https://open.spotify.com/track/2AhMDVUcUv2cNBEe5XuBkF) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Lyrics Galore](https://open.spotify.com/album/1boqk2nCWCW02CPOY3uejT) | 3:35 |
 | 55 | [NPCs](https://open.spotify.com/track/6rxuCF3H8CXQpWD3BpUuoq) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [NPCs](https://open.spotify.com/album/2KV9fCuUTvwJktIO8JjGHI) | 2:30 |
 | 56 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 |
 | 57 | [Get It](https://open.spotify.com/track/1ThWxydRaJ4yirWgfrpceH) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Get It](https://open.spotify.com/album/7DcwHUhLixUTkCIHHZ0aMQ) | 2:39 |

@@ -2,14 +2,15 @@
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This Is Ryan Adams\. Los temas esenciales, todos en una lista.
+> This is Ryan Adams\. Todos os maiores hits em uma só playlist.
 
-200 songs - 12 hr 10 min
+201 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 Days \- Live at Carnegie Hall, May 14\. 2022](https://open.spotify.com/track/0701MUEpMENWGuyYIW1IvP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall](https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q) | 3:41 | 2023-08-30 | 2024-01-03 |
 | [About Time](https://open.spotify.com/track/5K8ESonoHA1Lq9MBpMiv59) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:52 | 2022-04-09 | 2022-06-21 |
+| [Achin' to Be \- Live from Minneapolis, MN\. 2022.](https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Achin' to Be \(Live from Minneapolis, MN\. 2022\)](https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j) | 3:55 | 2024-05-05 |  |
 | [Aching for More](https://open.spotify.com/track/2xw0QgtPR8eqkizBgLNOX6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 4:07 | 2022-04-05 | 2022-08-05 |
 | [Alien USA](https://open.spotify.com/track/1LjsfbacoQ73oRJ24YxiBh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:39 | 2022-11-06 | 2023-02-13 |
 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 | 2022-01-11 |  |
@@ -62,7 +63,7 @@
 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 | 2022-05-14 | 2024-01-04 |
 | [Dreaming You Backwards](https://open.spotify.com/track/3w0cpiarWDuGq9bIcTIdR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/1UiJFcBpvdq5uGXt363HGO) | 3:04 | 2023-12-18 | 2024-01-01 |
 | [Earthquake](https://open.spotify.com/track/7rhBzg6Lm93bXWcpQ4s0pA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:06 | 2022-05-23 | 2022-08-21 |
-| [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 | 2022-01-11 |  |
+| [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 | 2022-01-11 | 2024-05-05 |
 | [Everybody Knows](https://open.spotify.com/track/0pl0QFnT982MoMkNOG7Jhu) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/2mLIJwfgNPGjpuKaN7njPm) | 2:25 | 2022-08-16 | 2022-10-09 |
 | [Everybody Knows](https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:25 | 2022-01-11 |  |
 | [Eyes on the Door](https://open.spotify.com/track/2OWsyTqwcpdqcjlPN838pR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 3:14 | 2022-11-08 | 2023-02-06 |

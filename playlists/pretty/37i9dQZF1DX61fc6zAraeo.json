@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98398,
+  "num_followers": 98404,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
       },
       "artists": [
         {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+      "duration_ms": 165845,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -935,22 +951,6 @@
       "duration_ms": 147253,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 165845,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 183495,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Exceso (feat. GALE)",
+        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 142829,
+      "name": "Exceso (feat. GALE)",
+      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Exceso (feat. GALE)",
-        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 142829,
-      "name": "Exceso (feat. GALE)",
-      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Pretty Little Lies",
         "url": "https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 135483,
       "name": "Pretty Little Lies",
       "url": "https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         },
         {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
         }
       ],
-      "duration_ms": 156093,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
+      "duration_ms": 162222,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 162712,
       "name": "Got a Friend",
       "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Sary",
-          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Ripped",
-        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
-      },
-      "artists": [
-        {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Ripped",
-      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Stand In Line",
         "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 185451,
       "name": "Stand In Line",
       "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Ripped",
+        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Ripped",
+      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1975,18 +1975,30 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+        "name": "Slowly Going Crazy (feat. EKE)",
+        "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
       },
       "artists": [
         {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Tomhio",
+          "url": "https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7"
+        },
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
+      "duration_ms": 147187,
+      "name": "Slowly Going Crazy (feat. EKE)",
+      "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
     }
   ],
   "unique_name": "Power Up!",

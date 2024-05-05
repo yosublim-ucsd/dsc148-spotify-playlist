@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 1752366,
+  "2024-05-05": 1752309,
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tems",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tommy Richman",
   "name": "Channel-X",
   "tracks": [
     {
@@ -479,6 +479,28 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189867,
+      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
+      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "album": {
@@ -4434,6 +4456,24 @@
     },
     {
       "album": {
+        "name": "Forbidden Fruit",
+        "url": "https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -7440,6 +7480,24 @@
     },
     {
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
+    },
+    {
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
       },
@@ -10129,7 +10187,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 121602,
       "name": "put yo gun 2 use ontheradar freestyle",
       "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
@@ -12901,7 +12959,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224675,
       "name": "Touchin\u2019 (feat. Busta Rhymes)",
       "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
@@ -13397,6 +13455,28 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "album": {
+        "name": "Vision (Remix)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision - Remix",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "album": {

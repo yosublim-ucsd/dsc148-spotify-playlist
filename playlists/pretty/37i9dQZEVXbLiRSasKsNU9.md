@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761,014 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,761,047 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 50 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 |
 
-Snapshot ID: `LchJwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

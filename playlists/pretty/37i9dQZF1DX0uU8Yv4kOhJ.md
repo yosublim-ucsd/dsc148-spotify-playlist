@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,218 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,220 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 18 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 19 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 20 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
-| 21 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
-| 22 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
+| 21 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
+| 22 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
 | 23 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
 | 24 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 25 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 35 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
 | 36 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
 | 37 | [Moniquita](https://open.spotify.com/track/4n8vzejAyE5lAl69es7jgs) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Carlos Cruzalegui](https://open.spotify.com/artist/0ZQlapKWlxWVqzNldGL4MU) | [Moniquita](https://open.spotify.com/album/3mnvaPy6diYKu0pZJ4SnOk) | 3:00 |
-| 38 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
-| 39 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
+| 38 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
+| 39 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
 | 40 | [Trote de Enquelga](https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD) | [Los Curacas](https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 2](https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D) | 2:29 |
 | 41 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
 | 42 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 |

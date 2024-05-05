@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > \(vcs pediram ela dropou\) flora matos É AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,566 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,423 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 22 | [Ligação Estranha](https://open.spotify.com/track/09eq5K8laQhnASfzw6Ewgi) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 4:20 |
 | 23 | [Papo dos mais velho](https://open.spotify.com/track/0au2K6tHdZlvYntgfOjnIA) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Papo dos mais velho](https://open.spotify.com/album/3m7xRn77vFfd6KhNF9S8PP) | 3:59 |
 | 24 | [Primeiro Lugar do Pódio](https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5) | [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Primeiro Lugar do Pódio](https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ) | 2:03 |
-| 25 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 25 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
 | 26 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 |
 | 27 | [Mundo da lua](https://open.spotify.com/track/7f3uGk70qlfUrX1n3nvSRC) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [O inquilino](https://open.spotify.com/album/0w5CdIH3n8venOuphx13yZ) | 2:34 |
 | 28 | [Tocaia](https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Tocaia](https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq) | 3:18 |

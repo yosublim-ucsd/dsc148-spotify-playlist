@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,795 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,954 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [baby](https://open.spotify.com/track/0Crp2H6SCmv5ZomBW3Kqae) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [baby](https://open.spotify.com/album/4qoGKNSazyc7sPavUG3uQ6) | 3:14 |
 | 2 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 3 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 |
-| 4 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 4 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 5 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 |
 | 6 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 |
 | 7 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 |

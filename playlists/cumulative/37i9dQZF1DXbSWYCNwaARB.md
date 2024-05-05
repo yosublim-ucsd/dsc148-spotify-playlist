@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: SOLAR \(솔라\)
+> All your girl crushes\(걸크러쉬\) in one place\. Guess who's here to celebrate Children's Day?
 
 445 songs - 23 hr 31 min
 
@@ -64,7 +64,7 @@
 | [BOSS](https://open.spotify.com/track/03UHveMYHRWVx6gmgXnPsx) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [BOSS](https://open.spotify.com/album/5MXIdlIMjHvSZP5Puj9CMA) | 3:01 | 2021-02-26 | 2022-04-21 |
 | [Breaking the rules](https://open.spotify.com/track/1u0RhUf3sCx5mir8uQVCgB) | [Ferry Blue](https://open.spotify.com/artist/5hoabnM5gbywbrTEKiHilf) | [Breaking the rules](https://open.spotify.com/album/6YpNxm9tIA0eRVrXGb2REG) | 3:23 | 2023-12-04 | 2024-01-09 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-10-27 | 2022-04-20 |
-| [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 |  |
+| [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-05-05 |
 | [Butterfly](https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av) | [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td) | [Butterfly](https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT) | 2:53 | 2023-09-26 | 2023-10-05 |
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-12 | 2023-11-18 |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 |  |
@@ -159,7 +159,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-08-17 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-07-13 |
 | [Girls](https://open.spotify.com/track/64HHzg4ILYpcYOGS0XQzOo) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 3:31 | 2020-10-13\* | 2022-04-20 |
-| [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 | 2024-05-01 |
+| [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 |  |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2020-10-20 | 2022-04-20 |
@@ -291,7 +291,7 @@
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2020-10-13\* | 2023-01-03 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-04-17 |
 | [ON MY LIPS](https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Feelin' Hot](https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi) | 2:48 | 2024-03-07 | 2024-03-28 |
-| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2024-04-30 |
+| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 |  |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-23 |  |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |
 | [OOPSIE \(My Bad\)](https://open.spotify.com/track/5TEdFgup4L8CdEZlcqcAHK) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE A](https://open.spotify.com/album/2rWqzpo4TfsbjUt4FSmpJ8) | 3:21 | 2021-02-28 | 2022-04-19 |
@@ -452,6 +452,6 @@
 | [기기괴괴](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [기기괴괴](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) | 3:31 | 2021-11-03 | 2022-04-20 |
 | [달라달라 \(DALLA DALLA\)](https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:19 | 2020-10-20 | 2022-06-20 |
 | [목말라](https://open.spotify.com/track/4VTbuDTpIxWIbV4M18iV2i) | [lusty](https://open.spotify.com/artist/47RRgtgrd3mixeuNC56URC) | [목말라](https://open.spotify.com/album/2C8n8pK5u94uICrDUqKALU) | 3:21 | 2021-01-17 | 2022-04-18 |
-| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 |  |
+| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 | 2024-05-05 |
 
 \*This playlist was first scraped on 2020-10-13. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Canada.
 
-1,952 songs - 4 day 15 hr 13 min
+1,954 songs - 4 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-31 | 2023-02-04 |
 | [Heyy](https://open.spotify.com/track/6qzBOV7lg2pnYm1tIvjxo3) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:12 | 2022-10-15 | 2022-10-18 |
 | [HIBIKI](https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:28 | 2023-10-14 | 2023-10-16 |
-| [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-05-03 |  |
+| [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-05-03 | 2024-05-05 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-29 | 2022-02-15 |
 | [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 | 2022-10-22 | 2022-11-05 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-09 | 2021-05-16 |
@@ -812,6 +812,7 @@
 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 | 2023-05-03 | 2023-05-05 |
 | [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-03-30 | 2024-04-12 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
+| [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-04 |  |
 | [imgonnagetyouback](https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:42 | 2024-04-20 | 2024-05-03 |
 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-03-09 | 2024-03-17 |
 | [IMY2 \(with Kid Cudi\)](https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:12 | 2021-09-05 | 2021-09-17 |
@@ -1714,6 +1715,7 @@
 | [THE WAY THINGS GOING](https://open.spotify.com/track/7HFyGCuGYFmHjxnjujBxM1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:59 | 2022-04-30 | 2022-05-02 |
 | [The Wreck of the Edmund Fitzgerald](https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Summertime Dream](https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8) | 6:29 | 2023-05-03 | 2023-05-05 |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-27\* | 2021-05-03 |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-04 |  |
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-29 | 2023-05-13 |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-27 | 2024-02-13 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-12 | 2022-03-30 |
@@ -1887,7 +1889,7 @@
 | [Where It Ends](https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Where It Ends](https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l) | 2:59 | 2022-08-20 | 2022-08-28 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 | 2023-06-09 |
 | [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 | 2021-04-13 | 2021-04-14 |
-| [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2024-03-14 |  |
+| [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2024-03-14 | 2024-05-05 |
 | [Whiskey Friends](https://open.spotify.com/track/2ewSCWOL7EAjgmgqfI1UlS) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:25 | 2023-03-04 | 2023-03-10 |
 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 | 2023-07-02 | 2023-10-04 |
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-07 | 2022-05-10 |

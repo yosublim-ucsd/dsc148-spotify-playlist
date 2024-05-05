@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,190 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,184 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 41 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
 | 42 | [I Love You](https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm) | [I Love You](https://open.spotify.com/album/6yAjcw3OQin9aBXTDI0k0A) | 3:28 |
 | 43 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
-| 44 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
+| 44 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 45 | [Toxic Veins](https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 3:20 |
-| 46 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 47 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 46 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 47 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
 | 48 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 49 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 50 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 56 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
 | 57 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 58 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
-| 59 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
-| 60 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 59 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 60 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 61 | [Berlin Luv](https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [AD North](https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs) | [Berlin Luv](https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU) | 2:20 |
 | 62 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 63 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |

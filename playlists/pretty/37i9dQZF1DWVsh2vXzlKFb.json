@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 486488,
+  "num_followers": 486500,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "apart of me",
+        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 76285,
+      "name": "apart of me",
+      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "apart of me",
-        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 76285,
-      "name": "apart of me",
-      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tell It to the Volcano",
-        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
-      },
-      "artists": [
-        {
-          "name": "Miniature Tigers",
-          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Like or Like Like",
-      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Pleaser",
         "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 187895,
       "name": "Pleaser",
       "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Tell It to the Volcano",
+        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
+      },
+      "artists": [
+        {
+          "name": "Miniature Tigers",
+          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Like or Like Like",
+      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2024-05-03 04:00:00",

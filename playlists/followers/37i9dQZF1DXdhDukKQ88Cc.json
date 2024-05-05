@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 145998,
+  "2024-05-05": 146018,
   "date_first_scraped": "2023-09-26",
   "description": "hit rap og andet i den vibe \ud83d\udea8 nyt fra album fra Merro8 \ud83d\udea8",
   "name": "100 DK",
@@ -2597,6 +2597,24 @@
       "duration_ms": 184440,
       "name": "Skarpt Lys",
       "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
+    },
+    {
+      "album": {
+        "name": "Skrue L\u00f8s",
+        "url": "https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124676,
+      "name": "Skrue L\u00f8s",
+      "url": "https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is Nana Mizuki\. The essential tracks, all in one playlist.
+> This is 水樹奈々\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,023 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,028 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 29 | [Synchrogazer\-Aufwachen Form\-](https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 5:21 |
 | 30 | [Sacred Force](https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [BRIGHT STREAM](https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb) | 3:07 |
 | 31 | [純潔パラドックス](https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:05 |
-| 32 | [Get up! Shout!](https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Get up! Shout!](https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF) | 4:10 |
-| 33 | [Dancing in the velvet moon](https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:32 |
+| 32 | [Dancing in the velvet moon](https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:32 |
+| 33 | [Get up! Shout!](https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Get up! Shout!](https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF) | 4:10 |
 | 34 | [BRIGHT STREAM](https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:11 |
 | 35 | [PHANTOM MINDS](https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:42 |
 | 36 | [BRAVE PHOENIX](https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 49 | [GET BACK](https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:59 |
 | 50 | [革命デュアリズム \-アニメバージョン\-](https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [革命デュアリズム](https://open.spotify.com/album/2PC0pafvHcNe9j66iGfwQv) | 1:31 |
 
-Snapshot ID: `ZjLXgAAAAAAdVo4E9LRcBVzuFZ8BkcRj`
+Snapshot ID: `ZjQpAAAAAADVuYdkwQkX6TgQl4Hs0GlK`

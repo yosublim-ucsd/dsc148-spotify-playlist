@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 666340,
+  "2024-05-05": 666621,
   "date_first_scraped": "2022-02-10",
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Jesse & Joy en portada.",
   "name": "Top M\u00e9xico",
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 204956,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
@@ -6722,6 +6722,24 @@
     },
     {
       "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -7611,6 +7629,28 @@
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+    },
+    {
+      "album": {
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
     },
     {
       "album": {
@@ -9783,7 +9823,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 202288,
       "name": "Lo Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5"
@@ -10247,7 +10287,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
@@ -10929,7 +10969,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
@@ -14217,7 +14257,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 178512,
       "name": "PLOMO",
       "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
@@ -14796,6 +14836,28 @@
     },
     {
       "album": {
+        "name": "Pushaina",
+        "url": "https://open.spotify.com/album/4rec7Zyx4adaPnZIbkGRut"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Pushaina",
+      "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
+    },
+    {
+      "album": {
         "name": "PVTIVUELTA",
         "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
@@ -15115,6 +15177,24 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
     },
     {
       "album": {
@@ -17375,7 +17455,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
@@ -17961,7 +18041,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172100,
       "name": "Triston",
       "url": "https://open.spotify.com/track/299rfDZMpOrAXqSLsPhNde"

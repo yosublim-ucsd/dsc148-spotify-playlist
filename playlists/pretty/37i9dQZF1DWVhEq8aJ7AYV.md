@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,922 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,934 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 54 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
 | 55 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
 | 56 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 |
-| 57 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
-| 58 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 57 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 58 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 59 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 60 | [Qué He Sacado Con Quererte \(aka Violeta Parra\)](https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2017](https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H) | 4:57 |
 | 61 | [Peyoteando Con Ayahuasca](https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 3:06 |
-| 62 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
-| 63 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 62 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 |
+| 63 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
 | 64 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 |
 | 65 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
 | 66 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 69 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |
 | 70 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
 | 71 | [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 |
-| 72 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
-| 73 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
+| 72 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
+| 73 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 74 | [Overdrawn At Cortes Bank](https://open.spotify.com/track/0jxywL4Hg5cyX9ehgTUWBD) | [The Torquays](https://open.spotify.com/artist/3Db0GCUUmVYk4Y5l34aN3m) | [Somewhere In California](https://open.spotify.com/album/4sFbu1hw27FWvNQyKCwx5M) | 2:37 |
-| 75 | [Mutantes](https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [Resurrection of the Blood Zombies from Beyond!](https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH) | 2:54 |
+| 75 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 |
 
 Snapshot ID: `ZMNZYAAAAAAVT/ilRZQTH/4k7pN8Op3l`

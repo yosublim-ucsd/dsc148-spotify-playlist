@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 132307,
+  "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
+  "num_followers": 132298,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAA0UY5agNQHcPxkyrIdjR8y",
+  "snapshot_id": "ZjQpAAAAAAB1mrx/MVUglarnFB2Mifzu",
   "tracks": [
     {
       "added_at": null,
@@ -639,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+        "name": "\u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9"
       },
       "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+      "duration_ms": 451341,
+      "name": "\u00c9 Jesus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"
     },
     {
       "added_at": null,
@@ -671,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9 Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9"
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
       "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 451341,
-      "name": "\u00c9 Jesus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Entrego Minhas Fraquezas",
-        "url": "https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 284444,
-      "name": "Te Entrego Minhas Fraquezas",
-      "url": "https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Poderia Imaginar",
         "url": "https://open.spotify.com/album/3iBdtp2IwIUd4xxDVDgwVW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 223151,
       "name": "Quem Poderia Imaginar",
       "url": "https://open.spotify.com/track/5H09Ocol5ziYbphssmza1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Entrego Minhas Fraquezas",
+        "url": "https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 284444,
+      "name": "Te Entrego Minhas Fraquezas",
+      "url": "https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 284165,
-      "name": "N\u00e3o H\u00e1 Nada, Mas Haver\u00e1",
-      "url": "https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 255824,
       "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
       "url": "https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 284165,
+      "name": "N\u00e3o H\u00e1 Nada, Mas Haver\u00e1",
+      "url": "https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar"
     }
   ],
   "unique_name": "This Is Bruna Karla",

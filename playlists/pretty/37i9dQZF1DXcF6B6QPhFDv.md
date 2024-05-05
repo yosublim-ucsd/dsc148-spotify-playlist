@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > feel it in your bones\. 📸: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,583,423 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,582,996 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

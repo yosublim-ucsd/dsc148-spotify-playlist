@@ -1,9 +1,27 @@
 {
-  "2024-05-04": 74643,
+  "2024-05-05": 74696,
   "date_first_scraped": "2023-10-15",
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
   "name": "Fiesta Tribal",
   "tracks": [
+    {
+      "album": {
+        "name": "Aborigen",
+        "url": "https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy"
+      },
+      "artists": [
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "Aborigen",
+      "url": "https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs"
+    },
     {
       "album": {
         "name": "Afroguaracha",
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 170149,
       "name": "Trippyal",
       "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"

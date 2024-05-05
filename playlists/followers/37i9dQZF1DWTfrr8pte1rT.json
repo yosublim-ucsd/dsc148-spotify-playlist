@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 326454,
+  "2024-05-05": 326502,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
   "name": "Rocktronic",
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 287000,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
@@ -3103,7 +3103,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 218028,
       "name": "For The Most Part",
       "url": "https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4"
@@ -4474,6 +4474,32 @@
     },
     {
       "album": {
+        "name": "Lie Awake",
+        "url": "https://open.spotify.com/album/7o9yymac690fmOnuXhqglk"
+      },
+      "artists": [
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "Xyan",
+          "url": "https://open.spotify.com/artist/4EDCf6apSbfCPkoDqGyVOy"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Lie Awake",
+      "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -4589,6 +4615,24 @@
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5lnine5W9NSTbrfBH1F6u3"
+      },
+      "artists": [
+        {
+          "name": "Cinema Kid",
+          "url": "https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230679,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/6eVVBm3RlVeNReLG9EEFTI"
     },
     {
       "album": {
@@ -5509,7 +5553,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -6219,6 +6263,28 @@
       "duration_ms": 240000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3BKOalTzc86wnz4wFKWspc"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "DePaoli",
+          "url": "https://open.spotify.com/artist/64jg1JbmAIHDFsGw27wASG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198790,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/3wsyzb7QDyYi4zlUr1gwE9"
     },
     {
       "album": {
@@ -8161,6 +8227,36 @@
       "duration_ms": 209032,
       "name": "Venomous (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/2xAjXvmMqqlnVhNvpGLzeY"
+    },
+    {
+      "album": {
+        "name": "Villain (Take the Shot)",
+        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        },
+        {
+          "name": "ARB4",
+          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189368,
+      "name": "Villain (Take the Shot)",
+      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
     },
     {
       "album": {

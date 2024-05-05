@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Tems 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,192 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,226 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 2 | [Judgement](https://open.spotify.com/track/1o6TzHkNsPqogIAwMGtoV7) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Judgement](https://open.spotify.com/album/5XZKQUo3IgjjqC0hG9R6xd) | 2:17 |
 | 3 | [Everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
 | 4 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 5 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 5 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 6 | [Waistline](https://open.spotify.com/track/28wpaj4FEPGSK1AL9JS5ah) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shawn Storm](https://open.spotify.com/artist/6UsCuzFNa4JLDTfsNQNOFz), [DJ Karim](https://open.spotify.com/artist/7y8JMZIfW4LNZWJ2slsVlR) | [Waistline](https://open.spotify.com/album/2JaZpMEk1Udd0IGHK1E7Ys) | 3:03 |
 | 7 | [Slogan](https://open.spotify.com/track/0LTEHWu0O52ZHP2QuJ1gNK) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Slogan](https://open.spotify.com/album/41TcN5yheIUtz6bJdEBucC) | 3:58 |
 | 8 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |

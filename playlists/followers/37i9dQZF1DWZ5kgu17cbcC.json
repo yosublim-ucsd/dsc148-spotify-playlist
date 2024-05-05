@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 223249,
+  "2024-05-05": 223230,
   "date_first_scraped": "2024-02-15",
   "description": "Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.",
   "name": "Hulu Hits",
@@ -1923,6 +1923,24 @@
       "duration_ms": 599960,
       "name": "Violin Concerto in G Major, Op. 8, No. 2: I. Allegro",
       "url": "https://open.spotify.com/track/3rd8fjFT9AupdVa4Kr3k1h"
+    },
+    {
+      "album": {
+        "name": "We Were the Lucky Ones (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3UkIJ7q261RbXHhYztS15H"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "We Were the Lucky Ones Theme",
+      "url": "https://open.spotify.com/track/4aP4MOQENkyifr8Ffn9LHX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa \(pictured\), Rachel Chinouriri, Becky Hill and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,639 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,733 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 72 | [Husband](https://open.spotify.com/track/4ZJ9wh9TnEOFciogRYLFY6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Husband](https://open.spotify.com/album/0Q7tFONWYREWTqfHlkwNHK) | 2:42 |
 | 73 | [MAYBE // YES](https://open.spotify.com/track/0ekKe6Fjv6TjApSyU7Fqw1) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [MAYBE // YES](https://open.spotify.com/album/7zVYSpvaRKJCkq18mQww6Z) | 3:29 |
 | 74 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 |
-| 75 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 75 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 76 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
 | 77 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
 | 78 | [Molly](https://open.spotify.com/track/2RZpKyNqAwoXfXtu5AuSKT) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Molly](https://open.spotify.com/album/0pOmUI5XJbcpYJeE0XLhok) | 2:53 |

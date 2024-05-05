@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,872 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,247 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 5 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 6 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 7 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
-| 8 | [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 |
-| 9 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 8 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 9 | [MANDA BALA](https://open.spotify.com/track/1lS2qOUk6GA20XvjjrWc25) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [MANDA BALA](https://open.spotify.com/album/4ibsk1iPM7xDpJkNXREmsl) | 1:40 |
 | 10 | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/track/4XeElJ6zvozrMsDQRbfLp1) | [TOTZ](https://open.spotify.com/artist/3raDCuZ1EuUpmjKUm8qa1Q), [ZYZZ HARDSTYLE](https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb), [Anime Lifestyle](https://open.spotify.com/artist/61z12RT8cSQzr2T1B4mgsD) | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/album/02BsnneyniW01a9pyg51Yw) | 1:48 |
 | 11 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
 | 12 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |

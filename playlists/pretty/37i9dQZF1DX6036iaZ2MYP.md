@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,238 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,299 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 5 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 6 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 |
 | 7 | [POE](https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [POE](https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX) | 3:26 |
-| 8 | [Vision \- Remix](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision \(Remix\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
+| 8 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 9 | [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 |
 | 10 | [Ca va pour nous \(feat\. MadeInParis\)](https://open.spotify.com/track/4pbBuWsjjItsAuIm3OcC2j) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Ca va pour nous \(feat\. MadeInParis\)](https://open.spotify.com/album/25E4LriKEiGJQLwB7D2CbD) | 2:14 |
 | 11 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |

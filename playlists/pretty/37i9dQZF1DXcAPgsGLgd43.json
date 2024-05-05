@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 7488,
+  "num_followers": 7608,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "La Trumpeta",
-        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
       "artists": [
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         }
       ],
-      "duration_ms": 200042,
-      "name": "La Trumpeta",
-      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         }
       ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 164307,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "\u00a1Date Prisa!",
         "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
-      },
-      "artists": [
-        {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        },
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Nicotina",
         "url": "https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 188819,
       "name": "Nicotina",
       "url": "https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+      },
+      "artists": [
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        },
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Coquetilla",
+        "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 129957,
+      "name": "Coquetilla",
+      "url": "https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dimini",
         "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Coquetilla",
-        "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 129957,
-      "name": "Coquetilla",
-      "url": "https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tuku Tu",
-        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
-      },
-      "artists": [
-        {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
-        }
-      ],
-      "duration_ms": 140787,
-      "name": "Tuku Tu",
-      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 225116,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Tuku Tu",
+        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "duration_ms": 140787,
+      "name": "Tuku Tu",
+      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Soy Candela",
-        "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 159523,
-      "name": "Soy Candela",
-      "url": "https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Alterego",
+        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
     }
   ],
   "unique_name": "Latin House",

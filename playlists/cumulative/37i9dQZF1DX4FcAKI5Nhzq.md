@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: 82MAJOR
+> Can you guess who's here to celebrate Children's Day?
 
-1,051 songs - 2 day 9 hr 37 min
+1,052 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-06 | 2021-11-19 |
 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 | 2020-11-09 | 2021-04-22 |
 | [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-06-03 | 2021-08-11 |
+| [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-05-04 |  |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-10 | 2023-09-22 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-04-30 | 2021-09-07 |
 | [INCEPTION](https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:30 | 2020-10-13\* | 2020-11-05 |

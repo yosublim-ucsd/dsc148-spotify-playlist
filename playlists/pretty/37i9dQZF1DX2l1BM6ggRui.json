@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6546,
+  "num_followers": 6544,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "A Perfect Ending",
-        "url": "https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm"
-      },
-      "artists": [
-        {
-          "name": "OKDAL",
-          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "A Perfect Ending",
-      "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Farmers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "A Perfect Ending",
+        "url": "https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "A Perfect Ending",
+      "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 227866,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k"
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
         }
       ],
-      "duration_ms": 258053,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap"
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

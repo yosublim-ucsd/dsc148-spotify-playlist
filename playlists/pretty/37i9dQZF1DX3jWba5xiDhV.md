@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,627 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,951 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 33 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
 | 34 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
 | 35 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 |
-| 36 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
+| 36 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
 | 37 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 |
-| 38 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
+| 38 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 39 | [Masterpiece](https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Viewpoint](https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb) | 4:14 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 41 | [Volevi Una Hit \- Extended Version](https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V) | [Cristalli Liquidi](https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D) | [Volevi Una Hit](https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg) | 5:28 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 68 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 69 | [From Here to Eternity \- Bonus Track \- Single Version \- Remastered](https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [From Here to Eternity \(Remastered\)](https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv) | 3:53 |
 | 70 | [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 |
-| 71 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 |
-| 72 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
+| 71 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
+| 72 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 |
 | 73 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 |
 | 74 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
 | 75 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Mi Banda El Mexicano. Los temas esenciales, todos en una lista.",
-  "num_followers": 70799,
+  "num_followers": 70803,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAABSBehFvxW6Sxv9iKvCK76X",
+  "snapshot_id": "ZjQpAAAAAACWtS623b2XTSSioVisJ8fI",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 220723,
-      "name": "La Chinita",
-      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Bailar... De Caballito!!",
         "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 195059,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Serie",
-        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 220427,
-      "name": "El Zapato Mocho",
-      "url": "https://open.spotify.com/track/2hN6W23OPsfHdF22wfd3TK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Bailar... De Caballito!!",
         "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220641,
       "name": "La Cuca",
       "url": "https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220427,
+      "name": "El Zapato Mocho",
+      "url": "https://open.spotify.com/track/2hN6W23OPsfHdF22wfd3TK"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Las Nachas",
-      "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Mexicano",
         "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 225354,
       "name": "Que Ricos Cocos",
       "url": "https://open.spotify.com/track/6C2qUXLnmMgLc6wcVV3gVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
     },
     {
       "added_at": null,

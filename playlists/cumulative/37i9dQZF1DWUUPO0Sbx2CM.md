@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-407 songs - 22 hr 39 min
+408 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2023-02-07 |  |
 | [Amazing Grace \- HGHTS Remix](https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Remembering Me](https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK) | 2:40 | 2021-10-31 | 2023-02-08 |
 | [AMERICAN DREAM](https://open.spotify.com/track/2v12XOaEHe0VdAQMhp4YcF) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [AMERICAN DREAM](https://open.spotify.com/album/2azVM10tQCjJV8V4emQ2RC) | 3:17 | 2023-02-08 | 2023-02-17 |
-| [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 | 2023-02-07 |  |
+| [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 | 2023-02-07 | 2024-05-05 |
 | [Anthem of Our Souls](https://open.spotify.com/track/3yDOQZjvEI3SVSCWeY5GcV) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Anthem of Our Souls](https://open.spotify.com/album/0KcLn8QCedNiApgvQX7hpS) | 6:20 | 2021-10-31 | 2022-07-26 |
 | [Anxiety](https://open.spotify.com/track/4MVzuidj7FGfOBRcU6Bu0Q) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Anxiety](https://open.spotify.com/album/2t30XwM1Lb02wDL3KkGJ6I) | 2:55 | 2021-10-31 | 2022-07-21 |
 | [AQUÍ ESTOY](https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [AQUÍ ESTOY](https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1) | 2:35 | 2023-02-07 |  |
@@ -135,6 +135,7 @@
 | [Glory I Couldn't See](https://open.spotify.com/track/374jAfSnw2f3qlp52ye148) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See](https://open.spotify.com/album/4VLvxKQA6Arj5NcZedcmIe) | 4:06 | 2021-10-31 | 2022-11-14 |
 | [Glory I Couldn't See](https://open.spotify.com/track/40sk27yNfrTlbDi6WhpXng) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Flourish](https://open.spotify.com/album/15566AOuMlvhL7G03xBkMF) | 4:06 | 2021-10-31 | 2023-02-08 |
 | [God Only Knows \(GATTÜSO Remix\)](https://open.spotify.com/track/0ReSY5XOCFXFRooRS7hPxk) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [God Only Knows \(GATTÜSO Remix\)](https://open.spotify.com/album/5gdySuafgIrPQvdKzjbmIi) | 3:18 | 2021-10-31 | 2022-04-27 |
+| [God Problems \(Not By Power\) \[feat\. Miles Minnick\]](https://open.spotify.com/track/3kp3PccskbukN2xIiElSYp) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [God Problems \(Not By Power\) \[feat\. Miles Minnick\]](https://open.spotify.com/album/7uReIdluNEl7e8GiyiFE5j) | 2:57 | 2024-05-03 |  |
 | [Good Day \(feat\. Social Club Misfits\)](https://open.spotify.com/track/382CUuS56h9lajPb215LuP) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Good Day](https://open.spotify.com/album/4YkSOIrrw4jBfs53MAvbu8) | 2:45 | 2021-10-31 | 2022-07-29 |
 | [Good Feeling](https://open.spotify.com/track/2otqZVvW83kij45qpJaipl) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 2:55 | 2021-10-31 | 2023-02-08 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2023-02-07 |  |

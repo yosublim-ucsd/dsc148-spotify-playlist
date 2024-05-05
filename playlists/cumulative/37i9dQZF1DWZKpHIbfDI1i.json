@@ -8415,6 +8415,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
+    },
+    {
+      "album": {
         "name": "KATY PERRY",
         "url": "https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t"
       },
@@ -15190,7 +15212,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 260571,
       "name": "Qu\u00e9 Agusticidad",
       "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"

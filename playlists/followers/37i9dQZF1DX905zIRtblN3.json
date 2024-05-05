@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 3379103,
+  "2024-05-05": 3380608,
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Belinda y Natanael Cano",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Luis R Conriquez, Net\u00f3n Vega",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -229,6 +229,24 @@
       "duration_ms": 261068,
       "name": "A Tu Manera",
       "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247783,
+      "name": "A TU NOMBRE",
+      "url": "https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7"
     },
     {
       "album": {
@@ -4360,6 +4378,24 @@
     },
     {
       "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
+    },
+    {
+      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -6731,7 +6767,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 142440,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
@@ -7485,7 +7521,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 193258,
       "name": "Qu\u00e9date Beb\u00e9",
       "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
@@ -7575,7 +7611,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168677,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
@@ -9589,6 +9625,24 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     },
     {
       "album": {

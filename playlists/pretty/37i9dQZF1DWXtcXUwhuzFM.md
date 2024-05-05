@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot, Jore & Zpoppa, Cledos ja william.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,614 likes - 119 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,725 likes - 119 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 19 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
 | 20 | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/track/5l7OnOVSYd57pAQIX6B5nz) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/album/5Vv69AczxmHKIxAPIv5vik) | 3:10 |
 | 21 | [Tim Duncan](https://open.spotify.com/track/0W3kiQw2yDnZvFq92jq1Gx) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Tim Duncan](https://open.spotify.com/album/3QwEqCZdjvBx7reS3veYTB) | 2:17 |
-| 22 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:31 |
+| 22 | [Queen of the Night](https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Queen of the Night](https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh) | 3:30 |
 | 23 | [Hei Mitä Kuuluu](https://open.spotify.com/track/6bdwNL6oMIae4LJxXAXeGk) | [Anne Mattila](https://open.spotify.com/artist/5ct2tHA32AT2MHnHdlURtj) | [Hei Mitä Kuuluu](https://open.spotify.com/album/478gVXs8QtA1rCProjOaiI) | 3:12 |
 | 24 | [Eläke](https://open.spotify.com/track/1H5PY3gQFtYFMU86uZCzPu) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Eläke](https://open.spotify.com/album/1HYF6TtJFt5EDj7H0drm9X) | 2:36 |
 | 25 | [close to you](https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [close to you](https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL) | 2:40 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,464 songs - 2 day 19 hr 46 min
+1,465 songs - 2 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-29 | 2023-09-26 |
 | [Full House](https://open.spotify.com/track/3wkvbFrwiecuUPFWPsPvft) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:13 | 2023-10-28 | 2023-11-02 |
-| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-24 |  |
+| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-24 | 2024-05-05 |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-02 | 2023-09-04 |
 | [G](https://open.spotify.com/track/6g42z2BRoSNf7hdmhcHCZt) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [G](https://open.spotify.com/album/7GKnfbdIQPcbGxnmhVP0F6) | 2:55 | 2022-07-30 | 2022-08-05 |
 | [G\-SHOKK \[Prod\. by gob wants nothing, audiodealers\]](https://open.spotify.com/track/4psimdmSobgECgzUVgWsia) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 3:05 | 2021-04-04 | 2021-04-08 |
@@ -932,6 +932,7 @@
 | [Давно](https://open.spotify.com/track/7EdqOU21mOqKASnK7XGQn9) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:30 | 2022-04-30 | 2022-05-03 |
 | [Дай мне посмотреть](https://open.spotify.com/track/1DClMPKEaiKyr7OBWynui5) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [ДАЙ МНЕ ПОСМОТРЕТЬ </3 ДЭНС ДЭНС](https://open.spotify.com/album/684Ywyonh6K18IUsok1x8n) | 2:05 | 2023-06-17 | 2023-09-03 |
 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2023-04-27 | 2023-05-27 |
+| [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/album/3KXxUj15lVB5qolvUReTWB) | 1:47 | 2024-05-04 |  |
 | [Даёт 2](https://open.spotify.com/track/5TBbcePegxoLGsvUfsKhRx) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:30 | 2022-04-30 | 2022-05-02 |
 | [Два](https://open.spotify.com/track/25pKz1rhWO7kYoCZKxNlPQ) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [FEARMUCH](https://open.spotify.com/artist/0dYPNZqAPGnHiFTTy7qMxL) | [Really Rich](https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB) | 2:49 | 2022-12-17 | 2022-12-19 |
 | [Два вікна](https://open.spotify.com/track/3gwHKlGINfCgBwBeEJ101L) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Два вікна](https://open.spotify.com/album/09uyLA93UT6CxShEcLz6ZI) | 3:09 | 2023-03-10 | 2023-03-20 |
@@ -1245,7 +1246,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2023-11-21 | 2024-01-16 |
-| [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-14 |  |
+| [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/1JOU8GC4rAXxSkYSOUFKWR) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-14 |  |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
 | [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2023-07-02 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |

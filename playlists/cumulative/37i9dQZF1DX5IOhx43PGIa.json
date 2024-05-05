@@ -2915,6 +2915,32 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/582kKnarKgUt5Rl4mEUKGi"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2DBQ8aFDngZ68WCa7by4WG"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE"
       },
@@ -2984,7 +3010,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 169222,
       "name": "deadline",
       "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
@@ -3252,7 +3278,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 161489,
       "name": "DND",
       "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
@@ -5470,7 +5496,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 278613,
       "name": "Have You Ever Seen The Rain?",
       "url": "https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO"
@@ -7012,6 +7038,24 @@
       "duration_ms": 199506,
       "name": "Joker (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
+    },
+    {
+      "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
     },
     {
       "album": {
@@ -12368,6 +12412,28 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "album": {

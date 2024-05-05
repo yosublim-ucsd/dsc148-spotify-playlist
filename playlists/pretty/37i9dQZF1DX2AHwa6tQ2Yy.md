@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,476 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,487 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 21 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 22 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 | 23 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
-| 24 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
-| 25 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
+| 24 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
+| 25 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
 | 26 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
 | 27 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 28 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 30 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
 | 31 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
 | 32 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 33 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
-| 34 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
+| 33 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
+| 34 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
 | 35 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 |
 | 36 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 37 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 61 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
 | 62 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
 | 63 | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR) | 4:30 |
-| 64 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
-| 65 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
+| 64 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
+| 65 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
 | 66 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 |
 | 67 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
-| 68 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 |
-| 69 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 68 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 69 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 |
 | 70 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 
 Snapshot ID: `ZfNgwwAAAADO8GBNCQvefSAJnzlLLdH5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,795 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,799 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 71 | [Bad Neighbors](https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Welcome to the Wildfire](https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM) | 2:40 |
 | 72 | [FMU](https://open.spotify.com/track/7e2BZGkxyHRk74HYy8KJkz) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [FMU](https://open.spotify.com/album/5R6v6HYbJ27x5LfI2ILJRm) | 2:21 |
 | 73 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
-| 74 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
-| 75 | [Nevada](https://open.spotify.com/track/0z5ETXpbYwKcGo0CUoZeGs) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Nevada](https://open.spotify.com/album/5zvRC6iiYBdhvPPeyqiEOH) | 3:35 |
+| 74 | [Nevada](https://open.spotify.com/track/0z5ETXpbYwKcGo0CUoZeGs) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Nevada](https://open.spotify.com/album/5zvRC6iiYBdhvPPeyqiEOH) | 3:35 |
+| 75 | [Always](https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:33 |
 
 Snapshot ID: `ZjPg7gAAAAD5xDxWhUZdlQTM8yRA8kSU`

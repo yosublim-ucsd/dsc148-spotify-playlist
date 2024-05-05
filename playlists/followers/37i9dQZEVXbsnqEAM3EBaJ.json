@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 0,
+  "2024-05-05": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -2530,6 +2530,24 @@
     },
     {
       "album": {
+        "name": "Beautiful & Broken",
+        "url": "https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208919,
+      "name": "Beautiful & Broken",
+      "url": "https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9"
+    },
+    {
+      "album": {
         "name": "Beautiful Drug (feat. Avicii) [Remix]",
         "url": "https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo"
       },
@@ -3335,7 +3353,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 227026,
       "name": "Buena Ruta Hermano",
       "url": "https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV"
@@ -9054,7 +9072,7 @@
     },
     {
       "album": {
-        "name": "To Save a Child",
+        "name": "To Save A Child: An Intimate Live Concert",
         "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
       },
       "artists": [
@@ -10595,6 +10613,24 @@
       "duration_ms": 284733,
       "name": "I Got Mine - Live at Montreux, 2007",
       "url": "https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV"
+    },
+    {
+      "album": {
+        "name": "Veritas",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "album": {
@@ -12923,6 +12959,24 @@
       "duration_ms": 266926,
       "name": "L'ideale",
       "url": "https://open.spotify.com/track/1OQr3hy0ARHiUazMvQCne3"
+    },
+    {
+      "album": {
+        "name": "Totalmente Pose\u00eddos (Banda de Sonido Original de la Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/0SiqFBMYsazTSqhYxXrkjz"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268211,
+      "name": "La Banquina de Alg\u00fan Lado",
+      "url": "https://open.spotify.com/track/0GYfW2lmrhKxPSPLGXwWzu"
     },
     {
       "album": {
@@ -18061,6 +18115,24 @@
       "duration_ms": 197000,
       "name": "Poison Pill",
       "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
+    },
+    {
+      "album": {
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
     },
     {
       "album": {
@@ -25013,6 +25085,24 @@
       "duration_ms": 287319,
       "name": "Toni - Jesu Interpolation",
       "url": "https://open.spotify.com/track/5P9MfXZKSYEWHRpfyXfBjf"
+    },
+    {
+      "album": {
+        "name": "Pandemonium II: The Battle of the Underworlds",
+        "url": "https://open.spotify.com/album/1opj1AGDdduavKpRdxqswt"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0bu102WXhNEytr3sKab6Wp"
     },
     {
       "album": {

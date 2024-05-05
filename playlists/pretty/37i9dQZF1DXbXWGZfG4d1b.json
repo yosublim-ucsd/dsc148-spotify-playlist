@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22289,
+  "num_followers": 22295,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "D\u00eda del Trabajador",
+        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 285176,
+      "name": "Eso no es Amor",
+      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Arariyo",
         "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 191583,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "D\u00eda del Trabajador",
-        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 285176,
-      "name": "Eso no es Amor",
-      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Aeronostalgia (feat. J)",
-        "url": "https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        },
-        {
-          "name": "J",
-          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
-        }
-      ],
-      "duration_ms": 227778,
-      "name": "Aeronostalgia (feat. J)",
-      "url": "https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -719,6 +699,26 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Aeronostalgia (feat. J)",
+        "url": "https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "J",
+          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
+        }
+      ],
+      "duration_ms": 227778,
+      "name": "Aeronostalgia (feat. J)",
+      "url": "https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 159576,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Ochocientos Envolventes al Sol",
         "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Todo de mi (Todo de vos)",
+        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
+      },
+      "artists": [
+        {
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        }
+      ],
+      "duration_ms": 173914,
+      "name": "Todo de mi (Todo de vos)",
+      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -799,22 +815,6 @@
       "duration_ms": 326973,
       "name": "Los Halcones",
       "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Todo de mi (Todo de vos)",
-        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
-      },
-      "artists": [
-        {
-          "name": "Mauro Conforti & La Vida Marciana",
-          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
-        }
-      ],
-      "duration_ms": 173914,
-      "name": "Todo de mi (Todo de vos)",
-      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Aproximaci\u00f3n",
         "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 195117,
       "name": "Aproximaci\u00f3n",
       "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Boca Seca",
-        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
-      },
-      "artists": [
-        {
-          "name": "Pow",
-          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Boca Seca",
-      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1115,6 +1099,22 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Boca Seca",
+        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
+      },
+      "artists": [
+        {
+          "name": "Pow",
+          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Boca Seca",
+      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Evil Dead",
-        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
       },
       "artists": [
         {
-          "name": "Justo Antes de la Guerra con los Esquimales",
-          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
         }
       ],
-      "duration_ms": 175046,
-      "name": "Evil Dead",
-      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
+      "duration_ms": 178000,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
     }
   ],
   "unique_name": "6PM Indie",

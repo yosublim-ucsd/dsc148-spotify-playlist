@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,401 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,409 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 67 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 |
 | 68 | [Ella Bailaba](https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:46 |
 | 69 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
-| 70 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 |
-| 71 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
+| 70 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
+| 71 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 |
 | 72 | [Como habla una mujer \(feat\. C\. Tangana\)](https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Como habla una mujer \(feat\. C\. Tangana\)](https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ) | 3:26 |
 | 73 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 |
 | 74 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |

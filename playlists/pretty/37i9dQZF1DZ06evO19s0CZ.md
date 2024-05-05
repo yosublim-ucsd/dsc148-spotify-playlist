@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,985 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,123 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 17 | [She's A Rainbow](https://open.spotify.com/track/7Cwhlma0JgRVhDHR5CftD5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 4:13 |
 | 18 | [Waiting On A Friend \- Remastered 2009](https://open.spotify.com/track/4Wd9pEtEnZNDjgiswGOpJb) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 4:34 |
 | 19 | [Dead Flowers \- 2009 Mix](https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 4:04 |
-| 20 | [Play With Fire \- Mono Version](https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 2:13 |
+| 20 | [Anybody Seen My Baby? \- Remastered 2009](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 |
 | 21 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 |
-| 22 | [Anybody Seen My Baby? \- Remastered 2009](https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:31 |
+| 22 | [Play With Fire \- Mono Version](https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 2:13 |
 | 23 | [Can't You Hear Me Knocking \- 2009 Mix](https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 7:16 |
 | 24 | [As Tears Go By \- Mono Version](https://open.spotify.com/track/1LD75COdR1n8jTIjommyS2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:45 |
 | 25 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
-| 26 | [Street Fighting Man \- 50th Anniversary Edition](https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:15 |
-| 27 | [She's So Cold \- Remastered 2009](https://open.spotify.com/track/6l9gVPHFaUfigHEiWqSh45) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 4:13 |
+| 26 | [She's So Cold \- Remastered 2009](https://open.spotify.com/track/6l9gVPHFaUfigHEiWqSh45) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 4:13 |
+| 27 | [Street Fighting Man \- 50th Anniversary Edition](https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:15 |
 | 28 | [Get Off Of My Cloud \- Mono Version](https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:55 |
 | 29 | [Sweet Virginia](https://open.spotify.com/track/1hJrWWK74fKL7eeV3CFOvF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:26 |
 | 30 | [It's Only Rock'n'Roll \(But I Like It\) \- Remastered 2009](https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'N' Roll \(2009 Re\-Mastered\)](https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 |
 | 50 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:33 |
 
-Snapshot ID: `ZjLXgAAAAADTp+zbpA8gCB77r1G3kKu2`
+Snapshot ID: `ZjQpAAAAAACHB/FvBVsko/16yp1IUqiI`

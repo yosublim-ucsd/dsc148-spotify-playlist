@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 99393,
+  "2024-05-05": 99360,
   "date_first_scraped": "2022-06-10",
   "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Kane Brown &amp; Marsmello",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
@@ -808,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Berghain (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "Berghain (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
+    },
+    {
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/7rUUj4wNN81GgofqL3kCYv"
       },
@@ -853,6 +875,24 @@
       "duration_ms": 184880,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq"
+    },
+    {
+      "album": {
+        "name": "BET",
+        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198671,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
     },
     {
       "album": {
@@ -6894,24 +6934,24 @@
     },
     {
       "album": {
-        "name": "Miles on It",
+        "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168355,
-      "name": "Miles on It",
+      "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {

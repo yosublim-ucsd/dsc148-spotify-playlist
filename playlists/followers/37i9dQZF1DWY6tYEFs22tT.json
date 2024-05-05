@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 815392,
+  "2024-05-05": 815438,
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Kendrick Lamar, Drake, Future and Metro Boomin.",
+  "description": "Today's Hip-Hop with Kendrick Lamar, Drake, Gunna and Chance The Rapper.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -3268,6 +3268,24 @@
     },
     {
       "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -4141,6 +4159,32 @@
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "album": {
+        "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203402,
+      "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh"
     },
     {
       "album": {
@@ -20132,6 +20176,24 @@
     },
     {
       "album": {
+        "name": "TRYNA MAKE SURE",
+        "url": "https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG"
+    },
+    {
+      "album": {
         "name": "BETTER THAN YOU",
         "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
@@ -21277,6 +21339,24 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "album": {
+        "name": "Whatsapp (Wassam)",
+        "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Whatsapp (Wassam)",
+      "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
     },
     {
       "album": {

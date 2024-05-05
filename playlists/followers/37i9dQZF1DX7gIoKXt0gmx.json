@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2748742,
+  "2024-05-05": 2748905,
   "date_first_scraped": "2019-05-26",
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
   "name": "All The Feels",
@@ -591,7 +591,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 134506,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/3H9h3FWHgW2cLW6Smatki6"
@@ -2267,6 +2267,24 @@
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky"
+    },
+    {
+      "album": {
+        "name": "Here We Go (Uh Oh)",
+        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216507,
+      "name": "Here We Go (Uh Oh)",
+      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Turn up with the biggest party tracks of yesteryear.
 
-217 songs - 14 hr 50 min
+218 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2022-05-24 | 2022-07-29 |
 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/1ulAlG3x3jWtCCK2SI4qyL) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/3nTGDw2T1QyD9lVKoUD00J) | 3:47 | 2018-11-27 | 2022-07-29 |
 | [Love in This Club \(feat\. Young Jeezy\)](https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:19 | 2024-02-12 |  |
-| [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2024-03-06 |  |
+| [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2024-03-06 | 2024-05-05 |
 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 | 2023-09-05 |  |
 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 | 2018-11-27 |  |
 | [Mesmerize](https://open.spotify.com/track/2iclfHORMqpR3TxuhwVRhD) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Last Temptation](https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc) | 4:38 | 2018-11-27 | 2022-07-29 |
@@ -206,6 +206,7 @@
 | [Tipsy \- Club Mix](https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Hood Hop](https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv) | 4:03 | 2018-11-27 | 2022-07-29 |
 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 | 2018-11-27 | 2022-07-29 |
 | [Toxic](https://open.spotify.com/track/717TY4sfgKQm4kFbYQIzgo) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Greatest Hits: My Prerogative](https://open.spotify.com/album/574xhx2X0G9MkqACxqi4cg) | 3:18 | 2023-10-24 | 2024-02-13 |
+| [Try Again](https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:44 | 2024-03-06 |  |
 | [Up Down \(Do This All Day\) \(feat\. B.o.B\)](https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Happy Hour: The Greatest Hits](https://open.spotify.com/album/184XWylq7ZF0Hn7da4Tr6W) | 3:51 | 2018-11-27 |  |
 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 | 2018-11-27 | 2022-05-11 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2022-06-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "songs that linger \ud83d\ude0e ft royel otis",
-  "num_followers": 1145218,
+  "num_followers": 1145428,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRuogAAAACL536gj68E6wy4tXLHg2Zn",
+  "snapshot_id": "ZjbKrQAAAADXKCH40wf7a6rWlFw3e8LL",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/73r6LsYOKVfRvbIJsnf284"
     },
     {
+      "added_at": "2024-05-04 23:47:44",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "BUG",
@@ -139,6 +155,22 @@
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
+    },
+    {
+      "added_at": "2024-05-04 23:54:21",
+      "album": {
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 85287,
+      "name": "Challengers",
+      "url": "https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS"
     },
     {
       "added_at": "2024-05-01 15:06:17",
@@ -173,20 +205,36 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-03 04:57:06",
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         }
       ],
-      "duration_ms": 116333,
-      "name": "bowie box",
-      "url": "https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"
+      "duration_ms": 167730,
+      "name": "act viii: i hate to be alone",
+      "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
+    },
+    {
+      "added_at": "2024-05-04 23:30:28",
+      "album": {
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
+      },
+      "artists": [
+        {
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+        }
+      ],
+      "duration_ms": 391093,
+      "name": "The Downtown Lights",
+      "url": "https://open.spotify.com/track/38TMvbDxQCQJm9nzHqmpiK"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -257,20 +305,20 @@
       "url": "https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV"
     },
     {
-      "added_at": "2024-05-03 04:57:06",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 167730,
-      "name": "act viii: i hate to be alone",
-      "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
+      "duration_ms": 116333,
+      "name": "bowie box",
+      "url": "https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"
     },
     {
       "added_at": "2024-05-03 04:00:00",

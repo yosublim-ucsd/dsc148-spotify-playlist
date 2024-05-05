@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 89348,
+  "num_followers": 89440,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZfrkKgAAAADSZr5KKonoRedwwIDcrZj7",
   "tracks": [
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
-    },
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 150666,
       "name": "Les papillons",
       "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 168573,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "The America Album",
         "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 205173,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+        "name": "The Joy Of Living",
+        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+      "duration_ms": 169160,
+      "name": "The Joy Of Living",
+      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -795,34 +795,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "The Joy Of Living",
-        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 169160,
-      "name": "The Joy Of Living",
-      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "Summer Place",
-        "url": "https://open.spotify.com/album/50nW5dxPVFGwwo61jmlwxG"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Theme From A Summer Place",
-      "url": "https://open.spotify.com/track/369DA2r2Ycpk8DjJGVIU9S"
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -839,6 +823,22 @@
       "duration_ms": 163400,
       "name": "My Last Affair",
       "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Music For Her (Expanded Edition)",
+        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Music From Hollywood",
-        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 351559,
-      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
-      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/5spJDNuS07TiEXZhYcuneJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 197653,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -923,18 +923,34 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+        "name": "Music From Hollywood",
+        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+      "duration_ms": 351559,
+      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
+      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Summer Place",
+        "url": "https://open.spotify.com/album/50nW5dxPVFGwwo61jmlwxG"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Theme From A Summer Place",
+      "url": "https://open.spotify.com/track/369DA2r2Ycpk8DjJGVIU9S"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Music For Her (Expanded Edition)",
-        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Around the World, Vol. 2",
         "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Frank Sinatra Conducts Tone Poems Of Color (Remastered)",
         "url": "https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
     },
     {
       "added_at": "2024-03-20 13:27:06",

@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 268161,
+  "2024-05-05": 268306,
   "date_first_scraped": "2021-12-28",
   "description": "All the New Joints featuring Lil Tecca, Kendrick Lamar, Moneybagg Yo and more!",
   "name": "New Joints",
@@ -79906,7 +79906,7 @@
     },
     {
       "album": {
-        "name": "SHININ",
+        "name": "Shinin",
         "url": "https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP"
       },
       "artists": [
@@ -79919,7 +79919,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134347,
-      "name": "SHININ",
+      "name": "Shinin",
       "url": "https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz"
     },
     {
@@ -88986,7 +88986,7 @@
     },
     {
       "album": {
-        "name": "Ten/Rya Interlude (feat. Key Glock)",
+        "name": "Ten/Rya Interlude (feat. Key Glock & Rya Maxwell)",
         "url": "https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD"
       },
       "artists": [
@@ -88997,13 +88997,17 @@
         {
           "name": "Key Glock",
           "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Rya Maxwell",
+          "url": "https://open.spotify.com/artist/0QGpeQgkAun6D7nh2rJcCN"
         }
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 360077,
-      "name": "Ten/Rya Interlude (feat. Key Glock)",
+      "name": "Ten/Rya Interlude (feat. Key Glock & Rya Maxwell)",
       "url": "https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2"
     },
     {

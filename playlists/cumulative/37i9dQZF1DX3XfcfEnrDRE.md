@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-177 songs - 11 hr 20 min
+178 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-03-11 |  |
 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 | 2022-07-17 |  |
 | [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 | 2022-12-16 |  |
-| [Good To Get Back](https://open.spotify.com/track/5wFJ02TSnS18SSyFZzIIPw) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [Good To Get Back](https://open.spotify.com/album/57fqtJVrHL7dls78zUH44M) | 3:56 | 2022-07-17 |  |
+| [Good To Get Back](https://open.spotify.com/track/5wFJ02TSnS18SSyFZzIIPw) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [Good To Get Back](https://open.spotify.com/album/57fqtJVrHL7dls78zUH44M) | 3:56 | 2022-07-17 | 2024-05-05 |
 | [Greater is the Blood](https://open.spotify.com/track/4xUZrneYGiwwBEzFWhZiB9) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Greater is the Blood](https://open.spotify.com/album/0671ivK4q1hfduVDwEpSRs) | 3:51 | 2022-07-17 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 | 2022-12-16 |  |
 | [He Is Good](https://open.spotify.com/track/1dl11ALhlMcCPxJekWvQYk) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [He Is Good](https://open.spotify.com/album/57JFOyf7sOuYDK0zTpW6aj) | 2:52 | 2022-02-27 | 2022-07-18 |
@@ -163,6 +163,7 @@
 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 | 2022-07-17 |  |
 | [The Hope Inside](https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 4:09 | 2022-02-27 |  |
 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 | 2022-02-27 |  |
+| [Today](https://open.spotify.com/track/1uhOr4xSpCx8uaJkesYmqN) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06) | [Today](https://open.spotify.com/album/4SZJCyYeFDgozCFwILJUr1) | 4:13 | 2024-05-03 |  |
 | [Until the End of Time](https://open.spotify.com/track/0tSTru4U38wKK5SuuqHeAe) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Dancing in the Fire](https://open.spotify.com/album/6NjLmLTuYtbXFPoXv3UqEz) | 4:37 | 2022-07-17 | 2024-01-12 |
 | [Until The End Of Time](https://open.spotify.com/track/6ib5TpsfZglT3tieqg9Ley) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Dancing In The Fire](https://open.spotify.com/album/7E2Cr8LxCdsGwev01NLXzW) | 4:37 | 2022-02-27 |  |
 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 | 2022-12-16 |  |

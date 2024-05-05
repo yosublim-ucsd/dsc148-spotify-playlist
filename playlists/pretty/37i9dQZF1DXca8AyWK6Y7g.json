@@ -1,6 +1,6 @@
 {
   "description": "Watch this be the wrong thing. CLASSIC!  \ud83d\udcf7 Gracie Abrams",
-  "num_followers": 1497839,
+  "num_followers": 1497894,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "curita",
-        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 145000,
-      "name": "curita",
-      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -431,18 +431,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "curita",
+        "url": "https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 145000,
+      "name": "curita",
+      "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
+    },
+    {
+      "added_at": "2024-03-22 04:18:26",
+      "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 162615,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "added_at": "2024-03-22 04:18:26",
@@ -463,22 +479,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-03-22 04:18:26",
-      "album": {
-        "name": "clouds",
-        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 162615,
-      "name": "clouds",
-      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "added_at": "2024-04-14 07:03:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "What If I Love You",
-        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "What If I Love You",
-      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "What If I Love You",
+        "url": "https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "What If I Love You",
+      "url": "https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az"
     },
     {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Me, Myself & Your Eyes",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Home To Another One",
         "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
       },
@@ -1203,6 +1235,22 @@
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1255,22 +1303,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
-      },
-      "artists": [
-        {
-          "name": "August Moon",
-          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
-        }
-      ],
-      "duration_ms": 157658,
-      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Just a Friend",
         "url": "https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz"
       },
@@ -1301,6 +1333,22 @@
       "url": "https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT"
     },
     {
+      "added_at": "2024-04-22 23:37:31",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "closer (feat. salem ilese)",
@@ -1321,38 +1369,6 @@
       "url": "https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "B.I.L.L.S.",
-        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "B.I.L.L.S.",
-      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
-    },
-    {
-      "added_at": "2024-04-22 23:37:31",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
-    },
-    {
       "added_at": "2024-03-22 04:18:26",
       "album": {
         "name": "WOW!",
@@ -1369,22 +1385,6 @@
       "url": "https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Eastend Confessions",
@@ -1399,6 +1399,22 @@
       "duration_ms": 162578,
       "name": "Hot",
       "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1497,6 +1513,22 @@
       "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 171705,
+      "name": "Accelerator",
+      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "i\u2019m too pretty for this",
@@ -1513,20 +1545,20 @@
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Accelerator",
-        "url": "https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS"
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 171705,
-      "name": "Accelerator",
-      "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
+      "duration_ms": 177373,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1559,22 +1591,6 @@
       "duration_ms": 211642,
       "name": "Push N Shuv",
       "url": "https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1613,22 +1629,6 @@
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "newbury park",
-        "url": "https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "newbury park",
-      "url": "https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "DEAR READER",
@@ -1643,6 +1643,22 @@
       "duration_ms": 147798,
       "name": "FEMININE RAGE",
       "url": "https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "newbury park",
+        "url": "https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "newbury park",
+      "url": "https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Traumatic Livelihood",
-        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 206039,
-      "name": "Shit Show",
-      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -1863,6 +1863,22 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Traumatic Livelihood",
+        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 206039,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1929,22 +1945,6 @@
       "url": "https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Dumb Blonde",
@@ -1959,6 +1959,22 @@
       "duration_ms": 162000,
       "name": "Dumb Blonde",
       "url": "https://open.spotify.com/track/5mflHxpFOhqsXoIGlk2w2c"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2105,20 +2121,20 @@
       "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d"
       },
       "artists": [
         {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
         }
       ],
-      "duration_ms": 199320,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
+      "duration_ms": 165756,
+      "name": "maybe she was the one",
+      "url": "https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2155,6 +2171,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Rave Angel",
         "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
       },
@@ -2183,22 +2215,6 @@
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d"
-      },
-      "artists": [
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "maybe she was the one",
-      "url": "https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2231,22 +2247,6 @@
       "duration_ms": 201071,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "I Hope It All Works Out",
-        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 167083,
-      "name": "I Hope It All Works Out",
-      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
       },
@@ -2347,22 +2363,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Apartment A",
-        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Apartment A",
-      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
       },
@@ -2375,6 +2375,22 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2423,22 +2439,6 @@
       "duration_ms": 136918,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j"
     }
   ],
   "unique_name": "young & free",

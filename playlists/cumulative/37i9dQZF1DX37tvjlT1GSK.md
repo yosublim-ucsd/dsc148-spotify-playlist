@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Octavio Cuadras en portada.
 
-409 songs - 21 hr 33 min
+410 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 | 2023-12-01 |  |
 | [Morenita](https://open.spotify.com/track/3tTUbrrAzoEOG97kdl39xY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Morenita](https://open.spotify.com/album/5lDdmVYHmrLvzgItErGvKE) | 3:17 | 2024-02-24 |  |
 | [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 |  |
-| [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 | 2024-03-19 |  |
+| [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 | 2024-03-19 | 2024-05-05 |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-24 | 2023-08-05 |
 | [Netflix](https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Netflix](https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML) | 3:15 | 2024-04-12 |  |
 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-10-27 | 2024-01-13 |
@@ -374,6 +374,7 @@
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-07-01 | 2023-12-02 |
 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 | 2023-12-01 |  |
 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 | 2023-01-13 | 2023-03-18 |
+| [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 | 2024-05-03 |  |
 | [Tu Ventana](https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:06 | 2023-01-09 | 2023-12-02 |
 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 | 2022-03-04 | 2024-01-27 |
 | [Un Día Entenderás](https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Día Entenderás](https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB) | 3:26 | 2024-01-12 | 2024-01-27 |

@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Ej od kad sam se rodio",
+        "url": "https://open.spotify.com/album/4CfdY8BiLKxZfLZZXPsH8P"
+      },
+      "artists": [
+        {
+          "name": "Sinan Sakic",
+          "url": "https://open.spotify.com/artist/4EONnXMzBhHTIOwjlpoTGl"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Ej, od kad sam se rodio",
+      "url": "https://open.spotify.com/track/1mRyfUZUbIsNDEou1wfqkK"
+    },
+    {
+      "album": {
         "name": "Songs From The Big Chair (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,149 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,183 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 9 | [When I Get Better](https://open.spotify.com/track/5ur1GmMrBKomJueGehUzt8) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [The Fall \(Teaser 2\)](https://open.spotify.com/album/3WCgZYI1IDGg3O7lJHbiRh) | 3:12 |
 | 10 | [kill the girl](https://open.spotify.com/track/5z5Tph3uXkhy9CWANGbv7h) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [kill the girl](https://open.spotify.com/album/6POWvEgFWeIkFq35tMWUpH) | 2:30 |
 | 11 | [Super Magick](https://open.spotify.com/track/1rqlxNquDenrmhlRpArfJY) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Super Magick](https://open.spotify.com/album/1YEgFuLasIXyM2sLQo8US1) | 3:56 |
-| 12 | [Wish It On You](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 |
+| 12 | [Wish It On You \(with AViVA\)](https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Wish It On You \(with AViVA\)](https://open.spotify.com/album/3LqyfZlkmSjxgdBLqQrpZS) | 3:25 |
 | 13 | [Flagstaff](https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Flagstaff](https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM) | 2:47 |
 | 14 | [Roommates](https://open.spotify.com/track/17PptOBotUJkpT29mGyCB7) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Roommates // Overtime](https://open.spotify.com/album/4Fj5zzYFkEeSND67m9WbpL) | 3:20 |
 | 15 | [I Didn't Know Your Name](https://open.spotify.com/track/6LnkxUmLCxcF76z7piXM1Z) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Once Upon A Weekend](https://open.spotify.com/album/4Atbyz2PyX0mdtH9J2lZYW) | 3:41 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [girl at the bar](https://open.spotify.com/track/01iTCGEU89ojJoEe54HZGb) | [MAITA](https://open.spotify.com/artist/4vS7F8WLAPxQyMNAAHt9pn) | [girl at the bar](https://open.spotify.com/album/1726Jg1fVegun7L7dou3Pe) | 3:46 |
 | 40 | [Silver Teeth](https://open.spotify.com/track/6PVAfJJJGquT4EDLEzdi30) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Sugarcoat](https://open.spotify.com/album/0EQL2KDngVugkK73uORAyW) | 2:18 |
 | 41 | [Stumbling as I Fall](https://open.spotify.com/track/0QkjSWG4qtukt0HuhrdWN6) | [Sledges](https://open.spotify.com/artist/39MW9WVk4a5tpYN2Bw82qw) | [Losing Pace](https://open.spotify.com/album/4DNQU7UaD3scp1GGJMiS0a) | 3:22 |
-| 42 | [Kiss the Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss the Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 |
+| 42 | [Kiss The Sky](https://open.spotify.com/track/6gVySa3tU0A0zBlvbzYWbA) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Kiss The Sky](https://open.spotify.com/album/3pbx99AzPf1tTbsxvTp1u1) | 2:42 |
 | 43 | ['Merica](https://open.spotify.com/track/15wvi1dywPDHrtpb3Zo2PA) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | ['Merica](https://open.spotify.com/album/1xQBZWKkelKr8HCHQyZfba) | 2:45 |
 | 44 | [Old Tapes](https://open.spotify.com/track/4rwbETAkZ34IoS4ekKWJx7) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Old Tapes](https://open.spotify.com/album/2bZJn4YY39GHOA5NlpkIc7) | 3:41 |
 | 45 | [Adversity](https://open.spotify.com/track/4XXfZ11foyE5yjShXnoyTI) | [Deep Merries](https://open.spotify.com/artist/42l0fKzMugV26K0EufdWIP), [Dimi](https://open.spotify.com/artist/4Y7fABCOFVQt0fxmXoASbN) | [Adversity](https://open.spotify.com/album/6MAXpzvmJtpnG3VvUHUBFU) | 3:16 |

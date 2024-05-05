@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 45659,
+  "2024-05-05": 45656,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 231427,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/74URiG6anoH3ahw3SeDrZ4"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158910,
       "name": "ASPHALT RODEO",
       "url": "https://open.spotify.com/track/5pzmkgbNySjVLuab0ouPd2"
@@ -691,6 +691,24 @@
       "duration_ms": 225885,
       "name": "backseat driver",
       "url": "https://open.spotify.com/track/5y5Txpy5cKFSO3myprD4zC"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Reimagined)",
+        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Backwards - Reimagined",
+      "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
     },
     {
       "album": {
@@ -997,6 +1015,28 @@
       "duration_ms": 165799,
       "name": "Bitter Sweet Love",
       "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "album": {
+        "name": "Blame Brett (feat. Royal & The Serpent)",
+        "url": "https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177003,
+      "name": "Blame Brett (feat. Royal & The Serpent)",
+      "url": "https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD"
     },
     {
       "album": {
@@ -1348,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Breakfast EP",
+        "url": "https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161207,
+      "name": "Close Calls",
+      "url": "https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx"
+    },
+    {
+      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4"
       },
@@ -1485,7 +1543,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 175600,
       "name": "day i die",
       "url": "https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF"
@@ -1949,7 +2007,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 254680,
       "name": "Falling From Grace",
       "url": "https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ"
@@ -2051,7 +2109,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
@@ -3194,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "album": {
         "name": "Invincible Shield (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
@@ -3241,7 +3317,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 239089,
       "name": "Ithaca",
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
@@ -3441,6 +3517,24 @@
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
+    },
+    {
+      "album": {
+        "name": "Lady Killers III",
+        "url": "https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176132,
+      "name": "Lady Killers III",
+      "url": "https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR"
     },
     {
       "album": {
@@ -3880,6 +3974,28 @@
     },
     {
       "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/2Pcfs8BmHGXKsIcs8cJomT"
       },
@@ -4105,6 +4221,24 @@
       "duration_ms": 203148,
       "name": "My Home is You",
       "url": "https://open.spotify.com/track/21BVKaQL0In7HFPVW0pHkF"
+    },
+    {
+      "album": {
+        "name": "Cyan Blue",
+        "url": "https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209370,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5PFNNFzXDmLBPrcmpO5EYW"
     },
     {
       "album": {
@@ -4987,7 +5121,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 177662,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB"
@@ -5423,6 +5557,32 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
       "album": {
@@ -5999,10 +6159,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 183945,
       "name": "Taste (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/54cMd5EQYz1Fq7NUUvSdUr"
+    },
+    {
+      "album": {
+        "name": "Tennessee (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Tennessee (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
     },
     {
       "album": {
@@ -6035,7 +6217,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 200737,
       "name": "TEXAS HOLD 'EM (PONY UP) REMIX",
       "url": "https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7"
@@ -6223,7 +6405,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 145735,
       "name": "this is what slow dancing feels like",
       "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
@@ -6293,6 +6475,24 @@
       "duration_ms": 221226,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148665,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4"
     },
     {
       "album": {
@@ -6381,6 +6581,24 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "album": {
@@ -7079,7 +7297,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"

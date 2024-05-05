@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 4063,
+  "2024-05-05": 4136,
   "date_first_scraped": "2024-03-21",
   "description": "Christian instrumental worship for moments of calm, relaxation and reflection. ",
   "name": "Christian Instrumentals",
@@ -799,6 +799,24 @@
       "duration_ms": 149093,
       "name": "To God Be the Glory - Piano",
       "url": "https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ"
+    },
+    {
+      "album": {
+        "name": "Upon arising",
+        "url": "https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127460,
+      "name": "Upon arising",
+      "url": "https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT"
     },
     {
       "album": {

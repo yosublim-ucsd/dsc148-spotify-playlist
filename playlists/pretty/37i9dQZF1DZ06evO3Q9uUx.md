@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This Is BIA\. Los temas esenciales, todos en una lista.
+> This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,126 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,130 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 32 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
 | 33 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 |
 | 34 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
-| 35 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
-| 36 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
+| 35 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
+| 36 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
 | 37 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 38 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
 | 39 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 50 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 51 | [FREE BIA \(1ST DAY OUT\)](https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 1:54 |
 
-Snapshot ID: `ZjLXgAAAAAApBN00qcGcTb7WULa+zDRH`
+Snapshot ID: `ZjQpAAAAAAAo4s30/8mGEJwy4AUJCJD7`

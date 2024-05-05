@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,219 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,247 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 34 | [向日葵](https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [向日葵](https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y) | 4:19 |
 | 35 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 36 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
-| 37 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
-| 38 | [レクイエム](https://open.spotify.com/track/0MEFe9pCWd4BP8tw5sfh3K) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [レクイエム](https://open.spotify.com/album/5oqLJe9Djb24mLrMxYSPKZ) | 2:37 |
+| 37 | [レクイエム](https://open.spotify.com/track/0MEFe9pCWd4BP8tw5sfh3K) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [レクイエム](https://open.spotify.com/album/5oqLJe9Djb24mLrMxYSPKZ) | 2:37 |
+| 38 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 39 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 40 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 41 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 43 | [愛包ダンスホール](https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [愛包ダンスホール](https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36) | 3:39 |
 | 44 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
 | 45 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
-| 46 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
+| 46 | [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 |
 | 47 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
-| 48 | [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 |
+| 48 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 49 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 |
 | 50 | [感情御中 \- WANT U LUV IT](https://open.spotify.com/track/5f3Dg1YIy5yTlFa7H4MyCO) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [感情御中 \- WANT U LUV IT](https://open.spotify.com/album/68Xdvlu4LxXq1iNbxAnwh9) | 2:55 |
 

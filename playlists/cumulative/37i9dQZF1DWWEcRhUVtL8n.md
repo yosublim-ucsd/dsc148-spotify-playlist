@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Kacy Hill
 
-1,845 songs - 4 day 1 hr 12 min
+1,846 songs - 4 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 | 2023-09-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 | 2024-04-20 |
-| [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-03-08 |  |
+| [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-03-08 | 2024-05-05 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-07-29 |
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
@@ -1699,6 +1699,7 @@
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-10-13\* | 2021-06-02 |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2021-02-23 | 2021-05-28 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
+| [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 |  |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2020-10-16 | 2022-04-15 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2023-09-23 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 |  |

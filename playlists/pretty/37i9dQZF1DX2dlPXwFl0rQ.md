@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Estilo Sin Límite, Paty Cantu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,998 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,030 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 55 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 56 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 57 | [Una Vida](https://open.spotify.com/track/760FIaj8goTswBMMzezp2n) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Una Vida](https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI) | 2:57 |
-| 58 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
-| 59 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
+| 58 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
+| 59 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
 | 60 | [Yo Ni Te Topo](https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Yo Ni Te Topo](https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj) | 2:38 |
 | 61 | [Mujeres al Tiro](https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Mujeres al Tiro](https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg) | 2:25 |
 | 62 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
 | 63 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 |
-| 64 | [Lo Dijiste Todo \- En Vivo](https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Lo Dijiste Todo \(En Vivo\)](https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW) | 2:34 |
+| 64 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
 | 65 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 66 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
 | 67 | [Cherry Moët](https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Cherry Moët](https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B) | 2:28 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 69 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
 | 70 | [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 |
 | 71 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
-| 72 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
+| 72 | [Lo Dijiste Todo \- En Vivo](https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Lo Dijiste Todo \(En Vivo\)](https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW) | 2:34 |
 | 73 | [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 |
 | 74 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
 | 75 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 93 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
 | 94 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
 | 95 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
-| 96 | [Con Que Me Pagas \- En Vivo](https://open.spotify.com/track/0zbX5CH6xqlpr97SJKavlL) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:10 |
+| 96 | [Lindo Güerito \- En Vivo](https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:32 |
 | 97 | [Cerrada Al Amor](https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cerrada Al Amor](https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx) | 3:24 |
 | 98 | [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 |
-| 99 | [Nos Ganó El Amor](https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8) | 3:07 |
+| 99 | [Quería Que Fueras Tú](https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Quería Que Fueras Tú](https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY) | 2:54 |
 | 100 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
 
 Snapshot ID: `ZjR9YAAAAABSpwMUsd3MvJNd/kH3fSiZ`

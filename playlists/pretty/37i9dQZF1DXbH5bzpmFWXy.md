@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Lefty SM  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,572 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,614 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 54 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 55 | [Rich Kid](https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Rich Kid](https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW) | 2:55 |
 | 56 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
-| 57 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
-| 58 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
+| 57 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
+| 58 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
 | 59 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 60 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 |
 | 61 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 85 | [Cuando Llegue el Día](https://open.spotify.com/track/5O60WjoCD5egvktd0FK283) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Cuando Llegue el Día](https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC) | 3:58 |
 | 86 | [El Morrillo](https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [El Morrillo](https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd) | 2:47 |
 | 87 | [VIDA DE FAMOSO](https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:06 |
-| 88 | [El Aferrafter](https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Aferrafter](https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo) | 3:25 |
-| 89 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 |
+| 88 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 |
+| 89 | [El Aferrafter](https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Aferrafter](https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo) | 3:25 |
 | 90 | [Berlin](https://open.spotify.com/track/691TDibKzalozEkDXfKywX) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Berlin](https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s) | 3:44 |
 | 91 | [Porte Malandro Fresón](https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Porte Malandro Fresón](https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U) | 2:29 |
 | 92 | [Es Mi Gusto](https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq) | 3:35 |

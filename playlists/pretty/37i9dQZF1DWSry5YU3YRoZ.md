@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,056 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,067 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 15 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 |
 | 16 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 17 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
-| 18 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
-| 19 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
+| 18 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
+| 19 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
 | 20 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 |
 | 21 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 22 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 35 | [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 |
 | 36 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 |
 | 37 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 |
-| 38 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 |
+| 38 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
 | 39 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 |
-| 40 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
-| 41 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
+| 40 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
+| 41 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 |
 | 42 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 |
 | 43 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
 | 44 | [Down](https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MY ONLY 1 \(Original Soundtrack from the WEBTOON\)](https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx) | 3:53 |

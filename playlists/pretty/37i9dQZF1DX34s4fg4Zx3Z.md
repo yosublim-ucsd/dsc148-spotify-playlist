@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: The Cassette
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,507 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,517 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
 | 3 | [Thế Là Nên Đôi](https://open.spotify.com/track/2V74314Ad3e6obTjhbJsuy) | [thaolinh](https://open.spotify.com/artist/6s6NVtjbeh4vUMCIv3rCAS) | [Thế Là Nên Đôi](https://open.spotify.com/album/7kYQstIavwNE1uQ0894j1R) | 2:38 |
 | 4 | [Sớm Mai](https://open.spotify.com/track/7gbjGlh02ZL2mnyDawae0S) | [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e), [BONN!EX](https://open.spotify.com/artist/6kd0nlI8beYhd5PMv0u4KT) | [Sớm Mai](https://open.spotify.com/album/7v9p7Tf3dR7JckoGPxg1Xc) | 3:00 |
-| 5 | [Treo \(2am\)](https://open.spotify.com/track/5kGsa6CIvN5RaTb3rKzUdL) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Từ Vực Thẳm Đến Rìa Ánh Sáng](https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z) | 5:26 |
+| 5 | [Treo \(2:00 AM\)](https://open.spotify.com/track/5kGsa6CIvN5RaTb3rKzUdL) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Từ Vực Thẳm Đến Rìa Ánh Sáng](https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z) | 5:26 |
 | 6 | [2037](https://open.spotify.com/track/3kS0VFP7m6M3JMqLAPukhY) | [Tuấn Võ](https://open.spotify.com/artist/4EItpzIGBsSBfsp9MWJieQ) | [2037](https://open.spotify.com/album/7q5vYalDZgsG4npeeBKssI) | 3:46 |
 | 7 | [Là Từ Lúc](https://open.spotify.com/track/1fgzQI6AtswiR0JMXulldH) | [Nguyễn Minh Xuân Ái](https://open.spotify.com/artist/6q7zgDxCtOdvzKnTK6Er4x) | [Là Từ Lúc](https://open.spotify.com/album/75y35MEEKSOd8tSS8T6am0) | 4:26 |
 | 8 | [Anh Lại Làm Em Khóc Nữa Rồi](https://open.spotify.com/track/2JNrm4tcukECnbEPcS0lln) | [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [Anh Lại Làm Em Khóc Nữa Rồi](https://open.spotify.com/album/56kCfIjlCXc9kcSg1oInLF) | 4:33 |

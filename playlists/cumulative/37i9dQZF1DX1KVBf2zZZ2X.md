@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-156 songs - 7 hr 8 min
+157 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 |  |
 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 | 2023-11-18 |  |
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 |  |
-| [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 | 2024-04-01 |  |
+| [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 | 2024-04-01 | 2024-05-05 |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 |  |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
@@ -55,6 +55,7 @@
 | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/track/0l7RsztlECGX9Of6opJMSK) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/album/22KgajjdlBD7Ntg4d5cBGl) | 2:59 | 2024-03-05 |  |
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-01 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-03-03 |  |
+| [Earth Awakening](https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2) | [Yin Gaya](https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML) | [Earth Awakening](https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu) | 2:47 | 2024-05-01 |  |
 | [Empathy Through Nature](https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [Empathy Through Nature](https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t) | 3:15 | 2024-03-20 |  |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 |  |
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 |  |

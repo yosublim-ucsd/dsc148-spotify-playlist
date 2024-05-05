@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist dedicated to Sick New World Festival
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,782 likes - 44 songs - 2 hr 22 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,781 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 187250,
       "name": "Boundless",
       "url": "https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq"
@@ -848,6 +848,24 @@
       "duration_ms": 150810,
       "name": "Early Morning",
       "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
+    },
+    {
+      "album": {
+        "name": "Earth Awakening",
+        "url": "https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu"
+      },
+      "artists": [
+        {
+          "name": "Yin Gaya",
+          "url": "https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Earth Awakening",
+      "url": "https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2"
     },
     {
       "album": {

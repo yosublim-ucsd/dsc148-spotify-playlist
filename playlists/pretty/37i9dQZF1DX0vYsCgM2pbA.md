@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,610 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,681 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 46 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 |
 | 47 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 |
 | 48 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
-| 49 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
+| 49 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 50 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 |
-| 51 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
-| 52 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
+| 51 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
+| 52 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 53 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 | 54 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 55 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |

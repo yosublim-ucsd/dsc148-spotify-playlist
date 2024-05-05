@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 87861,
+  "2024-05-05": 87941,
   "date_first_scraped": "2023-05-19",
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=UrcGlaRcSSedz6TTOecUcw\">Dua Lipa</a>",
   "name": "New Music Friday South Africa",
@@ -13495,6 +13495,24 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "album": {
+        "name": "Dripping Trees",
+        "url": "https://open.spotify.com/album/69mFUHSOWZdJ6UKNZ144yb"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Dripping Trees",
+      "url": "https://open.spotify.com/track/2XK7gafDi1XsRLgCbMX97z"
     },
     {
       "album": {
@@ -32255,10 +32273,6 @@
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ritz Reynolds",
-          "url": "https://open.spotify.com/artist/4RZOYMtyz97jaU2x9SICqg"
         }
       ],
       "date_added": "2024-05-03",

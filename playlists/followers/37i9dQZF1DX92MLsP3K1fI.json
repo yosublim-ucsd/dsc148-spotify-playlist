@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 84347,
+  "2024-05-05": 84364,
   "date_first_scraped": "2022-02-09",
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Mau y Ricky con Guaynaa en portada.",
   "name": "Oye Pop",
@@ -369,7 +369,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 139506,
       "name": "Antisocial",
       "url": "https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW"
@@ -623,6 +623,28 @@
       "duration_ms": 154653,
       "name": "Bien Por Ti",
       "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+    },
+    {
+      "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "album": {
@@ -1590,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217326,
+      "name": "D\u00f3nde est\u00e1s?",
+      "url": "https://open.spotify.com/track/3siKQLur5hZAaqWTw2H7Ck"
+    },
+    {
+      "album": {
         "name": "D\u00f3nde Se Fue",
         "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
       },
@@ -2182,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "Hora Cero",
+        "url": "https://open.spotify.com/album/6RtOO5ZEjNLcugOS1BymHk"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179281,
+      "name": "Hora Cero",
+      "url": "https://open.spotify.com/track/6te6QkoOPL1WubwtBCcK6j"
+    },
+    {
+      "album": {
         "name": "Hora y Cuarto",
         "url": "https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C"
       },
@@ -2241,6 +2299,28 @@
       "duration_ms": 205013,
       "name": "IDIOTA",
       "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
+    },
+    {
+      "album": {
+        "name": "Inmortal",
+        "url": "https://open.spotify.com/album/4S42JxmVMMRlRvaeEieilB"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Fehr Rivas",
+          "url": "https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225007,
+      "name": "Inmortal",
+      "url": "https://open.spotify.com/track/6Wj8Xwu5LSOwcvAup56uhf"
     },
     {
       "album": {
@@ -2949,7 +3029,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181413,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
@@ -4073,7 +4153,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 209240,
       "name": "Queri\u00e9ndote De M\u00e1s",
       "url": "https://open.spotify.com/track/6W06y1H0SESwZfNGYeF4bz"
@@ -4171,6 +4251,32 @@
       "duration_ms": 188573,
       "name": "Recuerdo contigo </3",
       "url": "https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf"
+    },
+    {
+      "album": {
+        "name": "Rosita Fresita",
+        "url": "https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn"
+      },
+      "artists": [
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        },
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Rosita Fresita",
+      "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
     },
     {
       "album": {
@@ -4438,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "album": {
         "name": "Recuerdo",
         "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
       },
@@ -4577,6 +4701,24 @@
       "duration_ms": 206808,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/24qPSsYbHn9NzeDde6tIg7"
+    },
+    {
+      "album": {
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
     },
     {
       "album": {
@@ -4985,7 +5127,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 180648,
       "name": "Tengamos Pasado",
       "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
@@ -5189,7 +5331,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168120,
       "name": "Trago Al Pecho",
       "url": "https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw"
@@ -5211,7 +5353,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169010,
       "name": "Tu Look",
       "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
@@ -5327,7 +5469,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"

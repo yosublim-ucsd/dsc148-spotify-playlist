@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,218 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,260 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 73 | [Buttercup](https://open.spotify.com/track/7GUPYx7ywjcqBIUXssYjaW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX) | 3:46 |
 | 74 | [Can We Hang On ?](https://open.spotify.com/track/33DLdGdo8h58yo0oucWsHT) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:43 |
 | 75 | [Mourning Sound](https://open.spotify.com/track/0szSOfZVM3G5mWI1ogQjr7) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 4:22 |
-| 76 | [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 |
-| 77 | [Dum Surfer](https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [The OOZ](https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw) | 4:23 |
-| 78 | [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |
+| 76 | [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |
+| 77 | [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 |
+| 78 | [Dum Surfer](https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [The OOZ](https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw) | 4:23 |
 | 79 | [Tinseltown Swimming in Blood](https://open.spotify.com/track/2pseEtJHsIBo6BV2i8zHJs) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [ken \(Deluxe Version\)](https://open.spotify.com/album/2QYznp5mHZ0d7XboOfBHFR) | 4:46 |
 | 80 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
 | 81 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 |
 | 82 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
 | 83 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 84 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
-| 85 | [Find Yourself](https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Find Yourself](https://open.spotify.com/album/4Lq6ZcbdRAIWVb5dU02KRj) | 2:56 |
-| 86 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 |
+| 85 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 |
+| 86 | [Find Yourself](https://open.spotify.com/track/75bpVVgp0HCT9Ad6uIFGvH) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Find Yourself](https://open.spotify.com/album/4Lq6ZcbdRAIWVb5dU02KRj) | 2:56 |
 | 87 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 88 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
 | 89 | [Airplane Mode](https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk) | 2:44 |

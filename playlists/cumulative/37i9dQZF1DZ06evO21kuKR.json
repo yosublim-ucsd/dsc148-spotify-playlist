@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "TRYNA MAKE SURE",
+        "url": "https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh"
+    },
+    {
+      "album": {
         "name": "Purple Heart",
         "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
       },

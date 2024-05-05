@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 147854,
+  "num_followers": 147862,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAQ8oNaaoiue3dLFKqO5ua+",
+  "snapshot_id": "ZjQpAAAAAACVt1taTjn4PinIsV5rHSIW",
   "tracks": [
     {
       "added_at": null,
@@ -502,19 +502,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        },
-        {
-          "name": "Amadito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 151720,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
+      "duration_ms": 155266,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
     },
     {
       "added_at": null,
@@ -578,11 +570,19 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy"
+      "duration_ms": 151720,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 155266,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
+      "duration_ms": 226173,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy"
     },
     {
       "added_at": null,

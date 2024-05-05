@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 583097,
+  "num_followers": 583183,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADGuiXY+mzOqWiL5/wv0v9u",
+  "snapshot_id": "ZjQpAAAAAABYCfP23biM9k5/oOGZmbzz",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
         "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 189200,
       "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177066,
       "name": "No Quiero Saber - 1990 Version",
       "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 210680,
       "name": "Yo Me Voy",
       "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
     },
     {
       "added_at": null,

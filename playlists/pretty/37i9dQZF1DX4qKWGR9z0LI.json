@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Marc Anthony",
-  "num_followers": 1791779,
+  "num_followers": 1791838,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 302826,
       "name": "Ella Se Hizo Deseo",
       "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Yo Deluxe",
-        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 208774,
-      "name": "Es Un Secreto",
-      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Cartas Sobre La Mesa",
         "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Yo Deluxe",
+        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 208774,
+      "name": "Es Un Secreto",
+      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -923,6 +923,58 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Si T\u00fa Me Besas",
+        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 260920,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Esta Vida (Salsa Version)",
+        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
+        }
+      ],
+      "duration_ms": 223439,
+      "name": "Esta Vida (Salsa Version)",
+      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -951,74 +1003,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Si T\u00fa Me Besas",
-        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 260920,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Esta Vida (Salsa Version)",
-        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
-        }
-      ],
-      "duration_ms": 223439,
-      "name": "Esta Vida (Salsa Version)",
-      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Enam\u00f3rate Bailando",
-        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 267332,
-      "name": "Enam\u00f3rate Bailando",
-      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+        "name": "Enam\u00f3rate Bailando",
+        "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+      "duration_ms": 267332,
+      "name": "Enam\u00f3rate Bailando",
+      "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "La Foto, el Video, la Chicaner\u00eda",
+        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Calibre",
+          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+        }
+      ],
+      "duration_ms": 341839,
+      "name": "Charrupi",
+      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Foto, el Video, la Chicaner\u00eda",
-        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Calibre",
-          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
-        }
-      ],
-      "duration_ms": 341839,
-      "name": "Charrupi",
-      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 248325,
       "name": "Te Equivocaste Conmigo",
       "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 189088,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1467,38 +1467,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Bochinchero",
         "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
       },
@@ -1539,6 +1507,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "No Me Lo Creo",
         "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+        "name": "Pas\u00e1ndola bien",
+        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+      "duration_ms": 174411,
+      "name": "Pas\u00e1ndola bien",
+      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Yo",
-        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Te Quise Olvidar",
         "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
       },
@@ -1723,6 +1691,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Todav\u00eda Te Espero",
         "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 192063,
       "name": "Todav\u00eda Te Espero",
       "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
     },
     {
       "added_at": "2024-05-03 04:00:00",

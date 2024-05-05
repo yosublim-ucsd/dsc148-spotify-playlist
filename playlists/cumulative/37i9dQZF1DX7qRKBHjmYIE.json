@@ -6488,7 +6488,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 169557,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/1b7NUnBZaNgC7ygZOkUqGb"
@@ -11129,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "album": {
         "name": "Si nos vamos",
         "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
       },
@@ -12383,6 +12401,24 @@
     },
     {
       "album": {
+        "name": "THE ROOF IS ON FIRE",
+        "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112331,
+      "name": "THE ROOF IS ON FIRE",
+      "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
+    },
+    {
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -13030,7 +13066,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 156294,
       "name": "Unos y Ceros",
       "url": "https://open.spotify.com/track/6ASEjs65L4QRh1OP2GZlev"

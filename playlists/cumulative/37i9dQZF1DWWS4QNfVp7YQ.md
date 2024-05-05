@@ -4,11 +4,11 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-82 songs - 4 hr 29 min
+83 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 | 2024-03-08 |  |
+| [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 | 2024-03-08 | 2024-05-05 |
 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 | 2022-08-05 |  |
 | [Albaricoque](https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Albaricoque](https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi) | 3:30 | 2023-01-20 |  |
 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 | 2024-03-08 |  |
@@ -60,6 +60,7 @@
 | [Mueve Tu Caderita](https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr) | [DJ Morphius](https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN) | [Las Más Picudas del Tribal](https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA) | 3:12 | 2022-08-05 | 2024-02-16 |
 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 | 2022-08-05 | 2024-04-19 |
 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 | 2024-03-08 |  |
+| [Pa' Prender](https://open.spotify.com/track/076VW4EZwBkJi2rJBHfKwF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Pa' Prender](https://open.spotify.com/album/4239DsuTdIcdeXUIpyty97) | 3:03 | 2024-03-08 |  |
 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 | 2022-08-05 |  |
 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 | 2022-08-05 |  |
 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 | 2022-08-05 | 2024-04-19 |

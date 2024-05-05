@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 106357,
+  "2024-05-05": 106706,
   "date_first_scraped": "2022-02-25",
   "description": "New music breaking waves. Cover: <a href=\"spotify:artist:4OVbrPbhvK46A1uXTU1u5F\">Lay Bankz</a> ",
   "name": "Ripple Effect",
@@ -589,7 +589,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 104468,
       "name": "act i: stickerz \"99\"",
       "url": "https://open.spotify.com/track/24A1MxM364lveyyDomwIYq"
@@ -691,6 +691,24 @@
       "duration_ms": 129849,
       "name": "act iv: fckin u (18+)",
       "url": "https://open.spotify.com/track/1DUsjpq8Vp4NqfqQfJchYG"
+    },
+    {
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "act vi: mad man",
+      "url": "https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62"
     },
     {
       "album": {

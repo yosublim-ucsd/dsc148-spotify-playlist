@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 36930,
+  "2024-05-05": 36939,
   "date_first_scraped": "2021-12-28",
   "description": "Featuring today's dopest MCs.\nCover : Hip Hop Tamizha",
   "name": "Tamil Indie : Hip Hop",
@@ -143,10 +143,6 @@
       },
       "artists": [
         {
-          "name": "LD.PAUL",
-          "url": "https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G"
-        },
-        {
           "name": "LIL.PUT",
           "url": "https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx"
         },
@@ -157,6 +153,10 @@
         {
           "name": "Irai",
           "url": "https://open.spotify.com/artist/2Ow69iKQjp5sxmWcipjcfo"
+        },
+        {
+          "name": "LD.PAUL",
+          "url": "https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G"
         }
       ],
       "date_added": "2024-04-29",
@@ -1468,6 +1468,28 @@
     },
     {
       "album": {
+        "name": "JOLLY",
+        "url": "https://open.spotify.com/album/1kTUJ1pfc7XFa5zsEqk056"
+      },
+      "artists": [
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        },
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135449,
+      "name": "JOLLY",
+      "url": "https://open.spotify.com/track/1mFyUXPVmSjw8ZoD8C67ht"
+    },
+    {
+      "album": {
         "name": "Rebirth 2020",
         "url": "https://open.spotify.com/album/4xwnRTi0isDNpmy3VDpbuM"
       },
@@ -2333,7 +2355,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"

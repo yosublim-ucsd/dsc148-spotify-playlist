@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
-  "num_followers": 331615,
+  "num_followers": 331662,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 244133,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
         "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 155466,
       "name": "Por Las Calles De Chihuahua - En Vivo",
       "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Grandes Exitos A La Manera De Alejandro Fernandez",
         "url": "https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 177533,
       "name": "La Gloria Eres T\u00fa",
       "url": "https://open.spotify.com/track/5HpsHF2ZSw9NMAVKy04RMI"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2023-11-28 00:16:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,411 likes - 300 songs - 10 hr 42 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,400 likes - 300 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 273 | [Morning Coffee](https://open.spotify.com/track/26Im2slmMYxOOLqoO8n97f) | [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Morning Coffee](https://open.spotify.com/album/3MnudaCD24PbPyvKB5MJhr) | 1:49 |
 | 274 | [the mandela effect is an experiment on just how easy it is to erase history](https://open.spotify.com/track/1Bg2VlAZRYqSIxIudz8jos) | [kidstrange](https://open.spotify.com/artist/5SrifLuNGSnEP0v4epVwJ3) | [i sold my soul for space age technology](https://open.spotify.com/album/6vUUIVdfz8WztNPMytgcB0) | 1:51 |
 | 275 | [Angel's Trumpet](https://open.spotify.com/track/2HyIGLwylMBEFxYTTclQ07) | [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS), [Bitcrvsh](https://open.spotify.com/artist/2b0zGISM0G9ANUxq9bIpeA) | [Angel's Trumpet](https://open.spotify.com/album/4CK7Cp4LaPVmq33P342Ko0) | 2:04 |
-| 276 | [Motion](https://open.spotify.com/track/3lRbXUSVd6ZewvFhXHErbf) | [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero), [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Motion](https://open.spotify.com/album/1jsZ5iGE2krgACoZmu2hah) | 1:07 |
+| 276 | [Motion](https://open.spotify.com/track/3lRbXUSVd6ZewvFhXHErbf) | [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero), [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Motion](https://open.spotify.com/album/1jsZ5iGE2krgACoZmu2hah) | 2:12 |
 | 277 | [Close To You](https://open.spotify.com/track/1FfP9jK8SbOeL11XVulgQQ) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Close To You](https://open.spotify.com/album/0QximJJ98yd4ZF5XBIasnT) | 1:52 |
 | 278 | [Grow Natural](https://open.spotify.com/track/21xR8EObzI9tahno0kzI1g) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi) | [Grow Natural](https://open.spotify.com/album/3mMSHJUTWuIFhG4sWlw1CG) | 2:36 |
 | 279 | [turns](https://open.spotify.com/track/32R42xOtWXdtLvZGtkCD95) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [aeaoea](https://open.spotify.com/artist/6EKRIJcs7dag5uMLF3Dybh), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [turns](https://open.spotify.com/album/6axL3GfdC25XKpCvgdk184) | 2:14 |

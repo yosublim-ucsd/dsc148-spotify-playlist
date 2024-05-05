@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 57167,
+  "num_followers": 57176,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 169487,
       "name": "el film - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Coraz\u00f3n de Metal",
         "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 175408,
       "name": "Coraz\u00f3n de Metal",
       "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -703,22 +703,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Sed de Ternura Vol.1 (Duo Set)",
-        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        },
-        {
-          "name": "Juan Pablo de Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+        "name": "Sed de Ternura Vol.1 (Duo Set)",
+        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Juan Pablo de Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
         }
       ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+      "duration_ms": 187000,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "plasti bonus track",
         "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 202687,
       "name": "hoy me despert\u00e9 as\u00ed - v. 02",
       "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Un Nuevo Ritmo",
+        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "Un Nuevo Ritmo",
+      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Un Nuevo Ritmo",
-        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 213164,
-      "name": "Un Nuevo Ritmo",
-      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,826 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,834 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 39 | [Somos o Mundo](https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:14 |
 | 40 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 
-Snapshot ID: `ZjLXgAAAAAA2VrYg2nFX69evXRs/FU+P`
+Snapshot ID: `ZjQpAAAAAACTZFPXQnMFCGtl/c5qYZKU`

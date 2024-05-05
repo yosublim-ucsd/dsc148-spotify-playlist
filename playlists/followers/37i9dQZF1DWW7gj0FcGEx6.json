@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 286647,
+  "2024-05-05": 286723,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -974,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Dementus Is Gaining (from \"Furiosa: A Mad Max Saga\")",
+        "url": "https://open.spotify.com/album/1vWpboi8b0LLhUihX0JwGk"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277800,
+      "name": "Dementus Is Gaining - from \"Furiosa: A Mad Max Saga\"",
+      "url": "https://open.spotify.com/track/00qJ3vS081EtrgJMW0j6mI"
+    },
+    {
+      "album": {
         "name": "The Invisible Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/59sXTIcXbu1LB3sc3muRS6"
       },
@@ -1307,6 +1325,24 @@
       "duration_ms": 233757,
       "name": "End",
       "url": "https://open.spotify.com/track/6AvYxIG35XLT3Vpeydm0Oj"
+    },
+    {
+      "album": {
+        "name": "We Were the Lucky Ones (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3UkIJ7q261RbXHhYztS15H"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66400,
+      "name": "End Titles (We Were the Lucky Ones)",
+      "url": "https://open.spotify.com/track/5U0Zf20ahBoFlIz5w4qiw1"
     },
     {
       "album": {
@@ -6433,6 +6469,28 @@
       "duration_ms": 212520,
       "name": "What Lies Ahead",
       "url": "https://open.spotify.com/track/7LyHmHqI6t5rpi2BDSlO0M"
+    },
+    {
+      "album": {
+        "name": "The Tattooist of Auschwitz (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3cx1ds4j6353nYetKxBOdX"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Kara Talve",
+          "url": "https://open.spotify.com/artist/3EHtbaE4XfijksNLg8kK3N"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232250,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6dU7upUDqJasYhxB4zliT5"
     },
     {
       "album": {

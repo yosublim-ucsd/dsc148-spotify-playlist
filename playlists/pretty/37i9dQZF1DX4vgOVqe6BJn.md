@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,543 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,608 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 6 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 7 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 8 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
-| 9 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
-| 10 | [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 |
+| 9 | [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 |
+| 10 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 11 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
 | 12 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 13 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 26 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
 | 27 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 28 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
-| 29 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
-| 30 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
+| 29 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
+| 30 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
 | 31 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 |
 | 32 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
 | 33 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 54 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
 | 55 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 56 | [Season](https://open.spotify.com/track/6nM0Mxdc0VUTzqbBY0wk4H) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:07 |
-| 57 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
-| 58 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
+| 57 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
+| 58 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
 | 59 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 |
 | 60 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
 | 61 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |

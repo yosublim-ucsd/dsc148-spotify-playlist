@@ -2,7 +2,7 @@
 
 ### [This Is Rodríguez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r0CBy)
 
-> This is Rodríguez\. The essential tracks, all in one playlist.
+> This Is Rodríguez\. Los temas esenciales, todos en una lista.
 
 22 songs - 1 hr 17 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,182 likes - 60 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,338 likes - 60 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 24 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
 | 25 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
 | 26 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 |
-| 27 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
-| 28 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
+| 27 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
+| 28 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
 | 29 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
 | 30 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 |
 | 31 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |

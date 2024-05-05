@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,462 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,485 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Affiliations](https://open.spotify.com/track/3dBXJCFQy5VzP3y6sZJKB3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [TLG Dooda](https://open.spotify.com/artist/6ccIoUe0YFANnBMT6Utygw), [EBK Trey B](https://open.spotify.com/artist/7oXvysW3peGY3AEa17WoFt), [EBK Lil Sleaze](https://open.spotify.com/artist/3EcV9JbK3RCHWnNyBaIipD) | [Hotboiiz:4L](https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo) | 1:11 |
 | 2 | [If We Being Rëal](https://open.spotify.com/track/2NQsRx1Zz1lwKU7JvwZfRW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 2:52 |
 | 3 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 |
-| 4 | [Nothing like you](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [Nothing like you](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
+| 4 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 |
 | 5 | [MOVE YO BODY \- sped up](https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P) | 1:57 |
 | 6 | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 |
 | 7 | [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 |

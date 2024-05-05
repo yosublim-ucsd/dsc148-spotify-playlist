@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 22931,
+  "2024-05-05": 22959,
   "date_first_scraped": "2024-01-30",
   "description": "Highlighting key releases from this month\u2019s most exciting songwriters from around the globe. Cover: <a href=\"https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs?si=SBcEfoTTRteVArBDUyl_Ug\">Armaan Malik</a>, <a href=\"https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX?si=WyO4f2_zTMOpnb-PR5IH7A\">Calum Scott</a>, <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFMXdDNyT5XPb?si=f17706ee09a94673\">Jon Maguire</a> and <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT?si=57bbd3e8ae3b4985\">Bill Maybury</a> .",
   "name": "Noteable",
@@ -266,7 +266,7 @@
     },
     {
       "album": {
-        "name": "You Promised A Lifetime",
+        "name": "You Promised A Lifetime (Acoustic)",
         "url": "https://open.spotify.com/album/4yNdh8AQRD3bcsybZQn2W1"
       },
       "artists": [
@@ -667,6 +667,24 @@
       "duration_ms": 190500,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/32lnNkk8zZZ7AwpbUpAel3"
+    },
+    {
+      "album": {
+        "name": "Grandmaster",
+        "url": "https://open.spotify.com/album/1Dnn9OSFtBRTXUKd9sRSk9"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster",
+          "url": "https://open.spotify.com/artist/7LXJXa3NoATgNOq9VC848H"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185437,
+      "name": "Eternal Cycle",
+      "url": "https://open.spotify.com/track/6ZDQt43FhBQQfBNYt6MXVY"
     },
     {
       "album": {
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 225749,
       "name": "Same Road",
       "url": "https://open.spotify.com/track/5Hbmizr0ss3edCuh5d6eNT"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 221973,
       "name": "The Lost Ones",
       "url": "https://open.spotify.com/track/1AbpcaXytcVYnTeWg74Wuu"

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 563738,
+  "num_followers": 563791,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAB++wSnNcTGisUWVK/a4OG6",
+  "snapshot_id": "ZjQpAAAAAAAmpJZgEagO5M/E5HTd+8Gp",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 411133,
-      "name": "Flawless (Go to the City)",
-      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+      "duration_ms": 361640,
+      "name": "The Strangest Thing",
+      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 361640,
-      "name": "The Strangest Thing",
-      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
+      "duration_ms": 411133,
+      "name": "Flawless (Go to the City)",
+      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
     },
     {
       "added_at": null,

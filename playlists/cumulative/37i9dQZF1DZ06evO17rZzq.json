@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-08",
-  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
+  "description": "This is Kaliii. The essential tracks, all in one playlist.",
   "name": "This Is Kaliii",
   "tracks": [
     {
@@ -388,6 +388,36 @@
       "duration_ms": 153847,
       "name": "Chainzzz (feat. Muni Long)",
       "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
+    },
+    {
+      "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Jimmy Jolliff",
+          "url": "https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160723,
+      "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
+      "url": "https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9"
     },
     {
       "album": {
@@ -960,7 +990,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 226151,
       "name": "Peakin'",
       "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"

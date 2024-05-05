@@ -4,7 +4,7 @@
 
 > Watch this be the wrong thing\. CLASSIC!  📷 Gracie Abrams
 
-2,032 songs - 4 day 6 hr 17 min
+2,033 songs - 4 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1004,7 +1004,7 @@
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 | 2022-12-10 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-01-21 | 2024-01-05 |
 | [killing time](https://open.spotify.com/track/51jmw8SLKHpN7WDsqzk4uQ) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [killing time](https://open.spotify.com/album/6nlfXRWDo8dqfjqsp4LjJI) | 2:53 | 2023-11-10 | 2023-11-18 |
-| [Killing Time](https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Killing Time](https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ) | 3:42 | 2024-01-19 |  |
+| [Killing Time](https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Killing Time](https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ) | 3:42 | 2024-01-19 | 2024-05-05 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2021-11-26 | 2022-02-09 |
 | [Kiss Face](https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6fAWKIRjxt4NTIdENraWci) | 2:35 | 2022-08-12 | 2022-09-17 |
@@ -1847,6 +1847,7 @@
 | [Too Broke For Therapy](https://open.spotify.com/track/5ntcKh2DuPYADOsl58X2C8) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Too Broke For Therapy](https://open.spotify.com/album/1CuBpaY0B41aLjBMYrIiwp) | 2:26 | 2022-07-01 | 2022-07-03 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-14 | 2022-01-08 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 |  |
+| [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 |  |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-03 |
 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 | 2024-03-29 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 |  |

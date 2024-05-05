@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 458016,
+  "2024-05-05": 458069,
   "date_first_scraped": "2022-01-09",
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
   "name": "Ska Latino ",
@@ -611,6 +611,28 @@
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "album": {
+        "name": "Califato Independent",
+        "url": "https://open.spotify.com/album/3WlD9qvs0ZRlGZzMDtLA7q"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        },
+        {
+          "name": "Las manos de Filippi",
+          "url": "https://open.spotify.com/artist/53Ik4pv6iE2gZ7Xc4BKlFJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195431,
+      "name": "Califato Independent",
+      "url": "https://open.spotify.com/track/1pTf5ckxQ0HDR3ebDtVCl4"
     },
     {
       "album": {
@@ -1304,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "album": {
         "name": "Donde Sale el Sol",
         "url": "https://open.spotify.com/album/5CYB8wY9CNNVpa3nifb2IY"
       },
@@ -1945,7 +1985,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
@@ -2101,7 +2141,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
@@ -3146,6 +3186,24 @@
     },
     {
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/4LnnHaLA7KByCKgrcyNtFc"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/156aNcRPFoLlW2WzpD8apD"
+    },
+    {
+      "album": {
         "name": "Muchas Noches, Buenas Gracias",
         "url": "https://open.spotify.com/album/5OEzYiqPv2GSi6RTemlNK7"
       },
@@ -3520,6 +3578,28 @@
     },
     {
       "album": {
+        "name": "No Pasa Nada",
+        "url": "https://open.spotify.com/album/3pGMHJWQi2hhfkF4RvADCN"
+      },
+      "artists": [
+        {
+          "name": "Katamaran",
+          "url": "https://open.spotify.com/artist/0AVCrISFnuxOFibKfRzKwt"
+        },
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170529,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/59jQsqBgaRM6keNNXqsaQG"
+    },
+    {
+      "album": {
         "name": "No Puedo Alejarme de Ti",
         "url": "https://open.spotify.com/album/3efcp26m9AKYM2zO2Ptw96"
       },
@@ -3637,7 +3717,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224528,
       "name": "No Volver\u00e1n",
       "url": "https://open.spotify.com/track/2jIHWczYdtSj28CIcs3e8v"
@@ -4015,7 +4095,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 176823,
       "name": "Pinche Amor",
       "url": "https://open.spotify.com/track/2jbwRjFEWL13nkoXx8oJBy"
@@ -4245,6 +4325,24 @@
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
+    },
+    {
+      "album": {
+        "name": "Que te vaya bien.",
+        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
+      },
+      "artists": [
+        {
+          "name": "Las Mambas Mx",
+          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279213,
+      "name": "Que te vaya bien.",
+      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
     },
     {
       "album": {
@@ -4955,7 +5053,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 186175,
       "name": "Siente El Movimiento",
       "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"

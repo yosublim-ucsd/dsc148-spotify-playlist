@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 57 min
+128 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 | 2024-01-29 |  |
 | [Follow Me](https://open.spotify.com/track/1cxzQfvZrPP1vm8U1BlTyM) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me \(Official Video\)](https://open.spotify.com/album/2VxvQNDuUZF2wqpBiq60r3) | 3:01 | 2024-01-31 | 2024-02-02 |
 | [Foolish](https://open.spotify.com/track/1vf2fGxOHfMF1N4DdYLezO) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Foolish](https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x) | 3:32 | 2024-01-29 |  |
+| [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-05-04 |  |
 | [Friend Of Mine](https://open.spotify.com/track/0nUivJUv25vMAXg4BKxKPW) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:14 | 2024-04-28 |  |
 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 | 2024-01-29 | 2024-04-29 |
 | [Glow](https://open.spotify.com/track/3mwiwIozeFMcyayHReAXyE) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:50 | 2024-01-29 |  |

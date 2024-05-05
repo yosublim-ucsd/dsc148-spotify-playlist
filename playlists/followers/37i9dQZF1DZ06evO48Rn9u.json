@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 136824,
+  "2024-05-05": 136876,
   "date_first_scraped": "2024-03-10",
-  "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
+  "description": "This is Kacey Musgraves. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Kacey Musgraves",
   "tracks": [
     {
@@ -621,6 +621,28 @@
       "duration_ms": 166320,
       "name": "keep lookin\u2019 up",
       "url": "https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw"
+    },
+    {
+      "album": {
+        "name": "Cayamo Sessions At Sea",
+        "url": "https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134986,
+      "name": "Love\u2019s Gonna Live Here",
+      "url": "https://open.spotify.com/track/22PvVttdf9S1kPqscIjtHP"
     },
     {
       "album": {

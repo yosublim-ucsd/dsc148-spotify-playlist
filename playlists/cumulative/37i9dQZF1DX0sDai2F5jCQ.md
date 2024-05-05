@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Kendrick Lamar
 
-251 songs - 12 hr 25 min
+252 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [WHAT DO](https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Souths Most Wanted](https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR) | 2:56 | 2024-04-11 |  |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-08 | 2024-03-15 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-07 |  |
+| [Whatsapp \(Wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Whatsapp \(Wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-04 |  |
 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 | 2023-10-05 | 2023-10-27 |
 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 | 2024-01-04 |  |
 | [Winner](https://open.spotify.com/track/2EsD0WwgZ3ZxbrDbGkZZyS) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 3:33 | 2023-09-22 | 2023-09-29 |

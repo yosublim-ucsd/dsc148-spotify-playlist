@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 2147162,
+  "2024-05-05": 2147227,
   "date_first_scraped": "2021-12-21",
   "description": "Unwind to these calm classical guitar pieces.",
   "name": "Peaceful Guitar",
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 158039,
       "name": "Arroyos Y Valles",
       "url": "https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 165088,
       "name": "Brescia",
       "url": "https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip"
@@ -2513,7 +2513,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169818,
       "name": "Cut Flower Garden",
       "url": "https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r"
@@ -2931,7 +2931,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 205817,
       "name": "Demelza",
       "url": "https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW"
@@ -3727,7 +3727,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169810,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y"
@@ -4051,7 +4051,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 172384,
       "name": "Feelings You Cannot Hide",
       "url": "https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4"
@@ -4447,7 +4447,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 129595,
       "name": "Gambrels of the Sky",
       "url": "https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt"
@@ -4969,7 +4969,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167266,
       "name": "Hendaye",
       "url": "https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau"
@@ -5005,7 +5005,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 144078,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD"
@@ -5365,7 +5365,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148154,
       "name": "Il Tramonto",
       "url": "https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd"
@@ -5981,7 +5981,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 142029,
       "name": "Kalon",
       "url": "https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6"
@@ -6820,6 +6820,24 @@
     },
     {
       "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP"
+    },
+    {
+      "album": {
         "name": "Lingering Bloom",
         "url": "https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR"
       },
@@ -7011,7 +7029,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 167666,
       "name": "Lonely Prayer",
       "url": "https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7"
@@ -7353,7 +7371,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 193727,
       "name": "Manzanilla",
       "url": "https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb"
@@ -8073,7 +8091,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 177739,
       "name": "My Garden",
       "url": "https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH"
@@ -8163,7 +8181,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 181135,
       "name": "M\u00e9rtola",
       "url": "https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0"
@@ -8293,6 +8311,24 @@
       "duration_ms": 175504,
       "name": "Nessun Dorma - Guitar Solo",
       "url": "https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx"
+    },
+    {
+      "album": {
+        "name": "Never Certain",
+        "url": "https://open.spotify.com/album/4wdnDRywKOuILU3uWW9BdF"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142188,
+      "name": "Never Certain",
+      "url": "https://open.spotify.com/track/3ZkOLftaatCYd85DmAkXAr"
     },
     {
       "album": {
@@ -8890,6 +8926,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Sunday",
+        "url": "https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164338,
+      "name": "Ordinary Sunday",
+      "url": "https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955"
+    },
+    {
+      "album": {
         "name": "Ordino",
         "url": "https://open.spotify.com/album/17Ur7n3dhPusy2R1M9UO0i"
       },
@@ -8955,7 +9009,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 185351,
       "name": "Outerinho",
       "url": "https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY"
@@ -9711,7 +9765,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 153726,
       "name": "Reminiscent Of Us",
       "url": "https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H"
@@ -9916,6 +9970,24 @@
     },
     {
       "album": {
+        "name": "River crossing",
+        "url": "https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "River crossing",
+      "url": "https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL"
+    },
+    {
+      "album": {
         "name": "River of Regisfield",
         "url": "https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP"
       },
@@ -10053,7 +10125,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 146839,
       "name": "Sail For Toumain",
       "url": "https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou"
@@ -10161,7 +10233,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 143464,
       "name": "Sancy",
       "url": "https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz"
@@ -10719,7 +10791,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 139348,
       "name": "Silent Senses",
       "url": "https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB"
@@ -10957,6 +11029,24 @@
       "duration_ms": 162905,
       "name": "Soleil Levant",
       "url": "https://open.spotify.com/track/5vhZfWLpcbV4X08gvBhWlN"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL"
+      },
+      "artists": [
+        {
+          "name": "Casper Hatlestad",
+          "url": "https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5"
     },
     {
       "album": {
@@ -11691,7 +11781,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148527,
       "name": "Sweet Sister",
       "url": "https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq"

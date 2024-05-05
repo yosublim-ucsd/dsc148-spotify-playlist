@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Humbe y Bruses en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79684,
+  "num_followers": 79685,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-03 14:45:27",
       "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2024-05-03 14:45:27",
-      "album": {
         "name": "DIME X FAVOR",
         "url": "https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "added_at": "2024-05-03 14:45:27",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2024-05-03 14:45:27",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-03 14:45:27",
       "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
-    },
-    {
-      "added_at": "2024-05-03 14:45:27",
-      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 163451,
       "name": "feliz a\u00f1o nuevo",
       "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+    },
+    {
+      "added_at": "2024-05-03 14:45:27",
+      "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2024-05-03 14:45:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-05-03 14:45:27",
       "album": {
-        "name": "M\u00e1s Normal De L... N... (67%)",
-        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 153904,
-      "name": "\u00bfQu\u00e9 Me Dices?",
-      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
-    },
-    {
-      "added_at": "2024-05-03 14:45:27",
-      "album": {
         "name": "BITCH3",
         "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 144554,
       "name": "BITCH3",
       "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "added_at": "2024-05-03 14:45:27",
+      "album": {
+        "name": "M\u00e1s Normal De L... N... (67%)",
+        "url": "https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "\u00bfQu\u00e9 Me Dices?",
+      "url": "https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X"
     },
     {
       "added_at": "2024-05-03 14:45:27",

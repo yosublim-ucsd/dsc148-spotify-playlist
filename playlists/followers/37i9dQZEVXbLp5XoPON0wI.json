@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 241133,
+  "2024-05-05": 241228,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - USA.",
   "name": "Top Songs - USA",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 240205,
       "name": "Cassandra",
       "url": "https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 213281,
       "name": "Chloe or Sam or Sophia or Marcus",
       "url": "https://open.spotify.com/track/1rmEsOezwf2lmIZTMAO5Ag"
@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "album": {
         "name": "RMCM",
         "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
@@ -941,7 +959,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 243875,
       "name": "I Hate It Here",
       "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 131907,
       "name": "I Look in People's Windows",
       "url": "https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
@@ -2063,6 +2081,42 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY (VHS)",
+      "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
     },
     {
       "album": {
@@ -2485,7 +2539,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 283957,
       "name": "Peter",
       "url": "https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S"
@@ -2705,7 +2759,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -2767,7 +2821,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 240893,
       "name": "Robin",
       "url": "https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW"
@@ -3283,7 +3337,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 263817,
       "name": "thanK you aIMee",
       "url": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
@@ -3301,7 +3355,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 183878,
       "name": "The Albatross",
       "url": "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX"
@@ -3355,7 +3409,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 238241,
       "name": "The Bolter",
       "url": "https://open.spotify.com/track/2913xXOVAIDAqxzV2g4VcU"
@@ -3391,7 +3445,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224743,
       "name": "The Manuscript",
       "url": "https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo"
@@ -3689,7 +3743,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"

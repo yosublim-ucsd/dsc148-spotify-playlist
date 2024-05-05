@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 179302,
+  "2024-05-05": 179377,
   "date_first_scraped": "2023-08-09",
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
   "name": "Folk Fabrique",
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
@@ -2082,6 +2082,24 @@
     },
     {
       "album": {
+        "name": "Oh France",
+        "url": "https://open.spotify.com/album/5YREluP9Wz4gG4C5aJXuPS"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340248,
+      "name": "Oh France",
+      "url": "https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW"
+    },
+    {
+      "album": {
         "name": "OH WAH (feat. NATURE)",
         "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
       },
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
@@ -2441,6 +2459,28 @@
       "duration_ms": 287026,
       "name": "Serpentines (to Nik\u0161i\u0107)",
       "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
+    },
+    {
+      "album": {
+        "name": "Setan Dolbon",
+        "url": "https://open.spotify.com/album/64zMN3GKtlvu0ohJXYSg7o"
+      },
+      "artists": [
+        {
+          "name": "LAIR",
+          "url": "https://open.spotify.com/artist/5WB1tkUeYbCriTlg3RyBjm"
+        },
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "Setan Dolbon",
+      "url": "https://open.spotify.com/track/5CJsMppFOvs7NNOZWreNdd"
     },
     {
       "album": {

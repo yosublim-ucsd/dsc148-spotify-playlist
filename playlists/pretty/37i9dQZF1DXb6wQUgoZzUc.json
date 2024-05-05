@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 912273,
+  "num_followers": 912521,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "The Last Don II",
-        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Guaya Guaya",
-      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "LA NENA",
         "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "The Last Don II",
+        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Guaya Guaya",
+      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -323,6 +323,42 @@
       "duration_ms": 185739,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -351,42 +387,6 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 210788,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "PRIMER AVISO",
-        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "PRIMER AVISO",
-      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 193636,
       "name": "512",
       "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "PRIMER AVISO",
+        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "PRIMER AVISO",
+      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 191588,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Suano",
         "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 137264,
       "name": "Suano",
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 191588,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Mr. W",
+        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "Perreo 101",
+      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 163708,
       "name": "Quien TV Remix",
       "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Mr. W",
-        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "Perreo 101",
-      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "La T\u00f3xica",
         "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -2007,34 +2007,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "0 Millas",
-        "url": "https://open.spotify.com/album/3bMctF74OPNARlPLx3ETVJ"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 213576,
-      "name": "0 Millas",
-      "url": "https://open.spotify.com/track/7Flou2vrw6Aub4snhRRIVW"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -2067,6 +2039,34 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "0 Millas",
+        "url": "https://open.spotify.com/album/3bMctF74OPNARlPLx3ETVJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 213576,
+      "name": "0 Millas",
+      "url": "https://open.spotify.com/track/7Flou2vrw6Aub4snhRRIVW"
     },
     {
       "added_at": "2024-05-03 06:00:00",

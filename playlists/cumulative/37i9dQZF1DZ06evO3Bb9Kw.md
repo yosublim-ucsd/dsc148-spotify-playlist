@@ -2,9 +2,9 @@
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is Miranda Lambert\. Todos os maiores hits em uma só playlist.
+> This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 47 min
+82 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,8 @@
 | [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 | 2022-09-08 |  |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:22 | 2022-09-08 | 2023-12-14 |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/4ERE39Qs60GxA6gUuGhQz6) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE) | 3:22 | 2023-12-13 |  |
-| [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-09-08 | 2024-05-04 |
-| [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 | 2022-09-08 |  |
+| [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-09-08 |  |
+| [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 | 2022-09-08 | 2024-05-05 |
 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 | 2022-09-08 |  |
 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 | 2022-09-08 |  |
 | [Geraldene](https://open.spotify.com/track/0NsuUdm4N9Ih1xluu2cWp0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:01 | 2022-09-08 |  |
@@ -88,6 +88,7 @@
 | [We Should Be Friends](https://open.spotify.com/track/66hAuG73iyknIMW4icfEGg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 2:50 | 2022-09-08 |  |
 | [We Were Us](https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:11 | 2022-09-08 |  |
 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 | 2022-09-08 |  |
+| [Wranglers](https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN) | 2:58 | 2024-05-05 |  |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2022-09-08 | 2023-09-26 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

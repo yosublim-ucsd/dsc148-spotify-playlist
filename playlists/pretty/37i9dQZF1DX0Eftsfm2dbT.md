@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX, LANA
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX, LANA, LiLi
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,896 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,934 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 94 | [Get Back](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 |
 | 95 | [Do u remember me](https://open.spotify.com/track/3oMNrj9cG8BmcbsqTGkmvE) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/1iLEyfPZUxESIN0stdz0Ak) | 3:28 |
 
-Snapshot ID: `ZjL8EAAAAABYvUzdIGmtP7OkX+DrG//z`
+Snapshot ID: `ZjZNcAAAAADrHPqtnGxKfsEX4GZdDrKH`

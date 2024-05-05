@@ -1,12 +1,12 @@
 {
-  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
-  "num_followers": 387317,
+  "description": "This is League of Legends. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 387333,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACieaPsLlY9ZN4pR74QIrz7",
+  "snapshot_id": "ZjQpAAAAAABKixzA2qjawvSR6zNspH86",
   "tracks": [
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zeri, the Spark of Zaun",
-        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
-        }
-      ],
-      "duration_ms": 213362,
-      "name": "Zeri, the Spark of Zaun",
-      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rules (Are Meant to Break)",
         "url": "https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 181470,
       "name": "Rules (Are Meant to Break)",
       "url": "https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zeri, the Spark of Zaun",
+        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "duration_ms": 213362,
+      "name": "Zeri, the Spark of Zaun",
+      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
     },
     {
       "added_at": null,

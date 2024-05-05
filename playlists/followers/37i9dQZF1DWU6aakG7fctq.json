@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 483557,
+  "2024-05-05": 483542,
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Elsa y Elmar",
+  "description": "Fresh Latin Indie you should know. Cover: Ambar Lucid",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -339,7 +339,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 169604,
       "name": "Acto de Fe",
       "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 224126,
       "name": "De noche me cuesta m\u00e1s",
       "url": "https://open.spotify.com/track/1wKatnmF8t1Lt1rt7Ele0C"
@@ -2787,6 +2787,24 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "album": {
+        "name": "le tengo miedo a las alturas",
+        "url": "https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209045,
+      "name": "droga del momento",
+      "url": "https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A"
     },
     {
       "album": {
@@ -4851,7 +4869,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 182608,
       "name": "la noche del viernes",
       "url": "https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9"
@@ -7435,7 +7453,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 142200,
       "name": "NSQD",
       "url": "https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B"
@@ -7711,6 +7729,24 @@
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
+    },
+    {
+      "album": {
+        "name": "Ojos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/5r3yrryDAXmH9XrdXhAGyZ"
+      },
+      "artists": [
+        {
+          "name": "Est\u00e9reo Waves",
+          "url": "https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/6wLcm1FMD3fdCPnPHLnRFv"
     },
     {
       "album": {
@@ -8483,7 +8519,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 173773,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29"
@@ -9551,7 +9587,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
@@ -9722,6 +9758,24 @@
     },
     {
       "album": {
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
       },
@@ -9831,6 +9885,28 @@
       "duration_ms": 264490,
       "name": "Solo Una Amiga",
       "url": "https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM"
+    },
+    {
+      "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277645,
+      "name": "Solos t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC"
     },
     {
       "album": {
@@ -10903,6 +10979,24 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "album": {
+        "name": "Truth Is so Loud",
+        "url": "https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224579,
+      "name": "Truth Is so Loud",
+      "url": "https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA"
     },
     {
       "album": {

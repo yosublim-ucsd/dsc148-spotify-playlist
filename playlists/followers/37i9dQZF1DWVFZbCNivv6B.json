@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 820140,
+  "2024-05-05": 820175,
   "date_first_scraped": "2022-02-09",
   "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan y Rich The Kid en la casa. ",
   "name": "Arena Hip-Hop",
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
@@ -3357,7 +3357,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 304500,
       "name": "El Principio",
       "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
@@ -3757,6 +3757,32 @@
       "duration_ms": 212700,
       "name": "Estaba Sola",
       "url": "https://open.spotify.com/track/7aIThRKpe9ZpsEbLqE2GMg"
+    },
+    {
+      "album": {
+        "name": "Estilo B\u00e9lico",
+        "url": "https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh"
+      },
+      "artists": [
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Estilo B\u00e9lico",
+      "url": "https://open.spotify.com/track/4N2QWDCHXmLNQX94TxUc8s"
     },
     {
       "album": {
@@ -4479,7 +4505,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 269038,
       "name": "Humo y Tequila",
       "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
@@ -6520,6 +6546,28 @@
     },
     {
       "album": {
+        "name": "Miss Diablo",
+        "url": "https://open.spotify.com/album/4s8SELkg0riptSKUZxidei"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151755,
+      "name": "Miss Diablo",
+      "url": "https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8"
+    },
+    {
+      "album": {
         "name": "Mitolo G's",
         "url": "https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1"
       },
@@ -6929,6 +6977,36 @@
       "duration_ms": 195000,
       "name": "No Conoce",
       "url": "https://open.spotify.com/track/00hsimDIZc9gGLQtldbmtA"
+    },
+    {
+      "album": {
+        "name": "No Es Que Sea Mam\u00f3n",
+        "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "No Es Que Sea Mam\u00f3n",
+      "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124019,
+  "num_followers": 124024,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAACwf1w/T8fnSa43s3R9eusL",
+  "snapshot_id": "ZjQpAAAAAABfbuniN+cjkh0fh5umapk2",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vas a Destrozarme",
-        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Himno A La Alegr\u00eda",
         "url": "https://open.spotify.com/album/79GsPr84E13Bbm3VjwZ6PW"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 212348,
       "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
       "url": "https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "added_at": null,
@@ -1107,26 +1127,6 @@
       "duration_ms": 137333,
       "name": "OUCH",
       "url": "https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es Normal (con Jay Wheeler)",
-        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "No Es Normal (con Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

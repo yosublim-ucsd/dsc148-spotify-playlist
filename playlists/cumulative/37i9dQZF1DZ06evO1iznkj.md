@@ -2,9 +2,9 @@
 
 ### [This Is Gunna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iznkj)
 
-> This Is Gunna\. Los temas esenciales, todos en una lista.
+> This is Gunna\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 56 min
+60 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2023-11-10 |  |
 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 | 2023-11-10 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2023-11-10 |  |
-| [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 | 2023-11-10 |  |
+| [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 | 2023-11-10 | 2024-05-05 |
 | [Stuck In A Dream \(feat\. Gunna\)](https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Certified Hitmaker](https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp) | 2:03 | 2023-11-10 |  |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-11-10 |  |
 | [thought i was playing](https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:47 | 2023-11-10 |  |
@@ -65,6 +65,7 @@
 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 | 2023-11-10 |  |
 | [turned your back](https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 4:03 | 2023-11-10 |  |
 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2023-11-10 |  |
+| [Whatsapp \(Wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Whatsapp \(Wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-05 |  |
 | [Who You Foolin](https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 2:31 | 2023-11-10 |  |
 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 | 2023-11-10 | 2023-12-14 |
 

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 167362,
+  "num_followers": 167388,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Detalhes",
         "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 170000,
       "name": "Detalhes",
       "url": "https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        }
-      ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 204604,
       "name": "perco o ar",
       "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -851,46 +851,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
-      },
-      "artists": [
-        {
-          "name": "Coimbra",
-          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
-        },
-        {
-          "name": "Cibelle Aguiar",
-          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -915,22 +875,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Real (Citando Djonga)",
-        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
       "artists": [
         {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
         },
         {
-          "name": "MofoRec",
-          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Real (Citando Djonga)",
-      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -951,6 +911,46 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
+      },
+      "artists": [
+        {
+          "name": "Coimbra",
+          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
+        },
+        {
+          "name": "Cibelle Aguiar",
+          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Real (Citando Djonga)",
+        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
+      },
+      "artists": [
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
+        },
+        {
+          "name": "MofoRec",
+          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Real (Citando Djonga)",
+      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
       "artists": [
         {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "A\u00e7a\u00ed e Amendo\u00edm",
+        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
+      },
+      "artists": [
+        {
+          "name": "Nevess",
+          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
+        }
+      ],
+      "duration_ms": 193414,
+      "name": "A\u00e7a\u00ed e Amendo\u00edm",
+      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 189233,
       "name": "Nessa Vida",
       "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "A\u00e7a\u00ed e Amendo\u00edm",
-        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
-      },
-      "artists": [
-        {
-          "name": "Nevess",
-          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
-        }
-      ],
-      "duration_ms": 193414,
-      "name": "A\u00e7a\u00ed e Amendo\u00edm",
-      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
     },
     {
       "added_at": "2024-05-03 03:01:00",

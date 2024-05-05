@@ -4,7 +4,7 @@
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 3 min
+41 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 | 2023-12-18 |  |
 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 | 2024-02-10 |  |
 | [down 4 u](https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:57 | 2023-12-18 |  |
+| [el mensaje](https://open.spotify.com/track/4Xtk25KlBgB1hqnvO27T5J) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:23 | 2024-05-05 |  |
 | [fantasies](https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 | 2023-12-18 |  |
 | [get better](https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 2:46 | 2023-12-18 |  |
 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 | 2023-12-18 |  |

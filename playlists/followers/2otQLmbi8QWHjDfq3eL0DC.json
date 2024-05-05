@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1357695,
+  "2024-05-05": 1357596,
   "date_first_scraped": "2023-11-08",
   "description": "The hottest dance hits, updated every week.. All the biggest summer dance, house and electronic music to vibe to in 2024!",
   "name": "HOUSE MUSIC 2024 | TOP 100 DANCE HITS",
@@ -1011,6 +1011,24 @@
       "duration_ms": 178593,
       "name": "Easy On My Heart",
       "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/5iQrsBUUGwmBWeUMETtby6"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179948,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/0I7i8CLkydZcwcyi1Ls9c1"
     },
     {
       "album": {

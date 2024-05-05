@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,332 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,319 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 30 | [道標](https://open.spotify.com/track/69uzBPnsEJKLC9oMQXMbwg) | [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa), [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:55 |
 | 31 | [脳内ピエロ](https://open.spotify.com/track/3xaMOAP9yNTgEz6IUifi8R) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6), [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:28 |
 | 32 | [スピール](https://open.spotify.com/track/2VLsHaBEkSruZmfH8UvQZN) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 3:21 |
-| 33 | [忍恋](https://open.spotify.com/track/6QD1bJUKQyQe2vTgrQt21M) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:14 |
+| 33 | [キングオブ受動態](https://open.spotify.com/track/3ThiOXOlD0jvLM9a412MjW) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:26 |
 | 34 | [だいよげん](https://open.spotify.com/track/4bV7sX5toVrQJIvamzkqam) | [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [だいよげん](https://open.spotify.com/album/3On5tKLgPhPwXIE7QREADq) | 4:39 |
 | 35 | [ギンギラ銀河](https://open.spotify.com/track/4cw2aJ8jSxhNWgtu2who12) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:19 |
 | 36 | [おかえりらぶっ！](https://open.spotify.com/track/0g7afKFBOqx7tiLoYhvneF) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:42 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 70 | [犬系男子留守番中](https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:56 |
 | 71 | [パンピじゃないのよッ!!](https://open.spotify.com/track/1nPeAlvdtQz2JcoRC1alaE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [アスター](https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82) | 3:47 |
 | 72 | [secret base \~君がくれたもの\~](https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt) | 5:04 |
-| 73 | [No Perfect](https://open.spotify.com/track/2mF6hgwBbQOkMBzZ9MaCiO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:19 |
-| 74 | [辛いや嫌](https://open.spotify.com/track/0Yce7K4Gd8F1Ir2DqJVfkU) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:22 |
-| 75 | [赤道セニョール](https://open.spotify.com/track/7edbJjRIpLmD6kPz4VBgae) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:53 |
+| 73 | [赤道セニョール](https://open.spotify.com/track/7edbJjRIpLmD6kPz4VBgae) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:53 |
+| 74 | [No Perfect](https://open.spotify.com/track/2mF6hgwBbQOkMBzZ9MaCiO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:19 |
+| 75 | [辛いや嫌](https://open.spotify.com/track/0Yce7K4Gd8F1Ir2DqJVfkU) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:22 |
 
 Snapshot ID: `ZRMlrQAAAAAgfDkTcTP61JodccsaZ7+e`

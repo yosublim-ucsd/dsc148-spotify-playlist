@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,379 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,385 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 21 | [Hum Bewafa Hargiz Na Thay \- Unwind Instrumental](https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 4:47 |
 | 22 | [Sensuous](https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Sitar Gaze](https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8) | 11:03 |
 | 23 | [Tantric Bliss / Sitar and Tabla](https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D) | [Relaxing Guitar for Massage, Yoga, and Meditation](https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag) | [Acoustic Ascension 3](https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H) | 9:06 |
-| 24 | [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 |
+| 24 | [Albela Sajan \- Instrumental](https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 3:13 |
 | 25 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 |
-| 26 | [Albela Sajan \- Instrumental](https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 3:13 |
+| 26 | [Raga Hansadhwani \(Dancing Spring\)](https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:00 |
 | 27 | [Sitar Gaze \(reprise\)](https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Sitar Gaze](https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8) | 5:07 |
 | 28 | [Stoney Sitar](https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW) | [Sitar Water](https://open.spotify.com/artist/48heZtys7Y8VCsIdVLQ6Ak) | [Stoney Sitar](https://open.spotify.com/album/3l4WUfnEoaPxoUC0JSjYCV) | 9:03 |
 | 29 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 |

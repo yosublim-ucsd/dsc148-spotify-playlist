@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 271612,
+  "num_followers": 271649,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAADlse3No5I8XiA8jY6lh2Ij",
+  "snapshot_id": "ZjQpAAAAAABj2lwaOu5wl7JHSFV4SjcF",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 213848,
-      "name": "Heaven Is",
-      "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 239727,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 213848,
+      "name": "Heaven Is",
+      "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "I Wanna Touch U",
-      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 217648,
+      "name": "I Wanna Touch U",
+      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 327250,
       "name": "Paper Sun",
       "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 423016,
       "name": "White Lightning",
       "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Fire It Up",
-      "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
     }
   ],
   "unique_name": "This Is Def Leppard",

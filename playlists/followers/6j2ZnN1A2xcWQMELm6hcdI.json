@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 334256,
+  "2024-05-05": 334239,
   "date_first_scraped": "2022-06-10",
   "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Normani",
   "name": "Influence \ud83d\udc85 Hot Girl Era 2024",
@@ -57,6 +57,24 @@
       "duration_ms": 189125,
       "name": "1-800-GOT-STRESS",
       "url": "https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf"
+    },
+    {
+      "album": {
+        "name": "100 Bands",
+        "url": "https://open.spotify.com/album/4c4krYMGjRDh5FxtEEQhP2"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127183,
+      "name": "100 Bands",
+      "url": "https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV"
     },
     {
       "album": {
@@ -2551,6 +2569,28 @@
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "album": {
+        "name": "Expensive (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Expensive (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
     },
     {
       "album": {
@@ -7582,6 +7622,24 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Te Espero Sentada",
+      "url": "https://open.spotify.com/track/4bEY1yu9hUoDslA1oc9OIa"
+    },
+    {
+      "album": {
         "name": "Technique (Sprite Limelight)",
         "url": "https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1"
       },
@@ -8785,6 +8843,24 @@
       "duration_ms": 178666,
       "name": "\u00daltima",
       "url": "https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L"
+    },
+    {
+      "album": {
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "\ud574\uc57c (HEYA)",
+      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI"

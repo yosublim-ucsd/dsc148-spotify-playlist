@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 ### [This Is Lefty Sm](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmBVf)
 
-> This Is Lefty Sm\. Los temas esenciales, todos en una lista.
+> This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,709 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,837 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 7 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
 | 8 | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr) | 3:39 |
 | 9 | [Pa' Andar Risueño](https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pa' Andar Risueño](https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13) | 3:36 |
-| 10 | [Diganle](https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Diganle](https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr) | 3:15 |
-| 11 | [Vuela](https://open.spotify.com/track/1QXwpAhLrrHsCKdtiHMFCt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Vuela](https://open.spotify.com/album/0X0f1u386z18IE4KK2rdkZ) | 3:37 |
+| 10 | [Vuela](https://open.spotify.com/track/1QXwpAhLrrHsCKdtiHMFCt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Vuela](https://open.spotify.com/album/0X0f1u386z18IE4KK2rdkZ) | 3:37 |
+| 11 | [Diganle](https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Diganle](https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr) | 3:15 |
 | 12 | [Encerrado En Mi Mundo](https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Encerrado En Mi Mundo](https://open.spotify.com/album/5YvOq1cAoJNiHkLLL2qgX9) | 3:58 |
 | 13 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 |
-| 14 | [Muero](https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Muero](https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF) | 4:18 |
-| 15 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
+| 14 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
+| 15 | [Muero](https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Muero](https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF) | 4:18 |
 | 16 | [Ando Al Millón](https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ando Al Millón](https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn) | 3:55 |
 | 17 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 |
 | 18 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 50 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 |
 | 51 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 
-Snapshot ID: `ZjLXgAAAAADIt4XF1h8xjEc8okYx53VM`
+Snapshot ID: `ZjQpAAAAAAATryaRca+xue0jPzWQpFN0`

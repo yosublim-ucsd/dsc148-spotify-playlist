@@ -9535,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "Neon Soul",
+        "url": "https://open.spotify.com/album/2F8222MfSVB6ccU1Tl02Zk"
+      },
+      "artists": [
+        {
+          "name": "Deathroar",
+          "url": "https://open.spotify.com/artist/5CNgIGV8GwEpwNko0VrUw7"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151782,
+      "name": "Get Out Of My Mind",
+      "url": "https://open.spotify.com/track/7EZcsKgOpPw8QoGagSQGGR"
+    },
+    {
+      "album": {
         "name": "GET RICH",
         "url": "https://open.spotify.com/album/1N8iGoBo34WamWgAorkFzS"
       },
@@ -11218,8 +11236,8 @@
           "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
         },
         {
-          "name": "Livid",
-          "url": "https://open.spotify.com/artist/5DLwwUSV14DFRtj6s9BUFo"
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
         }
       ],
       "date_added": "2024-05-03",
@@ -13056,6 +13074,28 @@
       "duration_ms": 203596,
       "name": "Knocked Out",
       "url": "https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va"
+    },
+    {
+      "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/4dBKKdcHSqZe7j6cKpZD4S"
+      },
+      "artists": [
+        {
+          "name": "Bumloco",
+          "url": "https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M"
+        },
+        {
+          "name": "Hickz",
+          "url": "https://open.spotify.com/artist/7sLMlmiXlbkdDP7OnEYOCO"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/1zk0QdUYmguWujXc5T0NJO"
     },
     {
       "album": {
@@ -24470,6 +24510,24 @@
       "duration_ms": 149853,
       "name": "To the Top",
       "url": "https://open.spotify.com/track/1s5OCXuJ5D7g9qJ1YCJjX6"
+    },
+    {
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/4hlJDxIBylLU2EWF411A47"
+      },
+      "artists": [
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192482,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/5yYROmMZBCIhd1edtA3As1"
     },
     {
       "album": {

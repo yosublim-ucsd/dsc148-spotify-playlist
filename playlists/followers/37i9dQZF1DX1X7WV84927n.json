@@ -1,7 +1,7 @@
 {
-  "2024-05-04": 357888,
+  "2024-05-05": 358005,
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers, new and recent favorites. Cover: Black Veil Brides",
+  "description": "For full-volume lovers, new and recent favorites. Cover: All That Remains",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263942,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "album": {
         "name": "Break You",
         "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
@@ -2732,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219676,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "album": {
         "name": "Dogs Of War",
         "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
       },
@@ -3177,7 +3213,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 202285,
       "name": "enemies",
       "url": "https://open.spotify.com/track/6nSh7kDJwZsu5MPHa9cz9T"
@@ -3816,6 +3852,24 @@
     },
     {
       "album": {
+        "name": "Forever Sleep",
+        "url": "https://open.spotify.com/album/7b23tyW3PQfp5KVdgNgmT6"
+      },
+      "artists": [
+        {
+          "name": "Moon Fever",
+          "url": "https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230246,
+      "name": "Forever Sleep",
+      "url": "https://open.spotify.com/track/030xU0ubjIloATsUDXbW15"
+    },
+    {
+      "album": {
         "name": "Framed",
         "url": "https://open.spotify.com/album/31eJcUcsYbTWuc3K4TQRXH"
       },
@@ -4033,6 +4087,28 @@
       "duration_ms": 221306,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7pBQZBry3YU6ciSwXrjVdh"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5xvR0BgncQhoPckkh3ave3"
+      },
+      "artists": [
+        {
+          "name": "Onlap",
+          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
+        },
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226956,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/2kMLum5ivVsAtMCTN3o6y9"
     },
     {
       "album": {
@@ -4445,7 +4521,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 226733,
       "name": "Hands Of The Zodiac",
       "url": "https://open.spotify.com/track/07VuZl01CKiz3nuyRGPkmN"
@@ -5199,7 +5275,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 174400,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv"
@@ -7437,7 +7513,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 208714,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/5SJ5ne8gpme3742MeSMqQ8"
@@ -8378,6 +8454,24 @@
     },
     {
       "album": {
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh"
+    },
+    {
+      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/0x9NVwmHIApAPGvIzC5mNo"
       },
@@ -9122,6 +9216,24 @@
     },
     {
       "album": {
+        "name": "Songs From Savage",
+        "url": "https://open.spotify.com/album/2bsVPrz9kvvjtKsD0FRahJ"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195856,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/0PJEfnCE6I9iGOA6A9TucF"
+    },
+    {
+      "album": {
         "name": "Out Loud",
         "url": "https://open.spotify.com/album/6I5ZkRSSsrfl0FsSfuXb1R"
       },
@@ -9793,7 +9905,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 214826,
       "name": "Soul Revolution (feat. Yung Mo$h)",
       "url": "https://open.spotify.com/track/5R4Wo2Q4ByKEl4M2yWS2si"
@@ -10017,7 +10129,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Strings",
       "url": "https://open.spotify.com/track/2SVVS94k30M3wgm7COhSsW"
@@ -11773,7 +11885,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 192967,
       "name": "UNDERNEATH",
       "url": "https://open.spotify.com/track/4BeoN5v8iRmM1JW1Aln0H3"
@@ -11907,7 +12019,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 214826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3jESXgVdq4COa7QrbUAL0T"

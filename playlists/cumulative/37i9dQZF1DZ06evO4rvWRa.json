@@ -189,6 +189,32 @@
     },
     {
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R"
+    },
+    {
+      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/18CHItBE46OBhU3Qbybr7y"
       },
@@ -234,7 +260,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/5hT3U17QZiP74YN9xF32JG"
@@ -1590,6 +1616,28 @@
       "duration_ms": 204533,
       "name": "Unity",
       "url": "https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD"
+    },
+    {
+      "album": {
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168999,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
     },
     {
       "album": {

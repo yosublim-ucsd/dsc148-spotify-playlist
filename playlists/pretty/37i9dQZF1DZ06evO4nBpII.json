@@ -1,12 +1,12 @@
 {
-  "description": "This Is Green Day. Los temas esenciales, todos en una lista.",
-  "num_followers": 1036700,
+  "description": "This is Green Day. The essential tracks, all in one playlist.",
+  "num_followers": 1036856,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAV/WQtNy2V2QBexJcsl0yZ",
+  "snapshot_id": "ZjQpAAAAAABOc1kOALCSRIPQ9ZsaTDqR",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 151173,
-      "name": "Walking Contradiction",
-      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
+      "duration_ms": 168866,
+      "name": "Nice Guys Finish Last",
+      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Nice Guys Finish Last",
-      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
     },
     {
       "added_at": null,

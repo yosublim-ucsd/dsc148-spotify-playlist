@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-05",
       "duration_ms": 210008,
       "name": "For You",
       "url": "https://open.spotify.com/track/5mfl2mpVEyZLXk2E52rpp4"
@@ -6404,6 +6404,28 @@
       "duration_ms": 183963,
       "name": "Us",
       "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
+    },
+    {
+      "album": {
+        "name": "Vision Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vision Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "album": {

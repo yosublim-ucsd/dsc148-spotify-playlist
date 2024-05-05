@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1271820,
+  "2024-05-05": 1272007,
   "date_first_scraped": "2021-12-28",
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: Cocteau Twins",
   "name": "Alternative 90s",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 230866,
       "name": "Beautiful Ones (Remastered)",
       "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
@@ -1711,6 +1711,24 @@
       "duration_ms": 345066,
       "name": "Good to Be on the Road Back Home Again",
       "url": "https://open.spotify.com/track/6est1Q03Q4hJLkrFilZ9gk"
+    },
+    {
+      "album": {
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390426,
+      "name": "Gorecki",
+      "url": "https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1380223,
+  "num_followers": 1380144,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "ADIVINO",
+        "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 278644,
+      "name": "ADIVINO",
+      "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
       },
@@ -223,22 +243,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "Tu Sabor",
         "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
@@ -259,22 +263,18 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "ADIVINO",
-        "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 278644,
-      "name": "ADIVINO",
-      "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "1000COSAS",
-        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
         }
       ],
-      "duration_ms": 239482,
-      "name": "1000COSAS",
-      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -719,18 +715,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Tengo Un Plan",
-        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
       "artists": [
         {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 189282,
-      "name": "Tengo Un Plan",
-      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -767,6 +767,26 @@
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -831,26 +851,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -955,22 +935,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T"
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1003,6 +983,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1059,26 +1039,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -1099,6 +1059,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Ahi",
+      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "En Esta Boca",
         "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
@@ -1259,6 +1259,26 @@
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1303,26 +1323,6 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 157838,
-      "name": "Ahi",
-      "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "Beso (Fruta Fresca)",
         "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "N\u00daMERO TELEF\u00d3NICO",
+      "url": "https://open.spotify.com/track/6PbLnd6t5qAtn6saMvbCOE"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "N\u00daMERO TELEF\u00d3NICO",
-      "url": "https://open.spotify.com/track/6PbLnd6t5qAtn6saMvbCOE"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 134581,
       "name": "C\u00d3MO CHILLA ELLA",
       "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1795,18 +1811,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+        "name": "Me Arriesgo Contigo",
+        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 189066,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+      "duration_ms": 165760,
+      "name": "Me Arriesgo Contigo",
+      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1827,26 +1847,6 @@
       "duration_ms": 193355,
       "name": "F* OFF",
       "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "Me Arriesgo Contigo",
-        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Me Arriesgo Contigo",
-      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
     },
     {
       "added_at": "2024-05-02 16:48:59",

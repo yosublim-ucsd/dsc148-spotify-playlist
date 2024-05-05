@@ -1,6 +1,6 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: BABYMONSTER) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 955824,
+  "num_followers": 955957,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-04-30 11:34:55",
       "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "But I",
+      "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
+    },
+    {
+      "added_at": "2024-04-30 11:34:55",
+      "album": {
         "name": "Life is Wet",
         "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 186000,
       "name": "Life is Wet",
       "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
-    },
-    {
-      "added_at": "2024-04-30 11:34:55",
-      "album": {
-        "name": "COLOURS",
-        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "But I",
-      "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
     },
     {
       "added_at": "2024-04-30 11:34:55",

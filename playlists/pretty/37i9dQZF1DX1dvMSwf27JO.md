@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. ELLE's breakthrough artists: girl in red, Tyla, and Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,306 likes - 91 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,255 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

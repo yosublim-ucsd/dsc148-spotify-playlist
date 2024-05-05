@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 586556,
+  "2024-05-05": 586731,
   "date_first_scraped": "2021-12-21",
   "description": "Rock out while you game.",
   "name": "Ultimate Rock Gaming",
@@ -2489,6 +2489,28 @@
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed (feat. J Balvin)",
+        "url": "https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL"
     },
     {
       "album": {
@@ -5769,7 +5791,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP"

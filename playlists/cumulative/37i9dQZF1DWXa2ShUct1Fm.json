@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "MAESTRO (Orchestra Remix)",
+        "url": "https://open.spotify.com/album/7GGV2EX8kvyOrb31e3qJSB"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "MAESTRO (Orchestra Remix)",
+      "url": "https://open.spotify.com/track/36LiHWhPhdKScTlDpEsUyv"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 2nd Mini Album \u2018BOYS BE\u2019",
         "url": "https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 220330,
+  "num_followers": 220432,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-08 19:07:12",
       "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2024-03-08 19:07:12",
+      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
-    },
-    {
-      "added_at": "2024-03-08 19:07:12",
-      "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
     },
     {
       "added_at": "2024-03-08 19:07:12",

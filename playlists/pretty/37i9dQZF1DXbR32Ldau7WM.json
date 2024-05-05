@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: I Don't Like Mondays.",
-  "num_followers": 282308,
+  "num_followers": 282355,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Eye's Sentry",
-      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "\u5fc3\u5909\u308f\u308a",
         "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 223657,
       "name": "\u5fc3\u5909\u308f\u308a",
       "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
+        "name": "andymori",
+        "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
+      },
+      "artists": [
+        {
+          "name": "andymori",
+          "url": "https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA"
+        }
+      ],
+      "duration_ms": 86280,
+      "name": "\u3059\u3054\u3044\u901f\u3055",
+      "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
         "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
         "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 213706,
       "name": "\u8d85\u30e1\u30e2\u30ea\u30a2\u30eb",
       "url": "https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
-        "name": "andymori",
-        "url": "https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z"
-      },
-      "artists": [
-        {
-          "name": "andymori",
-          "url": "https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA"
-        }
-      ],
-      "duration_ms": 86280,
-      "name": "\u3059\u3054\u3044\u901f\u3055",
-      "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
+        "name": "\u8d16\u7f6a",
+        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "duration_ms": 237176,
+      "name": "\u8d16\u7f6a",
+      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
-        "name": "\u8d16\u7f6a",
-        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
-      },
-      "artists": [
-        {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "\u8d16\u7f6a",
-      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
     },
     {
       "added_at": "2024-04-30 15:49:41",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-04-30 15:49:41",
       "album": {
-        "name": "800TRIBUTE-champloo is the BEST!!2-",
-        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 260278,
-      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
-    },
-    {
-      "added_at": "2024-04-30 15:49:41",
-      "album": {
         "name": "The Devil In Me",
         "url": "https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 263413,
       "name": "The Devil In Me",
       "url": "https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2"
+    },
+    {
+      "added_at": "2024-04-30 15:49:41",
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
     },
     {
       "added_at": "2024-04-30 15:49:41",

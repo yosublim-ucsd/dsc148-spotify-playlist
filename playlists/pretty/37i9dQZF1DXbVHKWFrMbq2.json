@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear.",
-  "num_followers": 16932,
+  "num_followers": 16945,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 217209,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     }
   ],
   "unique_name": "pop tranqui",

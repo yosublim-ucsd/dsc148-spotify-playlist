@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 505913,
+  "2024-05-05": 514761,
   "date_first_scraped": "2021-12-21",
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
   "name": "Best of Star Wars",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 148672,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/3AP3GrI8DwcMK7lX8x5aiX"
@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 9-12) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6LqpJg7gedj71TlxZETgMj"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136157,
+      "name": "Ahsoka and the 501st",
+      "url": "https://open.spotify.com/track/09Mtsz2tJ2T68KxrfPvYFt"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
       },
@@ -155,6 +173,24 @@
       "duration_ms": 142306,
       "name": "Ahsoka Leaves",
       "url": "https://open.spotify.com/track/2MhsbNixSxMiitxzlFR22o"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
+        "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223356,
+      "name": "Ahsoka Lives",
+      "url": "https://open.spotify.com/track/7Gq4mTdhrYlY5dHy2UooRH"
     },
     {
       "album": {
@@ -702,6 +738,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Departure of Boba Fett",
+      "url": "https://open.spotify.com/track/3SJalt7jrTvWnaps4CZp8h"
+    },
+    {
+      "album": {
         "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
       },
@@ -815,6 +873,24 @@
       "duration_ms": 481173,
       "name": "Ewok Celebration and Finale",
       "url": "https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Fanfare and Prologue",
+      "url": "https://open.spotify.com/track/4YobM2FcsIxRcDx11et0G7"
     },
     {
       "album": {
@@ -953,7 +1029,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 41710,
       "name": "Float",
       "url": "https://open.spotify.com/track/2TveaBL9SwE5ERQP9HtwE5"
@@ -1007,7 +1083,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 196565,
       "name": "For MY Family",
       "url": "https://open.spotify.com/track/6Jxe3v2gAydPT9dXG0TXPh"
@@ -1105,7 +1181,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 170130,
       "name": "Igyah Kah",
       "url": "https://open.spotify.com/track/0PAAvfnD7uzg1mXW6cI6tx"
@@ -1149,6 +1225,28 @@
       "duration_ms": 189760,
       "name": "Inquisitors' Hunt",
       "url": "https://open.spotify.com/track/2vFMaqgyFB3PZMnC3AI3vZ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Into the Trap",
+      "url": "https://open.spotify.com/track/4I7uZnCpdzSZMu0Oz6ZzOS"
     },
     {
       "album": {
@@ -1304,6 +1402,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286813,
+      "name": "Luke and Leia",
+      "url": "https://open.spotify.com/track/1HhLogd8ljnRgXM8FlAR8o"
+    },
+    {
+      "album": {
         "name": "Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist #1",
         "url": "https://open.spotify.com/album/1fQ2xIyz97KPIanPT8WKHG"
       },
@@ -1381,6 +1501,24 @@
       "duration_ms": 385920,
       "name": "Main Title and The Attack on the Jakku Village",
       "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "March of the Resistance",
+      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
     },
     {
       "album": {
@@ -1550,6 +1688,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "Princess Leia's Theme",
+      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
       },
@@ -1579,7 +1739,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 81120,
       "name": "Requiem for Blasters",
       "url": "https://open.spotify.com/track/3rpd2CDwDkSrFGE5M8EvWO"
@@ -1619,6 +1779,24 @@
       "duration_ms": 191066,
       "name": "Rey's Theme",
       "url": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd"
+    },
+    {
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124546,
+      "name": "Rogue One",
+      "url": "https://open.spotify.com/track/0O5xBn8C6Reu3ihKbSBgB7"
     },
     {
       "album": {
@@ -1775,7 +1953,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 52842,
       "name": "Star Waver",
       "url": "https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ"
@@ -1880,6 +2058,24 @@
     },
     {
       "album": {
+        "name": "The Mandalorian: Chapter 8 (Original Score)",
+        "url": "https://open.spotify.com/album/4UbdaOH1jy1l9EG9vLFCle"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "The Baby",
+      "url": "https://open.spotify.com/track/2hpBErFRab0qwNSzgglCNk"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },
@@ -1963,7 +2159,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 37084,
       "name": "The Contacts of the Heart",
       "url": "https://open.spotify.com/track/1kDq05NT6YWUG6DOYjxslU"
@@ -2010,6 +2206,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311293,
+      "name": "The Droid Invasion and the Appearance of Darth Maul",
+      "url": "https://open.spotify.com/track/6CX899yO5b5DZh2Gvtw5se"
+    },
+    {
+      "album": {
         "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
       },
@@ -2046,6 +2264,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/7GIrmKsto81NqfojCzICJ1"
+    },
+    {
+      "album": {
         "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
         "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
       },
@@ -2061,6 +2301,24 @@
       "duration_ms": 46336,
       "name": "The Empire",
       "url": "https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "The Falcon",
+      "url": "https://open.spotify.com/track/73kJJ42uVT0eu1CseFBu7i"
     },
     {
       "album": {
@@ -2177,6 +2435,24 @@
       "duration_ms": 149760,
       "name": "The Imperial Suite",
       "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531586,
+      "name": "The Jedi Steps and Finale",
+      "url": "https://open.spotify.com/track/3fdY6ZVYtiHcrArNdvK3Ux"
     },
     {
       "album": {
@@ -2300,6 +2576,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "The Return of the Jedi",
+      "url": "https://open.spotify.com/track/3TDxntdbGLgwRpCuquaBb4"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
       },
@@ -2351,6 +2649,24 @@
       "duration_ms": 250412,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/1sAE0vqLfXWlAqOJlPWTmT"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "The Scavenger",
+      "url": "https://open.spotify.com/track/2AJHEH475SPH3XckX6KyBI"
     },
     {
       "album": {
@@ -2427,7 +2743,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 270986,
       "name": "The Village Bride",
       "url": "https://open.spotify.com/track/4xbc2NEgK7K2NXgldhfhMq"

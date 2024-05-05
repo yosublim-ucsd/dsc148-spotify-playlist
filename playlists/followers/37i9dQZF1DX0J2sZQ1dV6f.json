@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 161671,
+  "2024-05-05": 162051,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Kevin AMF. ",
   "name": "Electro Corridos",
@@ -1546,6 +1546,28 @@
     },
     {
       "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+    },
+    {
+      "album": {
         "name": "Chulo",
         "url": "https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ"
       },
@@ -2131,6 +2153,32 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "album": {
+        "name": "DECIRTE LO QUE SIENTO",
+        "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "DECIRTE LO QUE SIENTO",
+      "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
     },
     {
       "album": {
@@ -3025,6 +3073,24 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/4DsSMVxopx7Ay0vVKP07FQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159699,
+      "name": "Ezquizofrenia",
+      "url": "https://open.spotify.com/track/5nm8IddEn7zys9YI7UBMQN"
     },
     {
       "album": {
@@ -4114,6 +4180,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
+    },
+    {
+      "album": {
         "name": "Kachin",
         "url": "https://open.spotify.com/album/2pN1aM6Qq2mTsoHO1VosvY"
       },
@@ -4379,7 +4467,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 168188,
       "name": "LA CONSE",
       "url": "https://open.spotify.com/track/1ex3L3v1cS3Lkt7F64j6bw"
@@ -4986,6 +5074,24 @@
     },
     {
       "album": {
+        "name": "Los Malacostumbr\u00e9",
+        "url": "https://open.spotify.com/album/6CqGOQz33Go8fMyrZkT5nK"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132355,
+      "name": "Los Malacostumbr\u00e9",
+      "url": "https://open.spotify.com/track/6Jrp7alMvsw2Nj80XpIGba"
+    },
+    {
+      "album": {
         "name": "Viva el Perreo",
         "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
       },
@@ -5001,6 +5107,28 @@
       "duration_ms": 146145,
       "name": "L\u00e1tigo",
       "url": "https://open.spotify.com/track/1nvD54j8RrJEukr8oxCAok"
+    },
+    {
+      "album": {
+        "name": "Machin",
+        "url": "https://open.spotify.com/album/3KDMTpuup0NtKYztM8vZC3"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135961,
+      "name": "Machin",
+      "url": "https://open.spotify.com/track/1xuWDMXbYMDQLiSMwzXgyH"
     },
     {
       "album": {

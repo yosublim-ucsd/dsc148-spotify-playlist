@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 88321,
+  "num_followers": 88328,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLXgAAAAAAuZ0Y4TxvSGRsUQt7nGT6A",
+  "snapshot_id": "ZjQpAAAAAAD3yDUxPvhEBODWr0vmot2C",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 174556,
-      "name": "Para Ser Respetado",
-      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 149350,
+      "name": "La Gente Del Toro",
+      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Las Calles",
         "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 149000,
       "name": "Por Las Calles",
       "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 197463,
+      "name": "Calles De S.D.",
+      "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
     },
     {
       "added_at": null,
@@ -412,25 +444,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 149350,
-      "name": "La Gente Del Toro",
-      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 197463,
-      "name": "Calles De S.D.",
-      "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
+      "duration_ms": 172879,
+      "name": "El Chuko",
+      "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 172879,
-      "name": "El Chuko",
-      "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+      "duration_ms": 228879,
+      "name": "El Dios Del Trueno",
+      "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 228879,
-      "name": "El Dios Del Trueno",
-      "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida De Jefe",
+        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Vida De Jefe",
+      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Quiero Agarrar El Rollo",
         "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
       },
@@ -707,6 +723,22 @@
       "duration_ms": 121209,
       "name": "No Quiero Agarrar El Rollo",
       "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
     },
     {
       "added_at": null,
@@ -731,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 225226,
       "name": "Ya Lo Decid\u00ed",
       "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida De Jefe",
-        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Vida De Jefe",
-      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
     },
     {
       "added_at": null,

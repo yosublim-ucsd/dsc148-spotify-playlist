@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 730756,
+  "2024-05-05": 730843,
   "date_first_scraped": "2021-12-21",
   "description": "Even rockers need a break.",
   "name": "Chill Rock",
@@ -21,6 +21,24 @@
       "duration_ms": 344021,
       "name": "100,000 People",
       "url": "https://open.spotify.com/track/1CGFOwYJ4FIDZysCcVzaFS"
+    },
+    {
+      "album": {
+        "name": "A Symptom Of Being Human (Live)",
+        "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
     },
     {
       "album": {
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D"

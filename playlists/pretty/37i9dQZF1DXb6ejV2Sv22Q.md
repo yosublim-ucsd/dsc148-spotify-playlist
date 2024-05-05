@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > Raza..\. si dios me castigo con algo fue con dinero, nomás pa que sepan AHHHHH JA JA JAAAAA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,785 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,796 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 14 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 15 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
 | 16 | [Romantic Lover](https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/04uOXDWUgZmTps35RqDBg4) | 1:26 |
-| 17 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
-| 18 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
+| 17 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
+| 18 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
 | 19 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
 | 20 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 |
 | 21 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 35 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 |
 | 36 | [Below the Surface](https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR) | [Griffinilla](https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu) | [Below the Surface](https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE) | 2:14 |
 | 37 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 |
-| 38 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
-| 39 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
+| 38 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
+| 39 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
 | 40 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
 | 41 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
 | 42 | [Never Be Alone](https://open.spotify.com/track/3Mi2DxVPiT7j2EHdxOFCg3) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Never Be Alone](https://open.spotify.com/album/0MZHZHozOZe5L2uVSVdD0M) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127 likes - 94 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 94 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 39 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
 | 40 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
 | 41 | [Bad Guy](https://open.spotify.com/track/34LbYwWS8Vxr6dsdZ64OXd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Starting Over](https://open.spotify.com/album/1ZWlheyrmKAaNoaa1dsq5T) | 3:33 |
-| 42 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
-| 43 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
+| 42 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
+| 43 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
 | 44 | [Can't Do It](https://open.spotify.com/track/6Qgt5VxVDiKX42nqdjnEuF) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Can't Do It](https://open.spotify.com/album/6QYml21FL6yAM90b4m4GnY) | 3:23 |
 | 45 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
 | 46 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 84 | [Favorite Nightmare](https://open.spotify.com/track/3rxs3sb4kIzcF0gGXIgH99) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 4:24 |
 | 85 | [Phantom Feelings](https://open.spotify.com/track/6PqG4ti1kuYkMnDBU6fXXA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:13 |
 | 86 | [Slot Machine](https://open.spotify.com/track/5P5LgRaqFGwT2lCV5C17XC) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:40 |
-| 87 | [Dandelions](https://open.spotify.com/track/2X6KSYx1050ObYBFI5AWuj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:43 |
-| 88 | [Same Song Forever](https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Same Song Forever](https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss) | 3:27 |
+| 87 | [Same Song Forever](https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Same Song Forever](https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss) | 3:27 |
+| 88 | [Dandelions](https://open.spotify.com/track/2X6KSYx1050ObYBFI5AWuj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:43 |
 | 89 | [Nobody's Girl](https://open.spotify.com/track/3YN2n22KaU9FfHp3sM5aug) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:25 |
 | 90 | [Life Is Fucking Beautiful](https://open.spotify.com/track/497WlXfNpdALph2XMDKXsa) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:52 |
 | 91 | [Time](https://open.spotify.com/track/21Yiut66EbiO71B43sPMeR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:09 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 93 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 94 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbQYHAAAAAD50wv1TjgHssS/Zw1E3XAa`
+Snapshot ID: `AbQecAAAAAAhUt4IL0J1VWam3peaNJWy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,666 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,679 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 34 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 35 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 |
 | 36 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 37 | [Untitled \(feat\. ODUMODUBLVCK, PsychoYP\)](https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Psycho YP](https://open.spotify.com/artist/4eL65uA4fJr2CI6u3h2kaJ) | [Untitled \(feat\. ODUMODUBLVCK, PsychoYP\)](https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk) | 3:15 |
+| 37 | [Untitled \(feat\. ODUMODUBLVCK, PsychoYP\)](https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Untitled \(feat\. ODUMODUBLVCK, PsychoYP\)](https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk) | 3:15 |
 | 38 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 |
 | 39 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
 | 40 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |

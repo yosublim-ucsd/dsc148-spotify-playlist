@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,887 songs - 4 day 5 hr 48 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,888 songs - 4 day 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1895,5 +1895,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1885 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 |
 | 1886 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 1887 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
+| 1888 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 |
 
-Snapshot ID: `AAAC8SzPz97hB+jMIdd4N5JeZF20P1No`
+Snapshot ID: `AAAC8liELZk7Z565YreuSwqGPhHkhOFZ`

@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1076941,
+  "num_followers": 1077189,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -147,8 +147,8 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -243,8 +243,8 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
-      },
-      "artists": [
-        {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "The Very Best Of Andy Williams",
         "url": "https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 192840,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/00jlyC6x233qlS1vhLHdA3"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 309693,
       "name": "What A Difference A Day Made",
       "url": "https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
-        "name": "To Ella With Love",
-        "url": "https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin"
     },
     {
       "added_at": "2024-03-20 08:31:05",

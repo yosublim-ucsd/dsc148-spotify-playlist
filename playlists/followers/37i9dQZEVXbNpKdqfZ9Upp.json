@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 8146,
+  "2024-05-05": 8146,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -1882,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202058,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
       },
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 241880,
       "name": "Amor Completo",
       "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
@@ -3791,7 +3809,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -7823,7 +7841,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
@@ -13151,7 +13169,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -17727,7 +17745,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -21205,7 +21223,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
@@ -28469,7 +28487,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 184510,
       "name": "Ride Or Die (with Villano Antillano)",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
@@ -33041,7 +33059,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -33511,7 +33529,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -34559,7 +34577,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -35021,7 +35039,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 152078,
       "name": "T\u00da NAME",
       "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: AL SHAMI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,817 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,904 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 54 | [هي الي](https://open.spotify.com/track/5gsySuD8jP4quf9HHmBpeZ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 | 55 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 |
 | 56 | [Baddi Hada Hebbou](https://open.spotify.com/track/2RWrtK1GhcCquT83dYyCTs) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Baddi Hada Hebbou](https://open.spotify.com/album/7lBwCNhfMEM9jvjNJKdgsJ) | 4:14 |
-| 57 | [Nasseeny Leih](https://open.spotify.com/track/6EyveOpETSJBcdQgVCMSL5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:07 |
+| 57 | [Ma Nesitak](https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma Nesitak](https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn) | 6:26 |
 | 58 | [Ma Bzon](https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ma Bzon](https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM) | 4:11 |
-| 59 | [Ma Nesitak](https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma Nesitak](https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn) | 6:26 |
+| 59 | [Nasseeny Leih](https://open.spotify.com/track/6EyveOpETSJBcdQgVCMSL5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:07 |
 | 60 | [Mabtekbareesh](https://open.spotify.com/track/0Dh2iqqzTe807aO4yV2A9l) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Mabtekbareesh](https://open.spotify.com/album/0VV8qhOsOeB5R20tiW1tmj) | 4:04 |
 
 Snapshot ID: `ZeHhZwAAAAC63geIrxETPGckcLrJS6g8`

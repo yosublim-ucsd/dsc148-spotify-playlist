@@ -2,14 +2,14 @@
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This Is Jimi Hendrix\. Los temas esenciales, todos en una lista.
+> This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
 77 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Telling](https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 1:48 | 2022-11-18 |  |
-| [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2022-11-04 | 2024-05-04 |
+| [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2022-11-04 |  |
 | [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 | 2022-11-04 | 2022-11-27 |
 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 | 2022-11-26 |  |
 | [Auld Lang Syne \- Live at the Fillmore East, NY \- 12/31/69 \- 2nd Set](https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:54 | 2022-12-21 | 2024-03-04 |
@@ -35,7 +35,7 @@
 | [Freedom](https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:26 | 2022-11-04 |  |
 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 | 2022-11-04 |  |
 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 | 2022-11-04 |  |
-| [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 | 2022-11-04 |  |
+| [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 | 2022-11-04 | 2024-05-05 |
 | [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 | 2022-11-04 |  |
 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 | 2022-11-04 |  |
 | [Hey Gypsy Boy](https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:39 | 2022-11-06 |  |

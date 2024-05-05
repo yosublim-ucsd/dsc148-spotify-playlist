@@ -1,5 +1,5 @@
 {
-  "2024-05-04": 1482,
+  "2024-05-05": 1484,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 253779,
       "name": "Dolietawscheicht",
       "url": "https://open.spotify.com/track/2Iscp4pc9gVzwIZB38Dvfv"
@@ -697,6 +697,24 @@
       "duration_ms": 136096,
       "name": "Dove - Doll Ver.",
       "url": "https://open.spotify.com/track/3f37c6bbxasKuyxDiPYHiQ"
+    },
+    {
+      "album": {
+        "name": "Pump This Party",
+        "url": "https://open.spotify.com/album/72qGHxPgwr5D1Gi0UMsj1j"
+      },
+      "artists": [
+        {
+          "name": "Sonic Mine",
+          "url": "https://open.spotify.com/artist/4J6pkrgsk24N50oIM2fpdw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217372,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/2xZIqRUEViI9FC6X8KikaT"
     },
     {
       "album": {
@@ -1834,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "kompa pasi\u00f3n",
+        "url": "https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "kompa pasi\u00f3n",
+      "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
+    },
+    {
+      "album": {
         "name": "\u043a\u0440\u044f\u043a\u0435\u043d",
         "url": "https://open.spotify.com/album/0Z27JdBnT8SeTJvfToZNGu"
       },
@@ -2191,6 +2227,24 @@
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
+    },
+    {
+      "album": {
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "album": {
@@ -3417,10 +3471,32 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 165331,
       "name": "Song 404",
       "url": "https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5"
+    },
+    {
+      "album": {
+        "name": "Song 404",
+        "url": "https://open.spotify.com/album/3RcGBHZuXCRcPoajHshmJw"
+      },
+      "artists": [
+        {
+          "name": "7hvrdx",
+          "url": "https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o"
+        },
+        {
+          "name": "HARDX",
+          "url": "https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165331,
+      "name": "Song 404",
+      "url": "https://open.spotify.com/track/4i65zW2W1sHvWjOQpl5hVe"
     },
     {
       "album": {
@@ -4491,7 +4567,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "\u0411\u0438\u0433 \u0421\u0438\u0442\u0438 \u041b\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI"
@@ -4785,7 +4861,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 196675,
       "name": "\u0413\u043b\u044e\u043a \u043eza nostra",
       "url": "https://open.spotify.com/track/4NG9UtpN0ssioSH6SQ7tjY"
@@ -6487,7 +6563,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 213000,
       "name": "\u0422\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c \u043c\u0430\u043d\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/1ZgW0cKoTL2hnIR6QlN64g"
@@ -6607,7 +6683,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-04",
       "duration_ms": 111944,
       "name": "\u0422\u042b \u041c\u0415\u041d\u042f \u0420\u0410\u0417\u041b\u042e\u0411\u0418",
       "url": "https://open.spotify.com/track/3uo4UPVHxiVVLc2DjWKlnB"

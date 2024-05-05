@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Sebastián Yatra, Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,340 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,390 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 25 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 |
 | 26 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
 | 27 | [Falsos Recuerdos](https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Falsos Recuerdos](https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw) | 3:11 |
-| 28 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 |
+| 28 | [Desconocido](https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:53 |
 | 29 | [Llorando en el Lambo](https://open.spotify.com/track/7ms9TmXD1qVWhuGCQFTT16) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Llorando en el Lambo](https://open.spotify.com/album/55wwmFgx9rSL1OmKoP50De) | 3:09 |
-| 30 | [Desconocido](https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:53 |
+| 30 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 |
 | 31 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 32 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
 | 33 | [Roma](https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Roma](https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR) | 3:27 |
