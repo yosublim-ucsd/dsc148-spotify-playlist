@@ -1,973 +1,117 @@
 {
-  "2024-05-05": 164211,
-  "date_first_scraped": "2024-01-11",
-  "description": "This Is Teddy Swims. Los temas esenciales, todos en una lista.",
-  "name": "This Is Teddy Swims",
-  "tracks": [
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144901,
-      "name": "2 Moods",
-      "url": "https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq"
-    },
-    {
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166890,
-      "name": "911",
-      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
-    },
-    {
-      "album": {
-        "name": "ILLENIUM",
-        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244235,
-      "name": "All That Really Matters",
-      "url": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA"
-    },
-    {
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175017,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
-    },
-    {
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr"
-    },
-    {
-      "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
-    },
-    {
-      "album": {
-        "name": "Bed on Fire (with Ingrid Andress)",
-        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228507,
-      "name": "Bed on Fire (with Ingrid Andress)",
-      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "album": {
-        "name": "Better (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182462,
-      "name": "Better (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214874,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
-    },
-    {
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201879,
-      "name": "Blowin\u2019 Smoke",
-      "url": "https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7"
-    },
-    {
-      "album": {
-        "name": "Broke (feat. Thomas Rhett)",
-        "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160692,
-      "name": "Broke (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz"
-    },
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175081,
-      "name": "Devil in a Dress",
-      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
-    },
-    {
-      "album": {
-        "name": "Don't Stop Believin'",
-        "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248435,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
-    },
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
-    },
-    {
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151820,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
-    },
-    {
-      "album": {
-        "name": "Elephant in the Room (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163672,
-      "name": "Elephant in the Room (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
-    },
-    {
-      "album": {
-        "name": "FACE MYSELF",
-        "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227903,
-      "name": "FACE MYSELF",
-      "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144660,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
-    },
-    {
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198676,
-      "name": "For the Rest of Your Life",
-      "url": "https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA"
-    },
-    {
-      "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
-      "duration_ms": 192888,
-      "name": "Free Them (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/0kdIxHnIj3Tk9tcj1fOUaH"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164634,
-      "name": "Goodbye's Been Good to You",
-      "url": "https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147266,
-      "name": "Growing Up is Getting Old",
-      "url": "https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
-    },
-    {
-      "album": {
-        "name": "Happy People (with Teddy Swims & Jac Ross)",
-        "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 295000,
-      "name": "Happy People (with Teddy Swims & Jac Ross)",
-      "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
-    },
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198949,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/1o3kKSPLb3hLAlHfsWDrO1"
-    },
-    {
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
-    },
-    {
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154500,
-      "name": "L.I.F.E.",
-      "url": "https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191574,
-      "name": "Love for a Minute",
-      "url": "https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1"
-    },
-    {
-      "album": {
-        "name": "Loveless (with Teddy Swims)",
-        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183870,
-      "name": "Loveless (with Teddy Swims)",
-      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
-    },
-    {
-      "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177142,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
-    },
-    {
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184054,
-      "name": "New Religion (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
-    },
-    {
-      "album": {
-        "name": "Night Off",
-        "url": "https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202715,
-      "name": "Night Off",
-      "url": "https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S"
-    },
-    {
-      "album": {
-        "name": "Only Love Can Hurt Like This (feat. Teddy Swims) [Remix]",
-        "url": "https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232153,
-      "name": "Only Love Can Hurt Like This (feat. Teddy Swims) - Remix",
-      "url": "https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ"
-    },
-    {
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178657,
-      "name": "Please Turn Green",
-      "url": "https://open.spotify.com/track/16QJxLYW4UgUnx2yd4mK45"
-    },
-    {
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202736,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT"
-    },
-    {
-      "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179043,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242317,
-      "name": "Some Things I'll Never Know",
-      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
-    },
-    {
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192491,
-      "name": "Somebody Should Kiss You",
-      "url": "https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw"
-    },
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
-    },
-    {
-      "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179176,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176225,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167551,
-      "name": "The Plan",
-      "url": "https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864"
-    },
-    {
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188795,
-      "name": "Til I Change Your Mind",
-      "url": "https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN"
-    },
-    {
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141141,
-      "name": "What More Can I Say",
-      "url": "https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT"
-    },
-    {
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229367,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV"
-    },
-    {
-      "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209132,
-      "name": "Will It Find Me",
-      "url": "https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA"
-    },
-    {
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196413,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LvmfL"
+  "2024-01-11": 83807,
+  "2024-01-12": 84426,
+  "2024-01-13": 85364,
+  "2024-01-14": 86662,
+  "2024-01-15": 86662,
+  "2024-01-16": 87203,
+  "2024-01-17": 87846,
+  "2024-01-18": 88417,
+  "2024-01-19": 89176,
+  "2024-01-20": 89985,
+  "2024-01-21": 90920,
+  "2024-01-22": 91721,
+  "2024-01-23": 92428,
+  "2024-01-24": 93138,
+  "2024-01-25": 93961,
+  "2024-01-26": 94764,
+  "2024-01-27": 95581,
+  "2024-01-28": 96422,
+  "2024-01-29": 97076,
+  "2024-01-30": 97651,
+  "2024-01-31": 98210,
+  "2024-02-01": 98827,
+  "2024-02-02": 99414,
+  "2024-02-03": 100117,
+  "2024-02-04": 100848,
+  "2024-02-05": 101398,
+  "2024-02-06": 101930,
+  "2024-02-07": 102509,
+  "2024-02-08": 103040,
+  "2024-02-09": 103557,
+  "2024-02-10": 104113,
+  "2024-02-11": 104653,
+  "2024-02-12": 105095,
+  "2024-02-13": 105464,
+  "2024-02-14": 105860,
+  "2024-02-15": 106285,
+  "2024-02-16": 106733,
+  "2024-02-17": 107261,
+  "2024-02-18": 107850,
+  "2024-02-19": 108325,
+  "2024-02-20": 108867,
+  "2024-02-21": 109510,
+  "2024-02-22": 110338,
+  "2024-02-23": 111316,
+  "2024-02-24": 112293,
+  "2024-02-25": 113193,
+  "2024-02-26": 114019,
+  "2024-02-27": 115582,
+  "2024-02-28": 115582,
+  "2024-02-29": 116255,
+  "2024-03-01": 116963,
+  "2024-03-02": 117727,
+  "2024-03-03": 118410,
+  "2024-03-04": 119145,
+  "2024-03-05": 119828,
+  "2024-03-06": 120641,
+  "2024-03-07": 121480,
+  "2024-03-08": 122539,
+  "2024-03-09": 123548,
+  "2024-03-10": 124720,
+  "2024-03-11": 125713,
+  "2024-03-12": 126522,
+  "2024-03-13": 127332,
+  "2024-03-14": 128105,
+  "2024-03-15": 128973,
+  "2024-03-16": 129910,
+  "2024-03-17": 130865,
+  "2024-03-18": 131718,
+  "2024-03-19": 132485,
+  "2024-03-20": 133316,
+  "2024-03-21": 134066,
+  "2024-03-22": 134896,
+  "2024-03-23": 135786,
+  "2024-03-24": 136758,
+  "2024-03-25": 137483,
+  "2024-03-26": 138115,
+  "2024-03-27": 139609,
+  "2024-03-28": 139609,
+  "2024-03-29": 141396,
+  "2024-03-30": 141396,
+  "2024-03-31": 142144,
+  "2024-04-01": 142786,
+  "2024-04-02": 143332,
+  "2024-04-03": 143905,
+  "2024-04-04": 144484,
+  "2024-04-05": 145152,
+  "2024-04-06": 145880,
+  "2024-04-07": 146630,
+  "2024-04-08": 147751,
+  "2024-04-09": 147751,
+  "2024-04-10": 148312,
+  "2024-04-11": 148922,
+  "2024-04-12": 149599,
+  "2024-04-13": 150377,
+  "2024-04-14": 151034,
+  "2024-04-15": 151777,
+  "2024-04-16": 152346,
+  "2024-04-17": 152984,
+  "2024-04-19": 154383,
+  "2024-04-20": 155053,
+  "2024-04-21": 155830,
+  "2024-04-22": 156408,
+  "2024-04-23": 156946,
+  "2024-04-24": 157849,
+  "2024-04-25": 158071,
+  "2024-04-26": 158664,
+  "2024-04-27": 159323,
+  "2024-04-28": 160003,
+  "2024-04-29": 160614,
+  "2024-04-30": 161094,
+  "2024-05-01": 161663,
+  "2024-05-02": 162258,
+  "2024-05-03": 162906,
+  "2024-05-04": 163538,
+  "2024-05-05": 164211
 }

@@ -1,697 +1,220 @@
 {
-  "2024-05-05": 1291,
-  "date_first_scraped": "2023-09-29",
-  "description": "Des chansons qui vous feront rire, vous et vos enfants",
-  "name": "Juste pour rire",
-  "tracks": [
-    {
-      "album": {
-        "name": "Pinkfong Animal Songs",
-        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 80927,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
-    },
-    {
-      "album": {
-        "name": "Les plus jolies chansons de notre enfance",
-        "url": "https://open.spotify.com/album/66o7YifnA9eCAI03d3k9UV"
-      },
-      "artists": [
-        {
-          "name": "Vincent Malone",
-          "url": "https://open.spotify.com/artist/5deGLIzMGQhnJcmW5eT1mf"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 38533,
-      "name": "Cerf, cerf, ouvre-moi",
-      "url": "https://open.spotify.com/track/0Qwwd3KLtWyJKKw2RmX09D"
-    },
-    {
-      "album": {
-        "name": "Inoubliable",
-        "url": "https://open.spotify.com/album/5dmDXur0mV57yriIkx5Zjf"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180053,
-      "name": "Cho ka ka o",
-      "url": "https://open.spotify.com/track/6Re4EMlUbAS4dQq4iKNiM6"
-    },
-    {
-      "album": {
-        "name": "Tata yoyo",
-        "url": "https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 180693,
-      "name": "Cho ka ka o",
-      "url": "https://open.spotify.com/track/1WH5Sl6SytHCcSjbQSWJj4"
-    },
-    {
-      "album": {
-        "name": "Les indispensables",
-        "url": "https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
-      "duration_ms": 182800,
-      "name": "Cho ka ka o",
-      "url": "https://open.spotify.com/track/1LBV869yOrnIB1IGMOXptG"
-    },
-    {
-      "album": {
-        "name": "Inoubliable",
-        "url": "https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
-      "duration_ms": 182800,
-      "name": "Cho ka ka o",
-      "url": "https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW"
-    },
-    {
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
-      "duration_ms": 213920,
-      "name": "Dragostea Din Tei",
-      "url": "https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl"
-    },
-    {
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/6PjtMUreqr5TRxvt9onUUf"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215431,
-      "name": "Dragostea Din Tei",
-      "url": "https://open.spotify.com/track/2c3sKqWYVJ0NsE3elgRhKH"
-    },
-    {
-      "album": {
-        "name": "Ma Ya Hi (Dragostea Din Tei) [English Mixes]",
-        "url": "https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
-      "duration_ms": 213213,
-      "name": "Dragostea Din Tei - Original Italian Version",
-      "url": "https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy"
-    },
-    {
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 214560,
-      "name": "Dragostea Din Tei - Original Romanian Version",
-      "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
-    },
-    {
-      "album": {
-        "name": "Dur Dur D'Etre B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/2EbNlZUy0cE2EXPZWCOa2M"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9b\u00e9 Lilly",
-          "url": "https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196706,
-      "name": "Dur dur d'\u00eatre b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/2vUXD6u34ZsSVsFQTjoqIB"
-    },
-    {
-      "album": {
-        "name": "T'as Vu",
-        "url": "https://open.spotify.com/album/2eNobAGC5Cc92aL5lXlmwf"
-      },
-      "artists": [
-        {
-          "name": "Fatal Bazooka",
-          "url": "https://open.spotify.com/artist/5oDxGfxYaJkfp6xZlXQnr8"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205773,
-      "name": "Fous ta cagoule - Radio Edit",
-      "url": "https://open.spotify.com/track/3WFP6beklK0c62PrsBp2Mc"
-    },
-    {
-      "album": {
-        "name": "Fous ta cagoule (Radio Edit)",
-        "url": "https://open.spotify.com/album/0qOrYJgX0rvjShwJRxTD5E"
-      },
-      "artists": [
-        {
-          "name": "Fatal Bazooka",
-          "url": "https://open.spotify.com/artist/5oDxGfxYaJkfp6xZlXQnr8"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 212266,
-      "name": "Fous ta cagoule - Radio Edit",
-      "url": "https://open.spotify.com/track/5IXh97bXm3Xf04REp19HqK"
-    },
-    {
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
-    },
-    {
-      "album": {
-        "name": "Mes Plus Belles Chanson D'Enfant 2",
-        "url": "https://open.spotify.com/album/5VBI8P7zYkPWzgBAfde6rw"
-      },
-      "artists": [
-        {
-          "name": "Chanteurs Pour Enfants",
-          "url": "https://open.spotify.com/artist/5gDybhUIXySMdGz4YOhYRY"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 51866,
-      "name": "J'fais pipi sur le gazon",
-      "url": "https://open.spotify.com/track/6ocupudex5NL03MUX1vjxZ"
-    },
-    {
-      "album": {
-        "name": "Cristal collection",
-        "url": "https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY"
-      },
-      "artists": [
-        {
-          "name": "Carlos",
-          "url": "https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166022,
-      "name": "La cantine",
-      "url": "https://open.spotify.com/track/1zhqUu0oHFNamhsFM54kYb"
-    },
-    {
-      "album": {
-        "name": "Samsam la musique ! (Le plus petit des grand h\u00e9ros)",
-        "url": "https://open.spotify.com/album/3Vrsmi7S7AJxLxQdxg84Ii"
-      },
-      "artists": [
-        {
-          "name": "SamSam",
-          "url": "https://open.spotify.com/artist/2ete2rPrIXjihL1NIzkq42"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147692,
-      "name": "La chanson des pipiolits",
-      "url": "https://open.spotify.com/track/0DQaCS1RzN4dgsDzuEd27a"
-    },
-    {
-      "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY"
-      },
-      "artists": [
-        {
-          "name": "Les Muscl\u00e9s",
-          "url": "https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 277226,
-      "name": "La musclada",
-      "url": "https://open.spotify.com/track/23FOEBE5EOSEpBKngOwPOz"
-    },
-    {
-      "album": {
-        "name": "Le feu \u00e7a br\u00fble",
-        "url": "https://open.spotify.com/album/6BKVPu7fNOHb05XkjTGXP6"
-      },
-      "artists": [
-        {
-          "name": "Charly & Lulu",
-          "url": "https://open.spotify.com/artist/5Xx9o6oW3mrkKoIt2UBaym"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173750,
-      "name": "Le feu \u00e7a br\u00fble",
-      "url": "https://open.spotify.com/track/55OiK6vDQLsxOYtnEsz5e2"
-    },
-    {
-      "album": {
-        "name": "A M\u00fasica Dos Brinquedos - Os Maiores Sucessos da M\u00fasica Infantil",
-        "url": "https://open.spotify.com/album/7voerqDE5nPNhAUdgpeSoT"
-      },
-      "artists": [
-        {
-          "name": "Pigloo",
-          "url": "https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 187973,
-      "name": "Le Papa Pingouin",
-      "url": "https://open.spotify.com/track/18sK4fcZvpKWM3Ytn1EOwV"
-    },
-    {
-      "album": {
-        "name": "La banquise (Pigloo)",
-        "url": "https://open.spotify.com/album/7bgPikZ5FWo7rbNvLsK9U5"
-      },
-      "artists": [
-        {
-          "name": "Pigloo",
-          "url": "https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188853,
-      "name": "Le papa pingouin",
-      "url": "https://open.spotify.com/track/1qt5AVI6Hfh4NVHExzf4R2"
-    },
-    {
-      "album": {
-        "name": "Le poussin Piou",
-        "url": "https://open.spotify.com/album/3dWqSTQgGbJ8sajM4dnupj"
-      },
-      "artists": [
-        {
-          "name": "Pulcino Pio",
-          "url": "https://open.spotify.com/artist/6UDcrf1HpHFwqX3toofvd0"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159999,
-      "name": "Le poussin Piou - French Version",
-      "url": "https://open.spotify.com/track/3wUuMs3tFxIPghPH63dE0R"
-    },
-    {
-      "album": {
-        "name": "Le poussin piou et ses amis",
-        "url": "https://open.spotify.com/album/3sOPtxUU0nWZJeWJT5d9bS"
-      },
-      "artists": [
-        {
-          "name": "Pulcino Pio",
-          "url": "https://open.spotify.com/artist/6UDcrf1HpHFwqX3toofvd0"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 160052,
-      "name": "Le poussin piou - Radio Edit",
-      "url": "https://open.spotify.com/track/1Z8CayyOS8fxRuxlfgUiMH"
-    },
-    {
-      "album": {
-        "name": "La banquise (Pigloo)",
-        "url": "https://open.spotify.com/album/7bgPikZ5FWo7rbNvLsK9U5"
-      },
-      "artists": [
-        {
-          "name": "Pigloo",
-          "url": "https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173360,
-      "name": "Le ragga des pingouins",
-      "url": "https://open.spotify.com/track/2iO78Nb1YLocEKtV8tVSul"
-    },
-    {
-      "album": {
-        "name": "L'\u00e2ge de pierre",
-        "url": "https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp"
-      },
-      "artists": [
-        {
-          "name": "Pierre Perret",
-          "url": "https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236706,
-      "name": "Le zizi",
-      "url": "https://open.spotify.com/track/66yRVzcBc0revPtKR2jfMj"
-    },
-    {
-      "album": {
-        "name": "Le No\u00ebl des Kids",
-        "url": "https://open.spotify.com/album/37TuWqUNLQGIruZ6hq57uY"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9b\u00e9 Lilly",
-          "url": "https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180088,
-      "name": "Les b\u00eatises",
-      "url": "https://open.spotify.com/track/2n7FDSAsKAzJXqrPBME5B5"
-    },
-    {
-      "album": {
-        "name": "Pochette Surprise",
-        "url": "https://open.spotify.com/album/4wn8seihGXXirz5KAOBoWA"
-      },
-      "artists": [
-        {
-          "name": "Patrick S\u00e9bastien",
-          "url": "https://open.spotify.com/artist/1GUwHltp99Oe5Y68ZJFZ3b"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233866,
-      "name": "Les sardines",
-      "url": "https://open.spotify.com/track/6XBaTMiZa77Du2XEl1RNaa"
-    },
-    {
-      "album": {
-        "name": "L'essentiel",
-        "url": "https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY"
-      },
-      "artists": [
-        {
-          "name": "Les Muscl\u00e9s",
-          "url": "https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252680,
-      "name": "Merguez partie",
-      "url": "https://open.spotify.com/track/2T5DGuUmAnze5TYE4sXmGj"
-    },
-    {
-      "album": {
-        "name": "Mignon Mignon",
-        "url": "https://open.spotify.com/album/4cvaXGchEGXYSRZgCfqtmE"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 La Taupe",
-          "url": "https://open.spotify.com/artist/78UyQ7ZMN0rAiDAejRr2GE"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149263,
-      "name": "Mignon Mignon",
-      "url": "https://open.spotify.com/track/66F6vJHfK67pdjRdhNX2B8"
-    },
-    {
-      "album": {
-        "name": "Chantines en famille",
-        "url": "https://open.spotify.com/album/2wL28FeVLs1mdEUYG8HM5n"
-      },
-      "artists": [
-        {
-          "name": "Les Z'imbert & Moreau",
-          "url": "https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152853,
-      "name": "Papa... Pipi !!!!",
-      "url": "https://open.spotify.com/track/6YWQEQW3w5gK5K8iiTd5ly"
-    },
-    {
-      "album": {
-        "name": "Cristal collection",
-        "url": "https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY"
-      },
-      "artists": [
-        {
-          "name": "Carlos",
-          "url": "https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182352,
-      "name": "Papayou",
-      "url": "https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr"
-    },
-    {
-      "album": {
-        "name": "Ponga (Le pingouin judoka)",
-        "url": "https://open.spotify.com/album/59d5Hat4zxyL10RaAdhlRl"
-      },
-      "artists": [
-        {
-          "name": "VaVa",
-          "url": "https://open.spotify.com/artist/309eMzBSqbIxMyd6W9zUpI"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140826,
-      "name": "Ponga - Le pingouin judoka",
-      "url": "https://open.spotify.com/track/6gCcMHX4WODRUy1jqWfuWZ"
-    },
-    {
-      "album": {
-        "name": "10 ans d'Enfantillages !",
-        "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
-      },
-      "artists": [
-        {
-          "name": "Aldebert",
-          "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
-        },
-        {
-          "name": "Mortelle Ad\u00e8le",
-          "url": "https://open.spotify.com/artist/1hSghuZf5K4cnrNz5QxetO"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207973,
-      "name": "Poussez-vous les moches !",
-      "url": "https://open.spotify.com/track/2Uj8DFlM0dkIvoTMTCk7NT"
-    },
-    {
-      "album": {
-        "name": "Tata yoyo",
-        "url": "https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 152613,
-      "name": "Tata Yoyo",
-      "url": "https://open.spotify.com/track/09Jsup6YqSLxnWeqJsA2ht"
-    },
-    {
-      "album": {
-        "name": "Inoubliable",
-        "url": "https://open.spotify.com/album/5dmDXur0mV57yriIkx5Zjf"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152813,
-      "name": "Tata yoyo",
-      "url": "https://open.spotify.com/track/5rBts8nNWTbtwAMBiY6wUt"
-    },
-    {
-      "album": {
-        "name": "Les indispensables",
-        "url": "https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm"
-      },
-      "artists": [
-        {
-          "name": "Annie Cordy",
-          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
-      "duration_ms": 154813,
-      "name": "Tata Yoyo",
-      "url": "https://open.spotify.com/track/7ulqjkcjg5aeMgyYD2SIyJ"
-    },
-    {
-      "album": {
-        "name": "Un Monde Parfait",
-        "url": "https://open.spotify.com/album/7sbRzF9UWBWJxKzwsjRnSx"
-      },
-      "artists": [
-        {
-          "name": "Ilona",
-          "url": "https://open.spotify.com/artist/7hrz1an870QhmhXsIsj7VV"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187399,
-      "name": "Un Monde Parfait",
-      "url": "https://open.spotify.com/track/1bv4IL20JbSfmIVrNo2tLw"
-    },
-    {
-      "album": {
-        "name": "Un monde parfait",
-        "url": "https://open.spotify.com/album/5IZz0EpqHjb1gZ9IcQK0ct"
-      },
-      "artists": [
-        {
-          "name": "Ilona Mitrecey",
-          "url": "https://open.spotify.com/artist/5CNueVdkXCAEod4Zf1dU2D"
-        }
-      ],
-      "date_added": "2021-05-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 187399,
-      "name": "Un monde parfait",
-      "url": "https://open.spotify.com/track/4Dd8r3d1Tu2mvvjn2Vj4Sg"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4WrIYCmOR5W"
+  "2023-09-29": 1181,
+  "2023-09-30": 1181,
+  "2023-10-01": 1182,
+  "2023-10-02": 1183,
+  "2023-10-03": 1184,
+  "2023-10-04": 1184,
+  "2023-10-05": 1182,
+  "2023-10-06": 1182,
+  "2023-10-07": 1183,
+  "2023-10-08": 1186,
+  "2023-10-09": 1185,
+  "2023-10-10": 1186,
+  "2023-10-11": 1188,
+  "2023-10-12": 1188,
+  "2023-10-13": 1189,
+  "2023-10-14": 1188,
+  "2023-10-15": 1187,
+  "2023-10-16": 1188,
+  "2023-10-17": 1189,
+  "2023-10-18": 1190,
+  "2023-10-19": 1191,
+  "2023-10-20": 1193,
+  "2023-10-21": 1195,
+  "2023-10-22": 1196,
+  "2023-10-23": 1197,
+  "2023-10-24": 1198,
+  "2023-10-25": 1199,
+  "2023-10-26": 1199,
+  "2023-10-27": 1199,
+  "2023-10-28": 1199,
+  "2023-10-29": 1200,
+  "2023-10-30": 1199,
+  "2023-10-31": 1199,
+  "2023-11-01": 1201,
+  "2023-11-02": 1201,
+  "2023-11-03": 1202,
+  "2023-11-04": 1204,
+  "2023-11-05": 1205,
+  "2023-11-06": 1206,
+  "2023-11-07": 1207,
+  "2023-11-08": 1207,
+  "2023-11-09": 1209,
+  "2023-11-10": 1208,
+  "2023-11-11": 1207,
+  "2023-11-12": 1207,
+  "2023-11-13": 1212,
+  "2023-11-14": 1212,
+  "2023-11-15": 1212,
+  "2023-11-16": 1213,
+  "2023-11-17": 1213,
+  "2023-11-18": 1213,
+  "2023-11-19": 1213,
+  "2023-11-20": 1214,
+  "2023-11-21": 1215,
+  "2023-11-22": 1216,
+  "2023-11-23": 1218,
+  "2023-11-24": 1220,
+  "2023-11-25": 1220,
+  "2023-11-26": 1221,
+  "2023-11-27": 1223,
+  "2023-11-28": 1224,
+  "2023-11-29": 1228,
+  "2023-11-30": 1228,
+  "2023-12-01": 1228,
+  "2023-12-02": 1226,
+  "2023-12-03": 1225,
+  "2023-12-04": 1224,
+  "2023-12-05": 1224,
+  "2023-12-06": 1224,
+  "2023-12-07": 1224,
+  "2023-12-08": 1224,
+  "2023-12-09": 1224,
+  "2023-12-10": 1224,
+  "2023-12-11": 1224,
+  "2023-12-12": 1224,
+  "2023-12-13": 1225,
+  "2023-12-14": 1225,
+  "2023-12-15": 1225,
+  "2023-12-16": 1225,
+  "2023-12-17": 1225,
+  "2023-12-18": 1227,
+  "2023-12-19": 1228,
+  "2023-12-20": 1228,
+  "2023-12-21": 1231,
+  "2023-12-22": 1231,
+  "2023-12-23": 1232,
+  "2023-12-24": 1233,
+  "2023-12-25": 1233,
+  "2023-12-26": 1233,
+  "2023-12-27": 1233,
+  "2023-12-29": 1233,
+  "2023-12-30": 1233,
+  "2023-12-31": 1232,
+  "2024-01-01": 1233,
+  "2024-01-02": 1232,
+  "2024-01-03": 1234,
+  "2024-01-04": 1236,
+  "2024-01-05": 1237,
+  "2024-01-06": 1238,
+  "2024-01-07": 1238,
+  "2024-01-08": 1239,
+  "2024-01-09": 1239,
+  "2024-01-10": 1239,
+  "2024-01-11": 1243,
+  "2024-01-12": 1243,
+  "2024-01-13": 1243,
+  "2024-01-14": 1244,
+  "2024-01-15": 1244,
+  "2024-01-16": 1243,
+  "2024-01-17": 1244,
+  "2024-01-18": 1245,
+  "2024-01-19": 1246,
+  "2024-01-20": 1247,
+  "2024-01-21": 1246,
+  "2024-01-22": 1248,
+  "2024-01-23": 1249,
+  "2024-01-24": 1250,
+  "2024-01-25": 1251,
+  "2024-01-26": 1251,
+  "2024-01-27": 1251,
+  "2024-01-28": 1252,
+  "2024-01-29": 1254,
+  "2024-01-30": 1254,
+  "2024-01-31": 1256,
+  "2024-02-01": 1256,
+  "2024-02-02": 1256,
+  "2024-02-03": 1256,
+  "2024-02-04": 1255,
+  "2024-02-05": 1256,
+  "2024-02-06": 1256,
+  "2024-02-07": 1255,
+  "2024-02-08": 1254,
+  "2024-02-09": 1254,
+  "2024-02-10": 1254,
+  "2024-02-11": 1256,
+  "2024-02-12": 1255,
+  "2024-02-13": 1255,
+  "2024-02-14": 1256,
+  "2024-02-15": 1256,
+  "2024-02-16": 1256,
+  "2024-02-17": 1255,
+  "2024-02-18": 1257,
+  "2024-02-19": 1257,
+  "2024-02-20": 1259,
+  "2024-02-21": 1261,
+  "2024-02-22": 1262,
+  "2024-02-23": 1262,
+  "2024-02-24": 1261,
+  "2024-02-25": 1262,
+  "2024-02-26": 1263,
+  "2024-02-27": 1266,
+  "2024-02-28": 1266,
+  "2024-02-29": 1266,
+  "2024-03-01": 1268,
+  "2024-03-02": 1269,
+  "2024-03-03": 1271,
+  "2024-03-04": 1272,
+  "2024-03-05": 1273,
+  "2024-03-06": 1273,
+  "2024-03-07": 1272,
+  "2024-03-08": 1276,
+  "2024-03-09": 1278,
+  "2024-03-10": 1280,
+  "2024-03-11": 1279,
+  "2024-03-12": 1279,
+  "2024-03-13": 1279,
+  "2024-03-14": 1282,
+  "2024-03-15": 1283,
+  "2024-03-16": 1282,
+  "2024-03-17": 1282,
+  "2024-03-18": 1281,
+  "2024-03-19": 1280,
+  "2024-03-20": 1280,
+  "2024-03-21": 1280,
+  "2024-03-22": 1281,
+  "2024-03-23": 1280,
+  "2024-03-24": 1279,
+  "2024-03-25": 1278,
+  "2024-03-26": 1280,
+  "2024-03-27": 1282,
+  "2024-03-28": 1282,
+  "2024-03-29": 1284,
+  "2024-03-30": 1284,
+  "2024-03-31": 1285,
+  "2024-04-01": 1288,
+  "2024-04-02": 1287,
+  "2024-04-03": 1289,
+  "2024-04-04": 1290,
+  "2024-04-05": 1290,
+  "2024-04-06": 1289,
+  "2024-04-07": 1290,
+  "2024-04-08": 1291,
+  "2024-04-09": 1291,
+  "2024-04-10": 1291,
+  "2024-04-11": 1292,
+  "2024-04-12": 1292,
+  "2024-04-13": 1292,
+  "2024-04-14": 1291,
+  "2024-04-15": 1291,
+  "2024-04-16": 1290,
+  "2024-04-17": 1290,
+  "2024-04-19": 1290,
+  "2024-04-20": 1288,
+  "2024-04-21": 1289,
+  "2024-04-22": 1290,
+  "2024-04-23": 1290,
+  "2024-04-24": 1290,
+  "2024-04-25": 1289,
+  "2024-04-26": 1290,
+  "2024-04-27": 1290,
+  "2024-04-28": 1290,
+  "2024-04-29": 1289,
+  "2024-04-30": 1290,
+  "2024-05-01": 1291,
+  "2024-05-02": 1290,
+  "2024-05-03": 1290,
+  "2024-05-04": 1291,
+  "2024-05-05": 1291
 }

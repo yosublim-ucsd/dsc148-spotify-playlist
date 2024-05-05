@@ -1,769 +1,223 @@
 {
-  "2024-05-05": 429312,
-  "date_first_scraped": "2023-09-26",
-  "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "name": "This Is The Strokes",
-  "tracks": [
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153133,
-      "name": "12:51",
-      "url": "https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298613,
-      "name": "80's Comedown Machine",
-      "url": "https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2"
-    },
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207133,
-      "name": "Automatic Stop",
-      "url": "https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 293360,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235946,
-      "name": "Brooklyn Bridge To Chorus",
-      "url": "https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204773,
-      "name": "Call It Fate, Call It Karma",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182026,
-      "name": "Call Me Back",
-      "url": "https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216786,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/718purgMpFb2Axhuz0Hbq1"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179200,
-      "name": "Gratisfaction",
-      "url": "https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224426,
-      "name": "Hard To Explain",
-      "url": "https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam"
-    },
-    {
-      "album": {
-        "name": "The Singles - Volume 01",
-        "url": "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232562,
-      "name": "Hawaii - Juicebox B-Side",
-      "url": "https://open.spotify.com/track/6s9oj6aPupVSA1CSaaVZZL"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206173,
-      "name": "Heart In a Cage",
-      "url": "https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x"
-    },
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162040,
-      "name": "I Can't Win",
-      "url": "https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy"
-    },
-    {
-      "album": {
-        "name": "The Singles - Volume 01",
-        "url": "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194651,
-      "name": "I'll Try Anything Once (\"You Only Live Once\" demo) - Heart In a Cage B-Side",
-      "url": "https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151333,
-      "name": "Is This It",
-      "url": "https://open.spotify.com/track/2pAD0PKMUMtxlMvz33tYzB"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194573,
-      "name": "Juicebox",
-      "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255240,
-      "name": "Life Is Simple in the Moonlight",
-      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209626,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
-    },
-    {
-      "album": {
-        "name": "Modern Girls & Old Fashion Men",
-        "url": "https://open.spotify.com/album/1JS6yTcVopsE6ROReK30ik"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        },
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221626,
-      "name": "Modern Girls & Old Fashion Men",
-      "url": "https://open.spotify.com/track/4yVixayMpxm2MUGOePA192"
-    },
-    {
-      "album": {
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 299232,
-      "name": "Oblivius",
-      "url": "https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 351786,
-      "name": "Ode To The Mets",
-      "url": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276506,
-      "name": "On the Other Side",
-      "url": "https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242293,
-      "name": "One Way Trigger",
-      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208133,
-      "name": "Razorblade",
-      "url": "https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191693,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/6KXuDNOwiNR0q7KLGXs3Bo"
-    },
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222093,
-      "name": "Selfless",
-      "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153933,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183573,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203240,
-      "name": "Taken for a Fool",
-      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222360,
-      "name": "Tap Out",
-      "url": "https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208306,
-      "name": "The Modern Age",
-      "url": "https://open.spotify.com/track/1EsgUWQsxGBwnu3NATDjiU"
-    },
-    {
-      "album": {
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264724,
-      "name": "Threat of Joy",
-      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
-    },
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187306,
-      "name": "Under Control",
-      "url": "https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl"
-    },
-    {
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235546,
-      "name": "Under Cover of Darkness",
-      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
-    },
-    {
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230826,
-      "name": "Welcome To Japan",
-      "url": "https://open.spotify.com/track/7bfocP7GYoLOutUYpTI8tx"
-    },
-    {
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169506,
-      "name": "What Ever Happened?",
-      "url": "https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4"
-    },
-    {
-      "album": {
-        "name": "The Singles - Volume 01",
-        "url": "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
-      "duration_ms": 175200,
-      "name": "When It Started (Last Nite B-Side)",
-      "url": "https://open.spotify.com/track/3mU9Pjls8PszKKmrwhTG78"
-    },
-    {
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275666,
-      "name": "Why Are Sundays So Depressing",
-      "url": "https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY"
-    },
-    {
-      "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "date_added": "2023-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189226,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO"
+  "2023-09-26": 405551,
+  "2023-09-27": 405551,
+  "2023-09-28": 405551,
+  "2023-09-29": 405551,
+  "2023-09-30": 405551,
+  "2023-10-01": 405551,
+  "2023-10-02": 406228,
+  "2023-10-03": 406228,
+  "2023-10-04": 406228,
+  "2023-10-05": 406607,
+  "2023-10-06": 406774,
+  "2023-10-07": 406774,
+  "2023-10-08": 406774,
+  "2023-10-09": 406774,
+  "2023-10-10": 406774,
+  "2023-10-11": 407411,
+  "2023-10-12": 407411,
+  "2023-10-13": 407576,
+  "2023-10-14": 407576,
+  "2023-10-15": 407576,
+  "2023-10-16": 407576,
+  "2023-10-17": 407576,
+  "2023-10-18": 407576,
+  "2023-10-19": 407576,
+  "2023-10-20": 407576,
+  "2023-10-21": 407576,
+  "2023-10-22": 407576,
+  "2023-10-23": 407576,
+  "2023-10-24": 407576,
+  "2023-10-25": 407576,
+  "2023-10-26": 407576,
+  "2023-10-27": 407576,
+  "2023-10-28": 407576,
+  "2023-10-29": 407576,
+  "2023-10-30": 407576,
+  "2023-10-31": 407576,
+  "2023-11-01": 407576,
+  "2023-11-02": 407576,
+  "2023-11-03": 407576,
+  "2023-11-04": 407576,
+  "2023-11-05": 407576,
+  "2023-11-06": 407576,
+  "2023-11-07": 407576,
+  "2023-11-08": 407576,
+  "2023-11-09": 407576,
+  "2023-11-10": 407576,
+  "2023-11-11": 410728,
+  "2023-11-12": 410728,
+  "2023-11-13": 410728,
+  "2023-11-14": 410728,
+  "2023-11-15": 410728,
+  "2023-11-16": 410728,
+  "2023-11-17": 410728,
+  "2023-11-18": 410728,
+  "2023-11-19": 410728,
+  "2023-11-20": 410728,
+  "2023-11-21": 410728,
+  "2023-11-22": 410728,
+  "2023-11-23": 410728,
+  "2023-11-24": 410728,
+  "2023-11-25": 410728,
+  "2023-11-26": 410728,
+  "2023-11-27": 410728,
+  "2023-11-28": 410728,
+  "2023-11-29": 410728,
+  "2023-11-30": 410728,
+  "2023-12-01": 410728,
+  "2023-12-02": 410728,
+  "2023-12-03": 410728,
+  "2023-12-04": 410728,
+  "2023-12-05": 410728,
+  "2023-12-06": 410728,
+  "2023-12-07": 410728,
+  "2023-12-08": 410728,
+  "2023-12-09": 410728,
+  "2023-12-10": 410728,
+  "2023-12-11": 410728,
+  "2023-12-12": 410728,
+  "2023-12-13": 410728,
+  "2023-12-14": 414483,
+  "2023-12-15": 414579,
+  "2023-12-16": 414693,
+  "2023-12-17": 414777,
+  "2023-12-18": 414874,
+  "2023-12-19": 414963,
+  "2023-12-20": 415087,
+  "2023-12-21": 415226,
+  "2023-12-22": 415340,
+  "2023-12-23": 415503,
+  "2023-12-24": 415646,
+  "2023-12-25": 415738,
+  "2023-12-26": 415817,
+  "2023-12-27": 415920,
+  "2023-12-29": 415920,
+  "2023-12-30": 416263,
+  "2023-12-31": 416373,
+  "2024-01-01": 416484,
+  "2024-01-02": 416571,
+  "2024-01-03": 416679,
+  "2024-01-04": 416801,
+  "2024-01-05": 416939,
+  "2024-01-06": 417067,
+  "2024-01-07": 417201,
+  "2024-01-08": 417375,
+  "2024-01-09": 417420,
+  "2024-01-10": 417420,
+  "2024-01-11": 417504,
+  "2024-01-12": 417596,
+  "2024-01-13": 417647,
+  "2024-01-14": 417815,
+  "2024-01-15": 417815,
+  "2024-01-16": 417888,
+  "2024-01-17": 417989,
+  "2024-01-18": 418101,
+  "2024-01-19": 418251,
+  "2024-01-20": 418371,
+  "2024-01-21": 418463,
+  "2024-01-22": 418555,
+  "2024-01-23": 418687,
+  "2024-01-24": 418772,
+  "2024-01-25": 418909,
+  "2024-01-26": 419056,
+  "2024-01-27": 419146,
+  "2024-01-28": 419232,
+  "2024-01-29": 419340,
+  "2024-01-30": 419431,
+  "2024-01-31": 419536,
+  "2024-02-01": 419631,
+  "2024-02-02": 419758,
+  "2024-02-03": 419909,
+  "2024-02-04": 420031,
+  "2024-02-05": 420088,
+  "2024-02-06": 420181,
+  "2024-02-07": 420290,
+  "2024-02-08": 420376,
+  "2024-02-09": 420505,
+  "2024-02-10": 420638,
+  "2024-02-11": 420758,
+  "2024-02-12": 420831,
+  "2024-02-13": 420921,
+  "2024-02-14": 421043,
+  "2024-02-15": 421160,
+  "2024-02-16": 421235,
+  "2024-02-17": 421348,
+  "2024-02-18": 421460,
+  "2024-02-19": 421565,
+  "2024-02-20": 421632,
+  "2024-02-21": 421723,
+  "2024-02-22": 421848,
+  "2024-02-23": 421961,
+  "2024-02-24": 422060,
+  "2024-02-25": 422165,
+  "2024-02-26": 422260,
+  "2024-02-27": 422444,
+  "2024-02-28": 422444,
+  "2024-02-29": 422571,
+  "2024-03-01": 422685,
+  "2024-03-02": 422803,
+  "2024-03-03": 422913,
+  "2024-03-04": 423025,
+  "2024-03-05": 423137,
+  "2024-03-06": 423208,
+  "2024-03-07": 423325,
+  "2024-03-08": 423474,
+  "2024-03-09": 423605,
+  "2024-03-10": 423697,
+  "2024-03-11": 423814,
+  "2024-03-12": 423934,
+  "2024-03-13": 424041,
+  "2024-03-14": 424150,
+  "2024-03-15": 424279,
+  "2024-03-16": 424402,
+  "2024-03-17": 424500,
+  "2024-03-18": 424627,
+  "2024-03-19": 424727,
+  "2024-03-20": 424872,
+  "2024-03-21": 424991,
+  "2024-03-22": 425099,
+  "2024-03-23": 425219,
+  "2024-03-24": 425329,
+  "2024-03-25": 425423,
+  "2024-03-26": 425518,
+  "2024-03-27": 425734,
+  "2024-03-28": 425734,
+  "2024-03-29": 425972,
+  "2024-03-30": 425972,
+  "2024-03-31": 426063,
+  "2024-04-01": 426179,
+  "2024-04-02": 426294,
+  "2024-04-03": 426385,
+  "2024-04-04": 426477,
+  "2024-04-05": 426570,
+  "2024-04-06": 426707,
+  "2024-04-07": 426813,
+  "2024-04-08": 427008,
+  "2024-04-09": 427008,
+  "2024-04-10": 427123,
+  "2024-04-11": 427236,
+  "2024-04-12": 427342,
+  "2024-04-13": 427420,
+  "2024-04-14": 427527,
+  "2024-04-15": 427651,
+  "2024-04-16": 427733,
+  "2024-04-17": 427798,
+  "2024-04-19": 428070,
+  "2024-04-20": 428114,
+  "2024-04-21": 428158,
+  "2024-04-22": 428194,
+  "2024-04-23": 428273,
+  "2024-04-24": 428441,
+  "2024-04-25": 428461,
+  "2024-04-26": 428551,
+  "2024-04-27": 428630,
+  "2024-04-28": 428737,
+  "2024-04-29": 428809,
+  "2024-04-30": 428838,
+  "2024-05-01": 428921,
+  "2024-05-02": 428983,
+  "2024-05-03": 429118,
+  "2024-05-04": 429206,
+  "2024-05-05": 429312
 }

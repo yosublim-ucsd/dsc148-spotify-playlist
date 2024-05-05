@@ -1,1349 +1,281 @@
 {
-  "2024-05-05": 97008,
-  "date_first_scraped": "2023-07-30",
-  "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "name": "Los 70 Argentina",
-  "tracks": [
-    {
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208866,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
-    },
-    {
-      "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x"
-      },
-      "artists": [
-        {
-          "name": "Tango",
-          "url": "https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211040,
-      "name": "Amor de Primavera",
-      "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
-    },
-    {
-      "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
-    },
-    {
-      "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
-    },
-    {
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215906,
-      "name": "Canci\u00f3n para Mi Muerte",
-      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
-    },
-    {
-      "album": {
-        "name": "La M\u00e1quina De Hacer P\u00e1jaros",
-        "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
-      },
-      "artists": [
-        {
-          "name": "La Maquina De Hacer P\u00e1jaros",
-          "url": "https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164440,
-      "name": "Como Mata el Viento Norte",
-      "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
-    },
-    {
-      "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "album": {
-        "name": "Alma, coraz\u00f3n y vida",
-        "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
-    },
-    {
-      "album": {
-        "name": "Como Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 175493,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
-    },
-    {
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
-    },
-    {
-      "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
-    },
-    {
-      "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "album": {
-        "name": "El Jardin de los Presentes",
-        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 306626,
-      "name": "El Anillo del Capit\u00e1n Beto",
-      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
-    },
-    {
-      "album": {
-        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
-        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
-      },
-      "artists": [
-        {
-          "name": "La Joven Guardia",
-          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166253,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
-    },
-    {
-      "album": {
-        "name": "Cuero Caliente",
-        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222693,
-      "name": "El Momento En Que Est\u00e1s",
-      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
-    },
-    {
-      "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
-      },
-      "artists": [
-        {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174973,
-      "name": "El Oso",
-      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
-    },
-    {
-      "album": {
-        "name": "Jose Jose (1)",
-        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253000,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
-    },
-    {
-      "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
-    },
-    {
-      "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC"
-      },
-      "artists": [
-        {
-          "name": "Pastoral",
-          "url": "https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220533,
-      "name": "En El Hospicio",
-      "url": "https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB"
-    },
-    {
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207093,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi"
-    },
-    {
-      "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
-    },
-    {
-      "album": {
-        "name": "Pendulum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160133,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
-    },
-    {
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
-    },
-    {
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166400,
-      "name": "Jugo de Tomate",
-      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
-    },
-    {
-      "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176000,
-      "name": "La Balsa",
-      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
-    },
-    {
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
-    },
-    {
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "album": {
-        "name": "Bajo Belgrano",
-        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
-      },
-      "artists": [
-        {
-          "name": "Spinetta Jade",
-          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155466,
-      "name": "Maribel Se Durmi\u00f3",
-      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
-    },
-    {
-      "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292573,
-      "name": "Me Olvide De Vivir",
-      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
-    },
-    {
-      "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
-    },
-    {
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 197213,
-      "name": "More Than A Woman",
-      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
-    },
-    {
-      "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 281231,
-      "name": "My Sweet Lord (2014 Remaster)",
-      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
-    },
-    {
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
-    },
-    {
-      "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
-    },
-    {
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG"
-    },
-    {
-      "album": {
-        "name": "Piano Man",
-        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 336200,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
-    },
-    {
-      "album": {
-        "name": "Lo Mejor de Pescado Rabioso",
-        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226226,
-      "name": "Post-Crucifixion",
-      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
-    },
-    {
-      "album": {
-        "name": "Como un Le\u00f3n",
-        "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222573,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
-    },
-    {
-      "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275600,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
-    },
-    {
-      "album": {
-        "name": "The 24 Greatest Songs",
-        "url": "https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246266,
-      "name": "Quiereme Mucho - Yours",
-      "url": "https://open.spotify.com/track/1oBYY1qxWRkeYr94yl5rMS"
-    },
-    {
-      "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 251600,
-      "name": "Quiereme Mucho - Yours",
-      "url": "https://open.spotify.com/track/3D1ourR6ar31jOZmHGCoa2"
-    },
-    {
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
-    },
-    {
-      "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191226,
-      "name": "Rasgu\u00f1a las Piedras",
-      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
-    },
-    {
-      "album": {
-        "name": "Sandro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
-      },
-      "artists": [
-        {
-          "name": "Sandro",
-          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 153026,
-      "name": "Rosa... Rosa",
-      "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
-    },
-    {
-      "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
-      },
-      "artists": [
-        {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178506,
-      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
-      "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
-    },
-    {
-      "album": {
-        "name": "The Voice of Scott McKenzie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
-      },
-      "artists": [
-        {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 178933,
-      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
-      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
-    },
-    {
-      "album": {
-        "name": "Ser\u00fa Gir\u00e1n (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 202513,
-      "name": "Seminare (Remasterizado 2021)",
-      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
-    },
-    {
-      "album": {
-        "name": "A MIS 33 A\u00d1OS",
-        "url": "https://open.spotify.com/album/6CCoLPMFkWAwd08TZzvQlY"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183093,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/2XDrvJ6uhiwVLNj25eDCLW"
-    },
-    {
-      "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 186706,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/3R8rzNolKgeMo3MQhYFBgu"
-    },
-    {
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
-    },
-    {
-      "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 348760,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "album": {
-        "name": "La Magia de Sandro",
-        "url": "https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s"
-      },
-      "artists": [
-        {
-          "name": "Sandro",
-          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122160,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/4ADkfiY6Dejdr3ukiLF4MJ"
-    },
-    {
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130080,
-      "name": "Todas las Hojas Son del Viento",
-      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
-    },
-    {
-      "album": {
-        "name": "Super 20",
-        "url": "https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B"
-      },
-      "artists": [
-        {
-          "name": "Nino Bravo",
-          "url": "https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272800,
-      "name": "Un Beso Y Una Flor",
-      "url": "https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr"
-    },
-    {
-      "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
-    },
-    {
-      "album": {
-        "name": "Diego En Los 70",
-        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 334743,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
-    },
-    {
-      "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2020-03-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 214003,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8uOqczKiNnG"
+  "2023-07-30": 79767,
+  "2023-07-31": 79803,
+  "2023-08-01": 79817,
+  "2023-08-02": 79845,
+  "2023-08-03": 79862,
+  "2023-08-04": 79896,
+  "2023-08-05": 79930,
+  "2023-08-06": 80015,
+  "2023-08-07": 80015,
+  "2023-08-08": 80031,
+  "2023-08-09": 80051,
+  "2023-08-10": 80078,
+  "2023-08-11": 80111,
+  "2023-08-12": 80137,
+  "2023-08-13": 80170,
+  "2023-08-14": 80197,
+  "2023-08-15": 80246,
+  "2023-08-16": 80246,
+  "2023-08-17": 80284,
+  "2023-08-18": 80313,
+  "2023-08-19": 80348,
+  "2023-08-20": 80399,
+  "2023-08-21": 80461,
+  "2023-08-22": 80488,
+  "2023-08-23": 80527,
+  "2023-08-24": 80553,
+  "2023-08-25": 80587,
+  "2023-08-26": 80616,
+  "2023-08-27": 80639,
+  "2023-08-28": 80687,
+  "2023-08-29": 80716,
+  "2023-08-30": 80745,
+  "2023-08-31": 80785,
+  "2023-09-01": 80847,
+  "2023-09-02": 80847,
+  "2023-09-03": 80879,
+  "2023-09-04": 80918,
+  "2023-09-05": 80951,
+  "2023-09-06": 80978,
+  "2023-09-07": 81005,
+  "2023-09-08": 81041,
+  "2023-09-09": 81080,
+  "2023-09-10": 81121,
+  "2023-09-11": 81169,
+  "2023-09-12": 81202,
+  "2023-09-13": 81226,
+  "2023-09-14": 81269,
+  "2023-09-15": 81298,
+  "2023-09-16": 81330,
+  "2023-09-17": 81378,
+  "2023-09-18": 81410,
+  "2023-09-19": 81432,
+  "2023-09-20": 81465,
+  "2023-09-21": 81502,
+  "2023-09-22": 81527,
+  "2023-09-23": 81550,
+  "2023-09-24": 81582,
+  "2023-09-25": 81607,
+  "2023-09-26": 81642,
+  "2023-09-27": 81667,
+  "2023-09-28": 81693,
+  "2023-09-29": 81728,
+  "2023-09-30": 81780,
+  "2023-10-01": 81816,
+  "2023-10-02": 81842,
+  "2023-10-03": 81859,
+  "2023-10-04": 81886,
+  "2023-10-05": 81916,
+  "2023-10-06": 81935,
+  "2023-10-07": 81958,
+  "2023-10-08": 81984,
+  "2023-10-09": 82022,
+  "2023-10-10": 82005,
+  "2023-10-11": 82027,
+  "2023-10-12": 82027,
+  "2023-10-13": 82018,
+  "2023-10-14": 82031,
+  "2023-10-15": 82057,
+  "2023-10-16": 82088,
+  "2023-10-17": 82121,
+  "2023-10-18": 82128,
+  "2023-10-19": 82144,
+  "2023-10-20": 82165,
+  "2023-10-21": 82182,
+  "2023-10-22": 82200,
+  "2023-10-23": 82222,
+  "2023-10-24": 82243,
+  "2023-10-25": 82264,
+  "2023-10-26": 82290,
+  "2023-10-27": 82309,
+  "2023-10-28": 82309,
+  "2023-10-29": 82309,
+  "2023-10-30": 82373,
+  "2023-10-31": 82373,
+  "2023-11-01": 82412,
+  "2023-11-02": 82436,
+  "2023-11-03": 82442,
+  "2023-11-04": 82460,
+  "2023-11-05": 82478,
+  "2023-11-06": 82495,
+  "2023-11-07": 82507,
+  "2023-11-08": 82521,
+  "2023-11-09": 82544,
+  "2023-11-10": 82564,
+  "2023-11-11": 82594,
+  "2023-11-12": 82617,
+  "2023-11-13": 82651,
+  "2023-11-14": 82664,
+  "2023-11-15": 82664,
+  "2023-11-16": 82687,
+  "2023-11-17": 82710,
+  "2023-11-18": 82710,
+  "2023-11-19": 82732,
+  "2023-11-20": 82740,
+  "2023-11-21": 82767,
+  "2023-11-22": 82777,
+  "2023-11-23": 82787,
+  "2023-11-24": 82787,
+  "2023-11-25": 82810,
+  "2023-11-26": 82836,
+  "2023-11-27": 82862,
+  "2023-11-28": 82887,
+  "2023-11-29": 82924,
+  "2023-11-30": 82924,
+  "2023-12-01": 82944,
+  "2023-12-02": 82955,
+  "2023-12-03": 82982,
+  "2023-12-04": 83017,
+  "2023-12-05": 83027,
+  "2023-12-06": 83043,
+  "2023-12-07": 83059,
+  "2023-12-08": 83075,
+  "2023-12-09": 83086,
+  "2023-12-10": 83098,
+  "2023-12-11": 83096,
+  "2023-12-12": 83096,
+  "2023-12-13": 83116,
+  "2023-12-14": 83130,
+  "2023-12-15": 83142,
+  "2023-12-16": 83158,
+  "2023-12-17": 83177,
+  "2023-12-18": 83191,
+  "2023-12-19": 83204,
+  "2023-12-20": 83218,
+  "2023-12-21": 83233,
+  "2023-12-22": 83241,
+  "2023-12-23": 83262,
+  "2023-12-24": 83288,
+  "2023-12-25": 83305,
+  "2023-12-26": 83327,
+  "2023-12-27": 83347,
+  "2023-12-29": 83347,
+  "2023-12-30": 83400,
+  "2023-12-31": 83413,
+  "2024-01-01": 83438,
+  "2024-01-02": 83449,
+  "2024-01-03": 83474,
+  "2024-01-04": 83487,
+  "2024-01-05": 83502,
+  "2024-01-06": 83517,
+  "2024-01-07": 83530,
+  "2024-01-08": 83524,
+  "2024-01-09": 83489,
+  "2024-01-10": 83489,
+  "2024-01-11": 83477,
+  "2024-01-12": 83474,
+  "2024-01-13": 83448,
+  "2024-01-14": 83442,
+  "2024-01-15": 83442,
+  "2024-01-16": 83438,
+  "2024-01-17": 83448,
+  "2024-01-18": 83461,
+  "2024-01-19": 83473,
+  "2024-01-20": 83479,
+  "2024-01-21": 83493,
+  "2024-01-22": 83507,
+  "2024-01-23": 83513,
+  "2024-01-24": 83500,
+  "2024-01-25": 83503,
+  "2024-01-26": 83524,
+  "2024-01-27": 83515,
+  "2024-01-28": 83511,
+  "2024-01-29": 83514,
+  "2024-01-30": 83521,
+  "2024-01-31": 83531,
+  "2024-02-01": 83532,
+  "2024-02-02": 83539,
+  "2024-02-03": 83562,
+  "2024-02-04": 83581,
+  "2024-02-05": 83579,
+  "2024-02-06": 83591,
+  "2024-02-07": 83612,
+  "2024-02-08": 83619,
+  "2024-02-09": 83632,
+  "2024-02-10": 83648,
+  "2024-02-11": 83672,
+  "2024-02-12": 83699,
+  "2024-02-13": 83720,
+  "2024-02-14": 83725,
+  "2024-02-15": 83734,
+  "2024-02-16": 83745,
+  "2024-02-17": 83757,
+  "2024-02-18": 83761,
+  "2024-02-19": 83773,
+  "2024-02-20": 83786,
+  "2024-02-21": 83801,
+  "2024-02-22": 83809,
+  "2024-02-23": 83818,
+  "2024-02-24": 83823,
+  "2024-02-25": 83829,
+  "2024-02-26": 83849,
+  "2024-02-27": 83867,
+  "2024-02-28": 83867,
+  "2024-02-29": 83870,
+  "2024-03-01": 83884,
+  "2024-03-02": 83894,
+  "2024-03-03": 83910,
+  "2024-03-04": 83921,
+  "2024-03-05": 83930,
+  "2024-03-06": 83939,
+  "2024-03-07": 83946,
+  "2024-03-08": 83960,
+  "2024-03-09": 83973,
+  "2024-03-10": 83988,
+  "2024-03-11": 84002,
+  "2024-03-12": 84007,
+  "2024-03-13": 84009,
+  "2024-03-14": 84020,
+  "2024-03-15": 84025,
+  "2024-03-16": 84045,
+  "2024-03-17": 84059,
+  "2024-03-18": 84071,
+  "2024-03-19": 96903,
+  "2024-03-20": 96849,
+  "2024-03-21": 96876,
+  "2024-03-22": 96893,
+  "2024-03-23": 96915,
+  "2024-03-24": 96937,
+  "2024-03-25": 96942,
+  "2024-03-26": 96948,
+  "2024-03-27": 96973,
+  "2024-03-28": 96973,
+  "2024-03-29": 97006,
+  "2024-03-30": 97006,
+  "2024-03-31": 97025,
+  "2024-04-01": 97056,
+  "2024-04-02": 97078,
+  "2024-04-03": 97089,
+  "2024-04-04": 97091,
+  "2024-04-05": 97099,
+  "2024-04-06": 97121,
+  "2024-04-07": 97143,
+  "2024-04-08": 97165,
+  "2024-04-09": 97165,
+  "2024-04-10": 97173,
+  "2024-04-11": 97175,
+  "2024-04-12": 97189,
+  "2024-04-13": 97203,
+  "2024-04-14": 97214,
+  "2024-04-15": 97231,
+  "2024-04-16": 97219,
+  "2024-04-17": 97185,
+  "2024-04-19": 97188,
+  "2024-04-20": 97147,
+  "2024-04-21": 97094,
+  "2024-04-22": 97056,
+  "2024-04-23": 97017,
+  "2024-04-24": 97008,
+  "2024-04-25": 97003,
+  "2024-04-26": 97016,
+  "2024-04-27": 97011,
+  "2024-04-28": 97013,
+  "2024-04-29": 97013,
+  "2024-04-30": 96963,
+  "2024-05-01": 96970,
+  "2024-05-02": 96996,
+  "2024-05-03": 97009,
+  "2024-05-04": 96997,
+  "2024-05-05": 97008
 }

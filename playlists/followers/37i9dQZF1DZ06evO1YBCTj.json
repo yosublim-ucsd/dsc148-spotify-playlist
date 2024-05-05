@@ -1,891 +1,98 @@
 {
-  "2024-05-05": 214230,
-  "date_first_scraped": "2024-01-30",
-  "description": "This Is keshi. Los temas esenciales, todos en una lista.",
-  "name": "This Is keshi",
-  "tracks": [
-    {
-      "album": {
-        "name": "2 soon",
-        "url": "https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206511,
-      "name": "2 soon",
-      "url": "https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv"
-    },
-    {
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
-    },
-    {
-      "album": {
-        "name": "as long as it takes you",
-        "url": "https://open.spotify.com/album/1nzIbvvf8iYCk3WPdAhSfG"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185699,
-      "name": "as long as it takes you",
-      "url": "https://open.spotify.com/track/2XpmzywSGH1OILU0mxSHBy"
-    },
-    {
-      "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171520,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165154,
-      "name": "B.Y.S.",
-      "url": "https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR"
-    },
-    {
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215960,
-      "name": "bandaids",
-      "url": "https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR"
-    },
-    {
-      "album": {
-        "name": "beside you",
-        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166023,
-      "name": "beside you",
-      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
-    },
-    {
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178600,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI"
-    },
-    {
-      "album": {
-        "name": "don't leave",
-        "url": "https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL"
-      },
-      "artists": [
-        {
-          "name": "Ionika",
-          "url": "https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-02-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128000,
-      "name": "don't leave",
-      "url": "https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS"
-    },
-    {
-      "album": {
-        "name": "don't leave",
-        "url": "https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY"
-      },
-      "artists": [
-        {
-          "name": "Ionika",
-          "url": "https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
-      "duration_ms": 128000,
-      "name": "don't leave",
-      "url": "https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "album": {
-        "name": "good days",
-        "url": "https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201999,
-      "name": "GODSPLAN",
-      "url": "https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3"
-    },
-    {
-      "album": {
-        "name": "if you're not the one for me who is",
-        "url": "https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136609,
-      "name": "goes to waste",
-      "url": "https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97"
-    },
-    {
-      "album": {
-        "name": "good days",
-        "url": "https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228801,
-      "name": "good days",
-      "url": "https://open.spotify.com/track/6P0jAi154fKuksoKN6ePcR"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160042,
-      "name": "HELL/HEAVEN",
-      "url": "https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY"
-    },
-    {
-      "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173716,
-      "name": "i swear i'll never leave again",
-      "url": "https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD"
-    },
-    {
-      "album": {
-        "name": "if you're not the one for me who is",
-        "url": "https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170766,
-      "name": "if you're not the one for me who is",
-      "url": "https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa"
-    },
-    {
-      "album": {
-        "name": "it kills me",
-        "url": "https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU"
-      },
-      "artists": [
-        {
-          "name": "demxntia",
-          "url": "https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155428,
-      "name": "it kills me",
-      "url": "https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv"
-    },
-    {
-      "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
-    },
-    {
-      "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/5Uaaq4KQPwGTG9cyooFD1I"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123125,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/2KEnu7ABoDpekTUae5rrU0"
-    },
-    {
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206893,
-      "name": "less of you",
-      "url": "https://open.spotify.com/track/3IqcBL5yjJK3ri0TGaL3MC"
-    },
-    {
-      "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212784,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
-    },
-    {
-      "album": {
-        "name": "magnolia",
-        "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139623,
-      "name": "magnolia",
-      "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184011,
-      "name": "more",
-      "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
-    },
-    {
-      "album": {
-        "name": "onoffonoff",
-        "url": "https://open.spotify.com/album/0GJmg6PCM2HKNv8CfdkNgX"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190163,
-      "name": "onoffonoff",
-      "url": "https://open.spotify.com/track/66Cvj3KAYjeJcDEVQRJSYn"
-    },
-    {
-      "album": {
-        "name": "over u",
-        "url": "https://open.spotify.com/album/0ldYR1JTxCkRm1V6F8w8mS"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179777,
-      "name": "over u",
-      "url": "https://open.spotify.com/track/6dMnsLoJPFfXIxcsDqjGiZ"
-    },
-    {
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195093,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb"
-    },
-    {
-      "album": {
-        "name": "trilogy remixes",
-        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "date_added": "2024-02-07",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
-      "duration_ms": 180570,
-      "name": "right here - Snakehips Remix",
-      "url": "https://open.spotify.com/track/3sdlYdbl8AHkhhRsyDpVV1"
-    },
-    {
-      "album": {
-        "name": "Celestial Angel",
-        "url": "https://open.spotify.com/album/3rfmrinQxC9YQg14nfsqe6"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170900,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/3BdxidJwgCBlmjCz5LvQ6t"
-    },
-    {
-      "album": {
-        "name": "good days",
-        "url": "https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "Rook1e",
-          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132223,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3KJ9yTHwvalMuXApcjxCNH"
-    },
-    {
-      "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152480,
-      "name": "skeletons",
-      "url": "https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO"
-    },
-    {
-      "album": {
-        "name": "CRUSHER",
-        "url": "https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195253,
-      "name": "Sociopath",
-      "url": "https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164662,
-      "name": "SOMEBODY",
-      "url": "https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ"
-    },
-    {
-      "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165213,
-      "name": "summer",
-      "url": "https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174403,
-      "name": "talk",
-      "url": "https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx"
-    },
-    {
-      "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198978,
-      "name": "the reaper",
-      "url": "https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ"
-    },
-    {
-      "album": {
-        "name": "if you're not the one for me who is",
-        "url": "https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 72757,
-      "name": "they don't fly as high as they used to",
-      "url": "https://open.spotify.com/track/38YOfFkows6ZZDGyNOBn2B"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
-    },
-    {
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248010,
-      "name": "us",
-      "url": "https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK"
-    },
-    {
-      "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193373,
-      "name": "War With Heaven",
-      "url": "https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f"
-    },
-    {
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184110,
-      "name": "WESTSIDE",
-      "url": "https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY"
-    },
-    {
-      "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153480,
-      "name": "xoxosos",
-      "url": "https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YBCTj"
+  "2024-01-30": 209663,
+  "2024-01-31": 209718,
+  "2024-02-01": 209778,
+  "2024-02-02": 209841,
+  "2024-02-03": 209891,
+  "2024-02-04": 209948,
+  "2024-02-05": 210014,
+  "2024-02-06": 210053,
+  "2024-02-07": 210115,
+  "2024-02-08": 210172,
+  "2024-02-09": 210224,
+  "2024-02-10": 210268,
+  "2024-02-11": 210329,
+  "2024-02-12": 210367,
+  "2024-02-13": 210411,
+  "2024-02-14": 210464,
+  "2024-02-15": 210506,
+  "2024-02-16": 210563,
+  "2024-02-17": 210628,
+  "2024-02-18": 210652,
+  "2024-02-19": 210676,
+  "2024-02-20": 210753,
+  "2024-02-21": 210805,
+  "2024-02-22": 210858,
+  "2024-02-23": 210909,
+  "2024-02-24": 210948,
+  "2024-02-25": 210995,
+  "2024-02-26": 211047,
+  "2024-02-27": 211124,
+  "2024-02-28": 211124,
+  "2024-02-29": 211171,
+  "2024-03-01": 211222,
+  "2024-03-02": 211287,
+  "2024-03-03": 211345,
+  "2024-03-04": 211404,
+  "2024-03-05": 211456,
+  "2024-03-06": 211509,
+  "2024-03-07": 211579,
+  "2024-03-08": 211634,
+  "2024-03-09": 211660,
+  "2024-03-10": 211704,
+  "2024-03-11": 211751,
+  "2024-03-12": 211813,
+  "2024-03-13": 211871,
+  "2024-03-14": 211936,
+  "2024-03-15": 211999,
+  "2024-03-16": 212083,
+  "2024-03-17": 212130,
+  "2024-03-18": 212185,
+  "2024-03-19": 212243,
+  "2024-03-20": 212294,
+  "2024-03-21": 212347,
+  "2024-03-22": 212393,
+  "2024-03-23": 212447,
+  "2024-03-24": 212465,
+  "2024-03-25": 212513,
+  "2024-03-26": 212572,
+  "2024-03-27": 212654,
+  "2024-03-28": 212654,
+  "2024-03-29": 212765,
+  "2024-03-30": 212765,
+  "2024-03-31": 212821,
+  "2024-04-01": 212862,
+  "2024-04-02": 212907,
+  "2024-04-03": 212972,
+  "2024-04-04": 212994,
+  "2024-04-05": 213071,
+  "2024-04-06": 213113,
+  "2024-04-07": 213136,
+  "2024-04-08": 213227,
+  "2024-04-09": 213227,
+  "2024-04-10": 213266,
+  "2024-04-11": 213296,
+  "2024-04-12": 213340,
+  "2024-04-13": 213380,
+  "2024-04-14": 213410,
+  "2024-04-15": 213452,
+  "2024-04-16": 213480,
+  "2024-04-17": 213516,
+  "2024-04-19": 213622,
+  "2024-04-20": 213661,
+  "2024-04-21": 213703,
+  "2024-04-22": 213756,
+  "2024-04-23": 213794,
+  "2024-04-24": 213861,
+  "2024-04-25": 213875,
+  "2024-04-26": 213919,
+  "2024-04-27": 213962,
+  "2024-04-28": 214009,
+  "2024-04-29": 214031,
+  "2024-04-30": 214042,
+  "2024-05-01": 214084,
+  "2024-05-02": 214095,
+  "2024-05-03": 214150,
+  "2024-05-04": 214191,
+  "2024-05-05": 214230
 }

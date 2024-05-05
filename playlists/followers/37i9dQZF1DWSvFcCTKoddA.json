@@ -1,603 +1,595 @@
 {
-  "2024-05-05": 5739,
-  "date_first_scraped": "2022-09-17",
-  "description": "D\u00e9couvrez les cr\u00e9ateurs de demain.",
-  "name": "RADAR Podcasters France",
-  "tracks": [
-    {
-      "album": {
-        "name": "SUR PAROLE !",
-        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
-      },
-      "artists": [
-        {
-          "name": "SUR PAROLE !",
-          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 4549302,
-      "name": "\"Je marche seul\" avec Adrien Menielle",
-      "url": "https://open.spotify.com/episode/1lkj1QAtdbnQqDfug1X0ZB"
-    },
-    {
-      "album": {
-        "name": "SUR PAROLE !",
-        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
-      },
-      "artists": [
-        {
-          "name": "SUR PAROLE !",
-          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 4535170,
-      "name": "\"Je ne suis pas un h\u00e9ros\" avec Julien Santini",
-      "url": "https://open.spotify.com/episode/0poInOtlnfO4omHBkxGiuG"
-    },
-    {
-      "album": {
-        "name": "Inspiration Cr\u00e9ative",
-        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-      },
-      "artists": [
-        {
-          "name": "Inspiration Cr\u00e9ative",
-          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 4212938,
-      "name": "#09 \u2013 Audrey Pirault : Comment trouver sa voie ?",
-      "url": "https://open.spotify.com/episode/4AfnheDxOqz2oodnq0sFqO"
-    },
-    {
-      "album": {
-        "name": "Inspiration Cr\u00e9ative",
-        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-      },
-      "artists": [
-        {
-          "name": "Inspiration Cr\u00e9ative",
-          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 4168272,
-      "name": "#19 - Marion S\u00e9clin : Comment enfin passer \u00e0 l'action sur ses projets ?",
-      "url": "https://open.spotify.com/episode/36Q6YrTGNdhHIG56IczAb7"
-    },
-    {
-      "album": {
-        "name": "Mamie dans les orties",
-        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-      },
-      "artists": [
-        {
-          "name": "Mamie dans les orties",
-          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 2977418,
-      "name": "#35 Ziz - Du champ \u00e0 la ville",
-      "url": "https://open.spotify.com/episode/7yV0NzHAUqyLtOWRVMJSde"
-    },
-    {
-      "album": {
-        "name": "Inspiration Cr\u00e9ative",
-        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-      },
-      "artists": [
-        {
-          "name": "Inspiration Cr\u00e9ative",
-          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 3780888,
-      "name": "#36 - Natacha Birds : Ne jamais attendre pour r\u00e9inventer sa vie",
-      "url": "https://open.spotify.com/episode/5N0kl3NsTGgfeEnJjfdlgI"
-    },
-    {
-      "album": {
-        "name": "Mamie dans les orties",
-        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-      },
-      "artists": [
-        {
-          "name": "Mamie dans les orties",
-          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 2904137,
-      "name": "#5 Jacqueline - La force tranquille",
-      "url": "https://open.spotify.com/episode/4tkzJSRCWzrXY81IY6GeUR"
-    },
-    {
-      "album": {
-        "name": "Mamie dans les orties",
-        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-      },
-      "artists": [
-        {
-          "name": "Mamie dans les orties",
-          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 1897880,
-      "name": "#6 Dora - Ode \u00e0 la joie, partie 1 ",
-      "url": "https://open.spotify.com/episode/7K46fKzNYzZh5tD3vWbTwn"
-    },
-    {
-      "album": {
-        "name": "Simple Cafeine",
-        "url": "https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv"
-      },
-      "artists": [
-        {
-          "name": "Simple Cafeine",
-          "url": "https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 1533492,
-      "name": "2 ans ensemble (beaucoup d'amour l\u00e0)",
-      "url": "https://open.spotify.com/episode/1z9HNLXIyR8MHxKTGj6xzc"
-    },
-    {
-      "album": {
-        "name": "Tchatcheuse",
-        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
-      },
-      "artists": [
-        {
-          "name": "Tchatcheuse",
-          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3407307,
-      "name": "Alexis Donadey - \u00ab\u00a0Suppl\u00e9ment fromage... j'me suis embourgois\u00e9 \u00bb",
-      "url": "https://open.spotify.com/episode/1qz9Ccq1JvNkgUuBuiNCRv"
-    },
-    {
-      "album": {
-        "name": "Garce Therapy",
-        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
-      },
-      "artists": [
-        {
-          "name": "Garce Therapy",
-          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3259533,
-      "name": "Analyse de soci\u00e9t\u00e9(+ma life) : \u00eatre une femme maghr\u00e9bine et sortir avec un rebeu",
-      "url": "https://open.spotify.com/episode/4FELqDBlUsSRictVSyNYft"
-    },
-    {
-      "album": {
-        "name": "Cordialement, Zo\u00e9",
-        "url": "https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x"
-      },
-      "artists": [
-        {
-          "name": "Cordialement, Zo\u00e9",
-          "url": "https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 1870184,
-      "name": "Ancien prisonnier, je suis devenu chef d'entreprise",
-      "url": "https://open.spotify.com/episode/3dPdc7n5LtTDv4BQuqBFnG"
-    },
-    {
-      "album": {
-        "name": "4 quarts d'heure",
-        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
-      },
-      "artists": [
-        {
-          "name": "4 quarts d'heure",
-          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 4251219,
-      "name": "Avant la barbiche de front ft. SML",
-      "url": "https://open.spotify.com/episode/0oqGsuGYhJMzooNkwaeiZK"
-    },
-    {
-      "album": {
-        "name": "4 quarts d'heure",
-        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
-      },
-      "artists": [
-        {
-          "name": "4 quarts d'heure",
-          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 3635513,
-      "name": "Avant le mythe des tongs-mocassins",
-      "url": "https://open.spotify.com/episode/2LAuS7vFNR1RNramVZHDiq"
-    },
-    {
-      "album": {
-        "name": "4 quarts d'heure",
-        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
-      },
-      "artists": [
-        {
-          "name": "4 quarts d'heure",
-          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 3286622,
-      "name": "Avant les amours de vacances",
-      "url": "https://open.spotify.com/episode/3i9DiXsg1TvxEOSB4f7Tij"
-    },
-    {
-      "album": {
-        "name": "Simple Cafeine",
-        "url": "https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv"
-      },
-      "artists": [
-        {
-          "name": "Simple Cafeine",
-          "url": "https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 1224280,
-      "name": "Ces d\u00e9cisions qui ont boulevers\u00e9 ma vie",
-      "url": "https://open.spotify.com/episode/1J6SdcHyCgiSUGXszB6nun"
-    },
-    {
-      "album": {
-        "name": "Bip sonore - Shera",
-        "url": "https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5"
-      },
-      "artists": [
-        {
-          "name": "Bip sonore - Shera",
-          "url": "https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 1772016,
-      "name": "Comment savoir si c'est la bonne personne ? (feat mon mari)",
-      "url": "https://open.spotify.com/episode/59uU3sCo05rdCri7V2ycBk"
-    },
-    {
-      "album": {
-        "name": "Cordialement, Zo\u00e9",
-        "url": "https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x"
-      },
-      "artists": [
-        {
-          "name": "Cordialement, Zo\u00e9",
-          "url": "https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 2220277,
-      "name": "Cupidon, former des couples est mon m\u00e9tier",
-      "url": "https://open.spotify.com/episode/2g9veVQ0KxUrDgibrK0rH3"
-    },
-    {
-      "album": {
-        "name": "Absolument fabuleuses",
-        "url": "https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE"
-      },
-      "artists": [
-        {
-          "name": "Absolument fabuleuses",
-          "url": "https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3491604,
-      "name": "Elo et Palo composent un gouvernement queer",
-      "url": "https://open.spotify.com/episode/2vrRRNuGrbxt8v7t7N0SQD"
-    },
-    {
-      "album": {
-        "name": "Central Podcast",
-        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-      },
-      "artists": [
-        {
-          "name": "Central Podcast",
-          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 2324297,
-      "name": "Friends S02E02 \u2022 Celui qui d\u00e9testait le lait maternel",
-      "url": "https://open.spotify.com/episode/6LijhCTtON34NbWZOZxc8y"
-    },
-    {
-      "album": {
-        "name": "Central Podcast",
-        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-      },
-      "artists": [
-        {
-          "name": "Central Podcast",
-          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 2198335,
-      "name": "Friends S10E02 \u2022 Celui qui allait tr\u00e8s bien (avec Leslie Pl\u00e9e)",
-      "url": "https://open.spotify.com/episode/4nbpEFfms7goRxZ5UmPiFc"
-    },
-    {
-      "album": {
-        "name": "Central Podcast",
-        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-      },
-      "artists": [
-        {
-          "name": "Central Podcast",
-          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
-      "duration_ms": 3208489,
-      "name": "Friends \u2022 Focus perso \ud83d\udd0e RACHEL (avec Tristan Lopin)",
-      "url": "https://open.spotify.com/episode/40HpqikyXCKzrz2bfldzkp"
-    },
-    {
-      "album": {
-        "name": "ZINZIN",
-        "url": "https://open.spotify.com/album/4jaLLRDjv0OvVT3QBSuza2"
-      },
-      "artists": [
-        {
-          "name": "ZINZIN",
-          "url": "https://open.spotify.com/show/4jaLLRDjv0OvVT3QBSuza2"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 2182060,
-      "name": "Hong-Kong \u00e0 2h du matin, une coloc, un couteau",
-      "url": "https://open.spotify.com/episode/1xgaQL5NzXDDxTpXguEyLW"
-    },
-    {
-      "album": {
-        "name": "Cordialement, Zo\u00e9",
-        "url": "https://open.spotify.com/album/4dcaPuhsdUzzZC80cRuc9x"
-      },
-      "artists": [
-        {
-          "name": "Cordialement, Zo\u00e9",
-          "url": "https://open.spotify.com/show/4dcaPuhsdUzzZC80cRuc9x"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 1560163,
-      "name": "J'ai subi une agression sexuelle au travail",
-      "url": "https://open.spotify.com/episode/1FCKbNQInGuGzBgRe9iqH6"
-    },
-    {
-      "album": {
-        "name": "Garce Therapy",
-        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
-      },
-      "artists": [
-        {
-          "name": "Garce Therapy",
-          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 1462938,
-      "name": "La salle d'attente de ta vie",
-      "url": "https://open.spotify.com/episode/6Lf3wmKqLJgFzYCAUp7yi0"
-    },
-    {
-      "album": {
-        "name": "Bip sonore - Shera",
-        "url": "https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5"
-      },
-      "artists": [
-        {
-          "name": "Bip sonore - Shera",
-          "url": "https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 1882331,
-      "name": "Ma vie amicale est un d\u00e9sastre #HorsS\u00e9rie",
-      "url": "https://open.spotify.com/episode/6NfHXqxbomq4eZQ9EAjY6L"
-    },
-    {
-      "album": {
-        "name": "Absolument fabuleuses",
-        "url": "https://open.spotify.com/album/3t9Jrg3FUIIIuTaZBA4swE"
-      },
-      "artists": [
-        {
-          "name": "Absolument fabuleuses",
-          "url": "https://open.spotify.com/show/3t9Jrg3FUIIIuTaZBA4swE"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3635539,
-      "name": "Palo et Elo re\u00e7oivent Sublyme !",
-      "url": "https://open.spotify.com/episode/2yl6yWy5rFxr2J1Vc51mbY"
-    },
-    {
-      "album": {
-        "name": "Tchatcheuse",
-        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
-      },
-      "artists": [
-        {
-          "name": "Tchatcheuse",
-          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
-        }
-      ],
-      "date_added": "2024-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 1254426,
-      "name": "Tu me dragues si...",
-      "url": "https://open.spotify.com/episode/0d3rCaBcLv7dDNM29h5ujd"
-    },
-    {
-      "album": {
-        "name": "ZINZIN",
-        "url": "https://open.spotify.com/album/4jaLLRDjv0OvVT3QBSuza2"
-      },
-      "artists": [
-        {
-          "name": "ZINZIN",
-          "url": "https://open.spotify.com/show/4jaLLRDjv0OvVT3QBSuza2"
-        }
-      ],
-      "date_added": "2023-11-09",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 2649417,
-      "name": "Une \u00eele interdite, le pr\u00e9sident du Chili, un dipl\u00f4me de plong\u00e9e",
-      "url": "https://open.spotify.com/episode/4OmHpqnqLX4i61Nc72fUEb"
-    },
-    {
-      "album": {
-        "name": "Bip sonore - Shera",
-        "url": "https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5"
-      },
-      "artists": [
-        {
-          "name": "Bip sonore - Shera",
-          "url": "https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 1810468,
-      "name": "\u00c7a fait quoi d'\u00eatre maman ? (Vraiment)",
-      "url": "https://open.spotify.com/episode/78V4rRa5RhjxJPTrTn6mck"
-    },
-    {
-      "album": {
-        "name": "Thread Horreur",
-        "url": "https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp"
-      },
-      "artists": [
-        {
-          "name": "Thread Horreur",
-          "url": "https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 787242,
-      "name": "\u00c9pisode 32 : des BRUITS absolument TERRIFIANTS",
-      "url": "https://open.spotify.com/episode/5isGMOYUSUiWHPh2BMeNQe"
-    },
-    {
-      "album": {
-        "name": "Thread Horreur",
-        "url": "https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp"
-      },
-      "artists": [
-        {
-          "name": "Thread Horreur",
-          "url": "https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 638165,
-      "name": "\u00c9pisode 34 : la PIRE f\u00eate d'HALLOWEEN ...",
-      "url": "https://open.spotify.com/episode/360vG2CpcBId83rZjp7b70"
-    },
-    {
-      "album": {
-        "name": "Thread Horreur",
-        "url": "https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp"
-      },
-      "artists": [
-        {
-          "name": "Thread Horreur",
-          "url": "https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
-      "duration_ms": 771178,
-      "name": "\u00c9pisode 35 : La PIRE histoire d'HORREUR qui existe (vraiment c'est horrible) ",
-      "url": "https://open.spotify.com/episode/3AZwFo9glnABFclxJ3ThdR"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA"
+  "2022-09-17": 3856,
+  "2022-09-18": 3853,
+  "2022-09-19": 3850,
+  "2022-09-20": 3849,
+  "2022-09-21": 3848,
+  "2022-09-22": 3846,
+  "2022-09-23": 3845,
+  "2022-09-24": 3846,
+  "2022-09-25": 3845,
+  "2022-09-26": 3845,
+  "2022-09-27": 3844,
+  "2022-09-28": 3844,
+  "2022-09-29": 3843,
+  "2022-09-30": 3843,
+  "2022-10-01": 3839,
+  "2022-10-02": 3835,
+  "2022-10-03": 3832,
+  "2022-10-04": 3830,
+  "2022-10-05": 3828,
+  "2022-10-06": 3824,
+  "2022-10-07": 3822,
+  "2022-10-08": 3821,
+  "2022-10-09": 3821,
+  "2022-10-10": 3821,
+  "2022-10-11": 3819,
+  "2022-10-12": 3817,
+  "2022-10-13": 3812,
+  "2022-10-14": 3810,
+  "2022-10-15": 3807,
+  "2022-10-16": 3806,
+  "2022-10-17": 3804,
+  "2022-10-18": 3803,
+  "2022-10-19": 3799,
+  "2022-10-20": 3795,
+  "2022-10-21": 3794,
+  "2022-10-22": 3793,
+  "2022-10-23": 3793,
+  "2022-10-24": 3791,
+  "2022-10-25": 3790,
+  "2022-10-26": 3784,
+  "2022-10-27": 3784,
+  "2022-10-28": 3783,
+  "2022-10-29": 3782,
+  "2022-10-30": 3780,
+  "2022-10-31": 3779,
+  "2022-11-01": 3779,
+  "2022-11-02": 3777,
+  "2022-11-03": 3774,
+  "2022-11-04": 3771,
+  "2022-11-05": 3769,
+  "2022-11-06": 3767,
+  "2022-11-07": 3768,
+  "2022-11-08": 3768,
+  "2022-11-09": 3768,
+  "2022-11-10": 3768,
+  "2022-11-11": 3766,
+  "2022-11-12": 3762,
+  "2022-11-13": 3760,
+  "2022-11-14": 3758,
+  "2022-11-15": 3755,
+  "2022-11-16": 3751,
+  "2022-11-17": 3748,
+  "2022-11-18": 3748,
+  "2022-11-19": 3746,
+  "2022-11-20": 3744,
+  "2022-11-21": 3744,
+  "2022-11-22": 3743,
+  "2022-11-23": 3743,
+  "2022-11-24": 3741,
+  "2022-11-25": 3742,
+  "2022-11-26": 3740,
+  "2022-11-27": 3739,
+  "2022-11-28": 3740,
+  "2022-11-29": 3740,
+  "2022-11-30": 3737,
+  "2022-12-01": 3736,
+  "2022-12-02": 3734,
+  "2022-12-03": 3734,
+  "2022-12-04": 3732,
+  "2022-12-05": 3729,
+  "2022-12-06": 3725,
+  "2022-12-07": 3722,
+  "2022-12-08": 3723,
+  "2022-12-09": 3723,
+  "2022-12-10": 3722,
+  "2022-12-11": 3721,
+  "2022-12-12": 3721,
+  "2022-12-13": 3720,
+  "2022-12-14": 3719,
+  "2022-12-15": 3718,
+  "2022-12-16": 3718,
+  "2022-12-17": 3715,
+  "2022-12-18": 3714,
+  "2022-12-19": 3713,
+  "2022-12-20": 3711,
+  "2022-12-21": 3711,
+  "2022-12-22": 3710,
+  "2022-12-24": 3710,
+  "2022-12-25": 3709,
+  "2022-12-26": 3710,
+  "2022-12-27": 3709,
+  "2022-12-28": 3707,
+  "2022-12-29": 3705,
+  "2022-12-30": 3704,
+  "2022-12-31": 3701,
+  "2023-01-01": 3702,
+  "2023-01-02": 3701,
+  "2023-01-03": 3701,
+  "2023-01-04": 3699,
+  "2023-01-05": 3700,
+  "2023-01-06": 3697,
+  "2023-01-07": 3694,
+  "2023-01-08": 3693,
+  "2023-01-09": 3691,
+  "2023-01-10": 3691,
+  "2023-01-11": 3691,
+  "2023-01-12": 3691,
+  "2023-01-13": 3690,
+  "2023-01-14": 3691,
+  "2023-01-15": 3691,
+  "2023-01-16": 3689,
+  "2023-01-17": 3689,
+  "2023-01-18": 3688,
+  "2023-01-19": 3687,
+  "2023-01-20": 3687,
+  "2023-01-21": 3686,
+  "2023-01-22": 3685,
+  "2023-01-23": 3682,
+  "2023-01-24": 3681,
+  "2023-01-25": 3680,
+  "2023-01-26": 3679,
+  "2023-01-27": 3680,
+  "2023-01-28": 3680,
+  "2023-01-29": 3679,
+  "2023-01-30": 3677,
+  "2023-01-31": 3677,
+  "2023-02-01": 3677,
+  "2023-02-02": 3679,
+  "2023-02-03": 3677,
+  "2023-02-04": 3674,
+  "2023-02-05": 3670,
+  "2023-02-06": 3668,
+  "2023-02-07": 3666,
+  "2023-02-08": 3662,
+  "2023-02-09": 3662,
+  "2023-02-10": 3662,
+  "2023-02-11": 3661,
+  "2023-02-12": 3661,
+  "2023-02-13": 3661,
+  "2023-02-14": 3661,
+  "2023-02-15": 3661,
+  "2023-02-16": 3661,
+  "2023-02-17": 3661,
+  "2023-02-18": 3661,
+  "2023-02-19": 3661,
+  "2023-02-20": 3661,
+  "2023-02-21": 3661,
+  "2023-02-22": 3661,
+  "2023-02-23": 3661,
+  "2023-02-24": 3661,
+  "2023-02-25": 3661,
+  "2023-02-26": 3661,
+  "2023-02-27": 3661,
+  "2023-02-28": 3661,
+  "2023-03-01": 3661,
+  "2023-03-02": 3661,
+  "2023-03-03": 3661,
+  "2023-03-04": 3661,
+  "2023-03-05": 3661,
+  "2023-03-06": 3661,
+  "2023-03-07": 3661,
+  "2023-03-08": 3661,
+  "2023-03-09": 3661,
+  "2023-03-10": 3661,
+  "2023-03-11": 3661,
+  "2023-03-12": 3661,
+  "2023-03-13": 3661,
+  "2023-03-14": 3661,
+  "2023-03-15": 3661,
+  "2023-03-16": 3661,
+  "2023-03-17": 3661,
+  "2023-03-18": 3661,
+  "2023-03-19": 3661,
+  "2023-03-20": 3661,
+  "2023-03-21": 3661,
+  "2023-03-22": 3661,
+  "2023-03-23": 3661,
+  "2023-03-24": 3661,
+  "2023-03-25": 3661,
+  "2023-03-26": 3661,
+  "2023-03-27": 3661,
+  "2023-03-28": 3661,
+  "2023-03-29": 3661,
+  "2023-03-30": 3661,
+  "2023-03-31": 3661,
+  "2023-04-01": 3661,
+  "2023-04-02": 3661,
+  "2023-04-03": 3661,
+  "2023-04-04": 3661,
+  "2023-04-05": 3661,
+  "2023-04-06": 3661,
+  "2023-04-07": 3661,
+  "2023-04-09": 3661,
+  "2023-04-10": 3661,
+  "2023-04-11": 3661,
+  "2023-04-12": 3661,
+  "2023-04-13": 3661,
+  "2023-04-14": 3661,
+  "2023-04-15": 3661,
+  "2023-04-16": 3661,
+  "2023-04-17": 3661,
+  "2023-04-18": 3661,
+  "2023-04-19": 3661,
+  "2023-04-20": 3661,
+  "2023-04-21": 3661,
+  "2023-04-22": 3661,
+  "2023-04-23": 3661,
+  "2023-04-24": 3661,
+  "2023-04-25": 3661,
+  "2023-04-26": 3661,
+  "2023-04-27": 3661,
+  "2023-04-28": 3661,
+  "2023-04-29": 3661,
+  "2023-04-30": 3661,
+  "2023-05-01": 3661,
+  "2023-05-02": 3661,
+  "2023-05-03": 3661,
+  "2023-05-04": 3661,
+  "2023-05-05": 3661,
+  "2023-05-06": 3661,
+  "2023-05-07": 3661,
+  "2023-05-08": 3661,
+  "2023-05-09": 3661,
+  "2023-05-10": 3661,
+  "2023-05-11": 3661,
+  "2023-05-12": 3661,
+  "2023-05-13": 3661,
+  "2023-05-14": 3661,
+  "2023-05-15": 3661,
+  "2023-05-16": 3661,
+  "2023-05-17": 3661,
+  "2023-05-18": 3661,
+  "2023-05-19": 3661,
+  "2023-05-20": 3661,
+  "2023-05-21": 3661,
+  "2023-05-22": 3661,
+  "2023-05-23": 3661,
+  "2023-05-24": 3661,
+  "2023-05-25": 3661,
+  "2023-05-26": 3661,
+  "2023-05-27": 3661,
+  "2023-05-28": 3661,
+  "2023-05-29": 3661,
+  "2023-05-30": 3661,
+  "2023-05-31": 3661,
+  "2023-06-01": 3661,
+  "2023-06-02": 3661,
+  "2023-06-03": 3661,
+  "2023-06-04": 3661,
+  "2023-06-05": 3661,
+  "2023-06-06": 3661,
+  "2023-06-07": 3661,
+  "2023-06-08": 3661,
+  "2023-06-09": 3661,
+  "2023-06-10": 3661,
+  "2023-06-11": 3661,
+  "2023-06-12": 3661,
+  "2023-06-13": 3661,
+  "2023-06-14": 3661,
+  "2023-06-15": 3661,
+  "2023-06-16": 3661,
+  "2023-06-17": 3661,
+  "2023-06-18": 3661,
+  "2023-06-19": 3661,
+  "2023-06-20": 3661,
+  "2023-06-21": 3661,
+  "2023-06-22": 3661,
+  "2023-06-23": 3661,
+  "2023-06-24": 3661,
+  "2023-06-25": 3661,
+  "2023-06-26": 3661,
+  "2023-06-27": 3661,
+  "2023-06-28": 3661,
+  "2023-06-29": 3661,
+  "2023-06-30": 3661,
+  "2023-07-01": 3661,
+  "2023-07-02": 3661,
+  "2023-07-03": 3661,
+  "2023-07-04": 3661,
+  "2023-07-05": 3661,
+  "2023-07-06": 3661,
+  "2023-07-07": 3661,
+  "2023-07-08": 3661,
+  "2023-07-09": 3661,
+  "2023-07-10": 3661,
+  "2023-07-11": 3661,
+  "2023-07-12": 3661,
+  "2023-07-13": 3661,
+  "2023-07-14": 3661,
+  "2023-07-15": 3661,
+  "2023-07-16": 3661,
+  "2023-07-17": 3661,
+  "2023-07-18": 3661,
+  "2023-07-19": 3661,
+  "2023-07-20": 3661,
+  "2023-07-21": 3661,
+  "2023-07-22": 3661,
+  "2023-07-23": 3661,
+  "2023-07-24": 3661,
+  "2023-07-25": 3661,
+  "2023-07-26": 3661,
+  "2023-07-27": 3661,
+  "2023-07-28": 3661,
+  "2023-07-29": 3661,
+  "2023-07-30": 3661,
+  "2023-07-31": 3661,
+  "2023-08-01": 3661,
+  "2023-08-02": 3661,
+  "2023-08-03": 3661,
+  "2023-08-04": 3661,
+  "2023-08-05": 3661,
+  "2023-08-06": 3661,
+  "2023-08-07": 3661,
+  "2023-08-08": 3661,
+  "2023-08-09": 3661,
+  "2023-08-10": 3661,
+  "2023-08-11": 3661,
+  "2023-08-12": 3661,
+  "2023-08-13": 3661,
+  "2023-08-14": 3661,
+  "2023-08-15": 3661,
+  "2023-08-16": 3661,
+  "2023-08-17": 3661,
+  "2023-08-18": 3661,
+  "2023-08-19": 3661,
+  "2023-08-20": 3661,
+  "2023-08-21": 3661,
+  "2023-08-22": 3661,
+  "2023-08-23": 3661,
+  "2023-08-24": 3661,
+  "2023-08-25": 3661,
+  "2023-08-26": 3661,
+  "2023-08-27": 3661,
+  "2023-08-28": 3661,
+  "2023-08-29": 3661,
+  "2023-08-30": 3661,
+  "2023-08-31": 3661,
+  "2023-09-01": 3661,
+  "2023-09-02": 3661,
+  "2023-09-03": 3661,
+  "2023-09-04": 3661,
+  "2023-09-05": 3661,
+  "2023-09-06": 3661,
+  "2023-09-07": 3661,
+  "2023-09-08": 3661,
+  "2023-09-09": 3661,
+  "2023-09-10": 3661,
+  "2023-09-11": 3661,
+  "2023-09-12": 3661,
+  "2023-09-13": 3661,
+  "2023-09-14": 3661,
+  "2023-09-15": 3661,
+  "2023-09-16": 3661,
+  "2023-09-17": 3661,
+  "2023-09-18": 3661,
+  "2023-09-19": 3661,
+  "2023-09-20": 3661,
+  "2023-09-21": 3661,
+  "2023-09-22": 3661,
+  "2023-09-23": 3661,
+  "2023-09-24": 3661,
+  "2023-09-25": 3661,
+  "2023-09-26": 3661,
+  "2023-09-27": 3661,
+  "2023-09-28": 3661,
+  "2023-09-29": 3661,
+  "2023-09-30": 3661,
+  "2023-10-01": 3661,
+  "2023-10-02": 3661,
+  "2023-10-03": 3661,
+  "2023-10-04": 3661,
+  "2023-10-05": 3661,
+  "2023-10-06": 3650,
+  "2023-10-07": 3667,
+  "2023-10-08": 3673,
+  "2023-10-09": 3678,
+  "2023-10-10": 3688,
+  "2023-10-11": 3703,
+  "2023-10-12": 3703,
+  "2023-10-13": 3709,
+  "2023-10-14": 3724,
+  "2023-10-15": 3736,
+  "2023-10-16": 3744,
+  "2023-10-17": 3750,
+  "2023-10-18": 3760,
+  "2023-10-19": 3766,
+  "2023-10-20": 3772,
+  "2023-10-21": 3779,
+  "2023-10-22": 3784,
+  "2023-10-23": 3788,
+  "2023-10-24": 3791,
+  "2023-10-25": 3796,
+  "2023-10-26": 3805,
+  "2023-10-27": 3812,
+  "2023-10-28": 3821,
+  "2023-10-29": 3824,
+  "2023-10-30": 3843,
+  "2023-10-31": 3843,
+  "2023-11-01": 3849,
+  "2023-11-02": 3857,
+  "2023-11-03": 3865,
+  "2023-11-04": 3874,
+  "2023-11-05": 3882,
+  "2023-11-06": 3889,
+  "2023-11-07": 3898,
+  "2023-11-08": 3907,
+  "2023-11-09": 4385,
+  "2023-11-10": 4951,
+  "2023-11-11": 5174,
+  "2023-11-12": 5271,
+  "2023-11-13": 5335,
+  "2023-11-14": 5381,
+  "2023-11-15": 5381,
+  "2023-11-16": 5432,
+  "2023-11-17": 5439,
+  "2023-11-18": 5439,
+  "2023-11-19": 5444,
+  "2023-11-20": 5453,
+  "2023-11-21": 5458,
+  "2023-11-22": 5459,
+  "2023-11-23": 5463,
+  "2023-11-24": 5468,
+  "2023-11-25": 5466,
+  "2023-11-26": 5472,
+  "2023-11-27": 5474,
+  "2023-11-28": 5477,
+  "2023-11-29": 5472,
+  "2023-11-30": 5472,
+  "2023-12-01": 5477,
+  "2023-12-02": 5481,
+  "2023-12-03": 5480,
+  "2023-12-04": 5482,
+  "2023-12-05": 5482,
+  "2023-12-06": 5488,
+  "2023-12-07": 5491,
+  "2023-12-08": 5494,
+  "2023-12-09": 5495,
+  "2023-12-10": 5498,
+  "2023-12-11": 5498,
+  "2023-12-12": 5498,
+  "2023-12-13": 5499,
+  "2023-12-14": 5500,
+  "2023-12-15": 5500,
+  "2023-12-16": 5498,
+  "2023-12-17": 5497,
+  "2023-12-18": 5500,
+  "2023-12-19": 5500,
+  "2023-12-20": 5500,
+  "2023-12-21": 5501,
+  "2023-12-22": 5505,
+  "2023-12-23": 5505,
+  "2023-12-24": 5510,
+  "2023-12-25": 5509,
+  "2023-12-26": 5511,
+  "2023-12-27": 5510,
+  "2023-12-29": 5510,
+  "2023-12-30": 5509,
+  "2023-12-31": 5508,
+  "2024-01-01": 5506,
+  "2024-01-02": 5511,
+  "2024-01-03": 5511,
+  "2024-01-04": 5513,
+  "2024-01-05": 5515,
+  "2024-01-06": 5519,
+  "2024-01-07": 5523,
+  "2024-01-08": 5528,
+  "2024-01-09": 5530,
+  "2024-01-10": 5530,
+  "2024-01-11": 5586,
+  "2024-01-12": 5588,
+  "2024-01-13": 5600,
+  "2024-01-14": 5600,
+  "2024-01-15": 5600,
+  "2024-01-16": 5613,
+  "2024-01-17": 5621,
+  "2024-01-18": 5624,
+  "2024-01-19": 5621,
+  "2024-01-20": 5624,
+  "2024-01-21": 5627,
+  "2024-01-22": 5626,
+  "2024-01-23": 5627,
+  "2024-01-24": 5631,
+  "2024-01-25": 5636,
+  "2024-01-26": 5641,
+  "2024-01-27": 5641,
+  "2024-01-28": 5640,
+  "2024-01-29": 5641,
+  "2024-01-30": 5643,
+  "2024-01-31": 5645,
+  "2024-02-01": 5648,
+  "2024-02-02": 5649,
+  "2024-02-03": 5649,
+  "2024-02-04": 5650,
+  "2024-02-05": 5649,
+  "2024-02-06": 5651,
+  "2024-02-07": 5650,
+  "2024-02-08": 5653,
+  "2024-02-09": 5656,
+  "2024-02-10": 5655,
+  "2024-02-11": 5657,
+  "2024-02-12": 5659,
+  "2024-02-13": 5660,
+  "2024-02-14": 5663,
+  "2024-02-15": 5665,
+  "2024-02-16": 5665,
+  "2024-02-17": 5669,
+  "2024-02-18": 5669,
+  "2024-02-19": 5670,
+  "2024-02-20": 5670,
+  "2024-02-21": 5671,
+  "2024-02-22": 5675,
+  "2024-02-23": 5675,
+  "2024-02-24": 5677,
+  "2024-02-25": 5678,
+  "2024-02-26": 5681,
+  "2024-02-27": 5683,
+  "2024-02-28": 5683,
+  "2024-02-29": 5683,
+  "2024-03-01": 5680,
+  "2024-03-02": 5679,
+  "2024-03-03": 5678,
+  "2024-03-04": 5678,
+  "2024-03-05": 5677,
+  "2024-03-06": 5678,
+  "2024-03-07": 5674,
+  "2024-03-08": 5676,
+  "2024-03-09": 5675,
+  "2024-03-10": 5678,
+  "2024-03-11": 5678,
+  "2024-03-12": 5679,
+  "2024-03-13": 5681,
+  "2024-03-14": 5683,
+  "2024-03-15": 5679,
+  "2024-03-16": 5680,
+  "2024-03-17": 5682,
+  "2024-03-18": 5687,
+  "2024-03-19": 5688,
+  "2024-03-20": 5688,
+  "2024-03-21": 5689,
+  "2024-03-22": 5693,
+  "2024-03-23": 5695,
+  "2024-03-24": 5696,
+  "2024-03-25": 5698,
+  "2024-03-26": 5696,
+  "2024-03-27": 5698,
+  "2024-03-28": 5698,
+  "2024-03-29": 5696,
+  "2024-03-30": 5696,
+  "2024-03-31": 5698,
+  "2024-04-01": 5698,
+  "2024-04-02": 5703,
+  "2024-04-03": 5705,
+  "2024-04-04": 5707,
+  "2024-04-05": 5710,
+  "2024-04-06": 5712,
+  "2024-04-07": 5713,
+  "2024-04-08": 5713,
+  "2024-04-09": 5713,
+  "2024-04-10": 5711,
+  "2024-04-11": 5714,
+  "2024-04-12": 5714,
+  "2024-04-13": 5714,
+  "2024-04-14": 5716,
+  "2024-04-15": 5719,
+  "2024-04-16": 5720,
+  "2024-04-17": 5719,
+  "2024-04-19": 5727,
+  "2024-04-20": 5730,
+  "2024-04-21": 5729,
+  "2024-04-22": 5728,
+  "2024-04-23": 5728,
+  "2024-04-24": 5728,
+  "2024-04-25": 5729,
+  "2024-04-26": 5733,
+  "2024-04-27": 5736,
+  "2024-04-28": 5738,
+  "2024-04-29": 5737,
+  "2024-04-30": 5737,
+  "2024-05-01": 5736,
+  "2024-05-02": 5737,
+  "2024-05-03": 5736,
+  "2024-05-04": 5737,
+  "2024-05-05": 5739
 }

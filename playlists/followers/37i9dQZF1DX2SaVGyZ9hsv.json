@@ -1,397 +1,97 @@
 {
-  "2024-05-05": 145644,
-  "date_first_scraped": "2024-01-31",
-  "description": "Congratulations to all the nominees for Best New Artist and the 2024 winner Victoria Mon\u00e9t! ",
-  "name": "Best New Artist",
-  "tracks": [
-    {
-      "album": {
-        "name": "adore u",
-        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214187,
-      "name": "Are You Ready to Love Me?",
-      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
-    },
-    {
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 250702,
-      "name": "Delilah (pull me out of this)",
-      "url": "https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60"
-    },
-    {
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245629,
-      "name": "I know it won't work",
-      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
-    },
-    {
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
-    },
-    {
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
-      "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169560,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh"
-    },
-    {
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
-    },
-    {
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292658,
-      "name": "Orange Juice - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb"
-    },
-    {
-      "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 237493,
-      "name": "Save Me (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237493,
-      "name": "Save Me (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
-    },
-    {
-      "album": {
-        "name": "She Calls Me Back (with Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243962,
-      "name": "She Calls Me Back (with Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
-    },
-    {
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283313,
-      "name": "Until The End Of Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
-    },
-    {
-      "album": {
-        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 90110,
-      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
-    },
-    {
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234799,
-      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2SaVGyZ9hsv"
+  "2024-01-31": 143797,
+  "2024-02-01": 144535,
+  "2024-02-02": 145035,
+  "2024-02-03": 145199,
+  "2024-02-04": 145456,
+  "2024-02-05": 145927,
+  "2024-02-06": 146179,
+  "2024-02-07": 146247,
+  "2024-02-08": 146270,
+  "2024-02-09": 146260,
+  "2024-02-10": 146256,
+  "2024-02-11": 146250,
+  "2024-02-12": 146235,
+  "2024-02-13": 146230,
+  "2024-02-14": 146216,
+  "2024-02-15": 146210,
+  "2024-02-16": 146203,
+  "2024-02-17": 146191,
+  "2024-02-18": 146186,
+  "2024-02-19": 146181,
+  "2024-02-20": 146167,
+  "2024-02-21": 146163,
+  "2024-02-22": 146155,
+  "2024-02-23": 146144,
+  "2024-02-24": 146137,
+  "2024-02-25": 146130,
+  "2024-02-26": 146125,
+  "2024-02-27": 146108,
+  "2024-02-28": 146108,
+  "2024-02-29": 146103,
+  "2024-03-01": 146099,
+  "2024-03-02": 146085,
+  "2024-03-03": 146080,
+  "2024-03-04": 146075,
+  "2024-03-05": 146079,
+  "2024-03-06": 146073,
+  "2024-03-07": 146074,
+  "2024-03-08": 146062,
+  "2024-03-09": 146060,
+  "2024-03-10": 146055,
+  "2024-03-11": 146048,
+  "2024-03-12": 146040,
+  "2024-03-13": 146029,
+  "2024-03-14": 146029,
+  "2024-03-15": 146029,
+  "2024-03-16": 146022,
+  "2024-03-17": 146015,
+  "2024-03-18": 146009,
+  "2024-03-19": 146002,
+  "2024-03-20": 146003,
+  "2024-03-21": 145997,
+  "2024-03-22": 145989,
+  "2024-03-23": 145987,
+  "2024-03-24": 145982,
+  "2024-03-25": 145969,
+  "2024-03-26": 145959,
+  "2024-03-27": 145932,
+  "2024-03-28": 145932,
+  "2024-03-29": 145918,
+  "2024-03-30": 145918,
+  "2024-03-31": 145911,
+  "2024-04-01": 145909,
+  "2024-04-02": 145902,
+  "2024-04-03": 145890,
+  "2024-04-04": 145889,
+  "2024-04-05": 145877,
+  "2024-04-06": 145868,
+  "2024-04-07": 145870,
+  "2024-04-08": 145863,
+  "2024-04-09": 145863,
+  "2024-04-10": 145861,
+  "2024-04-11": 145854,
+  "2024-04-12": 145849,
+  "2024-04-13": 145841,
+  "2024-04-14": 145834,
+  "2024-04-15": 145834,
+  "2024-04-16": 145823,
+  "2024-04-17": 145819,
+  "2024-04-19": 145815,
+  "2024-04-20": 145804,
+  "2024-04-21": 145793,
+  "2024-04-22": 145769,
+  "2024-04-23": 145761,
+  "2024-04-24": 145750,
+  "2024-04-25": 145753,
+  "2024-04-26": 145742,
+  "2024-04-27": 145743,
+  "2024-04-28": 145735,
+  "2024-04-29": 145715,
+  "2024-04-30": 145679,
+  "2024-05-01": 145672,
+  "2024-05-02": 145667,
+  "2024-05-03": 145663,
+  "2024-05-04": 145648,
+  "2024-05-05": 145644
 }

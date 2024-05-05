@@ -1,989 +1,177 @@
 {
-  "2024-05-05": 18950,
-  "date_first_scraped": "2023-11-11",
-  "description": "This is Ken Carson. Todos os maiores hits em uma s\u00f3 playlist.",
-  "name": "This Is Ken Carson",
-  "tracks": [
-    {
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
-      "duration_ms": 144901,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/63SYg8jjwfAiipZnnICfHc"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160832,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131414,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165411,
-      "name": "Delinquent (feat. Homixide Gang)",
-      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
-    },
-    {
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201681,
-      "name": "Fashion Habits",
-      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150401,
-      "name": "Fighting My Demons",
-      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
-    },
-    {
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
-      "duration_ms": 130463,
-      "name": "For Her",
-      "url": "https://open.spotify.com/track/1boPA8JHUeMnb8yLcGxxCG"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138319,
-      "name": "Freestyle 2",
-      "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
-    },
-    {
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 84324,
-      "name": "Fuk 12",
-      "url": "https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj"
-    },
-    {
-      "album": {
-        "name": "Boy Barbie",
-        "url": "https://open.spotify.com/album/4qp7MpTf0DBrHmnHROj99y"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
-      "duration_ms": 103967,
-      "name": "Geeked Up",
-      "url": "https://open.spotify.com/track/6MEvdgFV9t2k6LqsAAUDHU"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110926,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188701,
-      "name": "Green Room",
-      "url": "https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj"
-    },
-    {
-      "album": {
-        "name": "2 Aliv\u00eb",
-        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152533,
-      "name": "G\u00ebek high (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec"
-    },
-    {
-      "album": {
-        "name": "Pink Heartz",
-        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161309,
-      "name": "Hella",
-      "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
-    },
-    {
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 93413,
-      "name": "High as Sh!T",
-      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-04-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148760,
-      "name": "i need u",
-      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
-    },
-    {
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150318,
-      "name": "Lookbook",
-      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 140811,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/5ZY2fIqxuKDr5pdz0ucpRz"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228326,
-      "name": "MDMA (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
-    },
-    {
-      "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272364,
-      "name": "money & sex",
-      "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
-    },
-    {
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
-    },
-    {
-      "album": {
-        "name": "Natural Habitat",
-        "url": "https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
-      "duration_ms": 208209,
-      "name": "Natural Habitat (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM"
-    },
-    {
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 77583,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
-    },
-    {
-      "album": {
-        "name": "overseas",
-        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-04-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141031,
-      "name": "overseas",
-      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-01-28",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
-      "duration_ms": 106618,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/4hZi9952OTtYQnXo2FJT6C"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 127971,
-      "name": "Paranoid (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn"
-    },
-    {
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 99683,
-      "name": "Pissed Off",
-      "url": "https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ"
-    },
-    {
-      "album": {
-        "name": "President (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187496,
-      "name": "President (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
-    },
-    {
-      "album": {
-        "name": "SONY",
-        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-01-06",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
-      "duration_ms": 130136,
-      "name": "RICK OWENS (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
-    },
-    {
-      "album": {
-        "name": "RICK OWENS (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2024-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130136,
-      "name": "RICK OWENS (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148808,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244376,
-      "name": "Run + Ran",
-      "url": "https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD"
-    },
-    {
-      "album": {
-        "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
-        "url": "https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 184614,
-      "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
-      "url": "https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn"
-    },
-    {
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
-      "duration_ms": 151581,
-      "name": "Singapore (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/56QNTK715IJeYmJP2grB5f"
-    },
-    {
-      "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
-    },
-    {
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149892,
-      "name": "Succubus",
-      "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
-    },
-    {
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152368,
-      "name": "Swag Overload",
-      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
-    },
-    {
-      "album": {
-        "name": "Teen Bean",
-        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 119248,
-      "name": "Teen Bean",
-      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
-    },
-    {
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 121151,
-      "name": "Teen X",
-      "url": "https://open.spotify.com/track/5HfzHLzYEJI8mMmq1WNWth"
-    },
-    {
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116871,
-      "name": "Teen X Babe",
-      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
-    },
-    {
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104544,
-      "name": "Teenager Rager",
-      "url": "https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a"
-    },
-    {
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176326,
-      "name": "VETERAN (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
-    },
-    {
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104938,
-      "name": "Who's Next",
-      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
-    },
-    {
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 105508,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
-    },
-    {
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106536,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tr1Hs"
+  "2023-11-11": 10831,
+  "2023-11-12": 10831,
+  "2023-11-13": 10831,
+  "2023-11-14": 10831,
+  "2023-11-15": 10831,
+  "2023-11-16": 10831,
+  "2023-11-17": 10831,
+  "2023-11-18": 10831,
+  "2023-11-19": 10831,
+  "2023-11-20": 10831,
+  "2023-11-21": 10831,
+  "2023-11-22": 10831,
+  "2023-11-23": 10831,
+  "2023-11-24": 10831,
+  "2023-11-25": 10831,
+  "2023-11-26": 10831,
+  "2023-11-27": 10831,
+  "2023-11-28": 10831,
+  "2023-11-29": 10831,
+  "2023-11-30": 10831,
+  "2023-12-01": 10831,
+  "2023-12-02": 10831,
+  "2023-12-03": 10831,
+  "2023-12-04": 10831,
+  "2023-12-05": 10831,
+  "2023-12-06": 10831,
+  "2023-12-07": 10831,
+  "2023-12-08": 10831,
+  "2023-12-09": 10831,
+  "2023-12-10": 10831,
+  "2023-12-11": 10831,
+  "2023-12-12": 10831,
+  "2023-12-13": 10831,
+  "2023-12-14": 12500,
+  "2023-12-15": 12534,
+  "2023-12-16": 12597,
+  "2023-12-17": 12631,
+  "2023-12-18": 12674,
+  "2023-12-19": 12727,
+  "2023-12-20": 12793,
+  "2023-12-21": 12848,
+  "2023-12-22": 12888,
+  "2023-12-23": 12945,
+  "2023-12-24": 12997,
+  "2023-12-25": 13045,
+  "2023-12-26": 13094,
+  "2023-12-27": 13145,
+  "2023-12-29": 13145,
+  "2023-12-30": 13294,
+  "2023-12-31": 13344,
+  "2024-01-01": 13384,
+  "2024-01-02": 13429,
+  "2024-01-03": 13466,
+  "2024-01-04": 13508,
+  "2024-01-05": 13583,
+  "2024-01-06": 13631,
+  "2024-01-07": 13689,
+  "2024-01-08": 13784,
+  "2024-01-09": 13823,
+  "2024-01-10": 13823,
+  "2024-01-11": 13878,
+  "2024-01-12": 13931,
+  "2024-01-13": 13977,
+  "2024-01-14": 14045,
+  "2024-01-15": 14045,
+  "2024-01-16": 14070,
+  "2024-01-17": 14104,
+  "2024-01-18": 14158,
+  "2024-01-19": 14200,
+  "2024-01-20": 14254,
+  "2024-01-21": 14296,
+  "2024-01-22": 14346,
+  "2024-01-23": 14383,
+  "2024-01-24": 14404,
+  "2024-01-25": 14446,
+  "2024-01-26": 14485,
+  "2024-01-27": 14534,
+  "2024-01-28": 14568,
+  "2024-01-29": 14596,
+  "2024-01-30": 14629,
+  "2024-01-31": 14671,
+  "2024-02-01": 14705,
+  "2024-02-02": 14730,
+  "2024-02-03": 14765,
+  "2024-02-04": 14801,
+  "2024-02-05": 14832,
+  "2024-02-06": 14856,
+  "2024-02-07": 14902,
+  "2024-02-08": 14933,
+  "2024-02-09": 14978,
+  "2024-02-10": 15014,
+  "2024-02-11": 15034,
+  "2024-02-12": 15058,
+  "2024-02-13": 15079,
+  "2024-02-14": 15105,
+  "2024-02-15": 15141,
+  "2024-02-16": 15177,
+  "2024-02-17": 15205,
+  "2024-02-18": 15225,
+  "2024-02-19": 15261,
+  "2024-02-20": 15284,
+  "2024-02-21": 15335,
+  "2024-02-22": 15372,
+  "2024-02-23": 15406,
+  "2024-02-24": 15437,
+  "2024-02-25": 15447,
+  "2024-02-26": 15476,
+  "2024-02-27": 15558,
+  "2024-02-28": 15558,
+  "2024-02-29": 15604,
+  "2024-03-01": 15639,
+  "2024-03-02": 15669,
+  "2024-03-03": 15692,
+  "2024-03-04": 15728,
+  "2024-03-05": 15751,
+  "2024-03-06": 15769,
+  "2024-03-07": 15788,
+  "2024-03-08": 15820,
+  "2024-03-09": 15860,
+  "2024-03-10": 15886,
+  "2024-03-11": 15924,
+  "2024-03-12": 15952,
+  "2024-03-13": 15995,
+  "2024-03-14": 16033,
+  "2024-03-15": 16075,
+  "2024-03-16": 16119,
+  "2024-03-17": 16167,
+  "2024-03-18": 16195,
+  "2024-03-19": 16223,
+  "2024-03-20": 16246,
+  "2024-03-21": 16268,
+  "2024-03-22": 16301,
+  "2024-03-23": 16320,
+  "2024-03-24": 16351,
+  "2024-03-25": 16371,
+  "2024-03-26": 16396,
+  "2024-03-27": 16461,
+  "2024-03-28": 16461,
+  "2024-03-29": 16520,
+  "2024-03-30": 16520,
+  "2024-03-31": 16556,
+  "2024-04-01": 16581,
+  "2024-04-02": 16617,
+  "2024-04-03": 16642,
+  "2024-04-04": 16674,
+  "2024-04-05": 16701,
+  "2024-04-06": 16733,
+  "2024-04-07": 16758,
+  "2024-04-08": 16803,
+  "2024-04-09": 16803,
+  "2024-04-10": 16831,
+  "2024-04-11": 16860,
+  "2024-04-12": 16898,
+  "2024-04-13": 16956,
+  "2024-04-14": 17006,
+  "2024-04-15": 17057,
+  "2024-04-16": 17092,
+  "2024-04-17": 17152,
+  "2024-04-19": 17250,
+  "2024-04-20": 17293,
+  "2024-04-21": 17358,
+  "2024-04-22": 17434,
+  "2024-04-23": 17567,
+  "2024-04-24": 17842,
+  "2024-04-25": 17898,
+  "2024-04-26": 18071,
+  "2024-04-27": 18223,
+  "2024-04-28": 18316,
+  "2024-04-29": 18425,
+  "2024-04-30": 18541,
+  "2024-05-01": 18639,
+  "2024-05-02": 18712,
+  "2024-05-03": 18815,
+  "2024-05-04": 18881,
+  "2024-05-05": 18950
 }

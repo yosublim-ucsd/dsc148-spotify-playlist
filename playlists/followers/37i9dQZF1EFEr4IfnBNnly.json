@@ -1,863 +1,98 @@
 {
-  "2024-05-05": 56,
-  "date_first_scraped": "2024-01-30",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT\">Lauren Faith</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "name": "Written By Lauren Faith",
-  "tracks": [
-    {
-      "album": {
-        "name": "started in college (mixtape)",
-        "url": "https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197368,
-      "name": "21 Seconds",
-      "url": "https://open.spotify.com/track/23QGl89duiLAngpPCcbBSt"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229153,
-      "name": "Another Bad Day",
-      "url": "https://open.spotify.com/track/0tfsddygJQJiwHN28Rt1RL"
-    },
-    {
-      "album": {
-        "name": "BEHIND HER EYES / MISSING IN ACTION",
-        "url": "https://open.spotify.com/album/6EHi6cp5n07JpU0jSMX1QI"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        },
-        {
-          "name": "Iskra Strings",
-          "url": "https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266666,
-      "name": "BEHIND HER EYES",
-      "url": "https://open.spotify.com/track/0oLTMWHAK6LNqvrtgnw0Nw"
-    },
-    {
-      "album": {
-        "name": "Blue Denim Jeans",
-        "url": "https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192333,
-      "name": "Blue Denim Jeans",
-      "url": "https://open.spotify.com/track/327epjHIypEPo3c0kjIli9"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193529,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/1LX9LajHeOsAoWyoqnNdmT"
-    },
-    {
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG"
-      },
-      "artists": [
-        {
-          "name": "ABISHA",
-          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187436,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6"
-    },
-    {
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5"
-      },
-      "artists": [
-        {
-          "name": "Molly Elizabeth",
-          "url": "https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230989,
-      "name": "Cruel Intentions",
-      "url": "https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j"
-    },
-    {
-      "album": {
-        "name": "D.M.T.",
-        "url": "https://open.spotify.com/album/0YjhAMHhNoKOcO9rqwhhmG"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275760,
-      "name": "D.M.T.",
-      "url": "https://open.spotify.com/track/1FOc1XDrHvKqLFnreWeCqp"
-    },
-    {
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/2qp9qhgtySlWF53XO5WPUV"
-      },
-      "artists": [
-        {
-          "name": "wev",
-          "url": "https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235173,
-      "name": "dawn",
-      "url": "https://open.spotify.com/track/72jigqO30yB7NCYQ4rE7AT"
-    },
-    {
-      "album": {
-        "name": "Perfume - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
-      },
-      "artists": [
-        {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236893,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/7MosmUFQt3qNapB3K2zk1x"
-    },
-    {
-      "album": {
-        "name": "FINDING JOY IN GREY SKIES: PART ONE",
-        "url": "https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162277,
-      "name": "EAT THIS & FUCK UR DOUBT",
-      "url": "https://open.spotify.com/track/075xJ4uJYtEZiuIHzUCsgk"
-    },
-    {
-      "album": {
-        "name": "SAVITRI / ELECTRIC ENIGMA",
-        "url": "https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156701,
-      "name": "ELECTRIC ENIGMA",
-      "url": "https://open.spotify.com/track/0N7RV4p7zbRcMmyPjq6Mrk"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195574,
-      "name": "Falls Right Down",
-      "url": "https://open.spotify.com/track/1w81jQgROZn9nNpnHs8Oi4"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241973,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/79Ek1YkhUkeD0Xv1PRPVt0"
-    },
-    {
-      "album": {
-        "name": "FINDING JOY IN GREY SKIES: PART TWO",
-        "url": "https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-02-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 68888,
-      "name": "FINDING JOY",
-      "url": "https://open.spotify.com/track/5EO6BbpRLsNvvGu89l9Z4x"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233148,
-      "name": "Fine Lines",
-      "url": "https://open.spotify.com/track/7vAe6XVRwfVjNq51ui5EfZ"
-    },
-    {
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2MkmtRjGOss89QGJ5Qw1ch"
-      },
-      "artists": [
-        {
-          "name": "Naomi Banks",
-          "url": "https://open.spotify.com/artist/0Xqny1HXPGaxHIasTndWeS"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172565,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2ej590OSETiOikX8Oaiguo"
-    },
-    {
-      "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228146,
-      "name": "GOT IT GOOD (feat. Craig David)",
-      "url": "https://open.spotify.com/track/2xyi5jBkaQ741tXWTiqyr0"
-    },
-    {
-      "album": {
-        "name": "FINDING JOY IN GREY SKIES: PART ONE",
-        "url": "https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151935,
-      "name": "HAPPINESS IN LIMBO",
-      "url": "https://open.spotify.com/track/7GlCuPNA2ARZ93sHgK7Kpi"
-    },
-    {
-      "album": {
-        "name": "Heart Eyes",
-        "url": "https://open.spotify.com/album/4C2HRJSaZwBzwIpcxCdKhN"
-      },
-      "artists": [
-        {
-          "name": "Molly Elizabeth",
-          "url": "https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178906,
-      "name": "Heart Eyes",
-      "url": "https://open.spotify.com/track/3dkelZbHXxqpdgVueyQtoT"
-    },
-    {
-      "album": {
-        "name": "High (feat. Lauren Faith)",
-        "url": "https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Cervendos",
-          "url": "https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 401623,
-      "name": "High (feat. Lauren Faith)",
-      "url": "https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh"
-    },
-    {
-      "album": {
-        "name": "Wu Hen",
-        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200596,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227429,
-      "name": "Hold You Close",
-      "url": "https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194400,
-      "name": "It's All A Blur",
-      "url": "https://open.spotify.com/track/77tvzb6cRvtpoesYfJHhgC"
-    },
-    {
-      "album": {
-        "name": "Cosmic EP",
-        "url": "https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194643,
-      "name": "Jheeze",
-      "url": "https://open.spotify.com/track/6jYO8RSMk85V3rf460rfgp"
-    },
-    {
-      "album": {
-        "name": "Just a Little",
-        "url": "https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223793,
-      "name": "Just a Little",
-      "url": "https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq"
-    },
-    {
-      "album": {
-        "name": "leave it",
-        "url": "https://open.spotify.com/album/3A8Lt0gvEbH3ULqwhBT0wH"
-      },
-      "artists": [
-        {
-          "name": "Shanae",
-          "url": "https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p"
-        }
-      ],
-      "date_added": "2024-04-09",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
-      "duration_ms": 135132,
-      "name": "leave it",
-      "url": "https://open.spotify.com/track/0eJNz2dntjRD3GtmP6o1zY"
-    },
-    {
-      "album": {
-        "name": "reset",
-        "url": "https://open.spotify.com/album/3UkUawswBSR2ZVUW0Bv16r"
-      },
-      "artists": [
-        {
-          "name": "Shanae",
-          "url": "https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p"
-        }
-      ],
-      "date_added": "2024-04-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135132,
-      "name": "leave it",
-      "url": "https://open.spotify.com/track/72j4egcE7HVYCTRzPCrMIq"
-    },
-    {
-      "album": {
-        "name": "LET GO LET GOOO",
-        "url": "https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124444,
-      "name": "LET GO LET GOOO",
-      "url": "https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3"
-    },
-    {
-      "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/5I3UFCOe6thdof12k7AEU7"
-      },
-      "artists": [
-        {
-          "name": "Pearl",
-          "url": "https://open.spotify.com/artist/3G9uo23A4EPp4O1oUbaJGU"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166559,
-      "name": "Lie & Cheat (feat. Lauren Faith)",
-      "url": "https://open.spotify.com/track/79ty6gcstFS0M4mDKE1TT7"
-    },
-    {
-      "album": {
-        "name": "FINDING JOY IN GREY SKIES: PART ONE",
-        "url": "https://open.spotify.com/album/6IftUpOJcZaZ3n7MdW32VY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106502,
-      "name": "LIFE AS WE DREAMED",
-      "url": "https://open.spotify.com/track/2xItCQmOOhSx7daRBXYAW8"
-    },
-    {
-      "album": {
-        "name": "Slow Waves - EP",
-        "url": "https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz"
-      },
-      "artists": [
-        {
-          "name": "Louis Mattrs",
-          "url": "https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn"
-        },
-        {
-          "name": "LK Faith",
-          "url": "https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239933,
-      "name": "Messed Up (feat. LK Faith)",
-      "url": "https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01"
-    },
-    {
-      "album": {
-        "name": "No Path To Follow",
-        "url": "https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 258683,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3uwMHGr9MrULAHApB7ZeAS"
-    },
-    {
-      "album": {
-        "name": "Nowhere To Hide",
-        "url": "https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ"
-      },
-      "artists": [
-        {
-          "name": "Josh Daniel",
-          "url": "https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185914,
-      "name": "Nowhere To Hide",
-      "url": "https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5"
-    },
-    {
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lug1N0hS94VcxQGY9ekng"
-      },
-      "artists": [
-        {
-          "name": "Hollie Carmen",
-          "url": "https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220466,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/47NALPlJmO9heUjMBwmGBt"
-    },
-    {
-      "album": {
-        "name": "Please Just Wait",
-        "url": "https://open.spotify.com/album/3fqZKOBuPhGD1KVhe8WPBW"
-      },
-      "artists": [
-        {
-          "name": "Molly Elizabeth",
-          "url": "https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210091,
-      "name": "Please Just Wait",
-      "url": "https://open.spotify.com/track/359QrJsYGzTGY7cJRw65HA"
-    },
-    {
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE"
-      },
-      "artists": [
-        {
-          "name": "Molly Elizabeth",
-          "url": "https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212208,
-      "name": "Reason in You",
-      "url": "https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE"
-    },
-    {
-      "album": {
-        "name": "River Runs Deep",
-        "url": "https://open.spotify.com/album/1R8orAQgeQ1srNeqiRbHgh"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248267,
-      "name": "River Runs Deep",
-      "url": "https://open.spotify.com/track/0iaiyqBHImnn3BRcmPaJMG"
-    },
-    {
-      "album": {
-        "name": "SAVITRI / ELECTRIC ENIGMA",
-        "url": "https://open.spotify.com/album/5O8II7IyXqquI90CCOUShV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178228,
-      "name": "SAVITRI",
-      "url": "https://open.spotify.com/track/4ZCK5ucXFABWM5EQYhcaEe"
-    },
-    {
-      "album": {
-        "name": "Cosmic EP",
-        "url": "https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP"
-      },
-      "artists": [
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 422231,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/4H491UBjQRT1PSBhR0sJuw"
-    },
-    {
-      "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201266,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs"
-    },
-    {
-      "album": {
-        "name": "So Deep",
-        "url": "https://open.spotify.com/album/1OnZwt3geJVKCSq952WdIa"
-      },
-      "artists": [
-        {
-          "name": "iLL BLU",
-          "url": "https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172000,
-      "name": "So Deep",
-      "url": "https://open.spotify.com/track/0Yg0203arYkcNlL9M41D9s"
-    },
-    {
-      "album": {
-        "name": "Cruel Intentions",
-        "url": "https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE"
-      },
-      "artists": [
-        {
-          "name": "Molly Elizabeth",
-          "url": "https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175568,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8"
-    },
-    {
-      "album": {
-        "name": "MYCELiUM",
-        "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        },
-        {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272104,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/0g0M9J3y1LIJ5iVZBu8ko6"
-    },
-    {
-      "album": {
-        "name": "You Can Go",
-        "url": "https://open.spotify.com/album/2GkcEIhJfO93IB4XF80jPR"
-      },
-      "artists": [
-        {
-          "name": "Tara Lily",
-          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142190,
-      "name": "You Can Go",
-      "url": "https://open.spotify.com/track/5L8VFI43vnr1n9O1t2xYOn"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1EFEr4IfnBNnly"
+  "2024-01-30": 20,
+  "2024-01-31": 20,
+  "2024-02-01": 20,
+  "2024-02-02": 20,
+  "2024-02-03": 20,
+  "2024-02-04": 20,
+  "2024-02-05": 20,
+  "2024-02-06": 20,
+  "2024-02-07": 20,
+  "2024-02-08": 20,
+  "2024-02-09": 20,
+  "2024-02-10": 22,
+  "2024-02-11": 22,
+  "2024-02-12": 22,
+  "2024-02-13": 22,
+  "2024-02-14": 22,
+  "2024-02-15": 22,
+  "2024-02-16": 22,
+  "2024-02-17": 23,
+  "2024-02-18": 24,
+  "2024-02-19": 24,
+  "2024-02-20": 24,
+  "2024-02-21": 24,
+  "2024-02-22": 24,
+  "2024-02-23": 26,
+  "2024-02-24": 27,
+  "2024-02-25": 27,
+  "2024-02-26": 27,
+  "2024-02-27": 27,
+  "2024-02-28": 27,
+  "2024-02-29": 27,
+  "2024-03-01": 27,
+  "2024-03-02": 27,
+  "2024-03-03": 27,
+  "2024-03-04": 27,
+  "2024-03-05": 27,
+  "2024-03-06": 28,
+  "2024-03-07": 28,
+  "2024-03-08": 29,
+  "2024-03-09": 29,
+  "2024-03-10": 30,
+  "2024-03-11": 30,
+  "2024-03-12": 32,
+  "2024-03-13": 33,
+  "2024-03-14": 33,
+  "2024-03-15": 34,
+  "2024-03-16": 34,
+  "2024-03-17": 34,
+  "2024-03-18": 34,
+  "2024-03-19": 34,
+  "2024-03-20": 34,
+  "2024-03-21": 37,
+  "2024-03-22": 37,
+  "2024-03-23": 38,
+  "2024-03-24": 40,
+  "2024-03-25": 40,
+  "2024-03-26": 43,
+  "2024-03-27": 43,
+  "2024-03-28": 43,
+  "2024-03-29": 45,
+  "2024-03-30": 45,
+  "2024-03-31": 45,
+  "2024-04-01": 45,
+  "2024-04-02": 45,
+  "2024-04-03": 48,
+  "2024-04-04": 48,
+  "2024-04-05": 48,
+  "2024-04-06": 48,
+  "2024-04-07": 48,
+  "2024-04-08": 48,
+  "2024-04-09": 48,
+  "2024-04-10": 49,
+  "2024-04-11": 49,
+  "2024-04-12": 49,
+  "2024-04-13": 49,
+  "2024-04-14": 49,
+  "2024-04-15": 49,
+  "2024-04-16": 49,
+  "2024-04-17": 49,
+  "2024-04-19": 49,
+  "2024-04-20": 49,
+  "2024-04-21": 50,
+  "2024-04-22": 51,
+  "2024-04-23": 51,
+  "2024-04-24": 52,
+  "2024-04-25": 52,
+  "2024-04-26": 53,
+  "2024-04-27": 55,
+  "2024-04-28": 54,
+  "2024-04-29": 55,
+  "2024-04-30": 55,
+  "2024-05-01": 56,
+  "2024-05-02": 56,
+  "2024-05-03": 56,
+  "2024-05-04": 56,
+  "2024-05-05": 56
 }

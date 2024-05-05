@@ -1,787 +1,98 @@
 {
-  "2024-05-05": 22756,
-  "date_first_scraped": "2024-01-30",
-  "description": "The most villainous songs from the Marvel Cinematic Universe.",
-  "name": "Marvel Villains",
-  "tracks": [
-    {
-      "album": {
-        "name": "WandaVision: Episode 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
-      },
-      "artists": [
-        {
-          "name": "Kristen Anderson-Lopez",
-          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
-        },
-        {
-          "name": "Robert Lopez",
-          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
-        },
-        {
-          "name": "Kathryn Hahn",
-          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
-        },
-        {
-          "name": "Eric Bradley",
-          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
-        },
-        {
-          "name": "Greg Whipple",
-          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
-        },
-        {
-          "name": "Jasper Randall",
-          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
-        },
-        {
-          "name": "Gerald White",
-          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 62613,
-      "name": "Agatha All Along",
-      "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
-    },
-    {
-      "album": {
-        "name": "Iron Man 3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176986,
-      "name": "Another Lesson From Mandy",
-      "url": "https://open.spotify.com/track/79atzt0CVfQ2IKac5xbLwj"
-    },
-    {
-      "album": {
-        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Michael Paraskevas",
-          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229373,
-      "name": "Battle of New York",
-      "url": "https://open.spotify.com/track/19svu34uFyJDk9pRAzrFj2"
-    },
-    {
-      "album": {
-        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185666,
-      "name": "Birth of Ultron",
-      "url": "https://open.spotify.com/track/6ps1KR0Ni88B0FrDG0L9K4"
-    },
-    {
-      "album": {
-        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245386,
-      "name": "Destiny Fulfilled",
-      "url": "https://open.spotify.com/track/6kmy3ZutEswDI4WbFTkaFk"
-    },
-    {
-      "album": {
-        "name": "Captain Marvel (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0"
-      },
-      "artists": [
-        {
-          "name": "Pinar Toprak",
-          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213471,
-      "name": "Entering Enemy Territory",
-      "url": "https://open.spotify.com/track/3K5GtDi9ohuZPsgQ6Rkkbs"
-    },
-    {
-      "album": {
-        "name": "Ant-Man and The Wasp: Quantumania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203320,
-      "name": "Fifty Shades of Kang",
-      "url": "https://open.spotify.com/track/7iueyrFsrIm3X4m2aTIeM1"
-    },
-    {
-      "album": {
-        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Michael Paraskevas",
-          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200693,
-      "name": "Fighting Over Toys",
-      "url": "https://open.spotify.com/track/0sGcTOcRT7MBB65cuSWqzp"
-    },
-    {
-      "album": {
-        "name": "The Falcon and the Winter Soldier: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/73smgzwYZ4L70UFP21Hpu0"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106041,
-      "name": "Flag Smasher Fight",
-      "url": "https://open.spotify.com/track/51EfjP9p1P8cXyMhPS3u5m"
-    },
-    {
-      "album": {
-        "name": "Ant-Man and The Wasp: Quantumania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 82666,
-      "name": "He's Kang, He Saw, He Conquered",
-      "url": "https://open.spotify.com/track/5hvLy7QVmRmAV1iBhlqKYt"
-    },
-    {
-      "album": {
-        "name": "Thor: Ragnarok (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr"
-      },
-      "artists": [
-        {
-          "name": "Mark Mothersbaugh",
-          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270573,
-      "name": "Hela vs. Asgard",
-      "url": "https://open.spotify.com/track/3VvOjZcLF6aS2FVY6Za1ms"
-    },
-    {
-      "album": {
-        "name": "Captain America: The First Avenger",
-        "url": "https://open.spotify.com/album/0La1Tskamjd6akysepE8r5"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112160,
-      "name": "Hydra Lab",
-      "url": "https://open.spotify.com/track/7rWaS6J0uPRg7jQOElFhNj"
-    },
-    {
-      "album": {
-        "name": "Captain America: The First Avenger",
-        "url": "https://open.spotify.com/album/0La1Tskamjd6akysepE8r5"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205333,
-      "name": "Hydra Train",
-      "url": "https://open.spotify.com/track/3U7PFfEHucaDOpvdTeUcEo"
-    },
-    {
-      "album": {
-        "name": "Ant-Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180160,
-      "name": "Into the Hornet's Nest",
-      "url": "https://open.spotify.com/track/5Wa59IcCdq75PMC7JrZ1v5"
-    },
-    {
-      "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175363,
-      "name": "Killmonger",
-      "url": "https://open.spotify.com/track/0w7yUSxpQV3a3HqlprOQUs"
-    },
-    {
-      "album": {
-        "name": "Black Panther: Wakanda Remixed",
-        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "WondaGurl",
-          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192560,
-      "name": "Killmonger - WondaGurl Remix",
-      "url": "https://open.spotify.com/track/1l3ksxiYXymdYwSshdOxqd"
-    },
-    {
-      "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210094,
-      "name": "Killmonger vs T'Challa",
-      "url": "https://open.spotify.com/track/4i4zp0U58PhvXm6STYiL5m"
-    },
-    {
-      "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 307007,
-      "name": "Killmonger's Challenge",
-      "url": "https://open.spotify.com/track/1r4FCYgjJgCb97Jp9gu7PE"
-    },
-    {
-      "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195041,
-      "name": "Killmonger's Dream",
-      "url": "https://open.spotify.com/track/3yzB2NUD5gu5sPZW1S7Gf9"
-    },
-    {
-      "album": {
-        "name": "Ant-Man and The Wasp: Quantumania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168746,
-      "name": "Lang vs. Kang",
-      "url": "https://open.spotify.com/track/2dsphCl6o48kitW5qBCjj9"
-    },
-    {
-      "album": {
-        "name": "Thor",
-        "url": "https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw"
-      },
-      "artists": [
-        {
-          "name": "Patrick Doyle",
-          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 114213,
-      "name": "Loki's Lie",
-      "url": "https://open.spotify.com/track/2vg8QysPubsIVLOHEURezV"
-    },
-    {
-      "album": {
-        "name": "The Falcon and the Winter Soldier: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 80258,
-      "name": "Masked Man",
-      "url": "https://open.spotify.com/track/3LxYS51BQPPbJjAiTwcmNx"
-    },
-    {
-      "album": {
-        "name": "WandaVision: Episode 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6eSgGEfhaA2Hq4mNQuVrYh"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242320,
-      "name": "Missile Strike",
-      "url": "https://open.spotify.com/track/1rbwLrbsJKHl51xfgB9Bdt"
-    },
-    {
-      "album": {
-        "name": "Captain Marvel (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0"
-      },
-      "artists": [
-        {
-          "name": "Pinar Toprak",
-          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 495729,
-      "name": "More Problems",
-      "url": "https://open.spotify.com/track/6un9NDWDHH2B02vvg8EMxI"
-    },
-    {
-      "album": {
-        "name": "The Falcon and the Winter Soldier: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 72980,
-      "name": "New Agitators",
-      "url": "https://open.spotify.com/track/4zQH5fExTN4adcZjeuK0gf"
-    },
-    {
-      "album": {
-        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113653,
-      "name": "Not Good",
-      "url": "https://open.spotify.com/track/4MFdxblYWOkXyUg0OYZoaX"
-    },
-    {
-      "album": {
-        "name": "Loki: Season 2 - Vol. 2 (Episodes 4-6) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ"
-      },
-      "artists": [
-        {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188367,
-      "name": "Purpose Is Glorious",
-      "url": "https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd"
-    },
-    {
-      "album": {
-        "name": "The Falcon and the Winter Soldier: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 79843,
-      "name": "Radicalized",
-      "url": "https://open.spotify.com/track/2FxumZOsDEWgexaSVL0nSd"
-    },
-    {
-      "album": {
-        "name": "Guardians of the Galaxy (Original Score)",
-        "url": "https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bates",
-          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144266,
-      "name": "Ronan's Theme",
-      "url": "https://open.spotify.com/track/1U0CPgUkaKt2RnjOfwW94x"
-    },
-    {
-      "album": {
-        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Michael Paraskevas",
-          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112373,
-      "name": "Ronin",
-      "url": "https://open.spotify.com/track/44nbcRlu8FzpM9BMlNjaue"
-    },
-    {
-      "album": {
-        "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145840,
-      "name": "Shadows of Loki - From \"Thor: The Dark World\"/Score",
-      "url": "https://open.spotify.com/track/3tm7mUuLLuIVsAt9hVREzD"
-    },
-    {
-      "album": {
-        "name": "Captain Marvel (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0"
-      },
-      "artists": [
-        {
-          "name": "Pinar Toprak",
-          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177978,
-      "name": "Space Turbulence",
-      "url": "https://open.spotify.com/track/67wje3DOqQy5kYbiXXzMoh"
-    },
-    {
-      "album": {
-        "name": "Ant-Man and The Wasp: Quantumania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 377213,
-      "name": "The Conqueror",
-      "url": "https://open.spotify.com/track/2nqbGSVpEkF2qnAgPVRXYB"
-    },
-    {
-      "album": {
-        "name": "Thor",
-        "url": "https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw"
-      },
-      "artists": [
-        {
-          "name": "Patrick Doyle",
-          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177293,
-      "name": "The Destroyer",
-      "url": "https://open.spotify.com/track/5tbjzMMiVjSfyzpXR3plhq"
-    },
-    {
-      "album": {
-        "name": "Guardians of the Galaxy (Original Score)",
-        "url": "https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bates",
-          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 87080,
-      "name": "The Destroyer",
-      "url": "https://open.spotify.com/track/1eXDRxMJZ0ZaBk15TILd58"
-    },
-    {
-      "album": {
-        "name": "Iron Man 3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156293,
-      "name": "The Mandarin",
-      "url": "https://open.spotify.com/track/4f9YKphIRH0I7fVFhY8GMz"
-    },
-    {
-      "album": {
-        "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158973,
-      "name": "The Trial of Loki - From \"Thor: The Dark World\"/Score",
-      "url": "https://open.spotify.com/track/13qV9OXC1cCFFn6ZLaCLJF"
-    },
-    {
-      "album": {
-        "name": "Captain America: The Winter Soldier (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 384666,
-      "name": "The Winter Soldier",
-      "url": "https://open.spotify.com/track/53xdABEP9hyvBwvuXpzeXG"
-    },
-    {
-      "album": {
-        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 103346,
-      "name": "Ultron Wakes",
-      "url": "https://open.spotify.com/track/0IQaxojrBaZRqrCRvOL0fF"
-    },
-    {
-      "album": {
-        "name": "Avengers: Infinity War (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 305039,
-      "name": "Undying Fidelity",
-      "url": "https://open.spotify.com/track/1TfbolUEjm8A2A4PVuvYxf"
-    },
-    {
-      "album": {
-        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "date_added": "2023-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213120,
-      "name": "You Shouldn't Be Here",
-      "url": "https://open.spotify.com/track/3Wiaj35aWig6R2JEGWF6Rd"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX351Wyvsvwou"
+  "2024-01-30": 20744,
+  "2024-01-31": 20769,
+  "2024-02-01": 20791,
+  "2024-02-02": 20814,
+  "2024-02-03": 20823,
+  "2024-02-04": 20847,
+  "2024-02-05": 20863,
+  "2024-02-06": 20877,
+  "2024-02-07": 20893,
+  "2024-02-08": 20907,
+  "2024-02-09": 20929,
+  "2024-02-10": 20938,
+  "2024-02-11": 20966,
+  "2024-02-12": 20991,
+  "2024-02-13": 21006,
+  "2024-02-14": 21018,
+  "2024-02-15": 21037,
+  "2024-02-16": 21056,
+  "2024-02-17": 21065,
+  "2024-02-18": 21087,
+  "2024-02-19": 21104,
+  "2024-02-20": 21121,
+  "2024-02-21": 21137,
+  "2024-02-22": 21160,
+  "2024-02-23": 21186,
+  "2024-02-24": 21201,
+  "2024-02-25": 21234,
+  "2024-02-26": 21250,
+  "2024-02-27": 21275,
+  "2024-02-28": 21275,
+  "2024-02-29": 21288,
+  "2024-03-01": 21309,
+  "2024-03-02": 21330,
+  "2024-03-03": 21353,
+  "2024-03-04": 21377,
+  "2024-03-05": 21402,
+  "2024-03-06": 21429,
+  "2024-03-07": 21442,
+  "2024-03-08": 21459,
+  "2024-03-09": 21479,
+  "2024-03-10": 21495,
+  "2024-03-11": 21517,
+  "2024-03-12": 21549,
+  "2024-03-13": 21559,
+  "2024-03-14": 21581,
+  "2024-03-15": 21606,
+  "2024-03-16": 21623,
+  "2024-03-17": 21638,
+  "2024-03-18": 21653,
+  "2024-03-19": 21681,
+  "2024-03-20": 21703,
+  "2024-03-21": 21729,
+  "2024-03-22": 21766,
+  "2024-03-23": 21777,
+  "2024-03-24": 21793,
+  "2024-03-25": 21808,
+  "2024-03-26": 21839,
+  "2024-03-27": 21879,
+  "2024-03-28": 21879,
+  "2024-03-29": 21935,
+  "2024-03-30": 21935,
+  "2024-03-31": 21956,
+  "2024-04-01": 21989,
+  "2024-04-02": 22015,
+  "2024-04-03": 22034,
+  "2024-04-04": 22059,
+  "2024-04-05": 22091,
+  "2024-04-06": 22109,
+  "2024-04-07": 22141,
+  "2024-04-08": 22188,
+  "2024-04-09": 22188,
+  "2024-04-10": 22204,
+  "2024-04-11": 22218,
+  "2024-04-12": 22232,
+  "2024-04-13": 22246,
+  "2024-04-14": 22265,
+  "2024-04-15": 22298,
+  "2024-04-16": 22315,
+  "2024-04-17": 22333,
+  "2024-04-19": 22375,
+  "2024-04-20": 22392,
+  "2024-04-21": 22419,
+  "2024-04-22": 22444,
+  "2024-04-23": 22468,
+  "2024-04-24": 22495,
+  "2024-04-25": 22509,
+  "2024-04-26": 22530,
+  "2024-04-27": 22539,
+  "2024-04-28": 22570,
+  "2024-04-29": 22591,
+  "2024-04-30": 22606,
+  "2024-05-01": 22633,
+  "2024-05-02": 22651,
+  "2024-05-03": 22676,
+  "2024-05-04": 22702,
+  "2024-05-05": 22756
 }

@@ -1,1145 +1,177 @@
 {
-  "2024-05-05": 75699,
-  "date_first_scraped": "2023-11-11",
-  "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "name": "This Is Lil Tecca",
-  "tracks": [
-    {
-      "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-12-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
-    },
-    {
-      "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180234,
-      "name": "All Star (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150093,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5"
-    },
-    {
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144594,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133333,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "date_added": "2023-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241655,
-      "name": "CHOPPA SHOOT THE LOUDEST (with Chief Keef, feat.Trippie Redd)",
-      "url": "https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0"
-    },
-    {
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112613,
-      "name": "Come Through (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116240,
-      "name": "Did It Again",
-      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
-    },
-    {
-      "album": {
-        "name": "Trap Tumbado",
-        "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158740,
-      "name": "Dime Pa Que",
-      "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
-    },
-    {
-      "album": {
-        "name": "Diva (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172004,
-      "name": "Diva (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179813,
-      "name": "Dolly (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
-    },
-    {
-      "album": {
-        "name": "TEC (Bonus)",
-        "url": "https://open.spotify.com/album/0pVQ3KO4jjqdeWJUrrkkWp"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/00n83h3zn2IrySO4Q4aTrG"
-    },
-    {
-      "album": {
-        "name": "Down With Me",
-        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-01-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134520,
-      "name": "DUI",
-      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
-    },
-    {
-      "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 121877,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
-    },
-    {
-      "album": {
-        "name": "We All We Got",
-        "url": "https://open.spotify.com/album/31hrkRJ8ynJJOeZ0ao8FdJ"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135572,
-      "name": "Falsetto",
-      "url": "https://open.spotify.com/track/6OFeW7smNQqrIMfYlMSUdD"
-    },
-    {
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129638,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130226,
-      "name": "Gist",
-      "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K"
-    },
-    {
-      "album": {
-        "name": "Ascension (Deluxe) \u2013 Virtual World 2",
-        "url": "https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136903,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131691,
-      "name": "GRAMMY (Freestyle)",
-      "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
-    },
-    {
-      "album": {
-        "name": "Head Doctor (with Lil Tecca)",
-        "url": "https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
-      "duration_ms": 249515,
-      "name": "Head Doctor (with Lil Tecca)",
-      "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
-    },
-    {
-      "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "date_added": "2024-02-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
-    },
-    {
-      "album": {
-        "name": "JETSKI",
-        "url": "https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165161,
-      "name": "JETSKI",
-      "url": "https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123870,
-      "name": "LOT OF ME",
-      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117013,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 118720,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143283,
-      "name": "MONEY ON ME",
-      "url": "https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-04-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140659,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168727,
-      "name": "NEVER LEFT",
-      "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 105882,
-      "name": "NO DISCUSSION",
-      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 98413,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153626,
-      "name": "Out Of Love (feat. Internet Money)",
-      "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
-    },
-    {
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173806,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F"
-    },
-    {
-      "album": {
-        "name": "Prada (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151585,
-      "name": "Prada (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd"
-    },
-    {
-      "album": {
-        "name": "prada (Remix)",
-        "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112413,
-      "name": "prada (Remix) (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
-    },
-    {
-      "album": {
-        "name": "REPEAT IT",
-        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190344,
-      "name": "REPEAT IT (with Gunna)",
-      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
-    },
-    {
-      "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
-      "duration_ms": 135149,
-      "name": "Salty",
-      "url": "https://open.spotify.com/track/3YcOIEVaosMwND6mYRgzVe"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132363,
-      "name": "SEASIDE (feat. iann dior)",
-      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
-    },
-    {
-      "album": {
-        "name": "She Want Some More (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184614,
-      "name": "She Want Some More (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
-      "duration_ms": 125217,
-      "name": "SHOOTERS",
-      "url": "https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 109373,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166875,
-      "name": "SHOW ME UP",
-      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
-    },
-    {
-      "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174333,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
-      "duration_ms": 131858,
-      "name": "TEC",
-      "url": "https://open.spotify.com/track/14QI6pBFZ9UtMqze2QdJhm"
-    },
-    {
-      "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "date_added": "2024-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169014,
-      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
-    },
-    {
-      "album": {
-        "name": "Treesha",
-        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 105693,
-      "name": "Treesha",
-      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
-    },
-    {
-      "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116129,
-      "name": "VIRGO",
-      "url": "https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4"
-    },
-    {
-      "album": {
-        "name": "BIRTHDAY MIX 6",
-        "url": "https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2024-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134735,
-      "name": "Virgo World (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj"
-    },
-    {
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193013,
-      "name": "When You Down (with Polo G feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
-    },
-    {
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
-      "duration_ms": 137547,
-      "name": "Yves",
-      "url": "https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2K7vh9"
+  "2023-11-11": 67820,
+  "2023-11-12": 67820,
+  "2023-11-13": 67820,
+  "2023-11-14": 67820,
+  "2023-11-15": 67820,
+  "2023-11-16": 67820,
+  "2023-11-17": 67820,
+  "2023-11-18": 67820,
+  "2023-11-19": 67820,
+  "2023-11-20": 67820,
+  "2023-11-21": 67820,
+  "2023-11-22": 67820,
+  "2023-11-23": 67820,
+  "2023-11-24": 67820,
+  "2023-11-25": 67820,
+  "2023-11-26": 67820,
+  "2023-11-27": 67820,
+  "2023-11-28": 67820,
+  "2023-11-29": 67820,
+  "2023-11-30": 67820,
+  "2023-12-01": 67820,
+  "2023-12-02": 67820,
+  "2023-12-03": 67820,
+  "2023-12-04": 67820,
+  "2023-12-05": 67820,
+  "2023-12-06": 67820,
+  "2023-12-07": 67820,
+  "2023-12-08": 67820,
+  "2023-12-09": 67820,
+  "2023-12-10": 67820,
+  "2023-12-11": 67820,
+  "2023-12-12": 67820,
+  "2023-12-13": 67820,
+  "2023-12-14": 69535,
+  "2023-12-15": 69583,
+  "2023-12-16": 69655,
+  "2023-12-17": 69705,
+  "2023-12-18": 69749,
+  "2023-12-19": 69794,
+  "2023-12-20": 69850,
+  "2023-12-21": 69901,
+  "2023-12-22": 69945,
+  "2023-12-23": 70008,
+  "2023-12-24": 70064,
+  "2023-12-25": 70105,
+  "2023-12-26": 70151,
+  "2023-12-27": 70220,
+  "2023-12-29": 70220,
+  "2023-12-30": 70355,
+  "2023-12-31": 70410,
+  "2024-01-01": 70452,
+  "2024-01-02": 70495,
+  "2024-01-03": 70543,
+  "2024-01-04": 70594,
+  "2024-01-05": 70666,
+  "2024-01-06": 70735,
+  "2024-01-07": 70798,
+  "2024-01-08": 70962,
+  "2024-01-09": 71029,
+  "2024-01-10": 71029,
+  "2024-01-11": 71116,
+  "2024-01-12": 71205,
+  "2024-01-13": 71260,
+  "2024-01-14": 71365,
+  "2024-01-15": 71365,
+  "2024-01-16": 71405,
+  "2024-01-17": 71468,
+  "2024-01-18": 71538,
+  "2024-01-19": 71599,
+  "2024-01-20": 71658,
+  "2024-01-21": 71710,
+  "2024-01-22": 71765,
+  "2024-01-23": 71808,
+  "2024-01-24": 71856,
+  "2024-01-25": 71936,
+  "2024-01-26": 72002,
+  "2024-01-27": 72072,
+  "2024-01-28": 72128,
+  "2024-01-29": 72196,
+  "2024-01-30": 72233,
+  "2024-01-31": 72293,
+  "2024-02-01": 72352,
+  "2024-02-02": 72404,
+  "2024-02-03": 72462,
+  "2024-02-04": 72499,
+  "2024-02-05": 72535,
+  "2024-02-06": 72595,
+  "2024-02-07": 72662,
+  "2024-02-08": 72742,
+  "2024-02-09": 72798,
+  "2024-02-10": 72846,
+  "2024-02-11": 72883,
+  "2024-02-12": 72910,
+  "2024-02-13": 72946,
+  "2024-02-14": 72973,
+  "2024-02-15": 73031,
+  "2024-02-16": 73088,
+  "2024-02-17": 73155,
+  "2024-02-18": 73186,
+  "2024-02-19": 73222,
+  "2024-02-20": 73254,
+  "2024-02-21": 73290,
+  "2024-02-22": 73329,
+  "2024-02-23": 73372,
+  "2024-02-24": 73420,
+  "2024-02-25": 73454,
+  "2024-02-26": 73483,
+  "2024-02-27": 73573,
+  "2024-02-28": 73573,
+  "2024-02-29": 73611,
+  "2024-03-01": 73639,
+  "2024-03-02": 73679,
+  "2024-03-03": 73709,
+  "2024-03-04": 73732,
+  "2024-03-05": 73774,
+  "2024-03-06": 73790,
+  "2024-03-07": 73821,
+  "2024-03-08": 73863,
+  "2024-03-09": 73898,
+  "2024-03-10": 73922,
+  "2024-03-11": 73959,
+  "2024-03-12": 74006,
+  "2024-03-13": 74047,
+  "2024-03-14": 74096,
+  "2024-03-15": 74136,
+  "2024-03-16": 74179,
+  "2024-03-17": 74217,
+  "2024-03-18": 74246,
+  "2024-03-19": 74263,
+  "2024-03-20": 74293,
+  "2024-03-21": 74330,
+  "2024-03-22": 74372,
+  "2024-03-23": 74419,
+  "2024-03-24": 74454,
+  "2024-03-25": 74481,
+  "2024-03-26": 74528,
+  "2024-03-27": 74610,
+  "2024-03-28": 74610,
+  "2024-03-29": 74682,
+  "2024-03-30": 74682,
+  "2024-03-31": 74722,
+  "2024-04-01": 74747,
+  "2024-04-02": 74792,
+  "2024-04-03": 74809,
+  "2024-04-04": 74828,
+  "2024-04-05": 74852,
+  "2024-04-06": 74891,
+  "2024-04-07": 74925,
+  "2024-04-08": 74974,
+  "2024-04-09": 74974,
+  "2024-04-10": 74997,
+  "2024-04-11": 75024,
+  "2024-04-12": 75059,
+  "2024-04-13": 75084,
+  "2024-04-14": 75109,
+  "2024-04-15": 75133,
+  "2024-04-16": 75155,
+  "2024-04-17": 75180,
+  "2024-04-19": 75225,
+  "2024-04-20": 75243,
+  "2024-04-21": 75272,
+  "2024-04-22": 75292,
+  "2024-04-23": 75319,
+  "2024-04-24": 75388,
+  "2024-04-25": 75404,
+  "2024-04-26": 75434,
+  "2024-04-27": 75455,
+  "2024-04-28": 75481,
+  "2024-04-29": 75507,
+  "2024-04-30": 75521,
+  "2024-05-01": 75536,
+  "2024-05-02": 75565,
+  "2024-05-03": 75604,
+  "2024-05-04": 75646,
+  "2024-05-05": 75699
 }

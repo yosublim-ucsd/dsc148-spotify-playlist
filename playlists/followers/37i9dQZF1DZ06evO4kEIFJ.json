@@ -1,481 +1,282 @@
 {
-  "2024-05-05": 155151,
-  "date_first_scraped": "2023-07-29",
-  "description": "This Is Lil Nas X. Los temas esenciales, todos en una lista.",
-  "name": "This Is Lil Nas X",
-  "tracks": [
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183241,
-      "name": "AM I DREAMING (feat. Miley Cyrus)",
-      "url": "https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131706,
-      "name": "Bring U Down",
-      "url": "https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148653,
-      "name": "C7osure (You Like)",
-      "url": "https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "date_added": "2023-12-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145074,
-      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130925,
-      "name": "DONT WANT IT",
-      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "date_added": "2023-08-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
-      "duration_ms": 162720,
-      "name": "F9mily (You & Me)",
-      "url": "https://open.spotify.com/track/1ABQT5SxlUTNapSbSzblGx"
-    },
-    {
-      "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
-      "duration_ms": 154997,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
-    },
-    {
-      "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "date_added": "2023-08-02",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2024-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
-    },
-    {
-      "album": {
-        "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180666,
-      "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
-    },
-    {
-      "album": {
-        "name": "light! (with Lil Nas X & 9lives)",
-        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2024-03-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151839,
-      "name": "light! (with Lil Nas X & 9lives)",
-      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-30",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
-      "duration_ms": 170322,
-      "name": "LOST IN THE CITADEL",
-      "url": "https://open.spotify.com/track/6th8IdY4lYeM0QlSQJhhkp"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
-    },
-    {
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158706,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174164,
-      "name": "SCOOP (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
-    },
-    {
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146005,
-      "name": "TALES OF DOMINICA",
-      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "album": {
-        "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-        "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "date_added": "2024-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195470,
-      "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-      "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ"
+  "2023-07-29": 140949,
+  "2023-07-30": 140949,
+  "2023-07-31": 141056,
+  "2023-08-01": 141110,
+  "2023-08-02": 141171,
+  "2023-08-03": 141285,
+  "2023-08-04": 141334,
+  "2023-08-05": 141398,
+  "2023-08-06": 141508,
+  "2023-08-07": 141508,
+  "2023-08-08": 141576,
+  "2023-08-09": 141615,
+  "2023-08-10": 141684,
+  "2023-08-11": 141738,
+  "2023-08-12": 141738,
+  "2023-08-13": 141738,
+  "2023-08-14": 141738,
+  "2023-08-15": 141738,
+  "2023-08-16": 141738,
+  "2023-08-17": 141738,
+  "2023-08-18": 141738,
+  "2023-08-19": 141738,
+  "2023-08-20": 142322,
+  "2023-08-21": 142322,
+  "2023-08-22": 142455,
+  "2023-08-23": 142455,
+  "2023-08-24": 142455,
+  "2023-08-25": 142455,
+  "2023-08-26": 142699,
+  "2023-08-27": 142699,
+  "2023-08-28": 142804,
+  "2023-08-29": 142804,
+  "2023-08-30": 142804,
+  "2023-08-31": 142973,
+  "2023-09-01": 143028,
+  "2023-09-02": 143028,
+  "2023-09-03": 143028,
+  "2023-09-04": 143028,
+  "2023-09-05": 143028,
+  "2023-09-06": 143028,
+  "2023-09-07": 143028,
+  "2023-09-08": 143028,
+  "2023-09-09": 143028,
+  "2023-09-10": 143028,
+  "2023-09-11": 143028,
+  "2023-09-12": 143028,
+  "2023-09-13": 143028,
+  "2023-09-14": 143028,
+  "2023-09-15": 143028,
+  "2023-09-16": 143028,
+  "2023-09-17": 143028,
+  "2023-09-18": 143028,
+  "2023-09-19": 143028,
+  "2023-09-20": 143028,
+  "2023-09-21": 143028,
+  "2023-09-22": 144242,
+  "2023-09-23": 144242,
+  "2023-09-24": 144242,
+  "2023-09-25": 144242,
+  "2023-09-26": 144451,
+  "2023-09-27": 144451,
+  "2023-09-28": 144451,
+  "2023-09-29": 144451,
+  "2023-09-30": 144451,
+  "2023-10-01": 144451,
+  "2023-10-02": 144451,
+  "2023-10-03": 144451,
+  "2023-10-04": 144451,
+  "2023-10-05": 144451,
+  "2023-10-06": 144451,
+  "2023-10-07": 144451,
+  "2023-10-08": 144451,
+  "2023-10-09": 144451,
+  "2023-10-10": 144451,
+  "2023-10-11": 144451,
+  "2023-10-12": 144451,
+  "2023-10-13": 144451,
+  "2023-10-14": 144451,
+  "2023-10-15": 144451,
+  "2023-10-16": 144451,
+  "2023-10-17": 144451,
+  "2023-10-18": 144451,
+  "2023-10-19": 144451,
+  "2023-10-20": 144451,
+  "2023-10-21": 144451,
+  "2023-10-22": 144451,
+  "2023-10-23": 144451,
+  "2023-10-24": 144451,
+  "2023-10-25": 144451,
+  "2023-10-26": 144451,
+  "2023-10-27": 144451,
+  "2023-10-28": 144451,
+  "2023-10-29": 144451,
+  "2023-10-30": 144451,
+  "2023-10-31": 144451,
+  "2023-11-01": 144451,
+  "2023-11-02": 144451,
+  "2023-11-03": 144451,
+  "2023-11-04": 144451,
+  "2023-11-05": 144451,
+  "2023-11-06": 144451,
+  "2023-11-07": 144451,
+  "2023-11-08": 144451,
+  "2023-11-09": 144451,
+  "2023-11-10": 144451,
+  "2023-11-11": 146652,
+  "2023-11-12": 146652,
+  "2023-11-13": 146652,
+  "2023-11-14": 146652,
+  "2023-11-15": 146652,
+  "2023-11-16": 146652,
+  "2023-11-17": 146652,
+  "2023-11-18": 146652,
+  "2023-11-19": 146652,
+  "2023-11-20": 146652,
+  "2023-11-21": 146652,
+  "2023-11-22": 146652,
+  "2023-11-23": 146652,
+  "2023-11-24": 146652,
+  "2023-11-25": 146652,
+  "2023-11-26": 146652,
+  "2023-11-27": 146652,
+  "2023-11-28": 146652,
+  "2023-11-29": 146652,
+  "2023-11-30": 146652,
+  "2023-12-01": 146652,
+  "2023-12-02": 146652,
+  "2023-12-03": 146652,
+  "2023-12-04": 146652,
+  "2023-12-05": 146652,
+  "2023-12-06": 146652,
+  "2023-12-07": 146652,
+  "2023-12-08": 146652,
+  "2023-12-09": 146652,
+  "2023-12-10": 146652,
+  "2023-12-11": 146652,
+  "2023-12-12": 146652,
+  "2023-12-13": 146652,
+  "2023-12-14": 147972,
+  "2023-12-15": 147979,
+  "2023-12-16": 148035,
+  "2023-12-17": 148072,
+  "2023-12-18": 148095,
+  "2023-12-19": 148133,
+  "2023-12-20": 148167,
+  "2023-12-21": 148207,
+  "2023-12-22": 148226,
+  "2023-12-23": 148266,
+  "2023-12-24": 148308,
+  "2023-12-25": 148332,
+  "2023-12-26": 148358,
+  "2023-12-27": 148390,
+  "2023-12-29": 148390,
+  "2023-12-30": 148523,
+  "2023-12-31": 148556,
+  "2024-01-01": 148575,
+  "2024-01-02": 148594,
+  "2024-01-03": 148629,
+  "2024-01-04": 148661,
+  "2024-01-05": 148712,
+  "2024-01-06": 148752,
+  "2024-01-07": 148792,
+  "2024-01-08": 148888,
+  "2024-01-09": 148959,
+  "2024-01-10": 148959,
+  "2024-01-11": 149014,
+  "2024-01-12": 149113,
+  "2024-01-13": 149353,
+  "2024-01-14": 149706,
+  "2024-01-15": 149706,
+  "2024-01-16": 149873,
+  "2024-01-17": 150028,
+  "2024-01-18": 150185,
+  "2024-01-19": 150348,
+  "2024-01-20": 150469,
+  "2024-01-21": 150556,
+  "2024-01-22": 150631,
+  "2024-01-23": 150730,
+  "2024-01-24": 150838,
+  "2024-01-25": 150930,
+  "2024-01-26": 151035,
+  "2024-01-27": 151150,
+  "2024-01-28": 151266,
+  "2024-01-29": 151360,
+  "2024-01-30": 151457,
+  "2024-01-31": 151535,
+  "2024-02-01": 151632,
+  "2024-02-02": 151734,
+  "2024-02-03": 151806,
+  "2024-02-04": 151884,
+  "2024-02-05": 151951,
+  "2024-02-06": 152022,
+  "2024-02-07": 152075,
+  "2024-02-08": 152118,
+  "2024-02-09": 152176,
+  "2024-02-10": 152252,
+  "2024-02-11": 152297,
+  "2024-02-12": 152332,
+  "2024-02-13": 152375,
+  "2024-02-14": 152414,
+  "2024-02-15": 152457,
+  "2024-02-16": 152496,
+  "2024-02-17": 152541,
+  "2024-02-18": 152576,
+  "2024-02-19": 152617,
+  "2024-02-20": 152659,
+  "2024-02-21": 152709,
+  "2024-02-22": 152753,
+  "2024-02-23": 152793,
+  "2024-02-24": 152828,
+  "2024-02-25": 152877,
+  "2024-02-26": 152907,
+  "2024-02-27": 152964,
+  "2024-02-28": 152964,
+  "2024-02-29": 153002,
+  "2024-03-01": 153029,
+  "2024-03-02": 153063,
+  "2024-03-03": 153094,
+  "2024-03-04": 153117,
+  "2024-03-05": 153144,
+  "2024-03-06": 153189,
+  "2024-03-07": 153215,
+  "2024-03-08": 153263,
+  "2024-03-09": 153304,
+  "2024-03-10": 153346,
+  "2024-03-11": 153375,
+  "2024-03-12": 153410,
+  "2024-03-13": 153436,
+  "2024-03-14": 153474,
+  "2024-03-15": 153515,
+  "2024-03-16": 153557,
+  "2024-03-17": 153606,
+  "2024-03-18": 153635,
+  "2024-03-19": 153682,
+  "2024-03-20": 153706,
+  "2024-03-21": 153741,
+  "2024-03-22": 153789,
+  "2024-03-23": 153825,
+  "2024-03-24": 153871,
+  "2024-03-25": 153908,
+  "2024-03-26": 153944,
+  "2024-03-27": 154030,
+  "2024-03-28": 154030,
+  "2024-03-29": 154116,
+  "2024-03-30": 154116,
+  "2024-03-31": 154161,
+  "2024-04-01": 154190,
+  "2024-04-02": 154200,
+  "2024-04-03": 154237,
+  "2024-04-04": 154258,
+  "2024-04-05": 154286,
+  "2024-04-06": 154311,
+  "2024-04-07": 154336,
+  "2024-04-08": 154388,
+  "2024-04-09": 154388,
+  "2024-04-10": 154426,
+  "2024-04-11": 154454,
+  "2024-04-12": 154503,
+  "2024-04-13": 154534,
+  "2024-04-14": 154564,
+  "2024-04-15": 154584,
+  "2024-04-16": 154624,
+  "2024-04-17": 154645,
+  "2024-04-19": 154706,
+  "2024-04-20": 154739,
+  "2024-04-21": 154781,
+  "2024-04-22": 154819,
+  "2024-04-23": 154833,
+  "2024-04-24": 154866,
+  "2024-04-25": 154871,
+  "2024-04-26": 154904,
+  "2024-04-27": 154933,
+  "2024-04-28": 154965,
+  "2024-04-29": 154987,
+  "2024-04-30": 155017,
+  "2024-05-01": 155055,
+  "2024-05-02": 155090,
+  "2024-05-03": 155108,
+  "2024-05-04": 155140,
+  "2024-05-05": 155151
 }

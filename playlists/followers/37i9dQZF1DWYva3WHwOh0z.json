@@ -1,963 +1,129 @@
 {
-  "2024-05-05": 119984,
-  "date_first_scraped": "2023-12-30",
-  "description": "\u00a1Las canciones rancheras de Luismi!",
-  "name": "Luis Miguel: Ranchero",
-  "tracks": [
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150600,
-      "name": "Amaneci Entre Tus Brazos - En Vivo",
-      "url": "https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m"
-    },
-    {
-      "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170800,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NCfrzPK3LwN37ruueafA3"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175226,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210600,
-      "name": "Cruz De Olvido",
-      "url": "https://open.spotify.com/track/43U31uHEKbHdrvjIJuvkGa"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202720,
-      "name": "Deja que salga la luna",
-      "url": "https://open.spotify.com/track/5fqTzpRmb1hzL0J5SD5H4b"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169253,
-      "name": "El Balaj\u00fa / Huapango",
-      "url": "https://open.spotify.com/track/6ejQdiWRgOUK0f7ws7K0Sf"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239133,
-      "name": "El Dia Que Me Quieras - En Vivo",
-      "url": "https://open.spotify.com/track/3tIjNmr0gRLcl6fRYQY1aT"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141600,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158880,
-      "name": "El siete mares",
-      "url": "https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216920,
-      "name": "El Viajero",
-      "url": "https://open.spotify.com/track/4qb8QUWJCrW3hHuUcSSvmC"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133760,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/5stIIDoqTCHP69BKGdbSEg"
-    },
-    {
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234293,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
-    },
-    {
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209653,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
-    },
-    {
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164413,
-      "name": "La fiesta del mariachi",
-      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 202760,
-      "name": "La Gloria Eres Tu",
-      "url": "https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202760,
-      "name": "La Gloria Eres Tu",
-      "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD"
-    },
-    {
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164400,
-      "name": "La Media Vuelta - En Vivo",
-      "url": "https://open.spotify.com/track/0BbrG0xytWfEwZrYoqqPKR"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228613,
-      "name": "Los d\u00edas felices",
-      "url": "https://open.spotify.com/track/3MMCBN8S3HRrDkJ1flKQQ8"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174720,
-      "name": "Luz De Luna",
-      "url": "https://open.spotify.com/track/5MALTxghQ66hGWdl1lsGmB"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217013,
-      "name": "Mi Ciudad",
-      "url": "https://open.spotify.com/track/13IYWtMDbpY8rf4vPkgCiQ"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212440,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
-    },
-    {
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203733,
-      "name": "Mucho Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202160,
-      "name": "No discutamos",
-      "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148653,
-      "name": "No me amenaces",
-      "url": "https://open.spotify.com/track/7FaDBpQuCQxWL0nAYTg8n1"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 260600,
-      "name": "Noche De Ronda",
-      "url": "https://open.spotify.com/track/3uv0XgCPkTcOWGZJChstLJ"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 260600,
-      "name": "Noche De Ronda",
-      "url": "https://open.spotify.com/track/7c3Qsn4lCTdVKiuxItqC03"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232306,
-      "name": "Nosotros - En Vivo",
-      "url": "https://open.spotify.com/track/0bhpBIGgw3GrDUGtxO21E1"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165360,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/7nQWIZIZ4W7ZKFbrF5R97L"
-    },
-    {
-      "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206173,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162920,
-      "name": "Por un amor",
-      "url": "https://open.spotify.com/track/2fj0xfc4XtTAPqinYJHyZ8"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185773,
-      "name": "Que Seas Feliz",
-      "url": "https://open.spotify.com/track/6AOt2y4PzYgiUapxCIrbfV"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161546,
-      "name": "Que te vaya bonito",
-      "url": "https://open.spotify.com/track/2gxMq6bgexQ0H4kVNdYrP1"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173000,
-      "name": "Qu\u00e9 bonita es mi tierra",
-      "url": "https://open.spotify.com/track/3Evfk0c7TBJY8TSDORcj24"
-    },
-    {
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 672226,
-      "name": "Romance (No me platiques m\u00e1s / No s\u00e9 t\u00fa / La puerta / La barca / Inolvidable) - En vivo",
-      "url": "https://open.spotify.com/track/4RDhCX2agyMpLcIeMhZhUu"
-    },
-    {
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 886733,
-      "name": "Romances (Voy a apagar la luz / Contigo aprend\u00ed / Por debajo de la mesa / El reloj / Sabor a m\u00ed / La gloria eres t\u00fa / B\u00e9same mucho) - En vivo",
-      "url": "https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 185040,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/5kB8WUUla9s2w7yXD7h4CQ"
-    },
-    {
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185040,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
-    },
-    {
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 653640,
-      "name": "Segundo romance (El d\u00eda que me quieras / Solamente una vez / Somos novios / Todo y nada / Nosotros) - En vivo",
-      "url": "https://open.spotify.com/track/1vx0yzcHzr7kB3MPB5J2y2"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175920,
-      "name": "Serenata huasteca",
-      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159946,
-      "name": "Sin sangre en las venas",
-      "url": "https://open.spotify.com/track/5VsqHFSkrCk9oeXAF816aj"
-    },
-    {
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195493,
-      "name": "Somos Novios - En Vivo",
-      "url": "https://open.spotify.com/track/50L8nrgUNxSER3oBRkx4yn"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184626,
-      "name": "Soy lo prohibido",
-      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160693,
-      "name": "Un Mundo Raro",
-      "url": "https://open.spotify.com/track/2ybospMFQiiopuI9P8WjfH"
-    },
-    {
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
-    },
-    {
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202973,
-      "name": "\u00bfPor qu\u00e9 te conoc\u00ed?",
-      "url": "https://open.spotify.com/track/4jcCh4sq5crnjj68GUOEda"
-    },
-    {
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "date_added": "2023-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189800,
-      "name": "\u00c9chame a Mi La Culpa",
-      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYva3WHwOh0z"
+  "2023-12-30": 106012,
+  "2023-12-31": 106102,
+  "2024-01-01": 106217,
+  "2024-01-02": 106293,
+  "2024-01-03": 106384,
+  "2024-01-04": 106468,
+  "2024-01-05": 106573,
+  "2024-01-06": 106650,
+  "2024-01-07": 106772,
+  "2024-01-08": 107003,
+  "2024-01-09": 107097,
+  "2024-01-10": 107097,
+  "2024-01-11": 107205,
+  "2024-01-12": 107289,
+  "2024-01-13": 107390,
+  "2024-01-14": 107582,
+  "2024-01-15": 107582,
+  "2024-01-16": 107669,
+  "2024-01-17": 107770,
+  "2024-01-18": 107851,
+  "2024-01-19": 107957,
+  "2024-01-20": 108081,
+  "2024-01-21": 108175,
+  "2024-01-22": 108282,
+  "2024-01-23": 108354,
+  "2024-01-24": 108460,
+  "2024-01-25": 108553,
+  "2024-01-26": 108636,
+  "2024-01-27": 108735,
+  "2024-01-28": 108840,
+  "2024-01-29": 108945,
+  "2024-01-30": 109048,
+  "2024-01-31": 109156,
+  "2024-02-01": 109241,
+  "2024-02-02": 109351,
+  "2024-02-03": 109452,
+  "2024-02-04": 109587,
+  "2024-02-05": 109692,
+  "2024-02-06": 109781,
+  "2024-02-07": 109878,
+  "2024-02-08": 110000,
+  "2024-02-09": 110099,
+  "2024-02-10": 110208,
+  "2024-02-11": 110322,
+  "2024-02-12": 110441,
+  "2024-02-13": 110519,
+  "2024-02-14": 110609,
+  "2024-02-15": 110718,
+  "2024-02-16": 110801,
+  "2024-02-17": 110907,
+  "2024-02-18": 111005,
+  "2024-02-19": 111089,
+  "2024-02-20": 111180,
+  "2024-02-21": 111276,
+  "2024-02-22": 111390,
+  "2024-02-23": 111490,
+  "2024-02-24": 111587,
+  "2024-02-25": 111695,
+  "2024-02-26": 111802,
+  "2024-02-27": 111983,
+  "2024-02-28": 111983,
+  "2024-02-29": 112097,
+  "2024-03-01": 112184,
+  "2024-03-02": 112308,
+  "2024-03-03": 112410,
+  "2024-03-04": 112528,
+  "2024-03-05": 112628,
+  "2024-03-06": 112740,
+  "2024-03-07": 112858,
+  "2024-03-08": 112946,
+  "2024-03-09": 113044,
+  "2024-03-10": 113133,
+  "2024-03-11": 113236,
+  "2024-03-12": 113329,
+  "2024-03-13": 113425,
+  "2024-03-14": 113532,
+  "2024-03-15": 113620,
+  "2024-03-16": 113719,
+  "2024-03-17": 113861,
+  "2024-03-18": 113974,
+  "2024-03-19": 114061,
+  "2024-03-20": 114157,
+  "2024-03-21": 114278,
+  "2024-03-22": 114405,
+  "2024-03-23": 114522,
+  "2024-03-24": 114650,
+  "2024-03-25": 114781,
+  "2024-03-26": 114896,
+  "2024-03-27": 115097,
+  "2024-03-28": 115097,
+  "2024-03-29": 115333,
+  "2024-03-30": 115333,
+  "2024-03-31": 115452,
+  "2024-04-01": 115549,
+  "2024-04-02": 115655,
+  "2024-04-03": 115768,
+  "2024-04-04": 115880,
+  "2024-04-05": 115995,
+  "2024-04-06": 116082,
+  "2024-04-07": 116215,
+  "2024-04-08": 116478,
+  "2024-04-09": 116478,
+  "2024-04-10": 116591,
+  "2024-04-11": 116688,
+  "2024-04-12": 116797,
+  "2024-04-13": 116905,
+  "2024-04-14": 117039,
+  "2024-04-15": 117213,
+  "2024-04-16": 117313,
+  "2024-04-17": 117441,
+  "2024-04-19": 117760,
+  "2024-04-20": 117874,
+  "2024-04-21": 118024,
+  "2024-04-22": 118167,
+  "2024-04-23": 118298,
+  "2024-04-24": 118516,
+  "2024-04-25": 118594,
+  "2024-04-26": 118724,
+  "2024-04-27": 118887,
+  "2024-04-28": 119008,
+  "2024-04-29": 119219,
+  "2024-04-30": 119323,
+  "2024-05-01": 119449,
+  "2024-05-02": 119571,
+  "2024-05-03": 119707,
+  "2024-05-04": 119816,
+  "2024-05-05": 119984
 }

@@ -1,967 +1,128 @@
 {
-  "2024-05-05": 44251,
-  "date_first_scraped": "2023-12-31",
-  "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "name": "This Is Alcolirykoz",
-  "tracks": [
-    {
-      "album": {
-        "name": "En Letras Mayu\u0301sculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
-      "duration_ms": 373133,
-      "name": "Acrobacias (2.007)",
-      "url": "https://open.spotify.com/track/7796SnZZbQ1CHzs6yW6sFx"
-    },
-    {
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213760,
-      "name": "Aero-Soul",
-      "url": "https://open.spotify.com/track/6AUY2FyNLl59BcZtynaXsu"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233906,
-      "name": "Anestesia Local - Episodio 2",
-      "url": "https://open.spotify.com/track/4RAHLZj3vHiIHXLbnjazQH"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234000,
-      "name": "Aranjuez",
-      "url": "https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L"
-    },
-    {
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228626,
-      "name": "Balada para No Dormir - Bonus Track",
-      "url": "https://open.spotify.com/track/1HE0o9BFJ0alWtLdi1fXfY"
-    },
-    {
-      "album": {
-        "name": "Ba\u00f1o de Ruda",
-        "url": "https://open.spotify.com/album/6dlkv3zp2mKTfDaoaAAV7h"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189278,
-      "name": "Ba\u00f1o de Ruda",
-      "url": "https://open.spotify.com/track/1RonotN63dWXzprapZyw3w"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244120,
-      "name": "Chango\u0301",
-      "url": "https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229506,
-      "name": "Clapzz",
-      "url": "https://open.spotify.com/track/59VKZYrUoPfC92rNt2tWJG"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254640,
-      "name": "Comediantes de Velorio",
-      "url": "https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy"
-    },
-    {
-      "album": {
-        "name": "Hallowinners II: La Venganza",
-        "url": "https://open.spotify.com/album/3iAw7fQiXPCOAuIeo1Wyqc"
-      },
-      "artists": [
-        {
-          "name": "Gordo Sarkasmus",
-          "url": "https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD"
-        },
-        {
-          "name": "ZetaZeta",
-          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172617,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/1u6kewVKZOOd3UAqlhN7gQ"
-    },
-    {
-      "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178106,
-      "name": "El Despilfarro",
-      "url": "https://open.spotify.com/track/2o9fGQLK8UYhU1OVPkufag"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Polimnia",
-          "url": "https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226893,
-      "name": "El Malo de la Peli\u0301cula",
-      "url": "https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO"
-    },
-    {
-      "album": {
-        "name": "En Letras Mayu\u0301sculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276733,
-      "name": "El Reino de los Suelos (2.007)",
-      "url": "https://open.spotify.com/track/6dUyJurwUU2zccnyrJ4g4b"
-    },
-    {
-      "album": {
-        "name": "El Remate",
-        "url": "https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244137,
-      "name": "El Remate",
-      "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206000,
-      "name": "El Ritual",
-      "url": "https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230000,
-      "name": "El Sal\u00f3n de la Injusticia",
-      "url": "https://open.spotify.com/track/5KCegoON1Q2cvb2ECIuZsa"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244773,
-      "name": "El Show Debe Continuar",
-      "url": "https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF"
-    },
-    {
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207693,
-      "name": "Erre Con Erre",
-      "url": "https://open.spotify.com/track/5iPQitG8WySYGfvN8Zogu9"
-    },
-    {
-      "album": {
-        "name": "Estetograma",
-        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220000,
-      "name": "Estetograma",
-      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214000,
-      "name": "Feliz Si Es Raro",
-      "url": "https://open.spotify.com/track/6rjp4oXVz8URtGWWM3jTWs"
-    },
-    {
-      "album": {
-        "name": "En Letras Mayu\u0301sculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Rulaz Plazco",
-          "url": "https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231413,
-      "name": "G\u00e9nero Rural",
-      "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
-    },
-    {
-      "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
-      },
-      "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 316002,
-      "name": "La Esquina del Mariachi",
-      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
-    },
-    {
-      "album": {
-        "name": "En Letras Mayu\u0301sculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 329773,
-      "name": "La Eterna (2.007)",
-      "url": "https://open.spotify.com/track/4OmOic8DVLpfaL9jXMzsyF"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        },
-        {
-          "name": "Ecks One",
-          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 280200,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3BhO6RtlVfmtPE1xhVHLZ7"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jannyval",
-          "url": "https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253986,
-      "name": "La Revancha de los Timidos",
-      "url": "https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj"
-    },
-    {
-      "album": {
-        "name": "En Letras Mayu\u0301sculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171560,
-      "name": "La T\u00edpica (2.018)",
-      "url": "https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM"
-    },
-    {
-      "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183293,
-      "name": "Las Malas Lenguas",
-      "url": "https://open.spotify.com/track/3kWTf5gwAO6lt2ktQy3C06"
-    },
-    {
-      "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212920,
-      "name": "Let My People",
-      "url": "https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc"
-    },
-    {
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183400,
-      "name": "Los Genios de la Botella - Remix Gambeta",
-      "url": "https://open.spotify.com/track/7kBckkrfCOkhmgiWkxxKiB"
-    },
-    {
-      "album": {
-        "name": "Los Legendarios",
-        "url": "https://open.spotify.com/album/3VZrEkrw9y9rGuPhRTmZTM"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285365,
-      "name": "Los Legendarios",
-      "url": "https://open.spotify.com/track/1yRTwaaXGh2YAOhSMnmQLN"
-    },
-    {
-      "album": {
-        "name": "Medellificaci\u00f3n",
-        "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit"
-    },
-    {
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
-      },
-      "artists": [
-        {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231505,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210466,
-      "name": "N.A.D.A.",
-      "url": "https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Lianna",
-          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177693,
-      "name": "No Hay Flores en Venus",
-      "url": "https://open.spotify.com/track/3URWqe9uJqMiskDGKSBEMZ"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201813,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/4cw8AKmO7y8hAysNMLan4I"
-    },
-    {
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227191,
-      "name": "Pambel\u00e9",
-      "url": "https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270693,
-      "name": "Rap Sexo y Saxof\u00f3n",
-      "url": "https://open.spotify.com/track/4Xe6UqlzhzIq28CelNiDz6"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228148,
-      "name": "Reflujo",
-      "url": "https://open.spotify.com/track/56uh5rHySaH3vf3jvr0dgL"
-    },
-    {
-      "album": {
-        "name": "Viejas Recetas Remixes y Otras Rarezas",
-        "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Gordo Sarkasmus",
-          "url": "https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215160,
-      "name": "Rifo los Lunes",
-      "url": "https://open.spotify.com/track/66IPFhhD4eLjUht9WD4b9p"
-    },
-    {
-      "album": {
-        "name": "Sancocho en Le\u00f1a",
-        "url": "https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176000,
-      "name": "Sancocho en Le\u00f1a",
-      "url": "https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8"
-    },
-    {
-      "album": {
-        "name": "Suero Casero",
-        "url": "https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
-    },
-    {
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
-    },
-    {
-      "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166733,
-      "name": "Terapia de Grupo",
-      "url": "https://open.spotify.com/track/1jJ0y1wNdSHc6YT1cD6Z46"
-    },
-    {
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240075,
-      "name": "Todo Lo Bueno Tarda",
-      "url": "https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH"
-    },
-    {
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "date_added": "2023-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238813,
-      "name": "Una Resaca Mas",
-      "url": "https://open.spotify.com/track/0Hip5AYyFZBAgm6JBYKqAT"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2449GK"
+  "2023-12-31": 38881,
+  "2024-01-01": 38958,
+  "2024-01-02": 39014,
+  "2024-01-03": 39085,
+  "2024-01-04": 39133,
+  "2024-01-05": 39201,
+  "2024-01-06": 39269,
+  "2024-01-07": 39325,
+  "2024-01-08": 39432,
+  "2024-01-09": 39485,
+  "2024-01-10": 39485,
+  "2024-01-11": 39537,
+  "2024-01-12": 39601,
+  "2024-01-13": 39655,
+  "2024-01-14": 39741,
+  "2024-01-15": 39741,
+  "2024-01-16": 39790,
+  "2024-01-17": 39840,
+  "2024-01-18": 39884,
+  "2024-01-19": 39919,
+  "2024-01-20": 39966,
+  "2024-01-21": 40013,
+  "2024-01-22": 40051,
+  "2024-01-23": 40092,
+  "2024-01-24": 40151,
+  "2024-01-25": 40192,
+  "2024-01-26": 40238,
+  "2024-01-27": 40283,
+  "2024-01-28": 40321,
+  "2024-01-29": 40363,
+  "2024-01-30": 40392,
+  "2024-01-31": 40427,
+  "2024-02-01": 40477,
+  "2024-02-02": 40517,
+  "2024-02-03": 40577,
+  "2024-02-04": 40613,
+  "2024-02-05": 40652,
+  "2024-02-06": 40703,
+  "2024-02-07": 40744,
+  "2024-02-08": 40786,
+  "2024-02-09": 40814,
+  "2024-02-10": 40877,
+  "2024-02-11": 40901,
+  "2024-02-12": 40929,
+  "2024-02-13": 40973,
+  "2024-02-14": 41019,
+  "2024-02-15": 41064,
+  "2024-02-16": 41102,
+  "2024-02-17": 41148,
+  "2024-02-18": 41176,
+  "2024-02-19": 41204,
+  "2024-02-20": 41240,
+  "2024-02-21": 41289,
+  "2024-02-22": 41333,
+  "2024-02-23": 41364,
+  "2024-02-24": 41404,
+  "2024-02-25": 41443,
+  "2024-02-26": 41474,
+  "2024-02-27": 41520,
+  "2024-02-28": 41520,
+  "2024-02-29": 41557,
+  "2024-03-01": 41603,
+  "2024-03-02": 41640,
+  "2024-03-03": 41702,
+  "2024-03-04": 41737,
+  "2024-03-05": 41772,
+  "2024-03-06": 41801,
+  "2024-03-07": 41849,
+  "2024-03-08": 41892,
+  "2024-03-09": 41947,
+  "2024-03-10": 41990,
+  "2024-03-11": 42022,
+  "2024-03-12": 42070,
+  "2024-03-13": 42111,
+  "2024-03-14": 42160,
+  "2024-03-15": 42218,
+  "2024-03-16": 42253,
+  "2024-03-17": 42303,
+  "2024-03-18": 42323,
+  "2024-03-19": 42361,
+  "2024-03-20": 42407,
+  "2024-03-21": 42443,
+  "2024-03-22": 42484,
+  "2024-03-23": 42519,
+  "2024-03-24": 42569,
+  "2024-03-25": 42595,
+  "2024-03-26": 42631,
+  "2024-03-27": 42692,
+  "2024-03-28": 42692,
+  "2024-03-29": 42757,
+  "2024-03-30": 42757,
+  "2024-03-31": 42781,
+  "2024-04-01": 42840,
+  "2024-04-02": 42861,
+  "2024-04-03": 42899,
+  "2024-04-04": 42936,
+  "2024-04-05": 42957,
+  "2024-04-06": 42990,
+  "2024-04-07": 43021,
+  "2024-04-08": 43094,
+  "2024-04-09": 43094,
+  "2024-04-10": 43132,
+  "2024-04-11": 43155,
+  "2024-04-12": 43179,
+  "2024-04-13": 43222,
+  "2024-04-14": 43242,
+  "2024-04-15": 43271,
+  "2024-04-16": 43301,
+  "2024-04-17": 43323,
+  "2024-04-19": 43403,
+  "2024-04-20": 43433,
+  "2024-04-21": 43480,
+  "2024-04-22": 43502,
+  "2024-04-23": 43543,
+  "2024-04-24": 43619,
+  "2024-04-25": 43633,
+  "2024-04-26": 43683,
+  "2024-04-27": 43751,
+  "2024-04-28": 43818,
+  "2024-04-29": 43907,
+  "2024-04-30": 43960,
+  "2024-05-01": 44041,
+  "2024-05-02": 44097,
+  "2024-05-03": 44163,
+  "2024-05-04": 44200,
+  "2024-05-05": 44251
 }

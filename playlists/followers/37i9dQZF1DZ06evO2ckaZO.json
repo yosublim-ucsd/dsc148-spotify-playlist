@@ -1,669 +1,333 @@
 {
-  "2024-05-05": 59678,
-  "date_first_scraped": "2023-06-08",
-  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "name": "This Is Ice Spice",
-  "tracks": [
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
-    },
-    {
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ"
-    },
-    {
-      "album": {
-        "name": "Barbie World (with Aqua) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "date_added": "2023-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 109750,
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "album": {
-        "name": "Be a Lady",
-        "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 81860,
-      "name": "Be a Lady",
-      "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-08-08",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
-    },
-    {
-      "album": {
-        "name": "Bikini Bottom",
-        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2024-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
-    },
-    {
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku"
-    },
-    {
-      "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "album": {
-        "name": "Brooklyn Zoo",
-        "url": "https://open.spotify.com/album/4smrTjKS5nGWOEErtzk2Ey"
-      },
-      "artists": [
-        {
-          "name": "Lyrikile Trife",
-          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
-      "duration_ms": 249620,
-      "name": "Brooklyn Zoo",
-      "url": "https://open.spotify.com/track/1xxgIQVi84j5viRHmC26SR"
-    },
-    {
-      "album": {
-        "name": "Bully Freestyle",
-        "url": "https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124200,
-      "name": "Bully Freestyle",
-      "url": "https://open.spotify.com/track/039QTTXxpxtQxgsa6XcqRb"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 111780,
-      "name": "Butterfly Ku",
-      "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113424,
-      "name": "Euphoric",
-      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
-    },
-    {
-      "album": {
-        "name": "Fisherrr (Remix)",
-        "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        }
-      ],
-      "date_added": "2024-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235354,
-      "name": "Fisherrr - Remix",
-      "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
-    },
-    {
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "date_added": "2023-08-30",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
-      "duration_ms": 160057,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR"
-    },
-    {
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB"
-      },
-      "artists": [
-        {
-          "name": "2KJ",
-          "url": "https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
-      "duration_ms": 144140,
-      "name": "GENESIS",
-      "url": "https://open.spotify.com/track/3sJzVBrASbozclOfsoavP6"
-    },
-    {
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB"
-      },
-      "artists": [
-        {
-          "name": "2KJ",
-          "url": "https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3"
-        },
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
-      "duration_ms": 148034,
-      "name": "HIT EM UP!",
-      "url": "https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129636,
-      "name": "How High?",
-      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
-    },
-    {
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
-      "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201493,
-      "name": "Karma (feat. Ice Spice)",
-      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
-    },
-    {
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB"
-      },
-      "artists": [
-        {
-          "name": "2KJ",
-          "url": "https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
-      "duration_ms": 107899,
-      "name": "MICHELIN",
-      "url": "https://open.spotify.com/track/5lLpXVtuRXZgEgQJYXakgs"
-    },
-    {
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
-      "duration_ms": 104160,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/3cbbb7H5k6yXNndjZ0AJuV"
-    },
-    {
-      "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "album": {
-        "name": "Munchies (Remix)",
-        "url": "https://open.spotify.com/album/7dnxgFBRwTpnwjQZfwZ2FO"
-      },
-      "artists": [
-        {
-          "name": "kuuzeboy",
-          "url": "https://open.spotify.com/artist/7cvu3WRCIw4yOTShJ2Vsor"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Chuuwee",
-          "url": "https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
-      "duration_ms": 172307,
-      "name": "Munchies",
-      "url": "https://open.spotify.com/track/2b8eTSg00VV8OgaebIYOXV"
-    },
-    {
-      "album": {
-        "name": "Name of Love",
-        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106666,
-      "name": "Name of Love",
-      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
-    },
-    {
-      "album": {
-        "name": "No Clarity",
-        "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 108169,
-      "name": "No Clarity",
-      "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
-    },
-    {
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124965,
-      "name": "On The Radar - Bonus",
-      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
-    },
-    {
-      "album": {
-        "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
-        "url": "https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196884,
-      "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
-      "url": "https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH"
-    },
-    {
-      "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
-    },
-    {
-      "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "date_added": "2023-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "album": {
-        "name": "Think U The Shit (Fart)",
-        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "date_added": "2024-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141639,
-      "name": "Think U The Shit (Fart)",
-      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ckaZO"
+  "2023-06-08": 28059,
+  "2023-06-09": 28144,
+  "2023-06-10": 28270,
+  "2023-06-11": 28385,
+  "2023-06-12": 28467,
+  "2023-06-13": 28556,
+  "2023-06-14": 28665,
+  "2023-06-15": 28751,
+  "2023-06-16": 28862,
+  "2023-06-17": 28954,
+  "2023-06-18": 29053,
+  "2023-06-19": 29123,
+  "2023-06-20": 29196,
+  "2023-06-21": 29308,
+  "2023-06-22": 29419,
+  "2023-06-23": 29507,
+  "2023-06-24": 29664,
+  "2023-06-25": 29798,
+  "2023-06-26": 29958,
+  "2023-06-27": 30139,
+  "2023-06-28": 30281,
+  "2023-06-29": 30434,
+  "2023-06-30": 30574,
+  "2023-07-01": 30896,
+  "2023-07-02": 30896,
+  "2023-07-03": 31027,
+  "2023-07-04": 31147,
+  "2023-07-05": 31291,
+  "2023-07-06": 31537,
+  "2023-07-07": 31537,
+  "2023-07-08": 31537,
+  "2023-07-09": 31805,
+  "2023-07-10": 31933,
+  "2023-07-11": 32061,
+  "2023-07-12": 32207,
+  "2023-07-13": 32356,
+  "2023-07-14": 32479,
+  "2023-07-15": 32597,
+  "2023-07-16": 32729,
+  "2023-07-17": 32875,
+  "2023-07-18": 33022,
+  "2023-07-19": 33164,
+  "2023-07-20": 33320,
+  "2023-07-21": 33477,
+  "2023-07-22": 33707,
+  "2023-07-23": 33921,
+  "2023-07-24": 34116,
+  "2023-07-25": 34318,
+  "2023-07-26": 34534,
+  "2023-07-27": 34817,
+  "2023-07-28": 35125,
+  "2023-07-29": 35372,
+  "2023-07-30": 35585,
+  "2023-07-31": 35788,
+  "2023-08-01": 35992,
+  "2023-08-02": 36157,
+  "2023-08-03": 36347,
+  "2023-08-04": 36542,
+  "2023-08-05": 36769,
+  "2023-08-06": 37121,
+  "2023-08-07": 37121,
+  "2023-08-08": 37308,
+  "2023-08-09": 37483,
+  "2023-08-10": 37640,
+  "2023-08-11": 37825,
+  "2023-08-12": 37825,
+  "2023-08-13": 37825,
+  "2023-08-14": 38316,
+  "2023-08-15": 38316,
+  "2023-08-16": 38316,
+  "2023-08-17": 38316,
+  "2023-08-18": 38316,
+  "2023-08-19": 38316,
+  "2023-08-20": 39171,
+  "2023-08-21": 39171,
+  "2023-08-22": 39472,
+  "2023-08-23": 39472,
+  "2023-08-24": 39472,
+  "2023-08-25": 39472,
+  "2023-08-26": 40003,
+  "2023-08-27": 40003,
+  "2023-08-28": 40244,
+  "2023-08-29": 40244,
+  "2023-08-30": 40244,
+  "2023-08-31": 40584,
+  "2023-09-01": 40708,
+  "2023-09-02": 40708,
+  "2023-09-03": 40708,
+  "2023-09-04": 40708,
+  "2023-09-05": 40708,
+  "2023-09-06": 40708,
+  "2023-09-07": 40708,
+  "2023-09-08": 40708,
+  "2023-09-09": 40708,
+  "2023-09-10": 41798,
+  "2023-09-11": 41798,
+  "2023-09-12": 41798,
+  "2023-09-13": 41798,
+  "2023-09-14": 41798,
+  "2023-09-15": 41798,
+  "2023-09-16": 42635,
+  "2023-09-17": 42635,
+  "2023-09-18": 42635,
+  "2023-09-19": 43079,
+  "2023-09-20": 43079,
+  "2023-09-21": 43079,
+  "2023-09-22": 43508,
+  "2023-09-23": 43508,
+  "2023-09-24": 43508,
+  "2023-09-25": 43508,
+  "2023-09-26": 44020,
+  "2023-09-27": 44020,
+  "2023-09-28": 44020,
+  "2023-09-29": 44020,
+  "2023-09-30": 44020,
+  "2023-10-01": 44020,
+  "2023-10-02": 44020,
+  "2023-10-03": 44020,
+  "2023-10-04": 44020,
+  "2023-10-05": 44020,
+  "2023-10-06": 44020,
+  "2023-10-07": 44020,
+  "2023-10-08": 44020,
+  "2023-10-09": 44020,
+  "2023-10-10": 44020,
+  "2023-10-11": 45526,
+  "2023-10-12": 45526,
+  "2023-10-13": 45526,
+  "2023-10-14": 45526,
+  "2023-10-15": 45526,
+  "2023-10-16": 45526,
+  "2023-10-17": 45526,
+  "2023-10-18": 45526,
+  "2023-10-19": 45526,
+  "2023-10-20": 45526,
+  "2023-10-21": 45526,
+  "2023-10-22": 45526,
+  "2023-10-23": 45526,
+  "2023-10-24": 45526,
+  "2023-10-25": 45526,
+  "2023-10-26": 45526,
+  "2023-10-27": 45526,
+  "2023-10-28": 45526,
+  "2023-10-29": 45526,
+  "2023-10-30": 45526,
+  "2023-10-31": 45526,
+  "2023-11-01": 45526,
+  "2023-11-02": 45526,
+  "2023-11-03": 45526,
+  "2023-11-04": 45526,
+  "2023-11-05": 45526,
+  "2023-11-06": 45526,
+  "2023-11-07": 45526,
+  "2023-11-08": 45526,
+  "2023-11-09": 45526,
+  "2023-11-10": 45526,
+  "2023-11-11": 47931,
+  "2023-11-12": 47931,
+  "2023-11-13": 47931,
+  "2023-11-14": 47931,
+  "2023-11-15": 47931,
+  "2023-11-16": 47931,
+  "2023-11-17": 47931,
+  "2023-11-18": 47931,
+  "2023-11-19": 47931,
+  "2023-11-20": 47931,
+  "2023-11-21": 47931,
+  "2023-11-22": 47931,
+  "2023-11-23": 47931,
+  "2023-11-24": 47931,
+  "2023-11-25": 47931,
+  "2023-11-26": 47931,
+  "2023-11-27": 47931,
+  "2023-11-28": 47931,
+  "2023-11-29": 47931,
+  "2023-11-30": 47931,
+  "2023-12-01": 47931,
+  "2023-12-02": 47931,
+  "2023-12-03": 47931,
+  "2023-12-04": 47931,
+  "2023-12-05": 47931,
+  "2023-12-06": 47931,
+  "2023-12-07": 47931,
+  "2023-12-08": 47931,
+  "2023-12-09": 47931,
+  "2023-12-10": 47931,
+  "2023-12-11": 47931,
+  "2023-12-12": 47931,
+  "2023-12-13": 47931,
+  "2023-12-14": 50344,
+  "2023-12-15": 50411,
+  "2023-12-16": 50480,
+  "2023-12-17": 50529,
+  "2023-12-18": 50588,
+  "2023-12-19": 50661,
+  "2023-12-20": 50735,
+  "2023-12-21": 50802,
+  "2023-12-22": 50849,
+  "2023-12-23": 50920,
+  "2023-12-24": 50983,
+  "2023-12-25": 51022,
+  "2023-12-26": 51055,
+  "2023-12-27": 51122,
+  "2023-12-29": 51122,
+  "2023-12-30": 51320,
+  "2023-12-31": 51367,
+  "2024-01-01": 51429,
+  "2024-01-02": 51489,
+  "2024-01-03": 51532,
+  "2024-01-04": 51590,
+  "2024-01-05": 51658,
+  "2024-01-06": 51724,
+  "2024-01-07": 51791,
+  "2024-01-08": 51908,
+  "2024-01-09": 51954,
+  "2024-01-10": 51954,
+  "2024-01-11": 52025,
+  "2024-01-12": 52101,
+  "2024-01-13": 52182,
+  "2024-01-14": 52353,
+  "2024-01-15": 52353,
+  "2024-01-16": 52445,
+  "2024-01-17": 52531,
+  "2024-01-18": 52594,
+  "2024-01-19": 52656,
+  "2024-01-20": 52738,
+  "2024-01-21": 52827,
+  "2024-01-22": 52919,
+  "2024-01-23": 52989,
+  "2024-01-24": 53065,
+  "2024-01-25": 53124,
+  "2024-01-26": 53241,
+  "2024-01-27": 53401,
+  "2024-01-28": 53530,
+  "2024-01-29": 53620,
+  "2024-01-30": 53726,
+  "2024-01-31": 53825,
+  "2024-02-01": 53926,
+  "2024-02-02": 54015,
+  "2024-02-03": 54114,
+  "2024-02-04": 54206,
+  "2024-02-05": 54330,
+  "2024-02-06": 54407,
+  "2024-02-07": 54492,
+  "2024-02-08": 54584,
+  "2024-02-09": 54632,
+  "2024-02-10": 54703,
+  "2024-02-11": 54768,
+  "2024-02-12": 54874,
+  "2024-02-13": 55019,
+  "2024-02-14": 55128,
+  "2024-02-15": 55215,
+  "2024-02-16": 55320,
+  "2024-02-17": 55410,
+  "2024-02-18": 55489,
+  "2024-02-19": 55553,
+  "2024-02-20": 55614,
+  "2024-02-21": 55689,
+  "2024-02-22": 55762,
+  "2024-02-23": 55810,
+  "2024-02-24": 55878,
+  "2024-02-25": 55953,
+  "2024-02-26": 56006,
+  "2024-02-27": 56109,
+  "2024-02-28": 56109,
+  "2024-02-29": 56173,
+  "2024-03-01": 56242,
+  "2024-03-02": 56329,
+  "2024-03-03": 56407,
+  "2024-03-04": 56447,
+  "2024-03-05": 56498,
+  "2024-03-06": 56553,
+  "2024-03-07": 56615,
+  "2024-03-08": 56680,
+  "2024-03-09": 56737,
+  "2024-03-10": 56786,
+  "2024-03-11": 56820,
+  "2024-03-12": 56859,
+  "2024-03-13": 56894,
+  "2024-03-14": 56969,
+  "2024-03-15": 57025,
+  "2024-03-16": 57063,
+  "2024-03-17": 57137,
+  "2024-03-18": 57191,
+  "2024-03-19": 57235,
+  "2024-03-20": 57282,
+  "2024-03-21": 57326,
+  "2024-03-22": 57360,
+  "2024-03-23": 57406,
+  "2024-03-24": 57455,
+  "2024-03-25": 57499,
+  "2024-03-26": 57544,
+  "2024-03-27": 57635,
+  "2024-03-28": 57635,
+  "2024-03-29": 57722,
+  "2024-03-30": 57722,
+  "2024-03-31": 57763,
+  "2024-04-01": 57802,
+  "2024-04-02": 57840,
+  "2024-04-03": 57877,
+  "2024-04-04": 57906,
+  "2024-04-05": 57929,
+  "2024-04-06": 57986,
+  "2024-04-07": 58029,
+  "2024-04-08": 58118,
+  "2024-04-09": 58118,
+  "2024-04-10": 58156,
+  "2024-04-11": 58201,
+  "2024-04-12": 58234,
+  "2024-04-13": 58293,
+  "2024-04-14": 58326,
+  "2024-04-15": 58450,
+  "2024-04-16": 58539,
+  "2024-04-17": 58621,
+  "2024-04-19": 58793,
+  "2024-04-20": 58849,
+  "2024-04-21": 58916,
+  "2024-04-22": 58994,
+  "2024-04-23": 59086,
+  "2024-04-24": 59166,
+  "2024-04-25": 59181,
+  "2024-04-26": 59257,
+  "2024-04-27": 59317,
+  "2024-04-28": 59372,
+  "2024-04-29": 59402,
+  "2024-04-30": 59451,
+  "2024-05-01": 59495,
+  "2024-05-02": 59547,
+  "2024-05-03": 59575,
+  "2024-05-04": 59627,
+  "2024-05-05": 59678
 }

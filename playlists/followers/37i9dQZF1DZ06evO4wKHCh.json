@@ -1,353 +1,117 @@
 {
-  "2024-05-05": 4800,
-  "date_first_scraped": "2024-01-11",
-  "description": "This is Emei. The essential tracks, all in one playlist.",
-  "name": "This Is Emei",
-  "tracks": [
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149125,
-      "name": "711",
-      "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
-    },
-    {
-      "album": {
-        "name": "Backtrack",
-        "url": "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158840,
-      "name": "Backtrack",
-      "url": "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6"
-    },
-    {
-      "album": {
-        "name": "Better People To Leave On Read",
-        "url": "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131344,
-      "name": "Better People To Leave On Read",
-      "url": "https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn"
-    },
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134545,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd"
-    },
-    {
-      "album": {
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/762HvFjPyK8ck5uJ79lHHq"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        },
-        {
-          "name": "LEXIM",
-          "url": "https://open.spotify.com/artist/6d3Ln06qXCe5Mt85yEFxE6"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160800,
-      "name": "Distracted",
-      "url": "https://open.spotify.com/track/5YOzLTrk5Xzmg4rhYTmWiq"
-    },
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143696,
-      "name": "Don't Know About The World",
-      "url": "https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8"
-    },
-    {
-      "album": {
-        "name": "End of an Era",
-        "url": "https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133985,
-      "name": "End of an Era",
-      "url": "https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp"
-    },
-    {
-      "album": {
-        "name": "End of an Era",
-        "url": "https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117240,
-      "name": "Ferris Bueller",
-      "url": "https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k"
-    },
-    {
-      "album": {
-        "name": "Hold On Me (feat. Emei)",
-        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149569,
-      "name": "Hold On Me (feat. Emei)",
-      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
-    },
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p"
-    },
-    {
-      "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "album": {
-        "name": "Love Me Not",
-        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140355,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
-    },
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140937,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
-    },
-    {
-      "album": {
-        "name": "RE-IGNITION",
-        "url": "https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ARB4",
-          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
-        },
-        {
-          "name": "Jazz Alonso",
-          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
-        },
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204444,
-      "name": "RE-IGNITION",
-      "url": "https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac"
-    },
-    {
-      "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122253,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD"
-    },
-    {
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129938,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/0LVdV9NG0y0ROxbYLpjbKc"
-    },
-    {
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140426,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY"
-    },
-    {
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140880,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh"
+  "2024-01-11": 1067,
+  "2024-01-12": 1083,
+  "2024-01-13": 1090,
+  "2024-01-14": 1118,
+  "2024-01-15": 1118,
+  "2024-01-16": 1130,
+  "2024-01-17": 1142,
+  "2024-01-18": 1172,
+  "2024-01-19": 1192,
+  "2024-01-20": 1215,
+  "2024-01-21": 1229,
+  "2024-01-22": 1261,
+  "2024-01-23": 1282,
+  "2024-01-24": 1300,
+  "2024-01-25": 1321,
+  "2024-01-26": 1342,
+  "2024-01-27": 1359,
+  "2024-01-28": 1382,
+  "2024-01-29": 1409,
+  "2024-01-30": 1435,
+  "2024-01-31": 1468,
+  "2024-02-01": 1512,
+  "2024-02-02": 1542,
+  "2024-02-03": 1568,
+  "2024-02-04": 1601,
+  "2024-02-05": 1633,
+  "2024-02-06": 1665,
+  "2024-02-07": 1696,
+  "2024-02-08": 1744,
+  "2024-02-09": 1794,
+  "2024-02-10": 1850,
+  "2024-02-11": 1910,
+  "2024-02-12": 1952,
+  "2024-02-13": 1994,
+  "2024-02-14": 2040,
+  "2024-02-15": 2078,
+  "2024-02-16": 2123,
+  "2024-02-17": 2151,
+  "2024-02-18": 2184,
+  "2024-02-19": 2223,
+  "2024-02-20": 2266,
+  "2024-02-21": 2309,
+  "2024-02-22": 2345,
+  "2024-02-23": 2378,
+  "2024-02-24": 2419,
+  "2024-02-25": 2452,
+  "2024-02-26": 2477,
+  "2024-02-27": 2542,
+  "2024-02-28": 2542,
+  "2024-02-29": 2586,
+  "2024-03-01": 2644,
+  "2024-03-02": 2680,
+  "2024-03-03": 2721,
+  "2024-03-04": 2769,
+  "2024-03-05": 2800,
+  "2024-03-06": 2845,
+  "2024-03-07": 2874,
+  "2024-03-08": 2913,
+  "2024-03-09": 2961,
+  "2024-03-10": 3003,
+  "2024-03-11": 3034,
+  "2024-03-12": 3066,
+  "2024-03-13": 3105,
+  "2024-03-14": 3158,
+  "2024-03-15": 3203,
+  "2024-03-16": 3242,
+  "2024-03-17": 3278,
+  "2024-03-18": 3322,
+  "2024-03-19": 3360,
+  "2024-03-20": 3400,
+  "2024-03-21": 3429,
+  "2024-03-22": 3480,
+  "2024-03-23": 3526,
+  "2024-03-24": 3582,
+  "2024-03-25": 3623,
+  "2024-03-26": 3661,
+  "2024-03-27": 3737,
+  "2024-03-28": 3737,
+  "2024-03-29": 3801,
+  "2024-03-30": 3801,
+  "2024-03-31": 3838,
+  "2024-04-01": 3867,
+  "2024-04-02": 3898,
+  "2024-04-03": 3922,
+  "2024-04-04": 3956,
+  "2024-04-05": 3986,
+  "2024-04-06": 4017,
+  "2024-04-07": 4060,
+  "2024-04-08": 4139,
+  "2024-04-09": 4139,
+  "2024-04-10": 4174,
+  "2024-04-11": 4199,
+  "2024-04-12": 4231,
+  "2024-04-13": 4280,
+  "2024-04-14": 4318,
+  "2024-04-15": 4339,
+  "2024-04-16": 4356,
+  "2024-04-17": 4383,
+  "2024-04-19": 4431,
+  "2024-04-20": 4447,
+  "2024-04-21": 4457,
+  "2024-04-22": 4481,
+  "2024-04-23": 4502,
+  "2024-04-24": 4535,
+  "2024-04-25": 4547,
+  "2024-04-26": 4574,
+  "2024-04-27": 4605,
+  "2024-04-28": 4629,
+  "2024-04-29": 4658,
+  "2024-04-30": 4675,
+  "2024-05-01": 4696,
+  "2024-05-02": 4731,
+  "2024-05-03": 4752,
+  "2024-05-04": 4776,
+  "2024-05-05": 4800
 }

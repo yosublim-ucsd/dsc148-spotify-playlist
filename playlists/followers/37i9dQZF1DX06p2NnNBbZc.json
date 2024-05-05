@@ -1,1101 +1,144 @@
 {
-  "2024-05-05": 33141,
-  "date_first_scraped": "2023-12-14",
-  "description": "\u3010\u30bb\u30c8\u30ea\u516c\u958b\u30112023\u5e745\u6708\u306b\u884c\u308f\u308c\u305f<a href=\"https://www.twicejapan.com/feature/5thworldtour_readytobe\">TWICE \u30ef\u30fc\u30eb\u30c9\u30c4\u30a2\u30fc\u300cREADY TO BE\u300d\u306e\u65e5\u672c\u516c\u6f14</a>\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
-  "name": "On Tour Japan: TWICE",
-  "tracks": [
-    {
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
-    },
-    {
-      "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
-    },
-    {
-      "album": {
-        "name": "Alcohol-Free",
-        "url": "https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj"
-    },
-    {
-      "album": {
-        "name": "BDZ",
-        "url": "https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197800,
-      "name": "BDZ",
-      "url": "https://open.spotify.com/track/6ceKChoZYLdw24Ph1CDFUJ"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189200,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/0MnWI4RRh1lEX24rIKaCuV"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 189200,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E"
-    },
-    {
-      "album": {
-        "name": "Candy Pop",
-        "url": "https://open.spotify.com/album/0dbDXtPkq4b4zViH3q9Lnt"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202010,
-      "name": "Candy Pop",
-      "url": "https://open.spotify.com/track/39GvWlUAF4Y3qzboUyvBkg"
-    },
-    {
-      "album": {
-        "name": "Page Two",
-        "url": "https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 208853,
-      "name": "CHEER UP",
-      "url": "https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ"
-    },
-    {
-      "album": {
-        "name": "WHAT'S TWICE?",
-        "url": "https://open.spotify.com/album/2REinwcdJxiNaCyhHQjqEO"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208862,
-      "name": "CHEER UP",
-      "url": "https://open.spotify.com/track/6ShgT71C0JcZcy7RqAcdAf"
-    },
-    {
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 169613,
-      "name": "CRAZY STUPID LOVE",
-      "url": "https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75"
-    },
-    {
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169613,
-      "name": "CRAZY STUPID LOVE",
-      "url": "https://open.spotify.com/track/5r49HwlQM09MC7StuvwP42"
-    },
-    {
-      "album": {
-        "name": "CRY FOR ME",
-        "url": "https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204167,
-      "name": "CRY FOR ME",
-      "url": "https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8"
-    },
-    {
-      "album": {
-        "name": "CRY FOR ME",
-        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 204167,
-      "name": "CRY FOR ME",
-      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
-    },
-    {
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 180800,
-      "name": "Dance The Night Away",
-      "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
-    },
-    {
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/4JRX1T8VKbEMvTtnQXnLYM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180809,
-      "name": "Dance The Night Away",
-      "url": "https://open.spotify.com/track/281tmNk46TBQS9ACYMLYyA"
-    },
-    {
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180493,
-      "name": "Done for Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
-    },
-    {
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
-    },
-    {
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213885,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
-    },
-    {
-      "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 206866,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
-    },
-    {
-      "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206868,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
-    },
-    {
-      "album": {
-        "name": "Eyes wide open",
-        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181520,
-      "name": "GO HARD",
-      "url": "https://open.spotify.com/track/4DyrLEu46wIXGgBBcLVXEW"
-    },
-    {
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 181520,
-      "name": "GO HARD",
-      "url": "https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD"
-    },
-    {
-      "album": {
-        "name": "HAPPY HAPPY",
-        "url": "https://open.spotify.com/album/7L4aQ3NuXn10GinA6Fs2pc"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206973,
-      "name": "HAPPY HAPPY",
-      "url": "https://open.spotify.com/track/1yPkYnRgZveWLCUSWX16ra"
-    },
-    {
-      "album": {
-        "name": "Hare Hare",
-        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203546,
-      "name": "Hare Hare",
-      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
-    },
-    {
-      "album": {
-        "name": "Merry & Happy",
-        "url": "https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 186893,
-      "name": "Heart Shaker",
-      "url": "https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW"
-    },
-    {
-      "album": {
-        "name": "Merry & Happy",
-        "url": "https://open.spotify.com/album/4TOqKpo9ct2Hj21uQ3cnOm"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186895,
-      "name": "Heart Shaker",
-      "url": "https://open.spotify.com/track/6gxF4ibm6S95UUC6vyIiln"
-    },
-    {
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "album": {
-        "name": "Eyes wide open",
-        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/3apeXzypBMnUfYcZYNX6DH"
-    },
-    {
-      "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194935,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/43BtEHgPHapAp1YNxEfxqd"
-    },
-    {
-      "album": {
-        "name": "Twicecoaster: Lane 2",
-        "url": "https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 195746,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/3HWOknOVmd44e1jg4g0Sga"
-    },
-    {
-      "album": {
-        "name": "TWICEcoaster : LANE2",
-        "url": "https://open.spotify.com/album/4GWHz1Kxn8EirxXQgP7u7u"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195753,
-      "name": "KNOCK KNOCK",
-      "url": "https://open.spotify.com/track/3rQjCycDV0Ibadg6A1Nq45"
-    },
-    {
-      "album": {
-        "name": "Twicetagram",
-        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 207813,
-      "name": "Likey",
-      "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T"
-    },
-    {
-      "album": {
-        "name": "twicetagram",
-        "url": "https://open.spotify.com/album/39K4c7cQcvrfL79OQu3iOJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207824,
-      "name": "LIKEY",
-      "url": "https://open.spotify.com/track/4Eb5cLWxKQUoUQaKUYSRgI"
-    },
-    {
-      "album": {
-        "name": "MOONLIGHT SUNRISE",
-        "url": "https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa"
-    },
-    {
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
-    },
-    {
-      "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199653,
-      "name": "MORE & MORE",
-      "url": "https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg"
-    },
-    {
-      "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 199653,
-      "name": "MORE & MORE",
-      "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
-    },
-    {
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203383,
-      "name": "MOVE (feat. Grace Jones & Tems)",
-      "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
-    },
-    {
-      "album": {
-        "name": "CARDIO POP",
-        "url": "https://open.spotify.com/album/0ggG0CtyREhS3kaxBYXLi1"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/6lvTPd1gl0z7IXkbd4NaIq"
-    },
-    {
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 186946,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186946,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/6yox9CUPrQQp2HtXZsUJkz"
-    },
-    {
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
-    },
-    {
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
-    },
-    {
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181680,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/1Zr1SoGePJ3iKKakmmZaMR"
-    },
-    {
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 181680,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
-    },
-    {
-      "album": {
-        "name": "Kura Kura",
-        "url": "https://open.spotify.com/album/1O0im7AhkMRTT37tzHmEXX"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203173,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/23VWZ6sTNXZaa3zXkwJm7g"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
-    },
-    {
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
-    },
-    {
-      "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY"
-    },
-    {
-      "album": {
-        "name": "Gypsy Heart Side A",
-        "url": "https://open.spotify.com/album/7JRXqBqGNs3cy5YhqbvNuu"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224546,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/0dSchkfNB8SzYj8Bx7bcCW"
-    },
-    {
-      "album": {
-        "name": "Gypsy Heart",
-        "url": "https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 224573,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
-    },
-    {
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 208240,
-      "name": "What is Love",
-      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
-    },
-    {
-      "album": {
-        "name": "What is Love?",
-        "url": "https://open.spotify.com/album/3RpKeK21tOln0iyoE8KGC8"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208238,
-      "name": "What is Love?",
-      "url": "https://open.spotify.com/track/2PhG74FocRobLC8pP9cIBI"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189346,
-      "name": "When We Were Kids",
-      "url": "https://open.spotify.com/track/2K8czCaxo0XNps5IB1sayl"
-    },
-    {
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 189346,
-      "name": "When We Were Kids",
-      "url": "https://open.spotify.com/track/7uAKsykguOnXZSh0WpOW5z"
-    },
-    {
-      "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 237680,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
-    },
-    {
-      "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/5N2fOk0ShnKd8hUD66kI1e"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2023-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237685,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/184XtKkzoAl83quIarUAJP"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX06p2NnNBbZc"
+  "2023-12-14": 31008,
+  "2023-12-15": 31023,
+  "2023-12-16": 31055,
+  "2023-12-17": 31083,
+  "2023-12-18": 31118,
+  "2023-12-19": 31129,
+  "2023-12-20": 31143,
+  "2023-12-21": 31169,
+  "2023-12-22": 31188,
+  "2023-12-23": 31207,
+  "2023-12-24": 31223,
+  "2023-12-25": 31243,
+  "2023-12-26": 31257,
+  "2023-12-27": 31260,
+  "2023-12-29": 31260,
+  "2023-12-30": 31351,
+  "2023-12-31": 31385,
+  "2024-01-01": 31403,
+  "2024-01-02": 31413,
+  "2024-01-03": 31429,
+  "2024-01-04": 31444,
+  "2024-01-05": 31478,
+  "2024-01-06": 31491,
+  "2024-01-07": 31503,
+  "2024-01-08": 31540,
+  "2024-01-09": 31539,
+  "2024-01-10": 31539,
+  "2024-01-11": 31565,
+  "2024-01-12": 31574,
+  "2024-01-13": 31581,
+  "2024-01-14": 31605,
+  "2024-01-15": 31605,
+  "2024-01-16": 31604,
+  "2024-01-17": 31615,
+  "2024-01-18": 31632,
+  "2024-01-19": 31643,
+  "2024-01-20": 31652,
+  "2024-01-21": 31663,
+  "2024-01-22": 31669,
+  "2024-01-23": 31680,
+  "2024-01-24": 31695,
+  "2024-01-25": 31713,
+  "2024-01-26": 31730,
+  "2024-01-27": 31735,
+  "2024-01-28": 31751,
+  "2024-01-29": 31766,
+  "2024-01-30": 31782,
+  "2024-01-31": 31791,
+  "2024-02-01": 31810,
+  "2024-02-02": 31835,
+  "2024-02-03": 31856,
+  "2024-02-04": 31875,
+  "2024-02-05": 31900,
+  "2024-02-06": 31925,
+  "2024-02-07": 31940,
+  "2024-02-08": 31973,
+  "2024-02-09": 31992,
+  "2024-02-10": 32003,
+  "2024-02-11": 32022,
+  "2024-02-12": 32047,
+  "2024-02-13": 32066,
+  "2024-02-14": 32074,
+  "2024-02-15": 32085,
+  "2024-02-16": 32104,
+  "2024-02-17": 32109,
+  "2024-02-18": 32136,
+  "2024-02-19": 32150,
+  "2024-02-20": 32159,
+  "2024-02-21": 32166,
+  "2024-02-22": 32173,
+  "2024-02-23": 32188,
+  "2024-02-24": 32200,
+  "2024-02-25": 32207,
+  "2024-02-26": 32209,
+  "2024-02-27": 32228,
+  "2024-02-28": 32228,
+  "2024-02-29": 32241,
+  "2024-03-01": 32248,
+  "2024-03-02": 32258,
+  "2024-03-03": 32274,
+  "2024-03-04": 32288,
+  "2024-03-05": 32301,
+  "2024-03-06": 32313,
+  "2024-03-07": 32317,
+  "2024-03-08": 32323,
+  "2024-03-09": 32336,
+  "2024-03-10": 32350,
+  "2024-03-11": 32360,
+  "2024-03-12": 32363,
+  "2024-03-13": 32378,
+  "2024-03-14": 32393,
+  "2024-03-15": 32407,
+  "2024-03-16": 32424,
+  "2024-03-17": 32444,
+  "2024-03-18": 32458,
+  "2024-03-19": 32472,
+  "2024-03-20": 32481,
+  "2024-03-21": 32496,
+  "2024-03-22": 32518,
+  "2024-03-23": 32536,
+  "2024-03-24": 32554,
+  "2024-03-25": 32570,
+  "2024-03-26": 32586,
+  "2024-03-27": 32612,
+  "2024-03-28": 32612,
+  "2024-03-29": 32657,
+  "2024-03-30": 32657,
+  "2024-03-31": 32667,
+  "2024-04-01": 32684,
+  "2024-04-02": 32688,
+  "2024-04-03": 32694,
+  "2024-04-04": 32698,
+  "2024-04-05": 32713,
+  "2024-04-06": 32728,
+  "2024-04-07": 32743,
+  "2024-04-08": 32752,
+  "2024-04-09": 32752,
+  "2024-04-10": 32766,
+  "2024-04-11": 32779,
+  "2024-04-12": 32794,
+  "2024-04-13": 32798,
+  "2024-04-14": 32822,
+  "2024-04-15": 32838,
+  "2024-04-16": 32844,
+  "2024-04-17": 32859,
+  "2024-04-19": 32912,
+  "2024-04-20": 32927,
+  "2024-04-21": 32950,
+  "2024-04-22": 32958,
+  "2024-04-23": 32972,
+  "2024-04-24": 32996,
+  "2024-04-25": 33001,
+  "2024-04-26": 33012,
+  "2024-04-27": 33025,
+  "2024-04-28": 33048,
+  "2024-04-29": 33065,
+  "2024-04-30": 33078,
+  "2024-05-01": 33089,
+  "2024-05-02": 33100,
+  "2024-05-03": 33121,
+  "2024-05-04": 33123,
+  "2024-05-05": 33141
 }

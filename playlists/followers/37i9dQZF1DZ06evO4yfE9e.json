@@ -1,455 +1,117 @@
 {
-  "2024-05-05": 1006,
-  "date_first_scraped": "2024-01-11",
-  "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "name": "This Is bludnymph",
-  "tracks": [
-    {
-      "album": {
-        "name": "6izarre RAVE (with 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168000,
-      "name": "6izarre RAVE (with 6arelyhuman)",
-      "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
-    },
-    {
-      "album": {
-        "name": "Bizarre feat. 6arelyhuman",
-        "url": "https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163576,
-      "name": "Bizarre feat. 6arelyhuman",
-      "url": "https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH"
-    },
-    {
-      "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178333,
-      "name": "BODY PARTS (Full Frontal)",
-      "url": "https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5"
-    },
-    {
-      "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165161,
-      "name": "DarkMagicSillySexy (origin story)",
-      "url": "https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC"
-    },
-    {
-      "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
-    },
-    {
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS"
-    },
-    {
-      "album": {
-        "name": "FEAST",
-        "url": "https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 125100,
-      "name": "FEAST",
-      "url": "https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP"
-    },
-    {
-      "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
-    },
-    {
-      "album": {
-        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-        "url": "https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159069,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa"
-    },
-    {
-      "album": {
-        "name": "Lickity Splickity",
-        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149760,
-      "name": "Lickity Splickity",
-      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
-    },
-    {
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143233,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
-    },
-    {
-      "album": {
-        "name": "Moonwater",
-        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112566,
-      "name": "Moonwater",
-      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
-    },
-    {
-      "album": {
-        "name": "Mozart",
-        "url": "https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 97272,
-      "name": "Mozart",
-      "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
-    },
-    {
-      "album": {
-        "name": "ORAL HEX (spell on you)",
-        "url": "https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194545,
-      "name": "ORAL HEX (spell on you)",
-      "url": "https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6"
-    },
-    {
-      "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169655,
-      "name": "Personal Pornstar",
-      "url": "https://open.spotify.com/track/5Vog7jNSAPcmcxqaxaLcQ0"
-    },
-    {
-      "album": {
-        "name": "Popsicle (Extra Sticky)",
-        "url": "https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110000,
-      "name": "Popsicle",
-      "url": "https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1"
-    },
-    {
-      "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-03-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224541,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
-    },
-    {
-      "album": {
-        "name": "Press It (Fast & Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 121763,
-      "name": "Press It - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1"
-    },
-    {
-      "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
-    },
-    {
-      "album": {
-        "name": "Steve Aoki (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
-      },
-      "artists": [
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150857,
-      "name": "Steve Aoki (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
-    },
-    {
-      "album": {
-        "name": "The Things I Do For Love",
-        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160588,
-      "name": "The Things I Do For Love",
-      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
-    },
-    {
-      "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137647,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e"
+  "2024-01-11": 43,
+  "2024-01-12": 55,
+  "2024-01-13": 70,
+  "2024-01-14": 88,
+  "2024-01-15": 88,
+  "2024-01-16": 96,
+  "2024-01-17": 106,
+  "2024-01-18": 118,
+  "2024-01-19": 132,
+  "2024-01-20": 133,
+  "2024-01-21": 145,
+  "2024-01-22": 154,
+  "2024-01-23": 166,
+  "2024-01-24": 172,
+  "2024-01-25": 180,
+  "2024-01-26": 186,
+  "2024-01-27": 204,
+  "2024-01-28": 209,
+  "2024-01-29": 215,
+  "2024-01-30": 218,
+  "2024-01-31": 220,
+  "2024-02-01": 225,
+  "2024-02-02": 236,
+  "2024-02-03": 248,
+  "2024-02-04": 254,
+  "2024-02-05": 262,
+  "2024-02-06": 265,
+  "2024-02-07": 273,
+  "2024-02-08": 282,
+  "2024-02-09": 290,
+  "2024-02-10": 298,
+  "2024-02-11": 309,
+  "2024-02-12": 313,
+  "2024-02-13": 327,
+  "2024-02-14": 337,
+  "2024-02-15": 344,
+  "2024-02-16": 353,
+  "2024-02-17": 367,
+  "2024-02-18": 381,
+  "2024-02-19": 392,
+  "2024-02-20": 402,
+  "2024-02-21": 409,
+  "2024-02-22": 414,
+  "2024-02-23": 426,
+  "2024-02-24": 437,
+  "2024-02-25": 448,
+  "2024-02-26": 451,
+  "2024-02-27": 466,
+  "2024-02-28": 466,
+  "2024-02-29": 480,
+  "2024-03-01": 492,
+  "2024-03-02": 496,
+  "2024-03-03": 502,
+  "2024-03-04": 507,
+  "2024-03-05": 515,
+  "2024-03-06": 525,
+  "2024-03-07": 537,
+  "2024-03-08": 546,
+  "2024-03-09": 557,
+  "2024-03-10": 565,
+  "2024-03-11": 572,
+  "2024-03-12": 583,
+  "2024-03-13": 590,
+  "2024-03-14": 603,
+  "2024-03-15": 612,
+  "2024-03-16": 621,
+  "2024-03-17": 626,
+  "2024-03-18": 632,
+  "2024-03-19": 640,
+  "2024-03-20": 655,
+  "2024-03-21": 664,
+  "2024-03-22": 674,
+  "2024-03-23": 678,
+  "2024-03-24": 686,
+  "2024-03-25": 691,
+  "2024-03-26": 697,
+  "2024-03-27": 713,
+  "2024-03-28": 713,
+  "2024-03-29": 733,
+  "2024-03-30": 733,
+  "2024-03-31": 739,
+  "2024-04-01": 743,
+  "2024-04-02": 754,
+  "2024-04-03": 758,
+  "2024-04-04": 762,
+  "2024-04-05": 772,
+  "2024-04-06": 781,
+  "2024-04-07": 790,
+  "2024-04-08": 815,
+  "2024-04-09": 815,
+  "2024-04-10": 828,
+  "2024-04-11": 839,
+  "2024-04-12": 851,
+  "2024-04-13": 857,
+  "2024-04-14": 864,
+  "2024-04-15": 873,
+  "2024-04-16": 879,
+  "2024-04-17": 887,
+  "2024-04-19": 904,
+  "2024-04-20": 911,
+  "2024-04-21": 917,
+  "2024-04-22": 926,
+  "2024-04-23": 932,
+  "2024-04-24": 938,
+  "2024-04-25": 940,
+  "2024-04-26": 947,
+  "2024-04-27": 953,
+  "2024-04-28": 957,
+  "2024-04-29": 968,
+  "2024-04-30": 976,
+  "2024-05-01": 979,
+  "2024-05-02": 984,
+  "2024-05-03": 992,
+  "2024-05-04": 994,
+  "2024-05-05": 1006
 }

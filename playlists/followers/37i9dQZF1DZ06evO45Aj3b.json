@@ -1,617 +1,139 @@
 {
-  "2024-05-05": 75070,
-  "date_first_scraped": "2023-12-19",
-  "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "name": "This Is Dominic Fike",
-  "tracks": [
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 75585,
-      "name": "10x Stronger",
-      "url": "https://open.spotify.com/track/3xLU29XDzxUllbDjLumKf7"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126232,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/6OrCWnvAja4n5IYdzchJlH"
-    },
-    {
-      "album": {
-        "name": "A\u00e7a\u00ed Bowl",
-        "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177400,
-      "name": "A\u00e7a\u00ed Bowl",
-      "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124504,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y"
-    },
-    {
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198425,
-      "name": "Die For You (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
-    },
-    {
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 76480,
-      "name": "Dominic\u2019s Interlude",
-      "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
-    },
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126465,
-      "name": "Double Negative (Skeleton Milkshake)",
-      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
-    },
-    {
-      "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 108533,
-      "name": "Falling Asleep",
-      "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 115618,
-      "name": "Frisky",
-      "url": "https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2"
-    },
-    {
-      "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141807,
-      "name": "Hey Blondie",
-      "url": "https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 125055,
-      "name": "How Much Is Weed?",
-      "url": "https://open.spotify.com/track/44KWbTVZev3SWdv1t5UoYE"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194360,
-      "name": "King of Everything",
-      "url": "https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2024-01-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
-    },
-    {
-      "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
-    },
-    {
-      "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209970,
-      "name": "Photo ID (with Dominic Fike)",
-      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
-    },
-    {
-      "album": {
-        "name": "Rollerblades",
-        "url": "https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134066,
-      "name": "Rollerblades",
-      "url": "https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133560,
-      "name": "She Wants My Money",
-      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
-      "duration_ms": 131173,
-      "name": "Socks",
-      "url": "https://open.spotify.com/track/05fTCmfInpZXpb5Xn1GKGs"
-    },
-    {
-      "album": {
-        "name": "Will You Be My Yellow?",
-        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173349,
-      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
-    },
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 127054,
-      "name": "Superstar Sh*t",
-      "url": "https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O"
-    },
-    {
-      "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143530,
-      "name": "The Kiss Of Venus (Dominic Fike)",
-      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
-    },
-    {
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222839,
-      "name": "Think Fast (feat. Weezer)",
-      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
-    },
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186050,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK"
-    },
-    {
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 107280,
-      "name": "Westcoast Collective",
-      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
-    },
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139906,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
-    },
-    {
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150620,
-      "name": "Wurli",
-      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO45Aj3b"
+  "2023-12-19": 68230,
+  "2023-12-20": 68286,
+  "2023-12-21": 68332,
+  "2023-12-22": 68389,
+  "2023-12-23": 68442,
+  "2023-12-24": 68488,
+  "2023-12-25": 68527,
+  "2023-12-26": 68556,
+  "2023-12-27": 68603,
+  "2023-12-29": 68603,
+  "2023-12-30": 68763,
+  "2023-12-31": 68813,
+  "2024-01-01": 68869,
+  "2024-01-02": 68903,
+  "2024-01-03": 68946,
+  "2024-01-04": 69006,
+  "2024-01-05": 69098,
+  "2024-01-06": 69179,
+  "2024-01-07": 69263,
+  "2024-01-08": 69414,
+  "2024-01-09": 69471,
+  "2024-01-10": 69471,
+  "2024-01-11": 69537,
+  "2024-01-12": 69599,
+  "2024-01-13": 69667,
+  "2024-01-14": 69760,
+  "2024-01-15": 69760,
+  "2024-01-16": 69795,
+  "2024-01-17": 69858,
+  "2024-01-18": 69922,
+  "2024-01-19": 69996,
+  "2024-01-20": 70062,
+  "2024-01-21": 70118,
+  "2024-01-22": 70171,
+  "2024-01-23": 70233,
+  "2024-01-24": 70268,
+  "2024-01-25": 70319,
+  "2024-01-26": 70384,
+  "2024-01-27": 70453,
+  "2024-01-28": 70506,
+  "2024-01-29": 70565,
+  "2024-01-30": 70613,
+  "2024-01-31": 70657,
+  "2024-02-01": 70700,
+  "2024-02-02": 70735,
+  "2024-02-03": 70802,
+  "2024-02-04": 70842,
+  "2024-02-05": 70919,
+  "2024-02-06": 70987,
+  "2024-02-07": 71051,
+  "2024-02-08": 71127,
+  "2024-02-09": 71175,
+  "2024-02-10": 71233,
+  "2024-02-11": 71284,
+  "2024-02-12": 71341,
+  "2024-02-13": 71392,
+  "2024-02-14": 71444,
+  "2024-02-15": 71482,
+  "2024-02-16": 71538,
+  "2024-02-17": 71589,
+  "2024-02-18": 71637,
+  "2024-02-19": 71673,
+  "2024-02-20": 71722,
+  "2024-02-21": 71747,
+  "2024-02-22": 71784,
+  "2024-02-23": 71835,
+  "2024-02-24": 71874,
+  "2024-02-25": 71902,
+  "2024-02-26": 71933,
+  "2024-02-27": 72015,
+  "2024-02-28": 72015,
+  "2024-02-29": 72054,
+  "2024-03-01": 72114,
+  "2024-03-02": 72154,
+  "2024-03-03": 72188,
+  "2024-03-04": 72230,
+  "2024-03-05": 72271,
+  "2024-03-06": 72306,
+  "2024-03-07": 72352,
+  "2024-03-08": 72399,
+  "2024-03-09": 72442,
+  "2024-03-10": 72489,
+  "2024-03-11": 72519,
+  "2024-03-12": 72543,
+  "2024-03-13": 72579,
+  "2024-03-14": 72620,
+  "2024-03-15": 72665,
+  "2024-03-16": 72733,
+  "2024-03-17": 72771,
+  "2024-03-18": 72806,
+  "2024-03-19": 72846,
+  "2024-03-20": 72886,
+  "2024-03-21": 72920,
+  "2024-03-22": 72971,
+  "2024-03-23": 73010,
+  "2024-03-24": 73060,
+  "2024-03-25": 73098,
+  "2024-03-26": 73141,
+  "2024-03-27": 73245,
+  "2024-03-28": 73245,
+  "2024-03-29": 73339,
+  "2024-03-30": 73339,
+  "2024-03-31": 73368,
+  "2024-04-01": 73396,
+  "2024-04-02": 73424,
+  "2024-04-03": 73467,
+  "2024-04-04": 73496,
+  "2024-04-05": 73545,
+  "2024-04-06": 73588,
+  "2024-04-07": 73618,
+  "2024-04-08": 73700,
+  "2024-04-09": 73700,
+  "2024-04-10": 73733,
+  "2024-04-11": 73784,
+  "2024-04-12": 73835,
+  "2024-04-13": 73873,
+  "2024-04-14": 73933,
+  "2024-04-15": 73957,
+  "2024-04-16": 74006,
+  "2024-04-17": 74058,
+  "2024-04-19": 74158,
+  "2024-04-20": 74200,
+  "2024-04-21": 74253,
+  "2024-04-22": 74287,
+  "2024-04-23": 74336,
+  "2024-04-24": 74393,
+  "2024-04-25": 74422,
+  "2024-04-26": 74483,
+  "2024-04-27": 74534,
+  "2024-04-28": 74597,
+  "2024-04-29": 74659,
+  "2024-04-30": 74704,
+  "2024-05-01": 74782,
+  "2024-05-02": 74837,
+  "2024-05-03": 74921,
+  "2024-05-04": 75009,
+  "2024-05-05": 75070
 }

@@ -1,369 +1,117 @@
 {
-  "2024-05-05": 29670,
-  "date_first_scraped": "2024-01-11",
-  "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "name": "This Is Isabel LaRosa",
-  "tracks": [
-    {
-      "album": {
-        "name": "16 Candles",
-        "url": "https://open.spotify.com/album/5vUGgKV0bpOQ645bszOfZq"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148159,
-      "name": "16 Candles",
-      "url": "https://open.spotify.com/track/7qvB5smqDwXVlMQ86W6XeJ"
-    },
-    {
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144474,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy"
-    },
-    {
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207307,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
-    },
-    {
-      "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150720,
-      "name": "eyes don't lie",
-      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
-    },
-    {
-      "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129931,
-      "name": "eyes don't lie sped up",
-      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
-    },
-    {
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-03-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
-    },
-    {
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-03-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122576,
-      "name": "favorite sped up",
-      "url": "https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob"
-    },
-    {
-      "album": {
-        "name": "HAUNTED",
-        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137851,
-      "name": "HAUNTED",
-      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
-    },
-    {
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
-    },
-    {
-      "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
-    },
-    {
-      "album": {
-        "name": "HELP",
-        "url": "https://open.spotify.com/album/6CydFdcFJFwqV5yXUR8LRb"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136000,
-      "name": "HELP",
-      "url": "https://open.spotify.com/track/27UPUoSlHZUo11BTf5dKeJ"
-    },
-    {
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164000,
-      "name": "i don't forgive you",
-      "url": "https://open.spotify.com/track/6D2HY29PYcdXCicrs55Icx"
-    },
-    {
-      "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145667,
-      "name": "i'm yours",
-      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
-    },
-    {
-      "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
-    },
-    {
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147568,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
-    },
-    {
-      "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
-    },
-    {
-      "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 125252,
-      "name": "older sped up",
-      "url": "https://open.spotify.com/track/75EIDyYc0excxUOzold15R"
-    },
-    {
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166452,
-      "name": "praying",
-      "url": "https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR"
-    },
-    {
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5j1y9v7z07RcLBUyTvMvUx"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138333,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/4KyTnzwdUOh7Tyr4oVhCdg"
-    },
-    {
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156891,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/6bBNc3V3PduYNL22lbed5R"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8"
+  "2024-01-11": 15044,
+  "2024-01-12": 15106,
+  "2024-01-13": 15167,
+  "2024-01-14": 15271,
+  "2024-01-15": 15271,
+  "2024-01-16": 15324,
+  "2024-01-17": 15365,
+  "2024-01-18": 15420,
+  "2024-01-19": 15457,
+  "2024-01-20": 15522,
+  "2024-01-21": 15582,
+  "2024-01-22": 15629,
+  "2024-01-23": 15672,
+  "2024-01-24": 15721,
+  "2024-01-25": 15772,
+  "2024-01-26": 15821,
+  "2024-01-27": 15863,
+  "2024-01-28": 15917,
+  "2024-01-29": 15943,
+  "2024-01-30": 15980,
+  "2024-01-31": 16014,
+  "2024-02-01": 16055,
+  "2024-02-02": 16090,
+  "2024-02-03": 16135,
+  "2024-02-04": 16171,
+  "2024-02-05": 16225,
+  "2024-02-06": 16268,
+  "2024-02-07": 16316,
+  "2024-02-08": 16366,
+  "2024-02-09": 16419,
+  "2024-02-10": 16481,
+  "2024-02-11": 16550,
+  "2024-02-12": 16657,
+  "2024-02-13": 16774,
+  "2024-02-14": 16886,
+  "2024-02-15": 17023,
+  "2024-02-16": 17140,
+  "2024-02-17": 17302,
+  "2024-02-18": 17436,
+  "2024-02-19": 17602,
+  "2024-02-20": 17745,
+  "2024-02-21": 17890,
+  "2024-02-22": 18016,
+  "2024-02-23": 18146,
+  "2024-02-24": 18253,
+  "2024-02-25": 18373,
+  "2024-02-26": 18470,
+  "2024-02-27": 18648,
+  "2024-02-28": 18648,
+  "2024-02-29": 18728,
+  "2024-03-01": 18803,
+  "2024-03-02": 18874,
+  "2024-03-03": 18974,
+  "2024-03-04": 19069,
+  "2024-03-05": 19156,
+  "2024-03-06": 19242,
+  "2024-03-07": 19341,
+  "2024-03-08": 19436,
+  "2024-03-09": 19541,
+  "2024-03-10": 19633,
+  "2024-03-11": 19762,
+  "2024-03-12": 19894,
+  "2024-03-13": 20008,
+  "2024-03-14": 20134,
+  "2024-03-15": 20256,
+  "2024-03-16": 20419,
+  "2024-03-17": 20579,
+  "2024-03-18": 20748,
+  "2024-03-19": 20915,
+  "2024-03-20": 21065,
+  "2024-03-21": 21183,
+  "2024-03-22": 21314,
+  "2024-03-23": 21428,
+  "2024-03-24": 21535,
+  "2024-03-25": 21667,
+  "2024-03-26": 21766,
+  "2024-03-27": 22033,
+  "2024-03-28": 22033,
+  "2024-03-29": 22541,
+  "2024-03-30": 22541,
+  "2024-03-31": 22845,
+  "2024-04-01": 23161,
+  "2024-04-02": 23433,
+  "2024-04-03": 23672,
+  "2024-04-04": 23884,
+  "2024-04-05": 24081,
+  "2024-04-06": 24273,
+  "2024-04-07": 24465,
+  "2024-04-08": 24825,
+  "2024-04-09": 24825,
+  "2024-04-10": 25019,
+  "2024-04-11": 25212,
+  "2024-04-12": 25403,
+  "2024-04-13": 25604,
+  "2024-04-14": 25810,
+  "2024-04-15": 26002,
+  "2024-04-16": 26156,
+  "2024-04-17": 26321,
+  "2024-04-19": 26723,
+  "2024-04-20": 26858,
+  "2024-04-21": 27036,
+  "2024-04-22": 27215,
+  "2024-04-23": 27389,
+  "2024-04-24": 27694,
+  "2024-04-25": 27749,
+  "2024-04-26": 27892,
+  "2024-04-27": 28045,
+  "2024-04-28": 28237,
+  "2024-04-29": 28441,
+  "2024-04-30": 28617,
+  "2024-05-01": 28822,
+  "2024-05-02": 29006,
+  "2024-05-03": 29257,
+  "2024-05-04": 29443,
+  "2024-05-05": 29670
 }

@@ -1,477 +1,98 @@
 {
-  "2024-05-05": 810,
-  "date_first_scraped": "2024-01-30",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6bllSJNua7UnV0Nr9wFwmE\">girl in red</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "name": "Written By girl in red",
-  "tracks": [
-    {
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110861,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205240,
-      "name": "Apartment 402",
-      "url": "https://open.spotify.com/track/1IvX2Dtx4OGoRy6E7fxcA6"
-    },
-    {
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186672,
-      "name": "Body And Mind",
-      "url": "https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF"
-    },
-    {
-      "album": {
-        "name": "dead girl in the pool.",
-        "url": "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186642,
-      "name": "dead girl in the pool.",
-      "url": "https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190884,
-      "name": "Did You Come?",
-      "url": "https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny"
-    },
-    {
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143355,
-      "name": "forget her",
-      "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
-    },
-    {
-      "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175694,
-      "name": "hornylovesickmess",
-      "url": "https://open.spotify.com/track/6JOv2beX03Jnvxj578vm4A"
-    },
-    {
-      "album": {
-        "name": "i need to be alone.",
-        "url": "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176500,
-      "name": "i need to be alone.",
-      "url": "https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY"
-    },
-    {
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201945,
-      "name": "I'll Call You Mine",
-      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
-    },
-    {
-      "album": {
-        "name": "i'll die anyway.",
-        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192612,
-      "name": "i'll die anyway.",
-      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 80481,
-      "name": "it would feel like this",
-      "url": "https://open.spotify.com/track/0o2KnhHD5nFFgbfL6cQtY7"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193928,
-      "name": "midnight love",
-      "url": "https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA"
-    },
-    {
-      "album": {
-        "name": "October Passed Me By (Music Video)",
-        "url": "https://open.spotify.com/album/2DVVC7uYgSWwPFECeRmlEE"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-30",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
-      "duration_ms": 164608,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/2bhylKe83FesbFkLPITGHh"
-    },
-    {
-      "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216831,
-      "name": "Rue",
-      "url": "https://open.spotify.com/track/4EoE743bWWiZ4ttkdPCNbA"
-    },
-    {
-      "album": {
-        "name": "say anything",
-        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142700,
-      "name": "say anything",
-      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
-    },
-    {
-      "album": {
-        "name": "MOOMINVALLEY 2 (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205591,
-      "name": "something new",
-      "url": "https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0"
-    },
-    {
-      "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
-    },
-    {
-      "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
-    },
-    {
-      "album": {
-        "name": "watch you sleep.",
-        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180225,
-      "name": "watch you sleep.",
-      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
-    },
-    {
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1EFAeP0qvE2oQs"
+  "2024-01-30": 829,
+  "2024-01-31": 829,
+  "2024-02-01": 829,
+  "2024-02-02": 828,
+  "2024-02-03": 828,
+  "2024-02-04": 828,
+  "2024-02-05": 829,
+  "2024-02-06": 828,
+  "2024-02-07": 828,
+  "2024-02-08": 828,
+  "2024-02-09": 828,
+  "2024-02-10": 827,
+  "2024-02-11": 827,
+  "2024-02-12": 828,
+  "2024-02-13": 828,
+  "2024-02-14": 827,
+  "2024-02-15": 828,
+  "2024-02-16": 827,
+  "2024-02-17": 826,
+  "2024-02-18": 827,
+  "2024-02-19": 827,
+  "2024-02-20": 826,
+  "2024-02-21": 826,
+  "2024-02-22": 826,
+  "2024-02-23": 827,
+  "2024-02-24": 828,
+  "2024-02-25": 828,
+  "2024-02-26": 828,
+  "2024-02-27": 829,
+  "2024-02-28": 829,
+  "2024-02-29": 827,
+  "2024-03-01": 826,
+  "2024-03-02": 826,
+  "2024-03-03": 825,
+  "2024-03-04": 825,
+  "2024-03-05": 825,
+  "2024-03-06": 825,
+  "2024-03-07": 825,
+  "2024-03-08": 823,
+  "2024-03-09": 821,
+  "2024-03-10": 820,
+  "2024-03-11": 819,
+  "2024-03-12": 819,
+  "2024-03-13": 820,
+  "2024-03-14": 820,
+  "2024-03-15": 821,
+  "2024-03-16": 821,
+  "2024-03-17": 822,
+  "2024-03-18": 821,
+  "2024-03-19": 821,
+  "2024-03-20": 821,
+  "2024-03-21": 821,
+  "2024-03-22": 821,
+  "2024-03-23": 821,
+  "2024-03-24": 821,
+  "2024-03-25": 821,
+  "2024-03-26": 819,
+  "2024-03-27": 818,
+  "2024-03-28": 818,
+  "2024-03-29": 818,
+  "2024-03-30": 818,
+  "2024-03-31": 818,
+  "2024-04-01": 816,
+  "2024-04-02": 816,
+  "2024-04-03": 816,
+  "2024-04-04": 816,
+  "2024-04-05": 816,
+  "2024-04-06": 816,
+  "2024-04-07": 815,
+  "2024-04-08": 815,
+  "2024-04-09": 815,
+  "2024-04-10": 815,
+  "2024-04-11": 815,
+  "2024-04-12": 815,
+  "2024-04-13": 814,
+  "2024-04-14": 814,
+  "2024-04-15": 814,
+  "2024-04-16": 814,
+  "2024-04-17": 814,
+  "2024-04-19": 814,
+  "2024-04-20": 814,
+  "2024-04-21": 814,
+  "2024-04-22": 814,
+  "2024-04-23": 814,
+  "2024-04-24": 813,
+  "2024-04-25": 812,
+  "2024-04-26": 812,
+  "2024-04-27": 812,
+  "2024-04-28": 812,
+  "2024-04-29": 812,
+  "2024-04-30": 812,
+  "2024-05-01": 812,
+  "2024-05-02": 812,
+  "2024-05-03": 811,
+  "2024-05-04": 810,
+  "2024-05-05": 810
 }

@@ -1,207 +1,40 @@
 {
-  "2024-05-05": 7050,
-  "date_first_scraped": "2024-03-28",
-  "description": "SPORT FREI! <a href=\"http://www.rammstein.com\">RAMMSTEIN</a>",
-  "name": "Sport frei!",
-  "tracks": [
-    {
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
-    },
-    {
-      "album": {
-        "name": "Made In Germany 1995 - 2011 (Special Edition)",
-        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272706,
-      "name": "Du riechst so gut",
-      "url": "https://open.spotify.com/track/1jj1iCvo4LbprmQnO4Aq87"
-    },
-    {
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217106,
-      "name": "Ich will",
-      "url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko"
-    },
-    {
-      "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222933,
-      "name": "Keine Lust",
-      "url": "https://open.spotify.com/track/7eeDeUM9E7b0vkDfRz20Zt"
-    },
-    {
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216733,
-      "name": "Links 2 3 4",
-      "url": "https://open.spotify.com/track/52XYwQKlXp7scE7KrBBCID"
-    },
-    {
-      "album": {
-        "name": "Rosenrot",
-        "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230560,
-      "name": "Mann gegen Mann",
-      "url": "https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB"
-    },
-    {
-      "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248253,
-      "name": "Mehr",
-      "url": "https://open.spotify.com/track/46FUbtFPleDVCwlNtTPOBN"
-    },
-    {
-      "album": {
-        "name": "Made In Germany 1995 - 2011 (Special Edition)",
-        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233186,
-      "name": "Mein Land",
-      "url": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa"
-    },
-    {
-      "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239866,
-      "name": "Morgenstern",
-      "url": "https://open.spotify.com/track/0gf9HMeZDXRexbuM5CihZg"
-    },
-    {
-      "album": {
-        "name": "Rosenrot",
-        "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 324666,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH"
-    },
-    {
-      "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "date_added": "2021-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251658,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6X5zsgjDlssIkv0sVYZgx1"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/0kclJOu5DS4uRvmBK0jdb0"
+  "2024-03-28": 6898,
+  "2024-03-29": 6908,
+  "2024-03-30": 6908,
+  "2024-03-31": 6912,
+  "2024-04-01": 6916,
+  "2024-04-02": 6917,
+  "2024-04-03": 6919,
+  "2024-04-04": 6924,
+  "2024-04-05": 6929,
+  "2024-04-06": 6931,
+  "2024-04-07": 6936,
+  "2024-04-08": 6944,
+  "2024-04-09": 6944,
+  "2024-04-10": 6946,
+  "2024-04-11": 6948,
+  "2024-04-12": 6953,
+  "2024-04-13": 6956,
+  "2024-04-14": 6962,
+  "2024-04-15": 6962,
+  "2024-04-16": 6966,
+  "2024-04-17": 6973,
+  "2024-04-19": 6984,
+  "2024-04-20": 6982,
+  "2024-04-21": 6988,
+  "2024-04-22": 6994,
+  "2024-04-23": 6999,
+  "2024-04-24": 7006,
+  "2024-04-25": 7008,
+  "2024-04-26": 7014,
+  "2024-04-27": 7022,
+  "2024-04-28": 7022,
+  "2024-04-29": 7024,
+  "2024-04-30": 7028,
+  "2024-05-01": 7033,
+  "2024-05-02": 7036,
+  "2024-05-03": 7041,
+  "2024-05-04": 7043,
+  "2024-05-05": 7050
 }

@@ -1,1437 +1,213 @@
 {
-  "2024-05-05": 6584,
-  "date_first_scraped": "2023-10-06",
-  "description": "Listen to the official playlist for LUPIN, now streaming on Netflix.",
-  "name": "LUPIN Official Playlist",
-  "tracks": [
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 80160,
-      "name": "Agent Ferel & Cie",
-      "url": "https://open.spotify.com/track/6Fh5NKWGDdn6ugB3QLUWCR"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147984,
-      "name": "Ars\u00e8ne",
-      "url": "https://open.spotify.com/track/3faxOU7DRY4OsafO3T7lbv"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 147984,
-      "name": "Ars\u00e8ne",
-      "url": "https://open.spotify.com/track/4vkmFustYM7mqMVZDIRDbj"
-    },
-    {
-      "album": {
-        "name": "Eat To The Beat",
-        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 280324,
-      "name": "Atomic",
-      "url": "https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc"
-    },
-    {
-      "album": {
-        "name": "Aux armes et caetera",
-        "url": "https://open.spotify.com/album/437n44rXu1XPP7pR075Fek"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187160,
-      "name": "Aux armes et caetera",
-      "url": "https://open.spotify.com/track/6Z1487JY6p3cVxs5JVXkMZ"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        },
-        {
-          "name": "Catherine Trottmann",
-          "url": "https://open.spotify.com/artist/1KQCmrvh7vx3BWGkvxzaZ0"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140765,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/0d3UnWMq6U5mXo6Xp61l0q"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 78352,
-      "name": "Cambrioleur",
-      "url": "https://open.spotify.com/track/1j6h4XjGFahWvBO97nUPJc"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 78352,
-      "name": "Cambrioleur",
-      "url": "https://open.spotify.com/track/43GOjofW885ZrPZJgIWaKx"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218714,
-      "name": "Carte Postale",
-      "url": "https://open.spotify.com/track/6pzFXsy7O34tbp3Dl9Ucq6"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 106998,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/2ufH5Rz4ypk3lZOl3hkkAQ"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106998,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/6yybxJJpCcHYY4hFKELh3Q"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 158325,
-      "name": "Coffre-fort",
-      "url": "https://open.spotify.com/track/1d5uvXuSr03yQwSznDb3yH"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158325,
-      "name": "Coffre-fort",
-      "url": "https://open.spotify.com/track/4DNQveBDseW0QVKJ0oRH7o"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113266,
-      "name": "Coulisses",
-      "url": "https://open.spotify.com/track/3bLy7ryZQG5i6X6c9PvpXr"
-    },
-    {
-      "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179978,
-      "name": "Cuz I Love You",
-      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132160,
-      "name": "Dans l'ombre d'Assane",
-      "url": "https://open.spotify.com/track/2o3ASwAvqTgH0yjlBsLTDZ"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 97142,
-      "name": "Diamants",
-      "url": "https://open.spotify.com/track/6rlhyOItXPs9yTarwrRYlR"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 97142,
-      "name": "Diamants",
-      "url": "https://open.spotify.com/track/7471MfTpjDlf2YK0f7TNF6"
-    },
-    {
-      "album": {
-        "name": "Volume 1 (3 albums: Super America, Soul Impressions, Pop Impressions)",
-        "url": "https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS"
-      },
-      "artists": [
-        {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191959,
-      "name": "Drug Song",
-      "url": "https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150173,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/0qk5TwpSIdPrWzKKucrkAK"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 103226,
-      "name": "En sc\u00e8ne !",
-      "url": "https://open.spotify.com/track/0DE27WM8ZXjB1Gtvj42kB6"
-    },
-    {
-      "album": {
-        "name": "Rituals",
-        "url": "https://open.spotify.com/album/12MSF8u9nEjGShsgteS0Lk"
-      },
-      "artists": [
-        {
-          "name": "Other Lives",
-          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279718,
-      "name": "English Summer",
-      "url": "https://open.spotify.com/track/4T5KWGGwXTxlT2hyGKDtHb"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 97958,
-      "name": "Etretat",
-      "url": "https://open.spotify.com/track/0TlKclpYp68stIJR6C6DtH"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 97958,
-      "name": "Etretat",
-      "url": "https://open.spotify.com/track/3gWkMoKNCZp8bSxeXJrVZF"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138484,
-      "name": "Etretat Variation & Remix",
-      "url": "https://open.spotify.com/track/0SAWsBEyvXv9fB7oCv9In6"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104893,
-      "name": "Ferel",
-      "url": "https://open.spotify.com/track/547PGlEASpHhDcMRQkaXly"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142391,
-      "name": "Filature",
-      "url": "https://open.spotify.com/track/2TNqRazl0ul8YlsNcduonK"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 70764,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/7a1pBEhISC6JWrUSWn3zUp"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 127661,
-      "name": "Gentleman",
-      "url": "https://open.spotify.com/track/0ZGqP6FD3SnG7kn9DonmWG"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 127661,
-      "name": "Gentleman",
-      "url": "https://open.spotify.com/track/5KkSIEBlxRa5qvBmFqkPVo"
-    },
-    {
-      "album": {
-        "name": "Gentleman cambrioleur (Remastered)",
-        "url": "https://open.spotify.com/album/0heE3Y3mMKEg3aS083r8zW"
-      },
-      "artists": [
-        {
-          "name": "Jacques Dutronc",
-          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187746,
-      "name": "Gentleman cambrioleur - Remastered 2004",
-      "url": "https://open.spotify.com/track/2steMN9MG8voyVYWeUvgLP"
-    },
-    {
-      "album": {
-        "name": "Que c'est triste Venise (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143466,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
-    },
-    {
-      "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 114462,
-      "name": "Inspecteur Ganimard",
-      "url": "https://open.spotify.com/track/1mwZcbED3OIwDeyPtOxOBt"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 84856,
-      "name": "Juliette",
-      "url": "https://open.spotify.com/track/5i64oW8cONNm3e4EVP2BLH"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 84856,
-      "name": "Juliette",
-      "url": "https://open.spotify.com/track/6qRnxaI6XfuwSQqZN1s10E"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224657,
-      "name": "Kidnapping",
-      "url": "https://open.spotify.com/track/6lCX03cOkbeus6awVwjBPg"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120931,
-      "name": "L'Aiguille Myst\u00e9rieuse",
-      "url": "https://open.spotify.com/track/4iljBEP9Jr9KRvEvPWf76w"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 120931,
-      "name": "L'Aiguille Myst\u00e9rieuse",
-      "url": "https://open.spotify.com/track/4m6vbvq9qP3Sb6WHkHheux"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120706,
-      "name": "L'arnaque",
-      "url": "https://open.spotify.com/track/6ZTIC6sTAbUBaWa5fEJS3V"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 193864,
-      "name": "L'Emeraude",
-      "url": "https://open.spotify.com/track/0JPYUoGpFM9GRjpnAUYvX8"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193864,
-      "name": "L'Emeraude",
-      "url": "https://open.spotify.com/track/41vVvXydasSoWhwhTyMx3X"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 83813,
-      "name": "L'indice",
-      "url": "https://open.spotify.com/track/6suga8xs9O6ITf3Yh5W0Qv"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171540,
-      "name": "La Ran\u00e7on",
-      "url": "https://open.spotify.com/track/0GEkU6BuJWB6jLKVlzipMl"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 312186,
-      "name": "La symphonie de Lupin",
-      "url": "https://open.spotify.com/track/6K56JGip4E4RMW64OOS56q"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 537766,
-      "name": "La Symphonie de Lupin - Version 2",
-      "url": "https://open.spotify.com/track/3X41jt6VlySv1NfVhiTy3R"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 313391,
-      "name": "Labyrinthe",
-      "url": "https://open.spotify.com/track/5RPsAb4WeLwFFMQOCPM7TV"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175675,
-      "name": "Le Fugitif",
-      "url": "https://open.spotify.com/track/1L42Y5rhAgRbOb63u9ev3V"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214000,
-      "name": "Le manoir myst\u00e9rieux",
-      "url": "https://open.spotify.com/track/3XRHCQJFIgV0vmsbsTiVAX"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231186,
-      "name": "Le secret",
-      "url": "https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 107578,
-      "name": "Le Voyageur",
-      "url": "https://open.spotify.com/track/2YUVrasGz1IGIQJ0Gvh1Mn"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 107578,
-      "name": "Le Voyageur",
-      "url": "https://open.spotify.com/track/7fckAKziNRGwKSmFbpMiMB"
-    },
-    {
-      "album": {
-        "name": "Harder Than Most",
-        "url": "https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc"
-      },
-      "artists": [
-        {
-          "name": "The MIDI Mafia",
-          "url": "https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd"
-        },
-        {
-          "name": "Chel Strong",
-          "url": "https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF"
-        },
-        {
-          "name": "Maxton Waller",
-          "url": "https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198633,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt"
-    },
-    {
-      "album": {
-        "name": "Harder Than Most",
-        "url": "https://open.spotify.com/album/6nnSoXCXZdohWiwjNpxcKg"
-      },
-      "artists": [
-        {
-          "name": "The Midi Mafia",
-          "url": "https://open.spotify.com/artist/3j8KMnhscmfQJnJU02GiUP"
-        },
-        {
-          "name": "Chel Strong",
-          "url": "https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF"
-        },
-        {
-          "name": "Maxton Waller",
-          "url": "https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 198633,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/565FPWYEoRvyWOWoFu3H5k"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 182432,
-      "name": "Les Confidences d'Assane",
-      "url": "https://open.spotify.com/track/218GOxETKfxXBYcOp9u6QC"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182432,
-      "name": "Les Confidences d'Assane",
-      "url": "https://open.spotify.com/track/24qs57ZwVSVIzCZ7YZsa9V"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161706,
-      "name": "Les huit coups",
-      "url": "https://open.spotify.com/track/62OAOVVnY09o27Zz4UMDU9"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 120389,
-      "name": "Les Huits Coups Variation & Remix",
-      "url": "https://open.spotify.com/track/4Uo9ALbPCxENKfryv2tfCO"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201480,
-      "name": "Les milliards",
-      "url": "https://open.spotify.com/track/6vLFnXyxPIrB0lIZTuRvel"
-    },
-    {
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 191453,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6gXdJ8Z7S7tDRCBmXLFiah"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191453,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6ut7kdvJqPma6WALk72Zfo"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 232149,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/2KKCxNTg9KBP6MEGTez84a"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232149,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/4U3wYpZPW7aXyUeL2tPtZd"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110280,
-      "name": "L\u00e9onard",
-      "url": "https://open.spotify.com/track/6ty0frSNq70ms6lhxKoLtB"
-    },
-    {
-      "album": {
-        "name": "The Human Octopus",
-        "url": "https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0"
-      },
-      "artists": [
-        {
-          "name": "Cascadeur",
-          "url": "https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177333,
-      "name": "Meaning - Choral Version",
-      "url": "https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9"
-    },
-    {
-      "album": {
-        "name": "S'il Suffisait D'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248093,
-      "name": "On ne change pas",
-      "url": "https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112696,
-      "name": "Pellegrini",
-      "url": "https://open.spotify.com/track/4N2R4evsVGjYmfLsWsyT4z"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 1 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6fdZEw92GNHhT0WwyxlGpI"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 112696,
-      "name": "Pellegrini",
-      "url": "https://open.spotify.com/track/69fYwthQKpGZjRkl0oEil6"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174981,
-      "name": "Perle Noire",
-      "url": "https://open.spotify.com/track/0HJuqMfcnYd7cKugqMuk7h"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 428934,
-      "name": "Place Vend\u00f4me",
-      "url": "https://open.spotify.com/track/6vGpXBWvyGLtYiEMKDogQq"
-    },
-    {
-      "album": {
-        "name": "Lupin, Pt. 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0do3a69YUs8eMhGE9p5yjK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238540,
-      "name": "P\u00e8re-Lachaise",
-      "url": "https://open.spotify.com/track/4qsmHHqjcFtZR1yIyeUPrt"
-    },
-    {
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178960,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/2ELbFFbETUl4NYM7mWTmwj"
-    },
-    {
-      "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
-    },
-    {
-      "album": {
-        "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Lamboley",
-          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138186,
-      "name": "Sueur froide",
-      "url": "https://open.spotify.com/track/3tkIWduGjzVo4bueG5ISni"
-    },
-    {
-      "album": {
-        "name": "Entertaining Made Simple: Mojitos, Mariscos, and Mambo",
-        "url": "https://open.spotify.com/album/5DiYz0awS3yRmk7e0K2KTG"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158666,
-      "name": "Sway (with P\u00e9rez Prado y Su Orquesta)",
-      "url": "https://open.spotify.com/track/3WI631zHHQ5PuSMkywWHGT"
-    },
-    {
-      "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Linda Lyndell",
-          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160373,
-      "name": "What A Man",
-      "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3vKaUkaHiqZ"
+  "2023-10-06": 3352,
+  "2023-10-07": 3378,
+  "2023-10-08": 3434,
+  "2023-10-09": 3498,
+  "2023-10-10": 3585,
+  "2023-10-11": 3709,
+  "2023-10-12": 3709,
+  "2023-10-13": 3764,
+  "2023-10-14": 3833,
+  "2023-10-15": 3894,
+  "2023-10-16": 3968,
+  "2023-10-17": 4030,
+  "2023-10-18": 4076,
+  "2023-10-19": 4140,
+  "2023-10-20": 4191,
+  "2023-10-21": 4237,
+  "2023-10-22": 4285,
+  "2023-10-23": 4338,
+  "2023-10-24": 4384,
+  "2023-10-25": 4424,
+  "2023-10-26": 4460,
+  "2023-10-27": 4499,
+  "2023-10-28": 4527,
+  "2023-10-29": 4559,
+  "2023-10-30": 4635,
+  "2023-10-31": 4635,
+  "2023-11-01": 4664,
+  "2023-11-02": 4692,
+  "2023-11-03": 4727,
+  "2023-11-04": 4754,
+  "2023-11-05": 4791,
+  "2023-11-06": 4826,
+  "2023-11-07": 4852,
+  "2023-11-08": 4875,
+  "2023-11-09": 4904,
+  "2023-11-10": 4925,
+  "2023-11-11": 4949,
+  "2023-11-12": 4969,
+  "2023-11-13": 4994,
+  "2023-11-14": 5016,
+  "2023-11-15": 5016,
+  "2023-11-16": 5058,
+  "2023-11-17": 5101,
+  "2023-11-18": 5101,
+  "2023-11-19": 5135,
+  "2023-11-20": 5170,
+  "2023-11-21": 5191,
+  "2023-11-22": 5214,
+  "2023-11-23": 5238,
+  "2023-11-24": 5255,
+  "2023-11-25": 5275,
+  "2023-11-26": 5288,
+  "2023-11-27": 5313,
+  "2023-11-28": 5330,
+  "2023-11-29": 5369,
+  "2023-11-30": 5369,
+  "2023-12-01": 5387,
+  "2023-12-02": 5405,
+  "2023-12-03": 5428,
+  "2023-12-04": 5461,
+  "2023-12-05": 5474,
+  "2023-12-06": 5499,
+  "2023-12-07": 5512,
+  "2023-12-08": 5525,
+  "2023-12-09": 5537,
+  "2023-12-10": 5548,
+  "2023-12-11": 5553,
+  "2023-12-12": 5560,
+  "2023-12-13": 5573,
+  "2023-12-14": 5585,
+  "2023-12-15": 5594,
+  "2023-12-16": 5608,
+  "2023-12-17": 5621,
+  "2023-12-18": 5624,
+  "2023-12-19": 5634,
+  "2023-12-20": 5639,
+  "2023-12-21": 5651,
+  "2023-12-22": 5655,
+  "2023-12-23": 5656,
+  "2023-12-24": 5662,
+  "2023-12-25": 5675,
+  "2023-12-26": 5682,
+  "2023-12-27": 5693,
+  "2023-12-29": 5693,
+  "2023-12-30": 5722,
+  "2023-12-31": 5730,
+  "2024-01-01": 5738,
+  "2024-01-02": 5744,
+  "2024-01-03": 5761,
+  "2024-01-04": 5766,
+  "2024-01-05": 5772,
+  "2024-01-06": 5777,
+  "2024-01-07": 5786,
+  "2024-01-08": 5813,
+  "2024-01-09": 5822,
+  "2024-01-10": 5822,
+  "2024-01-11": 5828,
+  "2024-01-12": 5835,
+  "2024-01-13": 5843,
+  "2024-01-14": 5857,
+  "2024-01-15": 5857,
+  "2024-01-16": 5864,
+  "2024-01-17": 5870,
+  "2024-01-18": 5884,
+  "2024-01-19": 5893,
+  "2024-01-20": 5905,
+  "2024-01-21": 5924,
+  "2024-01-22": 5934,
+  "2024-01-23": 5944,
+  "2024-01-24": 5946,
+  "2024-01-25": 5956,
+  "2024-01-26": 5966,
+  "2024-01-27": 5974,
+  "2024-01-28": 5984,
+  "2024-01-29": 5991,
+  "2024-01-30": 5998,
+  "2024-01-31": 6007,
+  "2024-02-01": 6017,
+  "2024-02-02": 6021,
+  "2024-02-03": 6027,
+  "2024-02-04": 6047,
+  "2024-02-05": 6054,
+  "2024-02-06": 6058,
+  "2024-02-07": 6069,
+  "2024-02-08": 6078,
+  "2024-02-09": 6083,
+  "2024-02-10": 6089,
+  "2024-02-11": 6091,
+  "2024-02-12": 6108,
+  "2024-02-13": 6116,
+  "2024-02-14": 6123,
+  "2024-02-15": 6136,
+  "2024-02-16": 6144,
+  "2024-02-17": 6151,
+  "2024-02-18": 6154,
+  "2024-02-19": 6162,
+  "2024-02-20": 6172,
+  "2024-02-21": 6178,
+  "2024-02-22": 6192,
+  "2024-02-23": 6198,
+  "2024-02-24": 6201,
+  "2024-02-25": 6207,
+  "2024-02-26": 6214,
+  "2024-02-27": 6224,
+  "2024-02-28": 6224,
+  "2024-02-29": 6227,
+  "2024-03-01": 6233,
+  "2024-03-02": 6242,
+  "2024-03-03": 6246,
+  "2024-03-04": 6252,
+  "2024-03-05": 6254,
+  "2024-03-06": 6256,
+  "2024-03-07": 6259,
+  "2024-03-08": 6266,
+  "2024-03-09": 6271,
+  "2024-03-10": 6279,
+  "2024-03-11": 6282,
+  "2024-03-12": 6287,
+  "2024-03-13": 6288,
+  "2024-03-14": 6294,
+  "2024-03-15": 6295,
+  "2024-03-16": 6300,
+  "2024-03-17": 6307,
+  "2024-03-18": 6318,
+  "2024-03-19": 6324,
+  "2024-03-20": 6324,
+  "2024-03-21": 6330,
+  "2024-03-22": 6333,
+  "2024-03-23": 6338,
+  "2024-03-24": 6346,
+  "2024-03-25": 6350,
+  "2024-03-26": 6351,
+  "2024-03-27": 6372,
+  "2024-03-28": 6372,
+  "2024-03-29": 6390,
+  "2024-03-30": 6390,
+  "2024-03-31": 6397,
+  "2024-04-01": 6403,
+  "2024-04-02": 6409,
+  "2024-04-03": 6417,
+  "2024-04-04": 6424,
+  "2024-04-05": 6427,
+  "2024-04-06": 6433,
+  "2024-04-07": 6442,
+  "2024-04-08": 6449,
+  "2024-04-09": 6449,
+  "2024-04-10": 6459,
+  "2024-04-11": 6465,
+  "2024-04-12": 6467,
+  "2024-04-13": 6471,
+  "2024-04-14": 6476,
+  "2024-04-15": 6480,
+  "2024-04-16": 6483,
+  "2024-04-17": 6486,
+  "2024-04-19": 6498,
+  "2024-04-20": 6501,
+  "2024-04-21": 6510,
+  "2024-04-22": 6519,
+  "2024-04-23": 6526,
+  "2024-04-24": 6536,
+  "2024-04-25": 6538,
+  "2024-04-26": 6542,
+  "2024-04-27": 6543,
+  "2024-04-28": 6549,
+  "2024-04-29": 6550,
+  "2024-04-30": 6558,
+  "2024-05-01": 6564,
+  "2024-05-02": 6570,
+  "2024-05-03": 6571,
+  "2024-05-04": 6572,
+  "2024-05-05": 6584
 }

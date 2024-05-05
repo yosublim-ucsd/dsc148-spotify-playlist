@@ -1,795 +1,139 @@
 {
-  "2024-05-05": 23734,
-  "date_first_scraped": "2023-12-19",
-  "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "name": "This Is Zendaya",
-  "tracks": [
-    {
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191710,
-      "name": "All For Us",
-      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
-    },
-    {
-      "album": {
-        "name": "Piano Acoustic Covers Vol 1",
-        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Hugo Schneider",
-          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2024-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233375,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196026,
-      "name": "Beat Of My Drum",
-      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227640,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik"
-    },
-    {
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "Daniel Everidge",
-          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "date_added": "2023-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225933,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135653,
-      "name": "Contagious Love",
-      "url": "https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin"
-    },
-    {
-      "album": {
-        "name": "Dig Down Deeper (From the film \"Pixie Hollow Games'')",
-        "url": "https://open.spotify.com/album/52l8ah8G648dsKnBMRRYr9"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181506,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/67sdRAA6JzTA0pJxLzNR5g"
-    },
-    {
-      "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "album": {
-        "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
-        "url": "https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9"
-      },
-      "artists": [
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164613,
-      "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
-      "url": "https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7"
-    },
-    {
-      "album": {
-        "name": "Silver Soul",
-        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268973,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
-    },
-    {
-      "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
-    },
-    {
-      "album": {
-        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
-        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156693,
-      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
-      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: Made In Japan (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5TUn50U2OFVerctibxueCs"
-      },
-      "artists": [
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176560,
-      "name": "Made In Japan",
-      "url": "https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187200,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK"
-    },
-    {
-      "album": {
-        "name": "To Live For",
-        "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230207,
-      "name": "My Jam",
-      "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "album": {
-        "name": "My Jam - Track Commentary",
-        "url": "https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144090,
-      "name": "My Jam - Track Commentary",
-      "url": "https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab"
-    },
-    {
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224760,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
-    },
-    {
-      "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209186,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
-    },
-    {
-      "album": {
-        "name": "Rewrite The Stars",
-        "url": "https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU"
-      },
-      "artists": [
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
-      "duration_ms": 217440,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
-    },
-    {
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2024-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217440,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
-    },
-    {
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137142,
-      "name": "Rue's I'm Tired (with Zendaya)",
-      "url": "https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW"
-    },
-    {
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
-    },
-    {
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212906,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
-    },
-    {
-      "album": {
-        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
-        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163266,
-      "name": "Something To Dance For",
-      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
-    },
-    {
-      "album": {
-        "name": "Swag It Out - Single",
-        "url": "https://open.spotify.com/album/2nqXchNFJiwWRae1YHAlSg"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192475,
-      "name": "Swag It Out",
-      "url": "https://open.spotify.com/track/1UQbzags87OFERvmaJw9yb"
-    },
-    {
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 302146,
-      "name": "The Greatest Show",
-      "url": "https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187813,
-      "name": "This is My Dance Floor",
-      "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
-    },
-    {
-      "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
-    },
-    {
-      "album": {
-        "name": "Shake It Up: Break It Down",
-        "url": "https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF"
-      },
-      "artists": [
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Cast of Shake It Up: Break It Down",
-          "url": "https://open.spotify.com/artist/116v5BJngSpJcXNml0OPeu"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175546,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn"
-    },
-    {
-      "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190506,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
-    },
-    {
-      "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Channing Tatum",
-          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132173,
-      "name": "Wonderful Questions",
-      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
-    },
-    {
-      "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "date_added": "2023-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232226,
-      "name": "X (feat. Zendaya)",
-      "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY"
+  "2023-12-19": 23303,
+  "2023-12-20": 23301,
+  "2023-12-21": 23306,
+  "2023-12-22": 23310,
+  "2023-12-23": 23311,
+  "2023-12-24": 23313,
+  "2023-12-25": 23318,
+  "2023-12-26": 23322,
+  "2023-12-27": 23328,
+  "2023-12-29": 23328,
+  "2023-12-30": 23340,
+  "2023-12-31": 23345,
+  "2024-01-01": 23344,
+  "2024-01-02": 23351,
+  "2024-01-03": 23354,
+  "2024-01-04": 23366,
+  "2024-01-05": 23368,
+  "2024-01-06": 23374,
+  "2024-01-07": 23380,
+  "2024-01-08": 23371,
+  "2024-01-09": 23366,
+  "2024-01-10": 23366,
+  "2024-01-11": 23359,
+  "2024-01-12": 23352,
+  "2024-01-13": 23350,
+  "2024-01-14": 23340,
+  "2024-01-15": 23340,
+  "2024-01-16": 23337,
+  "2024-01-17": 23346,
+  "2024-01-18": 23350,
+  "2024-01-19": 23353,
+  "2024-01-20": 23356,
+  "2024-01-21": 23355,
+  "2024-01-22": 23361,
+  "2024-01-23": 23364,
+  "2024-01-24": 23359,
+  "2024-01-25": 23366,
+  "2024-01-26": 23369,
+  "2024-01-27": 23362,
+  "2024-01-28": 23367,
+  "2024-01-29": 23371,
+  "2024-01-30": 23381,
+  "2024-01-31": 23382,
+  "2024-02-01": 23385,
+  "2024-02-02": 23382,
+  "2024-02-03": 23386,
+  "2024-02-04": 23385,
+  "2024-02-05": 23383,
+  "2024-02-06": 23388,
+  "2024-02-07": 23389,
+  "2024-02-08": 23392,
+  "2024-02-09": 23391,
+  "2024-02-10": 23391,
+  "2024-02-11": 23402,
+  "2024-02-12": 23413,
+  "2024-02-13": 23415,
+  "2024-02-14": 23424,
+  "2024-02-15": 23422,
+  "2024-02-16": 23426,
+  "2024-02-17": 23423,
+  "2024-02-18": 23428,
+  "2024-02-19": 23431,
+  "2024-02-20": 23434,
+  "2024-02-21": 23431,
+  "2024-02-22": 23429,
+  "2024-02-23": 23435,
+  "2024-02-24": 23441,
+  "2024-02-25": 23444,
+  "2024-02-26": 23451,
+  "2024-02-27": 23457,
+  "2024-02-28": 23457,
+  "2024-02-29": 23459,
+  "2024-03-01": 23460,
+  "2024-03-02": 23465,
+  "2024-03-03": 23465,
+  "2024-03-04": 23471,
+  "2024-03-05": 23480,
+  "2024-03-06": 23488,
+  "2024-03-07": 23498,
+  "2024-03-08": 23498,
+  "2024-03-09": 23499,
+  "2024-03-10": 23507,
+  "2024-03-11": 23519,
+  "2024-03-12": 23518,
+  "2024-03-13": 23525,
+  "2024-03-14": 23528,
+  "2024-03-15": 23534,
+  "2024-03-16": 23538,
+  "2024-03-17": 23539,
+  "2024-03-18": 23541,
+  "2024-03-19": 23550,
+  "2024-03-20": 23553,
+  "2024-03-21": 23553,
+  "2024-03-22": 23554,
+  "2024-03-23": 23554,
+  "2024-03-24": 23556,
+  "2024-03-25": 23560,
+  "2024-03-26": 23569,
+  "2024-03-27": 23572,
+  "2024-03-28": 23572,
+  "2024-03-29": 23570,
+  "2024-03-30": 23570,
+  "2024-03-31": 23575,
+  "2024-04-01": 23583,
+  "2024-04-02": 23592,
+  "2024-04-03": 23595,
+  "2024-04-04": 23599,
+  "2024-04-05": 23604,
+  "2024-04-06": 23608,
+  "2024-04-07": 23614,
+  "2024-04-08": 23627,
+  "2024-04-09": 23627,
+  "2024-04-10": 23637,
+  "2024-04-11": 23644,
+  "2024-04-12": 23647,
+  "2024-04-13": 23656,
+  "2024-04-14": 23662,
+  "2024-04-15": 23670,
+  "2024-04-16": 23668,
+  "2024-04-17": 23665,
+  "2024-04-19": 23682,
+  "2024-04-20": 23676,
+  "2024-04-21": 23669,
+  "2024-04-22": 23673,
+  "2024-04-23": 23671,
+  "2024-04-24": 23682,
+  "2024-04-25": 23687,
+  "2024-04-26": 23696,
+  "2024-04-27": 23705,
+  "2024-04-28": 23707,
+  "2024-04-29": 23709,
+  "2024-04-30": 23707,
+  "2024-05-01": 23716,
+  "2024-05-02": 23721,
+  "2024-05-03": 23720,
+  "2024-05-04": 23723,
+  "2024-05-05": 23734
 }

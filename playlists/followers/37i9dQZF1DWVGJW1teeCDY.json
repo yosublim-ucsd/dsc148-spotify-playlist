@@ -1,405 +1,115 @@
 {
-  "2024-05-05": 8864,
-  "date_first_scraped": "2024-01-13",
-  "description": "Listen to the official playlist for Boy Swallows Universe, now streaming on Netflix.",
-  "name": "Boy Swallows Universe Official Playlist",
-  "tracks": [
-    {
-      "album": {
-        "name": "Face To Face Recharged",
-        "url": "https://open.spotify.com/album/4wfNwq18smAFufG8Tvt4tQ"
-      },
-      "artists": [
-        {
-          "name": "The Angels",
-          "url": "https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190039,
-      "name": "Am I Ever Gonna See Your Face Again",
-      "url": "https://open.spotify.com/track/2qjqiyIStr7PNcstjZcUYA"
-    },
-    {
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215400,
-      "name": "Be Good Johnny",
-      "url": "https://open.spotify.com/track/2ZgKs2gWOv4zMmfGcCgJGP"
-    },
-    {
-      "album": {
-        "name": "Desperate",
-        "url": "https://open.spotify.com/album/1C7yehURIJzL27ZqaFBIvh"
-      },
-      "artists": [
-        {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171826,
-      "name": "Boys In Town",
-      "url": "https://open.spotify.com/track/7sq2J02xkGzHw1ETwISnbd"
-    },
-    {
-      "album": {
-        "name": "Heavy Soul: Old Town & Barry's Deep Down & Dirty Sides",
-        "url": "https://open.spotify.com/album/03Nl5pLLg3EJ9lT5SKDZwd"
-      },
-      "artists": [
-        {
-          "name": "Donald Height",
-          "url": "https://open.spotify.com/artist/0b9HpPd0f4OZ0RcZc61K0U"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156653,
-      "name": "Crazy Little Girl",
-      "url": "https://open.spotify.com/track/3ZO3RFpK61007YWKjVmbXt"
-    },
-    {
-      "album": {
-        "name": "Naked In The Park",
-        "url": "https://open.spotify.com/album/1Unxm1lQugcJddMyICrRDc"
-      },
-      "artists": [
-        {
-          "name": "Talv\u00e9",
-          "url": "https://open.spotify.com/artist/2NpGn6K5GaumL7Rd8GXNqU"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122007,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4oC7lZEUVKRf0JPEm2alvQ"
-    },
-    {
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 314607,
-      "name": "Devil Inside",
-      "url": "https://open.spotify.com/track/3m4OWJ3Ovl0pXwT79bw94N"
-    },
-    {
-      "album": {
-        "name": "Songs From The South",
-        "url": "https://open.spotify.com/album/0OkaKuQnx3pxK5t35dv54V"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150333,
-      "name": "Dumb Things",
-      "url": "https://open.spotify.com/track/66JGAmzxBkkTz2AWhwfXDr"
-    },
-    {
-      "album": {
-        "name": "Classics Live",
-        "url": "https://open.spotify.com/album/6vP3MQSD5duKIhv1Q1b6NM"
-      },
-      "artists": [
-        {
-          "name": "Roger Hodgson",
-          "url": "https://open.spotify.com/artist/3lHXm91pKLq9Sxi6CoRKWu"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 261005,
-      "name": "Give a Little Bit",
-      "url": "https://open.spotify.com/track/5G8jXuQ7ZMgR75kRp4Shkl"
-    },
-    {
-      "album": {
-        "name": "La Folie",
-        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206760,
-      "name": "Golden Brown",
-      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
-    },
-    {
-      "album": {
-        "name": "Hits'n'Riffs",
-        "url": "https://open.spotify.com/album/4eiyoZSd1hCIOsUdMHYR1w"
-      },
-      "artists": [
-        {
-          "name": "Skyhooks",
-          "url": "https://open.spotify.com/artist/1vdU5KvV0nDAjPRfpRKjRL"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230120,
-      "name": "Horror Movie - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1lczUVx6gkAhEUPvcROXYR"
-    },
-    {
-      "album": {
-        "name": "The Swing",
-        "url": "https://open.spotify.com/album/3PRbbpBj9gdGhe7YRsJ5Tg"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205626,
-      "name": "I Send a Message",
-      "url": "https://open.spotify.com/track/1L0DryiUnqe9QaJmtKAccO"
-    },
-    {
-      "album": {
-        "name": "Tribute To Lobby Loyde, Billy Thorpe and Pete Wells",
-        "url": "https://open.spotify.com/album/0Mbqmg85EmlREW992gBvSm"
-      },
-      "artists": [
-        {
-          "name": "Spectrum",
-          "url": "https://open.spotify.com/artist/5SKKlvQaTiiLuJhC8xiWR9"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268280,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2pp1JD85KtFxRz94efpQj8"
-    },
-    {
-      "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224200,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/3FMQnxcc6FcPscLeLqtW5S"
-    },
-    {
-      "album": {
-        "name": "Crying, Laughing, Loving, Lying",
-        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236986,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0"
-    },
-    {
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233866,
-      "name": "Lost In Love",
-      "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
-    },
-    {
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195506,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
-    },
-    {
-      "album": {
-        "name": "10,9,8,7,6,5,4,3,2,1",
-        "url": "https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 339400,
-      "name": "Power And The Passion - Remastered Version",
-      "url": "https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31"
-    },
-    {
-      "album": {
-        "name": "Esteem",
-        "url": "https://open.spotify.com/album/0dvkcL2lLDlPTjPekLEDMm"
-      },
-      "artists": [
-        {
-          "name": "Machinations",
-          "url": "https://open.spotify.com/artist/5ghiRwgyYZfnmC0Upu6ZtR"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240933,
-      "name": "Pressure Sway",
-      "url": "https://open.spotify.com/track/7IjYBLX4MCVV9Ro4yjzGG7"
-    },
-    {
-      "album": {
-        "name": "Semantics (Remastered)",
-        "url": "https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o"
-      },
-      "artists": [
-        {
-          "name": "Australian Crawl",
-          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 323988,
-      "name": "Reckless (Don't Be So...) - Remastered",
-      "url": "https://open.spotify.com/track/5XKw4mezzmvfzbHTFx6AwV"
-    },
-    {
-      "album": {
-        "name": "Between The Buttons",
-        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196493,
-      "name": "Ruby Tuesday",
-      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
-    },
-    {
-      "album": {
-        "name": "Small Change (Remastered)",
-        "url": "https://open.spotify.com/album/6GjMcck9c4i6cQo194xKl6"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220053,
-      "name": "The Piano Has Been Drinking (Not Me) (An Evening With Pete King)",
-      "url": "https://open.spotify.com/track/2Byq9AiqDPnTGaEgnGt6Q4"
-    },
-    {
-      "album": {
-        "name": "Of Skins And Heart",
-        "url": "https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "date_added": "2024-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254400,
-      "name": "The Unguarded Moment - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVGJW1teeCDY"
+  "2024-01-13": 363,
+  "2024-01-14": 1073,
+  "2024-01-15": 1073,
+  "2024-01-16": 1399,
+  "2024-01-17": 1708,
+  "2024-01-18": 1979,
+  "2024-01-19": 2245,
+  "2024-01-20": 2554,
+  "2024-01-21": 2804,
+  "2024-01-22": 3041,
+  "2024-01-23": 3263,
+  "2024-01-24": 3417,
+  "2024-01-25": 3560,
+  "2024-01-26": 3839,
+  "2024-01-27": 4094,
+  "2024-01-28": 4314,
+  "2024-01-29": 4499,
+  "2024-01-30": 4634,
+  "2024-01-31": 4759,
+  "2024-02-01": 4868,
+  "2024-02-02": 4968,
+  "2024-02-03": 5067,
+  "2024-02-04": 5222,
+  "2024-02-05": 5351,
+  "2024-02-06": 5444,
+  "2024-02-07": 5528,
+  "2024-02-08": 5580,
+  "2024-02-09": 5645,
+  "2024-02-10": 5747,
+  "2024-02-11": 5870,
+  "2024-02-12": 5953,
+  "2024-02-13": 6014,
+  "2024-02-14": 6065,
+  "2024-02-15": 6130,
+  "2024-02-16": 6187,
+  "2024-02-17": 6248,
+  "2024-02-18": 6312,
+  "2024-02-19": 6366,
+  "2024-02-20": 6425,
+  "2024-02-21": 6470,
+  "2024-02-22": 6502,
+  "2024-02-23": 6554,
+  "2024-02-24": 6592,
+  "2024-02-25": 6651,
+  "2024-02-26": 6695,
+  "2024-02-27": 6768,
+  "2024-02-28": 6768,
+  "2024-02-29": 6797,
+  "2024-03-01": 6832,
+  "2024-03-02": 6887,
+  "2024-03-03": 6938,
+  "2024-03-04": 7004,
+  "2024-03-05": 7043,
+  "2024-03-06": 7082,
+  "2024-03-07": 7112,
+  "2024-03-08": 7133,
+  "2024-03-09": 7186,
+  "2024-03-10": 7228,
+  "2024-03-11": 7267,
+  "2024-03-12": 7307,
+  "2024-03-13": 7345,
+  "2024-03-14": 7390,
+  "2024-03-15": 7412,
+  "2024-03-16": 7456,
+  "2024-03-17": 7500,
+  "2024-03-18": 7530,
+  "2024-03-19": 7559,
+  "2024-03-20": 7584,
+  "2024-03-21": 7622,
+  "2024-03-22": 7663,
+  "2024-03-23": 7690,
+  "2024-03-24": 7728,
+  "2024-03-25": 7757,
+  "2024-03-26": 7782,
+  "2024-03-27": 7851,
+  "2024-03-28": 7851,
+  "2024-03-29": 7922,
+  "2024-03-30": 7922,
+  "2024-03-31": 7954,
+  "2024-04-01": 7986,
+  "2024-04-02": 8017,
+  "2024-04-03": 8047,
+  "2024-04-04": 8069,
+  "2024-04-05": 8093,
+  "2024-04-06": 8119,
+  "2024-04-07": 8149,
+  "2024-04-08": 8201,
+  "2024-04-09": 8201,
+  "2024-04-10": 8238,
+  "2024-04-11": 8265,
+  "2024-04-12": 8293,
+  "2024-04-13": 8325,
+  "2024-04-14": 8347,
+  "2024-04-15": 8374,
+  "2024-04-16": 8393,
+  "2024-04-17": 8423,
+  "2024-04-19": 8468,
+  "2024-04-20": 8486,
+  "2024-04-21": 8506,
+  "2024-04-22": 8537,
+  "2024-04-23": 8545,
+  "2024-04-24": 8590,
+  "2024-04-25": 8599,
+  "2024-04-26": 8621,
+  "2024-04-27": 8640,
+  "2024-04-28": 8674,
+  "2024-04-29": 8708,
+  "2024-04-30": 8732,
+  "2024-05-01": 8765,
+  "2024-05-02": 8786,
+  "2024-05-03": 8812,
+  "2024-05-04": 8837,
+  "2024-05-05": 8864
 }

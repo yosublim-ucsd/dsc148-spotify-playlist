@@ -1,1183 +1,139 @@
 {
-  "2024-05-05": 694222,
-  "date_first_scraped": "2023-12-19",
-  "description": "Get to know the shape-shifting, forward thinking, the one and only, Frank Ocean.",
-  "name": "This Is Frank Ocean",
-  "tracks": [
-    {
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255653,
-      "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
-      "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 175453,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175453,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/6jy12gDerHRUSwiEhfs9C6"
-    },
-    {
-      "album": {
-        "name": "Biking",
-        "url": "https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 277520,
-      "name": "Biking",
-      "url": "https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK"
-    },
-    {
-      "album": {
-        "name": "Cayendo (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202200,
-      "name": "Cayendo (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
-    },
-    {
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 85754,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224146,
-      "name": "Crack Rock",
-      "url": "https://open.spotify.com/track/125FPswReMD9Ggvn69M7Ch"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 224146,
-      "name": "Crack Rock",
-      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P"
-    },
-    {
-      "album": {
-        "name": "Dear April (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231040,
-      "name": "Dear April (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT"
-    },
-    {
-      "album": {
-        "name": "DHL",
-        "url": "https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268893,
-      "name": "DHL",
-      "url": "https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/3liAea2gyRKm8nWubcwsvl"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194840,
-      "name": "Forrest Gump",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 564165,
-      "name": "Futura Free",
-      "url": "https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177922,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
-    },
-    {
-      "album": {
-        "name": "Three Artists. One Song",
-        "url": "https://open.spotify.com/album/0Q8Oo7AyaEh0EzwSIOd1o0"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Mick Jones",
-          "url": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
-        },
-        {
-          "name": "Paul Simonon",
-          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165467,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4hKGICUB890arImAdWRaHQ"
-    },
-    {
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133680,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "album": {
-        "name": "Lens",
-        "url": "https://open.spotify.com/album/5F4I5eUqVK1CpQbzt1ntMC"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227654,
-      "name": "Lens",
-      "url": "https://open.spotify.com/track/371H6HjS4SXGbQ9IVfFUIL"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 200240,
-      "name": "Monks",
-      "url": "https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200240,
-      "name": "Monks",
-      "url": "https://open.spotify.com/track/3YXVl3FvIrvhgSW9ME3qNf"
-    },
-    {
-      "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188323,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
-    },
-    {
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 438493,
-      "name": "PartyIsntOver/Campfire/Bimmer (feat. Frank Ocean & Laetitia Sadier)",
-      "url": "https://open.spotify.com/track/04QTBqa3IA4ZAKEuqRPzEH"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 184080,
-      "name": "Pilot Jones",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184080,
-      "name": "Pilot Jones",
-      "url": "https://open.spotify.com/track/5ITIiswssMSAdTJ9ZDEI8D"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268813,
-      "name": "Pink Matter",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
-    },
-    {
-      "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243238,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
-    },
-    {
-      "album": {
-        "name": "TESTING",
-        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262360,
-      "name": "Purity (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 592920,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
-    },
-    {
-      "album": {
-        "name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-        "url": "https://open.spotify.com/album/25qGbr8e0Mxv2GfyRJHoXq"
-      },
-      "artists": [
-        {
-          "name": "A$AP Mob",
-          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255413,
-      "name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
-      "url": "https://open.spotify.com/track/6kl1qtQXQsFiIWRBK24Cfp"
-    },
-    {
-      "album": {
-        "name": "Blackenedwhite",
-        "url": "https://open.spotify.com/album/7KLG5Qk1Y9gLzSjdNdR96l"
-      },
-      "artists": [
-        {
-          "name": "MellowHype",
-          "url": "https://open.spotify.com/artist/5CCrgHVEWtg8YTEn1UaYug"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 155066,
-      "name": "Rico",
-      "url": "https://open.spotify.com/track/5GJNPgGnX5JRaD25pASJIO"
-    },
-    {
-      "album": {
-        "name": "BlackenedWhite",
-        "url": "https://open.spotify.com/album/0YTotqFKklDg8enJAg0PJE"
-      },
-      "artists": [
-        {
-          "name": "MellowHype",
-          "url": "https://open.spotify.com/artist/5CCrgHVEWtg8YTEn1UaYug"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155053,
-      "name": "Rico (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/3TucQiVTlRK2HN4T8KqQOi"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 334570,
-      "name": "Seigfried",
-      "url": "https://open.spotify.com/track/1BViPjTT585XAhkUUrkts0"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249667,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
-    },
-    {
-      "album": {
-        "name": "Goblin",
-        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 253386,
-      "name": "She",
-      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
-    },
-    {
-      "album": {
-        "name": "Goblin",
-        "url": "https://open.spotify.com/album/1YVf1gCvpUKr0YGtgFVmfm"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253386,
-      "name": "She",
-      "url": "https://open.spotify.com/track/3QPKkP40zmc6xBtJMrXSNi"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 148760,
-      "name": "Sierra Leone",
-      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148760,
-      "name": "Sierra Leone",
-      "url": "https://open.spotify.com/track/4XgpXhvf9JBbKPtX84DFN7"
-    },
-    {
-      "album": {
-        "name": "Slide (feat. Frank Ocean & Migos)",
-        "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230813,
-      "name": "Slide (feat. Frank Ocean & Migos)",
-      "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257380,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
-    },
-    {
-      "album": {
-        "name": "Doris",
-        "url": "https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205800,
-      "name": "Sunday (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/0fAehaneUJdlSlWXYe1KZp"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 304760,
-      "name": "Super Rich Kids",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
-    },
-    {
-      "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276560,
-      "name": "Superpower (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/49sXkAcR5LvOrtq5Qcn5cf"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 262680,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262680,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/6fbjdXZNtoAJbJZUeT87Ii"
-    },
-    {
-      "album": {
-        "name": "Swim Good",
-        "url": "https://open.spotify.com/album/3TLaFWQDhV1g39Qwd5sPAm"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257186,
-      "name": "Swim Good",
-      "url": "https://open.spotify.com/track/3CgZCQyuyxHRMWB9BTwmni"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194933,
-      "name": "Where This Flower Blooms (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 76280,
-      "name": "White",
-      "url": "https://open.spotify.com/track/1VMdwVq0yaTc4DeqSCi7DO"
-    },
-    {
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 76280,
-      "name": "White",
-      "url": "https://open.spotify.com/track/6j9pCKVaJYNF7AdaNVTAaE"
-    },
-    {
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "date_added": "2023-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 85840,
-      "name": "Wildfire (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/4wOYt5nULk1Cu8pwJWk26m"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdyjMX5o2vCq"
+  "2023-12-19": 666685,
+  "2023-12-20": 666912,
+  "2023-12-21": 667164,
+  "2023-12-22": 667372,
+  "2023-12-23": 667597,
+  "2023-12-24": 667815,
+  "2023-12-25": 667998,
+  "2023-12-26": 668158,
+  "2023-12-27": 668461,
+  "2023-12-29": 668461,
+  "2023-12-30": 669173,
+  "2023-12-31": 669392,
+  "2024-01-01": 669556,
+  "2024-01-02": 669771,
+  "2024-01-03": 670027,
+  "2024-01-04": 670255,
+  "2024-01-05": 670514,
+  "2024-01-06": 670742,
+  "2024-01-07": 671008,
+  "2024-01-08": 671476,
+  "2024-01-09": 671640,
+  "2024-01-10": 671640,
+  "2024-01-11": 671852,
+  "2024-01-12": 672051,
+  "2024-01-13": 672258,
+  "2024-01-14": 672722,
+  "2024-01-15": 672722,
+  "2024-01-16": 672898,
+  "2024-01-17": 673075,
+  "2024-01-18": 673269,
+  "2024-01-19": 673479,
+  "2024-01-20": 673680,
+  "2024-01-21": 673893,
+  "2024-01-22": 674137,
+  "2024-01-23": 674360,
+  "2024-01-24": 674564,
+  "2024-01-25": 674807,
+  "2024-01-26": 675029,
+  "2024-01-27": 675296,
+  "2024-01-28": 675554,
+  "2024-01-29": 675776,
+  "2024-01-30": 675991,
+  "2024-01-31": 676222,
+  "2024-02-01": 676404,
+  "2024-02-02": 676623,
+  "2024-02-03": 676824,
+  "2024-02-04": 677005,
+  "2024-02-05": 677178,
+  "2024-02-06": 677332,
+  "2024-02-07": 677560,
+  "2024-02-08": 677740,
+  "2024-02-09": 677919,
+  "2024-02-10": 678080,
+  "2024-02-11": 678229,
+  "2024-02-12": 678380,
+  "2024-02-13": 678559,
+  "2024-02-14": 678679,
+  "2024-02-15": 678843,
+  "2024-02-16": 679001,
+  "2024-02-17": 679209,
+  "2024-02-18": 679335,
+  "2024-02-19": 679472,
+  "2024-02-20": 679660,
+  "2024-02-21": 679809,
+  "2024-02-22": 679988,
+  "2024-02-23": 680182,
+  "2024-02-24": 680343,
+  "2024-02-25": 680488,
+  "2024-02-26": 680623,
+  "2024-02-27": 680951,
+  "2024-02-28": 680951,
+  "2024-02-29": 681136,
+  "2024-03-01": 681299,
+  "2024-03-02": 681460,
+  "2024-03-03": 681600,
+  "2024-03-04": 681719,
+  "2024-03-05": 681883,
+  "2024-03-06": 682072,
+  "2024-03-07": 682187,
+  "2024-03-08": 682366,
+  "2024-03-09": 682507,
+  "2024-03-10": 682610,
+  "2024-03-11": 682727,
+  "2024-03-12": 682849,
+  "2024-03-13": 682987,
+  "2024-03-14": 683138,
+  "2024-03-15": 683322,
+  "2024-03-16": 683489,
+  "2024-03-17": 683683,
+  "2024-03-18": 683898,
+  "2024-03-19": 684046,
+  "2024-03-20": 684215,
+  "2024-03-21": 684369,
+  "2024-03-22": 684540,
+  "2024-03-23": 684721,
+  "2024-03-24": 684902,
+  "2024-03-25": 685099,
+  "2024-03-26": 685295,
+  "2024-03-27": 685735,
+  "2024-03-28": 685735,
+  "2024-03-29": 686166,
+  "2024-03-30": 686166,
+  "2024-03-31": 686374,
+  "2024-04-01": 686551,
+  "2024-04-02": 686792,
+  "2024-04-03": 686998,
+  "2024-04-04": 687187,
+  "2024-04-05": 687374,
+  "2024-04-06": 687543,
+  "2024-04-07": 687695,
+  "2024-04-08": 688036,
+  "2024-04-09": 688036,
+  "2024-04-10": 688223,
+  "2024-04-11": 688366,
+  "2024-04-12": 688561,
+  "2024-04-13": 688720,
+  "2024-04-14": 688892,
+  "2024-04-15": 689102,
+  "2024-04-16": 689308,
+  "2024-04-17": 689595,
+  "2024-04-19": 690247,
+  "2024-04-20": 690386,
+  "2024-04-21": 690557,
+  "2024-04-22": 690785,
+  "2024-04-23": 691056,
+  "2024-04-24": 691524,
+  "2024-04-25": 691651,
+  "2024-04-26": 691949,
+  "2024-04-27": 692224,
+  "2024-04-28": 692458,
+  "2024-04-29": 692759,
+  "2024-04-30": 692941,
+  "2024-05-01": 693212,
+  "2024-05-02": 693480,
+  "2024-05-03": 693774,
+  "2024-05-04": 693983,
+  "2024-05-05": 694222
 }

@@ -1,1461 +1,177 @@
 {
-  "2024-05-05": 1432111,
-  "date_first_scraped": "2023-11-11",
-  "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "name": "This Is Travis Scott",
-  "tracks": [
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196138,
-      "name": "5% TINT",
-      "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
-    },
-    {
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 339066,
-      "name": "90210 (feat. Kacy Hill)",
-      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
-    },
-    {
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262693,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq"
-    },
-    {
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219360,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142969,
-      "name": "ASTROTHUNDER",
-      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
-    },
-    {
-      "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
-      "duration_ms": 238026,
-      "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
-      "url": "https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f"
-    },
-    {
-      "album": {
-        "name": "AT THE PARTY",
-        "url": "https://open.spotify.com/album/0kXRXezhirr0900HvfPYHV"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
-      "duration_ms": 238026,
-      "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
-      "url": "https://open.spotify.com/track/11BbPUv7NlzlcbY7AmHHKy"
-    },
-    {
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
-      "duration_ms": 207835,
-      "name": "Aye (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
-    },
-    {
-      "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
-      "duration_ms": 165066,
-      "name": "Bubbly (with Drake & Travis Scott)",
-      "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190557,
-      "name": "BUTTERFLY EFFECT",
-      "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198408,
-      "name": "CAN'T SAY",
-      "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
-    },
-    {
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169840,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
-    },
-    {
-      "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256161,
-      "name": "Dark Knight Dummo (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
-    },
-    {
-      "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192693,
-      "name": "Embarrassed (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
-    },
-    {
-      "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
-    },
-    {
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "album": {
-        "name": "FTCU (SLEEZEMIX)",
-        "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "date_added": "2024-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239667,
-      "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
-      "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
-    },
-    {
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181144,
-      "name": "GATTI",
-      "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
-    },
-    {
-      "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215240,
-      "name": "GET OFF ME (with Travis Scott)",
-      "url": "https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ"
-    },
-    {
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
-      "duration_ms": 268933,
-      "name": "Ghostface Killers (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-03-11",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
-      "duration_ms": 127991,
-      "name": "GOD'S COUNTRY",
-      "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
-    },
-    {
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
-    },
-    {
-      "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175720,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "album": {
-        "name": "So Much Fun (Deluxe)",
-        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279906,
-      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-      "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/2NdafVP67y7cytdSFXYMC2"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/3vUDNDbhYkfidboErlk7cx"
-    },
-    {
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "date_added": "2024-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "date_added": "2024-04-06",
-      "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
-      "duration_ms": 174706,
-      "name": "Lock On Me (with Travis Scott & Future)",
-      "url": "https://open.spotify.com/track/0OoNzMdPSgbkM5MkcuEZfm"
-    },
-    {
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
-      "duration_ms": 240000,
-      "name": "MAFIA",
-      "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
-    },
-    {
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "date_added": "2024-01-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 349933,
-      "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
-      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "date_added": "2024-03-14",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
-      "duration_ms": 255412,
-      "name": "MODERN JAM (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251249,
-      "name": "MY EYES",
-      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
-    },
-    {
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207306,
-      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
-    },
-    {
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 321560,
-      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
-    },
-    {
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "date_added": "2024-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220584,
-      "name": "n\u00e9e-nah",
-      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-12-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 80466,
-      "name": "Only 1 (Interlude) (with Travis Scott)",
-      "url": "https://open.spotify.com/track/4cEqoGTqPRZy76Yl3ymj3V"
-    },
-    {
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
-      "duration_ms": 239613,
-      "name": "Open Arms (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
-    },
-    {
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-03-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239613,
-      "name": "Open Arms (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6koKhrBBcExADvWuOgceNZ"
-    },
-    {
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157712,
-      "name": "OUT WEST (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
-    },
-    {
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166093,
-      "name": "Overdue (with Travis Scott)",
-      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
-    },
-    {
-      "album": {
-        "name": "pick up the phone",
-        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-02-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252262,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
-    },
-    {
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236614,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h"
-    },
-    {
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
-    },
-    {
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188586,
-      "name": "Raindrops (Insane) [with Travis Scott]",
-      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
-    },
-    {
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173253,
-      "name": "SAY MY GRACE (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
-    },
-    {
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145588,
-      "name": "SKELETONS",
-      "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
-    },
-    {
-      "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229573,
-      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
-      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 353754,
-      "name": "TELEKINESIS (feat. SZA & Future)",
-      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184888,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"
-    },
-    {
-      "album": {
-        "name": "THE SCOTTS",
-        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
-      },
-      "artists": [
-        {
-          "name": "THE SCOTTS",
-          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165977,
-      "name": "THE SCOTTS",
-      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
-    },
-    {
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223173,
-      "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
-      "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
-    },
-    {
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194786,
-      "name": "Trance (with Travis Scott & Young Thug)",
-      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
-    },
-    {
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "date_added": "2024-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228266,
-      "name": "Type Shit",
-      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
-    },
-    {
-      "album": {
-        "name": "Water (Remix)",
-        "url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200255,
-      "name": "Water - Remix",
-      "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
-    },
-    {
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 150043,
-      "name": "YOSEMITE",
-      "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
-    },
-    {
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2024-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213637,
-      "name": "You (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
-    },
-    {
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I"
+  "2023-11-11": 1345442,
+  "2023-11-12": 1345442,
+  "2023-11-13": 1345442,
+  "2023-11-14": 1345442,
+  "2023-11-15": 1345442,
+  "2023-11-16": 1345442,
+  "2023-11-17": 1345442,
+  "2023-11-18": 1345442,
+  "2023-11-19": 1345442,
+  "2023-11-20": 1345442,
+  "2023-11-21": 1345442,
+  "2023-11-22": 1345442,
+  "2023-11-23": 1345442,
+  "2023-11-24": 1345442,
+  "2023-11-25": 1345442,
+  "2023-11-26": 1345442,
+  "2023-11-27": 1345442,
+  "2023-11-28": 1345442,
+  "2023-11-29": 1345442,
+  "2023-11-30": 1345442,
+  "2023-12-01": 1345442,
+  "2023-12-02": 1345442,
+  "2023-12-03": 1345442,
+  "2023-12-04": 1345442,
+  "2023-12-05": 1345442,
+  "2023-12-06": 1345442,
+  "2023-12-07": 1345442,
+  "2023-12-08": 1345442,
+  "2023-12-09": 1345442,
+  "2023-12-10": 1345442,
+  "2023-12-11": 1345442,
+  "2023-12-12": 1345442,
+  "2023-12-13": 1345442,
+  "2023-12-14": 1362560,
+  "2023-12-15": 1362932,
+  "2023-12-16": 1363485,
+  "2023-12-17": 1364001,
+  "2023-12-18": 1364468,
+  "2023-12-19": 1364951,
+  "2023-12-20": 1365497,
+  "2023-12-21": 1365955,
+  "2023-12-22": 1366436,
+  "2023-12-23": 1366931,
+  "2023-12-24": 1367417,
+  "2023-12-25": 1367861,
+  "2023-12-26": 1368267,
+  "2023-12-27": 1368846,
+  "2023-12-29": 1368846,
+  "2023-12-30": 1370601,
+  "2023-12-31": 1371182,
+  "2024-01-01": 1371722,
+  "2024-01-02": 1372190,
+  "2024-01-03": 1372808,
+  "2024-01-04": 1373391,
+  "2024-01-05": 1374003,
+  "2024-01-06": 1374560,
+  "2024-01-07": 1375222,
+  "2024-01-08": 1376218,
+  "2024-01-09": 1376561,
+  "2024-01-10": 1376561,
+  "2024-01-11": 1376975,
+  "2024-01-12": 1377472,
+  "2024-01-13": 1377812,
+  "2024-01-14": 1378450,
+  "2024-01-15": 1378450,
+  "2024-01-16": 1378860,
+  "2024-01-17": 1379401,
+  "2024-01-18": 1379876,
+  "2024-01-19": 1380403,
+  "2024-01-20": 1380951,
+  "2024-01-21": 1381412,
+  "2024-01-22": 1381788,
+  "2024-01-23": 1382201,
+  "2024-01-24": 1382540,
+  "2024-01-25": 1383099,
+  "2024-01-26": 1383659,
+  "2024-01-27": 1384240,
+  "2024-01-28": 1384620,
+  "2024-01-29": 1384968,
+  "2024-01-30": 1385392,
+  "2024-01-31": 1385834,
+  "2024-02-01": 1386297,
+  "2024-02-02": 1386817,
+  "2024-02-03": 1387473,
+  "2024-02-04": 1387996,
+  "2024-02-05": 1388362,
+  "2024-02-06": 1389193,
+  "2024-02-07": 1390072,
+  "2024-02-08": 1390882,
+  "2024-02-09": 1391669,
+  "2024-02-10": 1392446,
+  "2024-02-11": 1393096,
+  "2024-02-12": 1393680,
+  "2024-02-13": 1394364,
+  "2024-02-14": 1394879,
+  "2024-02-15": 1395459,
+  "2024-02-16": 1396083,
+  "2024-02-17": 1396753,
+  "2024-02-18": 1397275,
+  "2024-02-19": 1397808,
+  "2024-02-20": 1398333,
+  "2024-02-21": 1398865,
+  "2024-02-22": 1399428,
+  "2024-02-23": 1399985,
+  "2024-02-24": 1400518,
+  "2024-02-25": 1401033,
+  "2024-02-26": 1401401,
+  "2024-02-27": 1402321,
+  "2024-02-28": 1402321,
+  "2024-02-29": 1402775,
+  "2024-03-01": 1403371,
+  "2024-03-02": 1404193,
+  "2024-03-03": 1404774,
+  "2024-03-04": 1405257,
+  "2024-03-05": 1405851,
+  "2024-03-06": 1406436,
+  "2024-03-07": 1406959,
+  "2024-03-08": 1407601,
+  "2024-03-09": 1408214,
+  "2024-03-10": 1408769,
+  "2024-03-11": 1409250,
+  "2024-03-12": 1409727,
+  "2024-03-13": 1410260,
+  "2024-03-14": 1410779,
+  "2024-03-15": 1411330,
+  "2024-03-16": 1411907,
+  "2024-03-17": 1412373,
+  "2024-03-18": 1412879,
+  "2024-03-19": 1413287,
+  "2024-03-20": 1413795,
+  "2024-03-21": 1414282,
+  "2024-03-22": 1414753,
+  "2024-03-23": 1415265,
+  "2024-03-24": 1415776,
+  "2024-03-25": 1416197,
+  "2024-03-26": 1416693,
+  "2024-03-27": 1417642,
+  "2024-03-28": 1417642,
+  "2024-03-29": 1418586,
+  "2024-03-30": 1418586,
+  "2024-03-31": 1419039,
+  "2024-04-01": 1419489,
+  "2024-04-02": 1419918,
+  "2024-04-03": 1420320,
+  "2024-04-04": 1420750,
+  "2024-04-05": 1421224,
+  "2024-04-06": 1421641,
+  "2024-04-07": 1422056,
+  "2024-04-08": 1422793,
+  "2024-04-09": 1422793,
+  "2024-04-10": 1423252,
+  "2024-04-11": 1423673,
+  "2024-04-12": 1424139,
+  "2024-04-13": 1424624,
+  "2024-04-14": 1425033,
+  "2024-04-15": 1425468,
+  "2024-04-16": 1425745,
+  "2024-04-17": 1425931,
+  "2024-04-19": 1426896,
+  "2024-04-20": 1427121,
+  "2024-04-21": 1427348,
+  "2024-04-22": 1427515,
+  "2024-04-23": 1427910,
+  "2024-04-24": 1428638,
+  "2024-04-25": 1428754,
+  "2024-04-26": 1429240,
+  "2024-04-27": 1429616,
+  "2024-04-28": 1430001,
+  "2024-04-29": 1430350,
+  "2024-04-30": 1430202,
+  "2024-05-01": 1430478,
+  "2024-05-02": 1430860,
+  "2024-05-03": 1431370,
+  "2024-05-04": 1431699,
+  "2024-05-05": 1432111
 }

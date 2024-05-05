@@ -1,483 +1,125 @@
 {
-  "2024-05-05": 253163,
-  "date_first_scraped": "2024-01-03",
-  "description": "Let's have a LAYOVER in the V's world.",
-  "name": "This Is V",
-  "tracks": [
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149853,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
-    },
-    {
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
-    {
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209946,
-      "name": "Christmas Tree - Inst.",
-      "url": "https://open.spotify.com/track/37rnSr2ZCkzqmoUqGQtn4q"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
-    },
-    {
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148435,
-      "name": "FRI(END)S (Instrumental)",
-      "url": "https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP"
-    },
-    {
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162000,
-      "name": "FRI(END)S (Slowed Down)",
-      "url": "https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX"
-    },
-    {
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123000,
-      "name": "FRI(END)S (Sped Up)",
-      "url": "https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233265,
-      "name": "Inner Child",
-      "url": "https://open.spotify.com/track/25MHcbjvSdcfTiFgbKJiZF"
-    },
-    {
-      "album": {
-        "name": "HWARANG, Pt. 2 (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230693,
-      "name": "It's Definitely You",
-      "url": "https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK"
-    },
-    {
-      "album": {
-        "name": "HWARANG, Pt. 2 (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230719,
-      "name": "It's Definitely You - Instrumental",
-      "url": "https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/0SftJDguUa1F5SsQwwkLw4"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/54bg1e6ABcZfpU3yzwxnPf"
-    },
-    {
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/42GFBLpnHzGbuROBi6B4Ab"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 294252,
-      "name": "Scenery",
-      "url": "https://open.spotify.com/track/1UHkDovEFqHzHCPyNe0BTy"
-    },
-    {
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196998,
-      "name": "Singularity",
-      "url": "https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "album": {
-        "name": "Slow Dancing (Remixes)",
-        "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171904,
-      "name": "Slow Dancing (Cautious Clay Remix)",
-      "url": "https://open.spotify.com/track/31jZYFQEtq0ud5y9fDN4cw"
-    },
-    {
-      "album": {
-        "name": "Slow Dancing (Remixes)",
-        "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "FRNK",
-          "url": "https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169840,
-      "name": "Slow Dancing (FRNK Remix)",
-      "url": "https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk"
-    },
-    {
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188093,
-      "name": "Slow Dancing (Piano Ver.)",
-      "url": "https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV"
-    },
-    {
-      "album": {
-        "name": "Snow Flower (feat. Peakboy)",
-        "url": "https://open.spotify.com/album/4w5Rzux7dz1GkLkNkMd7L3"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229013,
-      "name": "Snow Flower (feat. Peakboy)",
-      "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
-    },
-    {
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216063,
-      "name": "Stigma",
-      "url": "https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR"
-    },
-    {
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
-    },
-    {
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214258,
-      "name": "Sweet Night (Inst.)",
-      "url": "https://open.spotify.com/track/2t4Ab1dHWWgc9QrU8erQ5k"
-    },
-    {
-      "album": {
-        "name": "wherever u r (ft. V of BTS)",
-        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153034,
-      "name": "wherever u r (ft. V of BTS)",
-      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
-    },
-    {
-      "album": {
-        "name": "Winter Bear",
-        "url": "https://open.spotify.com/album/14q6R8M7lDDjWuLjGNKQDj"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "date_added": "2024-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174824,
-      "name": "Winter Bear",
-      "url": "https://open.spotify.com/track/74ewFAgDzRkhZ7EX2eLtfZ"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Ku5zxR5pFB"
+  "2024-01-03": 60834,
+  "2024-01-04": 66208,
+  "2024-01-05": 72608,
+  "2024-01-06": 76830,
+  "2024-01-07": 80856,
+  "2024-01-08": 88144,
+  "2024-01-09": 90636,
+  "2024-01-10": 90636,
+  "2024-01-11": 92801,
+  "2024-01-12": 94926,
+  "2024-01-13": 96846,
+  "2024-01-14": 101995,
+  "2024-01-15": 101995,
+  "2024-01-16": 104092,
+  "2024-01-17": 105787,
+  "2024-01-18": 107153,
+  "2024-01-19": 108648,
+  "2024-01-20": 109911,
+  "2024-01-21": 111589,
+  "2024-01-22": 113485,
+  "2024-01-23": 114842,
+  "2024-01-24": 116269,
+  "2024-01-25": 117459,
+  "2024-01-26": 118627,
+  "2024-01-27": 119564,
+  "2024-01-28": 120948,
+  "2024-01-29": 122050,
+  "2024-01-30": 123032,
+  "2024-01-31": 124249,
+  "2024-02-01": 125500,
+  "2024-02-02": 126563,
+  "2024-02-03": 127514,
+  "2024-02-04": 128849,
+  "2024-02-05": 129993,
+  "2024-02-06": 131107,
+  "2024-02-07": 132018,
+  "2024-02-08": 132271,
+  "2024-02-09": 133689,
+  "2024-02-10": 134940,
+  "2024-02-11": 136159,
+  "2024-02-12": 137340,
+  "2024-02-13": 138253,
+  "2024-02-14": 138489,
+  "2024-02-15": 139361,
+  "2024-02-16": 140411,
+  "2024-02-17": 141255,
+  "2024-02-18": 142221,
+  "2024-02-19": 143308,
+  "2024-02-20": 144169,
+  "2024-02-21": 144977,
+  "2024-02-22": 145764,
+  "2024-02-23": 145831,
+  "2024-02-24": 146657,
+  "2024-02-25": 147907,
+  "2024-02-26": 149160,
+  "2024-02-27": 151113,
+  "2024-02-28": 151113,
+  "2024-02-29": 151944,
+  "2024-03-01": 152996,
+  "2024-03-02": 153952,
+  "2024-03-03": 155101,
+  "2024-03-04": 155996,
+  "2024-03-05": 156979,
+  "2024-03-06": 157948,
+  "2024-03-07": 158941,
+  "2024-03-08": 159973,
+  "2024-03-09": 160917,
+  "2024-03-10": 161771,
+  "2024-03-11": 162689,
+  "2024-03-12": 163284,
+  "2024-03-13": 164085,
+  "2024-03-14": 165288,
+  "2024-03-15": 167412,
+  "2024-03-16": 173893,
+  "2024-03-17": 177501,
+  "2024-03-18": 180424,
+  "2024-03-19": 183031,
+  "2024-03-20": 185096,
+  "2024-03-21": 187212,
+  "2024-03-22": 189471,
+  "2024-03-23": 190886,
+  "2024-03-24": 192508,
+  "2024-03-25": 194102,
+  "2024-03-26": 195576,
+  "2024-03-27": 198286,
+  "2024-03-28": 198286,
+  "2024-03-29": 201785,
+  "2024-03-30": 201785,
+  "2024-03-31": 203193,
+  "2024-04-01": 204571,
+  "2024-04-02": 205526,
+  "2024-04-03": 206451,
+  "2024-04-04": 207391,
+  "2024-04-05": 208743,
+  "2024-04-06": 209693,
+  "2024-04-07": 211151,
+  "2024-04-08": 213592,
+  "2024-04-09": 213592,
+  "2024-04-10": 214819,
+  "2024-04-11": 216267,
+  "2024-04-12": 217796,
+  "2024-04-13": 219297,
+  "2024-04-14": 221287,
+  "2024-04-15": 223190,
+  "2024-04-16": 224401,
+  "2024-04-17": 225802,
+  "2024-04-19": 229262,
+  "2024-04-20": 230692,
+  "2024-04-21": 232691,
+  "2024-04-22": 234402,
+  "2024-04-23": 235734,
+  "2024-04-24": 238002,
+  "2024-04-25": 238232,
+  "2024-04-26": 239395,
+  "2024-04-27": 240647,
+  "2024-04-28": 242056,
+  "2024-04-29": 243176,
+  "2024-04-30": 244283,
+  "2024-05-01": 245622,
+  "2024-05-02": 247330,
+  "2024-05-03": 248998,
+  "2024-05-04": 250874,
+  "2024-05-05": 253163
 }

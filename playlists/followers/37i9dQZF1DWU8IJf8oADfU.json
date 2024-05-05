@@ -1,1333 +1,220 @@
 {
-  "2024-05-05": 12920,
-  "date_first_scraped": "2023-09-29",
-  "description": "Il n'y a pas d'\u00e2ge pour aimer le rap et les musiques urbaines!",
-  "name": "Les Princes de la ville",
-  "tracks": [
-    {
-      "album": {
-        "name": "\u00c9ternel insatisfait",
-        "url": "https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233146,
-      "name": "#Askip",
-      "url": "https://open.spotify.com/track/4T7fVWFjYNwkuCKRpKXVeB"
-    },
-    {
-      "album": {
-        "name": "NAKAMURA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0qGjuUdOjuQfy8zgMHNi66"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174933,
-      "name": "40%",
-      "url": "https://open.spotify.com/track/47LFcy7prvEY5D08d26zOo"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218480,
-      "name": "Amour toxic",
-      "url": "https://open.spotify.com/track/70APCdHsWV5BEsacwjzXmd"
-    },
-    {
-      "album": {
-        "name": "Chaise pliante",
-        "url": "https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236000,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1"
-    },
-    {
-      "album": {
-        "name": "Fiesta Ete",
-        "url": "https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 236000,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO"
-    },
-    {
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214760,
-      "name": "Bob Marley",
-      "url": "https://open.spotify.com/track/2qXmVc811574AdIdDgayRP"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 221680,
-      "name": "Bobo au c\u0153ur",
-      "url": "https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221680,
-      "name": "Bobo au c\u0153ur",
-      "url": "https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd"
-    },
-    {
-      "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Awa Imani",
-          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235021,
-      "name": "Chocolat (feat. Awa Imani)",
-      "url": "https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX"
-    },
-    {
-      "album": {
-        "name": "Cosmopolitanie",
-        "url": "https://open.spotify.com/album/7wPAJt1V03jtxQ9Zg7rtbm"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183906,
-      "name": "Cosmo",
-      "url": "https://open.spotify.com/track/2XuQL2G6waqiSgHotdoWVi"
-    },
-    {
-      "album": {
-        "name": "Cosmopolitanie (Cosmo Tour Edition)",
-        "url": "https://open.spotify.com/album/2fO5Fk1US9U0WD20z1jg5Q"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 183906,
-      "name": "Cosmo",
-      "url": "https://open.spotify.com/track/6nieKIs3A2XxP5zZNrz3p8"
-    },
-    {
-      "album": {
-        "name": "Dieu merci",
-        "url": "https://open.spotify.com/album/25O3zUdFHx3k4C0ly1hHh2"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211648,
-      "name": "Dieu merci",
-      "url": "https://open.spotify.com/track/4kTF7OQVjTSZ5zdRqo8zxx"
-    },
-    {
-      "album": {
-        "name": "Dingue",
-        "url": "https://open.spotify.com/album/0u4B5w33hxcs1CwmEkGfff"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205985,
-      "name": "Dingue",
-      "url": "https://open.spotify.com/track/44tpuxqRh7xeknjUJCU6xj"
-    },
-    {
-      "album": {
-        "name": "Chasseur d'\u00e9toiles",
-        "url": "https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 206106,
-      "name": "Dingue",
-      "url": "https://open.spotify.com/track/2NXk38cqDXz1qY6E1ADlKA"
-    },
-    {
-      "album": {
-        "name": "La vraie vie (Deluxe)",
-        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238146,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
-    },
-    {
-      "album": {
-        "name": "Doudou",
-        "url": "https://open.spotify.com/album/4PYeMFSKdsqm3bHO9bt4uK"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168719,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/30WpoaLVDKtlnNnzoEcN2p"
-    },
-    {
-      "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 168719,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
-    },
-    {
-      "album": {
-        "name": "L'Everest",
-        "url": "https://open.spotify.com/album/6jnZT7krckxCFer0Oz2JbB"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205293,
-      "name": "En feu",
-      "url": "https://open.spotify.com/track/5rg6jVjcRlnifV86hAA6ro"
-    },
-    {
-      "album": {
-        "name": "L'Everest (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 205293,
-      "name": "En feu",
-      "url": "https://open.spotify.com/track/6FxIFhVlOvI1wcXWe8LKei"
-    },
-    {
-      "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237093,
-      "name": "Est-ce que tu m'aimes ? - Pilule bleue",
-      "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
-    },
-    {
-      "album": {
-        "name": "La cour des grands",
-        "url": "https://open.spotify.com/album/6lTELdxiiN3WUNfw0Ee1dy"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219440,
-      "name": "Gangsta - Bonus",
-      "url": "https://open.spotify.com/track/6lJyAYFwECkXKl4mjZUdvi"
-    },
-    {
-      "album": {
-        "name": "La cour des grands",
-        "url": "https://open.spotify.com/album/0TwkVtzgTlt1Y9kwsqkTCQ"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 219440,
-      "name": "Gangsta - Bonus",
-      "url": "https://open.spotify.com/track/7IFJNcevREJV8ZkIeITQGm"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 207076,
-      "name": "Grand bain",
-      "url": "https://open.spotify.com/track/0W4MOQ2kTOm1y7ooahgQP1"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/7vll2UdYabMRy58Md168VB"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207076,
-      "name": "Grand bain",
-      "url": "https://open.spotify.com/track/1fyVvRQsa095P7QK5Um7xH"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire (Transcendance)",
-        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205853,
-      "name": "Hola Se\u00f1orita",
-      "url": "https://open.spotify.com/track/4DaMDiRi2VukvrLfJDtmTu"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire (D\u00e9cennie)",
-        "url": "https://open.spotify.com/album/6ef6p6irHivlojqBC5NBJQ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 206853,
-      "name": "Hola Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7as5IRLG32wsI0Zf7kT3BL"
-    },
-    {
-      "album": {
-        "name": "Ombre Est Lumi\u00e8re",
-        "url": "https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267240,
-      "name": "Je danse le Mia",
-      "url": "https://open.spotify.com/track/6P8YkdLMTBA7z5nhKXgyi3"
-    },
-    {
-      "album": {
-        "name": "\u00c9ternel insatisfait",
-        "url": "https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228746,
-      "name": "Je suis chez moi",
-      "url": "https://open.spotify.com/track/3jyQ5s7TlKm5tqmpICahUY"
-    },
-    {
-      "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147076,
-      "name": "Jolie nana",
-      "url": "https://open.spotify.com/track/65RWVU6N81CeH65nu52K1U"
-    },
-    {
-      "album": {
-        "name": "Le fl\u00e9au",
-        "url": "https://open.spotify.com/album/05pZDf1vw2s8MQSWmW3zul"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 234174,
-      "name": "Jusqu'ici tout va bien",
-      "url": "https://open.spotify.com/track/3nFeSrghy0gmuhkuPPiXzQ"
-    },
-    {
-      "album": {
-        "name": "LE FL\u00c9AU",
-        "url": "https://open.spotify.com/album/6LBP1SXkgsyA45RMKv5Uaz"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234306,
-      "name": "JUSQU'ICI TOUT VA BIEN",
-      "url": "https://open.spotify.com/track/5Re3VKVOVnEhUi2TF56dMz"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire",
-        "url": "https://open.spotify.com/album/3Ivl72MtrJqHqzla3ar7fG"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199040,
-      "name": "La m\u00eame",
-      "url": "https://open.spotify.com/track/7HK0UeyxUWJjc6ndRZVKFg"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire",
-        "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 200040,
-      "name": "La m\u00eame",
-      "url": "https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc"
-    },
-    {
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Vincenzo",
-          "url": "https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200186,
-      "name": "Le coach (feat. Vincenzo)",
-      "url": "https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz"
-    },
-    {
-      "album": {
-        "name": "\u00c9ternel insatisfait (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199546,
-      "name": "Le plus fort du monde",
-      "url": "https://open.spotify.com/track/0ZUAu9lg95YEVqV7M0GQf8"
-    },
-    {
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224600,
-      "name": "Lionne",
-      "url": "https://open.spotify.com/track/3n3yFT4dGJuDRsF9mxdgc1"
-    },
-    {
-      "album": {
-        "name": "Vague \u00e0 l'\u00e2me",
-        "url": "https://open.spotify.com/album/4CXUvRIWCqZo7en5oeBaIK"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 234880,
-      "name": "Ma p'tite \u00e9toile",
-      "url": "https://open.spotify.com/track/4MQgqO4HollqhSs1Cu9xRR"
-    },
-    {
-      "album": {
-        "name": "vague \u00e0 l'\u00e2me",
-        "url": "https://open.spotify.com/album/4PYEbjC6QDMvJ7rNtRBG3U"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234880,
-      "name": "ma p'tite \u00e9toile",
-      "url": "https://open.spotify.com/track/7iSEs4lppLZQEPOG4e6BbF"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 208893,
-      "name": "Ma vie",
-      "url": "https://open.spotify.com/track/04c9W375VlrbMF7P03CyWA"
-    },
-    {
-      "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208893,
-      "name": "Ma vie",
-      "url": "https://open.spotify.com/track/2WFa5RbfyeoBDGNkg3OD7M"
-    },
-    {
-      "album": {
-        "name": "MDS 7 \u2013 Bless\u00e9",
-        "url": "https://open.spotify.com/album/4N9pTVlzF5K1KAdrTEg8b6"
-      },
-      "artists": [
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "Bill Clinton",
-          "url": "https://open.spotify.com/artist/4qTVFolSrwkoy428bmP7u8"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292363,
-      "name": "MDS 7 \u2013 Bless\u00e9",
-      "url": "https://open.spotify.com/track/11ziRz83acQ1sYZl1E32jQ"
-    },
-    {
-      "album": {
-        "name": "Mele\u011fim",
-        "url": "https://open.spotify.com/album/0xxlDQQVHcR5PSxaviIwn5"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221815,
-      "name": "Mele\u011fim",
-      "url": "https://open.spotify.com/track/0RyGkLUzlkmu6EZadbOgZa"
-    },
-    {
-      "album": {
-        "name": "Mer",
-        "url": "https://open.spotify.com/album/1xxAXoahmJ5UzFI2sgIfHJ"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193160,
-      "name": "Mer",
-      "url": "https://open.spotify.com/track/1UjdTw2Ma7JzNdHA3V1OdD"
-    },
-    {
-      "album": {
-        "name": "Mon beau-fr\u00e8re",
-        "url": "https://open.spotify.com/album/7h9bnMLZqzkPkvzN7r7lps"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213786,
-      "name": "Mon beau-fr\u00e8re",
-      "url": "https://open.spotify.com/track/0AFmUmPR9Tl4SGw2l1fIUG"
-    },
-    {
-      "album": {
-        "name": "L'Everest (\u00c9dition sp\u00e9ciale 2017)",
-        "url": "https://open.spotify.com/album/3qiny62ht6vCflJwUEDNNv"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 263280,
-      "name": "Mon pr\u00e9cieux",
-      "url": "https://open.spotify.com/track/6askNd1HGYepJQaWF1A2yN"
-    },
-    {
-      "album": {
-        "name": "Poison ou Antidote (Miel Book Edition)",
-        "url": "https://open.spotify.com/album/275OdcSSXdxWeVxLPOGzl6"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190757,
-      "name": "Mon soleil",
-      "url": "https://open.spotify.com/track/2Dv1CPIgX29t816ZLscdB2"
-    },
-    {
-      "album": {
-        "name": "Monsieur (Mood Edition)",
-        "url": "https://open.spotify.com/album/4pOOojcVWBE8iEsS1kbXJM"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 209816,
-      "name": "My Salsa",
-      "url": "https://open.spotify.com/track/7IJIj326qJJA6oi6EpFCBD"
-    },
-    {
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185853,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/2imLYhuE0rBYnSrhXDOaRX"
-    },
-    {
-      "album": {
-        "name": "L'adresse",
-        "url": "https://open.spotify.com/album/4e7ePEb65YZL6niyu77tzn"
-      },
-      "artists": [
-        {
-          "name": "47ter",
-          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219480,
-      "name": "On avait dit",
-      "url": "https://open.spotify.com/track/1fcdOjdABHDVZhHquEsjCG"
-    },
-    {
-      "album": {
-        "name": "L\u2019adresse",
-        "url": "https://open.spotify.com/album/20bhNmXgWXqmUDj7qKzvjk"
-      },
-      "artists": [
-        {
-          "name": "47ter",
-          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 220546,
-      "name": "On avait dit",
-      "url": "https://open.spotify.com/track/2BdvlpzLMtnrRX24NLIpu5"
-    },
-    {
-      "album": {
-        "name": "racine carr\u00e9e",
-        "url": "https://open.spotify.com/album/4WW3ME0M2dUoAK5hmbXsN7"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232146,
-      "name": "Papaoutai",
-      "url": "https://open.spotify.com/track/09TcIuH1ZO7i4vicWKoaN2"
-    },
-    {
-      "album": {
-        "name": "Racine Carr\u00e9e (Standard US Version)",
-        "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 232146,
-      "name": "Papaoutai",
-      "url": "https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj"
-    },
-    {
-      "album": {
-        "name": "La vie de r\u00eave",
-        "url": "https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203506,
-      "name": "Plus tard",
-      "url": "https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR"
-    },
-    {
-      "album": {
-        "name": "NAKAMURA",
-        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180840,
-      "name": "Pookie",
-      "url": "https://open.spotify.com/track/2QpUWi6VSNOt2WyH5FIeLD"
-    },
-    {
-      "album": {
-        "name": "Chasseur d'\u00e9toiles",
-        "url": "https://open.spotify.com/album/35CCZ7wWetfK32serxdHS6"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 258532,
-      "name": "Pr\u00e8s des \u00e9toiles",
-      "url": "https://open.spotify.com/track/606aizRf62P9rqTD02jfTn"
-    },
-    {
-      "album": {
-        "name": "Pr\u00e8s des \u00e9toiles",
-        "url": "https://open.spotify.com/album/0ZE9FqDi1FPtSLltM3uOVx"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259819,
-      "name": "Pr\u00e8s des \u00e9toiles",
-      "url": "https://open.spotify.com/track/3Mxx5gTDRjUF5u7q5NRChG"
-    },
-    {
-      "album": {
-        "name": "Marchand de sable",
-        "url": "https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b"
-      },
-      "artists": [
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235555,
-      "name": "Ramenez la coupe \u00e0 la maison",
-      "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
-    },
-    {
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 199266,
-      "name": "Reine",
-      "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
-    },
-    {
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199266,
-      "name": "Reine",
-      "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire (Transcendance)",
-        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230520,
-      "name": "Reste",
-      "url": "https://open.spotify.com/track/2vruJV9zbgg0CE1x14vVFW"
-    },
-    {
-      "album": {
-        "name": "Ceinture noire (Transcendance)",
-        "url": "https://open.spotify.com/album/2lHVp0TDnXIHUHwojpW6fN"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 231520,
-      "name": "Reste",
-      "url": "https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI"
-    },
-    {
-      "album": {
-        "name": "L'Everest (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238893,
-      "name": "Roule",
-      "url": "https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ"
-    },
-    {
-      "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206786,
-      "name": "Sap\u00e9s comme jamais (feat. Niska) - Pilule bleue",
-      "url": "https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH"
-    },
-    {
-      "album": {
-        "name": "Les yeux plus gros que le monde",
-        "url": "https://open.spotify.com/album/1D2Rs9qcENebbiDR5wk88T"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252573,
-      "name": "Sur ma route",
-      "url": "https://open.spotify.com/track/3Uyt0WO3wOopnUBCe9BaXl"
-    },
-    {
-      "album": {
-        "name": "Racine Carr\u00e9e (Standard US Version)",
-        "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 210933,
-      "name": "Tous les m\u00eames",
-      "url": "https://open.spotify.com/track/1GC1MIaRMW3kfVK9VyD5Ii"
-    },
-    {
-      "album": {
-        "name": "racine carr\u00e9e",
-        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210933,
-      "name": "Tous les m\u00eames",
-      "url": "https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL"
-    },
-    {
-      "album": {
-        "name": "Vivre",
-        "url": "https://open.spotify.com/album/6lRUJo8EbPyrPQdR6p8MVj"
-      },
-      "artists": [
-        {
-          "name": "47ter",
-          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185186,
-      "name": "Vivre",
-      "url": "https://open.spotify.com/track/1RCBTBrZMvbtlqZeZH1nzT"
-    },
-    {
-      "album": {
-        "name": "Le fl\u00e9au",
-        "url": "https://open.spotify.com/album/05pZDf1vw2s8MQSWmW3zul"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 197807,
-      "name": "Yolo",
-      "url": "https://open.spotify.com/track/2u4IJKewUvcJ9B6Wng92PI"
-    },
-    {
-      "album": {
-        "name": "YOLO",
-        "url": "https://open.spotify.com/album/30QYcuW7Ht7icND1G9GXOv"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197946,
-      "name": "YOLO",
-      "url": "https://open.spotify.com/track/4U5z5mT5tPddqPSdJGgISV"
-    },
-    {
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "date_added": "2021-08-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233813,
-      "name": "\u00c0 nos h\u00e9ros du quotidien",
-      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU8IJf8oADfU"
+  "2023-09-29": 7627,
+  "2023-09-30": 7676,
+  "2023-10-01": 7726,
+  "2023-10-02": 7788,
+  "2023-10-03": 7826,
+  "2023-10-04": 7852,
+  "2023-10-05": 7899,
+  "2023-10-06": 7936,
+  "2023-10-07": 7972,
+  "2023-10-08": 8024,
+  "2023-10-09": 8071,
+  "2023-10-10": 8099,
+  "2023-10-11": 8185,
+  "2023-10-12": 8185,
+  "2023-10-13": 8217,
+  "2023-10-14": 8256,
+  "2023-10-15": 8293,
+  "2023-10-16": 8331,
+  "2023-10-17": 8368,
+  "2023-10-18": 8407,
+  "2023-10-19": 8440,
+  "2023-10-20": 8473,
+  "2023-10-21": 8506,
+  "2023-10-22": 8559,
+  "2023-10-23": 8600,
+  "2023-10-24": 8635,
+  "2023-10-25": 8673,
+  "2023-10-26": 8711,
+  "2023-10-27": 8758,
+  "2023-10-28": 8799,
+  "2023-10-29": 8845,
+  "2023-10-30": 8944,
+  "2023-10-31": 8944,
+  "2023-11-01": 8988,
+  "2023-11-02": 9027,
+  "2023-11-03": 9073,
+  "2023-11-04": 9133,
+  "2023-11-05": 9179,
+  "2023-11-06": 9212,
+  "2023-11-07": 9248,
+  "2023-11-08": 9284,
+  "2023-11-09": 9319,
+  "2023-11-10": 9362,
+  "2023-11-11": 9396,
+  "2023-11-12": 9439,
+  "2023-11-13": 9472,
+  "2023-11-14": 9502,
+  "2023-11-15": 9502,
+  "2023-11-16": 9565,
+  "2023-11-17": 9614,
+  "2023-11-18": 9614,
+  "2023-11-19": 9648,
+  "2023-11-20": 9667,
+  "2023-11-21": 9701,
+  "2023-11-22": 9729,
+  "2023-11-23": 9762,
+  "2023-11-24": 9797,
+  "2023-11-25": 9836,
+  "2023-11-26": 9871,
+  "2023-11-27": 9892,
+  "2023-11-28": 9914,
+  "2023-11-29": 9972,
+  "2023-11-30": 9972,
+  "2023-12-01": 9996,
+  "2023-12-02": 10021,
+  "2023-12-03": 10047,
+  "2023-12-04": 10077,
+  "2023-12-05": 10103,
+  "2023-12-06": 10142,
+  "2023-12-07": 10179,
+  "2023-12-08": 10213,
+  "2023-12-09": 10239,
+  "2023-12-10": 10270,
+  "2023-12-11": 10295,
+  "2023-12-12": 10311,
+  "2023-12-13": 10324,
+  "2023-12-14": 10346,
+  "2023-12-15": 10370,
+  "2023-12-16": 10397,
+  "2023-12-17": 10409,
+  "2023-12-18": 10427,
+  "2023-12-19": 10447,
+  "2023-12-20": 10466,
+  "2023-12-21": 10476,
+  "2023-12-22": 10502,
+  "2023-12-23": 10527,
+  "2023-12-24": 10551,
+  "2023-12-25": 10577,
+  "2023-12-26": 10595,
+  "2023-12-27": 10615,
+  "2023-12-29": 10615,
+  "2023-12-30": 10655,
+  "2023-12-31": 10680,
+  "2024-01-01": 10702,
+  "2024-01-02": 10712,
+  "2024-01-03": 10725,
+  "2024-01-04": 10748,
+  "2024-01-05": 10763,
+  "2024-01-06": 10773,
+  "2024-01-07": 10801,
+  "2024-01-08": 10847,
+  "2024-01-09": 10858,
+  "2024-01-10": 10858,
+  "2024-01-11": 10871,
+  "2024-01-12": 10890,
+  "2024-01-13": 10910,
+  "2024-01-14": 10944,
+  "2024-01-15": 10944,
+  "2024-01-16": 10962,
+  "2024-01-17": 10981,
+  "2024-01-18": 11006,
+  "2024-01-19": 11020,
+  "2024-01-20": 11040,
+  "2024-01-21": 11063,
+  "2024-01-22": 11084,
+  "2024-01-23": 11098,
+  "2024-01-24": 11111,
+  "2024-01-25": 11126,
+  "2024-01-26": 11149,
+  "2024-01-27": 11174,
+  "2024-01-28": 11200,
+  "2024-01-29": 11227,
+  "2024-01-30": 11240,
+  "2024-01-31": 11264,
+  "2024-02-01": 11279,
+  "2024-02-02": 11290,
+  "2024-02-03": 11312,
+  "2024-02-04": 11334,
+  "2024-02-05": 11352,
+  "2024-02-06": 11371,
+  "2024-02-07": 11391,
+  "2024-02-08": 11406,
+  "2024-02-09": 11413,
+  "2024-02-10": 11424,
+  "2024-02-11": 11446,
+  "2024-02-12": 11461,
+  "2024-02-13": 11479,
+  "2024-02-14": 11493,
+  "2024-02-15": 11505,
+  "2024-02-16": 11522,
+  "2024-02-17": 11542,
+  "2024-02-18": 11566,
+  "2024-02-19": 11585,
+  "2024-02-20": 11601,
+  "2024-02-21": 11621,
+  "2024-02-22": 11638,
+  "2024-02-23": 11649,
+  "2024-02-24": 11663,
+  "2024-02-25": 11676,
+  "2024-02-26": 11702,
+  "2024-02-27": 11724,
+  "2024-02-28": 11724,
+  "2024-02-29": 11752,
+  "2024-03-01": 11774,
+  "2024-03-02": 11792,
+  "2024-03-03": 11820,
+  "2024-03-04": 11844,
+  "2024-03-05": 11856,
+  "2024-03-06": 11870,
+  "2024-03-07": 11890,
+  "2024-03-08": 11907,
+  "2024-03-09": 11922,
+  "2024-03-10": 11943,
+  "2024-03-11": 11958,
+  "2024-03-12": 11980,
+  "2024-03-13": 11996,
+  "2024-03-14": 12022,
+  "2024-03-15": 12041,
+  "2024-03-16": 12048,
+  "2024-03-17": 12077,
+  "2024-03-18": 12092,
+  "2024-03-19": 12104,
+  "2024-03-20": 12113,
+  "2024-03-21": 12131,
+  "2024-03-22": 12143,
+  "2024-03-23": 12163,
+  "2024-03-24": 12183,
+  "2024-03-25": 12206,
+  "2024-03-26": 12220,
+  "2024-03-27": 12251,
+  "2024-03-28": 12251,
+  "2024-03-29": 12292,
+  "2024-03-30": 12292,
+  "2024-03-31": 12312,
+  "2024-04-01": 12342,
+  "2024-04-02": 12357,
+  "2024-04-03": 12370,
+  "2024-04-04": 12383,
+  "2024-04-05": 12399,
+  "2024-04-06": 12419,
+  "2024-04-07": 12453,
+  "2024-04-08": 12475,
+  "2024-04-09": 12475,
+  "2024-04-10": 12491,
+  "2024-04-11": 12515,
+  "2024-04-12": 12534,
+  "2024-04-13": 12556,
+  "2024-04-14": 12568,
+  "2024-04-15": 12591,
+  "2024-04-16": 12615,
+  "2024-04-17": 12628,
+  "2024-04-19": 12660,
+  "2024-04-20": 12673,
+  "2024-04-21": 12689,
+  "2024-04-22": 12704,
+  "2024-04-23": 12714,
+  "2024-04-24": 12736,
+  "2024-04-25": 12739,
+  "2024-04-26": 12761,
+  "2024-04-27": 12780,
+  "2024-04-28": 12796,
+  "2024-04-29": 12810,
+  "2024-04-30": 12829,
+  "2024-05-01": 12845,
+  "2024-05-02": 12862,
+  "2024-05-03": 12877,
+  "2024-05-04": 12898,
+  "2024-05-05": 12920
 }

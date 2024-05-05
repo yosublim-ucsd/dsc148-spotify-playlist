@@ -1,1057 +1,177 @@
 {
-  "2024-05-05": 11279,
-  "date_first_scraped": "2023-11-11",
-  "description": "This Is Bratty. Los temas esenciales, todos en una lista.",
-  "name": "This Is Bratty",
-  "tracks": [
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k"
-    },
-    {
-      "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238533,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
-      "duration_ms": 171173,
-      "name": "As\u00ed TQ Recordar",
-      "url": "https://open.spotify.com/track/7f1MTjvYlcQwJW1oouTjVU"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155880,
-      "name": "Before Seeing Green",
-      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
-    },
-    {
-      "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177906,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
-    },
-    {
-      "album": {
-        "name": "Chocolate y Nata",
-        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181384,
-      "name": "Chocolate y Nata",
-      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
-    },
-    {
-      "album": {
-        "name": "Continental",
-        "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204613,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218546,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138866,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
-    },
-    {
-      "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177466,
-      "name": "ecoducto",
-      "url": "https://open.spotify.com/track/5f6eF1GxmwaRm0DLsFdVit"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 160720,
-      "name": "Esta Ciudad",
-      "url": "https://open.spotify.com/track/3tgcsXKt9CgKQUlugonImS"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202186,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/0H2wALPTgKViQYDXYNMBx0"
-    },
-    {
-      "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
-      "duration_ms": 202586,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
-    },
-    {
-      "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174117,
-      "name": "Fin Del Mundo (with Bratty)",
-      "url": "https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257773,
-      "name": "friend",
-      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
-    },
-    {
-      "album": {
-        "name": "Rep\u00fablica De La Nostalgia",
-        "url": "https://open.spotify.com/album/6hXtLpGm5YCS7D8EZg2BPQ"
-      },
-      "artists": [
-        {
-          "name": "BAMBI",
-          "url": "https://open.spotify.com/artist/0nDw7H8W4oU0QPzL4LC9Aj"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234400,
-      "name": "Hasta Luego",
-      "url": "https://open.spotify.com/track/4JTWEGM4PWVbt8WHVzbq86"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212413,
-      "name": "Hazme Saber",
-      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267480,
-      "name": "jules",
-      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214280,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "album": {
-        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
-        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155520,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
-    },
-    {
-      "album": {
-        "name": "KOR KOR LAKE",
-        "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193624,
-      "name": "NADA ME LEVANTA",
-      "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
-      "duration_ms": 163560,
-      "name": "Nada Que Decir",
-      "url": "https://open.spotify.com/track/0a8Tk3RxN3UK4rw5iqBtWP"
-    },
-    {
-      "album": {
-        "name": "Aroma A Nostalgia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 351413,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
-    },
-    {
-      "album": {
-        "name": "Limones de Oro",
-        "url": "https://open.spotify.com/album/2kA0nYzjymPxh3qEkNcuwN"
-      },
-      "artists": [
-        {
-          "name": "IZARO",
-          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175121,
-      "name": "Patinar Sobre Hielo",
-      "url": "https://open.spotify.com/track/2lq8hCV4li1m4tzu9vZDtN"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208533,
-      "name": "Que Yo A T\u00ed",
-      "url": "https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193120,
-      "name": "Quiero Estar",
-      "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2024-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225040,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/7tm1BebE71tHtJmbJKvvxq"
-    },
-    {
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
-      "duration_ms": 203333,
-      "name": "Qu\u00e9date - Ac\u00fastico / Bonus Track",
-      "url": "https://open.spotify.com/track/1E7KyJ8EYd92qZ4EQPWrWJ"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
-    },
-    {
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "album": {
-        "name": "Ropa De Bazar",
-        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197906,
-      "name": "Ropa De Bazar",
-      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
-    },
-    {
-      "album": {
-        "name": "seguiremos siendo",
-        "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194874,
-      "name": "seguiremos siendo",
-      "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
-    },
-    {
-      "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190333,
-      "name": "Shh",
-      "url": "https://open.spotify.com/track/2FoUIyGK8ddv0LQQWrd5Ie"
-    },
-    {
-      "album": {
-        "name": "Sobred\u00f3sis De Tempra",
-        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178960,
-      "name": "Sobred\u00f3sis De Tempra",
-      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211746,
-      "name": "tarde",
-      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
-    },
-    {
-      "album": {
-        "name": "Things will be fine (Bratty Remix)",
-        "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200000,
-      "name": "Things will be fine - Bratty Remix",
-      "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
-    },
-    {
-      "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231400,
-      "name": "tiempo",
-      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
-    },
-    {
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193173,
-      "name": "Todo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
-    },
-    {
-      "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225493,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
-    },
-    {
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230386,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
-    },
-    {
-      "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157506,
-      "name": "u.c.m.c.d.n.",
-      "url": "https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn"
-    },
-    {
-      "album": {
-        "name": "Voy en Auto",
-        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178686,
-      "name": "Voy en Auto",
-      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-12-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
-    },
-    {
-      "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 206040,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
-      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
-    },
-    {
-      "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212866,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
-    },
-    {
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
-      "duration_ms": 94986,
-      "name": "\u2026 Un Nuevo Disco",
-      "url": "https://open.spotify.com/track/5KBdCGfVJ4ydhrT6VNLhet"
-    }
-  ],
-  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tKTQI"
+  "2023-11-11": 9343,
+  "2023-11-12": 9343,
+  "2023-11-13": 9343,
+  "2023-11-14": 9343,
+  "2023-11-15": 9343,
+  "2023-11-16": 9343,
+  "2023-11-17": 9343,
+  "2023-11-18": 9343,
+  "2023-11-19": 9343,
+  "2023-11-20": 9343,
+  "2023-11-21": 9343,
+  "2023-11-22": 9343,
+  "2023-11-23": 9343,
+  "2023-11-24": 9343,
+  "2023-11-25": 9343,
+  "2023-11-26": 9343,
+  "2023-11-27": 9343,
+  "2023-11-28": 9343,
+  "2023-11-29": 9343,
+  "2023-11-30": 9343,
+  "2023-12-01": 9343,
+  "2023-12-02": 9343,
+  "2023-12-03": 9343,
+  "2023-12-04": 9343,
+  "2023-12-05": 9343,
+  "2023-12-06": 9343,
+  "2023-12-07": 9343,
+  "2023-12-08": 9343,
+  "2023-12-09": 9343,
+  "2023-12-10": 9343,
+  "2023-12-11": 9343,
+  "2023-12-12": 9343,
+  "2023-12-13": 9343,
+  "2023-12-14": 9916,
+  "2023-12-15": 9928,
+  "2023-12-16": 9938,
+  "2023-12-17": 9949,
+  "2023-12-18": 9955,
+  "2023-12-19": 9960,
+  "2023-12-20": 9968,
+  "2023-12-21": 9976,
+  "2023-12-22": 10010,
+  "2023-12-23": 10034,
+  "2023-12-24": 10062,
+  "2023-12-25": 10078,
+  "2023-12-26": 10088,
+  "2023-12-27": 10099,
+  "2023-12-29": 10099,
+  "2023-12-30": 10135,
+  "2023-12-31": 10146,
+  "2024-01-01": 10147,
+  "2024-01-02": 10156,
+  "2024-01-03": 10166,
+  "2024-01-04": 10174,
+  "2024-01-05": 10196,
+  "2024-01-06": 10200,
+  "2024-01-07": 10215,
+  "2024-01-08": 10226,
+  "2024-01-09": 10234,
+  "2024-01-10": 10234,
+  "2024-01-11": 10247,
+  "2024-01-12": 10260,
+  "2024-01-13": 10270,
+  "2024-01-14": 10282,
+  "2024-01-15": 10282,
+  "2024-01-16": 10301,
+  "2024-01-17": 10306,
+  "2024-01-18": 10318,
+  "2024-01-19": 10329,
+  "2024-01-20": 10340,
+  "2024-01-21": 10348,
+  "2024-01-22": 10352,
+  "2024-01-23": 10357,
+  "2024-01-24": 10372,
+  "2024-01-25": 10371,
+  "2024-01-26": 10385,
+  "2024-01-27": 10394,
+  "2024-01-28": 10397,
+  "2024-01-29": 10405,
+  "2024-01-30": 10413,
+  "2024-01-31": 10423,
+  "2024-02-01": 10438,
+  "2024-02-02": 10454,
+  "2024-02-03": 10465,
+  "2024-02-04": 10470,
+  "2024-02-05": 10476,
+  "2024-02-06": 10484,
+  "2024-02-07": 10492,
+  "2024-02-08": 10501,
+  "2024-02-09": 10506,
+  "2024-02-10": 10514,
+  "2024-02-11": 10520,
+  "2024-02-12": 10526,
+  "2024-02-13": 10529,
+  "2024-02-14": 10539,
+  "2024-02-15": 10546,
+  "2024-02-16": 10551,
+  "2024-02-17": 10557,
+  "2024-02-18": 10556,
+  "2024-02-19": 10557,
+  "2024-02-20": 10561,
+  "2024-02-21": 10565,
+  "2024-02-22": 10571,
+  "2024-02-23": 10580,
+  "2024-02-24": 10589,
+  "2024-02-25": 10594,
+  "2024-02-26": 10597,
+  "2024-02-27": 10607,
+  "2024-02-28": 10607,
+  "2024-02-29": 10615,
+  "2024-03-01": 10625,
+  "2024-03-02": 10625,
+  "2024-03-03": 10632,
+  "2024-03-04": 10641,
+  "2024-03-05": 10650,
+  "2024-03-06": 10668,
+  "2024-03-07": 10677,
+  "2024-03-08": 10680,
+  "2024-03-09": 10688,
+  "2024-03-10": 10695,
+  "2024-03-11": 10709,
+  "2024-03-12": 10723,
+  "2024-03-13": 10729,
+  "2024-03-14": 10740,
+  "2024-03-15": 10747,
+  "2024-03-16": 10758,
+  "2024-03-17": 10770,
+  "2024-03-18": 10777,
+  "2024-03-19": 10800,
+  "2024-03-20": 10807,
+  "2024-03-21": 10809,
+  "2024-03-22": 10818,
+  "2024-03-23": 10825,
+  "2024-03-24": 10831,
+  "2024-03-25": 10834,
+  "2024-03-26": 10842,
+  "2024-03-27": 10844,
+  "2024-03-28": 10844,
+  "2024-03-29": 10858,
+  "2024-03-30": 10858,
+  "2024-03-31": 10861,
+  "2024-04-01": 10869,
+  "2024-04-02": 10880,
+  "2024-04-03": 10908,
+  "2024-04-04": 10917,
+  "2024-04-05": 10932,
+  "2024-04-06": 10946,
+  "2024-04-07": 10955,
+  "2024-04-08": 10973,
+  "2024-04-09": 10973,
+  "2024-04-10": 10976,
+  "2024-04-11": 10985,
+  "2024-04-12": 10987,
+  "2024-04-13": 10992,
+  "2024-04-14": 10996,
+  "2024-04-15": 11004,
+  "2024-04-16": 11011,
+  "2024-04-17": 11020,
+  "2024-04-19": 11037,
+  "2024-04-20": 11049,
+  "2024-04-21": 11063,
+  "2024-04-22": 11065,
+  "2024-04-23": 11074,
+  "2024-04-24": 11094,
+  "2024-04-25": 11099,
+  "2024-04-26": 11106,
+  "2024-04-27": 11132,
+  "2024-04-28": 11149,
+  "2024-04-29": 11163,
+  "2024-04-30": 11178,
+  "2024-05-01": 11198,
+  "2024-05-02": 11215,
+  "2024-05-03": 11243,
+  "2024-05-04": 11267,
+  "2024-05-05": 11279
 }
