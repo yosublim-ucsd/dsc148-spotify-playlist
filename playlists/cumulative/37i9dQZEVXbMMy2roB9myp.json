@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 184800,
       "name": "Carta de Despedida",
       "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
@@ -2935,6 +2935,28 @@
     },
     {
       "album": {
+        "name": "Cierre Rkt",
+        "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
+      },
+      "artists": [
+        {
+          "name": "Eze Remix",
+          "url": "https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT"
+        },
+        {
+          "name": "Matt Sebastian",
+          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120018,
+      "name": "Cierre Rkt",
+      "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -2964,7 +2986,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
@@ -7880,7 +7902,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
@@ -14800,7 +14822,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 166500,
       "name": "tinta 90",
       "url": "https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa"
@@ -16790,7 +16812,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi"

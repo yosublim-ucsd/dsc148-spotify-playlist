@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 ### [This Is John Lee Hooker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RLWgA)
 
-> This Is John Lee Hooker\. Los temas esenciales, todos en una lista.
+> This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,252 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,270 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [That's Alright \(feat\. Charlie Musselwhite\)](https://open.spotify.com/track/2COsS6PVvMjYwqGXYc4mrE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:24 |
 | 50 | [She's Long, She's Tall, She Weeps Like A Willow Tree](https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:47 |
 
-Snapshot ID: `ZjQpAAAAAACOO8lnAGrM0ZbMgaBD7CeI`
+Snapshot ID: `ZjQpAAAAAABqMjOmQ6KY+Xl01uDT4+lu`

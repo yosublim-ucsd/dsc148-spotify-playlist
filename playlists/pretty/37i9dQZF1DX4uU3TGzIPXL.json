@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 570819,
+  "num_followers": 570979,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Blurring The Edges",
-        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
-      },
-      "artists": [
-        {
-          "name": "Meredith Brooks",
-          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Blurring The Edges",
+        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+      },
+      "artists": [
+        {
+          "name": "Meredith Brooks",
+          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "The Best of 2Pac",
         "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 284480,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Mad Mad World (Deluxe)",
-        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Mad Mad World (Deluxe)",
+        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 266000,
       "name": "If You Had My Love",
       "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2023-06-16 18:37:43",

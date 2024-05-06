@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,726 likes - 152 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,932 likes - 152 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 ### [This Is ReoNa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS)
 
-> This is ReoNa\. The essential tracks, all in one playlist.
+> This Is ReoNa\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,364 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,369 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 49 | [生命線 \-Game size\-](https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:39 |
 | 50 | [VITA \-The Days\-](https://open.spotify.com/track/57cU3nbUkPzdbQ6RdDQjjy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.\(Special Edition\)](https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO) | 9:40 |
 
-Snapshot ID: `ZjQpAAAAAAB0DLxB051OGxKsF2fR7GE3`
+Snapshot ID: `ZjQpAAAAAAC3j7DGkjVemaNoFWPVMDBr`

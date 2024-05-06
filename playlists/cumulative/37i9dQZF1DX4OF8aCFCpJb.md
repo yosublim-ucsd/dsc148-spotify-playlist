@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-224 songs - 13 hr 12 min
+225 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Allt Jag Har \- Remix](https://open.spotify.com/track/5bLrlFDEQdsWjYxXjtK5kz) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu), [Ken Ring](https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX) | [Dunderbart](https://open.spotify.com/album/65Dxrbp2wmyfJKWBiusoex) | 2:58 | 2024-03-07 | 2024-04-02 |
 | [Allt Jag Har REMIX](https://open.spotify.com/track/297oQ7daTBr2k2nkkVjwMy) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu), [Ken Ring](https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX) | [Dunderbart](https://open.spotify.com/album/7GFMvvMTomUoDgD0wqrJhZ) | 2:58 | 2021-12-14 | 2022-07-27 |
 | [Allting ordnar sig](https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR) | [Achee Flips](https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT), [Rob Bourne](https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC) | [Allting ordnar sig](https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf) | 3:17 | 2021-12-14 |  |
-| [Amazing](https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Amazing](https://open.spotify.com/album/6yxiQgMgZThmXBz2iaQFtP) | 2:20 | 2022-06-23 |  |
+| [Amazing](https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Amazing](https://open.spotify.com/album/6yxiQgMgZThmXBz2iaQFtP) | 2:20 | 2022-06-23 | 2024-05-06 |
 | [Attityd](https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Störst av allt är kärleken](https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9) | 3:14 | 2021-12-14 |  |
 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 | 2021-12-14 |  |
 | [Babylove](https://open.spotify.com/track/4nBNcwji3bTo6IoaEpoZZY) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Babylove](https://open.spotify.com/album/3OPYol6IeksktJKydDQcAX) | 3:07 | 2021-12-14 | 2022-07-29 |
@@ -67,6 +67,7 @@
 | [Fet Krokodil](https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM) | [P\-Danjelsa](https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk) | [Fet Krokodil](https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB) | 3:14 | 2021-12-14 | 2022-07-28 |
 | [Finns det liv finns det tid](https://open.spotify.com/track/4nMzM9STL3bbAErupiguPm) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a) | [Finns det liv finns det tid](https://open.spotify.com/album/7uAmXsf3oC3LiFfrlYVtoM) | 3:40 | 2021-12-14 | 2022-07-29 |
 | [Fri Nu](https://open.spotify.com/track/5SPgbtXNW2pj0DlhYqeOx9) | [Kmarian](https://open.spotify.com/artist/2mgfQYrL1Y9xmv2IktzjTY), [Denis Alic](https://open.spotify.com/artist/0Ck1iQu6kbz5K9NVgBiYqi) | [Fri Nu](https://open.spotify.com/album/7ghf4wxgcdA5tfuaRIlk89) | 2:55 | 2021-12-14 | 2022-07-29 |
+| [Från och med Du](https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Från och med Du](https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G) | 4:20 | 2024-03-07 |  |
 | [Full fokus](https://open.spotify.com/track/26amtV7taoZZCk1zrGu2uc) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan raderna](https://open.spotify.com/album/2nyjQWrTM5dcaUYOno6ivK) | 3:11 | 2021-12-14 | 2022-07-27 |
 | [Full fokus](https://open.spotify.com/track/2Isom13ngkmcYvFtWbbAXx) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan raderna](https://open.spotify.com/album/2jkSMhg8OxpW78vTemHHQe) | 3:11 | 2022-07-15 | 2022-09-05 |
 | [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 | 2023-04-20 | 2024-04-19 |

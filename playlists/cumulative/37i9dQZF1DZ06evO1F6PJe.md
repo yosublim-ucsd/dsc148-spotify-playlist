@@ -2,7 +2,7 @@
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This Is Joe Bonamassa\. Los temas esenciales, todos en una lista.
+> This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
 139 songs - 12 hr 9 min
 

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-157 songs - 7 hr 11 min
+158 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [One last call](https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:14 | 2023-03-03 | 2023-07-22 |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-03-03 |  |
 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2024-02-06 |  |
+| [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 |  |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/3ZrVhaB84vn6hJiZrLi0DE) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/0r0kniPp7rZPRahBAKZTY3) | 1:48 | 2023-04-13 | 2023-10-07 |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/6YhQUEbGJesVf0XUsklFLz) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/5M9Z55HQKiqS04hvpfIBxJ) | 1:48 | 2023-03-03 | 2023-04-29 |
 | [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 | 2023-03-03 | 2024-04-24 |
@@ -136,7 +137,7 @@
 | [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 |  |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 |  |
 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 | 2024-05-03 |
-| [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 |  |
+| [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 | 2024-05-06 |
 | [Sidus Imbrem Pluvia](https://open.spotify.com/track/6PtE2MAmHS93rB9UhXkg0x) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Sidus Imbrem Pluvia](https://open.spotify.com/album/7IKc8KDoqR4D4cgKz0sBE2) | 3:38 | 2024-03-20 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 |  |

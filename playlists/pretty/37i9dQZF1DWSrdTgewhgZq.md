@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > The most flammable playlist ever\. Kendrick Lamar spitting fire 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,297 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,338 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,023 likes - 64 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,022 likes - 64 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 32 | [Fuck It](https://open.spotify.com/track/2iPo6qr1P0xQDWgbLCAJ7t) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:05 |
 | 33 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
 | 34 | [DO YOU LOVE HER](https://open.spotify.com/track/5NRCNo7S8HP7nxYIPxemwp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:16 |
-| 35 | [Dear Yessie](https://open.spotify.com/track/7CF1huK3rloG4qZhp9ruor) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:09 |
-| 36 | [ROOF](https://open.spotify.com/track/4RtDsnX2POXFbiDaCgkcaq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 1:45 |
+| 35 | [ROOF](https://open.spotify.com/track/4RtDsnX2POXFbiDaCgkcaq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 1:45 |
+| 36 | [Dear Yessie](https://open.spotify.com/track/7CF1huK3rloG4qZhp9ruor) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:09 |
 | 37 | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/track/7qQUyJYrHdAVxKeZBy6fyf) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 4:05 |
 | 38 | [SCAR](https://open.spotify.com/track/1k9bH40gL6lCMIgHOsTDP8) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:06 |
 | 39 | [Phone Calls](https://open.spotify.com/track/4DgR4zgbO0vW5rYwyYUM6V) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Phone Calls](https://open.spotify.com/album/2hyqzu8QYVj8RazBhNZr7N) | 3:01 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 63 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 64 | [Rain](https://open.spotify.com/track/1HErjwORTBL6V4YwdLNASN) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/7o39Uat02zV7woX9uzUamH) | 2:49 |
 
-Snapshot ID: `AbQecgAAAAAx/8QhnJyMJMPA47ujhXhE`
+Snapshot ID: `AbQjYQAAAADKxuVYFCaUGQC64Rm8KarP`

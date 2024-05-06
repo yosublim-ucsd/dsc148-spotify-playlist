@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 49046,
+  "num_followers": 49070,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Uncommon Ritual",
         "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 281146,
       "name": "Sliding Down",
       "url": "https://open.spotify.com/track/6i3ZOSknAlWQcjkW8gVD1W"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -415,38 +415,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Pastures New",
-      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Barnimal",
-        "url": "https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o"
-      },
-      "artists": [
-        {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
-        }
-      ],
-      "duration_ms": 143786,
-      "name": "Barnimal",
-      "url": "https://open.spotify.com/track/50IXyYkgyLE16O6ohs4r4g"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -467,6 +435,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Barnimal",
+        "url": "https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        }
+      ],
+      "duration_ms": 143786,
+      "name": "Barnimal",
+      "url": "https://open.spotify.com/track/50IXyYkgyLE16O6ohs4r4g"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Song Up In Her Head",
         "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 171266,
       "name": "Mansinneedof",
       "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Pastures New",
+      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Robin And Marian",
-      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Robin And Marian",
+      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 156600,
       "name": "Leaving Cottondale",
       "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1055,6 +1055,42 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+      },
+      "artists": [
+        {
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Gravity's Our Enemy",
         "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
@@ -1083,42 +1119,6 @@
       "duration_ms": 301786,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Jolly Green",
         "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Pretty Kate And The Rabbit",
         "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 250826,
       "name": "Pretty Kate And The Rabbit",
       "url": "https://open.spotify.com/track/0uzyRxgc2vxlb7yRUjvShj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Skunk Weed",
         "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
       },
@@ -1719,42 +1703,6 @@
       "duration_ms": 265773,
       "name": "Skunk Weed",
       "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "My Place in the Sun",
-        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Whiskerhead Goes to Leningrad",
-      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Marigold Hair",
-        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
-      },
-      "artists": [
-        {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
-        },
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "Marigold Hair",
-      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1779,6 +1727,58 @@
       "duration_ms": 495278,
       "name": "Mashbluegrass D-28",
       "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Marigold Hair",
+        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+      },
+      "artists": [
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        },
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "Marigold Hair",
+      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "My Place in the Sun",
+        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Whiskerhead Goes to Leningrad",
+      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
     },
     {
       "added_at": "2024-04-12 04:00:00",

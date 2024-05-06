@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,551 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,580 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 25 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
 | 26 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 27 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
-| 28 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
-| 29 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
+| 28 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
+| 29 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
 | 30 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
-| 31 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 32 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
-| 33 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 34 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
-| 35 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
+| 31 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
+| 32 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
+| 33 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
+| 34 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
+| 35 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
 | 36 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
-| 37 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
-| 38 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 |
+| 37 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 |
+| 38 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 39 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
 | 40 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 41 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 62 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
 | 63 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
 | 64 | [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 |
-| 65 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
-| 66 | [Sponge](https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:23 |
+| 65 | [Sponge](https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:23 |
+| 66 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
 | 67 | [White Flag](https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [White Flag](https://open.spotify.com/album/6DfSN8W4AwOI1sr7a0nJZ3) | 3:45 |
 | 68 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 69 | [The Other Line](https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. The essential tracks, all in one playlist.
+> This is Eyshila\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,785 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,787 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Pelo Fogo](https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 6:13 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZjQpAAAAAABcGWgVdlhqjTLv0UYjKonf`
+Snapshot ID: `ZjQpAAAAAABtxKeIbW5XRnDZ1vRys1JP`

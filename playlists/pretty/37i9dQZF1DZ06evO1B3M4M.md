@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This is James Newton Howard\. The essential tracks, all in one playlist.
+> This Is James Newton Howard\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,363 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
 | 50 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
 
-Snapshot ID: `ZjQpAAAAAAAoKEDCO8+ppJU9/5bGl+Cd`
+Snapshot ID: `ZjQpAAAAAAB2V4YtyV5SX9UoG0axCdOG`

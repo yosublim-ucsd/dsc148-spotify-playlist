@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. New and recent favorites\. Cover: The Mysterines
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,594 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,600 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 38 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
 | 39 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 40 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 |
-| 41 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
-| 42 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
+| 41 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
+| 42 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
 | 43 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
 | 44 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
 | 45 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 63 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
 | 64 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 65 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
-| 66 | [Old Wounds](https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Old Wounds](https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5) | 5:35 |
-| 67 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
+| 66 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
+| 67 | [Old Wounds](https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Old Wounds](https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5) | 5:35 |
 | 68 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
 | 69 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 70 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 94 | [Burning Down a Denny's](https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Burning Down a Denny's](https://open.spotify.com/album/5k7jZVLCfS4Vit76ayHC5Z) | 2:58 |
 | 95 | [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 |
 | 96 | [Like A Drug](https://open.spotify.com/track/1LRCaubw4bOjUUl0xbrsO9) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:32 |
-| 97 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 |
-| 98 | [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 |
-| 99 | [.intoodeep.](https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.CoDA.](https://open.spotify.com/album/3olq31Rex7clxCqI1L897b) | 3:39 |
-| 100 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
+| 97 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
+| 98 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 |
+| 99 | [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 |
+| 100 | [.intoodeep.](https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.CoDA.](https://open.spotify.com/album/3olq31Rex7clxCqI1L897b) | 3:39 |
 
 Snapshot ID: `ZfoMGQAAAAAc/Yrlz6uneb8vzZomvvUZ`

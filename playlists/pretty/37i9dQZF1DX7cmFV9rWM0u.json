@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1793688,
+  "num_followers": 1793658,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -247,26 +263,6 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -287,18 +283,22 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -323,6 +323,26 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -383,42 +403,6 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
+        "name": "PANTIES Y BRASIERES",
+        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
       },
@@ -763,6 +783,30 @@
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -799,50 +843,6 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
-        "name": "PANTIES Y BRASIERES",
-        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "PANTIES Y BRASIERES",
-      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "Mi Otra Mitad (Remix)",
-        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
-      },
-      "artists": [
-        {
-          "name": "Elio Leiros",
-          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 194885,
-      "name": "Mi Otra Mitad (Remix)",
-      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "Mi Otra Mitad (Remix)",
+        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
+      },
+      "artists": [
+        {
+          "name": "Elio Leiros",
+          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Mi Otra Mitad (Remix)",
+      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
     },
     {
       "added_at": "2024-05-02 18:46:16",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -1287,30 +1267,6 @@
     {
       "added_at": "2024-05-02 18:46:16",
       "album": {
-        "name": "SIMPLY THE BEST",
-        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 236190,
-      "name": "SIMPLY THE BEST",
-      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
-    },
-    {
-      "added_at": "2024-05-02 18:46:16",
-      "album": {
         "name": "BEACHY",
         "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
@@ -1327,6 +1283,50 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+    },
+    {
+      "added_at": "2024-05-02 18:46:16",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     }
   ],
   "unique_name": "Zumba\u00ae Beats",

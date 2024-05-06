@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 ### [This Is Funeral For A Friend](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Gwh1O)
 
-> This is Funeral For A Friend\. The essential tracks, all in one playlist.
+> This Is Funeral For A Friend\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,757 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,760 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 49 | [Wrench](https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:31 |
 | 50 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
 
-Snapshot ID: `ZjQpAAAAAAD6wdD1dUfz4K4Wektcrn89`
+Snapshot ID: `ZjQpAAAAAACT+MhRqJPsHpOi0R1aj15g`

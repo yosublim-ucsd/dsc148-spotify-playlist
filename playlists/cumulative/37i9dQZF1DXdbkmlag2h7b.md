@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-181 songs - 9 hr 28 min
+182 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2021-12-09 |  |
 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 | 2022-10-12 |  |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2021-12-09 |  |
-| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 |  |
+| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 | 2024-05-06 |
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-13 |  |
 | [Quiet Shores](https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Quiet Shores](https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i) | 3:43 | 2024-04-04 |  |
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2021-12-09 |  |
@@ -189,5 +189,6 @@
 | [Would I Bother](https://open.spotify.com/track/52k9R9dNiac9kik66wod1g) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Would I Bother](https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2) | 2:40 | 2021-12-09 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |
 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 | 2022-11-17 |  |
+| [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 | 2024-04-29 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

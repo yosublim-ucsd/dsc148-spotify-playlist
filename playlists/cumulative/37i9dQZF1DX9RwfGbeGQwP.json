@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 106666,
       "name": "Divine steps",
       "url": "https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV"
@@ -6478,6 +6478,24 @@
       "duration_ms": 166138,
       "name": "Elevator Vibes",
       "url": "https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo"
+    },
+    {
+      "album": {
+        "name": "Emelie",
+        "url": "https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L"
+      },
+      "artists": [
+        {
+          "name": "Funshine",
+          "url": "https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Emelie",
+      "url": "https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT"
     },
     {
       "album": {

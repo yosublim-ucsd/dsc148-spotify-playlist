@@ -1,13 +1,29 @@
 {
   "description": "every main character needs their soundtrack. ",
-  "num_followers": 2968511,
+  "num_followers": 2969159,
   "original_name": "my life is a movie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbC2QAAAADH1FNf3VnFNA4ghaWQhlTq",
+  "snapshot_id": "ZjfhbAAAAADLpXTF6bhQujYLsBS2WjTE",
   "tracks": [
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2024-04-17 18:25:50",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
     },
     {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
       "added_at": "2024-01-14 20:40:05",
       "album": {
         "name": "Scared To Start",
@@ -71,22 +87,6 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
-      "added_at": "2024-04-09 16:27:02",
+      "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
-      "added_at": "2024-01-08 20:14:27",
+      "added_at": "2024-04-09 16:27:02",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -215,6 +215,22 @@
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -251,22 +267,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "When We Were Friends",
         "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
       },
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 192826,
       "name": "Goodbye Yellow Brick Road - Remastered 2014",
       "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2024-04-25 23:01:02",
@@ -459,6 +475,22 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -475,18 +507,18 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Je te laisserai des mots",
-        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 160853,
-      "name": "Je te laisserai des mots",
-      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2024-03-20 18:08:14",
@@ -503,22 +535,6 @@
       "duration_ms": 94750,
       "name": "someday i'll get it",
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -931,22 +947,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Sam's Town",
-        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Sam's Town",
+        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Crowded House",
         "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -1519,26 +1535,6 @@
     {
       "added_at": "2024-01-08 20:14:27",
       "album": {
-        "name": "Northern Attitude (with Hozier)",
-        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude (with Hozier)",
-      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -1567,6 +1563,26 @@
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
+    },
+    {
+      "added_at": "2024-01-08 20:14:27",
+      "album": {
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
     },
     {
       "added_at": "2024-01-08 20:14:27",
@@ -1615,22 +1631,6 @@
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2024-01-08 20:14:27",
-      "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
     }
   ],
   "unique_name": "my life is a movie",

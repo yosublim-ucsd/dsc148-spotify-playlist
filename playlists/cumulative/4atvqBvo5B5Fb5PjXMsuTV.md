@@ -4,7 +4,7 @@
 
 > Updated daily, with the latest popular singles!
 
-140 songs - 7 hr 49 min
+142 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-04-28 |
 | [Magnificent](https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Magnificent](https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl) | 4:35 | 2024-04-26 | 2024-04-30 |
 | [Make Sunshine](https://open.spotify.com/track/1AYK0GEnEpwoartEVQIP2U) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE SUNSHINE](https://open.spotify.com/album/0NFeGzCfKg5IV6F21za5v9) | 4:00 | 2024-05-02 | 2024-05-04 |
-| [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-03 |  |
+| [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-03 | 2024-05-06 |
 | [Mint Ice Cream Hater](https://open.spotify.com/track/7fRBGaPwclNaWqeUlxMUIW) | [ox33n](https://open.spotify.com/artist/6REEq0BuL0Ocr83DM7bbPT) | [Mint Ice Cream Hater](https://open.spotify.com/album/0LWmTjIqcvPaeaDlGmSx4R) | 2:30 | 2024-04-29 | 2024-05-01 |
 | [Morse code](https://open.spotify.com/track/638D2nYQKHTUmQc7Xt3soK) | [UKISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [Morse code](https://open.spotify.com/album/3lvMRU32335nDOsG0Gtzsz) | 3:34 | 2024-04-29 | 2024-05-02 |
 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 | 2024-05-03 |  |
@@ -94,6 +94,7 @@
 | [No Biggie](https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [No Biggie](https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX) | 3:01 | 2024-05-01 | 2024-05-04 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 | 2024-05-05 |
 | [no worries](https://open.spotify.com/track/2oxo9uu2nNTzZgKFbZfdc1) | [luvlxckdown](https://open.spotify.com/artist/5gchr4NRAbDOgdPcjUITGz) | [no worries](https://open.spotify.com/album/21QmSSeMGHhvuHbRRBVcs9) | 2:32 | 2024-05-02 | 2024-05-04 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 | 2024-04-29 | 2024-05-01 |
 | [Nó](https://open.spotify.com/track/49emwrCApbNt5SVvSc32d4) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [Nó](https://open.spotify.com/album/47IqykpFwqKhoH1he7GXYJ) | 2:52 | 2024-04-30 | 2024-05-02 |
 | [Oh France](https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Oh France](https://open.spotify.com/album/5YREluP9Wz4gG4C5aJXuPS) | 5:40 | 2024-04-30 | 2024-05-03 |
@@ -132,7 +133,8 @@
 | [TODAY](https://open.spotify.com/track/2kGDnsD6HMCNC9yYlGrfDG) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [TODAY](https://open.spotify.com/album/6LNV1NLfEHoncgRDkrxrF6) | 2:07 | 2024-04-26 | 2024-04-27 |
 | [TOMORROW](https://open.spotify.com/track/7JJcnekfqPME6cknquGfOz) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [TOMORROW](https://open.spotify.com/album/2g7DPkZS6oTESCoX4m4hh4) | 2:11 | 2024-05-03 |  |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 |  |
-| [TRYNA MAKE SURE](https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z) | 2:46 | 2024-05-03 |  |
+| [TRYNA MAKE SURE](https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z) | 2:46 | 2024-05-03 | 2024-05-06 |
+| [TSUNDERE!](https://open.spotify.com/track/3LPtKeW56QZnjjI8GVRlac) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [TSUNDERE!](https://open.spotify.com/album/3LWWli5J9Ueytn0f8RM6my) | 2:06 | 2024-05-05 |  |
 | [Unforgiveable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-02 | 2024-05-04 |
 | [Velvet Black](https://open.spotify.com/track/1VxbU9vkaZMrT9myAfxrR0) | [Umbra Vitae](https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa) | [Velvet Black](https://open.spotify.com/album/2cihSHL24MaJO9Q4fk2UXt) | 4:56 | 2024-05-01 | 2024-05-03 |
 | [Viagem](https://open.spotify.com/track/5ySfUdHpeoAgw8rXOoTlLz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Viagem](https://open.spotify.com/album/3Pj07LdqNXDFiQTe1z9mu0) | 3:09 | 2024-05-03 | 2024-05-05 |

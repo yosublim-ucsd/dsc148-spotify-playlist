@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 21697,
+  "num_followers": 21719,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
-        "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-        "url": "https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 303022,
-      "name": "Mi Viejo",
-      "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 308346,
       "name": "Pajarito colibr\u00ed",
       "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
+        "url": "https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 303022,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -475,6 +475,22 @@
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -519,38 +535,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -623,22 +607,6 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -767,6 +751,22 @@
       "duration_ms": 165032,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
         "name": "Ni\u00f1a de Mis Ojos",
         "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
-        "name": "El Bosque Finland\u00e9s",
-        "url": "https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs"
-      },
-      "artists": [
-        {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
-        }
-      ],
-      "duration_ms": 151544,
-      "name": "Estuve ah\u00ed",
-      "url": "https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
         "name": "Mi otra mitad",
         "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 229524,
       "name": "Mi otra mitad",
       "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "El Bosque Finland\u00e9s",
+        "url": "https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 151544,
+      "name": "Estuve ah\u00ed",
+      "url": "https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx"
     },
     {
       "added_at": "2024-04-24 15:31:19",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
         "name": "hasta viejitos",
         "url": "https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM"
       },
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2024-04-24 15:31:19",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
-        "name": "M\u00edstica voraz",
-        "url": "https://open.spotify.com/album/3Gtv4qcmeryZwxGk8VW1Iy"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 220279,
-      "name": "M\u00edstica voraz",
-      "url": "https://open.spotify.com/track/3Jyzw4QahiLxwYtjtliGg1"
-    },
-    {
-      "added_at": "2024-04-24 15:31:19",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2024-04-24 15:31:19",
+      "album": {
+        "name": "M\u00edstica voraz",
+        "url": "https://open.spotify.com/album/3Gtv4qcmeryZwxGk8VW1Iy"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 220279,
+      "name": "M\u00edstica voraz",
+      "url": "https://open.spotify.com/track/3Jyzw4QahiLxwYtjtliGg1"
     },
     {
       "added_at": "2024-04-24 15:31:19",

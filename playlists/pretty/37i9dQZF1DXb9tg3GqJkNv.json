@@ -1,6 +1,6 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Mindflip",
-  "num_followers": 11253,
+  "num_followers": 11256,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,26 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "B.B. King Freestyle",
-        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 222801,
-      "name": "B.B. King Freestyle (with Drake)",
-      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+      "duration_ms": 161319,
+      "name": "Turks (with Gunna & ft. Travis Scott)",
+      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -363,6 +367,26 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "B.B. King Freestyle",
+        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 222801,
+      "name": "B.B. King Freestyle (with Drake)",
+      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 219816,
       "name": "Car Sick (feat. NAV & Metro Boomin)",
       "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 161319,
-      "name": "Turks (with Gunna & ft. Travis Scott)",
-      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "HOU I AM",
         "url": "https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 141333,
       "name": "Money Showers",
       "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 157873,
       "name": "30,000 ft",
       "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "Trust Your Gut",
+        "url": "https://open.spotify.com/album/2sqgQk4Ks5C7FTeKm9rvh3"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "duration_ms": 229624,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/5a3cnyx9ic2LxkRiXj9PyW"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "Been Himma",
         "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
       },
@@ -899,22 +915,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
         },
         {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
         }
       ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+      "duration_ms": 154994,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "Trust Your Gut",
-        "url": "https://open.spotify.com/album/2sqgQk4Ks5C7FTeKm9rvh3"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        }
-      ],
-      "duration_ms": 229624,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/5a3cnyx9ic2LxkRiXj9PyW"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
         "name": "Time & It's Order",
         "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
       },
@@ -975,22 +975,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
         },
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
-      "duration_ms": 154994,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx"
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1007,22 +1007,6 @@
       "duration_ms": 150292,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
-      },
-      "artists": [
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 151310,
+      "name": "KING OF THE TOWN",
+      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1091,38 +1091,18 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "Ready When You Are",
-        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
         }
       ],
-      "duration_ms": 201904,
-      "name": "WYD",
-      "url": "https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 151310,
-      "name": "KING OF THE TOWN",
-      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1143,6 +1123,26 @@
       "duration_ms": 142640,
       "name": "\u2022 RIGHT NOW",
       "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "WYD",
+      "url": "https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "Pedro Activated",
         "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
         "name": "KickStart FreeStyle",
         "url": "https://open.spotify.com/album/7x6WA2hRL8LmqTzVTDzGd6"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 96024,
       "name": "KickStart FreeStyle",
       "url": "https://open.spotify.com/track/5lCD5KHEN070NOlP0BtgyP"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
+        "name": "Don't Dance",
+        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        }
+      ],
+      "duration_ms": 197224,
+      "name": "Don't Dance",
+      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1347,18 +1363,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "intres-ting",
-        "url": "https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1"
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
       },
       "artists": [
         {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 137872,
-      "name": "intres-ting",
-      "url": "https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8"
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2024-05-02 20:17:36",
@@ -1383,6 +1403,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
+        "name": "intres-ting",
+        "url": "https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "intres-ting",
+      "url": "https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8"
+    },
+    {
+      "added_at": "2024-05-02 20:17:36",
+      "album": {
         "name": "Made 4 More 2",
         "url": "https://open.spotify.com/album/1BTRlRnUM0XZaLGJBJoBqy"
       },
@@ -1403,50 +1439,22 @@
     {
       "added_at": "2024-05-02 20:17:36",
       "album": {
-        "name": "Don't Dance",
-        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
+        "name": "Igloo",
+        "url": "https://open.spotify.com/album/1ZsI00Yki9hzFLM5Bm37Vu"
       },
       "artists": [
         {
           "name": "Pengz",
           "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
-        }
-      ],
-      "duration_ms": 197224,
-      "name": "Don't Dance",
-      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "Icebreaker",
-        "url": "https://open.spotify.com/album/4x2Plw0yotxKUN4BRzWuLl"
-      },
-      "artists": [
+        },
         {
-          "name": "Lil Berete",
-          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
         }
       ],
-      "duration_ms": 173455,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/53e7tyrPfmcPVS7uiHhB5j"
-    },
-    {
-      "added_at": "2024-05-02 20:17:36",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/50TCe84kZc1vRIxwI09XlP"
-      },
-      "artists": [
-        {
-          "name": "ShaqIsDope",
-          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/2tdPQ5i6FArwNAfALxHkKp"
+      "duration_ms": 133693,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/40W840RnQDbMQfYdezxiog"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-484 songs - 1 day 10 hr 20 min
+485 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 | 2024-04-12 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-05-07 | 2023-06-10 |
 | [Figo](https://open.spotify.com/track/7DvqpuTIUSmEXZZLDRRfgi) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK), [Schieber](https://open.spotify.com/artist/4HbpVjA45uVRTXkx7B1AKB) | [Figo](https://open.spotify.com/album/0OYKeYzbn1qX7ZqpcMXxHT) | 3:38 | 2022-01-14 | 2022-04-20 |
-| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 |  |
+| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 | 2024-05-06 |
 | [Fix Your Problems](https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Fix Your Problems](https://open.spotify.com/album/7tl7WUBPATfLpjgxh73qLS) | 2:16 | 2021-05-07 | 2022-05-30 |
 | [Flame](https://open.spotify.com/track/5LMVpehrEBygZ7z3aIK9Lf) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Flame](https://open.spotify.com/album/0SEyeOfZyqZjVqreACEk6D) | 3:37 | 2022-05-27 | 2022-08-13 |
 | [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 | 2024-04-06 |
@@ -397,6 +397,7 @@
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |
 | [Take Me High](https://open.spotify.com/track/7vQP0yjr0b7PxTIGmQhGNB) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Sam Luck](https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek) | [Take Me High](https://open.spotify.com/album/3SYUZxNBcktJzhWlDHUCcU) | 2:42 | 2023-09-15 | 2023-10-08 |
 | [Take Me Higher](https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Take Me Higher](https://open.spotify.com/album/7L0E4Y6UGHBACLLxiBikR8) | 3:19 | 2021-05-07 | 2023-02-04 |
+| [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 | 2024-05-03 |  |
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
 | [Take Me Up](https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Take Me Up](https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh) | 2:27 | 2023-07-14 | 2023-09-30 |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-01 | 2023-05-20 |

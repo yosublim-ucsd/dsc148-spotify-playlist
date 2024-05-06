@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,827 likes - 171 songs - 9 hr 24 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,824 likes - 171 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 83 | [Glow](https://open.spotify.com/track/5KV6JaViW1h9898aVz5oBd) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 2:40 |
 | 84 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:03 |
 | 85 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [MozartReworked](https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb) | 3:15 |
-| 86 | [Rocket Man](https://open.spotify.com/track/35NvIaqN9SzyTYe8BS3K3i) | [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY) | [Rocket Man](https://open.spotify.com/album/2ctmw85gPWe6C0XuNMELpq) | 4:01 |
+| 86 | [Rocket Man](https://open.spotify.com/track/35NvIaqN9SzyTYe8BS3K3i) | [Bernie Taupin](https://open.spotify.com/artist/5lzPV4EKWYxEUk38UcFBVH), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY) | [Rocket Man](https://open.spotify.com/album/2ctmw85gPWe6C0XuNMELpq) | 4:01 |
 | 87 | [Cavatina \(Arr\. for Guitar by John Williams\)](https://open.spotify.com/track/3G1643bwQvUQduCrhYfzaQ) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [Cavatina \(Arr\. for Guitar by John Williams\)](https://open.spotify.com/album/4OawpW5nWiO2olpgdFcy7z) | 4:02 |
 | 88 | [Serenade from Don Giovanni, K\. 527 \(Arr\. for Piano by Georges Bizet\)](https://open.spotify.com/track/0y6TO3w7SWXOeIHKw4eps7) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [MozartReworked](https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb) | 2:26 |
 | 89 | [Sanctuary](https://open.spotify.com/track/1FPdVM92KIHjzvSGYpy9l0) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 2:07 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1YiLbd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1YiLbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1YiLbd)
 
-### [This Is 林ゆうき](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
+### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This is 林ゆうき\. The essential tracks, all in one playlist.
+> This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
 115 songs - 5 hr 10 min
 
@@ -77,7 +77,7 @@
 | [化学変化](https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:44 | 2024-04-19 |  |
 | [化学変化](https://open.spotify.com/track/50uh6QzjefARNWguBT6ZWW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:44 | 2022-12-23 | 2024-04-14 |
 | [千夏の過去](https://open.spotify.com/track/2pPVV8dRriiFMDzEsueTVN) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック Vol.2](https://open.spotify.com/album/7GBRwostYkUWpmoFpkou41) | 1:33 | 2023-03-19 | 2024-04-05 |
-| [合流](https://open.spotify.com/track/34K68U7gox0nTZih04zKcL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:22 | 2023-02-09 |  |
+| [合流](https://open.spotify.com/track/34K68U7gox0nTZih04zKcL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:22 | 2023-02-09 | 2024-05-06 |
 | [君の力](https://open.spotify.com/track/09SnuNW7yaGdUDjl5QcTt0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:53 | 2022-12-23 | 2024-04-19 |
 | [君の力](https://open.spotify.com/track/2sUwFqwbQwS8dfT3gbfKVZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:53 | 2024-04-19 |  |
 | [君はヒーローになれる](https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:56 | 2022-12-23 |  |
@@ -100,7 +100,7 @@
 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 | 2022-12-23 |  |
 | [歯車](https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:19 | 2023-03-01 |  |
 | [決着](https://open.spotify.com/track/6Br2dCwvGTvSO42V3c2pox) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:11 | 2023-09-12 | 2024-04-03 |
-| [決裂](https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:47 | 2023-07-28 | 2024-05-04 |
+| [決裂](https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:47 | 2023-07-28 |  |
 | [点取りの信念](https://open.spotify.com/track/0dIKmDf83qWMpgyYTsRSy1) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 0:58 | 2024-03-30 | 2024-04-19 |
 | [点取りの信念](https://open.spotify.com/track/6Xc5qmLv6P5ntJxpErC71w) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 0:58 | 2024-02-24 | 2024-05-04 |
 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 | 2022-12-28 |  |

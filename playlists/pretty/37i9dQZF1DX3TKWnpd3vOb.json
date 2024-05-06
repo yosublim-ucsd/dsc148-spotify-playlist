@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 191819,
+  "num_followers": 191823,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Rescatame",
         "url": "https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl"
       },
@@ -207,22 +191,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Bella Vu",
-        "url": "https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 155372,
-      "name": "Bella Vu",
-      "url": "https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Los Tres Unplugged 20 A\u00f1os",
         "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
       },
@@ -235,6 +203,38 @@
       "duration_ms": 285430,
       "name": "Amor Violento",
       "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Bella Vu",
+        "url": "https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 155372,
+      "name": "Bella Vu",
+      "url": "https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -267,6 +267,22 @@
       "duration_ms": 169384,
       "name": "Como es que no gozas",
       "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Hojas de T\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Hojas de T\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Hojas de T\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Hojas de T\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "De La Luz",
         "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 359233,
       "name": "Resiste M\u00e1s Que Yo",
       "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Infiel",
+        "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Infiel",
-        "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Te van a olvidar",
         "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        }
-      ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "De La Luz",
         "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Cayeron L\u00e1grimas",
-        "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
       "artists": [
         {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
         }
       ],
-      "duration_ms": 215639,
-      "name": "Cayeron L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -567,22 +551,6 @@
       "duration_ms": 359233,
       "name": "Carne - En Vivo",
       "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -615,6 +583,38 @@
       "duration_ms": 247947,
       "name": "Bajo Los \u00c1rboles",
       "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Cayeron L\u00e1grimas",
+        "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 215639,
+      "name": "Cayeron L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Mujer Primavera",
-        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 276431,
-      "name": "Mujer Primavera",
-      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Explorador (Remaster 2022)",
         "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
       },
@@ -687,22 +671,6 @@
       "duration_ms": 170500,
       "name": "Explorador - Remaster 2022",
       "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 249126,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -739,6 +707,38 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Vueltas y Vueltas",
+        "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
+      },
+      "artists": [
+        {
+          "name": "Noiz",
+          "url": "https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Vueltas y Vueltas",
+      "url": "https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Mujer Primavera",
+        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 276431,
+      "name": "Mujer Primavera",
+      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Caballo sin due\u00f1o",
         "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Vueltas y Vueltas",
-        "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
       },
       "artists": [
         {
-          "name": "Noiz",
-          "url": "https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Vueltas y Vueltas",
-      "url": "https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty"
+      "duration_ms": 249126,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
+        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
         }
       ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+      "duration_ms": 161101,
+      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
+      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
-        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
-      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1035,6 +1035,22 @@
       "duration_ms": 111000,
       "name": "El Hijo",
       "url": "https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Sangre y Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1359,6 +1359,54 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Vaso de agua",
+        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 222835,
+      "name": "Vaso de agua",
+      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Somos M\u00e1s",
+        "url": "https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa"
+      },
+      "artists": [
+        {
+          "name": "Massonico",
+          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
+        }
+      ],
+      "duration_ms": 175305,
+      "name": "Somos M\u00e1s",
+      "url": "https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Majestuosa",
         "url": "https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj"
       },
@@ -1395,8 +1443,24 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Vaso de agua",
-        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
+      },
+      "artists": [
+        {
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+        }
+      ],
+      "duration_ms": 319903,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Asocial",
+        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
       "artists": [
         {
@@ -1404,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 222835,
-      "name": "Vaso de agua",
-      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
+      "duration_ms": 197747,
+      "name": "Asocial",
+      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1431,38 +1495,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Somos M\u00e1s",
-        "url": "https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa"
-      },
-      "artists": [
-        {
-          "name": "Massonico",
-          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
-        }
-      ],
-      "duration_ms": 175305,
-      "name": "Somos M\u00e1s",
-      "url": "https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
-      },
-      "artists": [
-        {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
-        }
-      ],
-      "duration_ms": 319903,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "El Mundo Se Termina",
         "url": "https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF"
       },
@@ -1475,38 +1507,6 @@
       "duration_ms": 252885,
       "name": "El Mundo Se Termina",
       "url": "https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Asocial",
-        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 197747,
-      "name": "Asocial",
-      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
     }
   ],
   "unique_name": "Rock Chileno",

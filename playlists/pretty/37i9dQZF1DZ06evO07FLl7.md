@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
+> This is Tassia Reis\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,850 likes - 50 songs - 3 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Flor Laranja](https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/0nLvIHbTPxE9aPmcP45T6D) | 3:55 |
 | 50 | [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 |
 
-Snapshot ID: `ZjQpAAAAAAA6/Lrp9yKGPSl6rBf/xDs7`
+Snapshot ID: `ZjQpAAAAAABG8i1jx4+OBmZ0xVOHzY8D`

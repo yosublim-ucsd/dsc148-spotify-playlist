@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-728 songs - 1 day 17 hr 38 min
+729 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-09 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-06-27 | 2023-12-02 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-24 | 2023-09-17 |
+| [Cual Adios](https://open.spotify.com/track/29r4y4g1gM4INIk8anytuQ) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sin Fronteras](https://open.spotify.com/album/5iOAYIfJkHvXRmV3Q94skV) | 3:25 | 2024-05-05 |  |
 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 | 2022-11-30 | 2022-12-11 |
 | [Cuerpo Natural](https://open.spotify.com/track/6GMM7NCrUvlm2HoC1KT6Bz) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI) | [Freedom](https://open.spotify.com/album/6FOKz9h81qRVjnYAkXcDc2) | 3:20 | 2023-06-14 | 2023-07-06 |
 | [Culiacan](https://open.spotify.com/track/6QQXDKcSLWCEJa5iENMZ82) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Culiacan](https://open.spotify.com/album/6voeSni244SC714pYLdZQC) | 2:51 | 2024-02-17 | 2024-03-03 |
@@ -734,7 +735,7 @@
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2024-04-14 |
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2021-11-20 |
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-03 | 2022-12-05 |
-| [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-26 |  |
+| [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-26 | 2024-05-06 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-16 | 2022-02-12 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

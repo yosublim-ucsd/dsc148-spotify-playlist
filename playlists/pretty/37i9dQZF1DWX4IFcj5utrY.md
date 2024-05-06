@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi\_2TSQT5\-u7\_kKg\-IyKg">Omagoqa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,383 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,387 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

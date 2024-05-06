@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 342441,
+  "num_followers": 342433,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
       },
       "artists": [
         {
-          "name": "King Africa",
-          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 199106,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
+      "duration_ms": 204240,
+      "name": "Djobi, Djoba",
+      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
       },
       "artists": [
         {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          "name": "King Africa",
+          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Djobi, Djoba",
-      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
+      "duration_ms": 199106,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "El Virao",
         "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1703,6 +1687,22 @@
       "duration_ms": 243226,
       "name": "Livin' la Vida Loca - Spanish Version",
       "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 265520,
       "name": "Levantando las Manos",
       "url": "https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1923,22 +1923,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
       },
       "artists": [
         {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+      "duration_ms": 219933,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1975,6 +1971,26 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 406400,
       "name": "Flying Free - Original Mix",
       "url": "https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
-      },
-      "artists": [
-        {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Xapomel\u00f6n",
-        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Mari Carmen",
-      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Xapomel\u00f6n",
+        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Mari Carmen",
+      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "En Cuerpo Y Alma",
         "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 212133,
       "name": "Que La Detengan",
       "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2023-06-09 09:38:51",

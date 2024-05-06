@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-129 songs - 7 hr 26 min
+131 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,8 @@
 | [空に歌えば](https://open.spotify.com/track/37QfPlN6sMrJjlv3Ao2gLP) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [空に歌えば](https://open.spotify.com/album/3Him8rXi8PBlfIRZoaeoHe) | 3:38 | 2022-10-11 | 2022-11-14 |
 | [航海の唄](https://open.spotify.com/track/6uaMKPLKSFNQ3wYSeWGCoU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:42 | 2022-10-01 | 2024-04-19 |
 | [航海の唄](https://open.spotify.com/track/3mmVyzaXFaRvZCJc79r0yB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [航海の唄](https://open.spotify.com/album/3PMvvXopoCVdQcQXUu9iAw) | 4:44 | 2023-03-14 |  |
+| [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-05 |  |
+| [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-05-05 |  |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-10-01 |  |
 
 \*This playlist was first scraped on 2022-10-02. Prior content cannot be recovered.

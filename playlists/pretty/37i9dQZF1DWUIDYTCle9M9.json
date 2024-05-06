@@ -1,6 +1,6 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima! ",
-  "num_followers": 744697,
+  "num_followers": 744852,
   "original_name": "ALTO ASTRAL",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -243,6 +223,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -267,6 +263,26 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 204160,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+    },
+    {
+      "added_at": "2024-04-16 16:21:35",
+      "album": {
         "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
         "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
@@ -855,38 +871,18 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Club Can't Handle Me (feat. David Guetta)",
-      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
-    },
-    {
-      "added_at": "2024-04-16 16:21:35",
-      "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -907,18 +903,22 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+      "duration_ms": 234560,
+      "name": "Club Can't Handle Me (feat. David Guetta)",
+      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
     },
     {
       "added_at": "2024-04-16 16:21:35",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-04-16 16:21:35",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2024-04-16 16:21:35",

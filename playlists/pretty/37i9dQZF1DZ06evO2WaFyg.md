@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 ### [This Is Young Thug](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WaFyg)
 
-> This is Young Thug\. The essential tracks, all in one playlist.
+> This Is Young Thug\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,915 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,962 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 50 | [Chanel \(Go Get It\) \[feat\. Gunna & Lil Baby\]](https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:21 |
 | 51 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
 
-Snapshot ID: `ZjQpAAAAAABUrXYYvCOxyAwo0N94SWad`
+Snapshot ID: `ZjQpAAAAAACbglxg54lVKXW8RXCY4Uru`

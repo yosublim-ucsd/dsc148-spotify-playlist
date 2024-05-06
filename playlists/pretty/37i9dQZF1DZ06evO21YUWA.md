@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 ### [This Is Harold Budd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA)
 
-> This Is Harold Budd\. Los temas esenciales, todos en una lista.
+> This is Harold Budd\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 5,054 likes - 49 songs - 3 hr 8 min
 
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 48 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
 | 49 | [Avenue of Shapes](https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:27 |
 
-Snapshot ID: `ZjQpAAAAAAAtChDNf8EQCRs+HGPInHQC`
+Snapshot ID: `ZjQpAAAAAAB4lwaBeZ/UY750mS9VPjMp`

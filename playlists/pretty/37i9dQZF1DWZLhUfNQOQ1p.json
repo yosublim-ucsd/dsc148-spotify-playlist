@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 244723,
+  "num_followers": 244740,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
+        "name": "Parcels",
+        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 237227,
+      "name": "Lightenup",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Parcels",
-        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 237227,
-      "name": "Lightenup",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -731,6 +715,26 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
         "name": "Flutes of Gold",
         "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
       },
@@ -751,22 +755,18 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
       "artists": [
         {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 240640,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+        "name": "Rah That's A Mad Question",
+        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bar Mediterraneo",
-      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
+      "duration_ms": 227123,
+      "name": "Rah That's A Mad Question",
+      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
       },
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Rah That's A Mad Question",
-        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 227123,
-      "name": "Rah That's A Mad Question",
-      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
+      "duration_ms": 184000,
+      "name": "Bar Mediterraneo",
+      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
         "name": "Say A Little Prayer",
         "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
+        "name": "Horchata",
+        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
+      },
+      "artists": [
+        {
+          "name": "Olivier Verhaeghe",
+          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
+        }
+      ],
+      "duration_ms": 322014,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
         "name": "Cinecitt\u00e0",
         "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
-        "name": "Horchata",
-        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
-      },
-      "artists": [
-        {
-          "name": "Olivier Verhaeghe",
-          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
-        }
-      ],
-      "duration_ms": 322014,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1839,18 +1839,22 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Ostia",
-        "url": "https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn"
+        "name": "I NEED U (feat. ZOI)",
+        "url": "https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx"
       },
       "artists": [
         {
-          "name": "Denis Sulta",
-          "url": "https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "ZOI",
+          "url": "https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr"
         }
       ],
-      "duration_ms": 302885,
-      "name": "Ostia",
-      "url": "https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3"
+      "duration_ms": 203809,
+      "name": "I NEED U (feat. ZOI)",
+      "url": "https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR"
     }
   ],
   "unique_name": "Aperitivo Time",

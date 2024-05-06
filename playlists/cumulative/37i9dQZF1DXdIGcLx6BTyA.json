@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo"
@@ -1922,6 +1922,24 @@
       "duration_ms": 234984,
       "name": "Watch the World Die",
       "url": "https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M"
+    },
+    {
+      "album": {
+        "name": "Watch the World Die",
+        "url": "https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234984,
+      "name": "Watch the World Die",
+      "url": "https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg"
     },
     {
       "album": {

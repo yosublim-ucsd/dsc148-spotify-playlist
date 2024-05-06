@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 520213,
+  "num_followers": 520372,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Reload (Vocal Version / Radio Edit)",
         "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "A Town Called Paradise",
         "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 171547,
       "name": "What A Life (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Hight",
+          "url": "https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI"
+        }
+      ],
+      "duration_ms": 146692,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Hight",
-          "url": "https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI"
-        }
-      ],
-      "duration_ms": 146692,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 169505,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 169505,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -1583,6 +1583,38 @@
       "duration_ms": 163200,
       "name": "Fuck The Pain Away",
       "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1607,26 +1639,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Beautiful Drug (feat. Avicii) [Remix]",
-        "url": "https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 164241,
-      "name": "Beautiful Drug (feat. Avicii) - Remix",
-      "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Mess It Up (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
       },
@@ -1643,6 +1655,26 @@
       "duration_ms": 215370,
       "name": "Mess It Up - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Beautiful Drug (feat. Avicii) [Remix]",
+        "url": "https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 164241,
+      "name": "Beautiful Drug (feat. Avicii) - Remix",
+      "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1671,26 +1703,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Love On You (feat. Griff Clawson)",
-        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW"
       },
       "artists": [
         {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 170196,
-      "name": "Love On You (feat. Griff Clawson)",
-      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1715,22 +1743,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW"
+        "name": "Love On You (feat. Griff Clawson)",
+        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
+      "duration_ms": 170196,
+      "name": "Love On You (feat. Griff Clawson)",
+      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1799,22 +1831,6 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Seven (feat. Latto) (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
       },
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Lavender Haze (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "Lavender Haze - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/5kmcp5oSdQjaji6PDgbi1O"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 164497,
       "name": "Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/6WJu3kRMBSanaLp4c5rvgd"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Lavender Haze (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2087,22 +2087,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
+        "name": "Cold Heart (PS1 Remix)",
+        "url": "https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
         }
       ],
-      "duration_ms": 167419,
-      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
+      "duration_ms": 166674,
+      "name": "Cold Heart - PS1 Remix",
+      "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
     }
   ],
   "unique_name": "Running Club",

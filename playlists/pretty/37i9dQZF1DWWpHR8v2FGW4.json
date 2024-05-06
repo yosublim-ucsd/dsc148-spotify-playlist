@@ -1,6 +1,6 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 598660,
+  "num_followers": 598713,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-03-07 20:59:39",
       "album": {
-        "name": "Open Spaces",
-        "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 206399,
-      "name": "Open Spaces",
-      "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
-    },
-    {
-      "added_at": "2024-03-07 20:59:39",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 260457,
       "name": "Fire",
       "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
+    },
+    {
+      "added_at": "2024-03-07 20:59:39",
+      "album": {
+        "name": "Open Spaces",
+        "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 206399,
+      "name": "Open Spaces",
+      "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
     },
     {
       "added_at": "2024-03-07 20:59:39",

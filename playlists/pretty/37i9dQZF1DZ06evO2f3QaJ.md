@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Todos os maiores hits em uma só playlist.
+> This is Zudizilla\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 775 likes - 42 songs - 2 hr 39 min
 
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 41 | [Benedito](https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 2:59 |
 | 42 | [SKIT \(AZUL NEON\)](https://open.spotify.com/track/2xciPs0PoOi33MxobwFUoO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 2:23 |
 
-Snapshot ID: `ZjQpAAAAAADYm/NsL9sePm/VQ/lWVB15`
+Snapshot ID: `ZjQpAAAAAAD9/lVRi5+CG9A8FVvu7gVo`

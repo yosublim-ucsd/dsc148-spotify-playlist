@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 129195,
+  "num_followers": 129224,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "SCIENCE FICTION",
         "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 308695,
       "name": "traveling - Re-Recording",
       "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 187972,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
@@ -1363,6 +1383,30 @@
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1399,50 +1443,6 @@
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 187972,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1515,42 +1515,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1579,6 +1543,58 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1667,38 +1683,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 248901,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "move",
         "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 248901,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "Slug",
-        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Slug",
-      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
-    },
-    {
-      "added_at": "2024-05-01 07:56:31",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 211768,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
+    },
+    {
+      "added_at": "2024-05-01 07:56:31",
+      "album": {
+        "name": "blame",
+        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
     },
     {
       "added_at": "2024-05-01 07:56:31",
@@ -1839,22 +1839,18 @@
     {
       "added_at": "2024-05-01 07:56:31",
       "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
       },
       "artists": [
         {
-          "name": "Yojiro Noda",
-          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
-        },
-        {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
         }
       ],
-      "duration_ms": 228980,
-      "name": "EVERGREEN",
-      "url": "https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ"
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

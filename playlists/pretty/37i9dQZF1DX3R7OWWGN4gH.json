@@ -1,6 +1,6 @@
 {
   "description": "Who\u2019s afraid of little old me?",
-  "num_followers": 1283002,
+  "num_followers": 1283331,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
+      "added_at": "2024-04-24 00:07:55",
+      "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "K-12",
@@ -629,22 +645,6 @@
       "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
     },
     {
-      "added_at": "2024-04-24 00:07:55",
-      "album": {
-        "name": "LET THE WORLD BURN",
-        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
-      },
-      "artists": [
-        {
-          "name": "Chris Grey",
-          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
-        }
-      ],
-      "duration_ms": 163290,
-      "name": "LET THE WORLD BURN",
-      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
-    },
-    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "GODS",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "I Did Something Bad",
-      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180952,
       "name": "you should see me in a crown",
       "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "I Did Something Bad",
+      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Bitch Better Have My Money",
         "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+        "name": "Wars In A Wonderland",
+        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+      "duration_ms": 168000,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -891,22 +907,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Wars In A Wonderland",
-        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DARKSIDE",
-      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 177028,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1000,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1037,22 +1053,6 @@
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Pretty Little Devil",
@@ -1067,6 +1067,22 @@
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 271280,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 186426,
-      "name": "Money, Money, Money",
-      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1275,22 +1291,6 @@
       "duration_ms": 199125,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194711,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
     },
     {
       "added_at": "2024-02-28 05:01:39",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 214761,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "K-12",
         "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
+      "duration_ms": 214761,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 193384,
       "name": "Careful What You Wish For (the doctor said to)",
       "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Go Farther In Lightness",
-        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 422146,
-      "name": "Achilles Come Down",
-      "url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Heathers: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 172826,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Go Farther In Lightness",
+        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 422146,
+      "name": "Achilles Come Down",
+      "url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
     },
     {
       "added_at": "2024-02-22 03:52:54",

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 120240,
+  "num_followers": 120279,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
-    },
-    {
-      "added_at": "2024-04-24 23:14:02",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2024-04-24 23:14:02",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "La Chica de Humo",
+      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
-    },
-    {
-      "added_at": "2024-04-24 23:14:02",
-      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Ni t\u00fa ni nadie",
-      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -263,6 +247,38 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2024-04-24 23:14:02",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+    },
+    {
+      "added_at": "2024-04-24 23:14:02",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ni t\u00fa ni nadie",
+      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -315,8 +331,8 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -343,22 +359,6 @@
       "duration_ms": 132080,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
-    },
-    {
-      "added_at": "2024-04-24 23:14:02",
-      "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Me Vas a Echar de Menos",
-      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2024-04-24 23:14:02",
-      "album": {
         "name": "Solos en Am\u00e9rica",
         "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2024-04-24 23:14:02",
       "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Me Vas a Echar de Menos",
+      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "added_at": "2024-04-24 23:14:02",
+      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2024-04-24 23:14:02",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2024-04-24 23:14:02",
@@ -535,6 +519,22 @@
       "duration_ms": 261360,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "added_at": "2024-04-24 23:14:02",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2024-04-24 23:14:02",

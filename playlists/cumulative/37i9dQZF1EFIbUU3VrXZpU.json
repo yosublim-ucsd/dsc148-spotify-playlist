@@ -3016,10 +3016,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 212266,
       "name": "I Got A Bottle",
       "url": "https://open.spotify.com/track/1knOsYvkIduhdJk0bsw8x7"
+    },
+    {
+      "album": {
+        "name": "Still Da Baddest",
+        "url": "https://open.spotify.com/album/71FdDVm3WpFgjOZeCZCzTW"
+      },
+      "artists": [
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "I Got A Bottle",
+      "url": "https://open.spotify.com/track/3cAx5FnNw0smDcDs2R78bu"
     },
     {
       "album": {

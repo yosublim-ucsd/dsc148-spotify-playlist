@@ -4,7 +4,7 @@
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-81 songs - 3 hr 21 min
+83 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/7zqcivRqGdMJpvXeBjBYhQ) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Los Originales](https://open.spotify.com/album/3bs5xfckUfDqTMJqdzJcb5) | 2:48 | 2020-03-18 |  |
 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 | 2020-03-18 | 2024-04-19 |
 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 | 2020-03-18 |  |
-| [Bule Bule](https://open.spotify.com/track/7KINNBKxr88mv5w1tSMTnj) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7af6COAXpoHFHzHYPgekPI) | 2:22 | 2020-03-18 |  |
+| [Bule Bule](https://open.spotify.com/track/7KINNBKxr88mv5w1tSMTnj) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7af6COAXpoHFHzHYPgekPI) | 2:22 | 2020-03-18 | 2024-05-06 |
 | [Bule Bule](https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC) | 2:22 | 2020-03-18 | 2024-04-19 |
 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 | 2020-03-18 | 2024-03-21 |
 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 | 2020-03-18 | 2024-04-19 |
+| [Cha Cha Cha Be Bop](https://open.spotify.com/track/39tj1h7QcC7S5VU9deXDAc) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:00 | 2023-03-25 |  |
 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 | 2020-03-18 |  |
 | [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 | 2020-03-18 | 2024-04-16 |
 | [Chica ye yé](https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:13 | 2020-03-18 |  |
@@ -35,7 +36,7 @@
 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 | 2020-03-18 |  |
 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 | 2020-03-18 | 2024-04-19 |
 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 | 2020-03-18 | 2024-04-19 |
-| [EdiEdi](https://open.spotify.com/track/6gDBSDDiCNlbLhVTWXoQTl) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Edi Edi](https://open.spotify.com/album/57VCb2iv9bJ095rueL3Bun) | 2:26 | 2020-03-18 |  |
+| [EdiEdi](https://open.spotify.com/track/6gDBSDDiCNlbLhVTWXoQTl) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Edi Edi](https://open.spotify.com/album/57VCb2iv9bJ095rueL3Bun) | 2:26 | 2020-03-18 | 2024-05-06 |
 | [El Amor Es Triste \- Love Is Blue](https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 2:18 | 2020-03-18 | 2024-02-25 |
 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 | 2020-03-18 | 2024-04-19 |
 | [El Juego De Simón](https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs) | [El Juego De Simón](https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr) | 1:48 | 2020-03-18 | 2024-04-19 |
@@ -52,6 +53,7 @@
 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 | 2020-03-18 | 2024-04-19 |
 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 | 2020-03-18 |  |
 | [La Hiedra Venenosa](https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:39 | 2020-03-18 | 2024-04-19 |
+| [La Hiedra Venenosa](https://open.spotify.com/track/67tL3C4baNQ3FqnUz0vn8p) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:42 | 2020-03-18 |  |
 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 | 2020-03-18 |  |
 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/41GiXurY9UN1dU3erI1D4c) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:23 | 2020-03-18 | 2024-04-19 |
 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Antes del Fin del Mundo \- 60's en Español](https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw) | 2:23 | 2020-03-18 |  |

@@ -2,7 +2,7 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Guess who's celebrating Children's Day with us?
+> Guess who's celebrating Children's Day with us? \(Cover: BOYN....??\)
 
 573 songs - 1 day 7 hr 55 min
 
@@ -143,7 +143,7 @@
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-26 | 2022-07-13 |
 | [Daymoon \[CLEF X DKZ\]](https://open.spotify.com/track/3dBCJvCE1QKqOE64nNPlEN) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [CLEF X CREW, 5th Story](https://open.spotify.com/album/2gRhh3CUUiVgGABJvKYTNx) | 3:37 | 2023-12-06 | 2024-01-04 |
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2022-03-22 | 2022-04-19 |
-| [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 |  |
+| [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 | 2024-05-06 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
@@ -175,7 +175,7 @@
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2022-02-15 | 2022-05-15 |
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-07-27 | 2024-04-19 |
 | [FAKER](https://open.spotify.com/track/4yIP456UEjLIDBdRvBTTcw) | [루커스](https://open.spotify.com/artist/5nYClr2BjPKj9lENjV5Hbx) | [FAKER](https://open.spotify.com/album/5NXALmMcE00WExg8Bqr1U6) | 3:37 | 2022-03-31 | 2022-04-16 |
-| [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-11-28 | 2024-04-10 |
+| [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-11-28 |  |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-04-20 |
 | [FANTASIA](https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:06 | 2022-03-30 | 2022-07-13 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-12-08 | 2023-02-14 |
@@ -249,7 +249,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
-| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 |  |
+| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-05-06 |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
@@ -372,7 +372,7 @@
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-12-08 | 2022-06-30 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-08 |  |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-30 | 2023-01-28 |
-| [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-21 | 2024-04-30 |
+| [Nectar](https://open.spotify.com/track/6MEtGumgTXWquxH35osvEC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.3 Love Letter](https://open.spotify.com/album/2DcHBijnoFP2tjuRGJ1L6F) | 3:04 | 2024-03-21 |  |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-17 |
 | [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 | 2023-05-23 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2021-12-08 | 2022-07-24 |

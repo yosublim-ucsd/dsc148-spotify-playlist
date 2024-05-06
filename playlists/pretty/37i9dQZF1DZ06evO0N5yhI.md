@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 ### [This Is Phoebe Bridgers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N5yhI)
 
-> This is Phoebe Bridgers\. The essential tracks, all in one playlist.
+> This Is Phoebe Bridgers\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,295 likes - 41 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,325 likes - 41 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 40 | [Stay Down](https://open.spotify.com/track/2yIfFEE5GMtK5XqMz2704V) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:00 |
 | 41 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
 
-Snapshot ID: `ZjQpAAAAAADNx2PIVgmjc1ZyvwcDNIzv`
+Snapshot ID: `ZjQpAAAAAABjwSIYge6leu4BXthXChX3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,694 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,702 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 44 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
 | 45 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 |
 | 46 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |
-| 47 | [Tohfa](https://open.spotify.com/track/3Kh9bkKyT35NIfiK24uPdo) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Tohfa](https://open.spotify.com/album/6J53wyryKLbMFZ7lBCLKGv) | 3:09 |
-| 48 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 |
-| 49 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 |
-| 50 | [kya karoon?](https://open.spotify.com/track/2nF4CJQfTfwft6TYVYLKiI) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [kya karoon?](https://open.spotify.com/album/0200LvMJ2KbjJtFrnpApkV) | 3:20 |
+| 47 | [kya karoon?](https://open.spotify.com/track/2nF4CJQfTfwft6TYVYLKiI) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [kya karoon?](https://open.spotify.com/album/0200LvMJ2KbjJtFrnpApkV) | 3:20 |
+| 48 | [Tohfa](https://open.spotify.com/track/3Kh9bkKyT35NIfiK24uPdo) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Tohfa](https://open.spotify.com/album/6J53wyryKLbMFZ7lBCLKGv) | 3:09 |
+| 49 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 |
+| 50 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 |
 
 Snapshot ID: `ZdL/AAAAAABFCux8urh5GeJyNDjz2AcO`

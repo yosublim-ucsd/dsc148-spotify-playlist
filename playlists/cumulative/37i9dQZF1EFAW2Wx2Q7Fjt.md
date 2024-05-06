@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 38 min
+127 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 | 2024-02-07 |  |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2024-02-07 |  |
 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2024-02-07 |  |
-| [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2024-02-07 |  |
+| [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2024-02-07 | 2024-05-06 |
+| [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 | 2024-05-05 |  |
 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 | 2024-02-07 |  |
 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 | 2024-02-07 |  |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2024-02-07 |  |

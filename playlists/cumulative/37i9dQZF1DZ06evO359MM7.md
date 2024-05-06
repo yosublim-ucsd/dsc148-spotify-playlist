@@ -2,7 +2,7 @@
 
 ### [This Is Lil Baby](https://open.spotify.com/playlist/37i9dQZF1DZ06evO359MM7)
 
-> This is Lil Baby\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Lil Baby\. Los temas esenciales, todos en una lista.
 
 54 songs - 2 hr 46 min
 

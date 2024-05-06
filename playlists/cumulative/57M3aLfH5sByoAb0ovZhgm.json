@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "THE SHADE",
+      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
+    },
+    {
+      "album": {
         "name": "Ved",
         "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
       },

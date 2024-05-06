@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 82983,
+  "num_followers": 83001,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Small Things",
         "url": "https://open.spotify.com/album/0iabVppd6PRro3i5fc00yE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176851,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/2qstbK8VJDcrMWQsHNpUTN"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Somewhere between",
-        "url": "https://open.spotify.com/album/2lFKtJILpor4Z7DN0XNKS1"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 233419,
-      "name": "Somewhere between",
-      "url": "https://open.spotify.com/track/5aVklpCL6bUVQcGQgOuIH5"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/2dDVGQ5jxvRFPIl6f8slUD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 203513,
       "name": "Close",
       "url": "https://open.spotify.com/track/7LO1oz9S57cbaygtuqMsJv"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Somewhere between",
+        "url": "https://open.spotify.com/album/2lFKtJILpor4Z7DN0XNKS1"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 233419,
+      "name": "Somewhere between",
+      "url": "https://open.spotify.com/track/5aVklpCL6bUVQcGQgOuIH5"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "So Much To Say (Pt. III)",
-        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "PAWA",
         "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 156000,
       "name": "PAWA",
       "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "So Much To Say (Pt. III)",
+        "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "How I Love You",
-        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
       "artists": [
         {
-          "name": "SHEALY",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Brandon Love",
-          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
         }
       ],
-      "duration_ms": 261000,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+        "name": "How I Love You",
+        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "SHEALY",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Brandon Love",
+          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
         }
       ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+      "duration_ms": 261000,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 137223,
       "name": "Carried",
       "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 160444,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Ancient of Days",
-        "url": "https://open.spotify.com/album/235xnTcdo2OvCNCeglCgHZ"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Ancient of Days",
-      "url": "https://open.spotify.com/track/28IzSZqQADlcw7gp10kNVu"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 244000,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Ancient of Days",
+        "url": "https://open.spotify.com/album/235xnTcdo2OvCNCeglCgHZ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Ancient of Days",
+      "url": "https://open.spotify.com/track/28IzSZqQADlcw7gp10kNVu"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 195034,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9"
       },
@@ -1923,22 +1907,6 @@
       "duration_ms": 189941,
       "name": "Restless",
       "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 231676,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1959,6 +1927,38 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 231676,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "You Shine",
         "url": "https://open.spotify.com/album/0m8svtdpuZdqAMeAM2fFj2"
       },
@@ -1971,22 +1971,6 @@
       "duration_ms": 187500,
       "name": "Hero Of My Heart",
       "url": "https://open.spotify.com/track/7qQf5d8hnOr52Prd14CjCs"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144574,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2023,6 +2007,22 @@
       "duration_ms": 210500,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7xoEEjdMrRg1qMtsS1oppK"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144574,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "if I can be honest",
-        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 260553,
-      "name": "the healing song",
-      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Kingdom Business",
         "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 157108,
       "name": "Shadow of Your Wings",
       "url": "https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 260553,
+      "name": "the healing song",
+      "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Let A Little Light In",
-        "url": "https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 258980,
-      "name": "Let A Little Light In",
-      "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Virtuous Woman",
         "url": "https://open.spotify.com/album/2uVYRZbOdXSouxGzQPshzR"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 184434,
       "name": "Virtuous Woman",
       "url": "https://open.spotify.com/track/4ogdAdXyUjQvWZfIrHnYKo"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Let A Little Light In",
+        "url": "https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 258980,
+      "name": "Let A Little Light In",
+      "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2707,18 +2707,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Conversations",
-        "url": "https://open.spotify.com/album/1L6zwURHsBkNY1d5InJNjk"
+        "name": "honestly",
+        "url": "https://open.spotify.com/album/1SeuTEIP5GPOmQWHgH8vuc"
       },
       "artists": [
         {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
         }
       ],
-      "duration_ms": 186116,
-      "name": "Conversations",
-      "url": "https://open.spotify.com/track/2M346INkn9O8aiIjbvaeSe"
+      "duration_ms": 167741,
+      "name": "honestly",
+      "url": "https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv"
     }
   ],
   "unique_name": "Indie Spirit",

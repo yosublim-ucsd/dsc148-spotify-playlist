@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is 坂本真綾\. The essential tracks, all in one playlist.
+> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,117 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,116 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 49 | [un\_mute](https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 4:57 |
 | 50 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 |
 
-Snapshot ID: `ZjQpAAAAAABdbsPMK8lDNlSNwduLyj0K`
+Snapshot ID: `ZjQpAAAAAAC5jXhitgv2FYu2twYYy98v`

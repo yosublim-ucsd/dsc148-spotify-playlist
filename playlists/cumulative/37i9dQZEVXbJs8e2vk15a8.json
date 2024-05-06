@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 251226,
       "name": "Am\u00e9monos a Escondidas",
       "url": "https://open.spotify.com/track/1ZNPqT5Vt99EyrYnXkKzQ5"
@@ -11212,7 +11212,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -14974,7 +14974,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 153137,
       "name": "Hello Baby",
       "url": "https://open.spotify.com/track/4GSv8OmWyUK4fHPCicLLLj"
@@ -18518,6 +18518,24 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
       "album": {
@@ -25920,7 +25938,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 151153,
       "name": "Pa Ka No'",
       "url": "https://open.spotify.com/track/68Dt6Yt3hJrgJ2fGBhF60o"
@@ -29394,7 +29412,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"

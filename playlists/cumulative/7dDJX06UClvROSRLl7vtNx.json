@@ -2031,6 +2031,32 @@
     },
     {
       "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
         "name": "Forever Right Now",
         "url": "https://open.spotify.com/album/6y6OedMcsikB2qu97QB732"
       },
@@ -3390,7 +3416,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 143951,
       "name": "Last Day Of Summer",
       "url": "https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6"
@@ -3416,7 +3442,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 158500,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/36OeG9DZLSyNrTP3Hys7Ex"
@@ -4224,7 +4250,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 160384,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5"
@@ -4525,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Murder On The Dancefloor",
+        "url": "https://open.spotify.com/album/6NIGzChRDEi06XbymNn2Gb"
+      },
+      "artists": [
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/6fHJ2Fs7kD2pPZAi0Kx69w"
+    },
+    {
+      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/1Nt2B4cD0b07mGJ4sq6W4z"
       },
@@ -4763,6 +4807,28 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2FKLLgJXy6CUQAkia8G2hf"
+      },
+      "artists": [
+        {
+          "name": "Sander W.",
+          "url": "https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj"
+        },
+        {
+          "name": "Lo\u00e9",
+          "url": "https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143902,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/47wkD7lkoD8gTJmGUupxwj"
+    },
+    {
+      "album": {
         "name": "Nothing Compares",
         "url": "https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m"
       },
@@ -4975,6 +5041,32 @@
     },
     {
       "album": {
+        "name": "Persephone",
+        "url": "https://open.spotify.com/album/5UBMWNfl9UMmpZ62xHREyP"
+      },
+      "artists": [
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        },
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/5JHr64NGbfzD8pj8o5BQ2g"
+    },
+    {
+      "album": {
         "name": "Pineapple Fields",
         "url": "https://open.spotify.com/album/77JrcgfH0gJ1811OMx9fKx"
       },
@@ -5166,7 +5258,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 123130,
       "name": "Rhythm is a dancer",
       "url": "https://open.spotify.com/track/0TtU2vUe0nXP5KjmfN62Yk"
@@ -6478,7 +6570,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 192250,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/1xIn3CVcM7kXJy3yEgzv4W"
@@ -6702,6 +6794,28 @@
       "duration_ms": 142560,
       "name": "Tried To Forget You",
       "url": "https://open.spotify.com/track/5VY6tNKCh3Xws16GXFMQMn"
+    },
+    {
+      "album": {
+        "name": "Unbreak It",
+        "url": "https://open.spotify.com/album/2PqT3kxM0TvZ4iTTZjKvVk"
+      },
+      "artists": [
+        {
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        },
+        {
+          "name": "May Li",
+          "url": "https://open.spotify.com/artist/4jQnjcUdngKVUr8GKjgRTJ"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Unbreak It",
+      "url": "https://open.spotify.com/track/6l9watGB0N9k9sFOKKNb1T"
     },
     {
       "album": {

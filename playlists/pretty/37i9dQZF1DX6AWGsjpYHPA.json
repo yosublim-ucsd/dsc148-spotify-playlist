@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 146106,
+  "num_followers": 146168,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
         "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Wisdom Through Music",
         "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 318626,
       "name": "Love Is Everywhere",
       "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Dr. Buzzard's Original Savannah Band",
         "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "La Perla",
         "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Try Repeat",
-        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
+        "name": "And Groove",
+        "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
       },
       "artists": [
         {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Try Repeat",
-      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
+      "duration_ms": 205785,
+      "name": "And Groove - Edit",
+      "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "And Groove",
-        "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
+        "name": "Try Repeat",
+        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
       },
       "artists": [
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
         }
       ],
-      "duration_ms": 205785,
-      "name": "And Groove - Edit",
-      "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
+      "duration_ms": 237586,
+      "name": "Try Repeat",
+      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
     }
   ],
   "unique_name": "Turntable",

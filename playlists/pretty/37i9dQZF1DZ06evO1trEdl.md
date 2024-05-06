@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This Is The Three Degrees\. Los temas esenciales, todos en una lista.
+> This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,860 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,864 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 49 | [Looking For Love](https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:29 |
 | 50 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 |
 
-Snapshot ID: `ZjQpAAAAAABSo1S9D1luNjeUS2mcLyes`
+Snapshot ID: `ZjQpAAAAAACDybEprHU8ReLbBOFzZ/sO`

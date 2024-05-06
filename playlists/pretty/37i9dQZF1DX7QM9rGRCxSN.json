@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 30583,
+  "num_followers": 30592,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Rizoma",
-        "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 382522,
-      "name": "Lo Bonito de la Muerte",
-      "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "tdbn",
@@ -253,22 +237,6 @@
       "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
     },
     {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "violeta",
-        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "violeta",
-      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "Lejos de M\u00ed",
@@ -283,6 +251,38 @@
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Rizoma",
+        "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 382522,
+      "name": "Lo Bonito de la Muerte",
+      "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "violeta",
+        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "violeta",
+      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Sintetica",
         "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 273493,
       "name": "Mil Espejos",
       "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Jungla",
         "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
       },
@@ -395,38 +411,6 @@
       "duration_ms": 183080,
       "name": "Mapas",
       "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -449,6 +433,22 @@
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
+    },
+    {
       "added_at": "2024-01-02 18:36:50",
       "album": {
         "name": "casa de espejos",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Chambers",
         "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 298122,
       "name": "What\u2019s holding you?",
       "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Kino",
-          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
-        }
-      ],
-      "duration_ms": 262955,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 386604,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     },
     {
-      "added_at": "2024-02-02 05:19:16",
-      "album": {
-        "name": "Arrecifes",
-        "url": "https://open.spotify.com/album/6Zqq3zDBPi1NdYp2yYE7lr"
-      },
-      "artists": [
-        {
-          "name": "Salvana",
-          "url": "https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "Arrecifes",
-      "url": "https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq"
-    },
-    {
       "added_at": "2023-05-05 06:00:00",
       "album": {
         "name": "Dolor",
@@ -823,6 +807,22 @@
       "duration_ms": 196408,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
+      },
+      "artists": [
+        {
+          "name": "No s\u00e9 a qui\u00e9n matar",
+          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

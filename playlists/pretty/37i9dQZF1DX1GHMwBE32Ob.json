@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Vibes Inc",
-  "num_followers": 52724,
+  "num_followers": 52777,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 161515,
       "name": "Puff & Pass (Remix)",
       "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -383,70 +383,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "The Life I Chose",
-        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 144447,
-      "name": "The Life I Chose",
-      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Ghetto Vibrations",
-        "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 150622,
-      "name": "Born Fi Dis",
-      "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -467,6 +403,70 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "The Life I Chose",
+        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 144447,
+      "name": "The Life I Chose",
+      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Ghetto Vibrations",
+        "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 150622,
+      "name": "Born Fi Dis",
+      "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -511,18 +511,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Many Things",
-        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Vibez Inc",
+          "url": "https://open.spotify.com/artist/2pWvZYqXNfLNIsCkr9Llgy"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 167881,
-      "name": "Many Things",
-      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+      "duration_ms": 177000,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -575,6 +583,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Many Things",
+        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 167881,
+      "name": "Many Things",
+      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
-      },
-      "artists": [
-        {
-          "name": "Vibez Inc",
-          "url": "https://open.spotify.com/artist/2pWvZYqXNfLNIsCkr9Llgy"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Fakosi (Remix)",
         "url": "https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 182142,
       "name": "Fakosi",
       "url": "https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -739,6 +739,26 @@
       "duration_ms": 167471,
       "name": "HBP",
       "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -827,22 +847,74 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+        "name": "Wale (Remix) [feat. Simi]",
+        "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+      "duration_ms": 188135,
+      "name": "Wale (Remix) [feat. Simi]",
+      "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 185411,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -867,74 +939,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Wale (Remix) [feat. Simi]",
-        "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
       },
       "artists": [
         {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 188135,
-      "name": "Wale (Remix) [feat. Simi]",
-      "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 185411,
-      "name": "Soro",
-      "url": "https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX"
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -979,6 +995,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
       },
@@ -995,22 +1027,6 @@
       "duration_ms": 153684,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+      },
+      "artists": [
+        {
+          "name": "Badsome",
+          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
+        }
+      ],
+      "duration_ms": 147183,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Ghetto Vibrations",
         "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
       },
@@ -1091,38 +1123,6 @@
       "duration_ms": 138750,
       "name": "HOV",
       "url": "https://open.spotify.com/track/2naOhWJptgRLoSn85MBxRh"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
-      },
-      "artists": [
-        {
-          "name": "Badsome",
-          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
-        }
-      ],
-      "duration_ms": 147183,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
     },
     {
       "added_at": "2024-05-03 00:01:00",

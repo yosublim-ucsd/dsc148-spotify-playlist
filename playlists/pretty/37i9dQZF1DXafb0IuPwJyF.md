@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,756 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,999 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 |
 | 50 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 
-Snapshot ID: `ZjZNcAAAAAB2SeHi53cUW9SgPZugB3k6`
+Snapshot ID: `Zjee8AAAAACyR/D6x3cvTP9Uy/RAMxZJ`

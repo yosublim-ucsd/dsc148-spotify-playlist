@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -7816,6 +7816,28 @@
       "duration_ms": 242000,
       "name": "Thrones of Blood",
       "url": "https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE"
+    },
+    {
+      "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "album": {

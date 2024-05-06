@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-710 songs - 1 day 14 hr 50 min
+711 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [CIAA](https://open.spotify.com/track/4ZhNhOllhgcw3yAGgKibUT) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:26 | 2021-12-15 | 2022-04-21 |
 | [Cinnamon Crush \(feat\. Lindsey Lomis\)](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 3:47 | 2024-03-01 | 2024-04-19 |
-| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 |  |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2024-05-06 |
 | [Closer](https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:21 | 2022-11-09 | 2023-09-30 |
 | [Closer](https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 3:21 | 2022-06-10 | 2022-11-20 |
 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 | 2024-02-17 |  |
@@ -265,6 +265,7 @@
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-07-15 |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-04-12 |  |
+| [Home](https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Sir Travis Knight](https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ) | [Home](https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1) | 3:59 | 2024-04-19 |  |
 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-16 | 2024-02-23 |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-02-14 | 2022-05-08 |
 | [I Been](https://open.spotify.com/track/1k3batDg2rqg6NjXWDDgsM) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 2:56 | 2021-12-15 | 2022-10-17 |

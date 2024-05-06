@@ -2,7 +2,7 @@
 
 ### [This Is Maren Morris](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46QfTO)
 
-> This is Maren Morris\. The essential tracks, all in one playlist.
+> This Is Maren Morris\. Los temas esenciales, todos en una lista.
 
 66 songs - 3 hr 51 min
 

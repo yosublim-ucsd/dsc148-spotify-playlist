@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1192134,
+  "num_followers": 1192137,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Casi Completa",
-      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Qu\u00e9date Beb\u00e9",
         "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 200386,
       "name": "Sabes Una Cosa",
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -415,38 +431,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -479,6 +463,38 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Casi Completa",
+      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -499,6 +515,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Marco Antonio Solis",
         "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
@@ -511,22 +543,6 @@
       "duration_ms": 191640,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -579,22 +595,6 @@
       "duration_ms": 186709,
       "name": "Solo Me Dejaste",
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -775,22 +743,6 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -811,6 +763,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -863,6 +847,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 233706,
       "name": "De Uno y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -911,22 +895,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -963,6 +931,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Asignatura Pendiente",
         "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 245093,
       "name": "Asignatura Pendiente",
       "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1011,6 +979,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 174400,
       "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Ll\u00e9vate",
-        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "El Amor So\u00f1ado",
         "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
       },
@@ -1431,6 +1411,22 @@
       "duration_ms": 182680,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1455,22 +1451,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1519,18 +1535,34 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+      "duration_ms": 200840,
+      "name": "Entonces Que Somos",
+      "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
+    },
+    {
+      "added_at": "2024-02-23 00:04:02",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1555,22 +1587,6 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Gema",
-      "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -1587,22 +1603,18 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Fuego de Noche, Nieve de D\u00eda",
-        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 282565,
-      "name": "Fuego de Noche, Nieve de D\u00eda",
-      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
     },
     {
       "added_at": "2024-02-23 00:04:02",
@@ -1623,34 +1635,22 @@
     {
       "added_at": "2024-02-23 00:04:02",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+        "name": "Fuego de Noche, Nieve de D\u00eda",
+        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Entonces Que Somos",
-      "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
-    },
-    {
-      "added_at": "2024-02-23 00:04:02",
-      "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
-      },
-      "artists": [
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 161253,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+      "duration_ms": 282565,
+      "name": "Fuego de Noche, Nieve de D\u00eda",
+      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
     },
     {
       "added_at": "2024-02-23 00:04:02",

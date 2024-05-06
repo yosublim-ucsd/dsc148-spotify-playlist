@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2303850,
+  "num_followers": 2303810,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -487,38 +503,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "Are You Satisfied?",
-        "url": "https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Cheer Up London",
-      "url": "https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
         "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 245538,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "Are You Satisfied?",
+        "url": "https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Cheer Up London",
+      "url": "https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
+        "name": "GOOD ENEMY",
+        "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "GOOD ENEMY",
+      "url": "https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 225841,
       "name": "Don't You Feel Amazing?",
       "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "GOOD ENEMY",
-        "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "GOOD ENEMY",
-      "url": "https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "So Sweet I Could Die",
-        "url": "https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1"
-      },
-      "artists": [
-        {
-          "name": "Lucia & The Best Boys",
-          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
-        }
-      ],
-      "duration_ms": 142328,
-      "name": "So Sweet I Could Die",
-      "url": "https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "So Sweet I Could Die",
+        "url": "https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1"
+      },
+      "artists": [
+        {
+          "name": "Lucia & The Best Boys",
+          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
+        }
+      ],
+      "duration_ms": 142328,
+      "name": "So Sweet I Could Die",
+      "url": "https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d"
     },
     {
       "added_at": "2024-04-18 19:20:27",

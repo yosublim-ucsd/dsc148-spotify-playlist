@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 ### [This Is Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
 
-> This is Jamiroquai\. The essential tracks, all in one playlist.
+> This Is Jamiroquai\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,019 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,096 likes - 51 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 50 | [Two Completely Different Things](https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 4:24 |
 | 51 | [Morning Glory](https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:23 |
 
-Snapshot ID: `ZjQpAAAAAAAz3Gbm2XASmxOpf2aJ25yK`
+Snapshot ID: `ZjQpAAAAAACkDmINCDykR/tMj2V0dKFS`

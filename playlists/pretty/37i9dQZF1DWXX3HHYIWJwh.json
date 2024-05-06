@@ -1,6 +1,6 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 102978,
+  "num_followers": 102984,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-04-22 11:46:00",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2024-04-22 11:46:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-04-22 11:46:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-04-22 11:46:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-04-22 11:46:00",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2024-04-22 11:46:00",
-      "album": {
         "name": "Glockoma 2 (Deluxe)",
         "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2024-04-22 11:46:00",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2024-04-22 11:46:00",

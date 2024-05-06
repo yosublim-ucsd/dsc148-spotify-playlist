@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 ### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This is The Rolling Stones\. The essential tracks, all in one playlist.
+> This Is The Rolling Stones\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,123 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,254 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 |
 | 50 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:33 |
 
-Snapshot ID: `ZjQpAAAAAACHB/FvBVsko/16yp1IUqiI`
+Snapshot ID: `ZjQpAAAAAADKF8NBB0CxY1ak0KHQVQC2`

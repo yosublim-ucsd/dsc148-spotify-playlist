@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 75332,
+  "num_followers": 75400,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,38 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 586400,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -203,38 +235,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        }
-      ],
-      "duration_ms": 586400,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "2 Trumpets",
         "url": "https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN"
       },
@@ -287,6 +287,34 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
         "name": "Tenor Conclave",
         "url": "https://open.spotify.com/album/1tGUz6CL3KTjp0Wm4ouZpY"
       },
@@ -335,34 +363,6 @@
       "duration_ms": 166640,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 692746,
-      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 146880,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Waltz Me Blues",
+      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -819,18 +835,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Waltz Me Blues",
-      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
       },
       "artists": [
         {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -883,34 +899,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell",
-          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Angle Eyes",
-      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-03-20 13:15:26",
       "album": {
-        "name": "Very Cool + Tranquillity",
-        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Dave Pell",
+          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
         }
       ],
-      "duration_ms": 486040,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
+      "duration_ms": 339053,
+      "name": "Angle Eyes",
+      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1111,6 +1095,38 @@
       "duration_ms": 253413,
       "name": "Lazy Tones",
       "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Very Cool + Tranquillity",
+        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 486040,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
+    },
+    {
+      "added_at": "2024-03-20 13:15:26",
+      "album": {
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
     },
     {
       "added_at": "2024-03-20 13:15:26",
@@ -1159,22 +1175,6 @@
       "duration_ms": 178200,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
-    },
-    {
-      "added_at": "2024-03-20 13:15:26",
-      "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
     },
     {
       "added_at": "2024-03-20 13:15:26",

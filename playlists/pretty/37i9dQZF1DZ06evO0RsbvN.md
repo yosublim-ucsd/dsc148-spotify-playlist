@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. The essential tracks, all in one playlist.
+> This Is Ma Rainey\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,599 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,598 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 | 50 | [Blues The World Forgot: Part 1](https://open.spotify.com/track/0Z6wPvrJQ26dQDlQU5EkhO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 3:09 |
 | 51 | [Toad Frog Blues](https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:05 |
 
-Snapshot ID: `ZjQpAAAAAADWOzkYQcc6/FLYcYfLPUIu`
+Snapshot ID: `ZjQpAAAAAAA/RGd2HLM0en70b5OFzW6u`

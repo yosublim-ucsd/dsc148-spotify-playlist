@@ -2,7 +2,7 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Guess who's celebrating Children's Day..? Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Guess who's celebrating Children's Day..? \(Cover: ILL...??\)
 
 417 songs - 23 hr 5 min
 
@@ -228,7 +228,7 @@
 | [MOLAE MOLAE](https://open.spotify.com/track/2arh49ZwNDv1t9srQkjK5z) | [I.B.I](https://open.spotify.com/artist/1R5iQMzT9jP5DIzVGPmWy6) | [MOLAE MOLAE](https://open.spotify.com/album/6f6rGWFfTL83eWvqcY9pEw) | 3:49 | 2022-03-29 | 2022-04-20 |
 | [MoMoMo](https://open.spotify.com/track/6x8F0VYPwgT0R0ogdp2vCS) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WOULD YOU LIKE?](https://open.spotify.com/album/6gG7BZRwAx9Z8aBXoKND5N) | 3:42 | 2021-11-29 | 2022-07-07 |
 | [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 | 2021-11-29 | 2022-07-18 |
-| [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2021-11-29 | 2022-07-24 |
+| [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2021-11-29 |  |
 | [Mr\. Chu](https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:34 | 2021-11-29 | 2022-07-28 |
 | [Mr\. Chu](https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 | 2022-07-28 | 2024-04-19 |
 | [Mr\. E](https://open.spotify.com/track/4JvBfIuKj8ThydmnLtTmOr) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:38 | 2022-03-02 | 2022-04-13 |
@@ -239,7 +239,7 @@
 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 | 2021-11-29 | 2022-06-12 |
 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 | 2024-03-27 |  |
 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 |  |
-| [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 |  |
+| [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 | 2024-05-06 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2021-11-29 | 2022-07-29 |
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-04 |  |

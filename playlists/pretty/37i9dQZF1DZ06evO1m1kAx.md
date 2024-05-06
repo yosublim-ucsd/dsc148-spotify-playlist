@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 ### [This Is 2Baba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m1kAx)
 
-> This is 2Baba\. The essential tracks, all in one playlist.
+> This Is 2Baba\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,386 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,392 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Free \(feat\. Ehi Idibia\)](https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:50 |
 | 50 | [Rainbow \(feat\. T\-Pain\)](https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka) | 4:26 |
 
-Snapshot ID: `ZjQpAAAAAAALKXVx5+f9yzrS9fLEAcfF`
+Snapshot ID: `ZjQpAAAAAAAulm8WdZ8tksMfW8BEyQfZ`

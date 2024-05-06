@@ -4,7 +4,7 @@
 
 > ¿searma o nosearma?
 
-465 songs - 1 day 4 hr 30 min
+466 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 | 2021-06-16 | 2022-08-07 |
 | [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 | 2022-08-19 | 2022-08-27 |
 | [Celoso](https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ) | [Grupo Toppaz](https://open.spotify.com/artist/6ZrVWZmjcLCSIBZ2PsYGC0) | [Remezclados Y Remasterizados](https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws) | 2:47 | 2022-08-12 | 2022-08-20 |
-| [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2021-06-16 |  |
+| [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2021-06-16 | 2024-05-06 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-08-12 | 2023-07-22 |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-04-21 | 2023-11-02 |
 | [Chúntaros Style](https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:58 | 2022-08-12 | 2022-08-20 |
@@ -146,6 +146,7 @@
 | [Es Mejor Así \(feat\. Reik\) \- Primera Fila \- Live Version](https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:38 | 2021-06-16 | 2022-07-28 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2021-06-16 | 2022-10-05 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 | 2021-06-16 | 2022-07-24 |
+| [Espectacular](https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Espectacular](https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS) | 3:05 | 2024-04-19 |  |
 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 | 2021-06-16 | 2022-09-04 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2021-06-16 | 2024-04-19 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2023-11-02 |  |

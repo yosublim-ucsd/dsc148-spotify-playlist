@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 ### [This Is Ulices Chaidez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu)
 
-> This is Ulices Chaidez\. The essential tracks, all in one playlist.
+> This Is Ulices Chaidez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,537 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,535 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Algún Día Te Encuentro](https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz) | 3:36 |
 | 51 | [Como Decía El Compa Ariel \- En Vivo](https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Como Decía El Compa Ariel \(En Vivo\)](https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb) | 3:10 |
 
-Snapshot ID: `ZjQpAAAAAADIm2p+lVDsT2i/wuLPzxFI`
+Snapshot ID: `ZjQpAAAAAAC/d+s4JRGKxXKt5q6J0TVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This Is Alan Walker\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,401 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,394 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

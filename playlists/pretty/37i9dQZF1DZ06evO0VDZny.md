@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This Is Bring Me The Horizon\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,780 likes - 39 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,867 likes - 39 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,379 songs - 3 day 3 hr 51 min
+1,381 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [A7lam](https://open.spotify.com/track/0uhpjOLtuq3GVEzLxdiGMr) | [Apollo Music](https://open.spotify.com/artist/11OzD7ROu7ARcfm7SvGlqy), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/5vPXZCrrOIvaL3c2Z41mX3) | 4:08 | 2021-09-13 | 2021-09-14 |
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-09-14 | 2021-10-04 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-05-09 | 2024-03-05 |
+| [Abala Ya Bali \- Remix](https://open.spotify.com/track/0YQn9vYwK184bhCyEAtbyu) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [ElGrandeToto](https://open.spotify.com/artist/5bqD0wjgLWtayVcuyIEnsa) | [Abala Ya Bali \(Remix\)](https://open.spotify.com/album/504SHDQ5T3JW9eJTfXREK2) | 3:32 | 2024-05-05 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-10 | 2022-01-29 |
 | [ACDC](https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [ACDC](https://open.spotify.com/album/3hLs2CpWBgcjnK8r2JJKHS) | 4:00 | 2022-03-18 | 2022-05-08 |
 | [Ach Khbarek](https://open.spotify.com/track/6ggJpewsdCo3CaL3Nr85l7) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ach Khbarek](https://open.spotify.com/album/098t9Kq3ur8aLYeOB9776Z) | 3:48 | 2023-05-06 | 2023-05-28 |
@@ -402,6 +403,7 @@
 | [FAKE FRIENDS](https://open.spotify.com/track/7fhlPnQ0c7Xz7s00oR6adk) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:39 | 2022-08-13 | 2022-08-22 |
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-03-14 | 2023-06-02 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-24 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 |  |
 | [Fantasy](https://open.spotify.com/track/7jBYZClvpV3RaukL5phuhQ) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:35 | 2021-05-09 | 2021-05-13 |
 | [Fasma](https://open.spotify.com/track/5pd7Z4awcQGPnpQlXTkEXg) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:37 | 2022-05-28 | 2022-05-30 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-27 |
@@ -537,7 +539,7 @@
 | [Hypocrite](https://open.spotify.com/track/2P7fDeCiHjHAOECP7bJkpP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [YNS](https://open.spotify.com/artist/0HzHhRb9z0JTaBMggZptRp) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:20 | 2021-11-28 | 2021-11-28 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-12 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-29 | 2023-08-02 |
-| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-30 |  |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-30 | 2024-05-06 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-10 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-18 |
 | [I Need U](https://open.spotify.com/track/43qX7PiMfluhGyrJrjcP9p) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:34 | 2022-03-04 | 2022-03-06 |
@@ -1327,7 +1329,7 @@
 | [wow wow](https://open.spotify.com/track/4HWgBqgst7ieINukXs6TWP) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 2:13 | 2021-09-15 | 2021-09-16 |
 | [Wra Tabi3a](https://open.spotify.com/track/61yxKNcw6I5tTyvZ3YfPcu) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Wra Tabi3a](https://open.spotify.com/album/5WykNXpkExmQOr5VxEwdhL) | 3:37 | 2021-05-08 | 2021-05-09 |
 | [Wra Tabi3a](https://open.spotify.com/track/4d3EFA8JRDNEIvMx5YRXa8) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:43 | 2021-05-09 | 2021-05-20 |
-| [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2023-12-12 |  |
+| [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2023-12-12 | 2024-05-06 |
 | [Xcalibur](https://open.spotify.com/track/2UaSAnMbnVwU2xyWncwlsz) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Xcalibur](https://open.spotify.com/album/3ryKX6VI52qfVNt2VHpiJq) | 3:29 | 2023-12-19 | 2023-12-21 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 | 2024-05-03 |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-18 | 2022-05-08 |

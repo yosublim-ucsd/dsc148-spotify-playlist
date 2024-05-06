@@ -4,7 +4,7 @@
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-182 songs - 12 hr 8 min
+183 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [ストロボナイツ](https://open.spotify.com/track/5Hqh7J6Oy0Uz85DSx5JUsw) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 5:45 | 2021-05-26 | 2022-07-29 |
 | [タイムマシン feat.GUMI](https://open.spotify.com/track/2Xi2ObkmQ417jsRIo4rcFJ) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [THIS IS VOCAROCK feat.GUMI](https://open.spotify.com/album/0wijdCgAq3tQMfDxbi0BUJ) | 4:08 | 2021-05-26 | 2022-07-29 |
 | [タイムリミット](https://open.spotify.com/track/3aSFnOQTpowxBWUQWHWfIU) | [North\-T](https://open.spotify.com/artist/3oa7h3CsFWJnaD0SyniFX2) | [Interlude](https://open.spotify.com/album/2p0lIelWe82OjtCwtwVuu7) | 4:19 | 2021-05-26 | 2022-07-22 |
-| [ダブルラリアット \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6NBDXZ2ifiYYW9oawmrm4j) | [Agoaniki](https://open.spotify.com/artist/1R1mapppM8UHostHavGZVF) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:44 | 2021-05-26 |  |
+| [ダブルラリアット \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6NBDXZ2ifiYYW9oawmrm4j) | [Agoaniki](https://open.spotify.com/artist/1R1mapppM8UHostHavGZVF) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:44 | 2021-05-26 | 2024-05-06 |
 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [Toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 | 2021-05-26 |  |
 | [テオ](https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [ファーストワルツ](https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59) | 3:30 | 2021-05-26 |  |
 | [テレカクシ思春期](https://open.spotify.com/track/5n7KTWl0A7Zbb3au8PTSHW) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [テレカクシ思春期](https://open.spotify.com/album/2xIPHUU6LqDneqJA8sI603) | 3:27 | 2021-05-26 | 2022-10-18 |
@@ -169,6 +169,7 @@
 | [巨大少女](https://open.spotify.com/track/6mCudQgQUzmaekw6uXCgXS) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [LIFE SIZE NOTE \-40mP\-](https://open.spotify.com/album/3bUtcSyOVPRFdGNWM5ojhu) | 4:26 | 2021-05-26 | 2022-07-12 |
 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 | 2021-05-26 | 2022-07-26 |
 | [恋スルVOC@LOID \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/5VfbFCUtXApMHIdoDPpVUm) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:16 | 2021-05-26 | 2022-07-24 |
+| [恋ノート////](https://open.spotify.com/track/1HLBPvZBdk0IwpVQ0bYvFE) | [JevanniP](https://open.spotify.com/artist/4Si9FZdT3Mvgq1fmFhcRxD) | [ミクのヒミツノート](https://open.spotify.com/album/3e4Fj9MlQdl3rfDTVy3Ouj) | 3:13 | 2021-05-26 |  |
 | [恋愛裁判](https://open.spotify.com/track/6FAu0o2lio1akrQbnf877P) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 3:42 | 2021-05-26 |  |
 | [愛の詩](https://open.spotify.com/track/3ceq5YHhGDru638Y3l1ZXB) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [I say love](https://open.spotify.com/album/42kGscuja5to2Ami9WcXY7) | 3:39 | 2021-05-26 |  |
 | [愛言葉](https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [相愛性理論](https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe) | 4:24 | 2021-05-26 |  |

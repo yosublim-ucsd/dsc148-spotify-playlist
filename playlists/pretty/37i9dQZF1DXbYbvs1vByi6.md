@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,756 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,777 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 13 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 |
 | 14 | [For Reasons Unknown](https://open.spotify.com/track/6suRRwX61xSMfU7wJuCVdy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:32 |
 | 15 | [Pacifier](https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:57 |
-| 16 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 17 | [Boys In the Better Land](https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 5:00 |
+| 16 | [Boys In the Better Land](https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 5:00 |
+| 17 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 18 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
 | 19 | [Lounge Act](https://open.spotify.com/track/7glld4kxYHp61zIPtSVHNk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 2:36 |
 | 20 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 32 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 | 33 | [Cave Song](https://open.spotify.com/track/2lxqOVJzuS0s1SgulAvkav) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Cave Song \- EP](https://open.spotify.com/album/4Ot58H0rbFZycunXoYQKTT) | 2:21 |
 | 34 | [Sha Sha Sha](https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 2:31 |
-| 35 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 |
-| 36 | [Men's Needs](https://open.spotify.com/track/5b3tNx2EVtk46PEub55iLq) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Men's Needs, Women's Needs, Whatever](https://open.spotify.com/album/5PsAfQKOZDPkF5OLddBuQ2) | 3:18 |
+| 35 | [Men's Needs](https://open.spotify.com/track/5b3tNx2EVtk46PEub55iLq) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Men's Needs, Women's Needs, Whatever](https://open.spotify.com/album/5PsAfQKOZDPkF5OLddBuQ2) | 3:18 |
+| 36 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 |
 | 37 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
 | 38 | [Black Magic](https://open.spotify.com/track/243b3t0P416vtdmxRllHEV) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [The Amazons \(Deluxe\)](https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo) | 4:31 |
 | 39 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 45 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
 | 46 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
 | 47 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
-| 48 | [Gacked on Anger](https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/78lob7vtivvo4vm41e362A) | 1:49 |
-| 49 | [Headshrinker \- Remastered](https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:41 |
-| 50 | [Red Socks Pugie](https://open.spotify.com/track/3ilYdRwg3iu6EXRaC7QMLB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 5:15 |
+| 48 | [Headshrinker \- Remastered](https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:41 |
+| 49 | [Gacked on Anger](https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/78lob7vtivvo4vm41e362A) | 1:49 |
+| 50 | [Here's The Thing](https://open.spotify.com/track/08WlCqv58b7ivVAHcOygTp) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 2:55 |
 
 Snapshot ID: `ZIxXfgAAAAD9KzEC6Vh+LlHSgaWX/Gb0`

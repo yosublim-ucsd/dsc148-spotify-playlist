@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 ### [This Is Maren Morris](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46QfTO)
 
-> This is Maren Morris\. The essential tracks, all in one playlist.
+> This Is Maren Morris\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,957 likes - 48 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,960 likes - 48 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 47 | [Once](https://open.spotify.com/track/7BGilQ0KLnoEt00t4ShtSK) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:56 |
 | 48 | [The Furthest Thing](https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:54 |
 
-Snapshot ID: `ZjQpAAAAAAB9K7jg1J1xSlBP3kHuM5Yk`
+Snapshot ID: `ZjQpAAAAAADgTRJK1W2IKkeZDUvrZDVh`

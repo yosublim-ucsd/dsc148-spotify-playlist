@@ -1,6 +1,6 @@
 {
   "description": "La musica \u00e8 la tua marcia in pi\u00f9! \ud83c\udfc3 Hit dance e pop per le tue sessioni di cardio.",
-  "num_followers": 99168,
+  "num_followers": 99219,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -127,30 +127,6 @@
     {
       "added_at": "2024-03-27 14:37:13",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2024-03-27 14:37:13",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-03-27 14:37:13",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
@@ -699,6 +715,26 @@
     {
       "added_at": "2024-03-27 14:37:13",
       "album": {
+        "name": "Gotta Believe",
+        "url": "https://open.spotify.com/album/1tjCBVq2IVdbNppCix2RnB"
+      },
+      "artists": [
+        {
+          "name": "Damian Force",
+          "url": "https://open.spotify.com/artist/4dmhJ3CFcc3u3GV8EgLj6I"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 174006,
+      "name": "Gotta Believe",
+      "url": "https://open.spotify.com/track/2AVFP9aEYlPQ40V0lkGhE4"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -723,42 +759,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
-        "name": "Gotta Believe",
-        "url": "https://open.spotify.com/album/1tjCBVq2IVdbNppCix2RnB"
-      },
-      "artists": [
-        {
-          "name": "Damian Force",
-          "url": "https://open.spotify.com/artist/4dmhJ3CFcc3u3GV8EgLj6I"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 174006,
-      "name": "Gotta Believe",
-      "url": "https://open.spotify.com/track/2AVFP9aEYlPQ40V0lkGhE4"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-03-27 14:37:13",
@@ -803,6 +803,26 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-03-27 14:37:13",
@@ -943,26 +963,6 @@
       "duration_ms": 191360,
       "name": "Don't Be so Shy - Filatov & Karas Remix",
       "url": "https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-03-27 14:37:13",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-03-27 14:37:13",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2024-03-27 14:37:13",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
       },
@@ -1211,26 +1211,6 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
-    },
-    {
-      "added_at": "2024-03-27 14:37:13",
-      "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2024-03-27 14:37:13",
@@ -1351,6 +1331,26 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2024-03-27 14:37:13",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2024-03-27 14:37:13",

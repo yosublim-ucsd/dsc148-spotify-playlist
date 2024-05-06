@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Thullio Milionário e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,224,330 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,225,646 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 7 | [Passada de Mão \- Ao Vivo](https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Passada de Mão \(Ao Vivo\)](https://open.spotify.com/album/1uaWBRr8TaO8vCLso2waUO) | 2:43 |
 | 8 | [Samba de Malandro](https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Piedro](https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Samba de Malandro](https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu) | 5:00 |
 | 9 | [Filho da Noite](https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Filho da Noite](https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn) | 3:56 |
-| 10 | [Maravilhosa](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
+| 10 | [Maravilhosa \- Ao Vivo](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
 | 11 | [Vazou Na Braquiara \- Ao Vivo](https://open.spotify.com/track/2RX89Di479sc53wkaNgt9E) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:44 |
 | 12 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 |
 | 13 | [TUMBÁTUM](https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [MC JF](https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:01 |

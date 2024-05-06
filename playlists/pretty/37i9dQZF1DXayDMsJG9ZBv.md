@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 ### [Hot Hits Japan: 洋楽&邦楽ヒッツ](https://open.spotify.com/playlist/37i9dQZF1DXayDMsJG9ZBv)
 
-> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: 藤井風
+> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: 藤井 風
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,069 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,417 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Happy Order?](https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Happy Order?](https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG) | 3:31 |
 | 50 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 
-Snapshot ID: `ZjZNcAAAAADc2J8GthM2jiR/0IW+Kn+m`
+Snapshot ID: `Zjee8AAAAABVM81I0+dvzJsAGzeqx0jc`

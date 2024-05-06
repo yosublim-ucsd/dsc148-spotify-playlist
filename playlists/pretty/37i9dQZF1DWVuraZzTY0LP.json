@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 335723,
+  "num_followers": 335730,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2024-04-19 18:39:39",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+      "duration_ms": 204920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
     },
     {
       "added_at": "2024-04-19 18:39:39",
@@ -723,6 +707,22 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2024-04-19 18:39:39",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-04-19 18:39:39",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
-        "name": "Somos Instantes",
-        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Somos Instantes",
-      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
-    },
-    {
-      "added_at": "2024-04-19 18:39:39",
-      "album": {
         "name": "Perder para Ganar",
         "url": "https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
+        "name": "Somos Instantes",
+        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Somos Instantes",
+      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
+    },
+    {
+      "added_at": "2024-04-19 18:39:39",
+      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
-    },
-    {
-      "added_at": "2024-04-19 18:39:39",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     },
     {
       "added_at": "2024-04-19 18:39:39",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
+        "name": "SKR",
+        "url": "https://open.spotify.com/album/5lat79fNUWI7gyQlx6yFka"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "SKR",
+      "url": "https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img"
+    },
+    {
+      "added_at": "2024-04-19 18:39:39",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-04-19 18:39:39",
       "album": {
-        "name": "SKR",
-        "url": "https://open.spotify.com/album/5lat79fNUWI7gyQlx6yFka"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "SKR",
-      "url": "https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img"
-    },
-    {
-      "added_at": "2024-04-19 18:39:39",
-      "album": {
         "name": "Tenochtitl\u00e1n",
         "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
       },
@@ -1175,6 +1159,26 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "added_at": "2024-04-19 18:39:39",
+      "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 442667,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga)",
+      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
     }
   ],
   "unique_name": "mam\u00e1 cool",

@@ -4,7 +4,7 @@
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-123 songs - 7 hr 53 min
+124 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [No One](https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [No One \(Remixes\)](https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6) | 4:14 | 2023-01-17 | 2024-04-19 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-01-17 | 2024-04-19 |
 | [Nuori Ja Kaunis](https://open.spotify.com/track/0R9phRB2hlF6UBM9zHgkKQ) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Nuori Ja Kaunis](https://open.spotify.com/album/317qIuK5t2CKLurVXQOG6D) | 4:10 | 2024-04-09 |  |
+| [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 | 2024-04-09 |  |
 | [Olet puolisoni nyt](https://open.spotify.com/track/07QBGecPtviK0TXTaXeV3v) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Tavalliset hautajaiset](https://open.spotify.com/album/1Uwyb74iD3F7lHLe91FtSE) | 3:56 | 2024-04-09 |  |
 | [Olet puolisoni nyt](https://open.spotify.com/track/20lUjyfg5xXXl87VHtiOFi) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Tavalliset hautajaiset](https://open.spotify.com/album/7fg7sF6krQ1ZDlXXP6JXqC) | 3:56 | 2023-01-17 | 2024-04-19 |
 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 | 2024-04-09 |  |
@@ -116,7 +117,7 @@
 | [Tää tunne](https://open.spotify.com/track/4mDCkynypTlFV84ICIlUjf) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Höyheniä ja saaria](https://open.spotify.com/album/1uZ1gPFFuroiiFWp2K4htG) | 3:05 | 2024-04-09 |  |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2023-01-17 | 2024-04-19 |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2023-01-17 |  |
-| [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 | 2024-04-09 |  |
+| [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 | 2024-04-09 | 2024-05-06 |
 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2023-01-17 | 2024-01-01 |
 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2024-04-09 |  |
 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2023-01-17 | 2024-03-22 |

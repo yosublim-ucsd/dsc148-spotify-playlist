@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,666 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,672 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,19 +78,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 68 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
 | 69 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
 | 70 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
-| 71 | [Shiftshaping](https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Shiftshaping](https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3) | 3:41 |
-| 72 | [Where's My Love](https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:22 |
+| 71 | [Where's My Love](https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:22 |
+| 72 | [Shiftshaping](https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Shiftshaping](https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3) | 3:41 |
 | 73 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
 | 74 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 |
-| 75 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
-| 76 | [Everyone's Moving Out East](https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Everyone's Moving Out East](https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx) | 4:12 |
-| 77 | [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 |
+| 75 | [Everyone's Moving Out East](https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Everyone's Moving Out East](https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx) | 4:12 |
+| 76 | [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 |
+| 77 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 78 | [Suspirium](https://open.spotify.com/track/0rlfGg5Ym6J9AA97ah7voH) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/0nZg85VbGkPcr7zQ6EsJKa) | 3:21 |
-| 79 | [The Light Upon Us](https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:49 |
-| 80 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 |
-| 81 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
-| 82 | [Wait for You](https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/53ppopomnHhYNNftYvyImu) | 3:13 |
-| 83 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 |
+| 79 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 |
+| 80 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
+| 81 | [Wait for You](https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/53ppopomnHhYNNftYvyImu) | 3:13 |
+| 82 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 |
+| 83 | [The Light Upon Us](https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:49 |
 | 84 | [July Bones](https://open.spotify.com/track/0MDBxpluHSND1xFepfOzD3) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [July Bones](https://open.spotify.com/album/7gfk1chqNM7wLFUgZt4ATQ) | 3:58 |
 | 85 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 |
 | 86 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 |

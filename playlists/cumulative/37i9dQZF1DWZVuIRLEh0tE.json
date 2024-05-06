@@ -1125,6 +1125,28 @@
     },
     {
       "album": {
+        "name": "Chilling",
+        "url": "https://open.spotify.com/album/4Ye0PDKYTz5PK4l5uYOyeJ"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Babaco Peluche",
+          "url": "https://open.spotify.com/artist/0HZUci0HLvbiJkWvXX1jxv"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145538,
+      "name": "Chilling",
+      "url": "https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP"
+    },
+    {
+      "album": {
         "name": "Chivirika",
         "url": "https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts"
       },
@@ -2864,28 +2886,6 @@
       "duration_ms": 159048,
       "name": "Era De Cristal",
       "url": "https://open.spotify.com/track/5X87e196WTJXTHYOMgggRD"
-    },
-    {
-      "album": {
-        "name": "Es Mejor Estar Chilling",
-        "url": "https://open.spotify.com/album/4Ye0PDKYTz5PK4l5uYOyeJ"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Babaco Peluche",
-          "url": "https://open.spotify.com/artist/0HZUci0HLvbiJkWvXX1jxv"
-        }
-      ],
-      "date_added": "2024-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145538,
-      "name": "Es Mejor Estar Chilling",
-      "url": "https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP"
     },
     {
       "album": {

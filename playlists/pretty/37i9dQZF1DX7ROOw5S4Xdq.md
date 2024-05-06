@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,775 likes - 49 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,800 likes - 49 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 5 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
 | 6 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
 | 7 | [As Árvores Balançam](https://open.spotify.com/track/5MWJlb6uzk7fDNx8GyGMsx) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Para Levi: Parte 1](https://open.spotify.com/album/0lKNqBTPlvZeq54DWnjTxX) | 1:49 |
-| 8 | [Gratidão](https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Gratidão \(Gratitude\)](https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q) | 4:35 |
+| 8 | [Gratidão \(Gratitude\)](https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Gratidão \(Gratitude\)](https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q) | 4:35 |
 | 9 | [Deus é Deus \(Ao Vivo\)](https://open.spotify.com/track/2G4qbVZk7fNJkUIIISrtID) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Delino Marçal \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2FoMgcQDBO88FxA8fneoRB) | 4:43 |
 | 10 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 11 | [Jesus Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Jesus Em Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8) | 4:07 |

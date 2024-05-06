@@ -4,7 +4,7 @@
 
 > Watch this be the wrong thing\. CLASSIC!  📷 Gracie Abrams
 
-2,033 songs - 4 day 6 hr 20 min
+2,034 songs - 4 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1975,7 +1975,7 @@
 | [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-03-03 | 2023-07-05 |
 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 | 2023-06-30 | 2024-03-23 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-03-04 |
-| [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-16 |  |
+| [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-16 | 2024-05-06 |
 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 | 2022-10-13 |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 | 2024-01-27 |
@@ -2038,6 +2038,7 @@
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 | 2022-03-12 |
 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/1coz5IPrwKDDfCkIH0XnV8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/album/5OK2sna2808f7md7wQnSAh) | 4:26 | 2019-05-26\* | 2020-03-18 |
 | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/track/0rmyzkvYsf8BTIUbZqzh3r) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/album/0OFkJ9OmLuLHhMMx6c50Zq) | 3:10 | 2021-11-19 | 2021-11-20 |
+| [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-03 |  |
 | [Zoom](https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Zoom](https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC) | 2:00 | 2022-09-02 | 2022-09-24 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-03-15 |  |
 | [★★★★★](https://open.spotify.com/track/66ex88O0p8fmw7ShFLlmmC) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 1:49 | 2024-04-12 |  |

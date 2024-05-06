@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This Is Joe Bonamassa\. Los temas esenciales, todos en una lista.
+> This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,636 likes - 51 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,653 likes - 51 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 | 51 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
 
-Snapshot ID: `ZjQpAAAAAADL3WHMM5ZjgPywsxRY+Am+`
+Snapshot ID: `ZjQpAAAAAABcanEcOz0Hiowm89cvc6yH`

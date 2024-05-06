@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-284 songs - 15 hr 31 min
+285 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [God Gave Me A Girl \- Acoustic](https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [God Gave Me A Girl \(Acoustic\)](https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI) | 3:21 | 2023-09-08 |  |
 | [Going, Going, Gone \- Acoustic](https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Going, Going, Gone \(Acoustic\)](https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8) | 2:46 | 2022-12-16 |  |
 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 | 2021-12-17 |  |
+| [Gonna Love You \- Acoustic](https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Gonna Love You \(Alternate Versions\)](https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX) | 2:54 | 2024-05-03 |  |
 | [Good Day \- Acoustic](https://open.spotify.com/track/5vlkwSSNljB7vmnBFwYWrw) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Acoustic\)](https://open.spotify.com/album/4dmJkz3SB0W6hnWWBbi7tR) | 3:01 | 2021-12-17 | 2022-08-02 |
 | [goodbye looks good on you feat\. Mitchell Tenpenny \(acoustic\)](https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:16 | 2023-10-27 |  |
 | [Growing Old With You \- First Dance Version](https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You \(First Dance Version\)](https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD) | 3:12 | 2022-04-15 |  |
@@ -263,7 +264,7 @@
 | [What A Song Can Do \- Stripped Down](https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:57 | 2022-06-10 | 2023-04-22 |
 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 | 2022-11-18 |  |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-02 |  |
-| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 |  |
+| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 | 2024-05-06 |
 | [What If I'm Right \(Stripped\)](https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right \(Stripped\)](https://open.spotify.com/album/5iSxYZRm5fOnVkO5ZnWnoM) | 2:44 | 2021-12-17 | 2022-07-28 |
 | [What Was I Drinking \- Acoustic](https://open.spotify.com/track/3UnorFmDPHUdLJLo1rk8qz) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking \(Acoustic\)](https://open.spotify.com/album/3fMKr62siq96Ig3knG3BMi) | 2:58 | 2022-04-29 | 2022-07-10 |
 | [Where Did We Go? \- Acoustic](https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go? \(Acoustic\)](https://open.spotify.com/album/1HpFFDvla4g3V8IxYApOu4) | 2:39 | 2022-04-29 | 2022-07-17 |

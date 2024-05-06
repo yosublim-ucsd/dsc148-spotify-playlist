@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 123165,
+  "num_followers": 123211,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -395,30 +395,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Messiah",
         "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 232680,
       "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
       "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music/Sonatas etc.",
         "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 84693,
       "name": "Handel: Water Music Suite No. 3, HWV 350: I. Lento (Ed. Boyling)",
       "url": "https://open.spotify.com/track/0sHaJUGowZZkbjtC4FoPCl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -839,30 +839,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
-        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Water Music Suite No. 3 in G Major, HWV 350: Rigaudon I & II",
-      "url": "https://open.spotify.com/track/3fnqfP2OovvicGYzJdBN1B"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
         "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 142133,
       "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
       "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
+        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Water Music Suite No. 3 in G Major, HWV 350: Rigaudon I & II",
+      "url": "https://open.spotify.com/track/3fnqfP2OovvicGYzJdBN1B"
     },
     {
       "added_at": "2022-06-28 08:56:25",

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 295508,
+  "num_followers": 295546,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Luxury Liner (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -419,18 +435,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Luxury Liner (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
+        "name": "Like a Rose",
+        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 208773,
-      "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
+      "duration_ms": 199923,
+      "name": "Weed Instead of Roses",
+      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 241646,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Like a Rose",
-        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "Weed Instead of Roses",
-      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+        "name": "Blue Kentucky Girl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
       "artists": [
         {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+      "duration_ms": 200933,
+      "name": "Blue Kentucky Girl - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -795,38 +811,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Blue Kentucky Girl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Blue Kentucky Girl - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Listening to the Music",
         "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
       },
@@ -1031,18 +1011,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
       "artists": [
         {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 237786,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Every Single Star",
         "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
@@ -1123,38 +1123,6 @@
       "duration_ms": 163906,
       "name": "That's How I Feel",
       "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1175,18 +1143,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
         }
       ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1343,22 +1327,6 @@
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1379,18 +1347,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 185216,
       "name": "Goodbye San Antonio, Hello Amsterdam",
       "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lover's Lane / The Years Tire On",
-        "url": "https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe"
-      },
-      "artists": [
-        {
-          "name": "Micah P. Hinson",
-          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
-        }
-      ],
-      "duration_ms": 182724,
-      "name": "Lover's Lane",
-      "url": "https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Blue Jeans & Barstools",
         "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 180946,
       "name": "I Left My One Spot (Back at the 5 Spot)",
       "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Lover's Lane / The Years Tire On",
+        "url": "https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe"
+      },
+      "artists": [
+        {
+          "name": "Micah P. Hinson",
+          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+        }
+      ],
+      "duration_ms": 182724,
+      "name": "Lover's Lane",
+      "url": "https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 214471,
       "name": "I'll Change",
       "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
     },
     {
       "added_at": "2023-10-06 04:00:00",

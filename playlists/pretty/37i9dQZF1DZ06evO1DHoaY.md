@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 ### [This Is Bob Marley & The Wailers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DHoaY)
 
-> This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
+> This Is Bob Marley & The Wailers\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,786 likes - 46 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,955 likes - 46 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 45 | [War/No More Trouble \- From "Bob Marley: One Love" Soundtrack](https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [One Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj) | 4:57 |
 | 46 | [Hold Ya Head \(feat\. Bob Marley\)](https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 2:45 |
 
-Snapshot ID: `ZjQpAAAAAAD5inczXkbKYjnbArbyA6of`
+Snapshot ID: `ZjV6gAAAAABq69/pqthPkS1tpFDlWZUq`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
+> This is Grupo Niche\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,742 likes - 51 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,790 likes - 51 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 50 | [Mi Machete](https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 5:27 |
 | 51 | [El Coco](https://open.spotify.com/track/1GyiOg6NkOzpDlJQTtY0Fo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 4:14 |
 
-Snapshot ID: `ZjQpAAAAAAAyOa86cFB3Nl7T4UOaRam4`
+Snapshot ID: `ZjQpAAAAAACJixC3WkGa6WoOHB9jHqDl`

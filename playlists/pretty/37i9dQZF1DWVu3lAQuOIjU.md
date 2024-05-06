@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu3lAQuOIjU.md) - [plain]
 
 > In honor of Black Music Month, Heard You is diving into the historical impact of our culture on American music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 5 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,711 likes - 5 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

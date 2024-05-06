@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 ### [This Is Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EO5KU)
 
-> This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
+> This Is Los Plebes del Rancho de Ariel Camacho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,675 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,704 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Asi Me La Llevo](https://open.spotify.com/track/2BdRZvJMyaJFM86tlu3jNy) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Tierra Blanca](https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB) | [Asi Me La Llevo](https://open.spotify.com/album/2a8OztEUFX2sRTPhexhm4b) | 3:01 |
 | 50 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 |
 
-Snapshot ID: `ZjQpAAAAAABTy9wS5sgZkAb8KVeWyr8J`
+Snapshot ID: `ZjQpAAAAAADuSxm0D36T1IR7Ig8rKJTQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,840 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,848 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 12 | [UNSHAKABLE \- DRIFT](https://open.spotify.com/track/75svqeSQEZhRpXgKstmKlR) | [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU) | [UNSHAKABLE \(DRIFT\)](https://open.spotify.com/album/4khECg1qCx3ndae5uGyUyi) | 2:31 |
 | 13 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |
 | 14 | [Get Back](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 |
-| 15 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
+| 15 | [NEW REAL](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
 | 16 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
-| 17 | [NEW REAL](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
+| 17 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
 | 18 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
 | 19 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 20 | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 172898,
+  "num_followers": 172957,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Trees Before Fall",
-        "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
-      },
-      "artists": [
-        {
-          "name": "Trees Before Fall",
-          "url": "https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8"
-        }
-      ],
-      "duration_ms": 299484,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -739,38 +723,6 @@
       "duration_ms": 213512,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "Yum !!",
-        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
-      },
-      "artists": [
-        {
-          "name": "standards",
-          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
-        }
-      ],
-      "duration_ms": 188129,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "Route One or Die",
-        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
-      },
-      "artists": [
-        {
-          "name": "Three Trapped Tigers",
-          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Cramm",
-      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -791,6 +743,38 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
+        "name": "Trees Before Fall",
+        "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
+      },
+      "artists": [
+        {
+          "name": "Trees Before Fall",
+          "url": "https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8"
+        }
+      ],
+      "duration_ms": 299484,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Yum !!",
+        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
+      },
+      "artists": [
+        {
+          "name": "standards",
+          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
+        }
+      ],
+      "duration_ms": 188129,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
         "name": "Beow",
         "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208892,
       "name": "Beow",
       "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Route One or Die",
+        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+      },
+      "artists": [
+        {
+          "name": "Three Trapped Tigers",
+          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Cramm",
+      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -851,6 +851,22 @@
       "duration_ms": 302869,
       "name": "Jazztas",
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Muted Earth",
         "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
-      },
-      "artists": [
-        {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
-        }
-      ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Floaty Boaty",
         "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 256532,
       "name": "Floaty Boaty",
       "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Alexander Supertramp",
-        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
+        "name": "Land Wars",
+        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
       },
       "artists": [
         {
-          "name": "Bangladesh",
-          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
+          "name": "Land Wars",
+          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
         }
       ],
-      "duration_ms": 277300,
-      "name": "Alexander Supertramp",
-      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+      "duration_ms": 234306,
+      "name": "Friends Suck",
+      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1079,18 +1079,34 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Land Wars",
-        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
+        "name": "Alexander Supertramp",
+        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
       },
       "artists": [
         {
-          "name": "Land Wars",
-          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
+          "name": "Bangladesh",
+          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Friends Suck",
-      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
+      "duration_ms": 277300,
+      "name": "Alexander Supertramp",
+      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1123,22 +1139,6 @@
       "duration_ms": 224906,
       "name": "All We Need Is A Little Energon And A Lot Of Luck",
       "url": "https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "The Earth Is Not a Cold Dead Place",
         "url": "https://open.spotify.com/album/4ENmFqXRtBpigsdIhSuNJL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 496573,
       "name": "Your Hand In Mine",
       "url": "https://open.spotify.com/track/5NdxiycRi3nP2v7RJoAJIT"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2024-04-03 09:49:49",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-03 09:49:49",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Voces iluminadas por sonrientes",
-      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
-    },
-    {
-      "added_at": "2024-04-03 09:49:49",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/55VynzQVKgmPV8QpBulCYH"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 385360,
       "name": "Teratology",
       "url": "https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1"
+    },
+    {
+      "added_at": "2024-04-03 09:49:49",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
       "added_at": "2024-04-03 09:49:49",

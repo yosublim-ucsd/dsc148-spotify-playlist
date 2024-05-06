@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
+> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: REHMA, Zahoor
 
-266 songs - 15 hr 8 min
+267 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Groove](https://open.spotify.com/track/7zEq55JeOwrWvnkjkH0q1q) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [Groove](https://open.spotify.com/album/57KwsyVN6KOg4h9kHJrMge) | 3:16 | 2023-03-01 | 2023-03-13 |
 | [Gumm](https://open.spotify.com/track/14REs7jJd4v4QA7EOaPDiy) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo) | [Gumm](https://open.spotify.com/album/4HoeJSANDO9zCueiAHI0QY) | 3:04 | 2021-12-06 | 2023-04-09 |
 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 | 2022-11-30 |  |
+| [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 |  |
 | [Heeray Moti feat\. Slowspin & Maria Fajardo](https://open.spotify.com/track/52XryFwVUkSXtB6Zcc1aEq) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z), [Maho Azuma](https://open.spotify.com/artist/1COJshRx5Y2QzlOOrEZrtA), [Maria Fajardo](https://open.spotify.com/artist/1Kew38fipV04ZfQEki3VVI), [Yun Chen Tsai](https://open.spotify.com/artist/5AokZlaOtdstQ4LspWIgCS) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 3:24 | 2023-08-31 | 2023-09-09 |
 | [HICO](https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [HICO](https://open.spotify.com/album/1VM1CsYQjbmrVUNjqqkY2U) | 2:28 | 2021-12-06 | 2022-09-06 |
 | [Hobby](https://open.spotify.com/track/4qkx01gDUsZlbZ42qHJuQE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [Hobby](https://open.spotify.com/album/5xrlaAi6mUZ4FWz6gMwBi3) | 3:00 | 2022-11-23 | 2023-12-31 |

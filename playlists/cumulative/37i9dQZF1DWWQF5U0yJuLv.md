@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-202 songs - 15 hr 4 min
+203 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 |  |
 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 | 2023-02-17 |  |
 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 | 2023-02-17 |  |
+| [Kid For Today](https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:23 | 2023-02-17 |  |
 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 | 2023-02-17 | 2024-04-19 |
 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 | 2023-02-17 |  |
 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 | 2023-02-17 |  |
@@ -168,12 +169,12 @@
 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2023-02-17 |  |
 | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:38 | 2023-02-17 |  |
 | [Stranger to One](https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Time to Recover](https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP) | 2:16 | 2023-02-17 |  |
-| [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 | 2023-02-17 |  |
+| [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 | 2023-02-17 | 2024-05-06 |
 | [Strawberry Moon](https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg) | 3:07 | 2023-02-17 | 2024-04-19 |
 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 | 2023-02-17 |  |
 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 | 2023-02-17 |  |
 | [Sunshine in 1929](https://open.spotify.com/track/4b4HuNGu6nNAsyNwID91nb) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2023-02-17 | 2024-04-19 |
-| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2023-02-17 | 2024-04-29 |
+| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2023-02-17 |  |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2023-02-17 |  |
 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 |  |
 | [Tanz Mit Mir](https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Tanz Mit Mir](https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn) | 5:43 | 2023-02-17 |  |
@@ -200,7 +201,7 @@
 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 | 2023-02-17 |  |
 | [Two Dots](https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [A Certain Distance](https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf) | 4:38 | 2023-02-17 |  |
 | [Unheard Melodies](https://open.spotify.com/track/147wFLbWKyaTzXNzLGYFZw) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/26GcJyUotrwl9rDGQMANRE) | 4:40 | 2023-02-17 | 2024-04-19 |
-| [Unheard Melodies](https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz) | 4:40 | 2023-02-17 |  |
+| [Unheard Melodies](https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz) | 4:40 | 2023-02-17 | 2024-05-06 |
 | [Walter's Jam](https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Coasting](https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw) | 2:44 | 2023-02-17 |  |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2023-02-17 |  |
 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2023-02-17 |  |

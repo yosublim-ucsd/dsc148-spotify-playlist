@@ -2,7 +2,7 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Sawyer Brown
+> The latest music from our Country Heroes\. Cover: Trisha Yearwood
 
 280 songs - 16 hr 25 min
 

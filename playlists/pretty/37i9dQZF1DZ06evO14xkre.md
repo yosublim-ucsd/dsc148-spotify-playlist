@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 ### [This Is Kali Uchis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xkre)
 
-> This Is Kali Uchis\. Los temas esenciales, todos en una lista.
+> This is Kali Uchis\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,481 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,579 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 48 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
 | 49 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 
-Snapshot ID: `ZjQpAAAAAAC+2QJBHKil119NIOMaKEs2`
+Snapshot ID: `ZjQpAAAAAAAnjChZfPQ9KHGKKFwYvT6o`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 ### [This Is Offset](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ilh3G)
 
-> This is Offset\. The essential tracks, all in one playlist.
+> This Is Offset\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,144 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,146 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 | 50 | [Rich \(feat\. D Block Europe & Offset\)](https://open.spotify.com/track/0YTXcXihG2qpxb3U3LbPfc) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Plug Talk](https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa) | 4:05 |
 
-Snapshot ID: `ZjQpAAAAAADuIl+ggAmu7EerlRqUmQFy`
+Snapshot ID: `ZjQpAAAAAACMOplVyxA6/Waezn02tDvf`

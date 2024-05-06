@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-431 songs - 21 hr 14 min
+432 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [No Shame](https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [No Shame](https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj) | 2:45 | 2024-02-02 | 2024-03-28 |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-04 | 2023-10-18 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-09-29 |
-| [No Worries](https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [No Worries](https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu) | 2:21 | 2024-04-12 |  |
+| [No Worries](https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [No Worries](https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu) | 2:21 | 2024-04-12 | 2024-05-06 |
 | [Nothing Compares](https://open.spotify.com/track/5GBJVbsYC9sp5d9onpZAYu) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [TMXO](https://open.spotify.com/artist/6FKZZfl6Jbfyjd8DPChyCk) | [LOVE & HUSTLE](https://open.spotify.com/album/28UnTAsmLHRV708ogPuL4D) | 2:31 | 2024-04-26 | 2024-05-03 |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 | 2023-08-04 |
 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2023-08-03 | 2024-04-19 |
@@ -296,6 +296,7 @@
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2023-12-08 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-10-18 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-22 |  |
+| [Problem Choke \(feat\. Qing Madi\)](https://open.spotify.com/track/10iusab53B2DZKevX5s4XB) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Problem Choke \(feat\. Qing Madi\)](https://open.spotify.com/album/1cWgzr9PJ3Dy8UJv3hsIIM) | 2:36 | 2024-05-03 |  |
 | [Pulling Up](https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [OTR Vol.2](https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj) | 3:03 | 2022-06-09 | 2022-11-19 |
 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 | 2023-10-23 | 2024-04-12 |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 |  |

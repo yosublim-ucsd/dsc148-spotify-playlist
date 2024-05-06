@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-168 songs - 10 hr 36 min
+169 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Hot](https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [Once N 4 All](https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH) | 3:38 | 2021-03-11 | 2024-04-19 |
 | [How Deep Is Your Love](https://open.spotify.com/track/36iEQYW3jx9jsfETI5drEc) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [Taekwon V](https://open.spotify.com/album/7DAB9CI3G64gf1nsHgUm2n) | 3:42 | 2024-04-04 |  |
 | [Hwanyoungmoon](https://open.spotify.com/track/0WI4YqBDb79uzP6w0wTYfP) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Challenge](https://open.spotify.com/album/04DpX5uY7gpPlWoWbrU1iP) | 4:03 | 2021-03-11 | 2022-12-20 |
-| [I](https://open.spotify.com/track/4loryE03FrYXDvuUy8e9eM) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Are You Ready?](https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8) | 3:58 | 2024-04-04 |  |
+| [I](https://open.spotify.com/track/4loryE03FrYXDvuUy8e9eM) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Are You Ready?](https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8) | 3:58 | 2024-04-04 | 2024-05-06 |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2021-03-11 |  |
 | [I Know \- '92 TV Edit](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:24 | 2021-03-11 |  |
 | [I Know \- Club Mix](https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys](https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr) | 3:47 | 2021-03-11 | 2024-02-01 |
@@ -75,7 +75,7 @@
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2021-03-11 |  |
 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 | 2021-03-11 |  |
 | [One and a Half](https://open.spotify.com/track/0qTLCmhkp01C4oyF7kdANv) | [TwoTwo](https://open.spotify.com/artist/4OpNmopaGZHsiNNRfuytJ0) | [Two Two](https://open.spotify.com/album/3cSV8ZngUO3pcsIcywOsFu) | 3:57 | 2024-04-04 |  |
-| [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 | 2021-03-11 | 2024-05-05 |
+| [One Flew over the Cuckoo's Nest](https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:23 | 2021-03-11 |  |
 | [Only One](https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Only One \- The 3rd Album](https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j) | 3:54 | 2021-03-11 | 2024-04-05 |
 | [Passion](https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [Passion](https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9) | 3:57 | 2024-04-04 |  |
 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 | 2021-03-11 |  |
@@ -114,7 +114,7 @@
 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 | 2021-03-11 |  |
 | [Wrongful Meeting](https://open.spotify.com/track/3tWBKBa1l96An8KFfGo0Lx) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Kim Gun Mo 3](https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO) | 4:18 | 2021-03-11 | 2024-04-05 |
 | [Wrongful Meeting](https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:18 | 2021-03-11 |  |
-| [사랑을 아직도 난 I Don't Know Love](https://open.spotify.com/track/1lilimwLEAWFlImqjke27f) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:44 | 2021-03-11 |  |
+| [사랑을 아직도 난 I Don't Know Love](https://open.spotify.com/track/1lilimwLEAWFlImqjke27f) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:44 | 2021-03-11 | 2024-05-06 |
 | [검은 고양이 네로](https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [280KM SPEED](https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI) | 3:13 | 2021-03-11 |  |
 | [고해](https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV) | 5:00 | 2021-03-11 | 2023-12-20 |
 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2021-03-11 | 2023-06-04 |
@@ -173,6 +173,7 @@
 | [타인](https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [2nd Album](https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC) | 4:10 | 2021-03-11 |  |
 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 | 2021-03-11 |  |
 | [파란](https://open.spotify.com/track/3TDKL7ULjxEtFurcn4P4S2) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [Passion](https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9) | 3:46 | 2024-04-04 |  |
+| [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 | 2024-04-04 |  |
 | [프로와 아마츄어](https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 3:46 | 2021-03-11 | 2024-04-05 |
 | [해결사](https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [해결사 \- The 1st Album](https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob) | 3:42 | 2024-04-04 |  |
 | [해변의 여인](https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:39 | 2021-03-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 47971,
+  "num_followers": 47978,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: The Symphonies",
+        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 475426,
       "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
       "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: The Symphonies",
-        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
-      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
-      "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
         "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 223160,
       "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
       "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
+      "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
     },
     {
       "added_at": "2022-11-04 13:17:00",

@@ -1,6 +1,6 @@
 {
   "description": "The hits you just keep coming back to. Cover: Lizzo",
-  "num_followers": 236813,
+  "num_followers": 236810,
   "original_name": "Hit Repeat",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2024-04-05 01:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2024-04-05 01:00:00",
@@ -687,34 +671,18 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2024-04-05 01:00:00",
@@ -735,6 +703,22 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2024-04-05 01:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2024-04-05 01:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-04-05 01:00:00",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2024-04-05 01:00:00",
-      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
+    },
+    {
+      "added_at": "2024-04-05 01:00:00",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     }
   ],
   "unique_name": "Hit Repeat",

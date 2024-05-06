@@ -1,6 +1,6 @@
 {
   "description": "Scopa, paletta e musica!",
-  "num_followers": 83148,
+  "num_followers": 83161,
   "original_name": "Pulizie di Casa",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -303,18 +303,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -351,22 +355,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -391,22 +395,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 329733,
-      "name": "Californication",
-      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 329733,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 188986,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 313573,
-      "name": "Killing In The Name",
-      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1339,6 +1323,22 @@
       "duration_ms": 244884,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 313573,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2023-07-14 13:59:48",

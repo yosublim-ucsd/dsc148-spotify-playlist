@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,190 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,220 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 6 | [閃光配信](https://open.spotify.com/track/3agn9FdMlV6Ecl2MOsTl5U) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [閃光配信](https://open.spotify.com/album/1a39oxRKgYRZ4A3iE78OqL) | 2:17 |
 | 7 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
 | 8 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
-| 9 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
+| 9 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
 | 10 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |
 | 11 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:38 |
 | 12 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
-| 13 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
+| 13 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
 | 14 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 | 15 | [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 |
 | 16 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 45 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 46 | [ねぇ](https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ねぇ](https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR) | 3:20 |
 | 47 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
-| 48 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 |
-| 49 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
-| 50 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 |
+| 48 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
+| 49 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 |
+| 50 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 
 Snapshot ID: `ZjHcDgAAAABRzTfhcnaq5EHzRwRwLBBp`

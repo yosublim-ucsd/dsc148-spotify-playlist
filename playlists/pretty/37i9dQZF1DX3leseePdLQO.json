@@ -1,6 +1,6 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Shakira & Cardi B.",
-  "num_followers": 11301,
+  "num_followers": 11316,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
+        "name": "\u00bfY Si Eras T\u00fa?",
+        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "\u00bfY Si Eras T\u00fa?",
+      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "\u00bfY Si Eras T\u00fa?",
-        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "\u00bfY Si Eras T\u00fa?",
-      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 179074,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Sobreviviste",
+        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sobreviviste",
+      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -379,18 +395,22 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Sobreviviste",
-        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+        "name": "No Se Acaba Hasta Que Acabe",
+        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Sobreviviste",
-      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
+      "duration_ms": 186832,
+      "name": "No Se Acaba Hasta Que Acabe",
+      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -423,26 +443,6 @@
       "duration_ms": 197366,
       "name": "No te enamores de \u00e9l",
       "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
-        "name": "No Se Acaba Hasta Que Acabe",
-        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186832,
-      "name": "No Se Acaba Hasta Que Acabe",
-      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 222550,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -587,6 +571,22 @@
       "duration_ms": 211474,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 133000,
       "name": "Att: Amor",
       "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 160797,
-      "name": "EFECTO",
-      "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+      "duration_ms": 160797,
+      "name": "EFECTO",
+      "url": "https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -967,6 +951,22 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
         "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/46ZpeeYCLnDrb0VmsRF1IH"
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
       "artists": [
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/5hGSpLdMdvm3epAiyhEJdp"
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1163,6 +1147,22 @@
       "duration_ms": 152425,
       "name": "1Amor",
       "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/46ZpeeYCLnDrb0VmsRF1IH"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/5hGSpLdMdvm3epAiyhEJdp"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Los Mejores A\u00f1os",
-        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Los Mejores A\u00f1os",
-      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Nueve Vidas",
         "url": "https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 208200,
       "name": "Nueve Vidas",
       "url": "https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Los Mejores A\u00f1os",
+        "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Los Mejores A\u00f1os",
+      "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "crush",
         "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 199877,
       "name": "crush",
       "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "26 (ni tarde ni temprano)",
-        "url": "https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 203149,
-      "name": "26 - ni tarde ni temprano",
-      "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "La cuarta hoja (Extended Version)",
         "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "26 (ni tarde ni temprano)",
+        "url": "https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 203149,
+      "name": "26 - ni tarde ni temprano",
+      "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
     },
     {
       "added_at": "2024-04-04 17:11:30",

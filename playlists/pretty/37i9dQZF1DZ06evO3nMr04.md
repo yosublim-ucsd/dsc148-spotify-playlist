@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 ### [This Is Kanye West](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nMr04)
 
-> This is Kanye West\. The essential tracks, all in one playlist.
+> This Is Kanye West\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,609 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,853 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 49 | [Gotta Have It](https://open.spotify.com/track/2aqe2NgAwmMlPgtf1MnGoy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 2:20 |
 | 50 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
 
-Snapshot ID: `ZjQpAAAAAABcTcz8XR7sFm1JncrkbzuK`
+Snapshot ID: `ZjQpAAAAAABdJMazwLreratdI81g7MUG`

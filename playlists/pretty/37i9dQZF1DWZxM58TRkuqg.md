@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Rizky Febian, Mahalini
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,022 likes - 55 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,239 likes - 55 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

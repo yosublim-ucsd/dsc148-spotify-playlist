@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 138671,
+  "num_followers": 138742,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Foghat (2016 Remaster)",
         "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
@@ -251,8 +267,8 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+        "name": "Joe Cocker!",
+        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
       },
       "artists": [
         {
@@ -260,25 +276,9 @@
           "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Tattoo (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 244557,
-      "name": "They Don't Make Them Like You Anymore",
-      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
+      "duration_ms": 170160,
+      "name": "Delta Lady",
+      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -295,6 +295,22 @@
       "duration_ms": 228795,
       "name": "Cheats and Liars",
       "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tattoo (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 244557,
+      "name": "They Don't Make Them Like You Anymore",
+      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -343,22 +359,6 @@
       "duration_ms": 187245,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Songs Of Yesterday",
-      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Joe Cocker!",
-        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Delta Lady",
-      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
+      "duration_ms": 215626,
+      "name": "Songs Of Yesterday",
+      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 500626,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -513,6 +497,22 @@
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Spooky Two",
+        "url": "https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp"
+      },
+      "artists": [
+        {
+          "name": "Spooky Tooth",
+          "url": "https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u"
+        }
+      ],
+      "duration_ms": 548826,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Reckless Heart",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Spooky Two",
-        "url": "https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp"
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
       "artists": [
         {
-          "name": "Spooky Tooth",
-          "url": "https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 548826,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
+      "duration_ms": 500626,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "What's It Gonna Be",
-        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "What's It Gonna Be",
-      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Truth",
@@ -763,6 +747,22 @@
       "duration_ms": 148933,
       "name": "You Shook Me - Alternate Version",
       "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "What's It Gonna Be",
+        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "What's It Gonna Be",
+      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -829,38 +829,6 @@
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The First Super Group",
-        "url": "https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6"
-      },
-      "artists": [
-        {
-          "name": "The Steampacket",
-          "url": "https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "My Baby's Good to Me",
-      "url": "https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Means of Escape",
@@ -875,6 +843,22 @@
       "duration_ms": 366533,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The First Super Group",
+        "url": "https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6"
+      },
+      "artists": [
+        {
+          "name": "The Steampacket",
+          "url": "https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -895,6 +879,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Rain Is Such a Lonesome Sound (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "duration_ms": 169177,
+      "name": "Rain Is Such a Lonesome Sound - Remastered",
+      "url": "https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Rain Is Such a Lonesome Sound (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2"
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
       "artists": [
         {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 169177,
-      "name": "Rain Is Such a Lonesome Sound - Remastered",
-      "url": "https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU"
+      "duration_ms": 170826,
+      "name": "My Baby's Good to Me",
+      "url": "https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF"
-      },
-      "artists": [
-        {
-          "name": "Malone Sibun",
-          "url": "https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH"
-        }
-      ],
-      "duration_ms": 389933,
-      "name": "So Tired of Living",
-      "url": "https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "12 Gauge",
         "url": "https://open.spotify.com/album/0tM7YbnVjiIa2ACqeZB3hg"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 140905,
       "name": "12 Gauge",
       "url": "https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF"
+      },
+      "artists": [
+        {
+          "name": "Malone Sibun",
+          "url": "https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH"
+        }
+      ],
+      "duration_ms": 389933,
+      "name": "So Tired of Living",
+      "url": "https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn"
     },
     {
       "added_at": "2022-07-08 04:02:00",

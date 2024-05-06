@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: girl in red
 
-1,241 songs - 2 day 23 hr 24 min
+1,242 songs - 2 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Every Trace Of Us](https://open.spotify.com/track/4xsaMuwiMErOW2Wkm3qaGB) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Every Trace Of Us](https://open.spotify.com/album/6u5rUzdLLGKHuSDoPq7V0F) | 4:30 | 2024-01-04 | 2024-01-12 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-16 | 2023-04-15 |
 | [Everybody's Down](https://open.spotify.com/track/1aC8y8f7nobVnD8rTwPzL1) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [King Falcon](https://open.spotify.com/album/6zEu0MDY9o0x1dyOnzTid1) | 2:38 | 2023-10-26 | 2023-11-03 |
+| [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-02 |  |
 | [Everything Is...](https://open.spotify.com/track/2bKgXGatVhTNxYRzjXp1iG) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Infinite Joy](https://open.spotify.com/album/4zTr3HpPqiNzmuh1SrJ38t) | 2:56 | 2023-11-16 | 2023-12-01 |
 | [Everything's Electric](https://open.spotify.com/track/0HzZB3Z6gIk3VOlS5WjT49) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:36 | 2023-08-17 | 2023-10-20 |
 | [Evil](https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Evil](https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb) | 2:43 | 2023-03-16 | 2023-04-07 |
@@ -1104,7 +1105,7 @@
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-12 | 2023-10-20 |
 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:06 | 2023-09-15 | 2023-09-22 |
 | [To My Heart \- Slowed Down](https://open.spotify.com/track/3BLvwAdGXc5ZZ4IOYQqSc9) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart \(Slowed Down\)](https://open.spotify.com/album/0WRWIgotL5YCXIWb5uZ2n2) | 3:41 | 2023-10-12 | 2023-10-20 |
-| [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-15 |  |
+| [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-15 | 2024-05-06 |
 | [Tokyo](https://open.spotify.com/track/1MEnBRNqcVp38fmYnW9qE6) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Skate Pop](https://open.spotify.com/album/7y5727WTbpYwhumx9QyfUP) | 2:15 | 2024-02-22 | 2024-03-01 |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-06-30 | 2024-02-09 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r) | 2:25 | 2023-04-20 | 2023-04-28 |

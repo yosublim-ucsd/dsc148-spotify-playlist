@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This is Midian Lima\. The essential tracks, all in one playlist.
+> This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,427 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,429 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 |
 | 50 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
 
-Snapshot ID: `ZjQpAAAAAAAwS7BsEQsuQBmO9rLT0+cU`
+Snapshot ID: `ZjQpAAAAAACM+oHfxCQqq6SKjgNEQQ6S`

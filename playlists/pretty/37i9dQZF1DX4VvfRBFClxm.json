@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1468648,
+  "num_followers": 1468668,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 193733,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "We'll Never Have Sex",
+        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 99620,
+      "name": "We'll Never Have Sex",
+      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "This Town",
         "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 213600,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
     },
     {
       "added_at": "2023-10-27 04:00:00",

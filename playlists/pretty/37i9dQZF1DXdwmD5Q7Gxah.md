@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > songs that linger 😎 ft royel otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,428 likes - 123 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,571 likes - 123 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

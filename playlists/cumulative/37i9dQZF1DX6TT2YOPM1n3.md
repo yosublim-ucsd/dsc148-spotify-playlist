@@ -4,7 +4,7 @@
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Asim Azhar
 
-143 songs - 9 hr 17 min
+144 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 | 2023-05-04 |  |
 | [Habibi](https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Habibi](https://open.spotify.com/album/0moKWKFC54L7cybq4HDtT7) | 3:07 | 2023-05-04 | 2023-12-22 |
 | [Happy Hour](https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 3:15 | 2023-05-04 | 2024-01-13 |
+| [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 |  |
 | [Hona Tha Pyar](https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Bol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l) | 3:41 | 2023-05-04 |  |
 | [Humsafar](https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA) | [QB](https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb) | [Humsafar \(2011\)](https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH) | 6:21 | 2023-12-29 | 2024-02-24 |
 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 | 2024-01-12 | 2024-04-27 |

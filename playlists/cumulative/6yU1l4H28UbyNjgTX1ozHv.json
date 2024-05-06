@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "How Will I Know (Acoustic)",
+        "url": "https://open.spotify.com/album/0snjZU2AY3rlxHjPMBNk8N"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193144,
+      "name": "How Will I Know - Acoustic",
+      "url": "https://open.spotify.com/track/3VwiktbNsP7nksJj2Kegpn"
+    },
+    {
+      "album": {
         "name": "Human (Remixes)",
         "url": "https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3"
       },

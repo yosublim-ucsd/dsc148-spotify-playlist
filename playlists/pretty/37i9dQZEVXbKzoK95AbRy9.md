@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,433 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,492 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 9 | [Aquariano Nato](https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 1:56 |
 | 10 | [Casca de Bala](https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [A Cara das Vaquejadas 3.0](https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh) | 2:13 |
 | 11 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
-| 12 | [Maravilhosa](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
+| 12 | [Maravilhosa \- Ao Vivo](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
 | 13 | [Diz Aí Qual é o Plano?](https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [MC Nego Micha](https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 11:43 |
 | 14 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 |
 | 15 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Embalo](https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Embalo](https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj) | 3:05 |
 | 50 | [É Isso Bebê, Tá Certa!](https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 4:31 |
 
-Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcrswAAAAAAAAAAAAAAAAAAAAAAAAGVu`

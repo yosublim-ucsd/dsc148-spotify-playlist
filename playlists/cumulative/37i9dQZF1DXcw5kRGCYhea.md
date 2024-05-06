@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-61 songs - 3 hr 11 min
+62 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,13 +48,14 @@
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2024-03-26 |  |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2024-03-26 |  |
 | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/1gOnmylQfRosw6DLJff6af) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Intégral 2 \#POV](https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D) | 3:12 | 2024-03-26 | 2024-04-19 |
-| [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4aHRzrMCfGXIC8ldykVkMs) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Intégral 2 \#POV](https://open.spotify.com/album/3ZJPNl3kiiJNvH7N7ZulfG) | 3:12 | 2024-04-18 |  |
+| [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4aHRzrMCfGXIC8ldykVkMs) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Intégral 2 \#POV](https://open.spotify.com/album/3ZJPNl3kiiJNvH7N7ZulfG) | 3:12 | 2024-04-18 | 2024-05-06 |
 | [Normal](https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 2:41 | 2024-03-26 | 2024-04-19 |
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2024-03-26 |  |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2024-03-26 |  |
 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 | 2024-04-18 |  |
 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-03-26 |  |
 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2024-03-26 |  |
+| [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-05 |  |
 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-04-18 |  |
 | [París Como Hakimi](https://open.spotify.com/track/0vYhUMxQbxYzvjx82707U9) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [París Como Hakimi](https://open.spotify.com/album/6EGdF6PPqUdepFkHiWam87) | 3:05 | 2024-03-26 |  |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-03-26 |  |

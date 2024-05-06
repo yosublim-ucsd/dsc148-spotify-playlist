@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 ### [This Is Labi Siffre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jgeSr)
 
-> This is Labi Siffre\. The essential tracks, all in one playlist.
+> This Is Labi Siffre\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,477 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,481 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [Second Time Around](https://open.spotify.com/track/0zvjDCmVZ0g7uVNRdI1Wdy) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:02 |
 | 50 | [River](https://open.spotify.com/track/0HnXiX7QmVMg3BmkUkWeUx) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:21 |
 
-Snapshot ID: `ZjQpAAAAAABeoRB21lweo1PLBODe5Jv9`
+Snapshot ID: `ZjQpAAAAAADUQTFwzK3ffGS0AJCqY62x`

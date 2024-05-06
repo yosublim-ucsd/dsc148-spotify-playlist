@@ -1,6 +1,6 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 9128,
+  "num_followers": 9130,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Lendemain",
-        "url": "https://open.spotify.com/album/5VZkTNFDjgDkugh5hymj98"
+        "name": "Une ann\u00e9e record",
+        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
       },
       "artists": [
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
         }
       ],
-      "duration_ms": 153840,
-      "name": "Lendemain",
-      "url": "https://open.spotify.com/track/1EQadWAm6D0QiYgT8bSLiQ"
+      "duration_ms": 208170,
+      "name": "Devenir immortel (et puis mourir)",
+      "url": "https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Une ann\u00e9e record",
-        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
+        "name": "Lendemain",
+        "url": "https://open.spotify.com/album/5VZkTNFDjgDkugh5hymj98"
       },
       "artists": [
         {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 208170,
-      "name": "Devenir immortel (et puis mourir)",
-      "url": "https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F"
+      "duration_ms": 153840,
+      "name": "Lendemain",
+      "url": "https://open.spotify.com/track/1EQadWAm6D0QiYgT8bSLiQ"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -423,22 +423,6 @@
       "duration_ms": 247170,
       "name": "Dis Moi",
       "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Backstage",
-        "url": "https://open.spotify.com/album/49ar9sLxIGvyuACExV498g"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Barillet",
-      "url": "https://open.spotify.com/track/7sQlKJBiqR3exoRjHlT7PM"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -463,34 +447,38 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Love supr\u00eame",
-        "url": "https://open.spotify.com/album/4ZvgOLI5Wozf7RAxneTx9x"
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
       },
       "artists": [
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Blacklights",
-      "url": "https://open.spotify.com/track/0oFmVpZmt2Z3jS0wPvLrFZ"
+      "duration_ms": 147853,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
     },
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Une ann\u00e9e record",
-        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
+        "name": "Backstage",
+        "url": "https://open.spotify.com/album/49ar9sLxIGvyuACExV498g"
       },
       "artists": [
         {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 191239,
-      "name": "Nouveaux riches",
-      "url": "https://open.spotify.com/track/2WGjNKDvkM56JRYobuQazH"
+      "duration_ms": 226153,
+      "name": "Barillet",
+      "url": "https://open.spotify.com/track/7sQlKJBiqR3exoRjHlT7PM"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -519,26 +507,6 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
-      },
-      "artists": [
-        {
-          "name": "Clay and Friends",
-          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
-        },
-        {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
         "name": "Cerb\u00e8re",
         "url": "https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA"
       },
@@ -555,18 +523,50 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "L'album noir",
-        "url": "https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B"
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/7tS8pETnFbdRElpCePcvpg"
+      "duration_ms": 187213,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Une ann\u00e9e record",
+        "url": "https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "Nouveaux riches",
+      "url": "https://open.spotify.com/track/2WGjNKDvkM56JRYobuQazH"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Love supr\u00eame",
+        "url": "https://open.spotify.com/album/4ZvgOLI5Wozf7RAxneTx9x"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Blacklights",
+      "url": "https://open.spotify.com/track/0oFmVpZmt2Z3jS0wPvLrFZ"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -583,22 +583,6 @@
       "duration_ms": 217600,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -623,6 +607,22 @@
       "duration_ms": 237662,
       "name": "Bando",
       "url": "https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "L'album noir",
+        "url": "https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/7tS8pETnFbdRElpCePcvpg"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Confession risqu\u00e9e",
+        "url": "https://open.spotify.com/album/2kKFkpgObsTYrFLdCjuVwW"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        }
+      ],
+      "duration_ms": 204230,
+      "name": "24 heures \u00e0 vivre",
+      "url": "https://open.spotify.com/track/4KgeccIkAwdLFNe2MyBmlG"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Bateaux Colombiens",
         "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
       },
@@ -863,22 +883,18 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Confession risqu\u00e9e",
-        "url": "https://open.spotify.com/album/2kKFkpgObsTYrFLdCjuVwW"
+        "name": "Les Fr\u00e8res Cueilleurs",
+        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
       },
       "artists": [
         {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        },
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
         }
       ],
-      "duration_ms": 204230,
-      "name": "24 heures \u00e0 vivre",
-      "url": "https://open.spotify.com/track/4KgeccIkAwdLFNe2MyBmlG"
+      "duration_ms": 228092,
+      "name": "\u00c7a que c'tait",
+      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -903,22 +919,6 @@
       "duration_ms": 272039,
       "name": "Blow",
       "url": "https://open.spotify.com/track/0hb24D9WWzu4nNZlbloEXS"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Les Fr\u00e8res Cueilleurs",
-        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "\u00c7a que c'tait",
-      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
         "name": "Mafia",
         "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 170454,
       "name": "Fugueuse",
       "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1111,6 +1111,38 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 481800,
+      "name": "Explosif",
+      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Blue Volvo",
+        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+      },
+      "artists": [
+        {
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+        }
+      ],
+      "duration_ms": 251228,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD"
       },
@@ -1131,38 +1163,6 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 481800,
-      "name": "Explosif",
-      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
         "name": "Bonhomme Pendu (Chapitre 2)",
         "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 235075,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        }
-      ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1227,6 +1211,38 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Le set up",
         "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
       },
@@ -1239,38 +1255,6 @@
       "duration_ms": 158660,
       "name": "Univers parall\u00e8le",
       "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Blue Volvo",
-        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
-      },
-      "artists": [
-        {
-          "name": "Loud Lary Ajust",
-          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
-        }
-      ],
-      "duration_ms": 251228,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Free Cdf2",
-        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Astral Drill",
-      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1303,6 +1287,22 @@
       "duration_ms": 159688,
       "name": "Basilic",
       "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Free Cdf2",
+        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Astral Drill",
+      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Aujourd'hui ou jamais",
-        "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
-      },
-      "artists": [
-        {
-          "name": "YH",
-          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
-        }
-      ],
-      "duration_ms": 261537,
-      "name": "Fanny",
-      "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
         "name": "H\u00f4tel d\u00e9lices",
         "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Aujourd'hui ou jamais",
+        "url": "https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J"
+      },
+      "artists": [
+        {
+          "name": "YH",
+          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
+        }
+      ],
+      "duration_ms": 261537,
+      "name": "Fanny",
+      "url": "https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 227262,
       "name": "Henny",
       "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "La purge",
+      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
-      },
-      "artists": [
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 208140,
-      "name": "La purge",
-      "url": "https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
       },
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 236657,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Canicule, Vol.1",
         "url": "https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 145165,
       "name": "Wow",
       "url": "https://open.spotify.com/track/3T1bB8PzL5Gi0XlvB9hDxU"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Faya",
-        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
-      },
-      "artists": [
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        },
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 236657,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/1rUTNL7BmKVOALl3iwu9z3"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "JSN",
         "url": "https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
       "artists": [
         {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
         }
       ],
-      "duration_ms": 277293,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/1rUTNL7BmKVOALl3iwu9z3"
+      "duration_ms": 213167,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1739,22 +1755,6 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
     },
     {
       "added_at": "2024-04-04 22:49:07",

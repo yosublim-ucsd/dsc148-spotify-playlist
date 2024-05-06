@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Hardrock
 
-85 songs - 3 hr 32 min
+86 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2023-12-01 | 2024-03-16 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-03-15 |  |
+| [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 | 2024-05-05 |  |
 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 | 2023-12-01 |  |
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 |  |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
@@ -59,7 +60,7 @@
 | [noir](https://open.spotify.com/track/72vUc6aIviryxvvs4gV5ag) | [venii](https://open.spotify.com/artist/5V7KZhm5gwGljtq4BTgyOC) | [noir](https://open.spotify.com/album/2O94J43yUri3UqlH0QnYBP) | 1:49 | 2024-03-15 | 2024-03-27 |
 | [NOSTYLIST](https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 3:00 | 2023-12-01 | 2024-04-19 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2024-04-12 |  |
-| [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-12-01 |  |
+| [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-12-01 | 2024-05-06 |
 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 | 2023-12-01 |  |
 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 | 2023-12-01 | 2024-01-06 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 |  |

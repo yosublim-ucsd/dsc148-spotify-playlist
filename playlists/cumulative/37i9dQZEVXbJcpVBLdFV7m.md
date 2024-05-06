@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-332 songs - 16 hr 52 min
+333 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-03-12 | 2024-03-17 |
 | [E.C.C.C.](https://open.spotify.com/track/3Mg15kWNaBLBSQBMHsZdYa) | [Garjoka](https://open.spotify.com/artist/2HB7K5UdSuYXmdxsPkK8Tm) | [One Shot Season 1](https://open.spotify.com/album/5QlMPQK74GLXbzmFuzBIeZ) | 3:07 | 2024-04-27 | 2024-05-04 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-05 | 2024-03-27 |
-| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-16 | 2024-05-01 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-16 |  |
 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 | 2024-04-02 | 2024-04-09 |
 | [ENOUGH!](https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [ENOUGH!](https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X) | 1:30 | 2024-03-07 | 2024-03-11 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-30 |  |
@@ -105,7 +105,8 @@
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-01-29 | 2024-02-11 |
 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-12 |  |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-02-01 | 2024-02-07 |
-| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-30 |  |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-30 | 2024-05-06 |
+| [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-05 |  |
 | [ILUV](https://open.spotify.com/track/30ln1OwxEZdXDfEploBcsU) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:03 | 2024-03-05 | 2024-03-10 |
 | [Imame li vrazka](https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD) | [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Tvoya Totalno](https://open.spotify.com/album/3qFr1hLqtRlXwhd5vICUTK) | 3:27 | 2024-02-21 | 2024-02-28 |
 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 | 2024-01-29 | 2024-02-06 |
@@ -128,7 +129,7 @@
 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 | 2024-04-30 |  |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-29 | 2024-03-17 |
 | [Kopnej](https://open.spotify.com/track/6Hk5pAiHlvamdvpNNwTczI) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Kopnej](https://open.spotify.com/album/0ymIY3FjipJchSd3OHaSgF) | 3:20 | 2024-04-22 | 2024-05-01 |
-| [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 | 2024-05-01 |  |
+| [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 | 2024-05-01 | 2024-05-06 |
 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 | 2024-03-15 | 2024-03-26 |
 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-04-01 | 2024-04-03 |
 | [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 | 2024-04-09 | 2024-04-15 |

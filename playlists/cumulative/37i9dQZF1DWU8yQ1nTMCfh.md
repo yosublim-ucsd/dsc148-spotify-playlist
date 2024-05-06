@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-282 songs - 15 hr 39 min
+283 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Lo Siento](https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Siento](https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ) | 3:33 | 2023-11-03 |  |
 | [Los Cobardes Viven Siempre](https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx) | 3:34 | 2023-01-20 | 2023-04-22 |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
-| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 |  |
+| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 | 2024-05-06 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-03-10 |  |
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
@@ -159,6 +159,7 @@
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-01-20 |  |
 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Mila, Saturno y el Río](https://open.spotify.com/track/2xTeZhXg6xNvnDOznpoJhn) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Mila, Saturno y el Río](https://open.spotify.com/album/5Rw5wBaZ2D5mYk65orpKiJ) | 4:12 | 2022-04-15 | 2022-12-17 |
+| [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 | 2024-05-03 |  |
 | [Moderato](https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:25 | 2024-04-12 |  |
 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 | 2023-10-28 |
 | [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 | 2023-05-19 | 2024-04-19 |

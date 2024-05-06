@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 64215,
+  "num_followers": 64297,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 224703,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -383,6 +387,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224703,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Home Team",
         "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 196281,
       "name": "Home Team",
       "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Rolex\u00ae On A Redneck",
-        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Rolex\u00ae On A Redneck",
-      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Tornillo",
         "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
       },
@@ -735,6 +715,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Blacked Out",
+        "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Blacked Out",
+      "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -751,18 +747,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Blacked Out",
-        "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
+        "name": "Rolex\u00ae On A Redneck",
+        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
       },
       "artists": [
         {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Blacked Out",
-      "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
+      "duration_ms": 179866,
+      "name": "Rolex\u00ae On A Redneck",
+      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
     },
     {
       "added_at": "2024-01-12 05:01:00",

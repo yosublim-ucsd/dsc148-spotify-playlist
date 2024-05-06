@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132682,
+  "num_followers": 132707,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "City of Gold",
         "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Follow Me Down",
+        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Follow Me Down",
-        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 220727,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Authentic Unlimited",
         "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
       "artists": [
         {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
         }
       ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 177909,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1207,6 +1207,26 @@
       "duration_ms": 302000,
       "name": "Idaho Mountain Song",
       "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "+ 1",
+        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 253058,
+      "name": "Anna Marie (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1295,26 +1315,6 @@
       "duration_ms": 158779,
       "name": "Into the Fire",
       "url": "https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "+ 1",
-        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 253058,
-      "name": "Anna Marie (feat. Sierra Hull)",
-      "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Mary Ann is a Pistol",
+        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Mary Ann is a Pistol",
+      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1727,38 +1743,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Mary Ann is a Pistol",
-        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Mary Ann is a Pistol",
-      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Far Away Again",
         "url": "https://open.spotify.com/album/4b9zR844J9pihzB5Q63T8I"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Behind the 8 Ball",
         "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
       },
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Chasin' Indigo",
-        "url": "https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht"
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Chasin' Indigo",
-      "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
+      "duration_ms": 216373,
+      "name": "Kentucky Gold",
+      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     }
   ],
   "unique_name": "Grass Roots",

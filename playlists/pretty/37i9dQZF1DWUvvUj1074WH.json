@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 179949,
+  "num_followers": 179975,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -235,18 +219,34 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -439,6 +423,22 @@
       "duration_ms": 183893,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266015,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266015,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 340742,
       "name": "Smoke On The Water - Remastered 2012",
       "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -991,22 +1007,6 @@
       "duration_ms": 292266,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Mystic Love",
         "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1375,6 +1359,22 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 200693,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Chilanga banda",
-      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 158253,
       "name": "El Final",
       "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
     },
     {
       "added_at": "2023-11-10 17:30:38",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -2311,38 +2327,6 @@
     {
       "added_at": "2023-11-10 17:30:38",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "This Fire",
-      "url": "https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
-    },
-    {
-      "added_at": "2023-11-10 17:30:38",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 254000,
       "name": "Change",
       "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
+    },
+    {
+      "added_at": "2023-11-10 17:30:38",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "This Fire",
+      "url": "https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj"
     },
     {
       "added_at": "2023-11-10 17:30:38",

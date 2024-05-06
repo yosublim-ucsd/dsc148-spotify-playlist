@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,719 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,729 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Ojitos Chiquitos](https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:49 |
 | 50 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
 
-Snapshot ID: `LcnFcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LcrswAAAAAAAAAAAAAAAAAAAAAAAAGVu`

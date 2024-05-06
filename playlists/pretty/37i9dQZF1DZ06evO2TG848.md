@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 ### [This Is Gustavo Santaolalla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848)
 
-> This is Gustavo Santaolalla\. Todos os maiores hits em uma só playlist.
+> This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,282 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,286 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 50 | [Jardin \- 2024 Remaster](https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 |
 
-Snapshot ID: `ZjQpAAAAAACsmdZAdB/CG2VGgOQePaYc`
+Snapshot ID: `ZjQpAAAAAACXZw0ZrYP40GKcttMXrIUm`

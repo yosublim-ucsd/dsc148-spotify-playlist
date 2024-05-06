@@ -1,6 +1,6 @@
 {
   "description": "canzoni felici italiane e internazionali per una primavera presa bene",
-  "num_followers": 51038,
+  "num_followers": 51048,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "Found Heaven",
-        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 170754,
-      "name": "Fainted Love",
-      "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+      "duration_ms": 170754,
+      "name": "Fainted Love",
+      "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
       "added_at": "2024-04-05 08:52:04",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -1455,6 +1435,26 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
         "name": "Just A Cloud Away",
         "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-04-05 08:52:04",
       "album": {
-        "name": "Regardez moi",
-        "url": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd"
-      },
-      "artists": [
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Si, ah",
-      "url": "https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw"
-    },
-    {
-      "added_at": "2024-04-05 08:52:04",
-      "album": {
         "name": "BELLYDANCING",
         "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 122520,
       "name": "BELLYDANCING",
       "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
+    },
+    {
+      "added_at": "2024-04-05 08:52:04",
+      "album": {
+        "name": "Regardez moi",
+        "url": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Si, ah",
+      "url": "https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw"
     },
     {
       "added_at": "2024-04-05 08:52:04",

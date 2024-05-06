@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: OG Anunoby, Donte DiVincenzo, Josh Hart and Jalen Brunson
 
-596 songs - 1 day 6 hr 17 min
+597 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [No Weakness](https://open.spotify.com/track/6kwz9zbK7jHImhFwy25yn2) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:24 | 2023-03-31 | 2023-06-09 |
 | [Nobody Knows My Struggle](https://open.spotify.com/track/7nQXU7lu0RhVOSmsa3teKj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:25 | 2024-04-12 | 2024-04-27 |
 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 | 2022-10-21 |  |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-09-30 | 2023-06-10 |
 | [Now \(feat\. 21 Savage\)](https://open.spotify.com/track/3Ee6DIAcyueyz2wOe81vc3) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Hear No Evil](https://open.spotify.com/album/3tocsl73xCimRlSDuzFdG5) | 3:26 | 2021-09-02 | 2022-06-25 |
 | [Nvr again](https://open.spotify.com/track/0oaTiWONVWoIKvwztKQ4jl) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:46 | 2023-02-17 | 2023-02-22 |

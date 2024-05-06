@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '10s. Cover: Solange",
-  "num_followers": 1680471,
+  "num_followers": 1680522,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -347,6 +331,54 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-08-21 23:21:50",
@@ -387,38 +419,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "Infrunami",
+      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -487,22 +503,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -541,36 +557,20 @@
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "The Lo-Fis",
-        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 178328,
-      "name": "Infrunami",
-      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "I Told You",
@@ -843,6 +827,22 @@
       "duration_ms": 216630,
       "name": "Her Way",
       "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2022-09-24 16:52:24",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
@@ -1007,22 +1023,6 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1061,6 +1061,26 @@
       "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "X (Expanded Edition)",
@@ -1085,26 +1105,6 @@
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
-    },
-    {
       "added_at": "2022-08-04 19:06:56",
       "album": {
         "name": "Last Day Of Summer",
@@ -1119,6 +1119,22 @@
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1141,22 +1157,6 @@
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -1175,22 +1175,6 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1243,6 +1227,22 @@
       "duration_ms": 197573,
       "name": "Talk (feat. Disclosure)",
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "FREE 6LACK",
-        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "PRBLMS",
-      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Sonder Son",
         "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 204841,
       "name": "Gang Over Luv",
       "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "FREE 6LACK",
+        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "PRBLMS",
+      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Pour It Up",
-      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1621,6 +1621,26 @@
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 199136,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+    },
+    {
       "added_at": "2022-09-17 04:26:15",
       "album": {
         "name": "213",
@@ -1635,6 +1655,22 @@
       "duration_ms": 202434,
       "name": "Kickin\u2019 Back",
       "url": "https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "A.M. Paradox",
+        "url": "https://open.spotify.com/album/2pIpBDT8RtmJ5Vhb86BOcd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 291098,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/2jGjNCH6Op0BqBHPc4Rd8d"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1655,22 +1691,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+      "duration_ms": 262480,
+      "name": "living room flow - Bonus",
+      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1709,22 +1741,6 @@
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "A.M. Paradox",
-        "url": "https://open.spotify.com/album/2pIpBDT8RtmJ5Vhb86BOcd"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 291098,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/2jGjNCH6Op0BqBHPc4Rd8d"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "A Seat at the Table",
@@ -1739,22 +1755,6 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     }
   ],
   "unique_name": "I Love My '10s R&B",

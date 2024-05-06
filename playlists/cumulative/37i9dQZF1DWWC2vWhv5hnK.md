@@ -2,7 +2,7 @@
 
 ### [Kaiju No\. 8 怪獣8号 ](https://open.spotify.com/playlist/37i9dQZF1DWWC2vWhv5hnK)
 
-> Check out an exclusive voice message + related artist's tracks before the anime release date\. いよいよ4月13日放送。限定ボイスや作品世界を彩るアーティストたちの名曲を聴いて気分を高めよう！©防衛隊第３部隊 ©松本直也／集英社
+> Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
 42 songs - 3 hr 11 min
 

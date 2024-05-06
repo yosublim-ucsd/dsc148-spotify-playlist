@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 一夜限りのスペシャルアレンジでお届けした<a href="https://www.sonymusic.co.jp/artist/SoundTrackInt/info/552938">「スタジオ地図シネマティックオーケストラ2022」</a>をライブ収録したアルバムが発売！スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,442 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,448 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 63 | [Sweet Spirit](https://open.spotify.com/track/1QgopPLPBeal6lnaQ8ktaU) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 1:03 |
 | 64 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 |
 | 65 | [心のそばに](https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [心のそばに](https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI) | 5:03 |
-| 66 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
+| 66 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
 | 67 | [Rainy Steps](https://open.spotify.com/track/1FZSuDgmKC5FqN7GeVEKLc) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 3:19 |
 | 68 | [オヨステ・アイナ](https://open.spotify.com/track/5KB3c0azE2AtiBVScY0tXa) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 3:02 |
 | 69 | [Future Nursery](https://open.spotify.com/track/3Ue4jSi0eiflQtorKdAgvs) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:38 |

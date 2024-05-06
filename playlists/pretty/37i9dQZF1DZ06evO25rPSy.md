@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This Is Pedro Suárez\-Vértiz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,430 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,437 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

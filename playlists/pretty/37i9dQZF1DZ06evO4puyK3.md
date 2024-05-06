@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. The essential tracks, all in one playlist.
+> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,616 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,626 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Oops!…I Did It Again](https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Oops!...I did it again](https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv) | 2:18 |
 | 50 | [Catuaba](https://open.spotify.com/track/7DN5QOaEBUQcBRwGkzEwVC) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Catuaba](https://open.spotify.com/album/43u7ry5SAOMz2BB4pKK3ui) | 3:12 |
 
-Snapshot ID: `ZjQpAAAAAABTU/IMoKc9uI0qHA3aHuDQ`
+Snapshot ID: `ZjQpAAAAAAAceKVuuRuEYtvvngUWo+td`

@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152546,
+  "num_followers": 152558,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 182666,
       "name": "Love You Anymore",
       "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -439,22 +459,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -475,22 +491,6 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Keeping Faith",
         "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
       },
       "artists": [
         {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
         }
       ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -835,6 +819,22 @@
       "duration_ms": 195194,
       "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
       "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Until The Morning Light",
         "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 188493,
       "name": "Until The Morning Light",
       "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Don't Wanna Know (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Don't Wanna Know (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 260000,
       "name": "Before",
       "url": "https://open.spotify.com/track/0cRzM3aHc01vnHIT3ImB3O"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1335,22 +1351,6 @@
       "duration_ms": 237875,
       "name": "Feathers & Gasoline",
       "url": "https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Not That Special - EP",
-        "url": "https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk"
-      },
-      "artists": [
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        }
-      ],
-      "duration_ms": 212051,
-      "name": "Lying To Yourself",
-      "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Kuffert Fuld Af Mursten",
         "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 294506,
       "name": "Op",
       "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Not That Special - EP",
+        "url": "https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk"
+      },
+      "artists": [
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "duration_ms": 212051,
+      "name": "Lying To Yourself",
+      "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 197055,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Planets",
         "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 189862,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 197055,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Fin Regn",
+        "url": "https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 201079,
+      "name": "Fin Regn",
+      "url": "https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Say Goodnight",
         "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 175536,
       "name": "Same Old",
       "url": "https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Fin Regn",
-        "url": "https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 201079,
-      "name": "Fin Regn",
-      "url": "https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 188939,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Too Much To H8",
         "url": "https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g"
       },
@@ -1747,6 +1727,26 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 188939,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 236562,
       "name": "Cali",
       "url": "https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Fall Away Into Place",
+        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
+      },
+      "artists": [
+        {
+          "name": "Sille Nilsson",
+          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1779,22 +1795,6 @@
       "duration_ms": 181822,
       "name": "They Told Me",
       "url": "https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Fall Away Into Place",
-        "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
-      },
-      "artists": [
-        {
-          "name": "Sille Nilsson",
-          "url": "https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW"
     },
     {
       "added_at": "2024-01-12 09:52:44",

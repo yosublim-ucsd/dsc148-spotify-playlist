@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386752,
+  "num_followers": 386749,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
+        "name": "Workin' Hard",
+        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 239070,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "Workin' Hard",
-        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 239070,
-      "name": "Workin' Hard",
-      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "E-SIDE 3",
         "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 199082,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
         "name": "WINTER WITHOUT YOU",
         "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
       },
@@ -1075,42 +1091,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "GO!!",
-        "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "GO!!",
-      "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "fake face dance music (night drive remix)",
         "url": "https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA"
       },
@@ -1147,22 +1127,22 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
+        "name": "GO!!",
+        "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
       },
       "artists": [
         {
-          "name": "Yojiro Noda",
-          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         },
         {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 228980,
-      "name": "EVERGREEN",
-      "url": "https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ"
+      "duration_ms": 202093,
+      "name": "GO!!",
+      "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1179,6 +1159,26 @@
       "duration_ms": 194586,
       "name": "SF\u6771\u4eac",
       "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "duration_ms": 228980,
+      "name": "EVERGREEN",
+      "url": "https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
-        "name": "Sesame",
-        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "Speed Tape",
         "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "Sesame",
+        "url": "https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc (Sci-Fi Edit)",
-        "url": "https://open.spotify.com/album/26ygzT2K5HKFnhsGxJPSuD"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc (Sci-Fi Edit)",
-      "url": "https://open.spotify.com/track/4GUY0onClFq7BrdSJMQ4Vw"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "\u98df\u5353",
         "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc (Sci-Fi Edit)",
+        "url": "https://open.spotify.com/album/26ygzT2K5HKFnhsGxJPSuD"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Somewhere Near Marseilles \u30fc\u30de\u30eb\u30bb\u30a4\u30e6\u8fba\u308a\u30fc (Sci-Fi Edit)",
+      "url": "https://open.spotify.com/track/4GUY0onClFq7BrdSJMQ4Vw"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2024-05-01 08:22:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-01 08:22:00",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
-    },
-    {
-      "added_at": "2024-05-01 08:22:00",
-      "album": {
         "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
         "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+    },
+    {
+      "added_at": "2024-05-01 08:22:00",
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     }
   ],
   "unique_name": "Tokyo Rising",

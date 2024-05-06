@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 ### [This Is Edgardo Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO096Rby)
 
-> This is Edgardo Nuñez\. The essential tracks, all in one playlist.
+> This Is Edgardo Nuñez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,664 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,700 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 50 | [El Kiri](https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 2:42 |
 
-Snapshot ID: `ZjQpAAAAAAArueItV/GTI1uxZvigZOna`
+Snapshot ID: `ZjQpAAAAAABZbTSJYsoh9nD4+HL9OA4j`

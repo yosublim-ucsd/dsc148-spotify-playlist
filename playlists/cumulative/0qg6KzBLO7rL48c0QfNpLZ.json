@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 198374,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/4Dh2eeHgV5z4KycDFu96Sv"
@@ -1612,6 +1612,28 @@
       "duration_ms": 192847,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu"
+    },
+    {
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A"
+      },
+      "artists": [
+        {
+          "name": "FMTM",
+          "url": "https://open.spotify.com/artist/59rzq7zL5EJrmwWLPzDb0e"
+        },
+        {
+          "name": "Catching Sunrises",
+          "url": "https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170451,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK"
     },
     {
       "album": {
@@ -4926,7 +4948,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 199322,
       "name": "Say It Out Loud",
       "url": "https://open.spotify.com/track/3TeoPVvdkk5kB0qDhnq2Zd"

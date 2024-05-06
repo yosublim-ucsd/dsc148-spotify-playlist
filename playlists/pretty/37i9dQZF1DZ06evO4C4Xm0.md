@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This Is Brian Eno\. Los temas esenciales, todos en una lista.
+> This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,091 likes - 45 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,106 likes - 45 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 44 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
 | 45 | [All I Remember](https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs) | 3:52 |
 
-Snapshot ID: `ZjQpAAAAAAB20w1LJKPqulDKv9YAXUzN`
+Snapshot ID: `ZjQpAAAAAAAfWiOvtciW0ggnHhGDLmBA`

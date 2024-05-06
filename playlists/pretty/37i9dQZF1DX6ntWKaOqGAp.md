@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: マカロニえんぴつ 日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,292 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,447 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
-| 2 | [預言者](https://open.spotify.com/track/7uw4txmyapTji8Ee6Ex1nV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [\(\(ika\)\)](https://open.spotify.com/album/46yFYGF7mbFCnwQbMgetRp) | 3:18 |
-| 3 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
-| 4 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 |
-| 5 | [エヴォリューション](https://open.spotify.com/track/2l6SJgROFpqSHPw7yZuE7i) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/7rfDn22mEaa7n5pIDhB98n) | 2:50 |
-| 6 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
-| 7 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 |
-| 8 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
+| 2 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
+| 3 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 |
+| 4 | [預言者](https://open.spotify.com/track/7uw4txmyapTji8Ee6Ex1nV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [\(\(ika\)\)](https://open.spotify.com/album/46yFYGF7mbFCnwQbMgetRp) | 3:18 |
+| 5 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
+| 6 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 |
+| 7 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
+| 8 | [エヴォリューション](https://open.spotify.com/track/2l6SJgROFpqSHPw7yZuE7i) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/7rfDn22mEaa7n5pIDhB98n) | 2:50 |
 | 9 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 |
 | 10 | [Fighter](https://open.spotify.com/track/5S5Hk5kPlPFCvSNT30ZiEr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Fighter](https://open.spotify.com/album/6kYU5SvrrrVFECBt5DsReN) | 3:53 |
 | 11 | [BOY](https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
 | 100 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 |
 
-Snapshot ID: `ZjZNcAAAAACqgC114vGX9PVyrsYtFwPW`
+Snapshot ID: `Zjee8AAAAADaGHZfEUg7BzbRGijqrvh2`

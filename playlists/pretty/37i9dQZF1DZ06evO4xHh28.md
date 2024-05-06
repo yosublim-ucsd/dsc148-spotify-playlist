@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 ### [This Is My Chemical Romance](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xHh28)
 
-> This is My Chemical Romance\. The essential tracks, all in one playlist.
+> This is My Chemical Romance\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,901 likes - 43 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,994 likes - 43 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 42 | [Tomorrow's Money](https://open.spotify.com/track/5gqpaxUlKUuOeqxfj8H1L8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number One](https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU) | 3:16 |
 | 43 | [Make Room!!!!](https://open.spotify.com/track/2Yi6aqwX2e0JQ9bTNUGfRT) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:42 |
 
-Snapshot ID: `ZjQpAAAAAAC/5ny271BE5qtsrSn1Xp7y`
+Snapshot ID: `ZjQpAAAAAAB/ez9CSWkYRbM5RCiWrqjj`

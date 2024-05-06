@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 121067,
       "name": "Glad",
       "url": "https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4"
@@ -2572,6 +2572,24 @@
       "duration_ms": 216666,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
+    },
+    {
+      "album": {
+        "name": "Jesus loves me",
+        "url": "https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171651,
+      "name": "Jesus loves me",
+      "url": "https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9"
     },
     {
       "album": {

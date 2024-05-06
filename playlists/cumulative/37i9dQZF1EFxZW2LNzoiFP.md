@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 12 hr 5 min
+214 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 | 2024-05-01 |  |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 | 2024-05-01 |  |
 | [Needless to Say](https://open.spotify.com/track/3M2ZGa1CasGiQXjKAONHoU) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:12 | 2024-05-01 |  |
+| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-05 |  |
 | [No Roof Access](https://open.spotify.com/track/0ufanCEQvOH1PVTKZve9IM) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:21 | 2024-05-01 |  |
 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 | 2024-05-01 |  |
 | [None of This Alone](https://open.spotify.com/track/3oC6XhD8it51GroGHUh3Ud) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [None of This Alone](https://open.spotify.com/album/7akTYYhH1O4asv7ojULTX5) | 2:52 | 2024-05-01 |  |
@@ -153,7 +154,9 @@
 | [Prom Dress](https://open.spotify.com/track/07RKsrgVVYNuHjJeI1EVpa) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Prom Dress](https://open.spotify.com/album/4tx8bkWjPjYLNNyzJfqFUq) | 3:07 | 2024-05-01 |  |
 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 | 2024-05-01 |  |
 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 | 2024-05-01 |  |
+| [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 | 2024-05-05 |  |
 | [Reputation](https://open.spotify.com/track/6XMTNaQQlk7LRxhNJu6jSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:57 | 2024-05-01 |  |
+| [Right Here](https://open.spotify.com/track/2jHhED4R4Kwqdu1Ya9xeRW) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:03 | 2024-05-05 |  |
 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 | 2024-05-01 |  |
 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 | 2024-05-01 |  |
 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 | 2024-05-01 |  |

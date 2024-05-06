@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 ### [This Is Dropkick Murphys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM)
 
-> This is Dropkick Murphys\. The essential tracks, all in one playlist.
+> This Is Dropkick Murphys\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,604 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,626 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [God Willing](https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:16 |
 | 50 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/7I5gYS1jiCj3MDS6NUPvCc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:46 |
 
-Snapshot ID: `ZjQpAAAAAABOWZP8MNJtBt7Xo022+6fB`
+Snapshot ID: `ZjQpAAAAAAAm2sZZZI5hpULB8BjZ2c4L`

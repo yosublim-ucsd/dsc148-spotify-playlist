@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Manic Dream Pixie (Deluxe)",
+        "url": "https://open.spotify.com/album/2jojwr1j8GmqKXKbCg6mZ5"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180365,
+      "name": "Loved You Before",
+      "url": "https://open.spotify.com/track/6RC4AyIElIYn0oFNlA1B5A"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },

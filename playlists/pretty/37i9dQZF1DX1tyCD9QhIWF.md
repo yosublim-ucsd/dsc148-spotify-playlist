@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303,850 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,303,810 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 24 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 25 | [Strut](https://open.spotify.com/track/3X1pxBnEv3yyD4XfAWYugU) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Strut](https://open.spotify.com/album/3mIlv8SkFguyzBITrJs1zr) | 3:18 |
 | 26 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 27 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
-| 28 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
-| 29 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
-| 30 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
-| 31 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
-| 32 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
-| 33 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
-| 34 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 27 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
+| 28 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
+| 29 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
+| 30 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
+| 31 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
+| 32 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
+| 33 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 34 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
 | 35 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 36 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 |
 | 37 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 46 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 47 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 |
 | 48 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
-| 49 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
-| 50 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
-| 51 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
+| 49 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
+| 50 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
+| 51 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
 | 52 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 |
 | 53 | [Aye](https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Aye](https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3) | 3:06 |
 | 54 | [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 65 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 66 | [What Went Down](https://open.spotify.com/track/0LJDalpISq604gw21RVwIV) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY) | 5:00 |
 | 67 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |
-| 68 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
-| 69 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 68 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 69 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
 | 70 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 |
 | 71 | [Ready For Something](https://open.spotify.com/track/0D1RTbsoERxU3toO9Z2b46) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z) | 3:57 |
 | 72 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |

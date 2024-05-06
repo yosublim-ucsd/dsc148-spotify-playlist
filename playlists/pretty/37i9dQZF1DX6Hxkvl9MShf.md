@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,839 likes - 91 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,945 likes - 91 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

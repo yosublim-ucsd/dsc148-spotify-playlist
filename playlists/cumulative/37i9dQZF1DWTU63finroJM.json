@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "alright",
+        "url": "https://open.spotify.com/album/1AouEvdW1tEGYJSwzPG8Rt"
+      },
+      "artists": [
+        {
+          "name": "Ben Dolic",
+          "url": "https://open.spotify.com/artist/7bxAuu4sINh8Rwljqdzwcx"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203526,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/7uLS2rNVFpYIF5JjISzXVx"
+    },
+    {
+      "album": {
         "name": "Als Jij Maar Bij Me Bent",
         "url": "https://open.spotify.com/album/0G8o3ih2VPgnY1RUPnu5ck"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 97422,
       "name": "Azul Zafiro",
       "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
@@ -4986,6 +5004,24 @@
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
+    },
+    {
+      "album": {
+        "name": "Davet",
+        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Davet",
+      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
     },
     {
       "album": {
@@ -17179,6 +17215,24 @@
     },
     {
       "album": {
+        "name": "Proud of Me",
+        "url": "https://open.spotify.com/album/59io9pkWx8jRgV94SdZ4MR"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212859,
+      "name": "Proud of Me",
+      "url": "https://open.spotify.com/track/4p3QFHlxOOJzE2dy9CL7WR"
+    },
+    {
+      "album": {
         "name": "MI FANTASY",
         "url": "https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0"
       },
@@ -21596,7 +21650,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 224390,
       "name": "T\u00e1i ch\u1ebf con tim",
       "url": "https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8"
@@ -23748,7 +23802,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 203863,
       "name": "\u0e01\u0e25\u0e32\u0e07\u0e43\u0e08\u0e44\u0e01\u0e25\u0e08\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9"

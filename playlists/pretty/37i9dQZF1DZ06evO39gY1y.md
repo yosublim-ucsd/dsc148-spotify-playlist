@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is Charles Ans\. The essential tracks, all in one playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,743 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,791 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 |
 | 51 | [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 |
 
-Snapshot ID: `ZjQpAAAAAACqkn9bSBEaA7Qr1yA1sFB2`
+Snapshot ID: `ZjQpAAAAAABoB4cZBw+YSqbKzf5QD09c`

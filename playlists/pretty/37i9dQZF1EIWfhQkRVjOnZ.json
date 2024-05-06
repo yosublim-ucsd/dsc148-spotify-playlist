@@ -27,6 +27,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 77973,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -52,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 77973,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
+      "duration_ms": 238693,
+      "name": "The Aleph",
+      "url": "https://open.spotify.com/track/6nQ8t60dFrrtLSLCxLuiv0"
     },
     {
       "added_at": null,
@@ -84,9 +116,41 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 238693,
-      "name": "The Aleph",
-      "url": "https://open.spotify.com/track/6nQ8t60dFrrtLSLCxLuiv0"
+      "duration_ms": 155280,
+      "name": "Thoughts In Reverse",
+      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall Of Ideals",
+        "url": "https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "It Dwells In Me",
+      "url": "https://open.spotify.com/track/2zkTehkNBWVQIGda4y729C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Without Sight",
+      "url": "https://open.spotify.com/track/3WS2p9UqQS0DxplRAm9L0V"
     },
     {
       "added_at": null,
@@ -116,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 155280,
-      "name": "Thoughts In Reverse",
-      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
+      "duration_ms": 239546,
+      "name": "Saints",
+      "url": "https://open.spotify.com/track/1YtHb3yDgwwZDMczpYr20n"
     },
     {
       "added_at": null,
@@ -148,9 +212,73 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 174986,
-      "name": "Without Sight",
-      "url": "https://open.spotify.com/track/3WS2p9UqQS0DxplRAm9L0V"
+      "duration_ms": 243866,
+      "name": "My Darkness",
+      "url": "https://open.spotify.com/track/3MaVgBLILrrrPHz7MlH9wL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "I Never Wanted",
+      "url": "https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/4GWGWr9Uh895hvHJKaoiXd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadows Are Security",
+        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Meaning in Tragedy",
+      "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "From The Red",
+      "url": "https://open.spotify.com/track/2pbonUSRnVhGnzQDX0kblA"
     },
     {
       "added_at": null,
@@ -171,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
       },
       "artists": [
         {
@@ -180,9 +308,41 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Saints",
-      "url": "https://open.spotify.com/track/1YtHb3yDgwwZDMczpYr20n"
+      "duration_ms": 156706,
+      "name": "It's Always Cold In Paris",
+      "url": "https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Everything Falls",
+        "url": "https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp"
+      },
+      "artists": [
+        {
+          "name": "Haste The Day",
+          "url": "https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w"
+        }
+      ],
+      "duration_ms": 251320,
+      "name": "When Everything Falls",
+      "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Crumbs For The Murder",
+      "url": "https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU"
     },
     {
       "added_at": null,
@@ -203,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
       },
       "artists": [
         {
@@ -212,9 +372,73 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 243866,
-      "name": "My Darkness",
-      "url": "https://open.spotify.com/track/3MaVgBLILrrrPHz7MlH9wL"
+      "duration_ms": 222720,
+      "name": "I, Lucifer",
+      "url": "https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In The Sound Of Separation",
+        "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Breathing In A New Mentality",
+      "url": "https://open.spotify.com/track/3hMTsuLSxgOTMyEEkvfad1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "Isabella's",
+      "url": "https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get What You Give",
+        "url": "https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 187012,
+      "name": "Thirty Three",
+      "url": "https://open.spotify.com/track/0qOUuIgtAPgh5bE7Mf5upL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "A Bag Of Marbles",
+      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
     },
     {
       "added_at": null,
@@ -235,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "End Transmission",
+        "url": "https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 216457,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "This Is Who We Are",
+      "url": "https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saints",
         "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
       },
@@ -244,9 +500,73 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 269386,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/4GWGWr9Uh895hvHJKaoiXd"
+      "duration_ms": 191657,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Days In an Evil Age",
+        "url": "https://open.spotify.com/album/4UlZLfWT8dWgtvUDdNR6AX"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Giant",
+          "url": "https://open.spotify.com/artist/6nFjP8zBYm0XpUrGMJkRuX"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Tithemi",
+      "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Pallbearer",
+      "url": "https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Powerless Rise",
+        "url": "https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/3Gr6fisu6QAHN49IHD6lGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saints",
+        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "There Can Be No Hesitation",
+      "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
     },
     {
       "added_at": null,
@@ -276,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 275280,
-      "name": "From The Red",
-      "url": "https://open.spotify.com/track/2pbonUSRnVhGnzQDX0kblA"
+      "duration_ms": 204773,
+      "name": "Sound Of Reason",
+      "url": "https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0"
     },
     {
       "added_at": null,
@@ -308,326 +628,6 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 156706,
-      "name": "It's Always Cold In Paris",
-      "url": "https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA"
-      },
-      "artists": [
-        {
-          "name": "Adestria",
-          "url": "https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "1984",
-      "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Crumbs For The Murder",
-      "url": "https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Days In an Evil Age",
-        "url": "https://open.spotify.com/album/4UlZLfWT8dWgtvUDdNR6AX"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Giant",
-          "url": "https://open.spotify.com/artist/6nFjP8zBYm0XpUrGMJkRuX"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Tithemi",
-      "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "I, Lucifer",
-      "url": "https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children Of Fire",
-        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Children Of Fire",
-      "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "Isabella's",
-      "url": "https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music for the Recently Deceased",
-        "url": "https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY"
-      },
-      "artists": [
-        {
-          "name": "I Killed The Prom Queen",
-          "url": "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "A Bag Of Marbles",
-      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Matriarch",
-        "url": "https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT"
-      },
-      "artists": [
-        {
-          "name": "Veil Of Maya",
-          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
-        }
-      ],
-      "duration_ms": 183818,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "End Transmission",
-        "url": "https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 216457,
-      "name": "End Transmission",
-      "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children Of Fire",
-        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Hush Yael",
-      "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "There Can Be No Hesitation",
-      "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond the Gates",
-        "url": "https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP"
-      },
-      "artists": [
-        {
-          "name": "For All Eternity",
-          "url": "https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Vacant Room",
-      "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Pallbearer",
-      "url": "https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hymn of a Broken Man",
-        "url": "https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R"
-      },
-      "artists": [
-        {
-          "name": "Times Of Grace",
-          "url": "https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "Live in Love",
-      "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Separate",
-      "url": "https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/7bCll1Hp8b2AyctqT3JY2C"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Ben Threw",
-      "url": "https://open.spotify.com/track/60bWAM79p2Qnh0leAhNyhD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints",
-        "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Sound Of Reason",
-      "url": "https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall Of Ideals",
-        "url": "https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Indictment",
-      "url": "https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
       "duration_ms": 232400,
       "name": "Mr. And Mrs. Cuckoldom",
       "url": "https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH"
@@ -635,18 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of The Morning",
-        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
       "artists": [
         {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Son Of The Morning",
-      "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
+      "duration_ms": 143653,
+      "name": "Bury Us All",
+      "url": "https://open.spotify.com/track/2TzP8ZtKzq45xvCS6e2kgm"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 189560,
-      "name": "In The Wake Of Pigs",
-      "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
+      "duration_ms": 209040,
+      "name": "Children Of Fire",
+      "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
     },
     {
       "added_at": null,
@@ -699,18 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Caitiff Choir",
-        "url": "https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb"
+        "name": "Matriarch",
+        "url": "https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT"
       },
       "artists": [
         {
-          "name": "It Dies Today",
-          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
         }
       ],
-      "duration_ms": 210893,
-      "name": "A Threnody For Modern Romance",
-      "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
+      "duration_ms": 183818,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck"
     },
     {
       "added_at": null,
@@ -731,18 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/7bCll1Hp8b2AyctqT3JY2C"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Adestria",
+          "url": "https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8"
         }
       ],
-      "duration_ms": 215213,
-      "name": "Purified",
-      "url": "https://open.spotify.com/track/5FbKzmAJhu85W9btvVlCl0"
+      "duration_ms": 244680,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
     },
     {
       "added_at": null,
@@ -763,18 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hymn of a Broken Man",
-        "url": "https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R"
+        "name": "Music for the Recently Deceased",
+        "url": "https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY"
       },
       "artists": [
         {
-          "name": "Times Of Grace",
-          "url": "https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC"
+          "name": "I Killed The Prom Queen",
+          "url": "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Hymn of a Broken Man",
-      "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
+      "duration_ms": 252973,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc"
     },
     {
       "added_at": null,
@@ -795,18 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Define The Great Line",
-        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+        "name": "Children Of Fire",
+        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
         }
       ],
-      "duration_ms": 267146,
-      "name": "Returning Empty Handed",
-      "url": "https://open.spotify.com/track/4rDwTksjXHBngObS3cXAX0"
+      "duration_ms": 268880,
+      "name": "Hush Yael",
+      "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
     }
   ],
   "unique_name": "Destroy The Runner Mix",

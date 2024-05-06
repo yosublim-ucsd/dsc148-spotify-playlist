@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
+> This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,967 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,028 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 47 | [Fe Blindada](https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Gênio](https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe) | 2:58 |
 | 48 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 
-Snapshot ID: `ZjQpAAAAAABFs0HErqS278mdEFFUchi6`
+Snapshot ID: `ZjQpAAAAAABUdPy0k9dsTfcp/x9xY/kr`

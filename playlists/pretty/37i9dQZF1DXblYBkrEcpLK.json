@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: LiSA",
-  "num_followers": 158203,
+  "num_followers": 158282,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
@@ -443,38 +443,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "request",
-        "url": "https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I"
-      },
-      "artists": [
-        {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
-        }
-      ],
-      "duration_ms": 224234,
-      "name": "request",
-      "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u305c\u3093\u308a\u3087\u304f\u3058\u3087\u3057\u304b\u304f\u3081\u3044\uff01",
-        "url": "https://open.spotify.com/album/7IsYunWwiKCVV46Sru2PBD"
-      },
-      "artists": [
-        {
-          "name": "P\u4e38\u69d8\uff61",
-          "url": "https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii"
-        }
-      ],
-      "duration_ms": 230470,
-      "name": "\u305c\u3093\u308a\u3087\u304f\u3058\u3087\u3057\u304b\u304f\u3081\u3044\uff01",
-      "url": "https://open.spotify.com/track/3y6fz9DV5uNGG82n8rEdQ3"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
         "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "\u305c\u3093\u308a\u3087\u304f\u3058\u3087\u3057\u304b\u304f\u3081\u3044\uff01",
+        "url": "https://open.spotify.com/album/7IsYunWwiKCVV46Sru2PBD"
+      },
+      "artists": [
+        {
+          "name": "P\u4e38\u69d8\uff61",
+          "url": "https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii"
+        }
+      ],
+      "duration_ms": 230470,
+      "name": "\u305c\u3093\u308a\u3087\u304f\u3058\u3087\u3057\u304b\u304f\u3081\u3044\uff01",
+      "url": "https://open.spotify.com/track/3y6fz9DV5uNGG82n8rEdQ3"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "request",
+        "url": "https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I"
+      },
+      "artists": [
+        {
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "request",
+      "url": "https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -547,6 +547,30 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
+        "name": "\u96f7\u6afb",
+        "url": "https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        },
+        {
+          "name": "SAKURAmoti",
+          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "\u96f7\u6afb",
+      "url": "https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
         "name": "\u5149\u306e\u4e2d\u3078",
         "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 284217,
       "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
       "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u96f7\u6afb",
-        "url": "https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "9Lana",
-          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
-        },
-        {
-          "name": "SAKURAmoti",
-          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "\u96f7\u6afb",
-      "url": "https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -667,6 +667,30 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
+        "name": "\u30d0\u30a4\u30de\u30a4\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u307f\u304d\u307e\u308a\u3042",
+          "url": "https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB"
+        },
+        {
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
+        }
+      ],
+      "duration_ms": 160133,
+      "name": "\u30d0\u30a4\u30de\u30a4\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
         "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
         "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
       },
@@ -699,30 +723,6 @@
     {
       "added_at": "2024-04-23 15:00:00",
       "album": {
-        "name": "\u30d0\u30a4\u30de\u30a4\u30c0\u30fc\u30ea\u30f3",
-        "url": "https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u307f\u304d\u307e\u308a\u3042",
-          "url": "https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB"
-        },
-        {
-          "name": "\u30cb\u30c8\u3002",
-          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
-        }
-      ],
-      "duration_ms": 160133,
-      "name": "\u30d0\u30a4\u30de\u30a4\u30c0\u30fc\u30ea\u30f3",
-      "url": "https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
         "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
         "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
       },
@@ -751,6 +751,30 @@
       "duration_ms": 196960,
       "name": "\u904b\u547d\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN"
+    },
+    {
+      "added_at": "2024-04-23 15:00:00",
+      "album": {
+        "name": "\u6625\u7d1b\u3044",
+        "url": "https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Ayuni D",
+          "url": "https://open.spotify.com/artist/73IyP7qAS0gk2yz1D25nzh"
+        },
+        {
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "\u6625\u7d1b\u3044",
+      "url": "https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH"
     },
     {
       "added_at": "2024-04-23 15:00:00",
@@ -831,22 +855,6 @@
       "duration_ms": 269031,
       "name": "\u5916\u9053\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT"
-      },
-      "artists": [
-        {
-          "name": "NANAOAKARI",
-          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
-        }
-      ],
-      "duration_ms": 221686,
-      "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
     }
   ],
   "unique_name": "EQUAL Anime",

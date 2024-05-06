@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This Is Bethel Music\. Los temas esenciales, todos en una lista.
+> This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,888 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,926 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
 | 50 | [Beauty](https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:18 |
 
-Snapshot ID: `ZjQpAAAAAABkNLeZzIWH82sUGzQNZz8+`
+Snapshot ID: `ZjQpAAAAAADjb7JA1mk9eJJIIYOJ6hxy`

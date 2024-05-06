@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 ### [This Is Santa Fe Klan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CpLa9)
 
-> This is Santa Fe Klan\. The essential tracks, all in one playlist.
+> This Is Santa Fe Klan\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,585 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,651 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 51 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 |
 | 52 | [Maldita Tentación](https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [RAZZ](https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Maldita Tentación](https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl) | 4:17 |
 
-Snapshot ID: `ZjQpAAAAAABL8R39XJ8mmOMvNJsvzrXP`
+Snapshot ID: `ZjQpAAAAAAAzAUchdnn7llsnK2GW+R9W`

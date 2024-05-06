@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 78867,
+  "num_followers": 78948,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 149605,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 209621,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "I wish for the rain",
         "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 151999,
       "name": "I wish for the rain",
       "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Waiting for God in the Garden",
-        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
-      },
-      "artists": [
-        {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Waiting for God in the Garden",
-      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
     }
   ],
   "unique_name": "Lazy Afternoon",

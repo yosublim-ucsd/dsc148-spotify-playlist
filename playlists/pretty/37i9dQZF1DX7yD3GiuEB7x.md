@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,982 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,981 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "trin",
     "url": "https://open.spotify.com/user/tjoslin05"
   },
-  "snapshot_id": "AAAAVnaXSlPIzU1p96A6lqg/LwhAwCD4",
+  "snapshot_id": "AAAAV0ctP8HbiMZUnS2p7Fl4zmJz8pqB",
   "tracks": [
     {
       "added_at": "2022-01-17 03:36:39",
@@ -787,6 +787,22 @@
       "duration_ms": 216280,
       "name": "Adore You - Demo",
       "url": "https://open.spotify.com/track/09MeKXC36yLBv5liEwRRel"
+    },
+    {
+      "added_at": "2024-05-05 17:08:18",
+      "album": {
+        "name": "Manic Dream Pixie (Deluxe)",
+        "url": "https://open.spotify.com/album/2jojwr1j8GmqKXKbCg6mZ5"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 180365,
+      "name": "Loved You Before",
+      "url": "https://open.spotify.com/track/6RC4AyIElIYn0oFNlA1B5A"
     }
   ],
   "unique_name": "my love is mine all mine",

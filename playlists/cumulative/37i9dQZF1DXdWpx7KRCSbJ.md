@@ -4,7 +4,7 @@
 
 > Pronto pra pool party? Vem com a gente!
 
-97 songs - 4 hr 49 min
+98 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Paradinha](https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paradinha](https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa) | 2:21 | 2023-01-17 | 2023-08-30 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2023-01-17 |  |
 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 | 2023-01-17 |  |
-| [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Ao vivo\)](https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm) | 3:39 | 2023-01-17 |  |
+| [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Ao vivo\)](https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm) | 3:39 | 2023-01-17 | 2024-05-06 |
+| [Pirata e tesouro \- Dennis DJ Remix](https://open.spotify.com/track/4sWnjmKdn0tIq5HJnZTMv5) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Dennis DJ Remix\)](https://open.spotify.com/album/5XZ7oNNlWoYuklWxIjBsqD) | 3:46 | 2023-01-17 |  |
 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 | 2023-01-17 |  |
 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 | 2023-01-17 |  |
 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 | 2023-01-17 |  |

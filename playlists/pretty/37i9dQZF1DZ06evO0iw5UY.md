@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 ### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This is Krewella\. The essential tracks, all in one playlist.
+> This is Krewella\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,994 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,998 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [War Forever](https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:37 |
 | 50 | [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 |
 
-Snapshot ID: `ZjQpAAAAAADlLx3FMm3RBheuzTbgKIfA`
+Snapshot ID: `ZjQpAAAAAADje3XpnJ7cqk2J8R86MYd3`

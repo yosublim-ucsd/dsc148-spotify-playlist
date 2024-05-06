@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 167388,
+  "num_followers": 167405,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Mil\u00e3o",
-        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "Mil\u00e3o",
-      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "curva escura",
         "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 220000,
       "name": "curva escura",
       "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Mil\u00e3o",
+        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "Mil\u00e3o",
+      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "S\u00f3 por Hoje",
         "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 170666,
       "name": "S\u00f3 por Hoje",
       "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -711,42 +731,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -823,6 +823,30 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 140832,
       "name": "Faz Arrepiar",
       "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
       "artists": [
         {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Santa Melanina",
-        "url": "https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT"
-      },
-      "artists": [
-        {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Santa Melanina",
-      "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "A\u00e7a\u00ed e Amendo\u00edm",
         "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 193414,
       "name": "A\u00e7a\u00ed e Amendo\u00edm",
       "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
     },
     {
       "added_at": "2024-05-03 03:01:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
+> This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,627 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,632 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 49 | [Hasta Mi Último Día](https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro \("45 Aniversario" \- Relanzamiento\)](https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ) | 2:34 |
 | 50 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 
-Snapshot ID: `ZjQpAAAAAADrlremphiTSMOPVYReqvRh`
+Snapshot ID: `ZjQpAAAAAAB8UAg5/562i2a6QUrjoYfR`

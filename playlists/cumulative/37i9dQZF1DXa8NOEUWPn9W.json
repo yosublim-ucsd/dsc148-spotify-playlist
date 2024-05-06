@@ -10973,6 +10973,24 @@
     },
     {
       "album": {
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
+    },
+    {
+      "album": {
         "name": "More Baby",
         "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
       },
@@ -11656,7 +11674,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 158906,
       "name": "No Guest List",
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"

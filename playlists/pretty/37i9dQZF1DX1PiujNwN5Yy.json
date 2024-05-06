@@ -1,6 +1,6 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111257,
+  "num_followers": 111253,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "ARRANC\u00c1RMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
@@ -227,22 +211,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -311,38 +311,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Otras Alas",
         "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
@@ -363,6 +331,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Es Que Yo Te Quiero A Ti",
         "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 323625,
       "name": "Es Que Yo Te Quiero A Ti",
       "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -407,22 +407,6 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -499,22 +483,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Nunca Estoy",
-        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Nunca Estoy",
-      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Toda Esta Ciudad",
         "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 320603,
       "name": "Toda Esta Ciudad",
       "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Nunca Estoy",
+        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Nunca Estoy",
+      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -547,22 +547,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
-        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "El Fuego En El Cielo (MASTER 1)",
-      "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
+        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "El Fuego En El Cielo (MASTER 1)",
+      "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Nada de Nada",
         "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 178000,
       "name": "desamarte",
       "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "yo q se",
-        "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yo q se",
-      "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 205450,
       "name": "Se que te iras",
       "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "yo q se",
+        "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "yo q se",
+      "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Q Tiempos Aquellos",
-        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 109986,
-      "name": "Q Tiempos Aquellos",
-      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Q Tiempos Aquellos",
+        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 109986,
+      "name": "Q Tiempos Aquellos",
+      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Mi Complejo",
-        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Mi Complejo",
-      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/7s3a776EyXjlyP0YofUlQ3"
       },
@@ -1547,22 +1531,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "A Estas Horas Del Amor",
         "url": "https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 302426,
       "name": "A Estas Horas Del Amor",
       "url": "https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Mi Complejo",
+        "url": "https://open.spotify.com/album/30mKRWa5yK5kg8lx2MeNSC"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Mi Complejo",
+      "url": "https://open.spotify.com/track/35l1ZzkbDc0fTwil4Nvqey"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Autosabotear",
-        "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 192104,
-      "name": "Autosabotear",
-      "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Un Poquito M\u00e1s",
         "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 179943,
       "name": "Un Poquito M\u00e1s",
       "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Autosabotear",
+        "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 192104,
+      "name": "Autosabotear",
+      "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
     }
   ],
   "unique_name": "gris",

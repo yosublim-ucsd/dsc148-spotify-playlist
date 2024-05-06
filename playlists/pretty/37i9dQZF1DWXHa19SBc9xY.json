@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 92759,
+  "num_followers": 92801,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -195,30 +195,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Bateu",
-        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        },
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Bateu",
-      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Tudo Que Eu Quero",
         "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
       },
@@ -247,6 +223,30 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Bateu",
+        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Bateu",
+      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "O Amor Descansa Na Varanda",
         "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
       },
@@ -407,66 +407,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Te Vi Na Rua",
-        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "Te Vi Na Rua",
-      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -483,22 +423,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
       "artists": [
         {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        },
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -523,22 +459,42 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Aroeira",
-        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
       "artists": [
         {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
         },
         {
-          "name": "Casa Amarela",
-          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 173354,
-      "name": "Aroeira",
-      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -559,6 +515,50 @@
       "duration_ms": 232899,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Aroeira",
+        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+        }
+      ],
+      "duration_ms": 173354,
+      "name": "Aroeira",
+      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Te Vi Na Rua",
+        "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        }
+      ],
+      "duration_ms": 174310,
+      "name": "Te Vi Na Rua",
+      "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Bem Me Queira",
         "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 145377,
       "name": "Bem Me Queira",
       "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -699,18 +699,38 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+        "name": "Juntin",
+        "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        },
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
         }
       ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+      "duration_ms": 179841,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -735,38 +755,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Juntin",
-        "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 179841,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph"
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Balan\u00e7o de Amor",
         "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 199231,
       "name": "Balan\u00e7o de Amor",
       "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -879,26 +879,6 @@
       "duration_ms": 213066,
       "name": "Flor de Aruanda - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -951,6 +931,26 @@
       "duration_ms": 173397,
       "name": "Te Levar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 163566,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Andar Leve",
         "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
       },
@@ -1347,6 +1327,26 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "15b",
+        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 163566,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 152961,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1431,6 +1411,26 @@
       "duration_ms": 179327,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
     },
     {
       "added_at": "2023-11-24 08:42:40",

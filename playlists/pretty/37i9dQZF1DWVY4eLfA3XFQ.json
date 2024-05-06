@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Odd Mob & OMNOM. 50% techno, 50% house",
-  "num_followers": 619184,
+  "num_followers": 619274,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1041,26 +1041,6 @@
       "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Rhythm Machine",
@@ -1079,6 +1059,26 @@
       "duration_ms": 187500,
       "name": "Rhythm Machine",
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Hella Good",
         "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1353,24 +1353,24 @@
       "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Kattapult (James Hype Edit)",
-        "url": "https://open.spotify.com/album/2ZdEIUcfJ6sf61XlDysSiz"
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
       "artists": [
         {
-          "name": "Adapter",
-          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         },
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         }
       ],
-      "duration_ms": 120595,
-      "name": "Kattapult (James Hype Edit)",
-      "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1397,24 +1397,24 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+        "name": "Kattapult (James Hype Edit)",
+        "url": "https://open.spotify.com/album/2ZdEIUcfJ6sf61XlDysSiz"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Adapter",
+          "url": "https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V"
         },
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+      "duration_ms": 120595,
+      "name": "Kattapult (James Hype Edit)",
+      "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Ready To Go (My Addiction)",
@@ -1543,6 +1527,22 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1581,6 +1581,26 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "duration_ms": 181251,
+      "name": "Motivashun",
+      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Diamond Therapy",
@@ -1603,26 +1623,6 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Reggie Watts",
-          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
-        }
-      ],
-      "duration_ms": 181251,
-      "name": "Motivashun",
-      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Freddie's Warmup",
@@ -1837,20 +1821,20 @@
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I Can't Take No More",
-        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
       },
       "artists": [
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 157784,
-      "name": "I Can't Take No More",
-      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+      "duration_ms": 200000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1873,6 +1857,22 @@
       "url": "https://open.spotify.com/track/3yAZRpEbliOJUnZH3478xG"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
       "added_at": "2024-02-21 02:09:25",
       "album": {
         "name": "Vibrate / On The Ground",
@@ -1893,22 +1893,6 @@
       "url": "https://open.spotify.com/track/67AHavAU22raZTnVmN1TDR"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Wait A Minute",
@@ -1923,6 +1907,22 @@
       "duration_ms": 185714,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1989,26 +1989,6 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Might Just",
-        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "James Patterson",
-          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "Might Just",
-      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "More Passion, More Energy",
@@ -2061,6 +2041,26 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Might Just",
+        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "PLAY SOME RECORDS",
@@ -2101,6 +2101,22 @@
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Boombox (feat. Madam Parker)",
@@ -2119,42 +2135,6 @@
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Wildstyle",
-        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
-      },
-      "artists": [
-        {
-          "name": "Kaysin",
-          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
-        },
-        {
-          "name": "DOUG!",
-          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Wildstyle",
-      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2195,6 +2175,26 @@
       "duration_ms": 181846,
       "name": "In The Music",
       "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Wildstyle",
+        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
+      },
+      "artists": [
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        },
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Wildstyle",
+      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2281,28 +2281,24 @@
       "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nikes On",
-        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+        "name": "Rave It",
+        "url": "https://open.spotify.com/album/3aRbwjURSoWlegLkrXkQvG"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
         },
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Nikes On",
-      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+      "duration_ms": 214246,
+      "name": "Rave It",
+      "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2325,24 +2321,28 @@
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Rave It",
-        "url": "https://open.spotify.com/album/3aRbwjURSoWlegLkrXkQvG"
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
       },
       "artists": [
         {
-          "name": "Buogo",
-          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Mood Child",
-          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         }
       ],
-      "duration_ms": 214246,
-      "name": "Rave It",
-      "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
       "added_at": "2024-04-26 04:01:00",

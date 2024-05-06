@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This Is Harold Melvin & The Blue Notes\. Los temas esenciales, todos en una lista.
+> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,297 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,303 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Hey Doc](https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:24 |
 | 50 | [What Can A Man Do](https://open.spotify.com/track/3CHoatkZzRYeCmrelOa1SG) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:33 |
 
-Snapshot ID: `ZjQpAAAAAACcmnhO2pLwXKBfw0giTuQ4`
+Snapshot ID: `ZjQpAAAAAAAVNFwqZaZwE6AH2WXdtTnY`

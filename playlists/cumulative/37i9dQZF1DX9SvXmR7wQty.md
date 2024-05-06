@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Saint Levant
 
-2,507 songs - 5 day 13 hr 57 min
+2,508 songs - 5 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Dans l'bon vieux temps](https://open.spotify.com/track/47ziVutbYvEpbNr2uJj27v) | [Ben Claveau](https://open.spotify.com/artist/67R1we2Xuxf4fwUewcFQwq) | [La route est longue jusqu'au top](https://open.spotify.com/album/6MC5y0S4KXafxGhM2Bk2Mm) | 2:51 | 2022-04-15 | 2022-04-23 |
 | [Dans l'espace](https://open.spotify.com/track/4f4EHBSbSB4sOQ3JtTewXk) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Dans l'espace](https://open.spotify.com/album/3qWXJlSwkXanhoPwBXdtcN) | 2:44 | 2022-04-08 | 2022-04-16 |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2021-12-31 | 2022-01-22 |
-| [Dans la Benz](https://open.spotify.com/track/6rRtJ83Uz0DZR7wac4uSb6) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Dans la Benz](https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm) | 3:59 | 2024-04-26 |  |
+| [Dans la Benz](https://open.spotify.com/track/6rRtJ83Uz0DZR7wac4uSb6) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Dans la Benz](https://open.spotify.com/album/71I2Lj0MNjzJwL6SZA2jkm) | 3:59 | 2024-04-26 | 2024-05-06 |
 | [Dans La Lune](https://open.spotify.com/track/4XKcEw3SVW9ijZXPjHxeiv) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV), [Alexani](https://open.spotify.com/artist/26uDSLm23rKfEoR9TDaUrc), [BG CŒUR](https://open.spotify.com/artist/7j8iMg1W2sPAIrwaqk9ncR) | [KEVIN](https://open.spotify.com/album/5tdZnvNdkw8yHPVhyorPLl) | 3:36 | 2022-05-13 | 2022-05-20 |
 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-08-25 | 2023-10-14 |
 | [DANS LA WAVE](https://open.spotify.com/track/1xZZ6M31dihpvJeQa5148M) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [DANS LA WAVE](https://open.spotify.com/album/2tCPFsp8rVHoCek3BgsASg) | 3:28 | 2022-07-29 | 2022-08-27 |
@@ -1756,6 +1756,7 @@
 | [Pauline à la ferme](https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Pauline à la ferme](https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr) | 3:39 | 2023-04-07 | 2023-04-20 |
 | [Pays des merveilles](https://open.spotify.com/track/22njDKdHltO0wuli4lcb94) | [MORDiCUS](https://open.spotify.com/artist/46zoLDd3UP6iO6R7gKz6DO) | [Pays des merveilles](https://open.spotify.com/album/4aMPkWZNmjI0zJDuFS9GRA) | 3:53 | 2022-06-03 | 2022-06-11 |
 | [Paysage \(Radio Edit\)](https://open.spotify.com/track/2v3VGhnuEOZMzTzNAOtjgT) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Paysage \(Radio Edit\)](https://open.spotify.com/album/5wRtJMmrkolt7LJS2T7VTT) | 2:42 | 2023-01-27 | 2023-02-11 |
+| [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-03 |  |
 | [Peine de mort](https://open.spotify.com/track/2g0osIjutJLlV9BjTvFJXF) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Peine de mort](https://open.spotify.com/album/7LVUAZKwM11POQT7LkjGTj) | 3:28 | 2022-05-27 | 2022-06-11 |
 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 | 2023-05-05 | 2023-06-24 |
 | [Penchant](https://open.spotify.com/track/0fXwyARl8s52pZZPeYArNj) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:33 | 2024-02-02 | 2024-02-10 |

@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -12568,7 +12568,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 158608,
       "name": "DO ZERO",
       "url": "https://open.spotify.com/track/2QlQbnVEQqXQWGJc3tJYDf"
@@ -14040,7 +14040,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 197367,
       "name": "Em Busca Da Minha Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/6jds4N5VX0XVcC3TNT9cC7"
@@ -18860,10 +18860,28 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
     },
     {
       "album": {
@@ -26044,6 +26062,24 @@
       "duration_ms": 165642,
       "name": "Medo de Quase Nada",
       "url": "https://open.spotify.com/track/3DzAFZC6joBBQ4ePVygbBY"
+    },
+    {
+      "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "album": {
@@ -38164,7 +38200,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 300842,
       "name": "Samba de Malandro",
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
@@ -38226,6 +38262,32 @@
       "duration_ms": 266250,
       "name": "Samba in Paris",
       "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
+    },
+    {
+      "album": {
+        "name": "Asoka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Hema Sardesai",
+          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355960,
+      "name": "San Sanana",
+      "url": "https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB"
     },
     {
       "album": {

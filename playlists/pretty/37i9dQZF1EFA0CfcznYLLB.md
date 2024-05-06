@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,851 likes - 316 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,848 likes - 316 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,8 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 249 | [Snow](https://open.spotify.com/track/5bs1qEaneeIRXGoZzZroPu) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 2:51 |
 | 250 | [Pop 1 \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5mQCWOVOD3cbNZwN8Tt41t) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Deadstar 2](https://open.spotify.com/album/1pPpRk6AF8EL19sgm2MkSD) | 2:40 |
 | 251 | [Brick Mason](https://open.spotify.com/track/0S5LLnjm5PbBfWWaU8ZNp7) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:38 |
-| 252 | [Studio Trappin](https://open.spotify.com/track/7o4nJGQBqwvjPds4OhIQZi) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Free Dope 3](https://open.spotify.com/album/0ly6DsmmyfEw30LtjIQvEg) | 2:44 |
-| 253 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
+| 252 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
+| 253 | [Studio Trappin](https://open.spotify.com/track/7o4nJGQBqwvjPds4OhIQZi) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Free Dope 3](https://open.spotify.com/album/0ly6DsmmyfEw30LtjIQvEg) | 2:44 |
 | 254 | [Blame My Friends \(The Gang\)](https://open.spotify.com/track/0v4yQTNMOmDCoQbmZViF5L) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Blame My Friends \(The Gang\)](https://open.spotify.com/album/14tgPDRP1lXbwQoiAKLQQu) | 4:02 |
 | 255 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
 | 256 | [Feelings](https://open.spotify.com/track/1jAhFpuOhNAwTIjCJrV0NN) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [Coke N Butter](https://open.spotify.com/album/0akShXmR5uxmQZaLg4AAac) | 3:26 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 316 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbQecgAAAACKIsPzb5UK+TCkpNAdKmZ4`
+Snapshot ID: `AbQjZQAAAACAtBJd+UAbcPk8xlrkQmOv`

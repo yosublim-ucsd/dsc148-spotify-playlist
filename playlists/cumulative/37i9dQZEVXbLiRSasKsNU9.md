@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,561 songs - 5 day 15 hr 56 min
+2,563 songs - 5 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Düşer Aklıma](https://open.spotify.com/track/5Qf8dlJ2zZTfztx7o7kbDN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Düşer Aklıma](https://open.spotify.com/album/2OwUIyWE9jUyI5YQPgD5xo) | 2:40 | 2022-02-16 | 2022-03-16 |
 | [Džanum](https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum](https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y) | 2:54 | 2023-05-24 | 2023-08-02 |
 | [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-17 | 2023-05-19 |
-| [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-30 |  |
+| [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-30 | 2024-05-06 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-05 | 2024-03-20 |
 | [Eat Your Salad](https://open.spotify.com/track/1ShAVm7yacVov9jHpxvazy) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/4K58jhE9eNiuD0uqEzhLVW) | 3:01 | 2022-05-21 | 2022-05-26 |
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-14 | 2022-05-29 |
@@ -924,6 +924,7 @@
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-11-15 | 2023-12-05 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-03-29 | 2022-05-04 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-22 | 2022-02-06 |
+| [Hay Lupita](https://open.spotify.com/track/7gRtmiCn86Vr1ifw5FDuIL) | [LOMIIEL](https://open.spotify.com/artist/4AyvUpNnpfEs1kGoB0DZH8) | [Hay Lupita](https://open.spotify.com/album/1nqVSn4sTJVmUe29CIDNND) | 1:48 | 2024-05-05 |  |
 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 | 2023-09-06 | 2023-09-25 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-03-31 | 2024-04-22 |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-06-27 | 2022-07-20 |
@@ -1232,6 +1233,7 @@
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-08-17 | 2023-08-26 |
 | [Langit Favorit](https://open.spotify.com/track/3wFWiWUWoOSIDs6gRnrTge) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [Langit Favorit](https://open.spotify.com/album/6VuUK4xHGX8fF6aO00wOfI) | 3:19 | 2022-04-23 | 2022-05-11 |
 | [Las Mulas De Moreno](https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:40 | 2022-06-25 | 2022-07-02 |
+| [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 | 2024-05-05 |  |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-08 | 2022-02-23 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-07-14 | 2022-07-20 |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-02-13 | 2024-02-28 |
@@ -1349,7 +1351,7 @@
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2022-11-08 | 2023-01-18 |
 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 | 2024-02-03 | 2024-02-19 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-26 | 2024-03-20 |
-| [Made in Romania](https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT) | [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Sapte trandafiri](https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh) | 4:05 | 2024-04-30 |  |
+| [Made in Romania](https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT) | [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Sapte trandafiri](https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh) | 4:05 | 2024-04-30 | 2024-05-06 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-15 | 2022-12-02 |
 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 | 2024-03-26 | 2024-04-12 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 |  |

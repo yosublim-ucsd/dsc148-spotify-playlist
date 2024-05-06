@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 204784,
       "name": "Calm Patient",
       "url": "https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 167620,
       "name": "Hamn",
       "url": "https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d"
@@ -1788,6 +1788,24 @@
       "duration_ms": 150000,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2S8zzsvlurouRcb7zbJOz1"
+    },
+    {
+      "album": {
+        "name": "Light for all",
+        "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Light for all",
+      "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
     },
     {
       "album": {
@@ -2634,6 +2652,24 @@
       "duration_ms": 201500,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE"
+      },
+      "artists": [
+        {
+          "name": "Ed Stanley",
+          "url": "https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba"
+        }
+      ],
+      "date_added": "2024-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
 
-295 songs - 16 hr 42 min
+296 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-05-20 | 2022-07-16 |
 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 | 2022-12-28 | 2024-03-20 |
 | [Han Solo](https://open.spotify.com/track/5fEWssyFXJtHrZNSVy3g8x) | [Nirob Islam](https://open.spotify.com/artist/6sXDsB4h2hPUWIFk3XF5v3) | [Han Solo](https://open.spotify.com/album/6NUpzdz7cNml8DjZ1ALIva) | 2:48 | 2022-05-20 | 2022-09-02 |
+| [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 |  |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-24 |  |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-11-24 |  |
 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-14 | 2023-11-30 |

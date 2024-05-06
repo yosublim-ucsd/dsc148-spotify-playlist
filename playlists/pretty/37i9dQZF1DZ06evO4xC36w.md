@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 
-> This is Joan Sebastian\. The essential tracks, all in one playlist.
+> This Is Joan Sebastian\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,996 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,163 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 49 | [Qué No Te Asombre](https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:41 |
 | 50 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:38 |
 
-Snapshot ID: `ZjQpAAAAAAAfEZjKfFDAaZH4ddwkm0jX`
+Snapshot ID: `ZjQpAAAAAAD0E1Lv7vWpR/H+q25ARmFq`

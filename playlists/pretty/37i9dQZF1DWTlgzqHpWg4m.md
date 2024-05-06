@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 
 > welcome to the Golden State.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,376 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,453 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 20 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 21 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 |
 | 22 | [California](https://open.spotify.com/track/7oTE1KmtU2ml9zBhv9Reao) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:05 |
-| 23 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
-| 24 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
-| 25 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
+| 23 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
+| 24 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 25 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
 | 26 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 27 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 28 | [The Kill \(Bury Me\)](https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h) | 3:51 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 32 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
 | 33 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 |
 | 34 | [California Sun \- 2017 Remaster](https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:07 |
-| 35 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
-| 36 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
-| 37 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
+| 35 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
+| 36 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
+| 37 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
 | 38 | [Santeria](https://open.spotify.com/track/2Z2vOukzwOgqR4dkymRSWd) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 3:03 |
 | 39 | [California](https://open.spotify.com/track/1Tc3kbOaPzpY8y9phWaVDx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:51 |
 | 40 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 49 | [Circadian Rhythm \(Last Dance\)](https://open.spotify.com/track/4ud5egyDjm6KAsyORTOfT1) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Better Nature](https://open.spotify.com/album/60pMcCyionfgX5ygfwZRBh) | 3:49 |
 | 50 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 |
 
-Snapshot ID: `ZIxa4AAAAABJzZZ+9tMDcPehmlFoctCR`
+Snapshot ID: `ZjfflwAAAADe4jUWkWi1jiZ4l49RNhli`

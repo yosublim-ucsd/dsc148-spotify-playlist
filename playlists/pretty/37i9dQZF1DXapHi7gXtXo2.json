@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85313,
+  "num_followers": 85326,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "Hola Precioso",
+        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 206515,
+      "name": "Ir derecho",
+      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 237526,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Hola Precioso",
-        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 206515,
-      "name": "Ir derecho",
-      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "LOTO",
-        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "LOTO",
-      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Nafta",
         "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 253161,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Lo que fuera",
-        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 177019,
-      "name": "Lo que fuera",
-      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -751,22 +731,6 @@
       "duration_ms": 210266,
       "name": "Tardes de Melancol\u00eda",
       "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -791,6 +755,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Lo que fuera",
+        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 177019,
+      "name": "Lo que fuera",
+      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "rangerover",
-        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 186945,
-      "name": "rangerover",
-      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Me Siento en Primavera",
         "url": "https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 162539,
       "name": "Me Siento en Primavera",
       "url": "https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "rangerover",
+        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 186945,
+      "name": "rangerover",
+      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Fractal",
         "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 265173,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Seremos Idiotas",
-        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
       },
       "artists": [
         {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Seremos Idiotas",
-      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1587,34 +1587,18 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         }
       ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 175669,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1631,6 +1615,22 @@
       "duration_ms": 257567,
       "name": "Quiero Que Me Llames",
       "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 175669,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1723,6 +1723,30 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "Bajo la Lluvia \u96e8\u66dd",
+        "url": "https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        },
+        {
+          "name": "Greta Dumont",
+          "url": "https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk"
+        },
+        {
+          "name": "A.B.R.E.",
+          "url": "https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv"
+        }
+      ],
+      "duration_ms": 247185,
+      "name": "Bajo la Lluvia \u96e8\u66dd",
+      "url": "https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "No Me Quiero Ir Lejos",
         "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
       },
@@ -1735,22 +1759,6 @@
       "duration_ms": 204614,
       "name": "No Me Quiero Ir Lejos",
       "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     }
   ],
   "unique_name": "Radio Indie",

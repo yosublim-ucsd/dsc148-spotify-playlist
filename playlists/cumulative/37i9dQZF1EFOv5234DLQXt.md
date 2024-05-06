@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 8 hr 32 min
+123 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 | 2024-01-29 |  |
 | [En Remolinos](https://open.spotify.com/track/1Q5DZiLiUoLs3cG5ZkmcP3) | [Pixel](https://open.spotify.com/artist/61tsAT8ra4mLllePLRikc2) | [En Remolinos](https://open.spotify.com/album/05EhD6gV31HCFHMbsq89HT) | 4:53 | 2024-01-29 |  |
 | [Engaña](https://open.spotify.com/track/7BRwN1pRe3sn653D4oPPSR) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:11 | 2024-01-29 |  |
-| [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 | 2024-01-29 |  |
+| [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 | 2024-01-29 | 2024-05-06 |
+| [Entre Caníbales \- Remasterizado 2007](https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:06 | 2024-05-05 |  |
 | [Estoy Azulado \- Remasterizado 2007](https://open.spotify.com/track/6ogBARwwlfsmmgyxWeEzQF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 5:17 | 2024-01-29 |  |
 | [Fantasma](https://open.spotify.com/track/2xuDoEEK7tfZMh5Y7gOoTg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:19 | 2024-01-29 |  |
 | [Final Caja Negra \- Remasterizado 2007](https://open.spotify.com/track/1FQqxHIo41JUgeSbQNtIMt) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 5:43 | 2024-01-29 |  |

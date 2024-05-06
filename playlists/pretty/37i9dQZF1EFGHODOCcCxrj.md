@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 76 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 76 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 2 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 1 | [Houdini](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:05 |
+| 2 | [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 |
 | 3 | [Bunny Is A Rider](https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:13 |
 | 4 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 | 5 | [Way Back](https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 1:59 |
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 21 | [Smoke](https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:57 |
 | 22 | [Crude Drawing Of An Angel](https://open.spotify.com/track/77ySu72hStpWbl3EZZiXzJ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:29 |
 | 23 | [Worth It \(Perfect\)](https://open.spotify.com/track/0LIjqWWzjF0Rkr9hjjyNAJ) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends \- Part One](https://open.spotify.com/album/1j6xIP5xwMw8MMp8x9gMuR) | 2:57 |
-| 24 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
+| 24 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 |
 | 25 | [Caroline Shut Up](https://open.spotify.com/track/6uEBCC605XCODjtwzae93h) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:32 |
-| 26 | [Fantasy \(feat\. Amber Liu\)](https://open.spotify.com/track/7Ak3h69T8UqQLFjo0qBKYK) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:32 |
-| 27 | [Dang](https://open.spotify.com/track/0ZWUnLoyji01PyE6qWKp2y) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 2:44 |
+| 26 | [Dang](https://open.spotify.com/track/0ZWUnLoyji01PyE6qWKp2y) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 2:44 |
+| 27 | [Fantasy \(feat\. Amber Liu\)](https://open.spotify.com/track/7Ak3h69T8UqQLFjo0qBKYK) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:32 |
 | 28 | [Play](https://open.spotify.com/track/6AR289urelEaw30CPwcUyI) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Play](https://open.spotify.com/album/3KcONcvD65rKMp1cuehIcI) | 3:16 |
 | 29 | [New Normal](https://open.spotify.com/track/3dPkaunRnlcwGiOTJpQGD1) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 2:34 |
 | 30 | [Go As a Dream](https://open.spotify.com/track/3nNN1uts4kwkdwwV1CzZaN) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:27 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 75 | [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 |
 | 76 | [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 |
 
-Snapshot ID: `AbQebwAAAACRRH9YAJtRi7Qg+girSGCE`
+Snapshot ID: `AbQjWwAAAABFiksKvg69wEcTtxFiO8Wa`

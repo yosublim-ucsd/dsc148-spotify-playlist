@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-76 songs - 4 hr 58 min
+77 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Glass](https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Glass](https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn) | 4:15 | 2023-11-03 | 2024-04-19 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2023-11-03 |  |
 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 | 2023-11-03 |  |
+| [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 | 2024-03-08 |  |
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2024-01-08 | 2024-04-19 |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2023-11-03 | 2024-02-04 |
 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 | 2023-11-03 |  |
@@ -46,7 +47,7 @@
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2023-11-03 |  |
 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 | 2023-11-03 | 2024-04-19 |
 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 | 2024-03-08 |  |
-| [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 | 2024-03-08 |  |
+| [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 | 2024-03-08 | 2024-05-06 |
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [A Day](https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9) | 3:19 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 | 2024-03-08 |  |

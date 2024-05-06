@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

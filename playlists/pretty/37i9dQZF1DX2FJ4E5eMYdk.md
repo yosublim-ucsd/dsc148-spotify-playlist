@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,070 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,108 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 3 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 |
 | 4 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
 | 5 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 |
-| 6 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 6 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 | 7 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/73zzUVGeD9dD7sLjNuAkpE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/1Cr9WO1e8w4lFDKl5zoDxj) | 5:11 |
-| 8 | [Amoeba \- Recorded At Electric Lady Studios](https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:44 |
+| 8 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 9 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 10 | [Partition](https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 6:03 |
 | 11 | [Fear: Life In A Dozen Years](https://open.spotify.com/track/47n27sNyRKnnpFI36e9lUu) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:23 |
 | 12 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 |
 | 13 | [Little White Dove](https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:49 |
-| 14 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
+| 14 | [Amoeba \- Recorded At Electric Lady Studios](https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:44 |
 | 15 | [Imma Let My Body Move](https://open.spotify.com/track/3SQjRTSwHPDqTeenwzSqHq) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:45 |
 | 16 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 17 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 48 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
 | 49 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 50 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
-| 51 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
-| 52 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 51 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 52 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 | 53 | [Attention](https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA) | 2:57 |
 | 54 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 55 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
-| 56 | [Pain](https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Pain](https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP) | 3:39 |
-| 57 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
+| 56 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
+| 57 | [Pain](https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Pain](https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP) | 3:39 |
 | 58 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
 | 59 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
 | 60 | [Fireflies](https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB) | 4:51 |

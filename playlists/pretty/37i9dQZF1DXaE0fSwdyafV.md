@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,407 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,401 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 25 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
 | 26 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 27 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
-| 28 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
-| 29 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
+| 28 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
+| 29 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
 | 30 | [A Sickness](https://open.spotify.com/track/3DZP8Zr6edwwY2TBW7z2QF) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 1:29 |
-| 31 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
-| 32 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
+| 31 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
+| 32 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 33 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 34 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 35 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 36 | [Light My Love](https://open.spotify.com/track/4iya38ctQ1httyA6NOG9oW) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Battle at Garden’s Gate](https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2) | 4:30 |
-| 37 | [Alrighty Aphrodite](https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:27 |
-| 38 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 |
-| 39 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
+| 37 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
+| 38 | [Alrighty Aphrodite](https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:27 |
+| 39 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 |
 | 40 | [Dreams](https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:14 |
 | 41 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 42 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 68 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 | 69 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
 | 70 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 |
-| 71 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 |
-| 72 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
-| 73 | [Patricia](https://open.spotify.com/track/6nmr64Mo4RD3R1pLshvmoG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:37 |
+| 71 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
+| 72 | [Patricia](https://open.spotify.com/track/6nmr64Mo4RD3R1pLshvmoG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:37 |
+| 73 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 |
 | 74 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
 | 75 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 76 | [Moon Dude](https://open.spotify.com/track/54u8a2GJiN2Via9l3xtP6S) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7) | 3:40 |
 | 77 | [Rivers In Your Mouth](https://open.spotify.com/track/4Uru57SoQpHBacQVhfcpdC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:11 |
-| 78 | [dance of the trees](https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dance of the trees](https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX) | 2:31 |
-| 79 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
+| 78 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
+| 79 | [dance of the trees](https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dance of the trees](https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX) | 2:31 |
 | 80 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
 
 Snapshot ID: `Zf2eGAAAAABnU3nszDZrhEmMPztr6+AQ`

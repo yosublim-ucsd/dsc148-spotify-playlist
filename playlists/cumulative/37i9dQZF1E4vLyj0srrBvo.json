@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "4 Morant (Better Luck Next Time)",
       "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 181640,
       "name": "Bang Bang Bang Bang",
       "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
@@ -3044,6 +3044,24 @@
       "duration_ms": 217466,
       "name": "Before the fever",
       "url": "https://open.spotify.com/track/0GXzq9r87Z1XUWxOGg9Zpk"
+    },
+    {
+      "album": {
+        "name": "Miss Anthropocene (Rave Edition)",
+        "url": "https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Before the fever",
+      "url": "https://open.spotify.com/track/0I2itrpJL6gArSXzvUetI3"
     },
     {
       "album": {
@@ -5216,7 +5234,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 198967,
       "name": "Call For Help",
       "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "Circumambient",
       "url": "https://open.spotify.com/track/2yP2fo52aCyQGr8K9QMXiw"
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 196185,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/60s6DmJ44S6dDHqvDy1Gvu"
@@ -11530,7 +11548,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
@@ -14732,7 +14750,7 @@
       ],
       "date_added": "2021-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 432242,
       "name": "IDORU",
       "url": "https://open.spotify.com/track/4mlkj14AjRMGnyYlcEbZlB"
@@ -16078,7 +16096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 104880,
       "name": "Know the Way",
       "url": "https://open.spotify.com/track/13WOkzGKinrEuKiK7tZtOp"
@@ -17166,7 +17184,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
@@ -17848,7 +17866,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 168096,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
@@ -19838,7 +19856,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 195821,
       "name": "New Gods",
       "url": "https://open.spotify.com/track/5uuvIMTIugN8emk13m7Xep"
@@ -20182,7 +20200,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 238293,
       "name": "Nightmusic",
       "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
@@ -21656,7 +21674,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6"
@@ -22108,7 +22126,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 212440,
       "name": "Pin",
       "url": "https://open.spotify.com/track/76g1dbRCF8OAC0gtBOjq8j"
@@ -23532,7 +23550,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 306533,
       "name": "Realiti",
       "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
@@ -23760,7 +23778,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
@@ -24594,7 +24612,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 140133,
       "name": "Scream",
       "url": "https://open.spotify.com/track/1uypCDfLR4FkBcwfbRbNje"
@@ -24736,7 +24754,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
@@ -24942,7 +24960,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
@@ -25272,7 +25290,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
@@ -30560,7 +30578,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 225733,
       "name": "Venus Fly",
       "url": "https://open.spotify.com/track/53qe0ASgMg8L6VaM7fljqF"
@@ -30834,7 +30852,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 118853,
       "name": "Visiting Statue",
       "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"

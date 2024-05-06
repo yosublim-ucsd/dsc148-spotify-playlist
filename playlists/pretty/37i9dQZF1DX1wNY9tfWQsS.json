@@ -1,6 +1,6 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: SZA and Lizzo ",
-  "num_followers": 537941,
+  "num_followers": 538066,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Killing Me Softly",
@@ -307,6 +291,38 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2024-03-08 16:23:30",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+    },
+    {
+      "added_at": "2024-02-07 18:14:04",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "added_at": "2024-02-07 18:14:04",
@@ -339,22 +355,6 @@
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2024-03-08 16:23:30",
-      "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
-      "added_at": "2024-03-08 16:23:30",
-      "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
-    },
-    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Spotify Singles",
@@ -671,6 +655,22 @@
       "duration_ms": 366733,
       "name": "You Don't Know My Name",
       "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+    },
+    {
+      "added_at": "2024-03-08 16:23:30",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Rock The Boat",
+      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
     },
     {
       "added_at": "2024-02-05 04:09:08",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. The essential tracks, all in one playlist.
+> This Is J\. Cole\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,757 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,948 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 |
 | 50 | [Heaven’s EP \(with J\. Cole\)](https://open.spotify.com/track/19h1LNf7idduUW3jBeswB8) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:58 |
 
-Snapshot ID: `ZjQpAAAAAABQ3lUHrmwX2eGswWHGx4tL`
+Snapshot ID: `ZjQpAAAAAAB24XwdlgvhIsk1Ux97rNP9`

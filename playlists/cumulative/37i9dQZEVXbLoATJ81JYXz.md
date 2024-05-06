@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,870 songs - 4 day 0 hr 31 min
+1,871 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 | 2024-01-20 | 2024-02-13 |
 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 | 2023-04-29 | 2023-05-01 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-08 | 2023-10-10 |
+| [Genvägar](https://open.spotify.com/track/1xbJIGEE5UpKBHRt3DsKVH) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Genvägar](https://open.spotify.com/album/1wLejgtnjD8n95osYitup4) | 2:24 | 2024-05-05 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-09 | 2023-09-17 |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-14 | 2022-07-17 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-02 |
@@ -892,7 +893,7 @@
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2022-12-31 | 2023-02-01 |
 | [Kan Inte Gå](https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g) | 2:26 | 2021-12-30 | 2023-02-13 |
 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 | 2023-02-12 |  |
-| [KAN JAG FRÅGA DIG?](https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [LUANDA](https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe) | 3:21 | 2024-04-27 |  |
+| [KAN JAG FRÅGA DIG?](https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [LUANDA](https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe) | 3:21 | 2024-04-27 | 2024-05-06 |
 | [KANDAHAR](https://open.spotify.com/track/4ZWq7fQvITB8D3CngAErG2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD](https://open.spotify.com/album/4WkwDqz5LXl4OwcXtiuREC) | 3:34 | 2024-03-19 | 2024-03-24 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-30 |
 | [KASSANOVA](https://open.spotify.com/track/7d9BbXQi6mWb4xAiJUGb7T) | [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Markoolio](https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam) | [KASSANOVA](https://open.spotify.com/album/1pLLCRuOFDujv3BXWR7jEa) | 2:02 | 2023-02-19 | 2023-02-21 |
@@ -1105,7 +1106,7 @@
 | [Minns ikväll](https://open.spotify.com/track/4VCvC5CL6vKbi7wMaY3G9j) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Minns ikväll](https://open.spotify.com/album/6ap69IiItOEqgRYIXmDGm0) | 2:55 | 2023-11-06 | 2023-11-21 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-11 | 2023-05-12 |
 | [MIRAKEL](https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:11 | 2024-02-10 | 2024-02-18 |
-| [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 | 2022-02-28 | 2024-05-05 |
+| [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 | 2022-02-28 |  |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 | 2023-01-02 |
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-18 | 2022-08-31 |
 | [Misslyckad & hatad](https://open.spotify.com/track/3OqnzptKSFrtjr3sldBD1F) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Misslyckad & hatad](https://open.spotify.com/album/2XSRknUofEZ2zwK8tfm3Fa) | 2:27 | 2023-01-21 | 2023-02-16 |
@@ -1644,7 +1645,7 @@
 | [The Tortured Poets Department](https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:53 | 2024-04-20 | 2024-04-28 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-12 | 2022-11-14 |
 | [The Wrong Place](https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 2:56 | 2021-05-25 | 2021-05-26 |
-| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-04 |  |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-04 | 2024-05-06 |
 | [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2023-10-29 | 2023-11-03 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-15 |
 | [Thug Part 2](https://open.spotify.com/track/06kMUDNk8XfiTdc5GVqsER) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Thug Part 2](https://open.spotify.com/album/1L5PlhGUyk4ANyM3TmnYE5) | 3:08 | 2022-03-18 | 2022-04-16 |

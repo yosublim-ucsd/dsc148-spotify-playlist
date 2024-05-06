@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
+> This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,312 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,315 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 49 | [Meeting Mozart](https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:48 |
 | 50 | [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 |
 
-Snapshot ID: `ZjQpAAAAAADjRCCwif2NKf7YG+ioeaNJ`
+Snapshot ID: `ZjQpAAAAAAAHVtDQ9zHJkpvDUXtluArH`

@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 180494,
+  "num_followers": 180557,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,22 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 238320,
-      "name": "The Boat I Row",
-      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -459,22 +463,18 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+      "duration_ms": 238320,
+      "name": "The Boat I Row",
+      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 155923,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
-    },
-    {
-      "added_at": "2024-04-12 14:10:05",
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2024-04-12 14:10:05",
+      "album": {
+        "name": "your love",
+        "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 155923,
+      "name": "your love",
+      "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -723,42 +723,6 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
-    },
-    {
-      "added_at": "2024-04-12 14:10:05",
-      "album": {
-        "name": "Friend or Foe",
-        "url": "https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 250971,
-      "name": "Friend or Foe",
-      "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
-    },
-    {
-      "added_at": "2024-04-12 14:10:05",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -787,6 +751,38 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
+        "name": "Friend or Foe",
+        "url": "https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 250971,
+      "name": "Friend or Foe",
+      "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
+    },
+    {
+      "added_at": "2024-04-12 14:10:05",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2024-04-12 14:10:05",
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -807,18 +803,22 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2024-04-12 14:10:05",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-04-12 14:10:05",
       "album": {
+        "name": "JEWELZ",
+        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "JEWELZ",
+      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
+    },
+    {
+      "added_at": "2024-04-12 14:10:05",
+      "album": {
         "name": "Charge It Remix (feat. Smino)",
         "url": "https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 202204,
       "name": "Charge It Remix (feat. Smino)",
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
-    },
-    {
-      "added_at": "2024-04-12 14:10:05",
-      "album": {
-        "name": "JEWELZ",
-        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "JEWELZ",
-      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
     },
     {
       "added_at": "2024-04-12 14:10:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,003 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,098 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

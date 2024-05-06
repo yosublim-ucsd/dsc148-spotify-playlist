@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 52226,
+  "num_followers": 52270,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "OHEMA (with Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 205714,
-      "name": "OHEMA (with Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -219,22 +211,6 @@
       "duration_ms": 143756,
       "name": "Rodo",
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -259,22 +235,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 186067,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -291,6 +251,46 @@
       "duration_ms": 194040,
       "name": "KANTE (feat. Fave)",
       "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 186067,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "OHEMA (with Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "OHEMA (with Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -863,38 +895,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/5CQmHT9zoHQnwvfvP6tEYg"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -983,22 +967,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1015,6 +995,26 @@
       "duration_ms": 163361,
       "name": "Sharpally",
       "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
       },
@@ -1071,22 +1051,6 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "The Life I Chose",
-        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 144447,
-      "name": "The Life I Chose",
-      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1111,6 +1075,58 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "The Life I Chose",
+        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 144447,
+      "name": "The Life I Chose",
+      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Disconnect + Go Hard",
+        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Disconnect + Go Hard",
-        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Dey Your Dey",
+        "url": "https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Dey Your Dey",
+      "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Dey Your Dey",
-        "url": "https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "Dey Your Dey",
-      "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
     },
     {
       "added_at": "2024-05-03 00:01:00",

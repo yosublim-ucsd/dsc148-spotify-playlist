@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 ### [This Is Junior H](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y7o9M)
 
-> This is Junior H\. De viktigaste låtarna samlade i en spellista.
+> This Is Junior H\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,759 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,202 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 49 | [Los 4 Ases \(Corrido Tumbado\)](https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:58 |
 | 50 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 
-Snapshot ID: `ZjQpAAAAAACeW+8EBL0hB+RzPNHZiyRq`
+Snapshot ID: `ZjQpAAAAAADTlQv4e2dSz8UGdCNLz5dG`

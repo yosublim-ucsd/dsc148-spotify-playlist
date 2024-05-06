@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAa7qOVEkW2spaEc6/6MdmM",
+  "snapshot_id": "AAAAAAAAAAD2qRq0pux5k0qdrcwO2vsz",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -83,38 +83,34 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 189867,
-      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
-      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+        "name": "Sweet Home Alabama (Metal Version)",
+        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+      "duration_ms": 244503,
+      "name": "Sweet Home Alabama (Metal Version)",
+      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -147,6 +143,46 @@
       "duration_ms": 285122,
       "name": "Boomer Rang",
       "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Dream Cruiser Ambitions",
+        "url": "https://open.spotify.com/album/0XK3eYXnebncRGUAlGwSEA"
+      },
+      "artists": [
+        {
+          "name": "Frank Vibes",
+          "url": "https://open.spotify.com/artist/66VFh47G2r7iczBWvO9oBI"
+        },
+        {
+          "name": "Average P.I.T.",
+          "url": "https://open.spotify.com/artist/2CNbvi3n0rNRXllgDI7F2o"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 163474,
+      "name": "By The Flock",
+      "url": "https://open.spotify.com/track/05S7e9WkrfGNMqeNgL9eJK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -203,46 +239,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Buried Alive",
-        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 122413,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Dream Cruiser Ambitions",
-        "url": "https://open.spotify.com/album/0XK3eYXnebncRGUAlGwSEA"
-      },
-      "artists": [
-        {
-          "name": "Frank Vibes",
-          "url": "https://open.spotify.com/artist/66VFh47G2r7iczBWvO9oBI"
-        },
-        {
-          "name": "Average P.I.T.",
-          "url": "https://open.spotify.com/artist/2CNbvi3n0rNRXllgDI7F2o"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 163474,
-      "name": "By The Flock",
-      "url": "https://open.spotify.com/track/05S7e9WkrfGNMqeNgL9eJK"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Scar Tissue",
         "url": "https://open.spotify.com/album/1ieXGmYdEYzBVQVosLrR7r"
       },
@@ -259,22 +255,6 @@
       "duration_ms": 178765,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "You Took the Blue",
-        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 153658,
-      "name": "You Took the Blue",
-      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -311,18 +291,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Sweet Home Alabama (Metal Version)",
-        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
+        "name": "You Took the Blue",
+        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
         }
       ],
-      "duration_ms": 244503,
-      "name": "Sweet Home Alabama (Metal Version)",
-      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
+      "duration_ms": 153658,
+      "name": "You Took the Blue",
+      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
+      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -347,8 +347,8 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/4NELtOtWIiVCYIRZUMAErk"
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
       "artists": [
         {
@@ -362,7 +362,7 @@
       ],
       "duration_ms": 254346,
       "name": "The End",
-      "url": "https://open.spotify.com/track/2ppxqVkIvuFfETylSUPPkP"
+      "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -395,6 +395,26 @@
       "duration_ms": 189746,
       "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
       "url": "https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -440,7 +460,7 @@
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i"
+        "url": "https://open.spotify.com/album/6K3t9XDg8L1HRWZKR8t25t"
       },
       "artists": [
         {
@@ -454,7 +474,23 @@
       ],
       "duration_ms": 240106,
       "name": "Stay Awhile (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd"
+      "url": "https://open.spotify.com/track/4Kqr3khpPTxBPGpTNtFDmV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Love You All the Same",
+        "url": "https://open.spotify.com/album/6YaC3VqjVjUUDHPAdIIH2i"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Love You All the Same",
+      "url": "https://open.spotify.com/track/5OcMr7iSTuJipMphuLu06R"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -475,22 +511,6 @@
       "duration_ms": 237377,
       "name": "Brass Knuckles",
       "url": "https://open.spotify.com/track/2YZQ0HP4yBJtYNjXpWBBYL"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Love You All the Same",
-        "url": "https://open.spotify.com/album/6YaC3VqjVjUUDHPAdIIH2i"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 190874,
-      "name": "Love You All the Same",
-      "url": "https://open.spotify.com/track/5OcMr7iSTuJipMphuLu06R"
     },
     {
       "added_at": "2024-05-03 04:00:00",

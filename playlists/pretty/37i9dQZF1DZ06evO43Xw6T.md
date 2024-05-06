@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,998 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,270 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 49 | [El Piquetito](https://open.spotify.com/track/298dyueCmj0HCawVppZasg) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Piquetito](https://open.spotify.com/album/5BUhJ0GD688ENvev1UuM72) | 2:50 |
 | 50 | [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 |
 
-Snapshot ID: `ZjQpAAAAAAA5uw2EpCmimHaznQXnAX9n`
+Snapshot ID: `ZjV6gAAAAADcbUeIxcwZf/tRNGOrsbkn`

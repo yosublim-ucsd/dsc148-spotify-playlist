@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,333 songs - 3 day 1 hr 26 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,334 songs - 3 day 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1341,5 +1341,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1331 | [To You](https://open.spotify.com/track/5yYROmMZBCIhd1edtA3As1) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [To You](https://open.spotify.com/album/4hlJDxIBylLU2EWF411A47) | 3:12 |
 | 1332 | [KO](https://open.spotify.com/track/1zk0QdUYmguWujXc5T0NJO) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [Hickz](https://open.spotify.com/artist/7sLMlmiXlbkdDP7OnEYOCO) | [KO](https://open.spotify.com/album/4dBKKdcHSqZe7j6cKpZD4S) | 3:15 |
 | 1333 | [Get Out Of My Mind](https://open.spotify.com/track/7EZcsKgOpPw8QoGagSQGGR) | [Deathroar](https://open.spotify.com/artist/5CNgIGV8GwEpwNko0VrUw7) | [Neon Soul](https://open.spotify.com/album/2F8222MfSVB6ccU1Tl02Zk) | 2:31 |
+| 1334 | [Your Love](https://open.spotify.com/track/0PQ9Ops8s7CYkSUW3j5VGI) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Your Love](https://open.spotify.com/album/6Vqojm5fB6dSNbXjckGPGd) | 3:18 |
 
-Snapshot ID: `AAAFYkHDnHCaQoqZIkGEjDDQJDxYcgVF`
+Snapshot ID: `AAAFYyb3cuFXWc72fe5guNQ1bV4zPbh1`

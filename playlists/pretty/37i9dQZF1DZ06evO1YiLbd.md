@@ -1,17 +1,17 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1YiLbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1YiLbd)
 
-### [This Is 林ゆうき](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
+### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This is 林ゆうき\. The essential tracks, all in one playlist.
+> This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 |
 | 2 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 |
-| 3 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
-| 4 | [Might\*U](https://open.spotify.com/track/3YfBeHLGH9EhRPVHYaQMyD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 6:29 |
+| 3 | [Might\*U](https://open.spotify.com/track/3YfBeHLGH9EhRPVHYaQMyD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 6:29 |
+| 4 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
 | 5 | [My Hero Academia](https://open.spotify.com/track/50o13VmOJiUj3WfU7XmEAn) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:25 |
 | 6 | [コンセプトの戦い](https://open.spotify.com/track/4ZRvNs46kXBjKJOl74tKZm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル・サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 4:02 |
 | 7 | [チームの地力](https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:58 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 31 | [脅迫\(しんらい\)](https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:21 |
 | 32 | [Might](https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 5:43 |
 | 33 | [君はヒーローになれる](https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:56 |
-| 34 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 |
-| 35 | [『欲』](https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:31 |
-| 36 | [わくわく](https://open.spotify.com/track/6hBOaP2N33JrAbkc3QqGog) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 1:48 |
-| 37 | [From Me to You](https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:21 |
+| 34 | [『欲』](https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:31 |
+| 35 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 |
+| 36 | [From Me to You](https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:21 |
+| 37 | [上【改】](https://open.spotify.com/track/5eKqam6pPN5505PUVhlAvW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 0:56 |
 | 38 | [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 |
 | 39 | [たかが1点](https://open.spotify.com/track/5LAlpyvLOwPNwe0SVIqVeI) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! 烏野高校 V S白鳥沢学園高校』オリジナル・サウンドトラック](https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q) | 2:23 |
-| 40 | [上【改】](https://open.spotify.com/track/5eKqam6pPN5505PUVhlAvW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 0:56 |
-| 41 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 |
-| 42 | [moonlit night](https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G) | 4:40 |
-| 43 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 |
-| 44 | [ゴミ捨て場の決戦](https://open.spotify.com/track/1NvJCQMA5afkAn3MOCF0YA) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:28 |
-| 45 | [走るということ](https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 2:28 |
-| 46 | [化学変化](https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:44 |
+| 40 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 |
+| 41 | [わくわく](https://open.spotify.com/track/6hBOaP2N33JrAbkc3QqGog) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 1:48 |
+| 42 | [化学変化](https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:44 |
+| 43 | [moonlit night](https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G) | 4:40 |
+| 44 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 |
+| 45 | [ゴミ捨て場の決戦](https://open.spotify.com/track/1NvJCQMA5afkAn3MOCF0YA) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:28 |
+| 46 | [走るということ](https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 2:28 |
 | 47 | [後悔と原動力](https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:20 |
-| 48 | [おれの勝ち](https://open.spotify.com/track/1y0ZUy5V0rmemuqLijpMYh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:27 |
-| 49 | [合流](https://open.spotify.com/track/34K68U7gox0nTZih04zKcL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:22 |
-| 50 | [頂の景色](https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 1:31 |
+| 48 | [頂の景色](https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 1:31 |
+| 49 | [おれの勝ち](https://open.spotify.com/track/1y0ZUy5V0rmemuqLijpMYh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6JaOUQ00fbccAzFRdoP2I6) | 1:27 |
+| 50 | [決裂](https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:47 |
 
-Snapshot ID: `ZjQpAAAAAAAjSu/kWWV/CVp+rW0abw4p`
+Snapshot ID: `ZjQpAAAAAAD0c9GjnIX4R5+auULBdXN1`

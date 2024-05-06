@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 208000,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
@@ -4186,6 +4186,24 @@
       "duration_ms": 138071,
       "name": "Spacestorm",
       "url": "https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
     },
     {
       "album": {

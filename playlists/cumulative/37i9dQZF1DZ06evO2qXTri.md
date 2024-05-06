@@ -2,7 +2,7 @@
 
 ### [This Is Kirk Franklin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qXTri)
 
-> This is Kirk Franklin\. The essential tracks, all in one playlist.
+> This is Kirk Franklin\. Todos os maiores hits em uma só playlist.
 
 104 songs - 8 hr 44 min
 

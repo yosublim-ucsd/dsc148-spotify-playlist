@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=kCgl0RVbRP2qbiq7r6lByw">Porcelain Moon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,525 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,528 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,22 +39,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 29 | [Take Me Home](https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Paul Timitch](https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS) | [Take Me Home](https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T) | 2:20 |
 | 30 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 31 | [Let's Fall in Love Some More](https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv) | [Al Bairre](https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj) | [Experience the Al Bairre Show With Al Bairre Experience](https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP) | 3:18 |
-| 32 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
-| 33 | [Safe As House](https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Dutch Courage](https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz) | 3:27 |
-| 34 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 32 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
+| 33 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
+| 34 | [Safe As House](https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Dutch Courage](https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz) | 3:27 |
 | 35 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
-| 36 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 |
-| 37 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
-| 38 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 |
+| 36 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 37 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 |
+| 38 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
 | 39 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
 | 40 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 41 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
-| 42 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
-| 43 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
-| 44 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
-| 45 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
-| 46 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 |
-| 47 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 42 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
+| 43 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
+| 44 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
+| 45 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
+| 46 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 47 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 |
 | 48 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
 | 49 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
 | 50 | [Daydreaming](https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi) | [Joe Preyer](https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt) | [Daydreaming](https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1) | 3:56 |

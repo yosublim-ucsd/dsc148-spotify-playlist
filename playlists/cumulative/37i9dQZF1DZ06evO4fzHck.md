@@ -2,7 +2,7 @@
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This Is The Cure\. Los temas esenciales, todos en una lista.
+> This is The Cure\. Todos os maiores hits em uma só playlist.
 
 73 songs - 5 hr 22 min
 

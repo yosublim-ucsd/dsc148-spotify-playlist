@@ -8020,7 +8020,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 186413,
       "name": "En Solskinnsdag",
       "url": "https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq"
@@ -13408,7 +13408,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
@@ -20262,6 +20262,24 @@
       "duration_ms": 184294,
       "name": "Million Dollar Baby",
       "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "album": {
@@ -31362,7 +31380,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 168999,
       "name": "Unsure",
       "url": "https://open.spotify.com/track/1Nj3f3q1cLe79irCb2Ln0b"

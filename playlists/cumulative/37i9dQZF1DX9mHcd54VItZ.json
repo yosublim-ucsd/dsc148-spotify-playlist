@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 241110,
       "name": "Brainmash",
       "url": "https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y"
@@ -8304,6 +8304,24 @@
       "duration_ms": 205608,
       "name": "Wat Is Daar ?",
       "url": "https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB"
+    },
+    {
+      "album": {
+        "name": "Wees Net Beter",
+        "url": "https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk"
+      },
+      "artists": [
+        {
+          "name": "Janis Kelber",
+          "url": "https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204816,
+      "name": "Wees Net Beter",
+      "url": "https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu"
     },
     {
       "album": {

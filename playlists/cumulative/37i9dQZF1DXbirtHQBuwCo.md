@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: \(Cover: Guess who...?? Happy Children's Day!\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: \(Cover: Ja..?? Happy Children's Day!\)\)
 
 689 songs - 1 day 12 hr 55 min
 
@@ -47,7 +47,7 @@
 | [Always Here](https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [Always Here](https://open.spotify.com/album/0JeDwEKriOIGuIlk6HsPOP) | 3:34 | 2022-06-23 | 2022-06-30 |
 | [Amazing](https://open.spotify.com/track/5u05Rmpk6tafcD7226IxvV) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Amazing](https://open.spotify.com/album/5j6mRb3Yo9jkL7R8hNXt21) | 2:47 | 2022-12-19 | 2022-12-27 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-11 | 2022-05-29 |
-| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 | 2024-04-29 |
+| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 |  |
 | [and you \(Feat\. ZICO\)](https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [and you](https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3) | 3:24 | 2023-11-09 | 2023-12-09 |
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-27 | 2023-04-17 |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2022-12-16 |
@@ -616,7 +616,7 @@
 | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 | 2022-12-19 | 2022-12-28 |
 | [Treasure](https://open.spotify.com/track/4PSPmhEsbuBVizYKGNZ0CN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Backstreet Rookie \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/6uGnOboMjfiQ9ZOuPgmU7Q) | 3:43 | 2022-06-20 | 2022-06-24 |
 | [Trigger](https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Trigger](https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde) | 3:20 | 2022-05-09 | 2022-07-13 |
-| [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-06-23 |  |
+| [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-06-23 | 2024-05-06 |
 | [Tropical](https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Seoul Check\-in OST Part 12](https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO) | 3:04 | 2022-12-15 | 2022-12-20 |
 | [true colors \(feat\. Rovv\)](https://open.spotify.com/track/7C5bIf3LcljUhNBPSi5wnv) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [true colors \(feat\. Rovv\)](https://open.spotify.com/album/4uFeEsuhw8dLCWBzni0JcU) | 2:34 | 2022-05-02 | 2022-05-12 |
 | [Trust Me \(Feat\. Roh Yun Ha\)](https://open.spotify.com/track/1xjJUoYC3ZHBjj1QsiKlUm) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Trust Me](https://open.spotify.com/album/7fKdvbJrehDqOAHdHMnof7) | 3:16 | 2023-08-08 | 2023-08-18 |

@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
@@ -3280,6 +3280,24 @@
       "duration_ms": 157200,
       "name": "You're Filled With Courage",
       "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
+      "album": {
+        "name": "Zeniah",
+        "url": "https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR"
+      },
+      "artists": [
+        {
+          "name": "Caspar Tindra",
+          "url": "https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD"
+        }
+      ],
+      "date_added": "2024-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199650,
+      "name": "Zeniah",
+      "url": "https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdbkmlag2h7b"

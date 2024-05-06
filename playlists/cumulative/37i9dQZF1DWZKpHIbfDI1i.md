@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Jesse & Joy en portada.
 
-974 songs - 2 day 4 hr 27 min
+975 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Ana Gloria](https://open.spotify.com/track/7iEHCia7HOpzGp3jixcITA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Ana Gloria](https://open.spotify.com/album/5yj42bVeOPjvJs053MvJkN) | 2:29 | 2023-06-23 | 2023-08-05 |
 | [Andamos Francos](https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Andamos Francos](https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2) | 2:05 | 2023-10-13 | 2023-10-21 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-03-18 | 2022-09-03 |
-| [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 | 2024-03-01 |  |
+| [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 | 2024-03-01 | 2024-05-06 |
 | [Ando Bien Agusto](https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ando Bien Agusto](https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa) | 3:10 | 2023-04-28 | 2023-06-01 |
 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 | 2022-12-02 | 2023-05-20 |
 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 | 2023-04-28 | 2023-06-23 |
@@ -728,6 +728,7 @@
 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 | 2023-11-17 | 2023-11-25 |
 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 | 2022-03-18 | 2022-07-06 |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-09-01 | 2024-04-13 |
+| [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 | 2024-05-03 |  |
 | [Que Te Trague La Tierra](https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Que Te Trague La Tierra](https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv) | 3:08 | 2023-01-27 | 2023-03-18 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-09-15 | 2023-02-25 |
 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2022-09-15 | 2023-02-25 |

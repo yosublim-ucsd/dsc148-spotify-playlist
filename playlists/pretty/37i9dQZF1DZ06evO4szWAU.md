@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 ### [This Is Willie Colón](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4szWAU)
 
-> This is Willie Colón\. The essential tracks, all in one playlist.
+> This Is Willie Colón\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,358 likes - 51 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,404 likes - 51 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 50 | [Panameña](https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:54 |
 | 51 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 
-Snapshot ID: `ZjQpAAAAAAAa+kldEsh6RkIhIHjxlqiB`
+Snapshot ID: `ZjQpAAAAAAAZctE9Zd/NEJZFkw1oTEsl`

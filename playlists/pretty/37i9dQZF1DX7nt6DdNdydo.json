@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 50447,
+  "num_followers": 50472,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Boogie At Midnight",
-        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 143230,
-      "name": "Mighty Mighty Man",
-      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Boogie At Midnight",
+        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 143230,
+      "name": "Mighty Mighty Man",
+      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -175,34 +159,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -219,6 +187,22 @@
       "duration_ms": 163840,
       "name": "Big Fat Mama",
       "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 147053,
       "name": "(Every Time I Hear) That Mellow Saxophone",
       "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -335,22 +319,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -383,6 +351,38 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 156320,
       "name": "Hello Little Boy",
       "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The EP Collection... Plus",
-        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection... Plus",
+        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Walk That Mess!",
-        "url": "https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "I'm Going To Have Myself A Ball",
-      "url": "https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "More Greatest Hits - Good Rockin' Tonight",
         "url": "https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 136773,
       "name": "Shake That Thing",
       "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Walk That Mess!",
+        "url": "https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "I'm Going To Have Myself A Ball",
+      "url": "https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -703,6 +703,38 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Great R&B Instrumentals",
         "url": "https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL"
       },
@@ -747,38 +779,6 @@
       "duration_ms": 139466,
       "name": "450 Pound Woman",
       "url": "https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9"
     },
     {
       "added_at": "2022-03-28 19:44:25",

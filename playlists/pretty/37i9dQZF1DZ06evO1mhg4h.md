@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is 結束バンド\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,823 likes - 17 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,840 likes - 17 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

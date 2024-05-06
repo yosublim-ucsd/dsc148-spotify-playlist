@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This Is Deep Purple\. Los temas esenciales, todos en una lista.
+> This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,421 likes - 52 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,452 likes - 52 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 51 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 |
 | 52 | [White Room](https://open.spotify.com/track/2RMp39cxDzwxu9ITM8HVB7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/0PSAOfLIqsdfWbwWkF1Hu2) | 4:53 |
 
-Snapshot ID: `ZjQpAAAAAADPlqmf+L5WfCNhLG+AMl9J`
+Snapshot ID: `ZjQpAAAAAACZrF+YltL+YTK63xAQsueK`

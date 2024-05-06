@@ -1,6 +1,6 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 7427,
+  "num_followers": 7431,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
@@ -143,30 +143,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Coraz\u00f3n Roto (Remix)",
-        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Coraz\u00f3n Roto - Remix",
-      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -187,18 +163,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+        "name": "Coraz\u00f3n Roto (Remix)",
+        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+      "duration_ms": 275040,
+      "name": "Coraz\u00f3n Roto - Remix",
+      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -243,6 +227,22 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 306005,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -431,18 +447,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 306005,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+      "duration_ms": 339611,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -479,26 +499,6 @@
       "duration_ms": 305666,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 339611,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 405473,
       "name": "Baby Father 2.0 (with Myke Towers, Arc\u00e1ngel, \u00d1engo Flow & Yeruza)",
       "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -947,30 +947,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "LA HORA Y EL D\u00cdA",
-        "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 217254,
-      "name": "LA HORA Y EL D\u00cdA",
-      "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "LA HORA Y EL D\u00cdA",
+        "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 217254,
+      "name": "LA HORA Y EL D\u00cdA",
+      "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
     },
     {
       "added_at": "2023-06-27 18:03:27",

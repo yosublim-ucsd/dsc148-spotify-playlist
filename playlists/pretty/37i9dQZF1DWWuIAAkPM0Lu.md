@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a> har <a href="spotify:track:3rGYQLxtPkFSgrEPkgUX5t">Cheat Code'en</a>  👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,176 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,222 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

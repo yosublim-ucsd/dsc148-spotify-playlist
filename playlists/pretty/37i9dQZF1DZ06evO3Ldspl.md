@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
+> This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,669 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,672 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [Campana](https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los Elegidos](https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne) | 3:43 |
 | 50 | [De Nuevo En Tu Ventana](https://open.spotify.com/track/1of4MOj7ugybUnIK5rus4G) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 3:42 |
 
-Snapshot ID: `ZjQpAAAAAACjYmTpmy7ciaGMcdF67OqW`
+Snapshot ID: `ZjQpAAAAAABRQ/FdsEZuMmtsZAXxZjWf`

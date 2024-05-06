@@ -1,6 +1,6 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 83842,
+  "num_followers": 83850,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-04-18 15:20:11",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
       "artists": [
         {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
         }
       ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+      "duration_ms": 163682,
+      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
     },
     {
       "added_at": "2024-04-18 15:20:11",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-04-18 15:20:11",
       "album": {
-        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
       },
       "artists": [
         {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        },
-        {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
         }
       ],
-      "duration_ms": 163682,
-      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2024-04-18 15:20:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-18 15:20:11",
       "album": {
-        "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 135789,
-      "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
-      "url": "https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83"
-    },
-    {
-      "added_at": "2024-04-18 15:20:11",
-      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-04-18 15:20:11",
       "album": {
+        "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 135789,
+      "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83"
+    },
+    {
+      "added_at": "2024-04-18 15:20:11",
+      "album": {
         "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-18 15:20:11",
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S"
-      },
-      "artists": [
-        {
-          "name": "Azari",
-          "url": "https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9"
-        }
-      ],
-      "duration_ms": 116718,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn"
-    },
-    {
-      "added_at": "2024-04-18 15:20:11",
-      "album": {
         "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 205155,
       "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
+    },
+    {
+      "added_at": "2024-04-18 15:20:11",
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S"
+      },
+      "artists": [
+        {
+          "name": "Azari",
+          "url": "https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9"
+        }
+      ],
+      "duration_ms": 116718,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn"
     },
     {
       "added_at": "2024-04-18 15:20:11",

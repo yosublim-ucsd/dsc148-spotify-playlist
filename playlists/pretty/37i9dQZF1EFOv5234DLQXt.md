@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714 likes - 115 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713 likes - 115 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 17 | [Ella Usó Mi Cabeza Como Un Revólver \- Remasterizado 2007](https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:29 |
 | 18 | [Cosas Imposibles](https://open.spotify.com/track/7be5IEj6GYti0jauRKODoG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 5:05 |
 | 19 | [Signos](https://open.spotify.com/track/5f6FKVoc3mfhxImJBqbrPJ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:16 |
-| 20 | [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 |
+| 20 | [Entre Caníbales \- Remasterizado 2007](https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:06 |
 | 21 | [Magia](https://open.spotify.com/track/1qxW7VuoZFyO0UQHR8XWcB) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 4:28 |
 | 22 | [Corazón Delator \- Remasterizado 2007](https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:12 |
 | 23 | [Un Millón de Años Luz](https://open.spotify.com/track/13AxiqSPgMeUhRCjo3zla0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 34 | [Té para Tres](https://open.spotify.com/track/40VoDKKiYXmUgCYYJ9c0lT) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:25 |
 | 35 | [Vuelta por el Universo](https://open.spotify.com/track/7uY3xheR58xt98wb8BIz21) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 6:00 |
 | 36 | [Amor Amarillo](https://open.spotify.com/track/0HX8RMVq75HxkY29P0mfWn) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 5:36 |
-| 37 | [Disco Eterno \- Remasterizado 2007](https://open.spotify.com/track/1MgAlKWp9ntSF5DRG6vKYl) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 5:46 |
-| 38 | [Otra Piel](https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:40 |
+| 37 | [Otra Piel](https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:40 |
+| 38 | [Disco Eterno \- Remasterizado 2007](https://open.spotify.com/track/1MgAlKWp9ntSF5DRG6vKYl) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 5:46 |
 | 39 | [Desastre](https://open.spotify.com/track/2K0GxrtQNE3tVFeW4fYGZi) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:36 |
 | 40 | [Lisa](https://open.spotify.com/track/3ac2SnHk4KYjP2Au4ZL7eu) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:25 |
 | 41 | [Karaoke](https://open.spotify.com/track/6sLY33z3QsMa9HnzCvXcGT) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:54 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 114 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 115 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `AbQeQAAAAADaiLwaMbAPhBJCqzlAUfTl`
+Snapshot ID: `AbQjawAAAAAF6LNQK7ZoS/R2+6Wpbbng`

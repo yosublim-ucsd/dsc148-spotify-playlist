@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is Miranda Lambert\. The essential tracks, all in one playlist.
+> This Is Miranda Lambert\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,606 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,627 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 50 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 | 51 | [Bramble Rose](https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3) | 4:30 |
 
-Snapshot ID: `ZjQpAAAAAABVwZp9SnhnNibfnRbB54L4`
+Snapshot ID: `ZjQpAAAAAABoXtOdFDK7Cva4y4OjVVne`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Khruangbin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,920 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,934 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 23 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 24 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 25 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
-| 26 | [ketamine](https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [ketamine](https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV) | 2:29 |
-| 27 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
-| 28 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
+| 26 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 27 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
+| 28 | [ketamine](https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [ketamine](https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV) | 2:29 |
 | 29 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 30 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
 | 31 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 42 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
 | 43 | [exploding](https://open.spotify.com/track/4JT7UymD7YCLdRPx5KYtkO) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 3:18 |
 | 44 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 |
-| 45 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
-| 46 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
-| 47 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
+| 45 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
+| 46 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
+| 47 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
 | 48 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 |
 | 49 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 50 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |

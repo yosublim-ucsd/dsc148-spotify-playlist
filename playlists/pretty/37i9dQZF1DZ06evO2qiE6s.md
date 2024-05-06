@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 ### [This Is Dean Martin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
 
-> This is Dean Martin\. The essential tracks, all in one playlist.
+> This Is Dean Martin\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,414 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,474 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [My Woman, My Woman, My Wife](https://open.spotify.com/track/0q90htFRfz13tk1JQ862uP) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [My Woman, My Woman, My Wife](https://open.spotify.com/album/72SyCEbbglnB4vh5Ocaq95) | 3:30 |
 | 50 | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:25 |
 
-Snapshot ID: `ZjQpAAAAAAAvrEUC69YhYPh6EkcnmhXv`
+Snapshot ID: `ZjQpAAAAAACCUoB6JagQ+tO9sIpYe3y8`

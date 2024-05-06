@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 331722,
+  "num_followers": 331749,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "My Boy Only Breaks His Favorite Toys",
-      "url": "https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD"
-    },
-    {
-      "added_at": "2024-05-04 11:35:41",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-05-04 11:35:41",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD"
     },
     {
       "added_at": "2024-05-04 11:35:41",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2024-05-04 11:35:41",
+      "album": {
         "name": "Work With My Love",
         "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2024-05-04 11:35:41",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2024-05-04 11:35:41",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2024-05-04 11:35:41",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2024-05-04 11:35:41",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2024-05-04 11:35:41",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+    },
+    {
+      "added_at": "2024-05-04 11:35:41",
+      "album": {
         "name": "Waffle House",
         "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
       },
@@ -1483,26 +1499,6 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2024-05-04 11:35:41",
-      "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
       "added_at": "2024-05-04 11:35:41",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
       "added_at": "2024-05-04 11:35:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-04 11:35:41",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2024-05-04 11:35:41",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2024-05-04 11:35:41",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2024-05-04 11:35:41",

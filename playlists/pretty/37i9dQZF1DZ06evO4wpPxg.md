@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
+> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [I'm Throwin' Up My Hands](https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 2:49 |
 | 50 | [Mean Old World](https://open.spotify.com/track/4ez87qGFzUQsTiZKrfMqFp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 3:13 |
 
-Snapshot ID: `ZjQpAAAAAADulvl2Xl8spA2kJX9Phdt5`
+Snapshot ID: `ZjQpAAAAAACRXFymFo2FxrQTGwHbofu4`

@@ -7225,6 +7225,24 @@
     },
     {
       "album": {
+        "name": "Like a Slave",
+        "url": "https://open.spotify.com/album/69ezB7r6q5yu0h8UkkUAcW"
+      },
+      "artists": [
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174579,
+      "name": "Like a Slave",
+      "url": "https://open.spotify.com/track/3leRh7GH76lC34IQGWNUaR"
+    },
+    {
+      "album": {
         "name": "Smores",
         "url": "https://open.spotify.com/album/468YF7QLxDGJYUG4OFL43q"
       },
@@ -9268,6 +9286,28 @@
       "duration_ms": 161733,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/5rXiL9jyboFa9gza6jWRSP"
+    },
+    {
+      "album": {
+        "name": "Not Giving You Up (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226453,
+      "name": "Not Giving You Up - Vandelux Remix",
+      "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
     },
     {
       "album": {
@@ -11662,7 +11702,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 122678,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX"
@@ -14784,7 +14824,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 234200,
       "name": "Wild Church",
       "url": "https://open.spotify.com/track/58aeU18mt15CnihIz4MsS3"

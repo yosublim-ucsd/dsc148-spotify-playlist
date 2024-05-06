@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,424 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,416 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 15 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 16 | [Chemicals](https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Chemicals](https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1) | 3:19 |
 | 17 | [Your Needs, My Needs](https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:27 |
-| 18 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
+| 18 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
 | 19 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
-| 20 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
+| 20 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 21 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 22 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 23 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 46 | [Free As We Wanna Be \- Acoustic](https://open.spotify.com/track/0r52k7tp2plpgc7eAiv8l8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Free As We Wanna Be](https://open.spotify.com/album/04lhFo2ZxBJ5uqlp1N78hC) | 3:53 |
 | 47 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
 | 48 | [Slow Records](https://open.spotify.com/track/2dvzf690BYZyiVf8jWtB18) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Push Ups](https://open.spotify.com/album/28nNe1OxZ3hicVX5t28M6S) | 4:35 |
-| 49 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
-| 50 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
-| 51 | [Make You OK](https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 4:17 |
-| 52 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
+| 49 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
+| 50 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
+| 51 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
+| 52 | [Make You OK](https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 4:17 |
 | 53 | [Strangers \(feat\. Aoife O'donovan\)](https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh) | [Jesse Harper](https://open.spotify.com/artist/64vZp5Px5HDpn0UUMxIwX9), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [One True Thing](https://open.spotify.com/album/2uJMLYLdpbVvKjhCfsdvmQ) | 4:33 |
 | 54 | [Visions Of China](https://open.spotify.com/track/7lkmvTlnEs0JfKIFg9NmcL) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [C\-Sides](https://open.spotify.com/album/4MukviK8Vj2Hfsfg8g99Rk) | 3:21 |
 | 55 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |

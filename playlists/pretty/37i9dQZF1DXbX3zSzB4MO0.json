@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 6463,
+  "num_followers": 6602,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Feel It (Club Edit)",
         "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "MEDUZA",
-        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Blue Monday (feat. JD Davis)",
         "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 196939,
       "name": "Blue Monday (feat. JD Davis)",
       "url": "https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "MEDUZA",
+        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     }
   ],
   "unique_name": "Club Beats",

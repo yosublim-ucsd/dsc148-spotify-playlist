@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,803 likes - 132 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,839 likes - 132 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

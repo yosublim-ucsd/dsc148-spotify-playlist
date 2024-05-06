@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This Is Banda Los Recoditos\. Los temas esenciales, todos en una lista.
+> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,778 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,801 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
 | 50 | [Chiquitita](https://open.spotify.com/track/1gejXzSYPS7XXDYuOjcvr8) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:36 |
 
-Snapshot ID: `ZjQpAAAAAACYDQgKqWmR31XOgPR4OvYD`
+Snapshot ID: `ZjQpAAAAAAD5p5U+Ej4KKTilD4Tjddwc`

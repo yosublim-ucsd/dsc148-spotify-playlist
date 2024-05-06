@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 67257,
+  "num_followers": 67329,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -583,42 +563,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 207454,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -639,6 +599,46 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 180594,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -955,6 +955,30 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+      },
+      "artists": [
+        {
+          "name": "Vibez Inc",
+          "url": "https://open.spotify.com/artist/2pWvZYqXNfLNIsCkr9Llgy"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 152307,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
-      },
-      "artists": [
-        {
-          "name": "Vibez Inc",
-          "url": "https://open.spotify.com/artist/2pWvZYqXNfLNIsCkr9Llgy"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Danger Zee",
-        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 153756,
-      "name": "Popo",
-      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Disconnect + Go Hard",
         "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Danger Zee",
+        "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "Popo",
+      "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
       },
@@ -1391,18 +1371,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "The Life I Chose",
-        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 144447,
-      "name": "The Life I Chose",
-      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+      "duration_ms": 136000,
+      "name": "100 MILLION (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "The Life I Chose",
+        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 144447,
+      "name": "The Life I Chose",
+      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
     },
     {
       "added_at": "2024-05-03 00:01:00",

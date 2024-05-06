@@ -1,6 +1,6 @@
 {
   "description": "\"i just have to trust myself\" \u2234 W \u2234 Foto: WILLOW",
-  "num_followers": 113040,
+  "num_followers": 113041,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Everything I Do Is For You",
-        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156349,
-      "name": "Everything I Do Is For You",
-      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "I Was Made For Lovin' You (from The Fall Guy)",
         "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Hayloft II (SMASHUP)",
-        "url": "https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn"
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 223509,
-      "name": "Hayloft II (SMASHUP)",
-      "url": "https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2"
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -251,22 +235,6 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -291,18 +259,34 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Hayloft II (SMASHUP)",
+        "url": "https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 223509,
+      "name": "Hayloft II (SMASHUP)",
+      "url": "https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -323,6 +307,22 @@
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "MONO",
         "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 194346,
       "name": "Punisher",
       "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL"
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
       },
       "artists": [
         {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 106181,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -511,18 +511,38 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "leave me for dead",
-        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 176399,
-      "name": "leave me for dead",
-      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+      "duration_ms": 182706,
+      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "duration_ms": 106181,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -543,22 +563,18 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-        "url": "https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84"
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-      "url": "https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl"
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -615,22 +631,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-05-03 03:01:00",

@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Kendrick Lamar
 
-252 songs - 12 hr 27 min
+254 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [F.A.M.E](https://open.spotify.com/track/4fOPM11OgnEvM6Ras1Aol3) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [F.A.M.E](https://open.spotify.com/album/6vfLI2ZMWWyIN3gojyLwQQ) | 3:55 | 2023-09-22 | 2023-10-13 |
 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 | 2023-09-22 | 2023-10-13 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-18 |  |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-06 |  |
 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 | 2024-04-25 |  |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-22 | 2023-10-13 |
 | [Father's Eyes \(feat\. Stan Walker\)](https://open.spotify.com/track/5nxQzwAkcKPPOhF7RBLDWg) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Father's Eyes \(feat\. Stan Walker\)](https://open.spotify.com/album/2AjIya9H5LNYjFS2ipFUXt) | 2:52 | 2023-10-26 | 2024-02-09 |
@@ -161,6 +162,7 @@
 | [Next Up Australia \- S1\-E7](https://open.spotify.com/track/4v64dIlDQ2k4ZpDZeJ4HDV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Next Up Australia \- S1\-E7](https://open.spotify.com/album/3JRghRZoDxlBTG4ACYU1UC) | 2:17 | 2024-02-22 | 2024-05-03 |
 | [Next Up Australia \- S1\-E9 \- Pt.2](https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E9](https://open.spotify.com/album/3p7jtRW9XQ2CieEay3YYHx) | 1:49 | 2024-03-07 |  |
 | [No Reason](https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [JAKOBI](https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt) | [No Reason](https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB) | 2:04 | 2024-01-04 | 2024-02-09 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 |  |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-02 |  |
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-02-29 | 2024-03-15 |
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2023-12-07 | 2024-01-26 |

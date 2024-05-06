@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-126 songs - 8 hr 3 min
+127 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 | 2022-01-01 |  |
 | [I Want You](https://open.spotify.com/track/1HCPjfa02m5JwcO37LHfYb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Thalia](https://open.spotify.com/album/2RthEMVWkTLv6n9xPJZPCi) | 3:46 | 2022-01-01 | 2024-04-26 |
 | [Imagíname Sin Ti](https://open.spotify.com/track/0LwCtv2JW5yTl5qd91e4tL) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Eterno](https://open.spotify.com/album/6x2BA9N3GLT21K7q3DWi5c) | 4:07 | 2022-01-01 | 2022-07-29 |
+| [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 | 2024-04-25 |  |
 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 | 2022-01-01 | 2024-04-19 |
 | [La Botella](https://open.spotify.com/track/1IlJpEiMt4nuLr3cWFQUxa) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/0yno13qSZ1kSJnWpAC5XBy) | 2:59 | 2022-01-01 | 2022-07-29 |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-01-01 | 2024-04-26 |
@@ -96,7 +97,7 @@
 | [Pobre Diabla](https://open.spotify.com/track/26RZ3DhnVlytdG6N1oxW1E) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Gold Series "The Last Don"](https://open.spotify.com/album/3hKDEHUzH1GmdohemezsEw) | 4:12 | 2022-01-01 | 2022-07-29 |
 | [Pobre Diabla](https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don Live](https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ) | 4:14 | 2022-01-01 | 2024-04-19 |
 | [Quiero Bailar](https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 3:06 | 2023-01-31 | 2024-04-19 |
-| [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-01-01 |  |
+| [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-01-01 | 2024-05-06 |
 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 | 2022-01-01 |  |
 | [Rebelde](https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:34 | 2022-01-01 | 2024-04-26 |
 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2023-01-31 |  |

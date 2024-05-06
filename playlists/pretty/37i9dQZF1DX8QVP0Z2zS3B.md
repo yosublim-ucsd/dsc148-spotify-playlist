@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QVP0Z2zS3B.md) - [plain]
 
 > Las más escuchadas en la ciudad de la furia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,781 likes - 45 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,825 likes - 45 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 ### [This Is Los Jaivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046)
 
-> This is Los Jaivas\. The essential tracks, all in one playlist.
+> This Is Los Jaivas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,789 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,797 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 |
 | 50 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 |
 
-Snapshot ID: `ZjQpAAAAAAAuLi+SJ2BSaywNw44H90lj`
+Snapshot ID: `ZjQpAAAAAACtJYm8Um+SpNz3AKAqo1R9`

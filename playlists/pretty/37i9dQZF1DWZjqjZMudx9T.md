@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA con Lyanno & Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,899,930 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,900,184 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

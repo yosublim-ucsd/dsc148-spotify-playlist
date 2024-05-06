@@ -1,6 +1,6 @@
 {
   "description": "Mant\u00e9m a energia positiva!",
-  "num_followers": 243151,
+  "num_followers": 243178,
   "original_name": "Hits Felizes",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
-        "name": "POCPOC",
-        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "POCPOC",
-      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "POCPOC",
+        "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "POCPOC",
+      "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -891,6 +891,42 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
         "name": "Diz A\u00ed Qual \u00e9 o Plano?",
         "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
       },
@@ -943,42 +979,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-04-19 09:25:04",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -1771,38 +1787,6 @@
     {
       "added_at": "2024-04-19 09:25:04",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2024-04-19 09:25:04",
-      "album": {
         "name": "Eu Gosto Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 148800,
       "name": "Eu Gosto Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
+    },
+    {
+      "added_at": "2024-04-19 09:25:04",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     }
   ],
   "unique_name": "Hits Felizes",

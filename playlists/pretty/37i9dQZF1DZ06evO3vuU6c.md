@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 ### [This Is Sia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vuU6c)
 
-> This is Sia\. The essential tracks, all in one playlist.
+> This Is Sia\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383,672 likes - 52 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383,780 likes - 52 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 51 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
 | 52 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 
-Snapshot ID: `ZjQpAAAAAACDw+t03BQ8pfEOteOfvtpP`
+Snapshot ID: `ZjQpAAAAAABmGdO/xKXNRP9n+n/UduYe`

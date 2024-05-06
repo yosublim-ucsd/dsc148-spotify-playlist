@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 348 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 348 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 222 | [Lado Bom \- Ao Vivo](https://open.spotify.com/track/6u0rhQWzH2PoinGrMuinm6) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA), [Léo Moreira](https://open.spotify.com/artist/1wUxFuBWym6vKgn1akEUY9) | [Ao Vivo em Goiânia](https://open.spotify.com/album/3zjKPkYelG8ItxX9yMNOTo) | 2:44 |
 | 223 | [Eu Tô Nem Aí \- Ao Vivo](https://open.spotify.com/track/5Zv5D1CWoTGISa5RPvb2KT) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Em Casa \(Ao Vivo\)](https://open.spotify.com/album/08jsdsgKcFOMUtrgE8Scv1) | 3:13 |
 | 224 | [Temperatura \- Ao Vivo](https://open.spotify.com/track/0xYdUxzk58txwPsUe98wRj) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:00 |
-| 225 | [Fica Olhando Meus Stories Aí](https://open.spotify.com/track/53Dtu1CtEYuZpvx3h7cSFZ) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP), [Luiz Henrique](https://open.spotify.com/artist/4gNBOadQtSdS0TyD0p2EOT), [Caio Brito](https://open.spotify.com/artist/5xUQd7Woz4w9EATqrl0xnz) | [Fica Olhando Meus Stories Aí](https://open.spotify.com/album/7GItsZ0qwZmsOUoVNd5Y85) | 2:32 |
-| 226 | [Só Quer Sexo Comigo](https://open.spotify.com/track/6FuRpB293vtUW7VmxEWeRB) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Volume Topado](https://open.spotify.com/album/7gQQaXLXVubhpuOkSVlD80) | 2:45 |
+| 225 | [Só Quer Sexo Comigo](https://open.spotify.com/track/6FuRpB293vtUW7VmxEWeRB) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Volume Topado](https://open.spotify.com/album/7gQQaXLXVubhpuOkSVlD80) | 2:45 |
+| 226 | [Fica Olhando Meus Stories Aí](https://open.spotify.com/track/53Dtu1CtEYuZpvx3h7cSFZ) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP), [Luiz Henrique](https://open.spotify.com/artist/4gNBOadQtSdS0TyD0p2EOT), [Caio Brito](https://open.spotify.com/artist/5xUQd7Woz4w9EATqrl0xnz) | [Fica Olhando Meus Stories Aí](https://open.spotify.com/album/7GItsZ0qwZmsOUoVNd5Y85) | 2:32 |
 | 227 | [Um Brigadeiro E Um Amor \- Ao Vivo](https://open.spotify.com/track/7oydDk7PqnMhtqemWzeVHa) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:37 |
 | 228 | [Pá Pá Pá \- Ao Vivo](https://open.spotify.com/track/1mb1goExn0oRs45gAXnDmY) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Festa Funkneja \(Ao Vivo\)](https://open.spotify.com/album/4NgQskaDoHX43miBmbX7JI) | 3:08 |
 | 229 | [Nada Programado](https://open.spotify.com/track/7fAda6g49UBJz2UGVyU0tl) | [Sambalove](https://open.spotify.com/artist/2ALvqcc7WQLi15M4ikf8PU), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Nada Programado](https://open.spotify.com/album/0ijlT3Ln6uPICXlykS09iA) | 3:19 |
@@ -252,9 +252,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 242 | [Teoria e Prática \- Ao Vivo](https://open.spotify.com/track/5VsEsk25LyArKwq7bcAgO6) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Em Qualquer Lugar \(Ao Vivo\)](https://open.spotify.com/album/3oqgKzSKlt1bxS9uGRFxl8) | 2:56 |
 | 243 | [Boca Favorita](https://open.spotify.com/track/4rImI6hmbSKDrBqoKWygpk) | [Gustavo Toledo & Gabriel](https://open.spotify.com/artist/3KwjbFKJwcRTO38766BSo5) | [Boca Favorita](https://open.spotify.com/album/4PB2nGma9rQaAgEu9bOodW) | 2:59 |
 | 244 | [Baqueou Demais](https://open.spotify.com/track/61oYBEmrhDiQway0suw7S7) | [Antony & Gabriel](https://open.spotify.com/artist/1uhE4e8omc2wKqIK88bqH4) | [Aquece DVD 2018](https://open.spotify.com/album/263CL2bEtQd89Z2oyMu8ft) | 2:41 |
-| 245 | [Vacilou Demais \- Ao Vivo](https://open.spotify.com/track/7vxgiNwmVnz8wLKIQoIgzn) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:46 |
-| 246 | [Tô Revoando](https://open.spotify.com/track/1daSKUjXHAgoJVUY19bc0V) | [DJ Mário](https://open.spotify.com/artist/4w3HIrsRnLIreRiFEXo9Ne), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Tô Revoando](https://open.spotify.com/album/398GkcCMo63nWZvZfYkWxk) | 2:22 |
-| 247 | [Ciúmes de Ficante](https://open.spotify.com/track/7bWTyzWNst2XuGtYv3e3FY) | [Francildo Silva](https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw) | [Verão 2023](https://open.spotify.com/album/0AHnqhnRVbpVRQ6pdIBCrS) | 2:56 |
+| 245 | [Ciúmes de Ficante](https://open.spotify.com/track/7bWTyzWNst2XuGtYv3e3FY) | [Francildo Silva](https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw) | [Verão 2023](https://open.spotify.com/album/0AHnqhnRVbpVRQ6pdIBCrS) | 2:56 |
+| 246 | [Vacilou Demais \- Ao Vivo](https://open.spotify.com/track/7vxgiNwmVnz8wLKIQoIgzn) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:46 |
+| 247 | [Tô Revoando](https://open.spotify.com/track/1daSKUjXHAgoJVUY19bc0V) | [DJ Mário](https://open.spotify.com/artist/4w3HIrsRnLIreRiFEXo9Ne), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Tô Revoando](https://open.spotify.com/album/398GkcCMo63nWZvZfYkWxk) | 2:22 |
 | 248 | [Não Adianta \(Ao Vivo\)](https://open.spotify.com/track/7jbGjwlaZ1VyKfhLHokWi6) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F) | 3:05 |
 | 249 | [Namorada na Balada \(Ao Vivo no Caldas Country\)](https://open.spotify.com/track/2r2x3p3gLtvxa6KJl8hS2s) | [Breno Mazza e Vicente](https://open.spotify.com/artist/75OTojVRHb6UMThEFuwpTA) | [Namorada na Balada \(Ao Vivo no Caldas Country\)](https://open.spotify.com/album/3PEPFt7BIwrmYxWPWP8t7g) | 2:43 |
 | 250 | [A Cabana \- Ao Vivo](https://open.spotify.com/track/1QxRo3XFa1dUGShgcoCLHa) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:38 |
@@ -355,6 +355,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 345 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
 | 346 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 347 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 348 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
+| 348 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbQecgAAAABFYOeYYOqHaVVuRqc4qu/D`
+Snapshot ID: `AbQjXgAAAAB4zLKztYB6sv2DEtyvglzE`

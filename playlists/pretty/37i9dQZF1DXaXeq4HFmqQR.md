@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,478 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,476 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 37 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
 | 38 | [antes de marchitarme](https://open.spotify.com/track/3SebSOyNzn2PWib9xiOlJO) | [Antipatriarka](https://open.spotify.com/artist/5rZyPEZVynb13WM1T0AA1p) | [ANTÍDOTO](https://open.spotify.com/album/26rubL6YMJu0GFTpyDcHxX) | 2:33 |
 | 39 | [For Real](https://open.spotify.com/track/3O5XAiurMosdHxiOYckoYS) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [LUCATO](https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l) | [Culona y Llorona.](https://open.spotify.com/album/2LeboBZBofMm9cUz6MYKAF) | 2:37 |
-| 40 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
-| 41 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
+| 40 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
+| 41 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
 | 42 | [Cuarta pared](https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj) | [Javiera Electra](https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp) | [REPRÍS](https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP) | 4:29 |
 | 43 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
 | 44 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 46 | [perfecta](https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 2:40 |
 | 47 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
 | 48 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |
-| 49 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
-| 50 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
+| 49 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
+| 50 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
 
 Snapshot ID: `Ze85LAAAAACAXynyWbOOjgWKKa6m8e6Z`

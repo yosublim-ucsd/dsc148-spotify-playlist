@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-495 songs - 1 day 3 hr 14 min
+496 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Girls Can't Drive \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/4IFmDljRaIIObvMR9cGIZu) | [Madison Thompson](https://open.spotify.com/artist/5QrgfjVtx5EYb18Cg42JI7), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:50 | 2024-02-27 |  |
 | [Golden Youth \(feat\. Anjulie\)](https://open.spotify.com/track/6agBJV49zfUhDkGPLjjDs4) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Golden Youth \(feat\. Anjulie\)](https://open.spotify.com/album/50mUh3ClRQ5C1BlbZYe1Ok) | 3:14 | 2024-02-27 |  |
 | [Good Day](https://open.spotify.com/track/49X8pWDpmFpAITVUaudkcN) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:38 | 2024-02-27 |  |
+| [Good Day To Have A Great Day](https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Good Day To Have A Great Day](https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex) | 3:01 | 2024-05-05 |  |
 | [Good For You](https://open.spotify.com/track/5xdVqHtFS0eLuNp4Z8Wbpa) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:41 | 2024-02-27 |  |
 | [Good Girl Act \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/2YdRc2Uqc0MQdmoUtU61mm) | [Cheyenne Isabel Wells](https://open.spotify.com/artist/0W6h16rjhBU7tfUlXU6Hzr), [Marisa Davila](https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy), [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 3:20 | 2024-02-27 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-07 |  |

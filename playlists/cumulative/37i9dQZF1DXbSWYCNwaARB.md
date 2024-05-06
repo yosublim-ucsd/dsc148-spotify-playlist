@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Guess who's here to celebrate Children's Day?
+> Guess who's here to celebrate Children's Day? \(Cover: KI...?? \) All your girl crushes\(걸크러쉬\) in one place.
 
 445 songs - 23 hr 31 min
 
@@ -28,7 +28,7 @@
 | [ALIVE](https://open.spotify.com/track/1tjDKrtdCKtVCGEG35jqdI) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz) | 3:06 | 2022-05-24 | 2022-06-10 |
 | [Allure \- Jazz Version](https://open.spotify.com/track/4xeC0YjQ9M0FREWGvu2ReI) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Allure](https://open.spotify.com/album/2e0XolxTGtF620kitKaRwb) | 3:10 | 2021-02-26 | 2021-03-15 |
 | [Amigo \(Feat\. Babysoul of Lovelyz\)](https://open.spotify.com/track/4czctkvzB1Yjn0OYNgRNyW) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Babysoul](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:30 | 2021-12-20 | 2022-04-11 |
-| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 |  |
+| [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-29 | 2024-05-06 |
 | [Apple](https://open.spotify.com/track/3jg1u32Pn1c2M5r6SAQBCC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:27 | 2020-10-13\* | 2021-03-16 |
 | [ARIA](https://open.spotify.com/track/1T4GQxjwqrGGQ60N3q5Xpw) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [My Universe](https://open.spotify.com/album/20K3dLngjcAJy2pCEFwQET) | 3:31 | 2021-01-17 | 2022-04-17 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 |  |
@@ -64,7 +64,7 @@
 | [BOSS](https://open.spotify.com/track/03UHveMYHRWVx6gmgXnPsx) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [BOSS](https://open.spotify.com/album/5MXIdlIMjHvSZP5Puj9CMA) | 3:01 | 2021-02-26 | 2022-04-21 |
 | [Breaking the rules](https://open.spotify.com/track/1u0RhUf3sCx5mir8uQVCgB) | [Ferry Blue](https://open.spotify.com/artist/5hoabnM5gbywbrTEKiHilf) | [Breaking the rules](https://open.spotify.com/album/6YpNxm9tIA0eRVrXGb2REG) | 3:23 | 2023-12-04 | 2024-01-09 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-10-27 | 2022-04-20 |
-| [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-05-05 |
+| [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 |  |
 | [Butterfly](https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av) | [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td) | [Butterfly](https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT) | 2:53 | 2023-09-26 | 2023-10-05 |
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-12 | 2023-11-18 |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 |  |
@@ -146,7 +146,7 @@
 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 | 2021-02-26 | 2022-07-27 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 | 2023-02-12 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-23 | 2023-01-10 |
-| [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-23 |  |
+| [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-23 | 2024-05-06 |
 | [Freesm](https://open.spotify.com/track/2Z7Uz9xmEeHKdWpeR05wfk) | [Hashtag](https://open.spotify.com/artist/1SABBqkbfguBXhZQJK5t3e) | [haShtag 2nd mini album \#Aeji \#paSsion](https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE) | 3:03 | 2021-02-26 | 2022-04-19 |
 | [FUTURE 퓨처](https://open.spotify.com/track/6EvUmJtq5UMBWkcID2J85l) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [FUTURE 퓨처](https://open.spotify.com/album/7F6gEdRkVo6XNTWTzkiFAu) | 3:40 | 2020-10-13\* | 2022-04-17 |
 | [Galileo](https://open.spotify.com/track/2nehY8ewjt4clnD40SclwM) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/4otUxxCM0HA9Deq2vBMJBk) | 3:08 | 2023-09-26 | 2023-11-11 |
@@ -159,7 +159,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-08-17 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-07-13 |
 | [Girls](https://open.spotify.com/track/64HHzg4ILYpcYOGS0XQzOo) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE M](https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4) | 3:31 | 2020-10-13\* | 2022-04-20 |
-| [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 |  |
+| [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-16 | 2024-05-06 |
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2020-10-20 | 2022-04-20 |
@@ -189,7 +189,7 @@
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-20 | 2024-04-19 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 |  |
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 | 2023-12-11 |
-| [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 | 2024-04-29 |
+| [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 |  |
 | [I Love You](https://open.spotify.com/track/7n2HVHWqFsyAOs5HqmE1Dl) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [I Love You](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) | 3:14 | 2021-02-28 | 2022-07-15 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2023-03-05 |
 | [I'm Not Cool](https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 2:54 | 2021-02-28 | 2021-03-02 |
@@ -452,6 +452,6 @@
 | [기기괴괴](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [기기괴괴](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) | 3:31 | 2021-11-03 | 2022-04-20 |
 | [달라달라 \(DALLA DALLA\)](https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:19 | 2020-10-20 | 2022-06-20 |
 | [목말라](https://open.spotify.com/track/4VTbuDTpIxWIbV4M18iV2i) | [lusty](https://open.spotify.com/artist/47RRgtgrd3mixeuNC56URC) | [목말라](https://open.spotify.com/album/2C8n8pK5u94uICrDUqKALU) | 3:21 | 2021-01-17 | 2022-04-18 |
-| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 | 2024-05-05 |
+| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 |  |
 
 \*This playlist was first scraped on 2020-10-13. Prior content cannot be recovered.

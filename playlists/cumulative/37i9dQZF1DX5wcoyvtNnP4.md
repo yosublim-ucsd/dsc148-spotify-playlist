@@ -4,7 +4,7 @@
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-134 songs - 6 hr 7 min
+135 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Stress You](https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Stress You](https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD) | 2:36 | 2023-10-13 | 2023-12-03 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-26 |  |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2023-09-01 |  |
+| [Sunset](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD) | [Ardo](https://open.spotify.com/artist/2pRsq9sIRuLua9GATrUlYy), [Jake Alva](https://open.spotify.com/artist/2wlOcE87YJtuiJS6fhOedm) | [Sunset](https://open.spotify.com/album/6qg4ulb0Ux2AF4kdJCVEYO) | 2:07 | 2024-04-30 |  |
 | [Sunset Wave](https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Sunset Wave](https://open.spotify.com/album/6g6IczQEJIyuG8QVKLEg6k) | 2:52 | 2024-04-09 |  |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-09-01 | 2023-12-19 |
 | [Taste like Summertime](https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA) | [OFF KEY JUNIOR](https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Taste like Summertime](https://open.spotify.com/album/3w1nX3zVWnhuKDmsuAwM9M) | 2:24 | 2023-09-08 | 2023-09-12 |
@@ -141,6 +142,6 @@
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-09-01 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2023-09-01 |  |
 | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs) | 2:38 | 2023-09-01 | 2024-01-24 |
-| [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 | 2024-03-27 |  |
+| [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 | 2024-03-27 | 2024-05-06 |
 
 \*This playlist was first scraped on 2023-09-07. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,946 likes - 51 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,951 likes - 51 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

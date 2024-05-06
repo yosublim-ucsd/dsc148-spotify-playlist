@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,387 songs - 2 day 4 hr 16 min
+1,388 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-05-06 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
@@ -346,6 +346,7 @@
 | [Elevator](https://open.spotify.com/track/7ISbNz7VjqbFlpahcUwRVB) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Elevator](https://open.spotify.com/album/7wXpxaQcmX3LpZW6w8CsGy) | 2:40 | 2022-01-27 | 2022-09-23 |
 | [Elevator Jazz](https://open.spotify.com/track/50sMOSMjts7Bb1spwweTUu) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Elevator Jazz](https://open.spotify.com/album/0EaI5LcG7IunT55ufaDduH) | 2:36 | 2022-11-25 | 2023-09-29 |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 | 2022-07-01 |
+| [Emelie](https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Emelie](https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L) | 2:34 | 2024-03-22 |  |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-05-19 | 2023-11-25 |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 | 2022-10-15 |
 | [Endless Sunday](https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5) | 2:40 | 2022-12-09 | 2023-09-16 |

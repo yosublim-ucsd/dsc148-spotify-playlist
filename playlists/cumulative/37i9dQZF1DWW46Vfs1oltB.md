@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Guess who...?? Happy Children's Day!\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: ZI...?? Happy Children's Day!\)
 
 1,201 songs - 2 day 17 hr 23 min
 

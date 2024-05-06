@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 ### [This Is A Boogie Wit da Hoodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBxkc)
 
-> This Is A Boogie Wit da Hoodie\. Los temas esenciales, todos en una lista.
+> This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,694 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,714 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/36Mq31otog86NGRflpMmkg) | 4:14 |
 | 52 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 
-Snapshot ID: `ZjQpAAAAAABhPGJLUl8aQ1eqeIhVGg04`
+Snapshot ID: `ZjQpAAAAAABnN1c8AS9KEhXEfKQk1agd`

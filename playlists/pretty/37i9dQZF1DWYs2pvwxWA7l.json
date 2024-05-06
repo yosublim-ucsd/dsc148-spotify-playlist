@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Tems",
-  "num_followers": 558530,
+  "num_followers": 558719,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -483,26 +483,6 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -599,22 +579,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "H\u00c9RITAGE",
-        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Le contrat",
-      "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -635,22 +615,22 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "POE",
-        "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 206000,
-      "name": "POE",
-      "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
+      "duration_ms": 231213,
+      "name": "Le contrat",
+      "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -699,22 +679,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 164737,
       "name": "Agent secret",
       "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "POE",
+        "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "POE",
+      "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 171236,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2024-05-03 00:01:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 ### [This Is Helmet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bwPeF)
 
-> This is Helmet\. The essential tracks, all in one playlist.
+> This is Helmet\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,884 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 40 | [Gun Fluf](https://open.spotify.com/track/3d3s4k7Si5iF1Zr3qosz6r) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:29 |
 | 41 | [Dislocated](https://open.spotify.com/track/2rPj6HNnYlc8FTHxAn6Qcd) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:19 |
 
-Snapshot ID: `ZjQpAAAAAADb1GN4ViROpCro2GkELzhD`
+Snapshot ID: `ZjQpAAAAAAClWKP32UQw1B20nqbWWB4M`

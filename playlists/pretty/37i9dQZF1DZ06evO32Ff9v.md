@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 ### [This Is Los Farmerz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32Ff9v)
 
-> This is Los Farmerz\. The essential tracks, all in one playlist.
+> This Is Los Farmerz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,520 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,570 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Jago](https://open.spotify.com/track/5XLmZg7aVmOEJIri2paR4q) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Jago](https://open.spotify.com/album/4Xl5BDRedpiODp0x11hPB7) | 2:56 |
 | 50 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
 
-Snapshot ID: `ZjQpAAAAAABSPBiO9XY6Hzl/gwoi4qLY`
+Snapshot ID: `ZjQpAAAAAACJsAVKSLr74jl9pWkAek/M`

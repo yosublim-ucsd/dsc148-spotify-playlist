@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
+> This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,096 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,310 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 51 | [Te Soñé \(En Vivo\)](https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Soñé \(En Vivo\)](https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX) | 3:43 |
 | 52 | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
 
-Snapshot ID: `ZjQpAAAAAAA7f4PuCzqzhMjDxEPorzQd`
+Snapshot ID: `ZjQpAAAAAACk3TLazTw7Z/+Q53chR4I+`

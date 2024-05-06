@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 76621,
+  "num_followers": 76701,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Tin Pan Alley",
+        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Cold Hearted Woman",
+      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 148826,
       "name": "Backlash Blues",
       "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Tin Pan Alley",
-        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Cold Hearted Woman",
-      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -307,34 +323,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Blues To The Bone",
         "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 215333,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 442346,
       "name": "So Easy To Love You",
       "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "I Must Be In A Good Place Now",
         "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 157640,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 177360,
       "name": "Uncloudy Day",
       "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Today I Sing the Blues",
-      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Taj Mahal",
         "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Today I Sing the Blues",
+      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/0y3Oa3xrl3RRgf9T492q6X"
-      },
-      "artists": [
-        {
-          "name": "Justin Lynn",
-          "url": "https://open.spotify.com/artist/59SDz8Aqxagj6epB2uFWbQ"
-        }
-      ],
-      "duration_ms": 227124,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Be Cool",
         "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "I'm Slippin' In (Mono Version)",
-        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/0y3Oa3xrl3RRgf9T492q6X"
       },
       "artists": [
         {
-          "name": "Ford Eaglin",
-          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
+          "name": "Justin Lynn",
+          "url": "https://open.spotify.com/artist/59SDz8Aqxagj6epB2uFWbQ"
         }
       ],
-      "duration_ms": 173164,
-      "name": "I'm Slippin' In",
-      "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
+      "duration_ms": 227124,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1103,6 +1087,22 @@
       "duration_ms": 515933,
       "name": "Ain't It A Shame",
       "url": "https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "I'm Slippin' In (Mono Version)",
+        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
+      },
+      "artists": [
+        {
+          "name": "Ford Eaglin",
+          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
+        }
+      ],
+      "duration_ms": 173164,
+      "name": "I'm Slippin' In",
+      "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
     },
     {
       "added_at": "2023-10-05 13:06:44",

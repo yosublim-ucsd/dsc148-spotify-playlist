@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 443658,
+  "num_followers": 452331,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -247,70 +247,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Rhinestone Cowboy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Rhinestone Cowboy",
-      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "With His Hot and Blue Guitar",
         "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
       },
@@ -331,18 +267,50 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 127520,
-      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) - Single Version",
-      "url": "https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2"
+      "duration_ms": 157893,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Rhinestone Cowboy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -359,6 +327,38 @@
       "duration_ms": 193093,
       "name": "Thank God I'm a Country Boy",
       "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 127520,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) - Single Version",
+      "url": "https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Mama Tried/ Pride In What I Am",
-        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 134453,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Mama Tried/ Pride In What I Am",
+        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+      "duration_ms": 134453,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Put Yourself In My Place",
         "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
       },
@@ -607,6 +591,42 @@
       "duration_ms": 239173,
       "name": "Maybe It Was Memphis",
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -643,22 +663,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -675,22 +679,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -791,24 +791,8 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
       "artists": [
         {
@@ -816,25 +800,9 @@
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Tammy's Greatest Hits",
-        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "D-I-V-O-R-C-E",
-      "url": "https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9"
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -851,6 +819,22 @@
       "duration_ms": 200826,
       "name": "All My Ex's Live In Texas",
       "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "D-I-V-O-R-C-E",
+      "url": "https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -887,22 +871,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -935,6 +903,22 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
         "name": "I Will Stand By You - The Essential Collection",
         "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 254640,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+      },
+      "artists": [
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
-      },
-      "artists": [
-        {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 164520,
       "name": "The Wild Side Of Life",
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
-        "name": "The Essential Marty Robbins 1951-1982",
-        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Singing the Blues",
-      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 185013,
       "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
       "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2024-05-04 20:18:13",

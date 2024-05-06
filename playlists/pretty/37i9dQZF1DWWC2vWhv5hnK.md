@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 ### [Kaiju No\. 8 怪獣8号 ](https://open.spotify.com/playlist/37i9dQZF1DWWC2vWhv5hnK)
 
-> Check out an exclusive voice message + related artist's tracks before the anime release date\. いよいよ4月13日放送。限定ボイスや作品世界を彩るアーティストたちの名曲を聴いて気分を高めよう！©防衛隊第３部隊 ©松本直也／集英社
+> Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,271 likes - 17 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,457 likes - 17 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 16 | [Kaiju Beats 1](https://open.spotify.com/track/5lUiOPtqtuO73eN2aNRfnn) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 1:55 |
 | 17 | [ミナとカフカ](https://open.spotify.com/track/1w8pEcZgKSqY4ttG854QVG) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [KIKORU 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/3VvCs79ckbnk0n0XyctHVG) | 1:57 |
 
-Snapshot ID: `ZjBTJwAAAACyRdenDts/kZCImW9n1UDk`
+Snapshot ID: `Zjd9GQAAAACXIGxdk/H0/PewkBr3rOK3`

@@ -4,7 +4,7 @@
 
 > love peace techno
 
-251 songs - 16 hr 28 min
+252 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Don't Stop The Party](https://open.spotify.com/track/3yU05u9gw48xEmBbjXij53) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Don't Stop The Party](https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO) | 3:05 | 2024-03-29 |  |
 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 | 2023-06-29 |  |
 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 | 2023-06-05 | 2023-06-10 |
+| [DR34M$](https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [DR34M$](https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os) | 2:36 | 2024-04-25 |  |
 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-15 | 2024-02-23 |
 | [Drowning](https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Drowning](https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94) | 4:20 | 2023-09-07 | 2023-09-13 |
 | [Du Verlierst Dich](https://open.spotify.com/track/0mS1XkpwqRGVrh98L12p7N) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Du Verlierst Dich](https://open.spotify.com/album/6mtW2rv2X8J9kDIJo9yLAz) | 3:43 | 2023-11-16 | 2023-11-24 |
@@ -108,7 +109,7 @@
 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 | 2023-09-15 | 2024-02-02 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-03-10 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-04-06 |  |
-| [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-10 |  |
+| [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-10 | 2024-05-06 |
 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 | 2023-11-02 |  |
 | [I Like](https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd) | [Bae Blade](https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA) | [Mixed Feelings](https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92) | 4:43 | 2023-09-01 | 2023-09-08 |
 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 | 2024-04-11 |  |

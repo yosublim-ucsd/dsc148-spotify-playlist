@@ -4272,10 +4272,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 160703,
       "name": "Stunt Double",
       "url": "https://open.spotify.com/track/6kR41UZn9nP1919TJsjtsn"
+    },
+    {
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/2EqcrSbhOA4zeUz9sepEgf"
+      },
+      "artists": [
+        {
+          "name": "Jayne Denham",
+          "url": "https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161458,
+      "name": "Stunt Double",
+      "url": "https://open.spotify.com/track/5LAAz2QNBubOceyLmEDPOY"
     },
     {
       "album": {

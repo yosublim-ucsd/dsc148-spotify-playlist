@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. The essential tracks, all in one playlist.
+> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,966 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,964 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 49 | [Dezembro](https://open.spotify.com/track/6D9an17SY65R2ALutmDzyk) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:47 |
 | 50 | [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 |
 
-Snapshot ID: `ZjQpAAAAAABuAmKZjF5l5/1yNhD6tG8I`
+Snapshot ID: `ZjQpAAAAAAAScudUOBw7cg9PcyfgR/0z`

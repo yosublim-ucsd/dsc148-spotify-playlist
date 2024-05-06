@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 ### [This Is Pancho Barraza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU)
 
-> This is Pancho Barraza\. The essential tracks, all in one playlist.
+> This Is Pancho Barraza\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,203 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,223 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 50 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
 
-Snapshot ID: `ZjQpAAAAAADqwKl0NBjKW0qf24rMIdA4`
+Snapshot ID: `ZjQpAAAAAAC0Ax48d8V0kedZvey52ZEp`

@@ -1,6 +1,6 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 494432,
+  "num_followers": 494598,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
         }
       ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -167,22 +171,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 379533,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -235,42 +235,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
-        }
-      ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
@@ -315,6 +279,42 @@
       "duration_ms": 332788,
       "name": "Leave Home",
       "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+        }
+      ],
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 322586,
       "name": "Journey to Arnhemland",
       "url": "https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 197400,
       "name": "Blue Flowers",
       "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "One Colour Just Reflects Another",
-        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
-      },
-      "artists": [
-        {
-          "name": "Up, Bustle & Out",
-          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
-      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Tone Tales From Tomorrow",
         "url": "https://open.spotify.com/album/1GZkKCcURaTItobePLur4B"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 241680,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "One Colour Just Reflects Another",
+        "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
+      },
+      "artists": [
+        {
+          "name": "Up, Bustle & Out",
+          "url": "https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Revolutionary Woman of The Windmill - Part Primera La Bandolera Del Molino",
+      "url": "https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -995,38 +995,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Dope On Plastic 2",
-        "url": "https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8"
-      },
-      "artists": [
-        {
-          "name": "Freakniks",
-          "url": "https://open.spotify.com/artist/1zuLvuDPCTbBxby5ZGBt0I"
-        }
-      ],
-      "duration_ms": 341984,
-      "name": "Plasmic Head",
-      "url": "https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "MAJOR FORCE RARE TRACKS",
-        "url": "https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd"
-      },
-      "artists": [
-        {
-          "name": "MAJOR FORCE PRODUCTIONS",
-          "url": "https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "ESSENTIAL DUB",
-      "url": "https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Dope On Plastic 2",
+        "url": "https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8"
+      },
+      "artists": [
+        {
+          "name": "Freakniks",
+          "url": "https://open.spotify.com/artist/1zuLvuDPCTbBxby5ZGBt0I"
+        }
+      ],
+      "duration_ms": 341984,
+      "name": "Plasmic Head",
+      "url": "https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 346160,
       "name": "Take Nine",
       "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "MAJOR FORCE RARE TRACKS",
+        "url": "https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd"
+      },
+      "artists": [
+        {
+          "name": "MAJOR FORCE PRODUCTIONS",
+          "url": "https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "ESSENTIAL DUB",
+      "url": "https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Bounty Killer III",
         "url": "https://open.spotify.com/album/2ef4BEAKWF6CYxBmFKrqwT"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 407768,
       "name": "Bounty Killer III [The Eyes of Johnny Ringo] - Single Version",
       "url": "https://open.spotify.com/track/1rkhWTb8a9CyByv5xMPLmi"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
     },
     {
       "added_at": "2023-06-20 20:30:21",

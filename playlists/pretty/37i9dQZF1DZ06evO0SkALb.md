@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This Is Lou Rawls\. Los temas esenciales, todos en una lista.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 11,336 likes - 50 songs - 3 hr 6 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [I Can't Make It Alone](https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 3:01 |
 | 50 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
 
-Snapshot ID: `ZjQpAAAAAAAdI/xuphCsl8gL6iVlpWgv`
+Snapshot ID: `ZjQpAAAAAAB/Z25bPXp8YGFqKkNyqWKH`

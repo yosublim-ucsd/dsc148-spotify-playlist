@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: k?d
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,180 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,189 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 79 | [Braincase](https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Braincase](https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r) | 3:12 |
 | 80 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 81 | [I Love You.](https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Love You.](https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9) | 4:06 |
-| 82 | [Do or Die \(feat\. Childish Gambino\)](https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Blow the Roof](https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz) | 4:05 |
-| 83 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 |
-| 84 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
+| 82 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
+| 83 | [Do or Die \(feat\. Childish Gambino\)](https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Blow the Roof](https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz) | 4:05 |
+| 84 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 |
 | 85 | [Lions \- Doctor P Remix](https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Lions \(Doctor P Remix\)](https://open.spotify.com/album/7xWxGshK3ogleWUz6WvnkL) | 4:33 |
 | 86 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
 | 87 | [Feel It \(feat\. Tunji Ige\)](https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Good Times Ahead](https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd) | 3:34 |

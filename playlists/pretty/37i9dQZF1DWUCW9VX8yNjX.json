@@ -1,6 +1,6 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76924,
+  "num_followers": 76916,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Tu Maniqu\u00ed",
         "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Es La Diferencia",
         "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
       },
@@ -203,6 +171,22 @@
       "duration_ms": 170106,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -223,26 +207,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Hoy Tengo Ganas De Ti",
-      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -259,6 +223,38 @@
       "duration_ms": 228413,
       "name": "Amor Gitano",
       "url": "https://open.spotify.com/track/1Kd5Qj9kicqjCw1BjWRzH0"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -307,54 +303,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Sigue la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/0U3QvaIc8vhmmr0eiIp7hk"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Viva Duets",
         "url": "https://open.spotify.com/album/5qUgjLlwgtsT0FUU84Fuy9"
       },
@@ -371,6 +319,26 @@
       "duration_ms": 226453,
       "name": "Return To Me (Regresa a M\u00ed) (with Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/0Sa6IGztmU0WO71xwN5Gnr"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Hoy Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -411,8 +379,8 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Peca de Bonita",
-        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+        "name": "Sigue la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
       },
       "artists": [
         {
@@ -420,9 +388,25 @@
           "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 147093,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
+      "duration_ms": 227973,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/0U3QvaIc8vhmmr0eiIp7hk"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -447,22 +431,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Si No Te Quisiera",
         "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
@@ -475,6 +443,22 @@
       "duration_ms": 189960,
       "name": "La Misma",
       "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -507,6 +491,22 @@
       "duration_ms": 212554,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/0BIdwub6gFNtiRe6NEGBtj"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Ya No Insistas Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 204056,
       "name": "Ya No Insistas Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Yo Nac\u00ed para Amarte",
-      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 189706,
       "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Yo Nac\u00ed para Amarte",
+      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0JlfAfg4FCFyoflmWUs4Fy"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/1Iw0F1mjaP8JL7hsMiB0X3"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Sigue la Dinast\u00eda",
         "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 291106,
       "name": "Amor de Mi Alma",
       "url": "https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0JlfAfg4FCFyoflmWUs4Fy"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/1Iw0F1mjaP8JL7hsMiB0X3"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2POwemGFltZ0yKkDKFfNuY"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 149053,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/79Ojka09hPbukvmBFo6QEK"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Bueno Fuera",
         "url": "https://open.spotify.com/album/3VYOHwI0gbnfBqqTNjGZsl"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 167013,
       "name": "Bueno Fuera",
       "url": "https://open.spotify.com/track/3jAtJyWqz91Mcv5KY1yKWG"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2POwemGFltZ0yKkDKFfNuY"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 149053,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79Ojka09hPbukvmBFo6QEK"
     },
     {
       "added_at": "2024-04-09 17:23:39",

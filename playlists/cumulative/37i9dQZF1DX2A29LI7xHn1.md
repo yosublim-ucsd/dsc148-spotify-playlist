@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: 4batz
 
-863 songs - 1 day 19 hr 10 min
+864 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [FLYLIKEDIS](https://open.spotify.com/track/2u73qt5DYi05CuJfZDsB4A) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [FLYLIKEDIS](https://open.spotify.com/album/1IiIm2TgBtdkUuuJrmu8Z4) | 2:54 | 2022-08-19 | 2022-09-24 |
 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 | 2022-02-18 | 2022-07-09 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-03 | 2022-02-26 |
-| [Freak \(feat\. Lil Wayne, Joyner Lucas & Tee Grizzley\)](https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 4:07 | 2024-04-12 |  |
+| [Freak \(feat\. Lil Wayne, Joyner Lucas & Tee Grizzley\)](https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 4:07 | 2024-04-12 | 2024-05-06 |
 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 | 2023-10-13 | 2023-10-28 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-25 | 2022-06-11 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2023-01-20 | 2023-01-28 |
@@ -539,6 +539,7 @@
 | [No Stoppin ft\. Blxst](https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Stoppin ft\. Blxst](https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz) | 2:57 | 2022-06-24 | 2023-04-01 |
 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 | 2022-02-11 | 2022-07-02 |
 | [NONCHALANT \(feat\. Mamii\)](https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 3:24 | 2022-06-17 | 2022-08-13 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-09-03 | 2022-02-26 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-03 |  |
 | [Oh Oh](https://open.spotify.com/track/0aA3U4en3uNGEE3lQX3gfu) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Oh Oh](https://open.spotify.com/album/4U1sRhF0AsJxgazR8yZfMW) | 2:52 | 2022-04-29 | 2022-06-25 |

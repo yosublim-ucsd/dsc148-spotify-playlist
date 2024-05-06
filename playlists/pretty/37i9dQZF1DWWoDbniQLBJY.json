@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1902032,
+  "num_followers": 1902009,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Mi Verdad (feat. Shakira)",
         "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 344666,
       "name": "Vivir Sin Aire - Unplugged",
       "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Mar\u00eda - Unplugged",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda - Unplugged",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -815,22 +831,6 @@
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Cuanto antes (feat. Lali)",
-        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "Cuanto antes (feat. Lali)",
-      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Cuanto antes (feat. Lali)",
+        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 226844,
+      "name": "Cuanto antes (feat. Lali)",
+      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Dimos Tanto",
         "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
         "name": "Los Cuatro Actos Ac\u00fasticos",
         "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 260709,
       "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Underdog (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Underdog - Acoustic Version",
+      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Underdog (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Underdog - Acoustic Version",
-      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Mocca",
         "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
     },
     {
       "added_at": "2024-04-19 15:27:41",

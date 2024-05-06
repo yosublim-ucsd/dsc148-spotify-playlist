@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11868,
+  "num_followers": 11869,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,38 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Full of happiness",
+      "url": "https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Just A Feeling - Original Version",
+      "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -263,22 +295,6 @@
       "duration_ms": 226160,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Full of happiness",
-      "url": "https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -315,18 +331,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Just A Feeling - Original Version",
-      "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -343,22 +359,6 @@
       "duration_ms": 193085,
       "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
       "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -395,6 +395,54 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "\ud574\uacb0\uc0ac - The 1st Album",
+        "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "\ud574\uacb0\uc0ac",
+      "url": "https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "DJ. DOC 4th Album",
         "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
@@ -427,34 +475,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+        "name": "Dr. Park",
+        "url": "https://open.spotify.com/album/6nzJZMApUbogDG3EctGzO6"
       },
       "artists": [
         {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+          "name": "\ubc15\uba85\uc218",
+          "url": "https://open.spotify.com/artist/1aCvTvFylQbGlKetfucVJY"
         }
       ],
-      "duration_ms": 216133,
-      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
-      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "\ud574\uacb0\uc0ac - The 1st Album",
-        "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "\ud574\uacb0\uc0ac",
-      "url": "https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC"
+      "duration_ms": 242628,
+      "name": "Prince of the sea",
+      "url": "https://open.spotify.com/track/3OTSFhD4vXLOH10i0FUPgA"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -475,34 +507,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Dr. Park",
-        "url": "https://open.spotify.com/album/6nzJZMApUbogDG3EctGzO6"
+        "name": "Two Two",
+        "url": "https://open.spotify.com/album/3cSV8ZngUO3pcsIcywOsFu"
       },
       "artists": [
         {
-          "name": "\ubc15\uba85\uc218",
-          "url": "https://open.spotify.com/artist/1aCvTvFylQbGlKetfucVJY"
+          "name": "TwoTwo",
+          "url": "https://open.spotify.com/artist/4OpNmopaGZHsiNNRfuytJ0"
         }
       ],
-      "duration_ms": 242628,
-      "name": "Prince of the sea",
-      "url": "https://open.spotify.com/track/3OTSFhD4vXLOH10i0FUPgA"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+      "duration_ms": 237348,
+      "name": "One and a Half",
+      "url": "https://open.spotify.com/track/0qTLCmhkp01C4oyF7kdANv"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -519,22 +535,6 @@
       "duration_ms": 249226,
       "name": "Eternal Love",
       "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Two Two",
-        "url": "https://open.spotify.com/album/3cSV8ZngUO3pcsIcywOsFu"
-      },
-      "artists": [
-        {
-          "name": "TwoTwo",
-          "url": "https://open.spotify.com/artist/4OpNmopaGZHsiNNRfuytJ0"
-        }
-      ],
-      "duration_ms": 237348,
-      "name": "One and a Half",
-      "url": "https://open.spotify.com/track/0qTLCmhkp01C4oyF7kdANv"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
-        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Wrongful Meeting",
-      "url": "https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Seotaiji and Boys II",
         "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 277160,
       "name": "To You",
       "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
+        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Wrongful Meeting",
+      "url": "https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "T.O.P - The 2nd Album",
         "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193066,
       "name": "In the Bus",
       "url": "https://open.spotify.com/track/0LaA1sGPUm6jUNAjWZ7rV0"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Let's Go To My Star",
-        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "\ubc14\uafd4",
-      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Fine Killing Liberty : Blue Rain",
         "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 251973,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "\ubc14\uafd4",
+      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
-      },
-      "artists": [
-        {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
-        }
-      ],
-      "duration_ms": 226220,
-      "name": "\ud30c\ub780",
-      "url": "https://open.spotify.com/track/3TDKL7ULjxEtFurcn4P4S2"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "School Byeolgok",
-        "url": "https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "The way this guy lives",
-      "url": "https://open.spotify.com/track/3zpTFOea1bEMJxj0gwBDSZ"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1007,22 +975,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Jungle New Style",
-        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Eve's Warning",
-      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -1039,22 +991,50 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
-        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+        "name": "School Byeolgok",
+        "url": "https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q"
       },
       "artists": [
         {
-          "name": "\ud669\ud61c\uc601",
-          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
-        },
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 237029,
-      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
-      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+      "duration_ms": 240560,
+      "name": "The way this guy lives",
+      "url": "https://open.spotify.com/track/3zpTFOea1bEMJxj0gwBDSZ"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Jungle New Style",
+        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
+      },
+      "artists": [
+        {
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Eve's Warning",
+      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 226220,
+      "name": "\ud30c\ub780",
+      "url": "https://open.spotify.com/track/3TDKL7ULjxEtFurcn4P4S2"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1087,6 +1067,26 @@
       "duration_ms": 222200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/36iEQYW3jx9jsfETI5drEc"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+      },
+      "artists": [
+        {
+          "name": "\ud669\ud61c\uc601",
+          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+        }
+      ],
+      "duration_ms": 237029,
+      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
+      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\ube44\uc0c1",
-        "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
-      },
-      "artists": [
-        {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
-        }
-      ],
-      "duration_ms": 251773,
-      "name": "\ube44\uc0c1",
-      "url": "https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "I Love Natural",
         "url": "https://open.spotify.com/album/5hliZRj6sFdXxLodgGVoHq"
       },
@@ -1203,6 +1187,38 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "\ube44\uc0c1",
+        "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "\ube44\uc0c1",
+      "url": "https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "\uc5c4\ub9c8\uc758 \uc77c\uae30",
         "url": "https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b"
       },
@@ -1231,38 +1247,6 @@
       "duration_ms": 140253,
       "name": "\ubd89\uc740 \ub178\uc744",
       "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Road Fighter",
-        "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Road Fighter",
-      "url": "https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Papaya 1st",
-        "url": "https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf"
+        "name": "Road Fighter",
+        "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
       },
       "artists": [
         {
-          "name": "Papaya",
-          "url": "https://open.spotify.com/artist/4y739qehPAFewYCj2YILWs"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 214026,
-      "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
-      "url": "https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F"
+      "duration_ms": 200306,
+      "name": "Road Fighter",
+      "url": "https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
+        "name": "Papaya 1st",
+        "url": "https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf"
       },
       "artists": [
         {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+          "name": "Papaya",
+          "url": "https://open.spotify.com/artist/4y739qehPAFewYCj2YILWs"
         }
       ],
-      "duration_ms": 237165,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
+      "duration_ms": 214026,
+      "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
+      "url": "https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "Exchange Kg. M4",
         "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
-        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
-      },
-      "artists": [
-        {
-          "name": "\ud0dc\uc0ac\uc790 Taesaja",
-          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "\ub3c4 The Way",
-      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
+        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc0ac\uc790 Taesaja",
+          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "\ub3c4 The Way",
+      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "Click-B",
         "url": "https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF"
       },
@@ -1455,6 +1455,38 @@
       "duration_ms": 242093,
       "name": "To Be Continued",
       "url": "https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "\ub108",
+        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "\ub108 - Bonus Track/Techno Version",
+      "url": "https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1523,38 +1555,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "\ub108",
-        "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "\ub108 - Bonus Track/Techno Version",
-      "url": "https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "2nd Album",
         "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
       },
@@ -1587,34 +1587,34 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Are You Ready?",
-        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
+        "name": "VOICE MAIL",
+        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
       },
       "artists": [
         {
-          "name": "Clon",
-          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
         }
       ],
-      "duration_ms": 238133,
-      "name": "I",
-      "url": "https://open.spotify.com/track/4loryE03FrYXDvuUy8e9eM"
+      "duration_ms": 217417,
+      "name": "\ud3c9\uc0dd",
+      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
     },
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "The Life\u2026 DOC Blues",
-        "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
       "artists": [
         {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
         }
       ],
-      "duration_ms": 224840,
-      "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
-      "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
     }
   ],
   "unique_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",

@@ -4,7 +4,7 @@
 
 > 
 
-1,334 songs - 3 day 1 hr 30 min
+1,335 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1337,6 +1337,7 @@
 | [You Remind Me](https://open.spotify.com/track/2iOJy7OPFt37NwPW3eVIgs) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [You Remind Me](https://open.spotify.com/album/46KjtBkJWrva321fovmw7P) | 3:02 | 2024-02-07 |  |
 | [You Rock!](https://open.spotify.com/track/4N4p3fRbjCwrJhGcB5UH3e) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [You Rock!](https://open.spotify.com/album/377IgxpXlja6hMirxNA02i) | 3:02 | 2023-03-25 |  |
 | [Your Betrayal](https://open.spotify.com/track/0S8sprtAdgAdyEBahV2WFK) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Your Betrayal](https://open.spotify.com/album/1xIL1EQT68QZIPdn7FLrbD) | 2:22 | 2023-10-06 |  |
+| [Your Love](https://open.spotify.com/track/0PQ9Ops8s7CYkSUW3j5VGI) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Your Love](https://open.spotify.com/album/6Vqojm5fB6dSNbXjckGPGd) | 3:18 | 2024-05-05 |  |
 | [Your Love](https://open.spotify.com/track/1vxZ0e3UKjCWcpGp5qBnE0) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Menta](https://open.spotify.com/artist/49y1iHhXJKGVq8VF38xKGO) | [Your Love](https://open.spotify.com/album/3jmwcpikC2jx4d6occ2TyY) | 3:15 | 2022-09-28 |  |
 | [Zombie \(20th year edition\)](https://open.spotify.com/track/07JpAoZwnQJYZRPm9aCBEA) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Markos 13](https://open.spotify.com/artist/0iSjEHmkrsVB5ZynQyS2A9), [DJ Ruboy](https://open.spotify.com/artist/47YQvtHo5cn0S4j07Umw1t) | [Zombie \(20th year edition\)](https://open.spotify.com/album/45qBxGaC5AOyIosZ7OBIhx) | 4:26 | 2022-10-30 |  |
 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 | 2024-03-02 |  |

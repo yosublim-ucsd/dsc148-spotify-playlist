@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=HiPi0eTOTaGlT9gbytUBvw">Zaan Sonnekus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,940 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,949 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 33 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
 | 34 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
 | 35 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
-| 36 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
-| 37 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
-| 38 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
+| 36 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
+| 37 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
+| 38 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
 | 39 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
-| 40 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
+| 40 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 | 41 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
 | 42 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
 | 43 | [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 |
-| 44 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
-| 45 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
-| 46 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
-| 47 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 |
-| 48 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 |
-| 49 | [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 |
-| 50 | [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 |
+| 44 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 |
+| 45 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
+| 46 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
+| 47 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
+| 48 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 |
+| 49 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 |
+| 50 | [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 |
 
 Snapshot ID: `ZjSIPAAAAACUy4/Ex2c05XmD8THBoRvn`

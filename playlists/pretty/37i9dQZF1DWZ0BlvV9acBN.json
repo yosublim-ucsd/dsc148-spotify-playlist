@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 136006,
+  "num_followers": 136020,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -315,22 +315,6 @@
       "duration_ms": 234771,
       "name": "\u00caxodo - ao vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -419,6 +403,22 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -503,18 +487,18 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+        "name": "Atitud Ao Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+      "duration_ms": 337930,
+      "name": "Derrama Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -535,24 +519,8 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "Atitud Ao Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 337930,
-      "name": "Derrama Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
-        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
       },
       "artists": [
         {
@@ -560,9 +528,25 @@
           "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 397750,
-      "name": "H\u03a3R\u039eGE",
-      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
+        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
+        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 397750,
+      "name": "H\u03a3R\u039eGE",
+      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -647,38 +647,18 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "A Est\u00e1tua",
-        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Diego Rox",
-          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 207087,
-      "name": "A Est\u00e1tua",
-      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -699,38 +679,18 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
-        }
-      ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -771,6 +731,46 @@
       "duration_ms": 215836,
       "name": "Vestido Azul",
       "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
+        }
+      ],
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
+        "name": "A Est\u00e1tua",
+        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Diego Rox",
+          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
+        }
+      ],
+      "duration_ms": 207087,
+      "name": "A Est\u00e1tua",
+      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -823,22 +823,6 @@
       "duration_ms": 252745,
       "name": "DESMANCHOU",
       "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-04-22 12:42:37",
       "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
         "name": "Ex\u00edlio",
         "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
-    },
-    {
-      "added_at": "2024-04-22 12:42:37",
-      "album": {
-        "name": "Fui Encontrado",
-        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 193662,
-      "name": "Fui Encontrado",
-      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2024-04-22 12:42:37",
@@ -1111,6 +1095,22 @@
       "duration_ms": 296500,
       "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/2JgFmY60kpblVPw7uHChSz"
+    },
+    {
+      "added_at": "2024-04-22 12:42:37",
+      "album": {
+        "name": "Fui Encontrado",
+        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 193662,
+      "name": "Fui Encontrado",
+      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2024-04-22 12:42:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Sela Good
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,962 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,996 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

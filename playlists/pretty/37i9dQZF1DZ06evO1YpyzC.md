@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 ### [This Is Kane Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YpyzC)
 
-> This is Kane Brown\. The essential tracks, all in one playlist.
+> This Is Kane Brown\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,990 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,044 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 50 | [Grits & Glamour \(feat\. Kane Brown\)](https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:53 |
 | 51 | [Move On](https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:11 |
 
-Snapshot ID: `ZjQpAAAAAABp5coreb4to1L7WPX/AR7w`
+Snapshot ID: `ZjQpAAAAAACbYo203wv3M6HyoIYVWL0v`

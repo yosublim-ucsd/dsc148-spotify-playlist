@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This is El Tri\. The essential tracks, all in one playlist.
+> This Is El Tri\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,311 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,335 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d) | [Té de Brujas](https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq) | 4:27 |
 | 50 | [Solamente Dios](https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No te olvides de la banda](https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs) | 5:06 |
 
-Snapshot ID: `ZjQpAAAAAAC60UpKzAFET+XkrRoaJp1/`
+Snapshot ID: `ZjQpAAAAAABK6NQVTdMdweg5Acg4U+KI`

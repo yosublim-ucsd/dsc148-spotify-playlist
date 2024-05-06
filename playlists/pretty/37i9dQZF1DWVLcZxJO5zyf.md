@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379,025 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,917 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

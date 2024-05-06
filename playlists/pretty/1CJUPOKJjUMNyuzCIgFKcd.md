@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,887 likes - 80 songs - 3 hr 27 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,886 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

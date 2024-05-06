@@ -1,6 +1,6 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1450823,
+  "num_followers": 1450934,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -75,6 +59,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -145,22 +161,6 @@
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
       "added_at": "2023-12-12 18:41:15",
       "album": {
         "name": "Full Moon Fever",
@@ -179,34 +179,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -239,6 +223,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 173133,
       "name": "Dia de Enero",
       "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 254240,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -995,22 +1011,6 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 217986,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 183973,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "El Grito Del Tiempo",
         "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Como Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 175493,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
       "artists": [
         {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 247693,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1563,6 +1547,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     }
   ],
   "unique_name": "Viaje en Carretera Nostalgia",

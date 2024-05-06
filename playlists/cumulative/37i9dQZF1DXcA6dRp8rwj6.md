@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Kendrick Lamar\)
 
-1,972 songs - 4 day 3 hr 58 min
+1,975 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Falling](https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Falling](https://open.spotify.com/album/44hLQThkyttusgoILcncyl) | 2:35 | 2022-03-10 | 2022-04-01 |
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-10 | 2022-03-11 |
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2022-08-18 | 2022-09-30 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 |  |
 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 | 2023-07-14 | 2023-09-01 |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-15 | 2023-11-11 |
 | [Fantastic](https://open.spotify.com/track/2F7NvpwFjJjMTaCurLvAYA) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fantastic](https://open.spotify.com/album/2aYX2QDnxVLqivY6tjM7Pd) | 2:49 | 2022-09-29 | 2022-11-18 |
@@ -1042,6 +1043,7 @@
 | [mean2me](https://open.spotify.com/track/582l9aKrm0bhRlFwyxJJRp) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [mean2me](https://open.spotify.com/album/5oYSfYcJLakUJ76SCzWPJb) | 2:41 | 2022-03-10 | 2022-04-01 |
 | [Meat This](https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Meat This](https://open.spotify.com/album/0y1b2ZeIbGhkOcHODiUBxe) | 2:26 | 2022-05-19 | 2022-06-24 |
 | [medication](https://open.spotify.com/track/4FJDwlnYhQdarD7IW9j65w) | [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9), [AidEn](https://open.spotify.com/artist/5t5JcWruIabWXaVGrzwNBL) | [medication](https://open.spotify.com/album/48vi1kB5L9UasR2w85n4nr) | 2:42 | 2023-04-27 | 2023-06-09 |
+| [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-05 |  |
 | [Meet The Walkers 2 \(With Nardo Wick\)](https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Meet The Walkers 2 \(With Nardo Wick\)](https://open.spotify.com/album/2cLUowGZhWDNrxBhQM4xYc) | 3:06 | 2022-10-27 | 2022-12-09 |
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-09-22 | 2022-11-11 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-28 | 2024-01-05 |
@@ -1185,6 +1187,7 @@
 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-28 | 2022-03-04 |
 | [Not Forreal](https://open.spotify.com/track/5bqnceBIYsqwOw6RB43gCt) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Orphan](https://open.spotify.com/album/4qjofDdQMKgNB66cXAPVuj) | 2:30 | 2022-07-07 | 2022-08-19 |
 | [Not Like Me](https://open.spotify.com/track/0Od2A2nGOOLPE2XTQJyUaK) | [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [Unbreakable \(Deluxe\)](https://open.spotify.com/album/5cylcDkzqTjkGb7GPhJuUr) | 2:51 | 2022-03-24 | 2022-04-08 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [Not My Style](https://open.spotify.com/track/41VjnGusDkGJLmk8JMik0I) | [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D), [Mickeyleano](https://open.spotify.com/artist/6F5Rx2IqlhNXoIRLrVb9bH) | [Not My Style](https://open.spotify.com/album/6JaHUSVSDj7LAfLkiEYIMg) | 4:38 | 2022-10-06 | 2022-11-18 |
 | [Not The Same God As Mine](https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not The Same God As Mine](https://open.spotify.com/album/6FOe6OxItoBp8M9uQKO6ke) | 2:44 | 2022-01-20 | 2022-01-28 |
 | [Not Your Average](https://open.spotify.com/track/1ND2hKqNoCpzNiGGg0jKzR) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Not Your Average](https://open.spotify.com/album/21aIepydJ8Y4gZTkG9P8Qx) | 1:58 | 2022-03-18 | 2022-04-15 |

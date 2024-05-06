@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 93305,
+  "num_followers": 93472,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Universal Credit (Deluxe)",
         "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Osama (Bruno Be, Ralk Rework)",
         "url": "https://open.spotify.com/album/5Tds5Ajn5nx4GMId45f9TV"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
       "artists": [
         {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 182270,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-12-01 18:29:06",
@@ -863,6 +843,26 @@
       "duration_ms": 194026,
       "name": "Vem com tudo",
       "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 182270,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "The Gates Will Open",
         "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "DOOLALLY",
         "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
       },
@@ -1299,6 +1299,26 @@
       "duration_ms": 202493,
       "name": "DOOLALLY",
       "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
+    },
+    {
+      "added_at": "2024-05-03 21:11:33",
+      "album": {
+        "name": "Running Water",
+        "url": "https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt"
+      },
+      "artists": [
+        {
+          "name": "Soo Joo",
+          "url": "https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 240218,
+      "name": "Running Water",
+      "url": "https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1355,66 +1375,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2024-05-03 21:11:33",
-      "album": {
-        "name": "Running Water",
-        "url": "https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt"
-      },
-      "artists": [
-        {
-          "name": "Soo Joo",
-          "url": "https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 240218,
-      "name": "Running Water",
-      "url": "https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "EZ 4 Me",
-        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "EZ 4 Me",
-      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1439,6 +1399,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Better Than I?",
         "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 145861,
       "name": "Better Than I?",
       "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Devaney",
+          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+        }
+      ],
+      "duration_ms": 148674,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Haunt My Mind (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 205140,
       "name": "Haunt My Mind - Machinedrum Remix",
       "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Devaney",
-          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
-        }
-      ],
-      "duration_ms": 148674,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao"
       },
@@ -1651,6 +1635,38 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "EAZI",
+        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
+      },
+      "artists": [
+        {
+          "name": "Young Eman",
+          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "EAZI",
+      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "EAZI",
-        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
       },
       "artists": [
         {
-          "name": "Young Eman",
-          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
         }
       ],
-      "duration_ms": 150474,
-      "name": "EAZI",
-      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1915,26 +1915,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Mamgobhozi",
-        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
+        "name": "R.A.V.E.A.S.A.P - The Remixes",
+        "url": "https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
         }
       ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi",
-      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
+      "duration_ms": 212790,
+      "name": "R.A.V.E.A.S.A.P (Unglued Remix)",
+      "url": "https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1955,22 +1951,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "R.A.V.E.A.S.A.P - The Remixes",
-        "url": "https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT"
+        "name": "Mamgobhozi",
+        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
       },
       "artists": [
         {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 212790,
-      "name": "R.A.V.E.A.S.A.P (Unglued Remix)",
-      "url": "https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W"
+      "duration_ms": 236379,
+      "name": "Mamgobhozi",
+      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

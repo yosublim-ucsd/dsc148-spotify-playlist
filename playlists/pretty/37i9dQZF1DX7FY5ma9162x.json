@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Bryson Tiller",
-  "num_followers": 256828,
+  "num_followers": 256877,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -127,38 +159,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -431,6 +451,38 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 306847,
+      "name": "Angel Numbers / Ten Toes",
+      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -459,34 +511,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 306847,
-      "name": "Angel Numbers / Ten Toes",
-      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -503,42 +539,6 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -575,42 +575,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -643,6 +607,42 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "You Right",
+      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 251038,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 251038,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/2LHJHzuCQV0VQHJOdNufjH"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1607,30 +1607,6 @@
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1671,6 +1647,30 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2024-05-03 04:00:00",

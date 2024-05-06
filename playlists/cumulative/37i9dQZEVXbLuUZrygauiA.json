@@ -4781,6 +4781,28 @@
     },
     {
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
+    },
+    {
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -6551,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Cierre Rkt",
+        "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
+      },
+      "artists": [
+        {
+          "name": "Eze Remix",
+          "url": "https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT"
+        },
+        {
+          "name": "Matt Sebastian",
+          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120018,
+      "name": "Cierre Rkt",
+      "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
+    },
+    {
+      "album": {
         "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
         "url": "https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v"
       },
@@ -7324,7 +7368,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
@@ -15110,7 +15154,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Hoy Me Levante",
       "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
@@ -15248,7 +15292,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 198081,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
@@ -16974,7 +17018,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 182491,
       "name": "La Guerita",
       "url": "https://open.spotify.com/track/6r2z1MdEQrFvAwxkNeEBAQ"
@@ -20398,7 +20442,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -29638,7 +29682,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 165261,
       "name": "SC-9",
       "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"

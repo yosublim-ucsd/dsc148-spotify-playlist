@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-1,316 songs - 3 day 4 hr 47 min
+1,317 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-13 | 2023-12-30 |
 | [Fallen Fruit](https://open.spotify.com/track/1F4QwL9Rj3retjba8AmkfA) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 3:58 | 2021-08-22 | 2021-09-12 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-26 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-08-29 | 2021-09-12 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 | 2021-09-12 | 2021-09-28 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-12 | 2024-03-06 |
@@ -1263,7 +1264,7 @@
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2023-10-08 | 2023-10-11 |
 | [What You Know Bout Love](https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 | 2021-03-27\* | 2021-04-24 |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2023-05-25 | 2023-05-30 |
-| [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-04 |  |
+| [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-04 | 2024-05-06 |
 | [Whatever She Wants \[BONUS\]](https://open.spotify.com/track/7aQ1tSYr518KwnE4SVSQbT) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:41 | 2024-04-06 | 2024-04-17 |
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-03-27\* | 2021-03-29 |
 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 | 2023-07-08 | 2023-07-13 |

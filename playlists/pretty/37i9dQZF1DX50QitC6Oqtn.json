@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3488322,
+  "num_followers": 3488223,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -407,38 +423,26 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -455,6 +459,26 @@
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -527,30 +551,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Beautiful People (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -615,22 +635,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -647,6 +651,22 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -723,22 +743,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Beautiful People (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Beautiful People (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -803,22 +819,6 @@
       "duration_ms": 211240,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2024-03-18 14:09:49",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/2BM5FQCILC33Va2jOZ11Mu"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "I Can't Fall in Love Without You",
-      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1083,22 +1067,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Slow Dance (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 178799,
-      "name": "Slow Dance (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
+      "duration_ms": 180640,
+      "name": "I Can't Fall in Love Without You",
+      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1131,6 +1111,26 @@
       "duration_ms": 147070,
       "name": "Let Me Move You - From the Netflix film \"Work It\"",
       "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Slow Dance (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178799,
+      "name": "Slow Dance (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 194686,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W"
+      "duration_ms": 238973,
+      "name": "If You Ever Want To Be In Love",
+      "url": "https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 238973,
-      "name": "If You Ever Want To Be In Love",
-      "url": "https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4"
+      "duration_ms": 194686,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Truly Madly Completely - The Best of Savage Garden",
-        "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Truly Madly Completely - The Best of Savage Garden",
+        "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Can I Be Him (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164373,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1603,6 +1587,22 @@
       "duration_ms": 165596,
       "name": "Chills",
       "url": "https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164373,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp"
     },
     {
       "added_at": "2022-12-08 16:33:34",

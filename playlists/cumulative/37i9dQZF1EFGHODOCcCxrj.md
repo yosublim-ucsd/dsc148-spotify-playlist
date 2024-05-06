@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-76 songs - 9 hr 3 min
+79 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Crude Drawing Of An Angel](https://open.spotify.com/track/77ySu72hStpWbl3EZZiXzJ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:29 | 2024-05-01 |  |
 | [Crystal Ball](https://open.spotify.com/track/2dy6A3dU30eu4xhsu4tYAj) | [FEMM](https://open.spotify.com/artist/2Mi7J9LAIe6xEzObKt6JHq) | [Tokyo Ex Machina](https://open.spotify.com/album/7r52y5B7Vo8Eg52PZC7E9I) | 4:01 | 2024-05-01 |  |
 | [Dang](https://open.spotify.com/track/0ZWUnLoyji01PyE6qWKp2y) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 2:44 | 2024-05-01 |  |
-| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-05-01 |  |
+| [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 | 2024-05-05 |  |
+| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-05-01 | 2024-05-06 |
 | [Do You Remember](https://open.spotify.com/track/26ETISqSBZl159lQO5AtZk) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:23 | 2024-05-01 |  |
 | [Do You Wanna Party](https://open.spotify.com/track/1L73UeytIAF3mkd8DA1hZt) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 3:21 | 2024-05-01 |  |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2024-05-01 |  |
@@ -45,10 +46,12 @@
 | [Higher](https://open.spotify.com/track/1DOrJ7Yb4osgBZ6p19WRPh) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0) | [Higher](https://open.spotify.com/album/37ylYw4TRqFAEYgQ7F1HYN) | 3:25 | 2024-05-01 |  |
 | [Highest Building](https://open.spotify.com/track/6vd4SM9P40ZFLPVSHpzsJk) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/0XzZkJXmgnY3o2LbuPYmQg) | 3:36 | 2024-05-01 |  |
 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 | 2024-05-01 |  |
-| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-05-01 |  |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-05-01 | 2024-05-06 |
+| [Houdini](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:05 | 2024-05-05 |  |
 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2024-05-01 |  |
 | [I Feel Alright](https://open.spotify.com/track/723TSBtH8XHrx5iGhTXYtu) | [Bonzai](https://open.spotify.com/artist/5BydzSmKBIh8HkWFwx4Rrg) | [I Feel Alright](https://open.spotify.com/album/3HvST025ZBfVOtbfCFAyda) | 3:15 | 2024-05-01 |  |
-| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-05-01 |  |
+| [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-05-01 | 2024-05-06 |
+| [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-05 |  |
 | [ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:16 | 2024-05-01 |  |
 | [Insomnia](https://open.spotify.com/track/1hEusmjsW1ZxqmBYs9AmfR) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:14 | 2024-05-01 |  |
 | [Interlocked](https://open.spotify.com/track/53ClYkBItyVBclAdFVMJt5) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Mayhem](https://open.spotify.com/artist/3n2IwUzU4qAAITPTGtoQWp) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 2:46 | 2024-05-01 |  |

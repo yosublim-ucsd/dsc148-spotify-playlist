@@ -383,6 +383,32 @@
     },
     {
       "album": {
+        "name": "Bubblegum Bitch / We Fell Apart (Hardstyle)",
+        "url": "https://open.spotify.com/album/1N8XxgtuMSAm8cH3rzsB1H"
+      },
+      "artists": [
+        {
+          "name": "BAKI",
+          "url": "https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW"
+        },
+        {
+          "name": "ZYZZ",
+          "url": "https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM"
+        },
+        {
+          "name": "GYM HARDSTYLE",
+          "url": "https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97995,
+      "name": "Bubblegum Bitch / We Fell Apart - Hardstyle",
+      "url": "https://open.spotify.com/track/5aaMlQdIJDkbXLdWAG00Df"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -638,7 +664,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
@@ -3326,7 +3352,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -4511,6 +4537,24 @@
     },
     {
       "album": {
+        "name": "NEXT LEVEL",
+        "url": "https://open.spotify.com/album/5i9F0l9RHeYcuLhZSYPq9y"
+      },
+      "artists": [
+        {
+          "name": "Neverlove",
+          "url": "https://open.spotify.com/artist/6ZTZ9okCK9fUOb0N6ivKjm"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "\u0410\u043b\u044c\u0442\u0443\u0448\u043a\u0430",
+      "url": "https://open.spotify.com/track/4RlYLonfZmQC4ktTlwQiJs"
+    },
+    {
+      "album": {
         "name": "\u0410\u043d\u0433\u0435\u043b",
         "url": "https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP"
       },
@@ -4566,7 +4610,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 128000,
       "name": "\u0411\u0438\u0433 \u0421\u0438\u0442\u0438 \u041b\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI"
@@ -6562,7 +6606,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "\u0422\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c \u043c\u0430\u043d\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/1ZgW0cKoTL2hnIR6QlN64g"

@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 517303,
+  "num_followers": 517380,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,38 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -217,38 +249,6 @@
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
     },
     {
-      "added_at": "2024-02-02 04:34:02",
-      "album": {
-        "name": "The Moon Is In The Wrong Place",
-        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 179543,
-      "name": "The Moon Is In The Wrong Place",
-      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
-    },
-    {
       "added_at": "2024-05-03 14:18:04",
       "album": {
         "name": "Setan Dolbon",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Ananda Shankar (US Internet Release)",
         "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 215866,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+    },
+    {
+      "added_at": "2024-02-02 04:34:02",
+      "album": {
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -529,22 +545,6 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
-      "added_at": "2024-01-03 18:35:56",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0ZaexXPVwgJtoglTfM8BmJ"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 187489,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo"
-    },
-    {
       "added_at": "2023-11-24 01:15:27",
       "album": {
         "name": "Egypt",
@@ -559,6 +559,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2024-01-03 18:35:56",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0ZaexXPVwgJtoglTfM8BmJ"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 187489,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -595,18 +611,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
         }
       ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -623,22 +639,6 @@
       "duration_ms": 125973,
       "name": "Boudicaaa",
       "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Time Bazaar",
         "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236000,
       "name": "Time Bazaar",
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Breathe in, Breathe Out",
         "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "EL ELIXIR DE TUS LABIOS",
-        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "EL ELIXIR DE TUS LABIOS",
-      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
         "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+        "name": "EL ELIXIR DE TUS LABIOS",
+        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         }
       ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+      "duration_ms": 242000,
+      "name": "EL ELIXIR DE TUS LABIOS",
+      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1415,6 +1399,22 @@
       "duration_ms": 228693,
       "name": "Static Resistance",
       "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Distant Restart",
-        "url": "https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 201422,
-      "name": "Distant Restart",
-      "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "El Veh\u00edculo de las Transformaciones",
         "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Distant Restart",
+        "url": "https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 201422,
+      "name": "Distant Restart",
+      "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
     },
     {
       "added_at": "2023-11-24 01:15:27",

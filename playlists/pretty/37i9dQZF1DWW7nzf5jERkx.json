@@ -1,6 +1,6 @@
 {
   "description": "me acuerdo del d\u00eda que del dinero yo me enamor\u00e9 \ud83d\udcb8\ud83d\udcb0\ud83d\udcb8 con Eladio Carrion en la portada",
-  "num_followers": 14497,
+  "num_followers": 14540,
   "original_name": "mi primera chamba",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": "2023-11-16 21:52:17",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 256971,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2023-11-16 21:52:17",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2023-11-16 21:52:17",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-16 21:52:17",
       "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4MFpFnhirNfY968H72VLpg"
-    },
-    {
-      "added_at": "2023-11-16 21:52:17",
-      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 197120,
       "name": "Bella",
       "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
+    },
+    {
+      "added_at": "2023-11-16 21:52:17",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4MFpFnhirNfY968H72VLpg"
     },
     {
       "added_at": "2023-11-16 21:52:17",

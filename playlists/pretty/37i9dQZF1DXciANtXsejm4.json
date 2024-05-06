@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 241440,
+  "num_followers": 241550,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Baila Santa Fe",
-        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
+        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) [En Vivo]",
+        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
       },
       "artists": [
         {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 189911,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
+      "duration_ms": 68394,
+      "name": "Pechos Calientes",
+      "url": "https://open.spotify.com/track/5LCWD4A4yYPWhYKCYtpUei"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -283,18 +287,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Soy Sabalero",
-        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+        "name": "Baila Santa Fe",
+        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Soy Sabalero",
-      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+      "duration_ms": 189911,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -331,6 +335,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
+        "name": "Soy Sabalero",
+        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Soy Sabalero",
+      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -343,22 +363,6 @@
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -383,18 +387,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Mujer Que Mal Me Pagas",
-        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -432,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 68394,
-      "name": "Pechos Calientes",
-      "url": "https://open.spotify.com/track/5LCWD4A4yYPWhYKCYtpUei"
+      "duration_ms": 80439,
+      "name": "Mojada Por Dentro",
+      "url": "https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -459,18 +463,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+        "name": "Mujer Que Mal Me Pagas",
+        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -527,6 +531,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
         "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
         "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
@@ -543,18 +563,38 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) [En Vivo]",
+        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 69699,
+      "name": "El No Va A Venir",
+      "url": "https://open.spotify.com/track/2noZkOgZTfgvKNQeNcNtYn"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -591,26 +631,6 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) [En Vivo]",
-        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 80439,
-      "name": "Mojada Por Dentro",
-      "url": "https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
         "name": "Ritmo, Pasi\u00f3n y Sentimiento",
         "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
@@ -639,6 +659,22 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -675,6 +711,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Le Cre\u00ed",
+      "url": "https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
         "name": "Placer y Olvido",
         "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
       },
@@ -687,22 +739,6 @@
       "duration_ms": 233429,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -723,62 +759,6 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 242950,
-      "name": "Perfecto Idiota",
-      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) [En Vivo]",
-        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 69699,
-      "name": "El No Va A Venir",
-      "url": "https://open.spotify.com/track/2noZkOgZTfgvKNQeNcNtYn"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -795,50 +775,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
       "artists": [
         {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
         }
       ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
-      },
-      "artists": [
-        {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -863,6 +811,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
         "name": "Sinf\u00f3nico 45 A\u00f1os - En Vivo",
         "url": "https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH"
       },
@@ -883,22 +847,6 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Le Cre\u00ed",
-      "url": "https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
         "name": "Juntando Las Almas",
         "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
       },
@@ -911,6 +859,58 @@
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 242950,
+      "name": "Perfecto Idiota",
+      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 203812,
       "name": "Y Hoy Volvimos A Vernos",
       "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -1095,22 +1095,6 @@
       "duration_ms": 243456,
       "name": "Que Ves",
       "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Volvi\u00f3 el Parrandero!!!",
-        "url": "https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Distancia",
-      "url": "https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv"
-    },
-    {
-      "added_at": "2024-05-03 14:10:21",
-      "album": {
         "name": "Tropi Feats",
         "url": "https://open.spotify.com/album/7hKApke1KBIFq0neCSVPGk"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
-        "url": "https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy"
+        "name": "Volvi\u00f3 el Parrandero!!!",
+        "url": "https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 174992,
-      "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
-      "url": "https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL"
+      "duration_ms": 249626,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2024-05-03 14:10:21",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+        "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
+        "url": "https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy"
       },
       "artists": [
         {
-          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
-          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Tu C\u00f3mo Est\u00e1s",
-      "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
+      "duration_ms": 174992,
+      "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
+      "url": "https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL"
     },
     {
       "added_at": "2024-05-03 14:10:21",
@@ -1375,6 +1359,22 @@
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
+    },
+    {
+      "added_at": "2024-05-03 14:10:21",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "No Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
     }
   ],
   "unique_name": "Cumbia Santafesina",

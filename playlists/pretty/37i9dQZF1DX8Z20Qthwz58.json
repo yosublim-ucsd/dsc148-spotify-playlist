@@ -1,6 +1,6 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 77406,
+  "num_followers": 77434,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Magnetic (R&B Remix)",
-      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
         "name": "LISTEN 035 Restless",
         "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Magnetic (R&B Remix)",
+      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -171,38 +171,6 @@
       "duration_ms": 231709,
       "name": "lovememore.",
       "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -243,6 +211,38 @@
       "duration_ms": 237707,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB"
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+      "duration_ms": 200880,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "Summer Plumage",
-        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "New Youth",
-      "url": "https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Night Fog",
-      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -527,18 +511,34 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Summer Plumage",
+        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+      "duration_ms": 289500,
+      "name": "New Youth",
+      "url": "https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Night Fog",
+      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -611,38 +611,6 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 299000,
       "name": "MUNG",
       "url": "https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2024-04-19 06:20:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-19 06:20:15",
       "album": {
-        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 229570,
-      "name": "LA VIE",
-      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
-    },
-    {
-      "added_at": "2024-04-19 06:20:15",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 214922,
       "name": "midnight",
       "url": "https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3"
+    },
+    {
+      "added_at": "2024-04-19 06:20:15",
+      "album": {
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
     },
     {
       "added_at": "2024-04-19 06:20:15",

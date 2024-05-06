@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Walker County, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Harper Grace, Artwork: Fanélie Muselier
 
 2,326 songs - 5 day 6 hr 13 min
 

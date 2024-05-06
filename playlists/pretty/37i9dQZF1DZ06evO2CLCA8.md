@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 ### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This Is Tom Petty and the Heartbreakers\. Los temas esenciales, todos en una lista.
+> This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 755 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
 | 50 | [Mystery Man](https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 |
 
-Snapshot ID: `ZjQpAAAAAAATDV/tQA80kevVdAhGsJ+K`
+Snapshot ID: `ZjQpAAAAAACsuYl7rZLe9ypJweyAow/I`

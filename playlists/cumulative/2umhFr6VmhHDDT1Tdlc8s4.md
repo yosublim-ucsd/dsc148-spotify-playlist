@@ -4,7 +4,7 @@
 
 > 
 
-57 songs - 3 hr 19 min
+58 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Kindergarten](https://open.spotify.com/track/2R05HGHjfDXtz24bVoYHOu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:25 | 2022-02-13 |  |
 | [Life We've Built](https://open.spotify.com/track/0vyc9xaz0TaDicl4F2AuQQ) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Life We've Built](https://open.spotify.com/album/5kxKNgs6U71Oj9asgDLzvH) | 3:49 | 2022-12-26 |  |
 | [Like Slow Disappearing](https://open.spotify.com/track/2N1ySGeZxPjm0PqTiIkmjJ) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/1v7hBIWUmfhggbxYd9HIW7) | 3:55 | 2022-12-22 |  |
+| [Loved You Before](https://open.spotify.com/track/6RC4AyIElIYn0oFNlA1B5A) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie \(Deluxe\)](https://open.spotify.com/album/2jojwr1j8GmqKXKbCg6mZ5) | 3:00 | 2024-05-05 |  |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-04-04 |  |
 | [Manta Rays](https://open.spotify.com/track/3sWgoaftdzDcdwfHT6404A) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:31 | 2022-02-13 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-13 | 2023-04-10 |

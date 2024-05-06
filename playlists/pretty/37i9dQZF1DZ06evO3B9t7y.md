@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This is Carin Leon\. The essential tracks, all in one playlist.
+> This Is Carin Leon\. Все лучшие треки в одном плейлисте.
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,953 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,434 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 52 | [Love Like This \(En Vivo\)](https://open.spotify.com/track/2kBfjUDQOmboQUOykPhaZg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/0JuvcIJT6XRYurUSUOT4FC) | 3:38 |
 | 53 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 
-Snapshot ID: `ZjQpAAAAAABYHLNLGAYVqM9xLOypTzhl`
+Snapshot ID: `ZjQpAAAAAABvY27tqI7e1bFumSCoefYT`

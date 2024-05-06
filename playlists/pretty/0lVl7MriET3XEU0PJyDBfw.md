@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House music I absolutely love at the moment! Submissions: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,087 likes - 74 songs - 3 hr 43 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,086 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 73 | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/track/6D5dUvVqQg7my6kcUOz66F) | [Guest Who](https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3), [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0), [EMMA LX](https://open.spotify.com/artist/234RuCfsiahEnp6JER6r5f) | [Who Said \(ft\. EMMA LX\)](https://open.spotify.com/album/3kgf0hZ1ban42XGYl7PqsH) | 2:52 |
 | 74 | [Rudeboi](https://open.spotify.com/track/5i7jWlHBKsPlTA6jscQ0y1) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Rudeboi](https://open.spotify.com/album/0bAG0Ve2AUxU77sDPGtNdw) | 3:06 |
 
-Snapshot ID: `AAAYfLyQUrNiB/dM3xs51jm1InGFYMDu`
+Snapshot ID: `AAAYgKtHeqr7kojOPurcGLyhF4ZE6uCs`

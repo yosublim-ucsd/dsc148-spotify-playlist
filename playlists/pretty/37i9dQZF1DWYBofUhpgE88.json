@@ -1,6 +1,6 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 343836,
+  "num_followers": 343840,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,18 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -203,22 +199,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -235,26 +215,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
-        "name": "Look Back at It (feat. CAPO PLAZA)",
-        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 225541,
-      "name": "Look Back at It (feat. CAPO PLAZA)",
-      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -279,22 +239,22 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Club Dogo",
-        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+        "name": "Look Back at It (feat. CAPO PLAZA)",
+        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 185041,
-      "name": "Milly (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+      "duration_ms": 225541,
+      "name": "Look Back at It (feat. CAPO PLAZA)",
+      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -323,6 +283,46 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 185041,
+      "name": "Milly (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -643,42 +643,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -695,26 +659,18 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 162411,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -739,18 +695,46 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -807,46 +807,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 137098,
-      "name": "Hoe (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "The Rising Tied",
         "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
       },
@@ -863,6 +823,26 @@
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -899,6 +879,42 @@
       "duration_ms": 254093,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -943,22 +959,6 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
         "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199746,
       "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
       "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2024-04-23 17:56:37",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Soldi in Nero - feat. Sfera Ebbasta",
-      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
-    },
-    {
-      "added_at": "2024-04-23 17:56:37",
-      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -1343,18 +1323,42 @@
     {
       "added_at": "2024-04-23 17:56:37",
       "album": {
-        "name": "SWISH",
-        "url": "https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh"
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD"
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "added_at": "2024-04-23 17:56:37",
+      "album": {
+        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Soldi in Nero - feat. Sfera Ebbasta",
+      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
     }
   ],
   "unique_name": "Rap Motivazionale",

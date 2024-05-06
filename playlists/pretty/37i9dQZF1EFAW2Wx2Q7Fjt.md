@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 76 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 77 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 |
 | 78 | [Sex & cigarettes](https://open.spotify.com/track/4bJM6SNVyvzgcJR0f5QtYo) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:05 |
-| 79 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
+| 79 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
 | 80 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 |
 | 81 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
 | 82 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 119 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 | 120 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 
-Snapshot ID: `AbQecgAAAAAhaMXijWwoGI34ZGe4bsCK`
+Snapshot ID: `AbQjZwAAAACrPwlMOVJdNeIPo3JJ56hv`

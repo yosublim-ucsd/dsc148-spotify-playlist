@@ -4,7 +4,7 @@
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-87 songs - 9 hr 43 min
+88 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dasht\-E\-Tanhai](https://open.spotify.com/track/2QACCmKVClu32zGri1hEGj) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:46 | 2022-03-07 |  |
 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 | 2022-03-07 |  |
 | [Hairaan Hua](https://open.spotify.com/track/11v6Q3rcylqZoesjs8OUP9) | [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD) | [Hairaan Hua](https://open.spotify.com/album/69xH8VuMBjZvrobppvEIXa) | 9:58 | 2022-03-07 |  |
+| [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 |  |
 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 | 2022-03-07 |  |
 | [Ishq Kinara – Üsküdar’a Gider Iken](https://open.spotify.com/track/1PuRm7uUUiNlZ1yZF85e8k) | [Zoe Viccaji](https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:34 | 2022-03-07 |  |
 | [Jaag Rahi](https://open.spotify.com/track/36pThMLl9NPkjd4V7kg6T9) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Ali Noor](https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO) | [Jaag Rahi](https://open.spotify.com/album/6oPjmqELcDmWUkXTR5mgax) | 6:01 | 2022-03-07 |  |

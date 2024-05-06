@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 45538,
+  "num_followers": 45612,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -245,26 +245,6 @@
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "No Other Name",
-        "url": "https://open.spotify.com/album/4qKQSjyrG1mS84P5tgX7ks"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568791,
-      "name": "Broken Vessels (Amazing Grace)",
-      "url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -279,6 +259,26 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -323,22 +323,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+        "name": "No Other Name",
+        "url": "https://open.spotify.com/album/4qKQSjyrG1mS84P5tgX7ks"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+      "duration_ms": 568791,
+      "name": "Broken Vessels (Amazing Grace)",
+      "url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "COAT OF MANY COLORS",
@@ -471,30 +455,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "In The Room (feat. Tasha Cobbs Leonard)",
-        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 597481,
-      "name": "In The Room (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -531,6 +503,34 @@
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "In The Room (feat. Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 597481,
+      "name": "In The Room (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 309600,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 251466,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "YET (feat. Ashley Hess & the King will come)",
-        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
-        },
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
-        }
-      ],
-      "duration_ms": 350194,
-      "name": "YET (feat. Ashley Hess & the King will come)",
-      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
         "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
       },
@@ -819,22 +787,6 @@
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Count 'Em",
-        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "COUNT 'EM",
-      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -883,6 +835,54 @@
       "duration_ms": 288902,
       "name": "Ba Buwa Ka Wena",
       "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        },
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Count 'Em",
+        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "COUNT 'EM",
+      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
       "added_at": "2023-12-15 00:01:00",

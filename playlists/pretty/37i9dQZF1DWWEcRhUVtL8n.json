@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Kacy Hill",
-  "num_followers": 1679182,
+  "num_followers": 1679187,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "A Night To Remember",
@@ -435,6 +419,22 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
       "added_at": "2024-04-05 15:15:26",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
+      "added_at": "2024-04-26 04:34:58",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 210904,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Blame Brett",
@@ -787,22 +803,6 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2024-04-26 04:34:58",
-      "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "DOING IT AGAIN BABY",
@@ -953,22 +969,6 @@
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Some Type Of Skin",
-      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "savior",
@@ -983,6 +983,22 @@
       "duration_ms": 180626,
       "name": "savior",
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Some Type Of Skin",
+      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 171618,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Lil Tune",
-        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        },
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Lil Tune",
-      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "SCRAPYARD",
         "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 323789,
       "name": "TEXAS BLUE",
       "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Lil Tune",
+        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Lil Tune",
+      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1453,20 +1453,20 @@
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 19:42:47",
       "album": {
-        "name": "NEVER AGAIN",
-        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+        "name": "Billabong Babe",
+        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
         }
       ],
-      "duration_ms": 145720,
-      "name": "NEVER AGAIN",
-      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+      "duration_ms": 134500,
+      "name": "Billabong Babe",
+      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
     },
     {
       "added_at": "2024-04-05 15:15:26",
@@ -1485,20 +1485,36 @@
       "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     },
     {
-      "added_at": "2024-04-12 19:42:47",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Billabong Babe",
-        "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
       },
       "artists": [
         {
-          "name": "Royce Fisherman",
-          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 134500,
-      "name": "Billabong Babe",
-      "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Taste of Metal",
+        "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Taste of Metal",
+      "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1517,20 +1533,20 @@
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Taste of Metal",
-        "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
       },
       "artists": [
         {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 174159,
-      "name": "Taste of Metal",
-      "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "HATELOVE",
         "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1619,34 +1635,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Prescription",
-        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213237,
-      "name": "Prescription",
-      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     }
   ],
   "unique_name": "Indie Pop",

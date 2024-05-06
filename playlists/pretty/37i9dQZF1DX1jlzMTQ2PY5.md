@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,643 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,692 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 18 | [Overthinking](https://open.spotify.com/track/7K7ZOgAQ6DaW5764wIzNsB) | [Fullalove](https://open.spotify.com/artist/11yEK822VdsSbd2JgnrLKh) | [Overthinking](https://open.spotify.com/album/6B6MUnF4XUazXHUgZu4Hu2) | 3:58 |
 | 19 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 |
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
-| 21 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
+| 21 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
 | 22 | [Waiting](https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Losing Balance](https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN) | 2:48 |
-| 23 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
+| 23 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
 | 24 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
 | 25 | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/track/4RcdOaS9En9fVFkeTBhXZm) | [Waypoint](https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Done With You \(feat\. Mila Falls\)](https://open.spotify.com/album/75XO9NnxwyhtacWrsBBBqC) | 2:22 |
 | 26 | [Lowdown](https://open.spotify.com/track/32eraMrOwC4EmBlkCP7IMP) | [Coffee Shop Jungle](https://open.spotify.com/artist/58S1DXVCgmfu5kf5seAuVM), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Lowdown](https://open.spotify.com/album/0VBnF1WzBoLjG8RiJxw1pZ) | 2:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 43 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 44 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 |
 | 45 | [Runaway](https://open.spotify.com/track/5UsC03R78fq3ITabv1CYse) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Runaway](https://open.spotify.com/album/5sYeaz2cL2foyk1BZHZatN) | 2:45 |
-| 46 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
-| 47 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 46 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 47 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 48 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
 | 49 | [Good For You](https://open.spotify.com/track/4kj0rXcADrYVgwzmgcdV8C) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Good For You](https://open.spotify.com/album/2lhKgb2A2HgRo86GJSBU6C) | 2:51 |
-| 50 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
+| 50 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 
 Snapshot ID: `ZgVyJwAAAADAgPhbO+MmG4m7SbgQgUAK`

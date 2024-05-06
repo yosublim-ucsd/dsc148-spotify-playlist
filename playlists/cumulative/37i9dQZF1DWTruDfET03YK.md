@@ -4,7 +4,7 @@
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-69 songs - 2 hr 46 min
+70 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 | 2020-04-23 |  |
 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 | 2020-04-23 |  |
 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/52kqFv5uzPoNTPPnbo7jYZ) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Abrazos, Besos y Apapachos](https://open.spotify.com/album/6yQ77MNa0YWbZJIcAPVoLS) | 2:13 | 2020-04-23 | 2024-04-19 |
-| [El Coqui](https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:36 | 2020-04-23 |  |
+| [El Coqui](https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:36 | 2020-04-23 | 2024-05-06 |
 | [El Gato Carpintero](https://open.spotify.com/track/3osiguY3buNPqZlckyTonk) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:16 | 2020-04-23 | 2024-04-19 |
 | [El Gato Carpintero](https://open.spotify.com/track/7rOpbNnq64dn34lLKrNEHI) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:17 | 2020-04-23 |  |
 | [El Gato Tom](https://open.spotify.com/track/366UU893avETSITmLAKidG) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Michi Guau Vol\. 1](https://open.spotify.com/album/1H2vED16208kBdEwf5DSRV) | 2:05 | 2020-04-23 |  |
@@ -46,6 +46,7 @@
 | [La Amistad de Dos Avestruces](https://open.spotify.com/track/4WiGlFMQsE0OoPR31OrKrA) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Amistad de Dos Avestruces](https://open.spotify.com/album/1UXdVfE8AGD1y1idxwvCTv) | 1:23 | 2021-07-23 | 2024-04-19 |
 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 | 2020-04-23 | 2024-04-19 |
 | [La Gata](https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:38 | 2020-04-23 | 2024-04-19 |
+| [La gata](https://open.spotify.com/track/3orResRo5W79ZiQS1bVGK0) | [La Banda Crayón](https://open.spotify.com/artist/5ZG4SmWKo5clPI6X8Q4DU5) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 1:38 | 2020-04-23 |  |
 | [La Lechuza](https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:08 | 2020-04-23 |  |
 | [La lechuza](https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:07 | 2020-04-23 |  |
 | [La Patita](https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:50 | 2020-04-23 |  |

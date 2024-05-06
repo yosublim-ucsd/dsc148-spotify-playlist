@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 192001,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
@@ -548,6 +548,32 @@
       "duration_ms": 206920,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
+    },
+    {
+      "album": {
+        "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
+        "url": "https://open.spotify.com/album/1wajKdkMTSqLpMinU7KNKe"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
+      "url": "https://open.spotify.com/track/6DRGwsUFQrNerxRexK7KMB"
     },
     {
       "album": {

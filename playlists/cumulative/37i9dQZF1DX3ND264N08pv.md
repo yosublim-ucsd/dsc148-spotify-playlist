@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-251 songs - 14 hr 7 min
+252 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Pac\-man 2.0](https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [Pac\-man 2.0](https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj) | 2:28 | 2022-12-08 | 2023-10-26 |
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 | 2023-09-02 |
-| [Patterns](https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO) | [Indika](https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Patterns](https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf) | 3:28 | 2023-06-29 |  |
+| [Patterns](https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO) | [Indika](https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Patterns](https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf) | 3:28 | 2023-06-29 | 2024-05-06 |
 | [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 | 2023-09-22 |
 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2023-06-08 | 2023-07-28 |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-09 | 2023-06-30 |
@@ -210,6 +210,7 @@
 | [Somebody Scream](https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Somebody Scream](https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf) | 3:04 | 2022-12-08 | 2023-09-02 |
 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 | 2024-03-11 |  |
 | [Spacestorm](https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Jax](https://open.spotify.com/artist/74qgM5Rvsk16SBXAdXeWmG) | [Showtime](https://open.spotify.com/album/0P8MdMLHjzqHzVd8twfxe5) | 2:18 | 2022-12-08 | 2023-01-20 |
+| [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 | 2024-05-02 |  |
 | [Stop Playing](https://open.spotify.com/track/2Ys7qaDAMTbgmHZRJxmeBZ) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Stop Playing](https://open.spotify.com/album/0cUyM46EZCAv2uKx0PugP4) | 2:26 | 2024-04-18 |  |
 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 | 2022-12-08 |  |
 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 | 2024-03-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,636 likes - 86 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,844 likes - 86 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

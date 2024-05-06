@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 ### [This Is Chiquis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
 
-> This is Chiquis\. The essential tracks, all in one playlist.
+> This Is Chiquis\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,678 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,677 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 50 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
 | 51 | [Aprovechame](https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 2:36 |
 
-Snapshot ID: `ZjQpAAAAAACkI7OwnlQAHE4VkjrXbRGu`
+Snapshot ID: `ZjQpAAAAAAAQcr0J8xcpqNVjQFU94BDr`

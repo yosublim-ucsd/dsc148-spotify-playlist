@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 477105,
+  "num_followers": 477134,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Vianney",
-        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Je m'en vais",
-      "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
+      "duration_ms": 213933,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -151,6 +151,22 @@
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Vianney",
+        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Je m'en vais",
+      "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -183,22 +199,6 @@
       "duration_ms": 206920,
       "name": "Caravane",
       "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "racine carr\u00e9e",
-        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Formidable",
-      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Sainte-Victoire",
         "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 194493,
       "name": "La grenade",
       "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -571,22 +571,6 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Pour Un Flirt - Vol.1",
         "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+      "duration_ms": 166293,
+      "name": "Help Myself (Nous Ne Faisons Que Passer)",
+      "url": "https://open.spotify.com/track/2bwbKylFWjIeRNVuUWdYFN"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -771,22 +787,6 @@
       "duration_ms": 236840,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Help Myself (Nous Ne Faisons Que Passer)",
-      "url": "https://open.spotify.com/track/2bwbKylFWjIeRNVuUWdYFN"
     },
     {
       "added_at": "2024-03-05 21:04:31",

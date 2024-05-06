@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Honey & Darling",
+        "url": "https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "\u30b9\u30bf\u30fc\u30de\u30fc\u30ab\u30fc (Album Mix)",
+      "url": "https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30c8\u30ec\u30a4\u30c8",
         "url": "https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 257915,
       "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"

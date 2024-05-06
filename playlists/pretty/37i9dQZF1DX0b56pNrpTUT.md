@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,920 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,931 likes - 36 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 11 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
 | 12 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 13 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
-| 14 | [Reckless & Sweet](https://open.spotify.com/track/6gQrm0rwg6hok8IxzysD8m) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:39 |
-| 15 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 |
+| 14 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 |
+| 15 | [Reckless & Sweet](https://open.spotify.com/track/6gQrm0rwg6hok8IxzysD8m) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:39 |
 | 16 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
 | 17 | [Echo](https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Echo](https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F) | 3:17 |
 | 18 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |

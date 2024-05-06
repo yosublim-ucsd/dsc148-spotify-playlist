@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">BLVSH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 48 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 |
 | 49 | [Gasoline \- Intro](https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:15 |
 
-Snapshot ID: `AbQebwAAAADAU8Tbbunm1fzst01dnLHX`
+Snapshot ID: `AbQjWwAAAAAe/WA0XGhVv7I8YlP4cHUB`

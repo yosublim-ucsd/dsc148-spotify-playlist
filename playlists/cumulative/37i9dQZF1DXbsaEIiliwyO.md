@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: SPYAIR
 
-132 songs - 8 hr 17 min
+133 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [シルエット](https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [シルエット](https://open.spotify.com/album/2FLdb5m1IRCPjKyD3LSRn0) | 4:03 | 2023-08-03 | 2023-08-16 |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2023-08-03 | 2024-04-19 |
 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 | 2024-04-16 |  |
+| [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 | 2024-04-16 |  |
 | [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 | 2024-01-26 | 2024-02-14 |
 | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/track/1rMbW3ri5rFPwIaWXjeOi6) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [スーパーウルトラ I LOVE YOU](https://open.spotify.com/album/659ErKMuWO7zJkEkjbjxkW) | 3:16 | 2024-01-26 | 2024-04-17 |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-08-03 | 2023-09-21 |
@@ -120,7 +121,7 @@
 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2023-08-03 | 2024-04-19 |
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 | 2024-01-27 |
 | [生きていかなくちゃ](https://open.spotify.com/track/0WLoee5mkv9SqDoIdpXuuS) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [生きていかなくちゃ / 死んだっていい](https://open.spotify.com/album/4E5HX5R5DHJqM9qPQW1mzU) | 4:15 | 2023-10-17 | 2023-11-02 |
-| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2024-04-16 |  |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2024-04-16 | 2024-05-06 |
 | [秘密](https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [秘密](https://open.spotify.com/album/7mgvVMjKAxuLAMbbPFqCHP) | 3:27 | 2023-10-03 | 2023-10-05 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-08-03 |  |
 | [第六感](https://open.spotify.com/track/22sQUmLhT8umlEhQzDrzfJ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [第六感](https://open.spotify.com/album/6CTOnVKQhpsL1NeJQ3XyXF) | 3:11 | 2024-04-16 |  |

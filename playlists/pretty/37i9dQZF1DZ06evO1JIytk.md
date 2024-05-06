@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 ### [This Is Anti\-Flag](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JIytk)
 
-> This is Anti\-Flag\. The essential tracks, all in one playlist.
+> This is Anti\-Flag\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,940 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,942 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [The Great Divide](https://open.spotify.com/track/6CVfaxrzx4U7yH0Ntq4M6l) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 1:28 |
 | 50 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
 
-Snapshot ID: `ZjQpAAAAAABImOjqVneDjLA9ZYsINzXg`
+Snapshot ID: `ZjQpAAAAAAChErav4W4ggb14yqgP/xOS`

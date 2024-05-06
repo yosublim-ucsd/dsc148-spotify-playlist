@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 276058,
+  "num_followers": 276112,
   "original_name": "Los 90s",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -159,38 +175,6 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 331360,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2024-04-25 04:48:46",
@@ -303,38 +319,6 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "Nek (spanish version)",
-        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
-      },
-      "artists": [
-        {
-          "name": "Nek",
-          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
-        }
-      ],
-      "duration_ms": 225239,
-      "name": "Laura no est\u00e0",
-      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -351,18 +335,34 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+        "name": "Nek (spanish version)",
+        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+      "duration_ms": 225239,
+      "name": "Laura no est\u00e0",
+      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2024-04-25 04:48:46",
@@ -399,34 +399,18 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2024-04-25 04:48:46",
@@ -447,22 +431,6 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 388360,
       "name": "Y Hubo Alguien",
       "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2024-04-25 04:48:46",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
         "name": "Ni Es Lo Mismo Ni Es Igual",
         "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 265360,
       "name": "El Ni\u00e1gara en Bicicleta",
       "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2024-04-25 04:48:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-04-25 04:48:46",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
-      },
-      "artists": [
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
-    },
-    {
-      "added_at": "2024-04-25 04:48:46",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 267000,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
+    },
+    {
+      "added_at": "2024-04-25 04:48:46",
+      "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+      },
+      "artists": [
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2024-04-25 04:48:46",

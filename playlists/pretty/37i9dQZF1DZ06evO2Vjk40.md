@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,457 likes - 47 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,640 likes - 47 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

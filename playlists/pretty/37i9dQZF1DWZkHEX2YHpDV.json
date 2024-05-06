@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 452595,
+  "num_followers": 452622,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Secondary Worship",
-        "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 226903,
-      "name": "Secondary Worship",
-      "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Secondary Worship",
+        "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 226903,
+      "name": "Secondary Worship",
+      "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Head in The Clouds",
         "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175937,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Red Wine And Discontent",
-        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
-      },
-      "artists": [
-        {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
-        }
-      ],
-      "duration_ms": 213710,
-      "name": "Red Wine And Discontent",
-      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Breaking Up With",
         "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 199412,
       "name": "Breaking Up With",
       "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Red Wine And Discontent",
+        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Red Wine And Discontent",
+      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Brag",
-        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "In Lieu Of Flowers",
         "url": "https://open.spotify.com/album/7AD9yxetOfulcCBFHvyuxv"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 214741,
       "name": "Spitting In The Wind",
       "url": "https://open.spotify.com/track/3Lu7oymnqlIGUxcHgNShsK"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "HORROR SHOW",
-        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 195646,
-      "name": "HORROR SHOW",
-      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "suraksha",
         "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 279284,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "HORROR SHOW",
+        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 195646,
+      "name": "HORROR SHOW",
+      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
-        "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
-      },
-      "artists": [
-        {
-          "name": "Mest",
-          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
-        },
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/6P3lvFpPSQi8kCbiExoKg9"
-        }
-      ],
-      "duration_ms": 179684,
-      "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
-      "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
+        "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
+      },
+      "artists": [
+        {
+          "name": "Mest",
+          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
+        },
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/6P3lvFpPSQi8kCbiExoKg9"
+        }
+      ],
+      "duration_ms": 179684,
+      "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
+      "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+        "name": "Waiting On Better Days",
+        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
       },
       "artists": [
         {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
+      "duration_ms": 214523,
+      "name": "Waiting On Better Days",
+      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Waiting On Better Days",
-        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
       },
       "artists": [
         {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
         }
       ],
-      "duration_ms": 214523,
-      "name": "Waiting On Better Days",
-      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
-      },
-      "artists": [
-        {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
-        }
-      ],
-      "duration_ms": 185873,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 193976,
       "name": "Permanent Rebellion",
       "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 185873,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Versions Of You",
-        "url": "https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Versions Of You",
-      "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Would You Even",
         "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 172014,
       "name": "Would You Even",
       "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Versions Of You",
+        "url": "https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Versions Of You",
+      "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Four Before",
-        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
-      },
-      "artists": [
-        {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
-        },
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 227309,
-      "name": "Toneblerone",
-      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Punkstar (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 140792,
       "name": "Punkstar (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "The Four Before",
+        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        },
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 227309,
+      "name": "Toneblerone",
+      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
     },
     {
       "added_at": "2024-04-12 04:00:00",

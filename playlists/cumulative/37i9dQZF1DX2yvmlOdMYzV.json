@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 182189,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
@@ -5100,6 +5100,28 @@
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Sir Travis Knight",
+          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239712,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
     },
     {
       "album": {

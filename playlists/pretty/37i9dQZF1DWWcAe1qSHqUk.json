@@ -119,6 +119,22 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
         "name": "Outro Lugar",
         "url": "https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 278293,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
-      },
-      "artists": [
-        {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
+      },
+      "artists": [
+        {
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+        }
+      ],
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
+        "name": "A Wonderful World",
+        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "A Kiss to Build a Dream On",
+      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
         "name": "Memories of You: A Tribute to Benny Goodman",
         "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
-        "name": "A Wonderful World",
-        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "A Kiss to Build a Dream On",
-      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
         "name": "Tuck + Cover",
         "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
       "artists": [
         {
-          "name": "Nnenna Freelon",
-          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
         }
       ],
-      "duration_ms": 361253,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -823,6 +807,22 @@
       "duration_ms": 205800,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
+      },
+      "artists": [
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        }
+      ],
+      "duration_ms": 361253,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
-        "name": "LANGUAGE OF LOVE",
-        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "THERE YOU ARE (SECOND CHANCE)",
-      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 357013,
       "name": "What Are You Doing The Rest Of Your Life",
       "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
+        "name": "LANGUAGE OF LOVE",
+        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "THERE YOU ARE (SECOND CHANCE)",
+      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
     },
     {
       "added_at": "2024-04-22 01:09:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-04-22 01:09:08",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
-      },
-      "artists": [
-        {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        }
-      ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2024-04-22 01:09:08",
-      "album": {
         "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
         "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 231800,
       "name": "Questi Vent'Anni Miei",
       "url": "https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ"
+    },
+    {
+      "added_at": "2024-04-22 01:09:08",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2024-04-22 01:09:08",

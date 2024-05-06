@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This Is Luis R Conriquez\. Los temas esenciales, todos en una lista.
+> This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,146 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,714 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 51 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
 | 52 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 |
 
-Snapshot ID: `ZjQpAAAAAABcOOeqxC4/Sj16yxVd8On4`
+Snapshot ID: `ZjV6gAAAAAC26y1uuRDg6Gemuvocfg4v`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 ### [This Is Lourena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VkTcy)
 
-> This is Lourena\. The essential tracks, all in one playlist.
+> This is Lourena\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,253 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,257 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
 | 50 | [Amizade](https://open.spotify.com/track/6ArT0mH44u8iuZDDzt8PJF) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:51 |
 
-Snapshot ID: `ZjQpAAAAAABJDf0g5yeOClGflcau8yPb`
+Snapshot ID: `ZjQpAAAAAACs7F9hgfwIsc/jS2hC3fbe`

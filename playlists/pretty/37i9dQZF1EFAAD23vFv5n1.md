@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917 likes - 94 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 919 likes - 94 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 18 | [Asfalto](https://open.spotify.com/track/0h6zzKCpqIQwCetFJWhd8f) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:45 |
 | 19 | [Radical](https://open.spotify.com/track/29cNIWFw9RJzd4OXsJLCNB) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Radical](https://open.spotify.com/album/7lg6FSoBd77TI3KViyOPoT) | 2:59 |
 | 20 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 |
-| 21 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 |
-| 22 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 |
+| 21 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 |
+| 22 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 |
 | 23 | [scs](https://open.spotify.com/track/12DobhGFGfjMKrziqgRl5T) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [scs](https://open.spotify.com/album/1P2mDmojDqS8CDDn6pOM7o) | 3:06 |
 | 24 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 |
 | 25 | [Regole \(feat\. Carl Brave\)](https://open.spotify.com/track/4odsEF1NXdEeHMzAxcyFKc) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:03 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 93 | [might as well](https://open.spotify.com/track/0k6UETYeSV0WsZeZGgTzlU) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:36 |
 | 94 | [sonic interlude](https://open.spotify.com/track/7GzqVB2D2VYev0Q99IpeXK) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 1:17 |
 
-Snapshot ID: `AbQeQAAAAAB1sM8fPEj90B+uvPZ8shNO`
+Snapshot ID: `AbQjaAAAAACUErmaCVKSkmjC79LNfwWx`

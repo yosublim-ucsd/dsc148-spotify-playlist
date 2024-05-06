@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,395 songs - 3 day 4 hr 52 min
+1,398 songs - 3 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-11-15 | 2023-01-28 |
 | [Alleine](https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Alleine](https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj) | 3:23 | 2023-08-18 | 2023-09-09 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-02-03 | 2022-05-03 |
+| [alright](https://open.spotify.com/track/7uLS2rNVFpYIF5JjISzXVx) | [Ben Dolic](https://open.spotify.com/artist/7bxAuu4sINh8Rwljqdzwcx) | [alright](https://open.spotify.com/album/1AouEvdW1tEGYJSwzPG8Rt) | 3:23 | 2024-05-03 |  |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/3x599jtfaReHmd6Ba77PD0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/0G8o3ih2VPgnY1RUPnu5ck) | 2:40 | 2022-04-12 | 2022-04-20 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-09-08 | 2023-04-18 |
 | [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 | 2024-01-12 | 2024-04-17 |
@@ -101,7 +102,7 @@
 | [Au royaume de tes mots](https://open.spotify.com/track/4HL0P1iOuZRcAot0pa0zbE) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 2:52 | 2022-06-29 | 2022-08-02 |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2023-10-28 |
 | [Avenue](https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Avenue](https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6) | 3:02 | 2023-08-18 | 2023-08-26 |
-| [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 | 2024-02-09 |  |
+| [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 | 2024-02-09 | 2024-05-06 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-12 | 2024-04-19 |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2022-02-03 | 2022-12-15 |
 | [Baby...](https://open.spotify.com/track/3LmJ1n9BnLS1dHXl1QRDkt) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Baby...](https://open.spotify.com/album/6cQ3rKReQqlvpeqfdI2sSH) | 3:31 | 2022-02-03 | 2022-12-15 |
@@ -270,6 +271,7 @@
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-17 | 2023-03-04 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2022-04-12 | 2022-04-18 |
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-31 |
+| [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-05-03 |  |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 | 2024-05-03 |  |
@@ -909,6 +911,7 @@
 | [promenade](https://open.spotify.com/track/4oWNFzfbJgMkq9FUI4GAo0) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [promenade](https://open.spotify.com/album/1L8ae8NI9sFwmDaldehQq7) | 3:01 | 2024-05-03 |  |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2022-02-03 | 2022-08-02 |
 | [Promise](https://open.spotify.com/track/7f8J4YRGkwAJdPGFB6JWSk) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Promise](https://open.spotify.com/album/3HEh0OCDDBE5ECmzIgPuPD) | 4:17 | 2022-03-24 | 2023-01-28 |
+| [Proud of Me](https://open.spotify.com/track/4p3QFHlxOOJzE2dy9CL7WR) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Proud of Me](https://open.spotify.com/album/59io9pkWx8jRgV94SdZ4MR) | 3:32 | 2024-05-03 |  |
 | [PROVOCAR](https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 2:46 | 2022-04-07 | 2022-04-21 |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-08-18 | 2023-11-18 |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-06-29 | 2022-08-02 |
@@ -1136,7 +1139,7 @@
 | [Two Cents](https://open.spotify.com/track/6hqJupJkVQmwHzOYeeO7fE) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Two Cents](https://open.spotify.com/album/1aXviDV63VHVx0bYgySnvf) | 3:55 | 2024-03-08 |  |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-05-30 | 2023-07-08 |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-05-30 | 2023-11-18 |
-| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 |  |
+| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 | 2024-05-06 |
 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 | 2022-03-24 | 2023-04-18 |
 | [U](https://open.spotify.com/track/0AqiXztTD2a0aeHkQsS1Lm) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/0cXPw9gEzyMguXppD8E0Ii) | 2:57 | 2022-02-03 | 2023-01-21 |
 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 | 2022-02-03 | 2022-12-15 |
@@ -1250,7 +1253,7 @@
 | [Нет дела](https://open.spotify.com/track/1jBkgehBXNIURp4ATVAbRp) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Когда были волны](https://open.spotify.com/album/2S6dLBYwOhyepLH33Fv6VJ) | 4:41 | 2022-03-24 | 2022-04-21 |
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 | 2022-08-03 |
 | [Счастье](https://open.spotify.com/track/4yX76KyCqxcPdKWaxUIeZG) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Дальше](https://open.spotify.com/album/7EQBos4tq7LHQ7vzHswwuc) | 2:15 | 2022-03-24 | 2022-08-02 |
-| [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-04-19 |  |
+| [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-04-19 | 2024-05-06 |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-04-19 |  |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-06 | 2022-12-15 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-02-03 | 2022-10-14 |

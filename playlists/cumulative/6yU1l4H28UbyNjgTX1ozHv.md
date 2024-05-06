@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-228 songs - 11 hr 55 min
+229 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Hey, Soul Sister \- Acoustic](https://open.spotify.com/track/0kIqUDiAD6k4Zu1RdMPFmw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hey, Soul Sister \(Acoustic\)](https://open.spotify.com/album/32lSvUMKuLxKeQKRU1stmB) | 3:18 | 2020-11-14 | 2024-03-04 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2019-10-13 |  |
 | [How Will I Know](https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:52 | 2019-10-13 |  |
+| [How Will I Know \- Acoustic](https://open.spotify.com/track/3VwiktbNsP7nksJj2Kegpn) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [How Will I Know \(Acoustic\)](https://open.spotify.com/album/0snjZU2AY3rlxHjPMBNk8N) | 3:13 | 2024-05-05 |  |
 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 | 2019-10-13 |  |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/4pZWwqmvQwYY1VhGE9sQD9) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/0zjfhd9DvlA6v3owHzL54D) | 2:42 | 2022-03-04 | 2023-01-14 |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/2txpvBA1zpZAfWS5AUZYLR) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/5FE5FwlNEBA9pTjWbezsJO) | 2:26 | 2022-10-14 |  |

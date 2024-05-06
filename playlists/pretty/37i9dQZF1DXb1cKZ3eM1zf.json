@@ -1,6 +1,6 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
-  "num_followers": 49896,
+  "num_followers": 49899,
   "original_name": "Pinkpop Best of - 2024",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Freak On a Leash",
-      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Freak On a Leash",
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 222320,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Undiscovered (International Version)",
         "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "The Lumineers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2055,6 +2039,22 @@
       "duration_ms": 236200,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "The Lumineers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "No Name Face",
-        "url": "https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Hanging By A Moment",
-      "url": "https://open.spotify.com/track/6jWLyg8AuMQ9LtIB2UlfOF"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Get Close (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "No Name Face",
+        "url": "https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/6jWLyg8AuMQ9LtIB2UlfOF"
     },
     {
       "added_at": "2024-02-12 13:45:08",

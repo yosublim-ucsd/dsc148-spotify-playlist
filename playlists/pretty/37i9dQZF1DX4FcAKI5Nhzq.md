@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Can you guess who's here to celebrate Children's Day?
+> Can you guess who's here to celebrate Children's Day? \(Cover: RII...??\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,343 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,626 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [Easy](https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Easy](https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF) | 3:02 |
 | 51 | [Chocolate](https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Chocolate](https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A) | 3:07 |
 
-Snapshot ID: `ZjZNcAAAAABQ2zheu4n59W3HmgvT3EXw`
+Snapshot ID: `ZjdKmgAAAADnBUQoJL4YAO6/HnwX6Nq4`

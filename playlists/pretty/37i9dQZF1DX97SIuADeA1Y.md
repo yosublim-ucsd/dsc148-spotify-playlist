@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,185 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,192 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 47 | [abcdefu](https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [abcdefu](https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M) | 2:52 |
 | 48 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 49 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
-| 50 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 |
-| 51 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
+| 50 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
+| 51 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 |
 | 52 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
 | 53 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 54 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |

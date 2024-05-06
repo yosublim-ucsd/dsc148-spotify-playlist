@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 29273,
+  "num_followers": 29282,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live at Paste",
         "url": "https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 310133,
-      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 308720,
       "name": "Ordinary People - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic"
-      },
-      "artists": [
-        {
-          "name": "McClenney",
-          "url": "https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Redbone - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "McClenney",
+          "url": "https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx"
         }
       ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+      "duration_ms": 202368,
+      "name": "Redbone - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -363,6 +363,22 @@
       "duration_ms": 145294,
       "name": "Horsepower For The Streets - Acoustic String Version",
       "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -447,22 +463,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 255320,
       "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -603,22 +619,6 @@
       "duration_ms": 310091,
       "name": "Claustrophobic (feat. Keyon Harrold) - Live",
       "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 180551,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 539920,
       "name": "Lady - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 180551,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1071,6 +1071,22 @@
       "duration_ms": 226666,
       "name": "I Remember - Live",
       "url": "https://open.spotify.com/track/2Ass4uwiFC6jegmcTJRXGd"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
+      "duration_ms": 220672,
+      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1171,6 +1187,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1183,22 +1215,6 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
-        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 220672,
-      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
-      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1315,6 +1315,38 @@
       "duration_ms": 296809,
       "name": "Nakamarra - Live from Spotify Sydney",
       "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 484858,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1347,22 +1379,6 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
-        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "These Arms Of Mine",
-      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 484858,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "The Womack \u201cLive\u201d",
         "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live And In Living Color",
-        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 394973,
-      "name": "What Is Hip? - Live Version",
-      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Invisible Chains Live from Nyc",
         "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 572680,
       "name": "Sunshine \"I Can Fly\" (Live)",
       "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live And In Living Color",
+        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 394973,
+      "name": "What Is Hip? - Live Version",
+      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "WAR Live",
-        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 366866,
-      "name": "The Cisco Kid - Live Version",
-      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Alive (Live At the Jazz Cafe, London)",
         "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+        "name": "WAR Live",
+        "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
+      "duration_ms": 366866,
+      "name": "The Cisco Kid - Live Version",
+      "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 191200,
       "name": "Tell Me More And More And Then Some",
       "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Curtis in Chicago - Recorded Live!",
-        "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Superfly - Live in Chicago",
-      "url": "https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+        "name": "Curtis in Chicago - Recorded Live!",
+        "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
+      "duration_ms": 234813,
+      "name": "Superfly - Live in Chicago",
+      "url": "https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 341133,
       "name": "Come To My Door - Live at Levon Helm Studios",
       "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live At Montreux",
+        "url": "https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Save The Children - Live From The Montreux Jazz Festival,Switzerland/1973",
+      "url": "https://open.spotify.com/track/2rQQqhyMjZ3rIMriZXsGlR"
     }
   ],
   "unique_name": "Soul Live",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Aluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,451 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,468 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

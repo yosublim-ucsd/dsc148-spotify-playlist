@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
@@ -678,6 +678,24 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV"
     },
     {
       "album": {
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
@@ -1331,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "album": {
         "name": "Can We Forget",
         "url": "https://open.spotify.com/album/1lkT8Jvdvm0Z13ZlPnxpoE"
       },
@@ -1421,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/7bkKiSh1CFnWkl48eY8EYd"
       },
@@ -1472,6 +1526,24 @@
       "duration_ms": 177106,
       "name": "Cemetery",
       "url": "https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4"
+    },
+    {
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "album": {
@@ -2561,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180209,
+      "name": "Every Little Thing I Say I Do",
+      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
+    },
+    {
+      "album": {
         "name": "Every Window Is A Mirror",
         "url": "https://open.spotify.com/album/2MNhICXseCBcuvWYkEv2yy"
       },
@@ -3076,7 +3166,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "Gen-X Cops",
       "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
@@ -3608,7 +3698,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 111653,
       "name": "HEAD",
       "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
@@ -3698,7 +3788,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
@@ -4712,7 +4802,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 208253,
       "name": "Kid",
       "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
@@ -4986,7 +5076,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
@@ -5687,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/14B9stWZTTHUUT3kofBc90"
       },
@@ -6040,7 +6148,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
@@ -6200,7 +6308,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
@@ -7517,6 +7625,60 @@
     },
     {
       "album": {
+        "name": "Run Away With Me",
+        "url": "https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"
+    },
+    {
+      "album": {
+        "name": "empathogen",
+        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "run!",
+      "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189150,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3"
+    },
+    {
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -7936,6 +8098,24 @@
       "duration_ms": 171221,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "album": {
@@ -8690,7 +8870,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 171272,
       "name": "Sure Enough",
       "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
@@ -9303,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
+    },
+    {
+      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -9556,6 +9754,24 @@
       "duration_ms": 161120,
       "name": "Van Horn",
       "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
+    },
+    {
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209158,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "album": {
@@ -10028,6 +10244,24 @@
       "duration_ms": 233976,
       "name": "Why Did You Run?",
       "url": "https://open.spotify.com/track/4ascbpJ8eelgihjwUnmgwY"
+    },
+    {
+      "album": {
+        "name": "Why is everyone a DJ?",
+        "url": "https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148353,
+      "name": "Why is everyone a DJ?",
+      "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"
     },
     {
       "album": {

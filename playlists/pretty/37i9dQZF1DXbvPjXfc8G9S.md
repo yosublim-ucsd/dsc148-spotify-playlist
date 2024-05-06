@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Feid & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,190 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,276 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

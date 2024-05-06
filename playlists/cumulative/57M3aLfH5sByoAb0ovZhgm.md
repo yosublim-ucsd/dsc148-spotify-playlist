@@ -4,7 +4,7 @@
 
 > cookin&\#x27;
 
-115 songs - 7 hr 4 min
+116 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Thank You](https://open.spotify.com/track/1uAba1fsEGStnicsHXpG1r) | [Bret James](https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl) | [Thank You](https://open.spotify.com/album/4LqHcAXZOnqcdeggVsVn2Z) | 3:00 | 2023-06-10 |  |
 | [The Last Time](https://open.spotify.com/track/29YXX6TCgc7d5jz3BYF7Gc) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 | 2024-05-03 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-06-10 |  |
+| [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2024-05-05 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2023-06-11 |  |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2023-06-10 |  |
 | [Várias Queixas](https://open.spotify.com/track/5Jc9kRv6MLUQkDTAt7J1ro) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/650yIom4GG70i75g8zCD0O) | 2:50 | 2023-06-10 |  |

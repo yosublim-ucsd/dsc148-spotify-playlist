@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 332738,
+  "num_followers": 332830,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -119,38 +119,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -179,6 +147,22 @@
       "duration_ms": 264093,
       "name": "Turn On, Tune In, Cop Out - Radio Edit",
       "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -215,6 +199,22 @@
       "duration_ms": 203680,
       "name": "Astronomy (8th Light)",
       "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Let It Flow (For \"DR. J\")",
-      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Here Come The Lords",
         "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Let It Flow (For \"DR. J\")",
+      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -929,6 +929,30 @@
       "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Best by Far",
+        "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "William DeVaughan",
+          "url": "https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
       "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "Sleazeball",
@@ -963,30 +987,6 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Best by Far",
-        "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "William DeVaughan",
-          "url": "https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "My Fish Is Burning - EP",
+        "url": "https://open.spotify.com/album/2keZtH0yWLiy7CwQuUiEBI"
+      },
+      "artists": [
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        }
+      ],
+      "duration_ms": 305560,
+      "name": "Again Again",
+      "url": "https://open.spotify.com/track/5qI3ZZy5B6AbtjS8DBmxY7"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/55mgFgnWo4vJJc6pydpB1A"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 430785,
       "name": "Coffee Kingdom",
       "url": "https://open.spotify.com/track/4iGTyu7gIuqcs278VEZdPo"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "My Fish Is Burning - EP",
-        "url": "https://open.spotify.com/album/2keZtH0yWLiy7CwQuUiEBI"
-      },
-      "artists": [
-        {
-          "name": "Kuna Maze",
-          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
-        }
-      ],
-      "duration_ms": 305560,
-      "name": "Again Again",
-      "url": "https://open.spotify.com/track/5qI3ZZy5B6AbtjS8DBmxY7"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+      "duration_ms": 275320,
+      "name": "Nakamarra (feat. Q-Tip)",
+      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
     }
   ],
   "unique_name": "Acid Jazz",

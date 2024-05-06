@@ -4,7 +4,7 @@
 
 > Grab a quick nap for an instant refresher\. Zzzz...
 
-187 songs - 9 hr 2 min
+189 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Blue Dreams](https://open.spotify.com/track/0kYlmcBwBPYZQw8QGPqWVL) | [Alfoni Berg](https://open.spotify.com/artist/4HmnKRjtlqVw3RistO5zLB) | [Blue Dreams](https://open.spotify.com/album/7z5e26s8Sq8huiUwxCphyd) | 3:00 | 2024-03-06 |  |
 | [Bolide](https://open.spotify.com/track/2G0uibx9lPhjj6vqaaQhM1) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Bolide](https://open.spotify.com/album/58rKwbBBwBzlcgaMBlqDe1) | 3:24 | 2023-11-15 |  |
 | [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 | 2023-11-15 |  |
-| [Calm Patient](https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Calm Patient](https://open.spotify.com/album/4KvtEcKitdJ2xnXhpsagP9) | 3:24 | 2023-11-15 |  |
+| [Calm Patient](https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Calm Patient](https://open.spotify.com/album/4KvtEcKitdJ2xnXhpsagP9) | 3:24 | 2023-11-15 | 2024-05-06 |
 | [Calm Reservoir](https://open.spotify.com/track/6oSfuQVa5NVuZE3kHYbFgN) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Calm Reservoir](https://open.spotify.com/album/3ZCjwdGKdjfSPyTsGPQyDd) | 3:35 | 2024-03-06 |  |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 |  |
 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 | 2023-11-15 |  |
@@ -84,7 +84,7 @@
 | [Gently Flow](https://open.spotify.com/track/6CGZ2JDFU2YRtCmiCkVLMk) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Gently Flow](https://open.spotify.com/album/5qD9rt2W1XmsYPrnqHc9xH) | 3:14 | 2023-11-15 |  |
 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 | 2023-11-15 | 2024-01-18 |
 | [Gruis Silentium](https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T) | [Lukasti](https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd) | [Gruis Silentium](https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz) | 2:38 | 2024-01-17 |  |
-| [Hamn](https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Imprints](https://open.spotify.com/album/4Vr5W9t7IVcVP56YKdst9R) | 2:47 | 2023-11-15 |  |
+| [Hamn](https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Imprints](https://open.spotify.com/album/4Vr5W9t7IVcVP56YKdst9R) | 2:47 | 2023-11-15 | 2024-05-06 |
 | [Harmony](https://open.spotify.com/track/1BDeMV08uNUpETmWGTfQFw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Harmony](https://open.spotify.com/album/03jsme3lLmwGjMm6fbSpzb) | 3:00 | 2023-11-15 |  |
 | [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 | 2023-11-15 |  |
 | [Here And There](https://open.spotify.com/track/2CHT0b02VjzQokfGso30lz) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Pulse](https://open.spotify.com/album/3ASv66CgbPxVKDPzq7ELGT) | 2:58 | 2023-11-15 |  |
@@ -107,6 +107,7 @@
 | [Kupenya](https://open.spotify.com/track/67E5gHkxme0nSKxCrWC5LJ) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Kupenya](https://open.spotify.com/album/2fQ2GPh52TOEG2s3YWVSzR) | 3:10 | 2023-11-15 |  |
 | [Land of Silence](https://open.spotify.com/track/5l5AzLGCZbFJsDgG7s2w5b) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Land of Silence](https://open.spotify.com/album/4PmfI0KZBSQBL4Bez8SIeH) | 3:16 | 2024-03-06 |  |
 | [Liberation](https://open.spotify.com/track/2S8zzsvlurouRcb7zbJOz1) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Liberation](https://open.spotify.com/album/7JF9wKUHdFIRxazAFUOMMX) | 2:30 | 2023-11-15 |  |
+| [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2023-11-15 |  |
 | [Lygophilia](https://open.spotify.com/track/2noNdyAX8mqrgW8m1wfQkO) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Lygophilia](https://open.spotify.com/album/3CKI3PcY3vGC9S69EoBLlA) | 3:37 | 2023-11-15 |  |
 | [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 | 2024-03-06 | 2024-05-05 |
@@ -154,6 +155,7 @@
 | [Softly](https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Softly](https://open.spotify.com/album/3eHldyd3B8vooLnelcDW8b) | 2:16 | 2023-11-15 |  |
 | [Solange](https://open.spotify.com/track/7CrjRJEOLkJ5oD7TTHpqZi) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Solange](https://open.spotify.com/album/0X2iA43edDtNT5UJZCVZUt) | 3:02 | 2024-02-08 |  |
 | [Solitaire](https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Solitaire](https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR) | 3:21 | 2024-03-06 |  |
+| [Solitude](https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5) | [Ed Stanley](https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba) | [Solitude](https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE) | 3:06 | 2024-05-04 |  |
 | [Something Free](https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [Something Free](https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P) | 3:29 | 2024-05-04 |  |
 | [Soothing Silence](https://open.spotify.com/track/3upcrEDvoH2Bz9i7hZc2Jh) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Soothing Silence](https://open.spotify.com/album/4eQ7KKy8yS84W0SrvIH7LP) | 3:10 | 2023-11-15 |  |
 | [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 | 2023-11-15 | 2024-01-18 |

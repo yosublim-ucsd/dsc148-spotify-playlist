@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Kendrick Lamar, Drake, Gunna and Chance The Rapper.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,438 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,469 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

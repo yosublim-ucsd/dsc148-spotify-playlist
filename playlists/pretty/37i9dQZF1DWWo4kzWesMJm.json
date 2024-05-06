@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 153657,
+  "num_followers": 153745,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Tiago",
-      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Sentiments Heureux",
         "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 187037,
       "name": "Pardonne-moi",
       "url": "https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Tiago",
+      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Engelberg",
+        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "D\u00e9jeuner en paix",
+      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 176618,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Engelberg",
-        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
-      },
-      "artists": [
-        {
-          "name": "Stephan Eicher",
-          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "D\u00e9jeuner en paix",
-      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Louane",
         "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -443,34 +459,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -519,6 +503,38 @@
       "duration_ms": 218133,
       "name": "Le reste",
       "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Juste Comme \u00c7a",
-        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
-      },
-      "artists": [
-        {
-          "name": "Mickael Miro",
-          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "L'horloge tourne",
-      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "L'attrape-r\u00eaves",
-        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+        "name": "Juste Comme \u00c7a",
+        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Mickael Miro",
+          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Il est o\u00f9 le bonheur",
-      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+      "duration_ms": 205973,
+      "name": "L'horloge tourne",
+      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Le Vagabond",
         "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192506,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La femme chocolat",
-        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ruiz",
-          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "La femme chocolat",
-      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La femme chocolat",
+        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "La femme chocolat",
+      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Osez Josephine",
-        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Osez Jos\u00e9phine",
-      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 254453,
       "name": "Week-end \u00e0 Rome",
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Osez Josephine",
+        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
+      },
+      "artists": [
+        {
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Osez Jos\u00e9phine",
+      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La Zizanie",
         "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 256760,
       "name": "Rue de la Paix",
       "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "M\u00e9langer les couleurs",
+        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
+      },
+      "artists": [
+        {
+          "name": "Kaolin",
+          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Partons vite",
+      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "La R\u00e9alit\u00e9",
         "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "M\u00e9langer les couleurs",
-        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
-      },
-      "artists": [
-        {
-          "name": "Kaolin",
-          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Partons vite",
-      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
     }
   ],
   "unique_name": "Bleu Blanc Route",

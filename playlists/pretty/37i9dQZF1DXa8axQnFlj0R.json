@@ -1,6 +1,6 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82481,
+  "num_followers": 82467,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Favourite Worst Nightmare",
         "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
@@ -423,22 +403,6 @@
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286369,
-      "name": "You\u2019re Gonna Go Far",
-      "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -459,6 +423,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286369,
+      "name": "You\u2019re Gonna Go Far",
+      "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -475,18 +455,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -523,26 +507,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Boys Of Faith (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 170824,
-      "name": "Boys Of Faith (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "She Calls Me Back (with Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
@@ -563,6 +527,26 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -579,26 +563,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
       },
@@ -611,6 +575,22 @@
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -647,22 +627,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Do You Love Me, or Are You Just Lonely?",
         "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
       },
@@ -695,6 +659,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 200755,
-      "name": "Autumn Leaves - Deluxe Edition",
-      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Now That The Light Is Fading",
         "url": "https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 277506,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 200755,
+      "name": "Autumn Leaves - Deluxe Edition",
+      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1099,6 +1083,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 301278,
       "name": "all in good Time,",
       "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 151240,
+      "name": "Rookery",
+      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Moonflowers (Binaural Acoustic Version)",
         "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+        "name": "Vanilla Sky",
+        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
         }
       ],
-      "duration_ms": 151240,
-      "name": "Rookery",
-      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
+      "duration_ms": 236800,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1623,22 +1639,6 @@
       "duration_ms": 275528,
       "name": "Seastroke",
       "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
     },
     {
       "added_at": "2023-12-01 16:37:09",

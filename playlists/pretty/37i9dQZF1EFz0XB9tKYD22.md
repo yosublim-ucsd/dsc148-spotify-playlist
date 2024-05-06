@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 305 songs - 18 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 305 songs - 18 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 59 | [I'm Not so Tough](https://open.spotify.com/track/0QlDzeI31sMoBzGAyB0Olm) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [World Of Hurt](https://open.spotify.com/album/4cfMqW4uICDNhkn58pPH4r) | 4:27 |
 | 60 | [That Song That We Used To Make Love To](https://open.spotify.com/track/3vkyyOw92iKKIV5Io2fBdk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:35 |
 | 61 | [The Girl You Think I Am](https://open.spotify.com/track/4MuTmMBnXVAoYK5YZWkfOL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:37 |
-| 62 | [Unapologetic](https://open.spotify.com/track/5rAirKlcsH0bNbAkvegKmg) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/3VFLjNPxe2cg7cUuXlhVGF) | 3:52 |
-| 63 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:14 |
+| 62 | [I AIN'T IN THE COUNTRY NO MORE](https://open.spotify.com/track/0RI2PWj7erLkPnA11N3Vn9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:14 |
+| 63 | [Unapologetic](https://open.spotify.com/track/5rAirKlcsH0bNbAkvegKmg) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/3VFLjNPxe2cg7cUuXlhVGF) | 3:52 |
 | 64 | [Somebody's Got Me](https://open.spotify.com/track/71XuRpRuXmlqgjXapnPNA5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:24 |
 | 65 | [HATE YOUR HOMETOWN](https://open.spotify.com/track/2gklw0crNmf2wCGCrg8YQ7) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:28 |
 | 66 | [Backsliding](https://open.spotify.com/track/0pNA563kEMCfhMYRVQGH4Y) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:37 |
@@ -277,7 +277,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 267 | [Kryptonite \(In the Style of 3 Doors Down\) \[Karaoke Version\]](https://open.spotify.com/track/4iwzGRD8xVbkl4O97gmQf9) | [The Karaoke Channel](https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ) | [The Karaoke Channel \- Modern Rock, Vol\. 1](https://open.spotify.com/album/3oHDClX8I1rdkzIKA5goFj) | 3:55 |
 | 268 | [Over Here](https://open.spotify.com/track/21tMPuHSZHyCFN7HLPTzaJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/7k6j5je7kqcbz1rGTPbU9z) | 3:34 |
 | 269 | [Lemonade](https://open.spotify.com/track/6U2KmhDPlTqBAb2175X6qc) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [What If?](https://open.spotify.com/album/0FP9mhZ6IrDakt1eguqauS) | 4:22 |
-| 270 | [Stunt Double](https://open.spotify.com/track/6kR41UZn9nP1919TJsjtsn) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ) | [Stunt Double](https://open.spotify.com/album/1FmRdDcipW9Pw7OZVJDkLs) | 2:40 |
+| 270 | [Stunt Double](https://open.spotify.com/track/5LAAz2QNBubOceyLmEDPOY) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ) | [Moonshine](https://open.spotify.com/album/2EqcrSbhOA4zeUz9sepEgf) | 2:41 |
 | 271 | [Tie a Knot](https://open.spotify.com/track/3TxrgvVqp7c3ysc3aP04Kl) | [Chris Kroeze](https://open.spotify.com/artist/1GlT9mh68e99db68QqSKnf) | [Tie a Knot](https://open.spotify.com/album/7zYCoEhsyBJdgqQrGTPYYA) | 3:07 |
 | 272 | [I Should Be Dancing](https://open.spotify.com/track/7Drfpq8DConRof9Otf0Yhf) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Little Galaxy Girl](https://open.spotify.com/album/2AszC7OP4Fka4YRF7uE9Zp) | 2:54 |
 | 273 | [Nights This Long](https://open.spotify.com/track/6pFG1kUX0jQgBCl9ne6BrZ) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 3:04 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 304 | [You Ain't Know](https://open.spotify.com/track/5RNg2kjJYS9yPR6UEV1uUV) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [Underrated Favorite \(If This Yo Beat Contact Me\)](https://open.spotify.com/album/2hRf9Uw6TAzo4RPwG1x325) | 3:34 |
 | 305 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
 
-Snapshot ID: `AbQeQAAAAACfMLs/rBvjlIDSOZmII3iH`
+Snapshot ID: `AbQjawAAAABAmsDOnLNkSBLNx0cj+c9U`

@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=HiPi0eTOTaGlT9gbytUBvw">Zaan Sonnekus</a>
 
-467 songs - 1 day 3 hr 54 min
+468 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
 | [Bones](https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o) | [Avolver](https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H) | [Bones](https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d) | 3:41 | 2023-07-28 | 2023-09-29 |
-| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 |  |
+| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 | 2024-05-06 |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 | 2022-11-18 |
 | [Bumper Sticker](https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3) | [Berry](https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd) | [Bumper Sticker](https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8) | 2:54 | 2023-12-21 | 2024-01-05 |
 | [Burn It](https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Burn It](https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi) | 2:32 | 2023-07-06 | 2023-09-16 |
@@ -457,6 +457,7 @@
 | [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 | 2023-02-10 |
 | [Wasting time](https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl) | [TASH AYY](https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas), [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU) | [Wasting time](https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp) | 2:27 | 2023-07-06 | 2023-09-08 |
 | [Wat Is Daar ?](https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Wat Is Daar ?](https://open.spotify.com/album/3c86T6y2WbY0NwHqS5AfXZ) | 3:25 | 2023-04-20 | 2023-06-23 |
+| [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 | 2024-05-03 |  |
 | [Weet Jy](https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Weet Jy](https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6) | 3:27 | 2023-11-09 | 2024-01-05 |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 | 2023-02-22 |

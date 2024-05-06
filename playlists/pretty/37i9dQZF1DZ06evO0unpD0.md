@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 ### [This Is Salif Keita](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0unpD0)
 
-> This is Salif Keita\. The essential tracks, all in one playlist.
+> This is Salif Keita\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 51 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,336 likes - 51 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 50 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
 | 51 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 
-Snapshot ID: `ZjQpAAAAAAB7uhjXoCJXjns7YQgveUMf`
+Snapshot ID: `ZjQpAAAAAACF6KAS+oO5IMME3JrieDk0`

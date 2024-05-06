@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,029 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,034 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 8 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 9 | [Middle Of The Morning](https://open.spotify.com/track/1VejkW4ukr4OYAStO4D6uz) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Middle Of The Morning](https://open.spotify.com/album/61NDyf05mLoBIffc9DagyB) | 4:40 |
 | 10 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 |
-| 11 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
-| 12 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 11 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
+| 12 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 13 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
-| 14 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
+| 14 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 15 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 |
 | 16 | [Bethel Woods](https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [Bethel Woods](https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l) | 4:23 |
 | 17 | [Mirror and a Kitchen Sink](https://open.spotify.com/track/6lOcgI6qDE6vQNo6tVJc2A) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Mirror and a Kitchen Sink](https://open.spotify.com/album/1CqK4lh4GQVPist2p7xXUy) | 2:35 |
 | 18 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
-| 19 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
-| 20 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
-| 21 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
+| 19 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
+| 20 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
+| 21 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
 | 22 | [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 |
 | 23 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 24 | [Dreams \(feat\. Judah & The Lion\)](https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:09 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 56 | [Set the World on Fire](https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG) | [Early Morning Rebel](https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ) | [Set the World on Fire](https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP) | 2:45 |
 | 57 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
 | 58 | [Looking for Love](https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 3:39 |
-| 59 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 |
-| 60 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 |
+| 59 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 |
+| 60 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 |
 | 61 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
 | 62 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 63 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 89 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 90 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 91 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
-| 92 | [Roots And Wings](https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Roots And Wings](https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A) | 3:54 |
-| 93 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 |
-| 94 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
+| 92 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 |
+| 93 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
+| 94 | [Roots And Wings](https://open.spotify.com/track/5MmUghS4gZ3H7RdZf2KE3g) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Roots And Wings](https://open.spotify.com/album/2TyE0FB5qnlf4aPmgHBE7A) | 3:54 |
 | 95 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
 | 96 | [The Wire](https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [The Wire](https://open.spotify.com/album/7fZmMsAMHliG6Jx0fDohiK) | 2:56 |
 | 97 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 |

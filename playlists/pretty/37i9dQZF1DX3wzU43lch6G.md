@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,782 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,792 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 8 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 |
 | 9 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |
 | 10 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 |
-| 11 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
+| 11 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
 | 12 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
-| 13 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
+| 13 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
 | 14 | [Tavla](https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:31 |
 | 15 | [AHŞAP DÜŞLERİM](https://open.spotify.com/track/5n6OeMQ2Rz7QywQfhQaqyi) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 2:40 |
 | 16 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 21 | [Şarkı Söylemek Lazım](https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Şarkı Söylemek Lazım](https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU) | 4:20 |
 | 22 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |
 | 23 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
-| 24 | [Sen Istersin](https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Sen Istersin](https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5) | 3:23 |
-| 25 | [Bildiğim Gibi](https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Bildiğim Gibi](https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro) | 2:54 |
+| 24 | [Bildiğim Gibi](https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Bildiğim Gibi](https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro) | 2:54 |
+| 25 | [Sen Istersin](https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Sen Istersin](https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5) | 3:23 |
 | 26 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
 | 27 | [Aşk](https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Karma](https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi) | 4:22 |
 | 28 | [Kumsalda](https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Turuncu](https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO) | 3:46 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 36 | [Oyunbaz](https://open.spotify.com/track/0ctDpklud2Y5eY4KOsCmTJ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Oyunbaz](https://open.spotify.com/album/5vj6vkFybfZR136v1Rcius) | 3:18 |
 | 37 | [Bi' Fazla](https://open.spotify.com/track/5CEDFlX2WDEwZNHv588tJc) | [Elçin Orçun](https://open.spotify.com/artist/1e6JMnBTnlsmLfUIshPefJ), [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Bi' Fazla](https://open.spotify.com/album/5ZytuhJ7mB6QwiUUQVbOFv) | 3:23 |
 | 38 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
-| 39 | [ultrapop](https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [ultrapop](https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw) | 3:58 |
-| 40 | [Hatıralar](https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:36 |
+| 39 | [Hatıralar](https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:36 |
+| 40 | [ultrapop](https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [ultrapop](https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw) | 3:58 |
 | 41 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
 | 42 | [Kaybolur](https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Kaybolur](https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ) | 4:52 |
 | 43 | [Güneşin Kızkardeşi](https://open.spotify.com/track/65Nr8C2BnozPaFH02SP38v) | [Gökçe Kılınçer](https://open.spotify.com/artist/1XDrTgMm3OOlIPOfyxm4xM) | [Kalbimde İzi Var](https://open.spotify.com/album/2hWypQdjsGKsyER7NlmIZj) | 4:37 |

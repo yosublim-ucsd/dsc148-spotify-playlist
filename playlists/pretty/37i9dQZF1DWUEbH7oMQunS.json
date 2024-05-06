@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60744,
+  "num_followers": 60759,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Keep On Hoping",
-        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Keep On Hoping - Piano Choir Version",
-      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Keep On Hoping",
+        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Keep On Hoping - Piano Choir Version",
+      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
         "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 223346,
       "name": "I Could Sing Of Your Love Forever - Instrumental",
       "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Grunewald Church Session",
+        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Selke",
+          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
+        },
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 418995,
+      "name": "Without Shelter",
+      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Grunewald Church Session",
-        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Selke",
-          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
-        },
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 418995,
-      "name": "Without Shelter",
-      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        },
-        {
-          "name": "Madison Nightingale",
-          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How To Love",
         "url": "https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        },
+        {
+          "name": "Madison Nightingale",
+          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
       },
       "artists": [
         {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,22 +1475,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "out of my grave (undone)",
-        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 271363,
-      "name": "out of my grave (undone)",
-      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "hold on",
         "url": "https://open.spotify.com/album/5wT1Um8Gg0CfBgKknqUmY3"
       },
@@ -1539,6 +1507,38 @@
       "duration_ms": 282734,
       "name": "5am",
       "url": "https://open.spotify.com/track/5ZRfi9VQZJUK6MyaGSgjt7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "out of my grave (undone)",
+        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 271363,
+      "name": "out of my grave (undone)",
+      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",

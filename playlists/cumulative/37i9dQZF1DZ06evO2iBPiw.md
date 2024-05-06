@@ -2,7 +2,7 @@
 
 ### [This Is The Beatles](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iBPiw)
 
-> This is The Beatles\. The essential tracks, all in one playlist.
+> This is The Beatles\. Todos os maiores hits em uma só playlist.
 
 69 songs - 3 hr 11 min
 

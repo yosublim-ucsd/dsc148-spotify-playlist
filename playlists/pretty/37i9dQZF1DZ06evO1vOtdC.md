@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This is Jennifer Lopez\. The essential tracks, all in one playlist.
+> This Is Jennifer Lopez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,810 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,824 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 | 49 | [Amor, Amor, Amor \(feat\. Wisin\)](https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Amor, Amor, Amor \(feat\. Wisin\)](https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y) | 3:18 |
 | 50 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
 
-Snapshot ID: `ZjQpAAAAAADyfDGXxfGoQfBR0urCeg4c`
+Snapshot ID: `ZjQpAAAAAAAtSZUcKoa3AeDeOmUE63xk`

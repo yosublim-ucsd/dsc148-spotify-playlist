@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
@@ -8022,11 +8022,15 @@
         {
           "name": "ACOURVE",
           "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        },
+        {
+          "name": "Han-All",
+          "url": "https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB"
         }
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 213211,
       "name": "What I want to say",
       "url": "https://open.spotify.com/track/4door6xOPf2auseb5Foc9f"

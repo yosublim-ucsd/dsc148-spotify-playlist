@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,080 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,096 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 21 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 22 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
 | 23 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
-| 24 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
-| 25 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
+| 24 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
+| 25 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 26 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
-| 27 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
-| 28 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
-| 29 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
+| 27 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 28 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
+| 29 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 30 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 31 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 32 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 61 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
 | 62 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
 | 63 | [Yeah Yeah Yeah \- Radio Edit](https://open.spotify.com/track/6gWGSfzjmrSSA9OWzHRPQV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Yeah Yeah Yeah](https://open.spotify.com/album/2BIysitWt4syY0IkrxVCm5) | 3:39 |
-| 64 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
-| 65 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
+| 64 | [Guten Tag](https://open.spotify.com/track/5YVAa5A1w987AIeCn6I0UI) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:35 |
+| 65 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
 | 66 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 |
 | 67 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 68 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |

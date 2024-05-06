@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 ### [This Is Bonnie Raitt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MOc1x)
 
-> This Is Bonnie Raitt\. Los temas esenciales, todos en una lista.
+> This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,872 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,885 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 50 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
 | 51 | [All Alone With Something To Say](https://open.spotify.com/track/67hnL3LuKs6JiphyY6SHgl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:11 |
 
-Snapshot ID: `ZjQpAAAAAAAk073yWlmD5Gp1pDYaSIVP`
+Snapshot ID: `ZjQpAAAAAACNfOgywtmjtzfq6+YC4Yyk`

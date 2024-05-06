@@ -2,7 +2,7 @@
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
+> This is Grupo Niche\. The essential tracks, all in one playlist.
 
 81 songs - 6 hr 52 min
 

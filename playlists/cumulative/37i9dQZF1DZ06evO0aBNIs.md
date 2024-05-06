@@ -2,7 +2,7 @@
 
 ### [This Is Avril Lavigne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aBNIs)
 
-> This Is Avril Lavigne\. Los temas esenciales, todos en una lista.
+> This is Avril Lavigne\. The essential tracks, all in one playlist.
 
 55 songs - 3 hr 9 min
 

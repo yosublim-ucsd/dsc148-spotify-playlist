@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This Is Jon Hassell\. Los temas esenciales, todos en una lista.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,990 likes - 52 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,993 likes - 52 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 51 | [Ondas Do Mar De Vigo](https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:30 |
 | 52 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 |
 
-Snapshot ID: `ZjQpAAAAAABuxmh/I5fKCZd9phQinl3Z`
+Snapshot ID: `ZjQpAAAAAACOr3QHVwRIzCJRpLdBk3bL`

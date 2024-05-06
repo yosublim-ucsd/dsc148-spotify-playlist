@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 ### [This Is Jimmy Eat World](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25r82I)
 
-> This is Jimmy Eat World\. The essential tracks, all in one playlist.
+> This Is Jimmy Eat World\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,007 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,009 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
 | 50 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
 
-Snapshot ID: `ZjQpAAAAAAAasD+cwJyVg3mMYe5yhAkc`
+Snapshot ID: `ZjQpAAAAAADRafAFwavkmX+RtY1FEpHc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,531 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,548 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Vai Viver](https://open.spotify.com/track/60ILJutBf3XoAfmNafR8mz) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vai Viver](https://open.spotify.com/album/0tmVFpNaA1in2fz5oK4NVp) | 2:28 |
 | 11 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |
 | 12 | [Sem Usar As Mãos](https://open.spotify.com/track/57kFKoulgzOD9pHZckFHGJ) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Sem Usar As Mãos](https://open.spotify.com/album/1NgTq6gAfIE20JZSMSzgF0) | 2:29 |
-| 13 | [Quem É o Louco Entre Nós](https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Quem É o Louco Entre Nós](https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV) | 3:28 |
-| 14 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
+| 13 | [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 |
+| 14 | [Quem É o Louco Entre Nós](https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Quem É o Louco Entre Nós](https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV) | 3:28 |
 | 15 | [Me Perdoa](https://open.spotify.com/track/7dH7wklD8mfSt2Iu0jeh32) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Me Perdoa](https://open.spotify.com/album/50p3j1Wu9Cqw5AUL5Wb4xO) | 3:39 |
 | 16 | [Agora Estou Sofrendo](https://open.spotify.com/track/6MXWnt6UnVkmg6NCPTkOAR) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [VOL 1](https://open.spotify.com/album/0yfXQFjXzsWM8bqgwaDqvL) | 3:07 |
 | 17 | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/track/0WJUDo8zBPX0uAwh2OwDw6) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/album/0wcl7GG5vw172Nm6sVGAXm) | 2:33 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 37 | [Carinho E Respeito](https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:40 |
 | 38 | [Paracetamal \- Ao Vivo](https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Paracetamal \(Ao Vivo\)](https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8) | 2:50 |
 | 39 | [Passione](https://open.spotify.com/track/75rWUt2aqjGj2qKLD7hFcY) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Passione](https://open.spotify.com/album/3cGGvKieKWwGfqB3LJJAP0) | 2:34 |
-| 40 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
-| 41 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
+| 40 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
+| 41 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
 | 42 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |
 | 43 | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs) | [Alinne Rosa](https://open.spotify.com/artist/6jrXjOgvZxar7qULTgJ9xd) | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6) | 2:34 |
 | 44 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |

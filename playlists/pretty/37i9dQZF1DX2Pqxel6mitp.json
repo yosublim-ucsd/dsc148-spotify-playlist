@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 84849,
+  "num_followers": 84929,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 186429,
       "name": "Mississippi Phone Booth",
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 247293,
       "name": "Somebody Was Watching",
       "url": "https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 175293,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "How Many Miles",
         "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 351960,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 156465,
-      "name": "The Sun is Shining",
-      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 179293,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 156465,
+      "name": "The Sun is Shining",
+      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Keep on Lovin You (feat. Billy Branch)",
         "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 315842,
       "name": "Keep on Lovin You (feat. Billy Branch)",
       "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "Hangover Blues",
+      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 231373,
       "name": "Dance In The Fire",
       "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1355,6 +1339,22 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
-      },
-      "artists": [
-        {
-          "name": "Mary Flower",
-          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
-        }
-      ],
-      "duration_ms": 372440,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
       },
@@ -1471,22 +1439,50 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Dirtiest Little Darling / Railroad Bill",
-        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
       },
       "artists": [
         {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        },
-        {
-          "name": "NO",
-          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Dirtiest Little Darling",
-      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 291295,
+      "name": "T.B. Blues",
+      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+      },
+      "artists": [
+        {
+          "name": "Mary Flower",
+          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+        }
+      ],
+      "duration_ms": 372440,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+        "name": "Dirtiest Little Darling / Railroad Bill",
+        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        },
+        {
+          "name": "NO",
+          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
+      "duration_ms": 211999,
+      "name": "Dirtiest Little Darling",
+      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "When Your Best Friend Turns Their Back On You",
         "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 361200,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "duration_ms": 222724,
+      "name": "Smoke In Heaven",
+      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
     },
     {
       "added_at": "2023-11-24 19:23:20",

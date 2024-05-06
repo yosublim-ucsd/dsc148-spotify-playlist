@@ -2859,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Good Day To Have A Great Day",
+        "url": "https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181471,
+      "name": "Good Day To Have A Great Day",
+      "url": "https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ"
+    },
+    {
+      "album": {
         "name": "Revival (Deluxe)",
         "url": "https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE"
       },

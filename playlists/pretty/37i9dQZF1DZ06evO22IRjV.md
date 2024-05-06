@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 ### [This Is FLOW](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV)
 
-> This is FLOW\. The essential tracks, all in one playlist.
+> This Is FLOW\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,906 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,905 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [風ノ唄 \-TV Size\-](https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [「風ノ唄 / BURN」Special Edition](https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4) | 1:31 |
 | 50 | [New World](https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [New World](https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o) | 3:42 |
 
-Snapshot ID: `ZjQpAAAAAAC3iD6RPorFBpRIYVMxJNQI`
+Snapshot ID: `ZjQpAAAAAACoWEpYLBQolqOnFzQXbknE`

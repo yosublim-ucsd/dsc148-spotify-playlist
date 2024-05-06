@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23988,
+  "num_followers": 23986,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 205436,
       "name": "Entre las Dos",
       "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "MOTIVEISHON",
-        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 272695,
       "name": "ACUARIO",
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "MOTIVEISHON",
+        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Emocionalmente Tuya",
-        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Emocionalmente Tuya",
-      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 255591,
       "name": "la noche de ayer",
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 279602,
       "name": "Caribbean",
       "url": "https://open.spotify.com/track/6etFpoM9bw0PU094PMLGvL"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 174000,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Regresar\u00e1s \u2606",
-        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Regresar\u00e1s \u2606",
-      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 182291,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Regresar\u00e1s \u2606",
+        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Regresar\u00e1s \u2606",
+      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "\u00c1ngel Malo",
-        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
-        }
-      ],
-      "duration_ms": 214871,
-      "name": "\u00c1ngel Malo",
-      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Voces",
         "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "\u00c1ngel Malo",
+        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
+        }
+      ],
+      "duration_ms": 214871,
+      "name": "\u00c1ngel Malo",
+      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Marcha II",
         "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 224330,
       "name": "Atentado en la Pista",
       "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "POKITO",
         "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 252631,
       "name": "POKITO",
       "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2024-04-26 03:00:00",

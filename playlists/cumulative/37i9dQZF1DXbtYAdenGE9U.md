@@ -4,13 +4,14 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-207 songs - 15 hr 4 min
+208 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 | 2023-08-11 |  |
 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Trance Top 1000 \(Ibiza Anthems Mini Mix\)](https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu) | 3:30 | 2023-03-10 | 2023-08-12 |
 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/5bXnzTMEhriK5eDcnqQiAF) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:30 | 2023-12-27 | 2024-01-12 |
+| [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 | 2023-08-11 |  |
 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 | 2022-04-13 | 2022-12-28 |
 | [Access](https://open.spotify.com/track/7hSoJdm05diF5TTUMVSGE2) | [DJ Misjah](https://open.spotify.com/artist/3GKyfn5Iyo8i5TxoV9jPms), [DJ Tim](https://open.spotify.com/artist/04VoCQzRyRw8P2jo52hqja) | [Access](https://open.spotify.com/album/23hsjehr7o0RSogMGoUa6c) | 3:17 | 2023-12-27 | 2024-01-12 |
 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 | 2022-04-13 |  |
@@ -124,7 +125,7 @@
 | [Nessaja](https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live And Direct](https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b) | 3:28 | 2023-03-10 | 2024-04-19 |
 | [Northern Lights \- Original Mix](https://open.spotify.com/track/4wKyAjQqOCQvdZmmLumyOV) | [Smith & Pledger](https://open.spotify.com/artist/63hQuDdizTNfxbpzJKv8Gf) | [Northern Lights](https://open.spotify.com/album/4Vm8pk6adVCIkCR7jlq8HM) | 7:39 | 2022-12-28 | 2023-03-11 |
 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 | 2022-04-13 | 2022-12-28 |
-| [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 | 2023-08-11 |  |
+| [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 | 2023-08-11 | 2024-05-06 |
 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 | 2022-04-13 | 2022-12-28 |
 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2023-03-10 |  |
 | [Offshore](https://open.spotify.com/track/5bnUjj92zOde2PV0rRSZFq) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trance Top 1000 \- Ibiza Anthems Mini Mix 2](https://open.spotify.com/album/07h9d80BYaUL7OaYnOtaZN) | 4:28 | 2023-12-27 | 2024-01-12 |

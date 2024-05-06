@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 ### [This Is Christina Aguilera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
 
-> This Is Christina Aguilera\. Todas as faixas essenciais numa única playlist.
+> This Is Christina Aguilera\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,263 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,281 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 |
 | 50 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 
-Snapshot ID: `ZjQpAAAAAADYkFw8K3WP3AMo4l81WFm0`
+Snapshot ID: `ZjQpAAAAAACy0rXlFtyS2aHFKwOlsmu7`

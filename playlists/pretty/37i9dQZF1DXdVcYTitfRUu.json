@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9760,
+  "num_followers": 9759,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
       },
@@ -203,6 +171,22 @@
       "duration_ms": 246236,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -239,22 +223,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 158733,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -351,6 +335,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Romantic Doctor 3 OST Part.4",
-        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Still You",
-      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 213946,
       "name": "Scars leave beautiful trace",
       "url": "https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.4",
+        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y"
-      },
-      "artists": [
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 248390,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
       },
@@ -927,6 +911,38 @@
       "duration_ms": 229373,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Let's Stay Well (My love X Roy Kim)",
+        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Let's Stay Well (My love X Roy Kim)",
+      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 248390,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -951,22 +967,6 @@
       "duration_ms": 178813,
       "name": "Attention (Feat. DAWN, BLAS\u00c9)",
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Let's Stay Well (My love X Roy Kim)",
-        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Let's Stay Well (My love X Roy Kim)",
-      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "The King's Affection OST Part.3",
-        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "IF I",
-      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 197226,
       "name": "O (Circle)",
       "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "The King's Affection OST Part.3",
+        "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z"
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
       "artists": [
         {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 221733,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId"
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

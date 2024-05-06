@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,420 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,433 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 44 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 | 45 | [Lat Ulajhi](https://open.spotify.com/track/7pbF3jhnwASjMxeItgHP1S) | [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Classical Unwind](https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8) | 3:59 |
 | 46 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
-| 47 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
-| 48 | [Divine Krishna](https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [We for Love](https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo) | 4:53 |
+| 47 | [Divine Krishna](https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [We for Love](https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo) | 4:53 |
+| 48 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 49 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
-| 50 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
+| 50 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 
 Snapshot ID: `ZitPuAAAAAC7Nine1RiUqPR9dIVp7lKX`

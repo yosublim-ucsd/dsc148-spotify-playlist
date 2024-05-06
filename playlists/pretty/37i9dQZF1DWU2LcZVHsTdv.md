@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,834 likes - 191 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,876 likes - 191 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

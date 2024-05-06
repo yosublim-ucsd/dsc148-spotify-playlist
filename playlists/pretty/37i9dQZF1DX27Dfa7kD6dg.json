@@ -1,6 +1,6 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 35677,
+  "num_followers": 35717,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -155,42 +175,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Cara De Ni\u00f1o",
         "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 298640,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -267,22 +267,6 @@
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -355,24 +339,8 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
@@ -380,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Y Hubo Alguien",
-      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -403,6 +371,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Retrom\u00e1ntico",
         "url": "https://open.spotify.com/album/6TkAh6TSdd1N2cHOmN8NMh"
       },
@@ -419,38 +403,6 @@
       "duration_ms": 253172,
       "name": "Cosas Del Amor (feat. Tito Nieves)",
       "url": "https://open.spotify.com/track/42RY9VETwNoDlVlUDI5lTM"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 274773,
-      "name": "Esos Ojitos Negros",
-      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359373,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -491,6 +443,38 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 388360,
+      "name": "Y Hubo Alguien",
+      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359373,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Serie Millennium",
         "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 297373,
-      "name": "Un Verano en NY",
-      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
+      "duration_ms": 274773,
+      "name": "Esos Ojitos Negros",
+      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -539,22 +523,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Regresando al Guaguanc\u00f2",
-        "url": "https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX"
-      },
-      "artists": [
-        {
-          "name": "La Maxima 79",
-          "url": "https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "No Sirvo Pa' Queso",
-      "url": "https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Descargando",
         "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 294013,
       "name": "Hermano",
       "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Regresando al Guaguanc\u00f2",
+        "url": "https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX"
+      },
+      "artists": [
+        {
+          "name": "La Maxima 79",
+          "url": "https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "No Sirvo Pa' Queso",
+      "url": "https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -607,22 +591,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Live in Berlin",
         "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
       },
@@ -635,26 +603,6 @@
       "duration_ms": 259800,
       "name": "La Negra Tomasa",
       "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -675,22 +623,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Decision Unanime",
         "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
@@ -707,6 +639,22 @@
       "duration_ms": 323266,
       "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
       "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "Un Verano en NY",
+      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -743,6 +691,42 @@
       "duration_ms": 292000,
       "name": "El Que Se Fue - Tributo A Tito Rodriguez",
       "url": "https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 269293,
       "name": "Insaciable",
       "url": "https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Salsa Nama",
-        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 332532,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Instant Party",
         "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 346520,
       "name": "Fiesta A La King",
       "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Salsa Nama",
+        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 332532,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Tito Puente",
-        "url": "https://open.spotify.com/album/3kDppMgCRyjRcZpBe80jds"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/7lfqrP1anRkEbZcXPrVO72"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/30Ziol0mrhnRTBaPhGDMZY"
       },
@@ -1027,26 +1011,6 @@
       "duration_ms": 388920,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/3TX0IQHj5W67ioc5vBQTRa"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5yufWjlFIaT0nRyMTSsw5k"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 327640,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/2FKMIqdrzUkkAuSkdLbMCy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1067,6 +1031,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Tito Puente",
+        "url": "https://open.spotify.com/album/3kDppMgCRyjRcZpBe80jds"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 167146,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/7lfqrP1anRkEbZcXPrVO72"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/4YgJNWVW3Kxr52Kui8HTY0"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 155320,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/54VB0KUguo7GExJPfiO5bW"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5yufWjlFIaT0nRyMTSsw5k"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 327640,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/2FKMIqdrzUkkAuSkdLbMCy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7B5q1qXNsvq6iWHnmKh3QJ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Llanto de Cocodrilo",
+      "url": "https://open.spotify.com/track/6mMaYfH0sGOwI1OtXKQilZ"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Separala Tambien! Cantando Tito Rodriguez",
         "url": "https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 242653,
       "name": "Presidente Dante",
       "url": "https://open.spotify.com/track/5pibZuJACsp9DLDZiO7v08"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7B5q1qXNsvq6iWHnmKh3QJ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Llanto de Cocodrilo",
-      "url": "https://open.spotify.com/track/6mMaYfH0sGOwI1OtXKQilZ"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Exitos de Oscar D'Leon Con la Critica",
-        "url": "https://open.spotify.com/album/64oV3qY9joPQ4kk9cVsEDx"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 239420,
-      "name": "Pregones de San Cristobal",
-      "url": "https://open.spotify.com/track/6TXTetHtUEnMPN5GW8bhkq"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "La Dinamica!",
         "url": "https://open.spotify.com/album/5ByXzZM3z6NonSy3V5BujM"
       },
@@ -1659,22 +1643,6 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/1ezMooxpD8suUF0KCbcBBh"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Tito Rodriguez - El Inolvidable",
-        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Matrimonio Fel\u00edz",
-      "url": "https://open.spotify.com/track/13O1aPwBvWazxCQidZgBAm"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1711,6 +1679,38 @@
       "duration_ms": 270386,
       "name": "Carro De Fuego",
       "url": "https://open.spotify.com/track/12lQYX4ZOpIQzodrf5dfWx"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Exitos de Oscar D'Leon Con la Critica",
+        "url": "https://open.spotify.com/album/64oV3qY9joPQ4kk9cVsEDx"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 239420,
+      "name": "Pregones de San Cristobal",
+      "url": "https://open.spotify.com/track/6TXTetHtUEnMPN5GW8bhkq"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Tito Rodriguez - El Inolvidable",
+        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Matrimonio Fel\u00edz",
+      "url": "https://open.spotify.com/track/13O1aPwBvWazxCQidZgBAm"
     },
     {
       "added_at": "2024-04-26 04:00:00",

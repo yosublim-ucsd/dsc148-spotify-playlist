@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 ### [This Is Los Invasores De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jkCWI)
 
-> This Is Los Invasores De Nuevo León\. Los temas esenciales, todos en una lista.
+> This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,428 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,475 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 50 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 |
 | 51 | [El Hijo Del Campo](https://open.spotify.com/track/0DLX5l27nAvkwGRaojT1tp) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:31 |
 
-Snapshot ID: `ZjQpAAAAAACz8Q1iZqRR6MWYGJ8WlJbY`
+Snapshot ID: `ZjQpAAAAAACMSrcdC6P7C/SHHTsnKN/w`

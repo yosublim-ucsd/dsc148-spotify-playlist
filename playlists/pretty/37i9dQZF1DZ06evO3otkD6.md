@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This Is Belinda\. Los temas esenciales, todos en una lista.
+> This is Belinda\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,577 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,605 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 50 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
 | 51 | [Culpable](https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:55 |
 
-Snapshot ID: `ZjQpAAAAAAAILAcsaG2wJsBJdHJ9XiKS`
+Snapshot ID: `ZjQpAAAAAADjhb3+Y+1g5p02nm/DagPd`

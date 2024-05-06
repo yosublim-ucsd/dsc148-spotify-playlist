@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 ### [This Is All Time Low](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ow6ru)
 
-> This is All Time Low\. The essential tracks, all in one playlist.
+> This Is All Time Low\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,004 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,036 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Jasey Rae](https://open.spotify.com/track/1oTtOTbcP8waTv4wPsCqSm) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:38 |
 | 50 | [Toxic Valentine](https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Toxic Valentine](https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ) | 2:52 |
 
-Snapshot ID: `ZjQpAAAAAACuprObnYxDiWyh9cV5s/ES`
+Snapshot ID: `ZjQpAAAAAABC6ReE5y9e22CMSWNDArrP`

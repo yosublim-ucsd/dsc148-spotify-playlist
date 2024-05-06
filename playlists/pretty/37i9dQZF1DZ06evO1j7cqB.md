@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. The essential tracks, all in one playlist.
+> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,381 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,388 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 50 | [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 |
 | 51 | [Clearing the Mind](https://open.spotify.com/track/7HBKEbxLboNg62hY7kU1dO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 5:53 |
 
-Snapshot ID: `ZjQpAAAAAAC+vXx1Z7n3AE5Z30uNtepc`
+Snapshot ID: `ZjQpAAAAAAD1G2CW4j6/DH61zUnT9Nec`

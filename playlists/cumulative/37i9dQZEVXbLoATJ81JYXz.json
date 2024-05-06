@@ -11947,6 +11947,24 @@
     },
     {
       "album": {
+        "name": "Genv\u00e4gar",
+        "url": "https://open.spotify.com/album/1wLejgtnjD8n95osYitup4"
+      },
+      "artists": [
+        {
+          "name": "G1ocatore",
+          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Genv\u00e4gar",
+      "url": "https://open.spotify.com/track/1xbJIGEE5UpKBHRt3DsKVH"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -17352,7 +17370,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 201752,
       "name": "KAN JAG FR\u00c5GA DIG?",
       "url": "https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB"
@@ -21550,7 +21568,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 194133,
       "name": "Miss Decibel",
       "url": "https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB"
@@ -32000,7 +32018,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Dowba Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,488 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,633 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 5 | [Mejor](https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1) | [Sin Nombre](https://open.spotify.com/artist/0b4EVanoJb8wkWF7QUA3uY), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Mejor](https://open.spotify.com/album/1YvnBIx0DSDyeitTrC9WnC) | 2:28 |
 | 6 | [Tiki Tiki](https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl) | [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb) | [Tiki Tiki](https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td) | 2:01 |
 | 7 | [Salida](https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Salida](https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy) | 2:14 |
-| 8 | [Es Mejor Estar Chilling](https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Babaco Peluche](https://open.spotify.com/artist/0HZUci0HLvbiJkWvXX1jxv) | [Es Mejor Estar Chilling](https://open.spotify.com/album/4Ye0PDKYTz5PK4l5uYOyeJ) | 2:25 |
+| 8 | [Chilling](https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Babaco Peluche](https://open.spotify.com/artist/0HZUci0HLvbiJkWvXX1jxv) | [Chilling](https://open.spotify.com/album/4Ye0PDKYTz5PK4l5uYOyeJ) | 2:25 |
 | 9 | [Sin ti No Puedo](https://open.spotify.com/track/0pmISps9jyqp0krs5Lq5nj) | [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Sin ti No Puedo](https://open.spotify.com/album/7wbQ8hYz20PfX3Vxr4AnyS) | 2:37 |
 | 10 | [Diamonds](https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1) | [TRAMPA BILLONE](https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Diamonds](https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P) | 3:07 |
 | 11 | [Ante](https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ante](https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La) | 2:05 |

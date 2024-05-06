@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,477 likes - 83 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,480 likes - 83 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,360 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,379 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 37 | [Let 'em Play](https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW) | 3:12 |
 | 38 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
 | 39 | [Dabde Ni](https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Dabde Ni](https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO) | 3:27 |
-| 40 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 |
+| 40 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 |
 | 41 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 |
 | 42 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 |
 | 43 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 |

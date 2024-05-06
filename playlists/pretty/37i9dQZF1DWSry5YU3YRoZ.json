@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5067,
+  "num_followers": 5065,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 240718,
-      "name": "When love passes by",
-      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
         "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 288933,
       "name": "Your River In Me",
       "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 257862,
-      "name": "\uc785\ub9de\ucda4",
-      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "We need to meet now",
         "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 229000,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "\uc785\ub9de\ucda4",
+      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 250453,
       "name": "Stay",
       "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 274304,
       "name": "\uadf8 \ubc24",
       "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "For my little one",
         "url": "https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU"
       },
@@ -795,34 +811,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "Slowcity",
+          "url": "https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "love letter",
-        "url": "https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW"
-      },
-      "artists": [
-        {
-          "name": "RYU MIN HEE",
-          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "love letter",
-      "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
+      "duration_ms": 231482,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

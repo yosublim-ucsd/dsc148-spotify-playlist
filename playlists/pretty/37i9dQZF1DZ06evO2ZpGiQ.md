@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 ### [This Is Lil Wayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ)
 
-> This is Lil Wayne\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,287 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,355 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [I'm Goin In](https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I'm Goin In](https://open.spotify.com/album/645FRpimwu0b1isiY5M32J) | 3:45 |
 | 50 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 |
 
-Snapshot ID: `ZjQpAAAAAAA3wznlskzMlk4Gex03+rJ1`
+Snapshot ID: `ZjQpAAAAAACgX8fRCjRghctWtZYRajqT`

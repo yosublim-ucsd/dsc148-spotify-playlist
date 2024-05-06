@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,657 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,662 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

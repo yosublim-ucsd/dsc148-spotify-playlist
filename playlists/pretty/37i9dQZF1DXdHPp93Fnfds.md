@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,260 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,269 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 28 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/20sa61LS3BS3dhOmedmC1A) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/2VaAyaBAQAqVsodcz3iebX) | 3:29 |
 | 29 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
 | 30 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
-| 31 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
-| 32 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
+| 31 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
+| 32 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
 | 33 | [Corazón de Metal](https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ) | [Bárbara Jorcin](https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6) | [Corazón de Metal](https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns) | 2:55 |
 | 34 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:20 |
 | 35 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 |
 | 36 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 |
 | 37 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
-| 38 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
-| 39 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 |
-| 40 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 |
+| 38 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 |
+| 39 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
+| 40 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 |
 | 41 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 |
 | 42 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
 | 43 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 73 | [Ninja](https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Ninja](https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff) | 2:56 |
 | 74 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
 | 75 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
-| 76 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
-| 77 | [El Pañuelo De Estrella](https://open.spotify.com/track/1Ql5w1SmnLowl0DggSdAIy) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Aurora Y Enrique](https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl) | 2:31 |
+| 76 | [El Pañuelo De Estrella](https://open.spotify.com/track/1Ql5w1SmnLowl0DggSdAIy) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Aurora Y Enrique](https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl) | 2:31 |
+| 77 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 | 78 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 |
-| 79 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 |
-| 80 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 79 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 |
+| 80 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 |
 
 Snapshot ID: `ZiqgwAAAAAD9/QAM7I+bfhTVQnpM+oDi`

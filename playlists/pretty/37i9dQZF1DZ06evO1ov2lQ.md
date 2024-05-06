@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is Biosphere\. The essential tracks, all in one playlist.
+> This is Biosphere\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,059 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 49 | [Shenzhou](https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:59 |
 | 50 | [Wolfgang´s Wave](https://open.spotify.com/track/7re1JtuVKMjZggjswFVoUU) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 |
 
-Snapshot ID: `ZjQpAAAAAAAoZPjzFQ3vKPwgQeBp2Oux`
+Snapshot ID: `ZjQpAAAAAADTXBZu0NlwZgvewSzzqGcu`

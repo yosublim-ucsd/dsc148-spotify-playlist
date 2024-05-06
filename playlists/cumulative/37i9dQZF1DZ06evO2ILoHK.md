@@ -2,7 +2,7 @@
 
 ### [This Is Basement](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ILoHK)
 
-> This is Basement\. The essential tracks, all in one playlist.
+> This Is Basement\. Los temas esenciales, todos en una lista.
 
 37 songs - 1 hr 44 min
 

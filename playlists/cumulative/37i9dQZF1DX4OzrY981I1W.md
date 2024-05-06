@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack.
 
-457 songs - 1 day 4 hr 5 min
+458 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [American Teen](https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:10 | 2021-03-26 | 2022-04-13 |
 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 | 2023-09-25 | 2024-03-24 |
 | [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 | 2023-09-25 | 2023-10-18 |
-| [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2023-09-25 |  |
+| [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2023-09-25 | 2024-05-06 |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 | 2023-04-20 | 2023-05-20 |
 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 | 2022-01-26 | 2022-04-16 |
 | [Archie, Marry Me](https://open.spotify.com/track/1cSzFn8tBOd75LCCHRRll0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/7hZHazzF2CYhmxIzvgDtyC) | 3:16 | 2021-03-26 | 2022-04-21 |
@@ -239,6 +239,7 @@
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2021-03-26 | 2022-04-21 |
 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 | 2021-03-26 | 2022-04-20 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-02-08 |  |
+| [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2024-01-08 |  |
 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-03 | 2022-07-29 |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2021-08-13 | 2022-11-16 |
 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2021-08-13 | 2022-10-13 |

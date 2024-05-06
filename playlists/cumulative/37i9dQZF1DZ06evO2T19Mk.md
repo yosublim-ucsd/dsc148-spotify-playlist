@@ -2,7 +2,7 @@
 
 ### [This Is Fall Out Boy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk)
 
-> This Is Fall Out Boy\. Los temas esenciales, todos en una lista.
+> This is Fall Out Boy\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 42 min
 

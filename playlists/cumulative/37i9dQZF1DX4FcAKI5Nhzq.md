@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Can you guess who's here to celebrate Children's Day?
+> Can you guess who's here to celebrate Children's Day? \(Cover: RII...??\)
 
 1,052 songs - 2 day 9 hr 40 min
 

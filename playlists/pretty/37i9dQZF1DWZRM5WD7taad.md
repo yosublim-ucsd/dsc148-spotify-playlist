@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,868 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,877 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 22 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
 | 23 | [Todxs lxs cuerpxs](https://open.spotify.com/track/31QL88tRXrt1HauyNoyxs4) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [KEVS](https://open.spotify.com/artist/7raTkac2KWLDPLyqBS0kqj) | [Todxs lxs cuerpxs](https://open.spotify.com/album/6FUGcy9fgsWJBJQeDhkr9g) | 2:33 |
 | 24 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
-| 25 | [Bendecida Y Afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida Y Afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 |
+| 25 | [Bendecida $ Afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida $ Afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 |
 | 26 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |
 | 27 | [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 |
 | 28 | [Bailando sola aquí](https://open.spotify.com/track/0D96NjDhig43Wvk52gCnUB) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 4:04 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 34 | [Heredera del Surrealismo](https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [elgaboaraya](https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 2:32 |
 | 35 | [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 |
 | 36 | [Mala Vida](https://open.spotify.com/track/75qzBs73rU11GaAGBOBypc) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Mala Vida](https://open.spotify.com/album/6zqlltyMymh6XhIZ4BjhGq) | 2:31 |
-| 37 | [Furyosa](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 |
+| 37 | [Furyosa >:\(](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa >:\(](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 |
 | 38 | [Scorpio](https://open.spotify.com/track/5RwbPOgYWW4xis3fcxS7nv) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Scorpio](https://open.spotify.com/album/2c60EOZQHHsaW0YnSMbgpQ) | 2:51 |
 | 39 | [ACTITUD](https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ACTITUD](https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL) | 2:05 |
 | 40 | [El Cardón](https://open.spotify.com/track/1h9pPtB6LTbXLZDgNKgsMR) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 3:27 |

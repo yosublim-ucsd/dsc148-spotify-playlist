@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This Is Mc Dricka\. Los temas esenciales, todos en una lista.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,457 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,449 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Me Olha e Me Respeita](https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Me Olha e Me Respeita](https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4) | 2:43 |
 | 50 | [Colocadinha](https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB) | [Argentino No Beat](https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Colocadinha](https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1) | 2:23 |
 
-Snapshot ID: `ZjQpAAAAAACupXVhHHZbkokRah8gTJZO`
+Snapshot ID: `ZjQpAAAAAADoEFU6tpQZbUjkXnZ9aRrj`

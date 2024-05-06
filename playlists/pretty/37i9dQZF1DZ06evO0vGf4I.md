@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 ### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I)
 
-> This Is Travis Scott\. Los temas esenciales, todos en una lista.
+> This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,111 likes - 52 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432,474 likes - 52 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 51 | [Portland](https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:56 |
 | 52 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 |
 
-Snapshot ID: `ZjQpAAAAAAAhXquApw0hxH05l2dZGaz6`
+Snapshot ID: `ZjQpAAAAAAAGmevyIhiiSFboHIxXPFcD`

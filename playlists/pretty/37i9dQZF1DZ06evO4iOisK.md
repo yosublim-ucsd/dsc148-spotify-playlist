@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,213 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,230 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 50 | [Trust your anthem](https://open.spotify.com/track/3DpDfPEqWG3KIz6iaGPaIA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション](https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu) | 2:54 |
 | 51 | [What is Love \- JUST LIKE THIS 2023 Live](https://open.spotify.com/track/6ar7Cwk4YLXiECVg2cjh7E) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST LIKE THIS 2023 \(Live\)](https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb) | 3:40 |
 
-Snapshot ID: `ZjQpAAAAAAAfX78inYaIptg5PcnqcXYI`
+Snapshot ID: `ZjV6gAAAAAA3Tj3bfuzxyJCcpXqq8x6w`

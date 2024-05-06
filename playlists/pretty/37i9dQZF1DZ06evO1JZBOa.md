@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. The essential tracks, all in one playlist.
+> This Is Manu Dibango\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,012 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,014 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 |
 | 50 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 |
 
-Snapshot ID: `ZjQpAAAAAABiNAFHbZK/ABcmfdm0knlH`
+Snapshot ID: `ZjQpAAAAAAC8TSo3LxkpX8d/5/z33tJQ`

@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 155306,
+  "num_followers": 155343,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Leave It On The Dancefloor",
@@ -295,6 +279,22 @@
       "duration_ms": 231680,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 303600,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Sex Education Original Soundtrack",
+        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 222616,
+      "name": "Love You So Bad",
+      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "The Art of Forgetting",
         "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Sex Education Original Soundtrack",
-        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
       },
       "artists": [
         {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 222616,
-      "name": "Love You So Bad",
-      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -899,22 +915,6 @@
       "duration_ms": 135297,
       "name": "Girls Make Me Wanna Die",
       "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1061,6 +1061,22 @@
       "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/2jQFhvw0HxUqGXu1StxS3O"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Queen",
@@ -1079,22 +1095,6 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "To be honest",
-      "url": "https://open.spotify.com/track/2jQFhvw0HxUqGXu1StxS3O"
     },
     {
       "added_at": "2023-06-30 04:00:00",

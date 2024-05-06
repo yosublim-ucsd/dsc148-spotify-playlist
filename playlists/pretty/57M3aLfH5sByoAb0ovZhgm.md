@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 
 > cookin&\#x27;
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 114 songs - 7 hr 0 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,6 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 | 112 | [Raaton Mein](https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:51 |
 | 113 | [Dil Ki Mez \(From "Merry Christmas"\)](https://open.spotify.com/track/3J5MyBYgvaAIfCquTXrbyx) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Merry Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ta3Yg6C2BRudYedr3o5vr) | 3:37 |
 | 114 | [The Last Time](https://open.spotify.com/track/29YXX6TCgc7d5jz3BYF7Gc) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 |
+| 115 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 
-Snapshot ID: `AAAAla/7AuUTfZuOluz+XoEa8nAOvoZd`
+Snapshot ID: `AAAAlkWxf7lJhATdeokbnmInFtypEIBX`

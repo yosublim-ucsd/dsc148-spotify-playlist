@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 ### [This Is Carrie Underwood](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F0Lks)
 
-> This is Carrie Underwood\. The essential tracks, all in one playlist.
+> This Is Carrie Underwood\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,176 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,200 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 49 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
 | 50 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 
-Snapshot ID: `ZjQpAAAAAACwYeiVFtNQvXCKA037j8Lc`
+Snapshot ID: `ZjQpAAAAAAAg0e30o015LA0ufYnB9X8E`

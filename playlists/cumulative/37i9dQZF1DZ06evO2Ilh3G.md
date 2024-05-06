@@ -2,7 +2,7 @@
 
 ### [This Is Offset](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ilh3G)
 
-> This is Offset\. The essential tracks, all in one playlist.
+> This Is Offset\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 14 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 ### [This Is Calibre 50](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wpQxW)
 
-> This is Calibre 50\. The essential tracks, all in one playlist.
+> This Is Calibre 50\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,989 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,061 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,19 +45,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 35 | [Tú Eres Mi Amor \- Versión Regional Mexicana](https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tú Eres Mi Amor \(Versión Regional Mexicana\)](https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy) | 3:48 |
 | 36 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
 | 37 | [La Tatema](https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
-| 38 | [El Niño Sicario](https://open.spotify.com/track/1sVNgN59IWB81LiT1Agz9e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 4:46 |
-| 39 | [El Viejo](https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 3:50 |
-| 40 | [Préstamela a Mí](https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:33 |
+| 38 | [El Viejo](https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 3:50 |
+| 39 | [El Niño Sicario](https://open.spotify.com/track/1sVNgN59IWB81LiT1Agz9e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 4:46 |
+| 40 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
 | 41 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
-| 42 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
+| 42 | [Préstamela a Mí](https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:33 |
 | 43 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 |
-| 44 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 |
+| 44 | [La Propuesta](https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:49 |
 | 45 | [El Ingeniero](https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:32 |
-| 46 | [La Propuesta](https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:49 |
+| 46 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 |
 | 47 | [Deja De Joder](https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 2:36 |
-| 48 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
-| 49 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 |
-| 50 | [Corrido De Feliciano](https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:13 |
+| 48 | [Corrido De Feliciano](https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:13 |
+| 49 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
+| 50 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 |
 | 51 | [Te Estoy Engañando Con Otra](https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 3:13 |
 
-Snapshot ID: `ZjQpAAAAAAAN3c5s2CbX9/ubrJtaITyM`
+Snapshot ID: `ZjQpAAAAAABTCRRKIoiMPhcIkZLqkt3q`

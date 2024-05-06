@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -10000,7 +10000,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -13964,7 +13964,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -16510,7 +16510,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 238124,
       "name": "Kl\u0101t",
       "url": "https://open.spotify.com/track/4ANiXNtcLEPQao9t02qEJy"
@@ -18950,7 +18950,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -24592,7 +24592,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 173285,
       "name": "Pasarg' dievs",
       "url": "https://open.spotify.com/track/15mI8eh3ke97hPb8gZQxyh"
@@ -24900,7 +24900,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 260348,
       "name": "Piededzini Mann",
       "url": "https://open.spotify.com/track/0q3QoeqUKLIiHz7d43nvGb"
@@ -25168,7 +25168,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "Plaukstas lieluma pavasaris",
       "url": "https://open.spotify.com/track/7qIV9g3fbu56fkEUg6nIAH"
@@ -26098,7 +26098,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -27796,7 +27796,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 210810,
       "name": "Salauzta Sirds (feat. Ozols)",
       "url": "https://open.spotify.com/track/4KV9h3YlxjISNYPKw8vpkw"
@@ -32722,7 +32722,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -32762,6 +32762,28 @@
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
       "album": {

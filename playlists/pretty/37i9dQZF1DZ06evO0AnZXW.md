@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This is XXXTENTACION\. The essential tracks, all in one playlist.
+> This Is XXXTENTACION\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,911,494 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,911,589 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Boost!](https://open.spotify.com/track/455IYy22hKJXgEwgownVqT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:17 |
 | 50 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 |
 
-Snapshot ID: `ZjQpAAAAAACe1paYBUxvroCpTlATU7Xt`
+Snapshot ID: `ZjQpAAAAAAAH5YLvcPboxp+EMQ0G0EQa`

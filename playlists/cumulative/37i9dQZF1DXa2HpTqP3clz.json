@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 239000,
       "name": "Chasin' Indigo",
       "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
@@ -5266,6 +5266,28 @@
       "duration_ms": 206960,
       "name": "Just Like Leaving",
       "url": "https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y"
+    },
+    {
+      "album": {
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Kentucky Gold",
+      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     },
     {
       "album": {

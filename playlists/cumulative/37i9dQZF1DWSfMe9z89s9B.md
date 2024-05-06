@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Ravyn Lenae
 
-1,163 songs - 2 day 13 hr 39 min
+1,165 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-16 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-04-01 | 2022-04-14 |
 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 | 2021-09-17 | 2022-07-23 |
-| [Bonafide](https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:08 | 2023-10-13 |  |
+| [Bonafide](https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:08 | 2023-10-13 | 2024-05-06 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-03-19 | 2022-04-16 |
 | [Boohoo \(feat\. Jeremih\)](https://open.spotify.com/track/67ocmrpyR62EahGpuWqidR) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:10 | 2023-09-15 | 2023-10-07 |
 | [Boomerang](https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boomerang](https://open.spotify.com/album/5dRqkoDZOtMANCUqYyhswt) | 3:02 | 2023-08-18 | 2024-04-27 |
@@ -555,6 +555,7 @@
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-01-14 | 2022-07-16 |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2022-09-09 | 2022-09-17 |
 | [JOHN DOE](https://open.spotify.com/track/5yjK7CVYLJwWzqywQPn8AD) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [JOHN DOE](https://open.spotify.com/album/39mQI5hnoY9fcJBOeQ6wpU) | 1:30 | 2023-05-19 | 2024-02-24 |
+| [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 | 2024-05-03 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-12 | 2023-10-07 |
 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 | 2023-09-02 |
 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 | 2023-02-03 | 2023-03-14 |
@@ -956,6 +957,7 @@
 | [Stuck](https://open.spotify.com/track/0kzUzaT9BZzrXXloLk49ig) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Stuck](https://open.spotify.com/album/6U726nWLVts6WivbWjjdIq) | 2:38 | 2021-09-17 | 2022-07-25 |
 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 | 2022-07-15 | 2023-02-04 |
 | [Sublunary du Son](https://open.spotify.com/track/6AxpaKE562EKSJJ9efKIbK) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Tayo And The Dreamer](https://open.spotify.com/album/6WoMTOAyYVn0G068pxzbMH) | 3:44 | 2021-06-25 | 2022-01-13 |
+| [Such Is Love](https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Such Is Love](https://open.spotify.com/album/7oVdqFnANJV4UZai6ucg3f) | 2:08 | 2024-05-03 |  |
 | [Suck Teeth](https://open.spotify.com/track/6wIeymnRFnRnyF4GoGKxSF) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Suck Teeth](https://open.spotify.com/album/1JLmSc2s9RS152aFcVzohM) | 3:56 | 2022-04-01 | 2022-04-09 |
 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 | 2022-10-01 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-17 | 2023-05-06 |
@@ -1029,7 +1031,7 @@
 | [Thot Thoughts](https://open.spotify.com/track/4Ry3HNrIC1C4TwYeeOkFD8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Thot Thoughts](https://open.spotify.com/album/2ark7dhcGnOGPNL8ukR5dM) | 3:34 | 2022-04-01 | 2022-04-13 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-10-08 | 2022-01-27 |
 | [Through The Dark](https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:33 | 2022-07-15 | 2023-12-23 |
-| [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-01 |  |
+| [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-01 | 2024-05-06 |
 | [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-04-01 | 2022-10-08 |
 | [Tightrope](https://open.spotify.com/track/4L9F956l8R1bKr2QLH9q1N) | [Olu Bliss](https://open.spotify.com/artist/678OPmqIs9qhpULpdD8T2h) | [Tightrope](https://open.spotify.com/album/4ZMibYwiTjtdstL2MjLb74) | 3:39 | 2021-06-04 | 2022-01-26 |

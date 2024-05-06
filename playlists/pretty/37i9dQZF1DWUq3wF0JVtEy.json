@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 930922,
+  "num_followers": 930948,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1679,6 +1679,34 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "The Unexplained",
+        "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 135468,
+      "name": "Reading My Mind",
+      "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "On My Line",
         "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
       },
@@ -1719,34 +1747,6 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "The Unexplained",
-        "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 135468,
-      "name": "Reading My Mind",
-      "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
       },
@@ -1943,22 +1923,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Off The Wall",
-        "url": "https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr"
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
       },
       "artists": [
         {
-          "name": "EMAD",
-          "url": "https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         }
       ],
-      "duration_ms": 212839,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba"
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     }
   ],
   "unique_name": "Shuffle Syndrome",

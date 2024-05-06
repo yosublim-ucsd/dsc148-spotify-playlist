@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,709 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,708 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,15 +141,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 131 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
 | 132 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 |
 | 133 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
-| 134 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
-| 135 | [I Won't Be](https://open.spotify.com/track/3TgZBMGRl11cLaIQJhsTF2) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs) | 2:07 |
+| 134 | [I Won't Be](https://open.spotify.com/track/3TgZBMGRl11cLaIQJhsTF2) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/73ywZjlpzgcozKgBP0hlcs) | 2:07 |
+| 135 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
 | 136 | [Screaming and Yelling](https://open.spotify.com/track/6yb7kTRhtmdE5hQvA5VQRU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:16 |
 | 137 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
 | 138 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 139 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 140 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
-| 141 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
-| 142 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 141 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 142 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
 | 143 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
 | 144 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
 | 145 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbQecgAAAACI4DTWQUPygfBLPdcrzvWR`
+Snapshot ID: `AbQjZgAAAAC9igqiALyforPmtaT+5fXm`

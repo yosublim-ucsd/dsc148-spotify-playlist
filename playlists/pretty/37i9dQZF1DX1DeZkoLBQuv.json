@@ -179,6 +179,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Lindo \u00c9s (Beauty, Beauty)",
         "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 418240,
       "name": "Jesus Te Amamos (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -915,22 +915,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Primeiro Natal",
-        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         }
       ],
-      "duration_ms": 278000,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     }
   ],
   "unique_name": "Louvores de Natal",

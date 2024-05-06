@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 189298,
+  "num_followers": 189326,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 198971,
+      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
+      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -819,34 +835,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
-      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
+      "duration_ms": 157200,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
         "name": "Permission to Dance",
         "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
+        "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
+        "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "\u7f8e\u3057\u3044\u9c2d",
+      "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
-        "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 211920,
-      "name": "\u7f8e\u3057\u3044\u9c2d",
-      "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "NIGHT DANCER",
-        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 210948,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
-      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+        "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+        "url": "https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+      "duration_ms": 202533,
+      "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
+      "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1159,6 +1143,22 @@
       "duration_ms": 307066,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
-        "name": "\u9006\u5922",
-        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 307666,
-      "name": "\u9006\u5922",
-      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
-    },
-    {
-      "added_at": "2024-04-30 10:04:41",
-      "album": {
         "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
         "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
@@ -1483,18 +1451,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u6625\u6ce5\u68d2",
-        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
-      "duration_ms": 290289,
-      "name": "\u6625\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+      "duration_ms": 286360,
+      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1511,6 +1479,22 @@
       "duration_ms": 259933,
       "name": "\u30c1\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
+        "name": "\u6625\u6ce5\u68d2",
+        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 290289,
+      "name": "\u6625\u6ce5\u68d2",
+      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 238973,
-      "name": "\u30ec\u30aa",
-      "url": "https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt"
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
     },
     {
       "added_at": "2024-04-30 10:04:41",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "added_at": "2024-04-30 10:04:41",
+      "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-04-30 10:04:41",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+      "duration_ms": 238973,
+      "name": "\u30ec\u30aa",
+      "url": "https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt"
     },
     {
       "added_at": "2024-04-30 10:04:41",

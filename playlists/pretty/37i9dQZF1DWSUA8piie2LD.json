@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 115285,
+  "num_followers": 115341,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Now 'Til Forever",
-      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Now 'Til Forever",
+      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 254266,
       "name": "Soul Dance",
       "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
-        "name": "Najee's Theme",
-        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 284773,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -411,24 +395,8 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+        "name": "Najee's Theme",
+        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
       "artists": [
         {
@@ -436,9 +404,9 @@
           "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+      "duration_ms": 284773,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -455,6 +423,22 @@
       "duration_ms": 283866,
       "name": "Twice in a Lifetime",
       "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -519,6 +503,22 @@
       "duration_ms": 249133,
       "name": "When I Think of You",
       "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178933,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Midnight In Manhattan",
+      "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Midnight In Manhattan",
-      "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 408893,
-      "name": "After 8",
-      "url": "https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "West Coast Coolin'",
         "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 256693,
       "name": "Missin' You",
       "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 408893,
+      "name": "After 8",
+      "url": "https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/6tNoPJMjPioawoVZyhbAaT"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 242012,
-      "name": "Shelbi",
-      "url": "https://open.spotify.com/track/6rsEUK5SHTPTI7lBAC40Cz"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 267400,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

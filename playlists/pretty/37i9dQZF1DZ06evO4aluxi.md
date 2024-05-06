@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 ### [This Is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
 
-> This Is Amy Grant\. Los temas esenciales, todos en una lista.
+> This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,116 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,120 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 | 50 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
 
-Snapshot ID: `ZjQpAAAAAADuVlStttW1Z1i9oVu+YyoZ`
+Snapshot ID: `ZjQpAAAAAAAp7S01zJmxRN3wezyubJ4k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,382 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,372 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 11 | [Viva La Vida \- Live from Spotify London](https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 3:54 |
 | 12 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
 | 13 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 |
-| 14 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
-| 15 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
+| 14 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
+| 15 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
 | 16 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 17 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 |
 | 18 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 54 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 55 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 |
 | 56 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
-| 57 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
-| 58 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
+| 57 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
+| 58 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 59 | [FRIENDS \- Acoustic](https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS \(Acoustic\)](https://open.spotify.com/album/233AbsgzaS416igerB12cS) | 3:29 |
 | 60 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 61 | [Cool Kids \- Live from Spotify NYC](https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Spotify Sessions](https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf) | 3:21 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 87 | [PSYCHO \- Acoustic](https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [PSYCHO \(Acoustic\)](https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK) | 2:20 |
 | 88 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
 | 89 | [What A Shame \- Acoustic](https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:11 |
-| 90 | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 |
+| 90 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 |
 
 Snapshot ID: `Zg9p5AAAAAA2+wo7U2jVixfgXrqnKxrU`

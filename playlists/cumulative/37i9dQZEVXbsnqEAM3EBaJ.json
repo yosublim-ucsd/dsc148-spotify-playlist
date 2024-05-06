@@ -7071,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "Vibraciones Superiores",
+        "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592736,
+      "name": "Energ\u00eda Metatr\u00f3nica",
+      "url": "https://open.spotify.com/track/2huBwg6qOQko6AlGNHcMSM"
+    },
+    {
+      "album": {
         "name": "Enfermos del Rap 2023",
         "url": "https://open.spotify.com/album/1fGuJ2VdDscDPKBtVB6HMM"
       },
@@ -8236,7 +8254,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 595027,
       "name": "Frecuencias del \u00c1rbol de Luz",
       "url": "https://open.spotify.com/track/3jp0Lig4UeEPeEUFmZkzxy"

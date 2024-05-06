@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This is Chuck Berry\. The essential tracks, all in one playlist.
+> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,550 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,557 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [Beautiful Delilah \- Alternate Takes 15/16](https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:32 |
 | 50 | [Wee Wee Hours](https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:02 |
 
-Snapshot ID: `ZjQpAAAAAAAkolNP5/tQ9HSM0AxxRU3P`
+Snapshot ID: `ZjV6gAAAAABlx53YpllldjsH89LBo4/A`

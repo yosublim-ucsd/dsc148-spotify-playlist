@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 136578,
+  "num_followers": 136608,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
-    },
-    {
-      "added_at": "2024-05-02 19:53:42",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2024-05-02 19:53:42",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-05-02 19:53:42",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -519,18 +499,22 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -551,6 +535,22 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
+    },
+    {
+      "added_at": "2024-05-02 19:53:42",
+      "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
-    },
-    {
-      "added_at": "2024-05-02 19:53:42",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 205906,
       "name": "El Perd\u00f3n (with Enrique Iglesias)",
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2024-05-02 19:53:42",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -667,26 +667,6 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
-    },
-    {
-      "added_at": "2024-05-02 19:53:42",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -747,6 +727,42 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+    },
+    {
+      "added_at": "2024-05-02 19:53:42",
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2024-05-02 19:53:42",
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2024-05-02 19:53:42",
-      "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2024-05-02 19:53:42",
@@ -935,22 +935,22 @@
     {
       "added_at": "2024-05-02 19:53:42",
       "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+      "duration_ms": 173800,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
     }
   ],
   "unique_name": "Los 10s",

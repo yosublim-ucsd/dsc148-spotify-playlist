@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-274 songs - 14 hr 13 min
+275 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Foreigner](https://open.spotify.com/track/6J3zjGHvujZobCvPDLUBBk) | [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Foreigner](https://open.spotify.com/album/0ePR0y17gor7Gcl6exVz5z) | 3:22 | 2024-02-23 | 2024-05-04 |
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2024-01-12 | 2024-02-24 |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-16 | 2024-01-13 |
-| [Glad](https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glad](https://open.spotify.com/album/7mITioX67rSM0jokGL3XSI) | 2:01 | 2023-08-25 |  |
+| [Glad](https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glad](https://open.spotify.com/album/7mITioX67rSM0jokGL3XSI) | 2:01 | 2023-08-25 | 2024-05-06 |
 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 | 2022-07-30 | 2023-10-24 |
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-12-16 | 2024-01-04 |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-10-24 |  |
@@ -127,6 +127,7 @@
 | [Jericho](https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jericho](https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL) | 2:18 | 2022-12-16 | 2023-08-26 |
 | [Jesuferanmi](https://open.spotify.com/track/2vNFO83pPzGWCUesCnGePr) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Jesuferanmi](https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi) | 2:46 | 2024-01-12 |  |
 | [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-11-17 | 2023-12-02 |
+| [Jesus loves me](https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Jesus loves me](https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4) | 2:51 | 2024-05-03 |  |
 | [Jireh](https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Jireh](https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8) | 2:55 | 2022-09-11 | 2024-01-13 |
 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 | 2022-07-30 | 2023-08-26 |
 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 | 2022-07-30 | 2023-07-13 |

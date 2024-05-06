@@ -1,6 +1,6 @@
 {
   "description": "Eres de los cl\u00e1sicos, y lo sabes. Las viejitas de moda en 2023.",
-  "num_followers": 60453,
+  "num_followers": 60519,
   "original_name": "solo para almas retro",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -243,22 +227,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -275,18 +243,34 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+      "duration_ms": 187520,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -311,6 +295,22 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - Remastered",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Je te laisserai des mots",
-        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Je te laisserai des mots",
-      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 293826,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173133,
       "name": "Dia de Enero",
       "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 245055,
       "name": "Tu Sin Mi",
       "url": "https://open.spotify.com/track/2cIDetbjLPkhYf4r7z86WH"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
     }
   ],
   "unique_name": "solo para almas retro",

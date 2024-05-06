@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This is Carolina Ross\. The essential tracks, all in one playlist.
+> This is Carolina Ross\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,915 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,917 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 50 | [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 |
 | 51 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
 
-Snapshot ID: `ZjQpAAAAAABguqeG81x/vlNbaQ12dVuf`
+Snapshot ID: `ZjQpAAAAAACxKR2J38hkecgM/ZU/LB8V`

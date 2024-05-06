@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
+> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,056 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,065 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
 | 50 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
 
-Snapshot ID: `ZjQpAAAAAAD14q8rXt4/sVWsj5U0BfYC`
+Snapshot ID: `ZjQpAAAAAADXXx8dUFXlegRmktaBxCOJ`

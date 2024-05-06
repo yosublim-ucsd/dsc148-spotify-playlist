@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 197727,
       "name": "Haryana Flow",
       "url": "https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek"
@@ -2372,6 +2372,28 @@
       "duration_ms": 163861,
       "name": "Jaat Warriors",
       "url": "https://open.spotify.com/track/34A6afqf198Tg75CSQ5csO"
+    },
+    {
+      "album": {
+        "name": "Jaatan Ka Khoon",
+        "url": "https://open.spotify.com/album/26mkB6zfQaAq8RrvOt2jKv"
+      },
+      "artists": [
+        {
+          "name": "Sukh Deswal",
+          "url": "https://open.spotify.com/artist/45YUQZr5AoXTOlVLBX07NF"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144422,
+      "name": "Jaatan Ka Khoon",
+      "url": "https://open.spotify.com/track/5HDjg1dQlSyZxZRHBeyfMk"
     },
     {
       "album": {
@@ -3402,7 +3424,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 182399,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77"
@@ -4594,7 +4616,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 176000,
       "name": "Tool",
       "url": "https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV"

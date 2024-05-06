@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-239 songs - 13 hr 57 min
+240 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2022-03-30 | 2022-07-29 |
 | [Other Side](https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Paradise](https://open.spotify.com/track/792raQlbqlsC71L0djqZwU) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Paradise](https://open.spotify.com/album/3BI7cK0Z5Upgodb9UyS4RJ) | 3:18 | 2022-03-30 | 2022-06-18 |
-| [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2022-03-30 |  |
+| [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2022-03-30 | 2024-05-06 |
 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 | 2022-06-30 |  |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2022-09-23 | 2022-11-13 |
 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2023-06-09 | 2023-10-08 |
@@ -236,6 +236,7 @@
 | [we'll be fine](https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we'll be fine](https://open.spotify.com/album/6vLZ785JdIDq7VO3hVX6at) | 4:22 | 2022-09-23 | 2022-11-13 |
 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 | 2022-06-30 | 2024-04-19 |
 | [What They'll Say About Us](https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [What They'll Say About Us](https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp) | 3:07 | 2022-03-30 | 2022-07-23 |
+| [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2023-06-09 |  |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2022-06-30 | 2024-04-19 |
 | [Where the Heart Is](https://open.spotify.com/track/1O1C3GPadNrywLJXXhmPMk) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/0PWzCh1PM0jmSxbwwRjmY5) | 3:57 | 2022-03-30 | 2022-07-29 |
 | [Where the Vampires Hide](https://open.spotify.com/track/1LQfG2btSBVMwMghg2nKOb) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Where the Vampires Hide](https://open.spotify.com/album/4pKaammgykC8LrN3Xa3PKN) | 2:29 | 2022-03-30 | 2022-07-28 |

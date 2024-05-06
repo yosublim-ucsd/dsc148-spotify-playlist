@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Candy Bar Creep Show",
+        "url": "https://open.spotify.com/album/3haeyF5mrvhNtZvTxoIxxb"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4LidQrfqHouXmnAWlJu5vO"
+    },
+    {
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 233817,
       "name": "Ode to Viceroy",
       "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"

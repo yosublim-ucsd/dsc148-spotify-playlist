@@ -1,6 +1,6 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 112508,
+  "num_followers": 112514,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": "2023-10-18 15:42:11",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2023-10-18 15:42:11",
+      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2023-10-18 15:42:11",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "Can We Kiss Forever?",
-        "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Adriana Proenza",
-          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
-        }
-      ],
-      "duration_ms": 187931,
-      "name": "Can We Kiss Forever?",
-      "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2023-10-18 15:42:11",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2023-10-18 15:42:11",
+      "album": {
+        "name": "Can We Kiss Forever?",
+        "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Adriana Proenza",
+          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
+        }
+      ],
+      "duration_ms": 187931,
+      "name": "Can We Kiss Forever?",
+      "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
     },
     {
       "added_at": "2023-10-18 15:42:11",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7"
+    },
+    {
+      "added_at": "2023-10-18 15:42:11",
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
-    },
-    {
-      "added_at": "2023-10-18 15:42:11",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7"
     },
     {
       "added_at": "2023-10-18 15:42:11",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 199931,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
     }
   ],
   "unique_name": "Canzoni Tristi",

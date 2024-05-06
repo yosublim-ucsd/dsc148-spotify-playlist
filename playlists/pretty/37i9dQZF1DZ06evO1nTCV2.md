@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is Ryan Adams\. Todos os maiores hits em uma só playlist.
+> This Is Ryan Adams\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,919 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,926 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 49 | [Self Defense](https://open.spotify.com/track/7LU42REV9PNkZfnivCckZb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:40 |
 | 50 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
 
-Snapshot ID: `ZjQpAAAAAAAXzAn+iUMh+WowlHTo4GBi`
+Snapshot ID: `ZjQpAAAAAAD1fOcZXqIz6fq22RxSgq24`

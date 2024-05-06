@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 325012,
+  "num_followers": 325000,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -771,38 +771,6 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -867,6 +851,22 @@
       "duration_ms": 232253,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
         "name": "The Papercut Chronicles",
         "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -1019,22 +1035,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "Love On",
-        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 181650,
-      "name": "Love On",
-      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "added_at": "2024-02-23 15:47:44",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-23 15:47:44",
       "album": {
-        "name": "FLORES",
-        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "FLORES",
-      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
-    },
-    {
-      "added_at": "2024-02-23 15:47:44",
-      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "added_at": "2024-02-23 15:47:44",
+      "album": {
+        "name": "FLORES",
+        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "FLORES",
+      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
     },
     {
       "added_at": "2024-02-23 15:47:44",

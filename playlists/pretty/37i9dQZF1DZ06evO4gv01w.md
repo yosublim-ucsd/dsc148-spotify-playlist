@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 ### [This Is Larkin Poe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w)
 
-> This Is Larkin Poe\. Los temas esenciales, todos en una lista.
+> This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,532 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,539 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 47 | [Ain't Gonna Cry](https://open.spotify.com/track/63BfByegAjwkMOPdaqf3SU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:33 |
 | 48 | [Ramblin' Man](https://open.spotify.com/track/1wbeozaNyIwKOUwocSzdLE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:43 |
 
-Snapshot ID: `ZjQpAAAAAACK2arjmNusdwPL8mX4Zein`
+Snapshot ID: `ZjQpAAAAAADuayPVCjRcD7RhrbfYl1NL`

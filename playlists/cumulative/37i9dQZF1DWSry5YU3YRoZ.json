@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ"
+      },
+      "artists": [
+        {
+          "name": "Slowcity",
+          "url": "https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231482,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 197146,
       "name": "love letter",
       "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"

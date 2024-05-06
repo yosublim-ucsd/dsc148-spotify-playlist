@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 15229,
+  "num_followers": 15249,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 145506,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -363,6 +363,22 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 314075,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -579,38 +579,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
       },
@@ -627,18 +595,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 273880,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
+      "duration_ms": 206013,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -699,6 +667,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Total Reggae: Summer Hits",
         "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190080,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+      },
+      "artists": [
+        {
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
     },
     {
       "added_at": "2022-10-01 04:00:00",

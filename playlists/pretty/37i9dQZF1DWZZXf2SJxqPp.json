@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 135986,
+  "num_followers": 136023,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -45,22 +45,6 @@
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
-      "added_at": "2024-01-03 20:03:18",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "I Want You",
@@ -79,6 +63,22 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2024-01-03 20:03:18",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-04-18 18:18:49",
@@ -243,22 +243,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -279,18 +275,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Zoom Zoom",
-      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2024-05-03 16:51:21",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+      "duration_ms": 209800,
+      "name": "Zoom Zoom",
+      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -437,20 +437,20 @@
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2024-03-07 19:13:49",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-04-30 04:32:26",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
-    },
-    {
-      "added_at": "2024-03-07 19:13:49",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -703,30 +703,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
         "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
         }
       ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
       "artists": [
         {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 312200,
       "name": "Mopedbart",
       "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Samba del Arenal",
         "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 253760,
       "name": "Samba del Arenal",
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Une Beat Encore",
         "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 234510,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "A bite of papaya",
-        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
+        "name": "Station Romance",
+        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
       },
       "artists": [
         {
-          "name": "Miynt",
-          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
         }
       ],
-      "duration_ms": 257033,
-      "name": "A bite of papaya",
-      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+      "duration_ms": 459560,
+      "name": "Station Romance",
+      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Station Romance",
-        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
+        "name": "A bite of papaya",
+        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
       "artists": [
         {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
         }
       ],
-      "duration_ms": 459560,
-      "name": "Station Romance",
-      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
+      "duration_ms": 257033,
+      "name": "A bite of papaya",
+      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Backdrops",
+        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
+      },
+      "artists": [
+        {
+          "name": "Walientinho",
+          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Backdrops",
+      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Backdrops",
-        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
-      },
-      "artists": [
-        {
-          "name": "Walientinho",
-          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Backdrops",
-      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rester",
-        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 297530,
-      "name": "Rester",
-      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Give Me Your Summer",
         "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 170161,
       "name": "Give Me Your Summer",
       "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

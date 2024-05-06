@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Lizzy McAlpine",
-  "num_followers": 76247,
+  "num_followers": 76296,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "ROOM FOR 2",
+        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 151500,
+      "name": "ROOM FOR 2",
+      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "ROOM FOR 2",
-        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 151500,
-      "name": "ROOM FOR 2",
-      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -315,38 +315,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -363,22 +331,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -403,6 +367,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Goodbye to the Valley Low",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Unknown / Nth",
         "url": "https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 198893,
       "name": "Watchman",
       "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
       "artists": [
         {
           "name": "Madi Diaz",
           "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1207,22 +1203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "You'd Never Know",
         "url": "https://open.spotify.com/album/11jeNPW1g0dK41iAtTb3uD"
       },
@@ -1239,34 +1219,38 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
       "artists": [
         {
           "name": "Madi Diaz",
           "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Last Man On Earth",
-        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
-      },
-      "artists": [
+        },
         {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 188813,
-      "name": "Last Man On Earth",
-      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 215834,
       "name": "No California",
       "url": "https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Last Man On Earth",
+        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Someone to Follow",
         "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2024-04-12 04:00:00",

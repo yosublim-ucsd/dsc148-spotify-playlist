@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,295 likes - 84 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,409 likes - 84 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

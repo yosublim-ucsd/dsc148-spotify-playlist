@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Asian & Pacific Islander Heritage Month! Cover: <a href="spotify:artist:3jK9MiCrA42lLAdMGUZpwa">Anderson\. Paak</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,390 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,468 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

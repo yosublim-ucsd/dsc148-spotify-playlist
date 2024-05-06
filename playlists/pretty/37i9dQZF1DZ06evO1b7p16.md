@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 ### [This Is Taking Back Sunday](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b7p16)
 
-> This is Taking Back Sunday\. The essential tracks, all in one playlist.
+> This is Taking Back Sunday\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,234 likes - 48 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,245 likes - 48 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 47 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
 | 48 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 |
 
-Snapshot ID: `ZjQpAAAAAABlKCMaS8oPgEOJKEoM15qF`
+Snapshot ID: `ZjQpAAAAAAAhpO6YsGnskEdDMY2FA0n6`

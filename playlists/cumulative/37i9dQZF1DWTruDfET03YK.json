@@ -428,7 +428,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 96533,
       "name": "El Coqui",
       "url": "https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1"
@@ -702,6 +702,24 @@
       "duration_ms": 98280,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz"
+    },
+    {
+      "album": {
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
+      },
+      "artists": [
+        {
+          "name": "La Banda Cray\u00f3n",
+          "url": "https://open.spotify.com/artist/5ZG4SmWKo5clPI6X8Q4DU5"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98280,
+      "name": "La gata",
+      "url": "https://open.spotify.com/track/3orResRo5W79ZiQS1bVGK0"
     },
     {
       "album": {

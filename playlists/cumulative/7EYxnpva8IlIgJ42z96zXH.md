@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-843 songs - 1 day 20 hr 25 min
+844 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Breathe Again ft\. Emile Battour](https://open.spotify.com/track/2ZaNHgJju50mWl3G3mVkWR) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT) | [Breathe Again](https://open.spotify.com/album/4Cv6rQ2i7zImDGlSoWSeLv) | 4:08 | 2023-12-08 | 2024-02-09 |
 | [Bring It Back](https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Bring It Back](https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r) | 2:57 | 2023-08-04 | 2023-12-14 |
 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 | 2023-07-21 | 2023-12-14 |
-| [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 | 2024-02-02 |  |
+| [Bring That Back](https://open.spotify.com/track/0zoSIutqFnFhDuUVrkIG7X) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bring That Back](https://open.spotify.com/album/4mdooGwGTnkUJT01QY5K8L) | 3:08 | 2024-02-02 | 2024-05-06 |
 | [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 | 2023-12-08 |  |
 | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh) | 3:00 | 2022-08-12 | 2022-09-29 |
 | [Bunny Is A Rider \- Sega Bodega 'UKG' Remix](https://open.spotify.com/track/7oPCRUy0n1htyHbOXWBYKy) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:15 | 2023-07-14 | 2023-12-14 |
@@ -328,6 +328,7 @@
 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2022-12-09 | 2023-03-01 |
 | [Haiti](https://open.spotify.com/track/3xj8PgXVSPRzG1Fo8g9kb7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [Haiti](https://open.spotify.com/album/1VdAEEIj3XuLSGD5yTW95s) | 2:54 | 2021-02-12 | 2021-06-04 |
 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-02-17 | 2022-07-16 |
+| [Hands Up](https://open.spotify.com/track/4NrXdZCK7XC5aUp0hhsvuZ) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [Hands Up](https://open.spotify.com/album/38vOhvsC6D1kbWJQXyzJPX) | 2:20 | 2024-05-06 |  |
 | [Hardwired](https://open.spotify.com/track/5KlaxGotoOCWbFq4PsSFMh) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Hardwired](https://open.spotify.com/album/1ccY4ENKjvBOKTklF2QuF0) | 4:29 | 2021-07-17 | 2021-07-24 |
 | [Hate Me](https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hate Me](https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA) | 2:34 | 2022-06-24 | 2022-09-03 |
 | [Have It All \(feat\. Age.Sex.Location\) \- Omar S Remix](https://open.spotify.com/track/7ApvNKnBlPOHXvxEFQCkMT) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Age.Sex.Location](https://open.spotify.com/artist/0kj4K2nb6jLp1jPlG5Hvec), [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Have It All \(feat\. Age.Sex.Location\) \[Omar S Remix\]](https://open.spotify.com/album/2UVo8jzop31xKv2lNWYcHO) | 5:56 | 2021-06-05 | 2021-07-04 |

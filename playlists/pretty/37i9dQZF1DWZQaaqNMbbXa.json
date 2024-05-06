@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 499100,
+  "num_followers": 499217,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -239,6 +259,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -263,62 +299,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -399,22 +379,42 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -439,22 +439,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Outside (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -591,26 +611,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -643,22 +643,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -679,6 +679,26 @@
       "duration_ms": 220883,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -723,26 +743,6 @@
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1171,30 +1171,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "WATT",
-          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+      "duration_ms": 179052,
+      "name": "Alone, Pt. II",
+      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1219,22 +1211,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
         }
       ],
-      "duration_ms": 179052,
-      "name": "Alone, Pt. II",
-      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+      "duration_ms": 174800,
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1599,66 +1599,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -1683,22 +1623,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1719,6 +1659,66 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1939,6 +1939,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Woke Up in Love",
-        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 216873,
-      "name": "Woke Up in Love",
-      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2003,26 +2003,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+      "duration_ms": 216873,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2115,6 +2115,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The London Sessions",
         "url": "https://open.spotify.com/album/6CIslPQSknp875cigkhKJC"
       },
@@ -2139,26 +2159,6 @@
       "duration_ms": 215759,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Sweet Lovin' - Radio Edit",
-      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -2279,6 +2259,26 @@
       "duration_ms": 159862,
       "name": "OK Not To Be OK",
       "url": "https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Sweet Lovin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
       },
@@ -2427,6 +2407,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -2451,28 +2451,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
       "artists": [
         {
@@ -2480,13 +2460,13 @@
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
         }
       ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2599,6 +2579,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Slow Dance (feat. Ava Max) [Sam Feldt Remix]",
         "url": "https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv"
       },
@@ -2687,26 +2687,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Headphones",
-        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
-      },
-      "artists": [
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -2723,6 +2703,26 @@
       "duration_ms": 216774,
       "name": "Don't Start Now - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
+      },
+      "artists": [
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
     },
     {
       "added_at": "2024-02-09 05:00:00",

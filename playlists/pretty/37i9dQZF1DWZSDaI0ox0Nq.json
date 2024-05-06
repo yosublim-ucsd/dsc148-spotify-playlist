@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 18896,
+  "num_followers": 18901,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Tangos de Lengue",
+        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
         "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
@@ -203,18 +203,50 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Tangos de Lengue",
-        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
       "artists": [
         {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
         }
       ],
-      "duration_ms": 188464,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Yuyo Verde",
+      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -243,22 +275,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Yuyo Verde",
-      "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Nelly Omar - Desde el alma",
         "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 157546,
       "name": "Parece mentira",
       "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
-      },
-      "artists": [
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
@@ -519,18 +499,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 258529,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -659,58 +675,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        }
-      ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Temas Pendientes",
         "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
@@ -739,6 +703,42 @@
       "duration_ms": 208426,
       "name": "Yo No Se Que Me Han Hecho Tus Ojos",
       "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        }
+      ],
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 236599,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
     },
     {
       "added_at": "2024-04-26 03:00:00",

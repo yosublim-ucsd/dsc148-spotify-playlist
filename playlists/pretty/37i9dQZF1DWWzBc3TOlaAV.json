@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 903829,
+  "num_followers": 903970,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 271280,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 193293,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -619,38 +619,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Bayou Country (Expanded Edition)",
         "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
       },
@@ -663,38 +631,6 @@
       "duration_ms": 315200,
       "name": "Born On The Bayou",
       "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -715,6 +651,54 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Between The Buttons",
         "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 196493,
       "name": "Ruby Tuesday",
       "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Stooges",
-        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Stooges",
+        "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Led Zeppelin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Good Times Bad Times - Remaster",
-      "url": "https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Needles & Pins",
         "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Led Zeppelin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Good Times Bad Times - Remaster",
+      "url": "https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 158250,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2023-01-18 21:00:56",

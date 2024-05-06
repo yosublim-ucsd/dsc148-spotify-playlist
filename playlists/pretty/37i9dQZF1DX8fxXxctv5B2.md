@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,696 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,757 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 63 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 |
 | 64 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 65 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
-| 66 | [Left Hand Free \- Extended Version](https://open.spotify.com/track/4DhAIX3t4yC5O7QmBMAL14) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/1xTtRRvxdf226r9IGfL1Hq) | 2:53 |
-| 67 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 |
-| 68 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
+| 66 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
+| 67 | [Left Hand Free \- Extended Version](https://open.spotify.com/track/4DhAIX3t4yC5O7QmBMAL14) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/1xTtRRvxdf226r9IGfL1Hq) | 2:53 |
+| 68 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 |
 | 69 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 70 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 |
 | 71 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 72 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
 | 73 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
-| 74 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
-| 75 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 |
+| 74 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 |
+| 75 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
 | 76 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
 | 77 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 78 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 |

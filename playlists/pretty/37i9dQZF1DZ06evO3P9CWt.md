@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This Is Pabllo Vittar\. Los temas esenciales, todos en una lista.
+> This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,331 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,338 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 50 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 |
 | 51 | [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 |
 
-Snapshot ID: `ZjQpAAAAAADmtvF09BfrL0DpYWaULG0O`
+Snapshot ID: `ZjQpAAAAAADFi29979Jp2LlPP6fofKOc`

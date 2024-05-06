@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba\. The essential tracks, all in one playlist.
+> This Is Miriam Makeba\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,991 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,993 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 49 | [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 |
 | 50 | [Amampondo](https://open.spotify.com/track/1Z3lTQYt14dfcZAl7AckQP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 1:56 |
 
-Snapshot ID: `ZjQpAAAAAACPihvlzitx6PlX27DR8c8n`
+Snapshot ID: `ZjQpAAAAAAAQjELkEbDZ/ea6uuy2sS7S`

@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"

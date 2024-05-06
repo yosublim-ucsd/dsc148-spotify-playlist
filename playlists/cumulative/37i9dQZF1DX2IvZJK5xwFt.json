@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 175480,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3"
@@ -1459,6 +1459,32 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA"
+      },
+      "artists": [
+        {
+          "name": "The WAEVE",
+          "url": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rose Elinor Dougall",
+          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X"
+    },
+    {
+      "album": {
         "name": "Classless Act (feat. Vince Neil of M\u00f6tley Cr\u00fce)",
         "url": "https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv"
       },
@@ -1878,7 +1904,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 140706,
       "name": "Dahas",
       "url": "https://open.spotify.com/track/1GENCNZ0E0tolK6sHNOdQP"
@@ -3392,6 +3418,24 @@
       "duration_ms": 203192,
       "name": "God Bless The 90s Kids",
       "url": "https://open.spotify.com/track/5G9fg052Agexqf1gQNJomE"
+    },
+    {
+      "album": {
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/6fe4bWNSCJpOUc3hm3esZ0"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/5wGgNpNuiAfZy6m0P7MqtV"
     },
     {
       "album": {
@@ -8045,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
+    },
+    {
+      "album": {
         "name": "Sorry Not Sorry (with Slash) [Rock Version]",
         "url": "https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA"
       },
@@ -9260,7 +9322,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"

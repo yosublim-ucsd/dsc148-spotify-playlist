@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 ### [This Is Machine Head](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08InPG)
 
-> This is Machine Head\. The essential tracks, all in one playlist.
+> This is Machine Head\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,264 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,272 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Crashing Around You](https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:13 |
 | 50 | [This Is the End](https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 6:11 |
 
-Snapshot ID: `ZjQpAAAAAADxIIblXtu6UP/5B+1WQ+HR`
+Snapshot ID: `ZjQpAAAAAACEtw5l3zeLOcjxAbw1GMWt`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 ### [This Is Majo Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4drHIS)
 
-> This Is Majo Aguilar\. Los temas esenciales, todos en una lista.
+> This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,324 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,327 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 49 | [Nunca Me Dijiste](https://open.spotify.com/track/10Uqv6suxcD1eLxaFwS8Mi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:32 |
 | 50 | [Acá Entre Nos \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:43 |
 
-Snapshot ID: `ZjQpAAAAAAANC3chAl50+enDMGTnu/+8`
+Snapshot ID: `ZjQpAAAAAACdbXGpH4favqEKn7sEKyUS`

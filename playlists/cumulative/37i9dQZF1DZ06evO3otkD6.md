@@ -2,7 +2,7 @@
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This Is Belinda\. Los temas esenciales, todos en una lista.
+> This is Belinda\. Todos os maiores hits em uma só playlist.
 
 59 songs - 3 hr 24 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Nilüfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,497 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,745 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 9 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 10 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 | 11 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
-| 12 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 13 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 |
+| 12 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 |
+| 13 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 14 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
 | 15 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 |
 | 16 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |
 | 28 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 29 | [Ancora, Ancora, Ancora \- 2001 Remaster](https://open.spotify.com/track/4WNgrWP3GAFdrL4agNMryF) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2) | 4:18 |
-| 30 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 |
+| 30 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 31 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
-| 32 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
+| 32 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 |
 | 33 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 34 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 35 | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE) | 2:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 47 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 48 | [Koyal](https://open.spotify.com/track/1U4GL7t6R83118Ltn6xcYJ) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Koyal](https://open.spotify.com/album/0M7I8bjIG1cROoEK7Hq1Rv) | 3:34 |
 | 49 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
-| 50 | [Em Đa Nghi](https://open.spotify.com/track/5apbs8mAhF7p80LNQDAbQ5) | [Tùa](https://open.spotify.com/artist/6OX2h0HXN8oN2tb2pmYOby) | [Em Đa Nghi](https://open.spotify.com/album/5EJejurcckpajuvyTIYN68) | 3:15 |
+| 50 | [Minoraki](https://open.spotify.com/track/6hW42BTqdjKtloHYOHTxlD) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY) | [Odos Nefelis '88](https://open.spotify.com/album/5Tux3u2ROAo1ab2IFzeml4) | 4:26 |
 
 Snapshot ID: `ZjMPwAAAAACQUnB/ib71283YMe17StdX`

@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Morgan Wade
+> The extraordinary women making great country music today\. Cover: Lily Rose
 
-362 songs - 19 hr 47 min
+363 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/0rgVcbfBr7z4lIXu7IlVWV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:24 | 2021-12-01 | 2022-07-20 |
 | [How to Love a Girl](https://open.spotify.com/track/5FnttztYfU8teEIxwbbYzo) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl](https://open.spotify.com/album/7LdbjY22hzHrurNVvqvKpv) | 3:35 | 2022-03-25 | 2022-07-18 |
 | [I Bet You Wanna Know](https://open.spotify.com/track/0mOJz5X44w1RScid7BZ4Mq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [I Bet You Wanna Know](https://open.spotify.com/album/6d6FyAZ8g1W6TdyF6bWMUl) | 2:37 | 2021-12-01 | 2022-02-11 |
-| [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-01 |  |
+| [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-01 | 2024-05-06 |
 | [I Choose You](https://open.spotify.com/track/10w3KrfgqDiiKHl3jDwhOC) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [I Choose You](https://open.spotify.com/album/75rr5ldzjqJGsteri8SgTz) | 3:13 | 2022-03-04 | 2022-07-29 |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2021-12-01 |  |
 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 | 2022-09-16 | 2023-04-02 |
@@ -233,6 +233,7 @@
 | [Our Days Are Numbered](https://open.spotify.com/track/0tGseysazP8CoS6TbUwfyk) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Our Days Are Numbered](https://open.spotify.com/album/370Fhdm7RYd4R386MOhcjO) | 3:29 | 2022-03-25 | 2022-04-21 |
 | [Overnight Sensation](https://open.spotify.com/track/2TJAXndPE9w8eYX7Diyl0O) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Overnight Sensation](https://open.spotify.com/album/3fCer1oWzbP99fAYTRk5F1) | 4:03 | 2021-12-01 | 2022-07-19 |
 | [Own Roses](https://open.spotify.com/track/0o9HKZ3WD6hxG0n9tI7Ma2) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Garden](https://open.spotify.com/album/1pm50OHYxgtr4M8Bdn4piC) | 3:38 | 2021-12-01 | 2022-03-02 |
+| [Parking Lot](https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:03 | 2024-05-05 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-01 |  |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-03-01 |  |
 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 | 2021-12-01 | 2022-07-13 |

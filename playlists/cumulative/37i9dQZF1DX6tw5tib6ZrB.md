@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Headie One, J Cole, Doja Cat, Future, GloRilla and more
 
-259 songs - 13 hr 29 min
+261 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-01 |  |
 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 | 2024-01-20 |
 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 | 2023-08-25 | 2023-09-29 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2022-06-16 |  |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-15 | 2024-02-17 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-06-16 | 2022-12-17 |
@@ -162,6 +163,7 @@
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-06-16 | 2024-04-06 |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 | 2023-07-29 |
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2023-10-06 | 2023-12-02 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 |  |
 | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/album/3byyU9BREsehzyZ6DqDK0p) | 2:44 | 2022-07-22 | 2022-09-23 |
 | [Nowhere](https://open.spotify.com/track/4sJ9R9ORuMe4EvCytb9qLe) | [Tyler Linkman](https://open.spotify.com/artist/7ucMQHGfqFQCBYDgzxgHoO) | [Nowhere](https://open.spotify.com/album/4SwSPp2IjqYi5yDQzlvkHD) | 3:20 | 2023-03-31 | 2023-06-02 |
 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-03 |  |
@@ -262,9 +264,9 @@
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-04-28 |
 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 | 2023-10-06 | 2023-12-02 |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-19 | 2022-12-02 |
-| [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 |  |
+| [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 | 2024-05-06 |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 |  |
-| [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 |  |
+| [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 | 2024-05-06 |
 | [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 | 2023-04-14 |
 | [ZOZA](https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [ZOZA](https://open.spotify.com/album/0oOxh5ffZn4Gq7Jvxeey3o) | 6:34 | 2022-06-16 | 2022-07-15 |
 

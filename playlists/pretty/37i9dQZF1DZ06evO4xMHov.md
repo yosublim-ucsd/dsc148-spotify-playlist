@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
+> This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,281 likes - 51 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,290 likes - 51 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Nosso General \- Ao Vivo](https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nosso General \(Ao Vivo\)](https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8) | 3:08 |
 | 51 | [Tu És Bom \- Ao Vivo](https://open.spotify.com/track/7cprJMCbK8cPjL9HXf0VI3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Tu És Bom \(Ao Vivo\)](https://open.spotify.com/album/0GEr1zutolmAeZcuymZYat) | 8:59 |
 
-Snapshot ID: `ZjQpAAAAAAAUMv2GYR1xI6KZtgmxU606`
+Snapshot ID: `ZjQpAAAAAAB4ir3tbrCfPrB60dxpKNIo`

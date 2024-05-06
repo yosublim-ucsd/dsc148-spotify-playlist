@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 ### [This Is Dominic Fike](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45Aj3b)
 
-> This is Dominic Fike\. The essential tracks, all in one playlist.
+> This Is Dominic Fike\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,070 likes - 35 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,125 likes - 35 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 34 | [hi grace](https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:41 |
 | 35 | [to say to say](https://open.spotify.com/track/5wyBvbIXWlYYz0qQ3KveeU) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:20 |
 
-Snapshot ID: `ZjQpAAAAAAA7aj6ufwiq8PYMjtLZlr9m`
+Snapshot ID: `ZjQpAAAAAAAWAMlAVQGIOc6uQ+7gs5Su`

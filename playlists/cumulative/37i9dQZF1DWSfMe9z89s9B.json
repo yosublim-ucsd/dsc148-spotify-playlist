@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 188421,
       "name": "Bonafide",
       "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
@@ -10591,6 +10591,24 @@
     },
     {
       "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
+    },
+    {
+      "album": {
         "name": "Just Cool",
         "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
       },
@@ -18309,6 +18327,24 @@
     },
     {
       "album": {
+        "name": "Such Is Love",
+        "url": "https://open.spotify.com/album/7oVdqFnANJV4UZai6ucg3f"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128917,
+      "name": "Such Is Love",
+      "url": "https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ"
+    },
+    {
+      "album": {
         "name": "Suck Teeth",
         "url": "https://open.spotify.com/album/1JLmSc2s9RS152aFcVzohM"
       },
@@ -19746,7 +19782,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 155119,
       "name": "Ticket Holder",
       "url": "https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 ### [This Is Mr Eazi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Sc0Gk)
 
-> This Is Mr Eazi\. Los temas esenciales, todos en una lista.
+> This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,983 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,987 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Body](https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Body](https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv) | 3:36 |
 | 50 | [She Loves Me](https://open.spotify.com/track/0NrppiQcbgGrgobengy7e2) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:31 |
 
-Snapshot ID: `ZjQpAAAAAACSKWe85PlzggA0wMV3TPHt`
+Snapshot ID: `ZjQpAAAAAADh18/ym7hoxX/+qAMpnRW4`

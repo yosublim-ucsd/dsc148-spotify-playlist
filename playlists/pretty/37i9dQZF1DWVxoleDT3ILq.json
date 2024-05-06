@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Planetario",
-  "num_followers": 121899,
+  "num_followers": 121900,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Cuatro",
-        "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 150623,
-      "name": "Tri\u00e1logo",
-      "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 223133,
       "name": "VALOR",
       "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Cuatro",
+        "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 150623,
+      "name": "Tri\u00e1logo",
+      "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Palabritas y Palabrotas",
-        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Para la Patada y el Combo",
-      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "D\u00edas Que No Lloro",
         "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Palabritas y Palabrotas",
+        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Para la Patada y el Combo",
+      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "No Hay Otra Igual",
+        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
+      },
+      "artists": [
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+        }
+      ],
+      "duration_ms": 173994,
+      "name": "No Hay Otra Igual",
+      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Mira Ni\u00f1ita",
         "url": "https://open.spotify.com/album/3jMY4GKxq8ufQfkliNYhru"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "No Hay Otra Igual",
-        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
-      },
-      "artists": [
-        {
-          "name": "Astronautiko",
-          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
-        }
-      ],
-      "duration_ms": 173994,
-      "name": "No Hay Otra Igual",
-      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Nochecita en B.A",
+        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Nochecita en B.A",
+      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Nochecita en B.A",
-        "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nochecita en B.A",
-      "url": "https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Hace 10 A\u00f1os",
         "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 184250,
       "name": "Hace 10 A\u00f1os",
       "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "no hace falta saber",
-        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "no hace falta saber",
-      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -1327,26 +1307,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "PODER - Lilith: 6",
-        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "PODER - Lilith: 6",
-      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Pantallas y Desiertos",
         "url": "https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb"
       },
@@ -1367,22 +1327,42 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Ganas de Verte",
-        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
+        "name": "no hace falta saber",
+        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
       "artists": [
         {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         },
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Ganas de Verte",
-      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
+      "duration_ms": 168026,
+      "name": "no hace falta saber",
+      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "PODER - Lilith: 6",
+        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "PODER - Lilith: 6",
+      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1399,6 +1379,26 @@
       "duration_ms": 194756,
       "name": "Sin Fama ni Fortuna",
       "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
+      },
+      "artists": [
+        {
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "formas de volver a casa",
+        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "formas de volver a casa",
+      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "abracadabra",
         "url": "https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 194357,
       "name": "abracadabra",
       "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
-      },
-      "artists": [
-        {
-          "name": "Dodo",
-          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "formas de volver a casa",
-        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
         }
       ],
-      "duration_ms": 153065,
-      "name": "formas de volver a casa",
-      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
+      "duration_ms": 182692,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/2x12EMxzr5fuPmneswOubB"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Paisajes",
-        "url": "https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 189838,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+        "name": "Paisajes",
+        "url": "https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf"
       },
       "artists": [
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
         }
       ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+      "duration_ms": 189838,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1683,6 +1667,22 @@
       "duration_ms": 171883,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Una Mitad de M\u00ed",
         "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 221625,
       "name": "Una Mitad de M\u00ed",
       "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     }
   ],
   "unique_name": "Indie Chile",

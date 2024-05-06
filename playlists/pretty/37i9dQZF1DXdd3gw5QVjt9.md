@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,599 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,575 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 18 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
 | 19 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 20 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
-| 21 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
-| 22 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
-| 23 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
+| 21 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
+| 22 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
+| 23 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
 | 24 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 |
 | 25 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 26 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 |
 | 27 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 28 | [Highway Blood](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
 | 29 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 |
-| 30 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
-| 31 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
+| 30 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
+| 31 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
 | 32 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 33 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
 | 34 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 |

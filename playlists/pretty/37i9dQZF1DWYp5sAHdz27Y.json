@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
-  "num_followers": 845752,
+  "num_followers": 846218,
   "original_name": "Gym 2024",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZiFGcQAAAABzoO0jK90CcEFZd86xFCif",
   "tracks": [
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -375,38 +391,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Paint It, Black",
-      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "1000COSAS",
-        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "1000COSAS",
-      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -1231,18 +1247,22 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "YO LO SO\u00d1\u00c9",
+        "url": "https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+      "duration_ms": 175456,
+      "name": "YO LO SO\u00d1\u00c9",
+      "url": "https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -1263,26 +1283,6 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
-        "name": "YO LO SO\u00d1\u00c9",
-        "url": "https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "YO LO SO\u00d1\u00c9",
-      "url": "https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 340742,
+      "name": "Smoke On The Water - Remastered 2012",
+      "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 340742,
-      "name": "Smoke On The Water - Remastered 2012",
-      "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -2147,6 +2127,26 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -2655,22 +2655,6 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
-        "name": "Que Tire Pa Lante",
-        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Que Tire Pa Lante",
-      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
     },
     {
       "added_at": "2024-04-18 16:12:33",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2024-04-18 16:12:33",
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": "2024-04-18 16:12:33",
+      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -2831,22 +2847,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2024-04-18 16:12:33",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": "2024-04-18 16:12:33",

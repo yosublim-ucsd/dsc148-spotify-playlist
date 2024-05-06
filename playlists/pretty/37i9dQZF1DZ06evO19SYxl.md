@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 ### [This Is Tex Tex](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19SYxl)
 
-> This is Tex Tex\. The essential tracks, all in one playlist.
+> This Is Tex Tex\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,347 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
 | 50 | [Octubre](https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Segunda Oportunidad \(Duetos: Caminando Voy\)](https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0) | 3:11 |
 
-Snapshot ID: `ZjQpAAAAAACMkzYpCRzjAOcXS12jJg3Q`
+Snapshot ID: `ZjQpAAAAAADydjkNEnL4rIyVvSnm6Iph`

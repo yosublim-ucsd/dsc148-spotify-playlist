@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 ### [This Is Lil Baby](https://open.spotify.com/playlist/37i9dQZF1DZ06evO359MM7)
 
-> This is Lil Baby\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Lil Baby\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,008 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,063 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 50 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 |
 | 51 | [Trap \[Feat\. Lil Baby\]](https://open.spotify.com/track/46KjZQkVOB5rvzSCGKJrIO) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:04 |
 
-Snapshot ID: `ZjQpAAAAAADkzEq9y2SjCYArOLeOzxJF`
+Snapshot ID: `ZjV6gAAAAAC9BaLrdSKtB+F7MnAD28dA`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 ### [This Is G Herbo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rtuJW)
 
-> This is G Herbo\. The essential tracks, all in one playlist.
+> This Is G Herbo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,460 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,466 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Chicago to Memphis \(feat\. G Herbo\)](https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:29 |
 | 50 | [Remember](https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Remember](https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8) | 2:56 |
 
-Snapshot ID: `ZjQpAAAAAADn1jotcIw/aLxZrEUdc0C/`
+Snapshot ID: `ZjQpAAAAAACc5UHb+t3E7iFkFfqR744E`

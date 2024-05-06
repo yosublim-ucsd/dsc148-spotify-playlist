@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 115502,
+  "num_followers": 115539,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Reality Show",
         "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 223093,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -211,18 +211,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -243,22 +247,18 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -335,6 +335,30 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "I Need It (feat. Syd & Tank)",
+        "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "I Need It (feat. Syd & Tank)",
+      "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "One Night Stand",
         "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 175793,
       "name": "Before We Get Started (feat. Fabolous)",
       "url": "https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "I Need It (feat. Syd & Tank)",
-        "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "I Need It (feat. Syd & Tank)",
-      "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1335,38 +1351,6 @@
       "duration_ms": 236493,
       "name": "ILM",
       "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "New Growth",
-        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "No Pussy For Losers",
-      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 185753,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "No Pussy For Losers",
+      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 205720,
       "name": "You Got One",
       "url": "https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "added_at": "2024-04-26 03:01:00",

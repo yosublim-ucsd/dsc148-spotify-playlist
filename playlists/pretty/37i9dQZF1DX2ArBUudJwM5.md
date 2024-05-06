@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Lara91k.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,262 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,261 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

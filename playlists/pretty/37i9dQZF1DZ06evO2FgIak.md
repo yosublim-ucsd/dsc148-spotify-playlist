@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This Is Muddy Waters\. Los temas esenciales, todos en una lista.
+> This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,807 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,825 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Kansas City \- Live](https://open.spotify.com/track/1qCQ8n7quH6mWOhnAJm08E) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy "Mississippi" Waters Live \(Legacy Edition\)](https://open.spotify.com/album/7Dy6z1nWHNIF2IKCARP9QN) | 9:29 |
 | 50 | [Train Fare Home \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:37 |
 
-Snapshot ID: `ZjQpAAAAAAADyXJXB2sui5R0/gjN2JGd`
+Snapshot ID: `ZjQpAAAAAABqMvDuyi9Lyulft6STl/Zb`

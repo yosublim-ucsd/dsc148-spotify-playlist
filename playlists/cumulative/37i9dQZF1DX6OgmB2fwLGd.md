@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-1,003 songs - 1 day 16 hr 54 min
+1,004 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [KILL EM FOR ME \(feat\. KA$HDAMI\)](https://open.spotify.com/track/7ExIAULxz8L1mWrqq4YpKF) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [ANYWHERE BUT HERE](https://open.spotify.com/album/3lj9lqUr6MQxReCeV52SBo) | 2:38 | 2022-08-26 | 2023-01-26 |
 | [Kill Us All \(K.U.A.\)](https://open.spotify.com/track/4khHOhzkrjNSiRzusudtJG) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Kill Us All \(K.U.A.\)](https://open.spotify.com/album/45pno56u3r8vGvDh2oijn6) | 3:42 | 2022-06-17 | 2022-07-06 |
 | [Killers On They Shit](https://open.spotify.com/track/18bYKZxPwsm9kSdBQBlxx9) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Killers On They Shit](https://open.spotify.com/album/14WTo4pRDIoJtu7Ntw0CHy) | 3:06 | 2021-10-15 | 2022-03-26 |
+| [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-05 |  |
 | [KISS N TELL](https://open.spotify.com/track/7L8DudXuXHqqzD2q9LuQ2n) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [SAFE TRAVELS](https://open.spotify.com/album/0FnF5dZOxKeGOY1X0aIPf7) | 2:28 | 2023-12-27 |  |
 | [Kitchen Stove](https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Kitchen Stove](https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o) | 2:43 | 2024-03-13 |  |
 | [Knight in Shining Armor](https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Knight in Shining Armor](https://open.spotify.com/album/6anwom4cs5kruajxIqjveO) | 2:20 | 2022-06-02 | 2022-08-07 |
@@ -807,7 +808,7 @@
 | [shut the fuck up talking to me](https://open.spotify.com/track/7qGw7mD1l16vJt6MnELYSD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:49 | 2021-10-15 | 2022-02-19 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 | 2023-05-06 |
 | [SINS](https://open.spotify.com/track/32mXd7wU5DXzI3NwxOjeLT) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:17 | 2023-09-22 | 2024-02-03 |
-| [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 | 2023-10-27 |  |
+| [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 | 2023-10-27 | 2024-05-06 |
 | [sipping my tea](https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C) | 1:42 | 2022-11-18 | 2023-04-22 |
 | [SISTER](https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [SISTER](https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg) | 2:19 | 2022-12-16 | 2023-01-06 |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2021-10-22 | 2022-02-05 |

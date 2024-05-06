@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,353 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,522 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 16 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:37 |
 | 17 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
 | 18 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
-| 19 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
-| 20 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
-| 21 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
+| 19 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
+| 20 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
+| 21 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 |
 | 22 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 23 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
 | 24 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 52 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
 | 53 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 54 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
-| 55 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
-| 56 | [Testify](https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Testify](https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb) | 3:39 |
+| 55 | [Testify](https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Testify](https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb) | 3:39 |
+| 56 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
 | 57 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 58 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 59 | [Power](https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/5rm5yOWUoGv5GdUmuQ1yvC) | 3:28 |

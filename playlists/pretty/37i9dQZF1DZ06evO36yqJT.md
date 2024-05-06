@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
+> This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,027 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
 | 50 | [The Stone](https://open.spotify.com/track/2byQq9uYgH0otzE0NXICBu) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Fighting Temptations \(Music From The Motion Picture\)](https://open.spotify.com/album/3w4b3oRDOCFaig5HfSLRmq) | 1:53 |
 
-Snapshot ID: `ZjQpAAAAAACpnDbWUbcfibYcXY5KyXhC`
+Snapshot ID: `ZjQpAAAAAACnBBVjMpZaxoCa7qTE5NoZ`

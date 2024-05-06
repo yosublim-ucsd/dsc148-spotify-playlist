@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 ### [This Is Lonely The Brave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ACddn)
 
-> This is Lonely The Brave\. The essential tracks, all in one playlist.
+> This Is Lonely The Brave\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 32 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 32 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 31 | [Comfortably Numb](https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Comfortably Numb](https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de) | 6:19 |
 | 32 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
 
-Snapshot ID: `ZjQpAAAAAABZ4MLU/id1SJCRoU24HaYe`
+Snapshot ID: `ZjQpAAAAAACYBbDSqFSvGlLpctpP4buF`

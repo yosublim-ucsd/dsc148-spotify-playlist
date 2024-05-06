@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 31540,
+  "num_followers": 31546,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
-      },
-      "artists": [
-        {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
-        }
-      ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 268240,
       "name": "Ou pati",
       "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2024-04-26 04:00:00",

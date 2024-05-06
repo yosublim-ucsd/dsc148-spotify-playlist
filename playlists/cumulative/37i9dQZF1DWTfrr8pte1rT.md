@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/
 
-402 songs - 22 hr 54 min
+403 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2022-12-12 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5OHr0CXtKhicd7NHgRm6TB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2BeW2kujqEAJ7yx5nKdcc2) | 3:46 | 2024-01-26 | 2024-04-19 |
 | [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 | 2024-02-03 |
-| [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 |  |
+| [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 | 2024-05-06 |
 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 | 2022-09-30 |  |
 | [One More Time](https://open.spotify.com/track/7isayXQEPtwsmuAqq7tZoM) | [Finnet](https://open.spotify.com/artist/083SNs2t2ngrAeHw1M8sPw), [Stay up Late](https://open.spotify.com/artist/5iOsQV7xht5LcNOqxkTFw0) | [One More Time](https://open.spotify.com/album/4J2xMk08UWQ6Rp8OjyRTF1) | 2:55 | 2021-12-10 | 2022-06-24 |
 | [Only the Good Die Young](https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [SpaceMan Zack](https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK) | [Genesis](https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL) | 2:56 | 2024-04-05 |  |
@@ -363,6 +363,7 @@
 | [This Will Be My Year](https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [This Will Be My Year](https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH) | 3:00 | 2021-12-10 |  |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-22 |  |
 | [Thrones of Blood](https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1) | 4:02 | 2023-01-13 | 2023-04-30 |
+| [Throw Your Hands Up](https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Throw Your Hands Up](https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L) | 2:39 | 2024-05-03 |  |
 | [Till I Met You](https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Till I Met You](https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk) | 3:15 | 2024-02-16 |  |
 | [Till the Wheels Come Off](https://open.spotify.com/track/2t59XucZRKTSOcKVZriQAL) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Graham Fink](https://open.spotify.com/artist/3bxdlRAXJ8hCDPl44j6rN3) | [High Street Creeps](https://open.spotify.com/album/10D96cw0tziudP0TZSZJJx) | 4:06 | 2022-01-07 | 2022-01-13 |
 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 | 2022-07-01 |  |

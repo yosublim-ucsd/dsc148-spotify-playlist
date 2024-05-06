@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-400 songs - 22 hr 2 min
+401 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beautiful Feeling](https://open.spotify.com/track/5qomEJP9XCFsuHbrMB2dwl) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Beautiful Feeling](https://open.spotify.com/album/0TMcM2jax77HR89yWm8PPi) | 3:28 | 2021-12-06 | 2022-07-20 |
 | [Before the summer ends](https://open.spotify.com/track/6dNxDsapsJ1SR5UwNnMsBT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [Before the summer ends](https://open.spotify.com/album/4k4W1RwDMc4rQxixgQWlkR) | 2:51 | 2022-03-23 | 2022-04-14 |
 | [BEST FRIEND](https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:50 | 2021-12-06 | 2022-07-28 |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2024-03-27 |  |
 | [Blossom Rain \(Feat\. NavyQuokka\)](https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Blossom Rain](https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal) | 2:53 | 2023-04-26 | 2023-05-24 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-11 | 2022-04-18 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-04 | 2024-04-19 |
@@ -218,7 +219,7 @@
 | [Maybe 어쩌면 우리는](https://open.spotify.com/track/4OD37S64mGB3wpz6m3ZzdI) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [The Face of Summer 여름의 민낯](https://open.spotify.com/album/0e32YikNghPPNt0i4bzvgm) | 3:15 | 2022-03-23 | 2022-04-18 |
 | [meanings!](https://open.spotify.com/track/4VHsZqeNb9I9bIq5wgfDb6) | [DOF2D](https://open.spotify.com/artist/43K46m9kGWG6LH1gjGa1it) | [We Don't Have To Cry](https://open.spotify.com/album/4JuHBqEHQJpjKA3cHXj0rW) | 3:16 | 2021-12-28 | 2022-01-12 |
 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-08-24 | 2024-03-28 |
-| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 |  |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 | 2024-05-06 |
 | [Miss You](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2021-12-06 | 2024-03-28 |
 | [Mixtape : OH](https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/4ETs8IH0JzWfjv8OWql58f) | 3:32 | 2021-12-06 | 2022-07-29 |

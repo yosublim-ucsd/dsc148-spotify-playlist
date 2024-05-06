@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,190 likes - 47 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,196 likes - 47 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

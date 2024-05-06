@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 ### [This Is New Found Glory](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uxwRi)
 
-> This is New Found Glory\. The essential tracks, all in one playlist.
+> This is New Found Glory\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,660 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,662 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Shook By Your Shaved Head](https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:43 |
 | 50 | [Dream Born Again](https://open.spotify.com/track/6tJtl8IY3N7dBJ80PSeswu) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:21 |
 
-Snapshot ID: `ZjQpAAAAAAAT/uJLuOcJDaRrJBOPtfTs`
+Snapshot ID: `ZjQpAAAAAADXjOD60Mme5vRrcuLkMknv`

@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 164055,
       "name": "Cintureo - Remix",
       "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
@@ -5390,7 +5390,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 151111,
       "name": "C\u00f3digo G",
       "url": "https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN"
@@ -7674,6 +7674,28 @@
       "duration_ms": 200991,
       "name": "EL SAFARI Y LOS TETEOS",
       "url": "https://open.spotify.com/track/429y9OPVAhl9j2uE89RKB8"
+    },
+    {
+      "album": {
+        "name": "El Sonido",
+        "url": "https://open.spotify.com/album/0sSYzicI1PkSqLJargT0e6"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "El Sonido",
+      "url": "https://open.spotify.com/track/5EIrQKYCThSSsP1cWAHGGP"
     },
     {
       "album": {
@@ -10420,7 +10442,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 166956,
       "name": "Henny Mood",
       "url": "https://open.spotify.com/track/29r9oYmyt4rEEbeHaoAGJ8"
@@ -10700,6 +10722,32 @@
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+    },
+    {
+      "album": {
+        "name": "Hoy Si",
+        "url": "https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Hoy Si",
+      "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
     },
     {
       "album": {
@@ -14792,7 +14840,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 185795,
       "name": "Mami tu te pasas",
       "url": "https://open.spotify.com/track/4pTRYHAJTRwfSXekgVYzj6"
@@ -22670,7 +22718,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -24496,7 +24544,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 157340,
       "name": "Susanoo",
       "url": "https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk"
@@ -24808,7 +24856,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 195761,
       "name": "Tarzan",
       "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
@@ -25636,6 +25684,36 @@
     {
       "album": {
         "name": "Toki",
+        "url": "https://open.spotify.com/album/2TagoLY223oIfTjr1pu6Pe"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284783,
+      "name": "Toki",
+      "url": "https://open.spotify.com/track/5UoT7c2R5nadqdwidFhZxa"
+    },
+    {
+      "album": {
+        "name": "Toki",
         "url": "https://open.spotify.com/album/4Ms2rHUlc1Gu47OPeMbvKn"
       },
       "artists": [
@@ -25658,7 +25736,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 284783,
       "name": "Toki",
       "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
@@ -28172,7 +28250,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 161647,
       "name": "Ya me enter\u00e9",
       "url": "https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB"

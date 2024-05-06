@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. The essential tracks, all in one playlist.
+> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 70,706 likes - 52 songs - 4 hr 10 min
 
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 51 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 | 52 | [Escreve](https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve](https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2) | 4:35 |
 
-Snapshot ID: `ZjQpAAAAAABgUPRt9MbR0z+UQg9a/8+9`
+Snapshot ID: `ZjQpAAAAAAC/L1l5Af8btkI3ee2P3euD`

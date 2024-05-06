@@ -768,10 +768,32 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-06",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
+    {
+      "album": {
+        "name": "Cyan Blue",
+        "url": "https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196006,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19495,
+  "num_followers": 19501,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
-      },
-      "artists": [
-        {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Boemia, de Fato",
         "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 178666,
       "name": "\u00d3leo de Coco",
       "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+      },
+      "artists": [
+        {
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Corro Atr\u00e1s",
         "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 225920,
       "name": "Corro Atr\u00e1s",
       "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
+      },
+      "artists": [
+        {
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
       },
       "artists": [
         {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -447,22 +463,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Tarde no Walkiria",
         "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 239950,
       "name": "Palavra de Amor",
       "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Noite Passada",
+        "url": "https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU"
+      },
+      "artists": [
+        {
+          "name": "THAIS",
+          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Noite Passada",
+      "url": "https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -495,22 +511,6 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Noite Passada",
-        "url": "https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU"
-      },
-      "artists": [
-        {
-          "name": "THAIS",
-          "url": "https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Noite Passada",
-      "url": "https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Quando Eu Falei Pra Ela",
+        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Quando Eu Falei Pra Ela",
+      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Canal Laranja",
         "url": "https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 300000,
       "name": "Canal Laranja",
       "url": "https://open.spotify.com/track/4MxIs8Uf9ca58TZaU1Afpq"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Quando Eu Falei Pra Ela",
-        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
-      },
-      "artists": [
-        {
-          "name": "Dani Bessa",
-          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Quando Eu Falei Pra Ela",
-      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
+      },
+      "artists": [
+        {
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00e9lia",
+          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 171084,
       "name": "vc \u00e9 uma bagun\u00e7a",
       "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Meu Mantra pra Te Esquecer",
-        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 233019,
-      "name": "Meu Mantra pra Te Esquecer",
-      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+        "name": "Meu Mantra pra Te Esquecer",
+        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
       "artists": [
         {
-          "name": "Ana L\u00e9lia",
-          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 218117,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+      "duration_ms": 233019,
+      "name": "Meu Mantra pra Te Esquecer",
+      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
       "artists": [
         {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
         }
       ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
       "artists": [
         {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
         }
       ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
-      },
-      "artists": [
-        {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
-        }
-      ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 155129,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
-      },
-      "artists": [
-        {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "facetime",
         "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 181197,
       "name": "perigo !!!",
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2023-11-30 21:58:24",
