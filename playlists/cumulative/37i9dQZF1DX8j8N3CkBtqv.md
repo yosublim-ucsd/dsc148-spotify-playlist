@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Suzonn
 
-570 songs - 1 day 7 hr 11 min
+571 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 | 2024-02-23 | 2024-03-30 |
 | [love you the same](https://open.spotify.com/track/60FGfdYuoYiMdowZ9SoLxy) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [LYTS](https://open.spotify.com/album/4JU6oNxVeI004JSA2Fv8E7) | 3:38 | 2023-05-19 | 2023-07-08 |
 | [Lucky Tonight](https://open.spotify.com/track/2ARuZO81GAo9e9F1Qs932z) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Lucky Tonight](https://open.spotify.com/album/5ECFwJQNSICDZFAf1fro6s) | 3:51 | 2024-04-19 |  |
+| [Maa](https://open.spotify.com/track/3x2xFh8crGsLHF6O4cYGgy) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Maa](https://open.spotify.com/album/67u4Fpuq3Pleo8tqkISkGK) | 3:35 | 2024-05-06 |  |
 | [Maahi Dekhle](https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N) | [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Maahi Dekhle](https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88) | 3:10 | 2023-07-28 | 2023-09-09 |
 | [Maddham](https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam) | [Vibha Kale](https://open.spotify.com/artist/2nYV3AXefi8GgeP3aFFdCS), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Maddham](https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Main Awara](https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Main Awara](https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00) | 3:23 | 2023-10-13 | 2023-11-18 |
@@ -480,7 +481,7 @@
 | [Soona](https://open.spotify.com/track/1qIDnZLs3KSHiMXGSdYmXL) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Soona](https://open.spotify.com/album/74I12Fwbyg8mR32aLMrnYa) | 4:07 | 2023-08-25 | 2023-11-11 |
 | [Soyi/Khoyi](https://open.spotify.com/track/0uBzSPXmrtTiusAq5ZuEKb) | [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Soyi/Khoyi](https://open.spotify.com/album/3WymIaLFVIVMNtx7Da1HSy) | 2:35 | 2024-02-02 | 2024-03-02 |
 | [stop calling me](https://open.spotify.com/track/60JNWtnKoOLB2V2ceyXf5e) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [stop calling me](https://open.spotify.com/album/2lQz1pSoUlP531iJNzkcDK) | 2:56 | 2023-11-17 | 2023-12-09 |
-| [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 |  |
+| [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 | 2024-05-07 |
 | [Sukoon](https://open.spotify.com/track/0DPMZ1I6H9X3LH7xzgmWLE) | [Paushali Sahu](https://open.spotify.com/artist/0Ju1DBpiRAxvhZ3XWlbLk1), [Shamik Guha Roy](https://open.spotify.com/artist/5rRYx2cnykcOnnzlLFsKXE), [Sushmita Chanda](https://open.spotify.com/artist/7nQLipmdgQfocJecH1CD5v) | [Sukoon](https://open.spotify.com/album/0IVa3rkLxqzAq0wZ085Fs4) | 3:12 | 2024-03-22 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-22 | 2024-03-02 |
 | [Sun Bachhe](https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Sun Bachhe](https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3) | 3:07 | 2024-04-19 |  |

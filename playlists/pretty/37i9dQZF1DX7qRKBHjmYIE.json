@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Rels B.",
-  "num_followers": 755496,
+  "num_followers": 755470,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
@@ -111,6 +127,22 @@
       "duration_ms": 211119,
       "name": "LA NIEBLA",
       "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -135,38 +167,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Terapia (Remix)",
         "url": "https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz"
       },
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
-        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "NADIE M\u00c1S!",
-      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "THE ROOF IS ON FIRE",
         "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 112331,
       "name": "THE ROOF IS ON FIRE",
       "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200000,
       "name": "Rayo de Sol",
       "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "aguardiente",
-        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
-      },
-      "artists": [
-        {
-          "name": "Miranda del Sol",
-          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
-        }
-      ],
-      "duration_ms": 171279,
-      "name": "aguardiente",
-      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "G CLASS",
         "url": "https://open.spotify.com/album/5R8MCA9qPj2nulH42BeCHE"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 194039,
       "name": "G CLASS",
       "url": "https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "aguardiente",
+        "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
+      },
+      "artists": [
+        {
+          "name": "Miranda del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+        }
+      ],
+      "duration_ms": 171279,
+      "name": "aguardiente",
+      "url": "https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+      },
+      "artists": [
+        {
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "El Abismo",
-        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
-      },
-      "artists": [
-        {
-          "name": "Molinette Cinema",
-          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Estrellas en la Oscuridad",
-      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "no es culpa m\u00eda",
         "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Un Llavero",
-        "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 190235,
-      "name": "Un Llavero",
-      "url": "https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Kafka",
         "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Un Llavero",
+        "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 190235,
+      "name": "Un Llavero",
+      "url": "https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+        "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
+      },
+      "artists": [
+        {
+          "name": "Thyan V",
+          "url": "https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
+      "url": "https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "lili lili lili lili lili lili lili",
         "url": "https://open.spotify.com/album/6WVC4p8eFibZeuF5vLpOWs"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 284342,
       "name": "lili lili lili lili lili lili lili",
       "url": "https://open.spotify.com/track/1qL4FGufuPtx7hLosfEUYm"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
-        "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
-      },
-      "artists": [
-        {
-          "name": "Thyan V",
-          "url": "https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb"
-        },
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
-      "url": "https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX"
     },
     {
       "added_at": "2024-05-03 04:00:00",

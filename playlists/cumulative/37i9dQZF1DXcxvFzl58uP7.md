@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-975 songs - 2 day 2 hr 37 min
+976 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-05-09 | 2021-08-28 |
 | [Blame](https://open.spotify.com/track/0dlpkHAazQr4WtOTirzRnT) | [Mikalyn](https://open.spotify.com/artist/1uFSMxmIM7eRPSPlHBep7Y) | [Blame](https://open.spotify.com/album/7vfT5KiIrwzJR6oSsa3ahN) | 3:25 | 2021-10-08 | 2022-04-10 |
 | [blank slate](https://open.spotify.com/track/7EIiQFUmU8e6KFAid9L411) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [blank slate](https://open.spotify.com/album/5dBn4IzCllX9kFAU70SGnB) | 4:49 | 2021-04-12 | 2021-08-27 |
+| [Blonde](https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\)](https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl) | 4:43 | 2024-05-03 |  |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 | 2023-11-11 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 | 2023-09-27 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/4WGoMHtZq6u4af9EBCQ2IE) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Indigo Jack](https://open.spotify.com/album/3wdYd1iZDlAH4wXNz9VPoK) | 2:25 | 2023-09-29 | 2024-01-13 |
@@ -364,7 +365,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
 | [Gravity](https://open.spotify.com/track/2bCAgbpt22GjAYlO2PggAj) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Gravity](https://open.spotify.com/album/299IQB4kbejJwVROtq0jBK) | 2:48 | 2021-08-13 | 2022-04-20 |
-| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 |  |
+| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 | 2024-05-07 |
 | [Gummi Bear](https://open.spotify.com/track/7gKgu4EJwLTuYZXIzA23vO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/4aLMhlTE9KUz6L2MMYs1xw) | 4:18 | 2021-04-03 | 2021-08-20 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-21 | 2021-08-28 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-07-31 | 2021-08-28 |

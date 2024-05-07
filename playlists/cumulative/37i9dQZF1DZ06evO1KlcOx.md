@@ -2,7 +2,7 @@
 
 ### [This Is Grouper](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KlcOx)
 
-> This is Grouper\. The essential tracks, all in one playlist.
+> This is: Grouper\. Alle wichtigen Tracks in einer Playlist.
 
 75 songs - 5 hr 27 min
 

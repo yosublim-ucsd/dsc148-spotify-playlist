@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443093,
+  "num_followers": 443084,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Realidade - Ao Vivo Em Manaus",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Realidade - Ao Vivo Em Manaus",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -151,22 +151,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Estrelinha",
-        "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
       "artists": [
-        {
-          "name": "Di Paullo & Paulino",
-          "url": "https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI"
-        },
         {
           "name": "Mar\u00edlia Mendon\u00e7a",
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 207317,
-      "name": "Estrelinha",
-      "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
+      "duration_ms": 156371,
+      "name": "Serenata - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -187,22 +183,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "Serenata - Ao Vivo",
-      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 184240,
       "name": "Amor de Carnaval - Ao Vivo",
       "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Estrelinha",
+        "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
+      },
+      "artists": [
+        {
+          "name": "Di Paullo & Paulino",
+          "url": "https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 207317,
+      "name": "Estrelinha",
+      "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Cuidado Que Eu Te Supero",
-        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cuidado Que Eu Te Supero",
-      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Aqui Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 168080,
       "name": "Libera Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Cuidado Que Eu Te Supero",
+        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cuidado Que Eu Te Supero",
+      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ricardo & Thiago",
-          "url": "https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 162464,
-      "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Bruto Memo",
         "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 184064,
       "name": "Bruto Memo",
       "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ricardo & Thiago",
+          "url": "https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 162464,
+      "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Espelho Meu (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+        "name": "Do Jeito que N\u00f3is Gosta 2",
+        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
         }
       ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
+      "duration_ms": 161529,
+      "name": "Se Eu Te Procurar",
+      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Do Jeito que N\u00f3is Gosta 2",
-        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
       },
       "artists": [
         {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Se Eu Te Procurar",
-      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Frieza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 185761,
-      "name": "Frieza - Ao Vivo",
-      "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "C\u00ea Acredita",
         "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 170517,
       "name": "C\u00ea Acredita",
       "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Frieza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 185761,
+      "name": "Frieza - Ao Vivo",
+      "url": "https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b"
     },
     {
       "added_at": "2023-10-13 11:44:55",

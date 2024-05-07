@@ -1,6 +1,6 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 10026,
+  "num_followers": 10034,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "S\u00f3laris",
-        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
-      },
-      "artists": [
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        },
-        {
-          "name": "Dan\u00edel Bjarnason",
-          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
-        }
-      ],
-      "duration_ms": 335165,
-      "name": "Simulacra I",
-      "url": "https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/786FgaRDsjLgvViIu30sam"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "S\u00f3laris",
+        "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
+      },
+      "artists": [
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        },
+        {
+          "name": "Dan\u00edel Bjarnason",
+          "url": "https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon"
+        }
+      ],
+      "duration_ms": 335165,
+      "name": "Simulacra I",
+      "url": "https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -547,6 +547,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Talk To The Sea",
+        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "First Time Ruth Saw The Sea - Original Mix",
+      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
       },
@@ -579,38 +611,6 @@
       "duration_ms": 287786,
       "name": "Space 21 (petrichor)",
       "url": "https://open.spotify.com/track/679TvUwIfLbD9lD0jX8DiR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Talk To The Sea",
-        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "First Time Ruth Saw The Sea - Original Mix",
-      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Huit",
-      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 422613,
-      "name": "Convex",
-      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 422613,
+      "name": "Convex",
+      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 298697,
-      "name": "Chonchos",
-      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Magic Place",
         "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 245400,
       "name": "Cloak",
       "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 298697,
+      "name": "Chonchos",
+      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Low Distance",
         "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Breaks My Heart Each Time",
         "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Curious Things",
-        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Ogives / Redistributed",
-      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1331,6 +1315,22 @@
       "duration_ms": 202000,
       "name": "Two Different People",
       "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Curious Things",
+        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "Ogives / Redistributed",
+      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 450509,
-      "name": "Red Gate Drifting",
-      "url": "https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 276636,
       "name": "Reminiscence (Spring has come)",
       "url": "https://open.spotify.com/track/37qs84hvGjeU7PegEaeFLd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 450509,
+      "name": "Red Gate Drifting",
+      "url": "https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq"
     },
     {
       "added_at": "2023-06-07 15:21:34",

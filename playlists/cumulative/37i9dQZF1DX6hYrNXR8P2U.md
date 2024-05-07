@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 Mi Amigo Invencible & Juliana Gattas.
 
-235 songs - 12 hr 31 min
+236 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 | 2023-10-13 | 2024-02-17 |
 | [El rock and roll pasó de moda](https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Lucas Jaubet](https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr) | [El rock and roll pasó de moda](https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB) | 4:01 | 2023-10-13 |  |
 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2024-04-12 |  |
+| [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 | 2024-05-06 |  |
 | [ELEMENTO](https://open.spotify.com/track/5KOftKE33lf7qbp6nX58Bo) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [ELEMENTO](https://open.spotify.com/album/0KlPB9P2HLb2EA03s8l9mB) | 2:29 | 2023-10-13 | 2024-02-17 |
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-13 | 2023-11-11 |
 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-22 |  |
@@ -108,7 +109,7 @@
 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 | 2024-03-29 |  |
 | [La Herencia](https://open.spotify.com/track/6mS0cjqTQwo6Uc4SysXY7E) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [La Herencia](https://open.spotify.com/album/59G7P0Q82nplbSoazFBZG8) | 3:04 | 2024-05-03 |  |
 | [LA MIRADA](https://open.spotify.com/track/1EqOhjjpK191x3QOaynUKK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [CINEMA](https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL) | 3:36 | 2024-03-29 |  |
-| [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [LA QUE PUEDE, PUEDE](https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY) | 2:34 | 2024-03-27 |  |
+| [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [LA QUE PUEDE, PUEDE](https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY) | 2:34 | 2024-03-27 | 2024-05-07 |
 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 | 2024-03-09 |
 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-05-03 |

@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 157014,
+  "num_followers": 157092,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Soul Of The Blues",
         "url": "https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 245653,
       "name": "Along About Midnight",
       "url": "https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 282626,
-      "name": "Blue Jean Blues - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "I Feel Like Steppin' Out",
         "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 151533,
       "name": "Blue Because Of You",
       "url": "https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Blue Jean Blues - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Me and Mr. Johnson",
         "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246493,
       "name": "Kind Hearted Woman Blues",
       "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W"
     },
     {
       "added_at": "2023-10-05 08:53:30",

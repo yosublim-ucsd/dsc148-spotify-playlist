@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 
 > Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,967 likes - 45 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,021 likes - 45 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

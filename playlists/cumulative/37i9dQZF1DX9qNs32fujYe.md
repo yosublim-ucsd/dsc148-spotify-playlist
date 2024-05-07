@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-868 songs - 2 day 16 hr 3 min
+870 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 | 2022-07-13 |  |
 | [Along Came the Devil](https://open.spotify.com/track/0g7Wb6Dbe2sfwdntWnkv1W) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Along Came the Devil](https://open.spotify.com/album/17XgA2THnPbYLArrBahaIW) | 4:21 | 2021-12-17 | 2022-07-29 |
 | [Along with the Gods](https://open.spotify.com/track/3KBczoPL3ICgxfb44aCx3a) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke) | [Glamour & Gloom](https://open.spotify.com/album/1G19CZ7Cd2xPSBT3BL7fuL) | 3:33 | 2022-01-14 | 2022-06-01 |
+| [Always Watching You](https://open.spotify.com/track/5P5U8XOT8tpqJqycfDWVSW) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Always Watching You](https://open.spotify.com/album/2mYUCuff2blGWnMZWOJQii) | 2:43 | 2024-05-03 |  |
 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 | 2021-12-17 | 2022-11-13 |
 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 | 2022-07-13 | 2023-03-11 |
 | [Angel In Disgrace](https://open.spotify.com/track/2yoCtR2C0sMFgII70RosuY) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Raven Age](https://open.spotify.com/album/59xXjvaaliSM6MUAxcZ6Ho) | 5:28 | 2021-12-17 | 2022-07-09 |
@@ -92,7 +93,7 @@
 | [Bliss](https://open.spotify.com/track/6dbruyCMT67nVbPvMiz07U) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Bliss](https://open.spotify.com/album/1cJgIaKTSOnv35U8QhFxJA) | 4:12 | 2022-04-08 | 2022-07-27 |
 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 | 2022-08-12 |  |
 | [Blood from Above](https://open.spotify.com/track/3OzBsTYpopjRDRwcoC0Cpw) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Blood from Above](https://open.spotify.com/album/1nbTmFgmG415Yl9bZlMMII) | 3:21 | 2022-03-22 | 2022-04-15 |
-| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 |  |
+| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2024-05-07 |
 | [Blood of the Levant](https://open.spotify.com/track/0PoMcX0HyQDLndrGMaFT2z) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Blood of the Levant](https://open.spotify.com/album/2fU5qEnXRpkEfHIhewAqoL) | 3:27 | 2022-01-28 | 2022-04-15 |
 | [Bloodheads United](https://open.spotify.com/track/6OzJLdiJV3jGUI6dE9YwvS) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Bloodheads United](https://open.spotify.com/album/5QeGSkkZ9J7KzYqBGOMx5J) | 5:20 | 2022-01-07 | 2022-05-25 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2021-12-17 | 2022-07-29 |
@@ -200,6 +201,7 @@
 | [Diabolic](https://open.spotify.com/track/3QmT40QBlxr4n5AxhOSxkf) | [Demons & Wizards](https://open.spotify.com/artist/4O6RDLeFX5xuQ7IePFzVcl) | [Diabolic](https://open.spotify.com/album/0n3kyg04BzlX1kvoIh0Y2n) | 8:01 | 2021-12-17 | 2022-07-29 |
 | [Diabolical](https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx) | 4:09 | 2022-01-28 | 2022-07-23 |
 | [Diabolical](https://open.spotify.com/track/5Ec52T5PSqN26Qa8KBKeCF) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/3j0IOD3AxvlfTk7esLYxeA) | 4:09 | 2022-04-15 | 2022-04-21 |
+| [Diamond Claws](https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Diamond Claws](https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx) | 4:36 | 2024-05-03 |  |
 | [Diamonds & Pearls](https://open.spotify.com/track/7mWtTWEiqYOkKR5UDQroqR) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Diamonds & Pearls](https://open.spotify.com/album/2V1IqJtRDCmuHc7EmOtUMk) | 4:45 | 2021-12-17 | 2022-07-28 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-10-07 |  |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2022-07-08 | 2024-04-19 |
@@ -518,7 +520,7 @@
 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2022-07-13 | 2022-12-17 |
 | [ObZen \- 15th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/793kfIPUvMqqbpuG3xPxiH) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/7FEtkDhMVgM7vD1rIrixB5) | 4:24 | 2023-03-10 | 2023-05-06 |
 | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/track/4oTHNttJRsIC6pr205Ld8Y) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [The Queen Of The Damned](https://open.spotify.com/artist/6tetPxHdTuzbSwzaluKVMI) | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/album/4fRKJfYPKCNKk7wfhVxTYi) | 4:29 | 2021-12-17 | 2022-07-27 |
-| [Of Course I Still Love You](https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart?](https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ) | 3:58 | 2023-10-27 |  |
+| [Of Course I Still Love You](https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart?](https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ) | 3:58 | 2023-10-27 | 2024-05-07 |
 | [Offering to the Void](https://open.spotify.com/track/645e2PzMglhBceqVpQOSoI) | [Lords of the Trident](https://open.spotify.com/artist/1C11hnl3RZ7hadyMv5g5gm) | [The Offering](https://open.spotify.com/album/5ua43Gmyv5TaewII4LnmGZ) | 4:32 | 2022-04-01 | 2022-04-28 |
 | [On Broken Glass](https://open.spotify.com/track/77UdkFXVaGnfR3epYo909A) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [On Broken Glass](https://open.spotify.com/album/6ChvfZE1Hnp7lPItx73v63) | 4:27 | 2022-03-22 | 2022-04-21 |
 | [On the Other Side of Tonight](https://open.spotify.com/track/0Fwgk7r48uJpO4Hjb6NGmY) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Make It Rain / On the Other Side of Tonight](https://open.spotify.com/album/13NYRk93Aood9uaAvGnDkI) | 3:22 | 2024-03-22 |  |

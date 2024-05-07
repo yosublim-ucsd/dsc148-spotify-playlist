@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,315 songs - 7 day 20 hr 7 min
+3,316 songs - 7 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3285,6 +3285,7 @@
 | [You and Me](https://open.spotify.com/track/2lXZW8tjjKA7aXZpu38UNU) | [Rick Lee Vinson Group](https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq) | [You and Me](https://open.spotify.com/album/6MiWE62h0AIX5Y5ZSQD2NQ) | 3:05 | 2022-12-30 | 2023-01-21 |
 | [You Are](https://open.spotify.com/track/6eMHZ5sZ649EZ8fDzdlEJZ) | [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [You Don't Get Me / You Are](https://open.spotify.com/album/4Qs4oBcpnfkq7lJMqPmngh) | 3:33 | 2019-09-29\* | 2019-10-09 |
 | [You Are Worthless](https://open.spotify.com/track/2eMxllF1TCQMZaBB52C2pr) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [You Are Worthless](https://open.spotify.com/album/4VBTKv1rINEOOHUN6gAVp2) | 2:52 | 2023-07-31 | 2023-08-20 |
+| [You At Last](https://open.spotify.com/track/50vv6wg6hKwotk8t34p3g6) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [You At Last](https://open.spotify.com/album/3foV6VmwHQVNKGcx1v3rOS) | 3:57 | 2024-05-06 |  |
 | [You Deserve It](https://open.spotify.com/track/5bzACALvZHOEuRDGmqNApg) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [You Deserve It](https://open.spotify.com/album/1rJn9CywRwcylvTFYtLLnP) | 2:57 | 2022-04-09 | 2022-04-14 |
 | [You Deserve It](https://open.spotify.com/track/1h6uDw5tEKF0S4A458zNb7) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [You Deserve It](https://open.spotify.com/album/4RnGEF0kh1GQ5WYunvaViY) | 2:58 | 2022-04-05 | 2022-05-10 |
 | [You Did It Again](https://open.spotify.com/track/3sjSBkwC6zzizzozoXCYH1) | [cristian](https://open.spotify.com/artist/75U23aX5AfwDwalmCZHnjQ) | [You Did It Again](https://open.spotify.com/album/4OmNQonXV4KD7F0GkJweqr) | 3:20 | 2023-01-22 | 2023-02-24 |

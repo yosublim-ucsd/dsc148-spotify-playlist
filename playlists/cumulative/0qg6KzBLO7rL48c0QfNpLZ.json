@@ -3647,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/4aGueMl92vql78DDgX1IiL"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144883,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/7LVaG8MWdLjHd55rKo3Tt2"
+    },
+    {
+      "album": {
         "name": "Long Island",
         "url": "https://open.spotify.com/album/7abIIrnjL0Q71hCv5v9ZLq"
       },
@@ -5226,6 +5244,24 @@
       "duration_ms": 152380,
       "name": "Space 2 Breathe - Radio Edit",
       "url": "https://open.spotify.com/track/6yAhLCiuH22cNUzNlBv5n9"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2iLGxDPfxhvDtIQGYcRLZP"
+      },
+      "artists": [
+        {
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2xiO9h2XdSA0PcaG8cKADj"
     },
     {
       "album": {

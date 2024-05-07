@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39300,
+  "num_followers": 39291,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 277539,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Venus & Blue",
         "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186113,
       "name": "Tu Olor",
       "url": "https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 277539,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "Hello Tarantino",
-      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Nostalgia del Futuro",
-        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 205224,
-      "name": "Nostalgia del Futuro",
-      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "Hello Tarantino",
+      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Pies sobre la tierra",
         "url": "https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 271788,
       "name": "Todo Lo Que Quer\u00edas Saber",
       "url": "https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Parted Plains",
+        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
+      },
+      "artists": [
+        {
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+        }
+      ],
+      "duration_ms": 203372,
+      "name": "Raiments",
+      "url": "https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Parted Plains",
-        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
+        "name": "Nostalgia del Futuro",
+        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
       },
       "artists": [
         {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
         }
       ],
-      "duration_ms": 203372,
-      "name": "Raiments",
-      "url": "https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9"
+      "duration_ms": 205224,
+      "name": "Nostalgia del Futuro",
+      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 158498,
       "name": "Los Alan Anaya Rifa",
       "url": "https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Habits EP",
-        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 181203,
-      "name": "Itaca Tropical",
-      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ahora Veo M\u00e1s Claro",
         "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 294056,
       "name": "Ascenso - Descenso",
       "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Habits EP",
+        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 181203,
+      "name": "Itaca Tropical",
+      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Pulpos",
         "url": "https://open.spotify.com/album/1nJyg4XvniLvxu2ibVfP1r"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 230000,
       "name": "Pulpos - Los Alan Anaya Remix",
       "url": "https://open.spotify.com/track/6tUVqheajV2blIRHvRX5Ob"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
+      },
+      "artists": [
+        {
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+        }
+      ],
+      "duration_ms": 278952,
+      "name": "Ajooni",
+      "url": "https://open.spotify.com/track/3j8cLwjg74aMFMZNuOKMRe"
     },
     {
       "added_at": "2024-02-16 18:40:38",

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: LEE CHANGSUB\(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,203 songs - 3 day 5 hr 57 min
+1,205 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Soonri](https://open.spotify.com/track/7GCNT9j5CTaq3eCNxuvJxa) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [\#FILM Soonri](https://open.spotify.com/album/3Rp8hJ0ybSCDBbm3NQzljC) | 4:56 | 2022-03-24 | 2022-04-20 |
 | [Sorrowful memories from the past](https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [If I held onto you](https://open.spotify.com/album/2ocvkplFV8W1FH32tQPoyx) | 3:49 | 2022-07-07 | 2022-08-19 |
 | [Sorry \(feat\. BUMJIN\)](https://open.spotify.com/track/5zQA6BBKgXGUp9BSqlNfIl) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Sorry \(feat\. BUMJIN\)](https://open.spotify.com/album/4EqN23Z4QET6fEijXnAj6o) | 3:54 | 2023-09-27 | 2023-12-14 |
+| [Sorry doesn't cut it](https://open.spotify.com/track/5uHVu9UKbkDbG0JwtHuiVl) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Magic hour](https://open.spotify.com/album/56V0JZI6S0TuuMAY31vO5s) | 3:49 | 2024-05-07 |  |
 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 | 2022-11-17 |
 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 | 2021-12-23 | 2022-07-07 |
 | [Spring Days](https://open.spotify.com/track/2htbpZkpsuD80TDw5nfNZo) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Spring Days](https://open.spotify.com/album/2qI6GtiqbnB3XbuVHMH6wb) | 3:59 | 2022-03-22 | 2022-05-18 |
@@ -1049,6 +1050,7 @@
 | [Walk With Me](https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [The Law Cafe \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR) | 3:37 | 2022-10-12 | 2023-01-21 |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2021-12-20 | 2022-04-20 |
 | [want to love you](https://open.spotify.com/track/4is7rfBhIbPBpVdAMnhFoQ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:27 | 2021-12-23 | 2022-06-16 |
+| [Warmth](https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Warmth](https://open.spotify.com/album/700oyQvND1pNIADYqOkrre) | 3:55 | 2024-05-07 |  |
 | [WAVE](https://open.spotify.com/track/5VeByROjeglnNRZFobQOev) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:30 | 2022-03-09 | 2022-04-21 |
 | [We have to meet again](https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8) | 4:30 | 2023-01-20 | 2023-03-28 |
 | [We haven't broken up yet](https://open.spotify.com/track/6gEFr1UkQ1vd4MCkcKB5On) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [We haven't broken up yet](https://open.spotify.com/album/4hBTuwgGBdFuG5Q3qYMo3r) | 3:35 | 2023-03-15 | 2023-07-18 |

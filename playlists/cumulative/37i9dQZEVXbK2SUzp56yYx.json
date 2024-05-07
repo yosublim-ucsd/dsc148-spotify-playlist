@@ -700,10 +700,28 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 253779,
       "name": "Dolietawscheicht",
       "url": "https://open.spotify.com/track/2Iscp4pc9gVzwIZB38Dvfv"
+    },
+    {
+      "album": {
+        "name": "Dove (Doll Ver)",
+        "url": "https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7"
+      },
+      "artists": [
+        {
+          "name": "antihoney",
+          "url": "https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135976,
+      "name": "Dove - Doll Ver",
+      "url": "https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB"
     },
     {
       "album": {
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 143421,
       "name": "LET THE WORLD BURN - Sped Up",
       "url": "https://open.spotify.com/track/3uGNaReqRkwWDiAEgnwwaa"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 98414,
       "name": "NITE",
       "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 97343,
       "name": "pulse - slowed",
       "url": "https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW"
@@ -4555,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "\u0410\u043b\u044c\u0442\u0443\u0448\u043a\u0430 \u0434\u043b\u044f \u0421\u043a\u0443\u0444\u0430",
+        "url": "https://open.spotify.com/album/7mtAjcOxhWwQBM6cT7UtAW"
+      },
+      "artists": [
+        {
+          "name": "BSWEEDY",
+          "url": "https://open.spotify.com/artist/0uPdXMRLDFVlaS1rZEV9db"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79084,
+      "name": "\u0410\u043b\u044c\u0442\u0443\u0448\u043a\u0430 \u0434\u043b\u044f \u0421\u043a\u0443\u0444\u0430",
+      "url": "https://open.spotify.com/track/3w72DPADszOYAInCsaCyko"
+    },
+    {
+      "album": {
         "name": "\u0410\u043d\u0433\u0435\u043b",
         "url": "https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP"
       },
@@ -4610,7 +4646,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "\u0411\u0438\u0433 \u0421\u0438\u0442\u0438 \u041b\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI"
@@ -4893,7 +4929,7 @@
     },
     {
       "album": {
-        "name": "\u0413\u043b\u044e\u043a\u043e\u0437\u0430 \u041d\u043e\u0441\u0442\u0440\u0430",
+        "name": "\u0413\u043b\u044e\u043a\u2019oZa Nostra",
         "url": "https://open.spotify.com/album/0mr7oAApmuDmDf5aZ9NtH9"
       },
       "artists": [
@@ -4904,9 +4940,9 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
-      "duration_ms": 196675,
-      "name": "\u0413\u043b\u044e\u043a \u043eza nostra",
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "\u0413\u043b\u044e\u043a\u2019oZa Nostra",
       "url": "https://open.spotify.com/track/4NG9UtpN0ssioSH6SQ7tjY"
     },
     {
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 115884,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a (Speed Up)",
       "url": "https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL"
@@ -6208,7 +6244,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 216510,
       "name": "\u041f\u043e\u0437\u0432\u043e\u043d\u0438",
       "url": "https://open.spotify.com/track/7Ao6ilamch7GU3llQG7wTX"
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 162526,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
@@ -6762,7 +6798,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 185497,
       "name": "\u0422\u044b \u0442\u0430\u043a \u043a\u0440\u0430\u0441\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/792WvmrbeOW6APXfmZFuse"

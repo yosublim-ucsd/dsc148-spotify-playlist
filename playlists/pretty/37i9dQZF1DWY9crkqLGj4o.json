@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 415924,
+  "num_followers": 415969,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 358240,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
         "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 297680,
       "name": "Grandes Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 358240,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Ele N\u00e3o Desiste de Voc\u00ea",
         "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 231608,
       "name": "N\u00e3o Morrerei",
       "url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 324013,
-      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Eterno Presente (Ao Vivo)",
         "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 518880,
       "name": "Ele Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 669421,
+      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 306560,
       "name": "Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 669421,
-      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
     },
     {
       "added_at": "2023-11-03 04:33:15",

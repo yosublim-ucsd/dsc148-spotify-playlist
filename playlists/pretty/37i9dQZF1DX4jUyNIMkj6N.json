@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 201483,
+  "num_followers": 201501,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Love Me One More Time",
-        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wallin",
-          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Love Me One More Time",
-      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Malory",
         "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "Love Me One More Time",
+        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Jonas Wallin",
+          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 189154,
+      "name": "Love Me One More Time",
+      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 168556,
       "name": "Mornings and Afternoons",
       "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -947,22 +947,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "I\u00b4m Not Your Girl",
-        "url": "https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6"
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
       },
       "artists": [
         {
-          "name": "Emma Nilsdotter",
-          "url": "https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd"
-        },
-        {
-          "name": "Frida \u00d6hrn",
-          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
         }
       ],
-      "duration_ms": 220440,
-      "name": "I\u00b4m Not Your Girl",
-      "url": "https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th"
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -983,18 +979,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+        "name": "Here Comes The Sun",
+        "url": "https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw"
       },
       "artists": [
         {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
         }
       ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+      "duration_ms": 192500,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ"
     }
   ],
   "unique_name": "Nordic Folk",

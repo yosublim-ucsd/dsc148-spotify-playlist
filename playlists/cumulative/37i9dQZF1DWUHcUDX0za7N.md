@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Ajebo Hustlers
 
-398 songs - 19 hr 0 min
+399 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-04-23 |
 | [Ikebe](https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0) | [DJ Madengo](https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ikebe](https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek) | 3:09 | 2022-11-24 | 2023-01-20 |
 | [In Battle](https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [In Battle](https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW) | 3:16 | 2023-11-03 | 2024-02-03 |
-| [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 | 2023-07-28 |  |
+| [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 | 2023-07-28 | 2024-05-07 |
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-27 | 2023-10-29 |
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-04-28 |
 | [IRE](https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6) | [D Bliss](https://open.spotify.com/artist/3gQm1VLHWfgsxdCybVW3LA), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [IRE](https://open.spotify.com/album/1vrNczRrwYB6WVCNHpR7DY) | 3:21 | 2023-03-30 | 2023-04-15 |
@@ -229,6 +229,7 @@
 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 | 2024-01-17 |
 | [My Way No Be Your Way](https://open.spotify.com/track/6FNFp1ZvhAv5sZm2sMATg9) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Tony Montana Of London](https://open.spotify.com/album/0DXKD2h11v2YmQp96v9eZB) | 3:02 | 2024-02-09 | 2024-04-26 |
 | [Na mumu dey love](https://open.spotify.com/track/0o5B6MU0IWSTjuHlU7o2fH) | [Oshey](https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Diyo Matalo](https://open.spotify.com/artist/6r1jcx4ViBUzoT5NxN6MU2) | [Na mumu dey love](https://open.spotify.com/album/6Xugn0UqitOJ6JrAFEbwg7) | 3:57 | 2023-06-16 | 2023-07-01 |
+| [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-05-03 |  |
 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2022-12-02 | 2023-02-24 |
 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 | 2023-08-17 | 2023-09-29 |
 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 | 2023-08-10 |  |

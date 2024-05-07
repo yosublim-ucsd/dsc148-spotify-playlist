@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Always Watching You",
+        "url": "https://open.spotify.com/album/2mYUCuff2blGWnMZWOJQii"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163141,
+      "name": "Always Watching You",
+      "url": "https://open.spotify.com/track/5P5U8XOT8tpqJqycfDWVSW"
+    },
+    {
+      "album": {
         "name": "Am I Evil?",
         "url": "https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -3538,6 +3556,24 @@
       "duration_ms": 249159,
       "name": "Diabolical",
       "url": "https://open.spotify.com/track/5Ec52T5PSqN26Qa8KBKeCF"
+    },
+    {
+      "album": {
+        "name": "Diamond Claws",
+        "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276552,
+      "name": "Diamond Claws",
+      "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
     },
     {
       "album": {
@@ -9388,7 +9424,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 238760,
       "name": "Of Course I Still Love You",
       "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"

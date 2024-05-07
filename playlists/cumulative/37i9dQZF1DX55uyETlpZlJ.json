@@ -1173,6 +1173,32 @@
     },
     {
       "album": {
+        "name": "CHINDI MAADU",
+        "url": "https://open.spotify.com/album/4m69AYEq6wKLWbKoT7KdUW"
+      },
+      "artists": [
+        {
+          "name": "Nishan S",
+          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
+        },
+        {
+          "name": "Athmik Rai",
+          "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "CHINDI MAADU",
+      "url": "https://open.spotify.com/track/1t7ETxbjdYeeLwbe6LXxq1"
+    },
+    {
+      "album": {
         "name": "Chitte",
         "url": "https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq"
       },

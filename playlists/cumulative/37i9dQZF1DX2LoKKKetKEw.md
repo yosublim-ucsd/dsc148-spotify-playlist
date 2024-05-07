@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-275 songs - 14 hr 16 min
+276 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Better Days](https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Better Days](https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9) | 3:03 | 2024-01-12 |  |
 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 | 2023-08-25 | 2024-01-27 |
 | [Big Stepper Pt\. 2](https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Big Stepper Pt\. 2](https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD) | 2:49 | 2024-01-26 | 2024-02-24 |
-| [Big Time](https://open.spotify.com/track/075n6Vdn3LDL8t0zxzak1W) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Big Time](https://open.spotify.com/album/5ThPlUZMWm5XlDzAqfR4dt) | 2:38 | 2024-01-26 |  |
+| [Big Time](https://open.spotify.com/track/075n6Vdn3LDL8t0zxzak1W) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Big Time](https://open.spotify.com/album/5ThPlUZMWm5XlDzAqfR4dt) | 2:38 | 2024-01-26 | 2024-05-07 |
 | [Bigger \- odogwu](https://open.spotify.com/track/4g5KxATLbcyOGNpOYFErU7) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Bigger \(odogwu\)](https://open.spotify.com/album/48QML3HO0ku6ZMnkuYCuAx) | 2:56 | 2023-08-25 | 2024-02-24 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
 | [Blessed](https://open.spotify.com/track/2Vgs2RWDtN81ERWBVoNPdh) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Tee Tings](https://open.spotify.com/artist/3AJQ7nRJ20OKO8glsiw2Q4) | [Blessed](https://open.spotify.com/album/6ICTwlNI6tFMnmLxQ2bTjK) | 3:25 | 2024-01-12 | 2024-01-27 |
@@ -179,6 +179,7 @@
 | [Nobody Like You \(feat\. CalledOut Music\) \- Radio Edit](https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C) | 3:05 | 2022-10-01 | 2024-01-13 |
 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 | 2022-07-30 | 2022-12-06 |
 | [NOMO \(Never On My Own\)](https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [NOMO \(Never On My Own\)](https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La) | 2:14 | 2023-05-19 |  |
+| [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 | 2024-05-03 |  |
 | [NOTHING](https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [NOTHING](https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk) | 2:48 | 2023-05-19 |  |
 | [NOW](https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [NOW](https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv) | 3:43 | 2024-01-12 |  |
 | [Now](https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS) | [Now](https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO) | 3:45 | 2023-05-19 | 2023-08-26 |

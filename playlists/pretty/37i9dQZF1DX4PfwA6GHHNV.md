@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,012 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,014 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 36 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
 | 37 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
 | 38 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
-| 39 | [Não Me Ligue Mais](https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs), [Jovem Ralph](https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR) | [Fatossíntese](https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3) | 2:35 |
-| 40 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
-| 41 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 |
-| 42 | [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 |
+| 39 | [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 |
+| 40 | [Não Me Ligue Mais](https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs), [Jovem Ralph](https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR) | [Fatossíntese](https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3) | 2:35 |
+| 41 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
+| 42 | [Me Diz](https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL) | [Neittan](https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n), [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [AlmaViva Música](https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG) | [Me Diz](https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP) | 2:42 |
 | 43 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 44 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
 | 45 | [Teimosa e Ciumenta](https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Fases Vol\. 1](https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG) | 2:26 |

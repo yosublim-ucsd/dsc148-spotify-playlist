@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-11",
-  "description": "This Is The Rolling Stones. Los temas esenciales, todos en una lista.",
+  "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
   "name": "This Is The Rolling Stones",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 213560,
       "name": "Paying The Cost To Be The Boss",
       "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Sway - 2009 Mix",
       "url": "https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66"

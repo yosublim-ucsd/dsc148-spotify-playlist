@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-23",
-  "description": "Ajude seu beb\u00ea a adormecer com esta playlist relaxante com as favoritos da Disney.",
+  "description": "Ajude seu beb\u00ea a dormir com m\u00fasicas relaxantes da Disney.",
   "name": "Disney Para Dormir",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 243826,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Benjamin Rice",
+          "url": "https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making - Instrumental",
+      "url": "https://open.spotify.com/track/0QHJWOj83L1HeKFroQAtk7"
     },
     {
       "album": {

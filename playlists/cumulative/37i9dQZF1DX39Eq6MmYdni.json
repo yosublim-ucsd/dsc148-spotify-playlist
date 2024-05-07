@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/5kAjUfxrK0LIAvXtVG0dNs"
+      },
+      "artists": [
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167665,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/7dmYktUienXcR84iNRS82m"
+    },
+    {
+      "album": {
         "name": "All The Good Die Young",
         "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
       },
@@ -1361,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "La Marca",
+        "url": "https://open.spotify.com/album/3i55ss8bONEB53CoGvNav0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266686,
+      "name": "La Marca",
+      "url": "https://open.spotify.com/track/5FF5YIK0K3Gt6rIz9tAtnq"
+    },
+    {
+      "album": {
         "name": "La Mera Vena",
         "url": "https://open.spotify.com/album/3OSPVwIG8hA2G5Ltc3sfJg"
       },
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 203586,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 170655,
       "name": "Se Olvid\u00f3 De Olvidarla",
       "url": "https://open.spotify.com/track/2KSo9czJOCUtv5XSWYBsMX"

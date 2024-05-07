@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Emma Elliott
 
-3,353 songs - 8 day 13 hr 49 min
+3,356 songs - 8 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [Egois & Hancur](https://open.spotify.com/track/4Z8TbL00jsZavpzaZY5xew) | [The Pablo](https://open.spotify.com/artist/1cEZXiKq31V4YDJamOUskW) | [Egois & Hancur](https://open.spotify.com/album/0HlHghtkSJ04B7r6rytAeG) | 4:32 | 2022-11-03 | 2022-12-01 |
 | [eileen](https://open.spotify.com/track/7HC41jzEMl9yfZutRqILR3) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [Wyrscape](https://open.spotify.com/artist/2poY7oX8B9YJh8Ub2crziN) | [eileen](https://open.spotify.com/album/55aGGZCfbWxmEnHU5iOmhs) | 2:05 | 2023-06-08 | 2023-06-23 |
 | [Eksotika](https://open.spotify.com/track/7JzhTG4sTQLK0D814n67oM) | [Ranu Pani](https://open.spotify.com/artist/1U7hDgZFhsJzAb84Agh9tM) | [Inklusi](https://open.spotify.com/album/0TMB2jmPJ3MIifYNBvtHnB) | 5:17 | 2023-09-22 | 2023-10-13 |
+| [Ekspektasimu](https://open.spotify.com/track/3Ca59hDrMUfaejUpFO5Krt) | [Audrey Anggoro](https://open.spotify.com/artist/6m3hIhjraKz2Pd6fLJgdKg) | [Ekspektasimu](https://open.spotify.com/album/43xc5OIBW3Xs9oHWSicRRA) | 3:29 | 2024-05-06 |  |
 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 | 2023-02-16 | 2023-03-03 |
 | [El Pollo Loco](https://open.spotify.com/track/3b0fmQkUTH4jYD7IzhbXxl) | [Seven Seventy](https://open.spotify.com/artist/5fB5DQX8yOXY0NL900eDEa) | [El Pollo Loco](https://open.spotify.com/album/2HhlSKDNrG0mtp3HN1p9UW) | 3:32 | 2023-07-14 | 2023-07-28 |
 | [Elegi Sunyi](https://open.spotify.com/track/3dZTLLUr3bxL1kSxzVGJom) | [Tënggara](https://open.spotify.com/artist/5zHnrqdpXLd80U88AJbKRK) | [Elegi Sunyi](https://open.spotify.com/album/473ai2BVSMVzSz62J5yk99) | 5:28 | 2023-05-11 | 2023-05-26 |
@@ -3094,6 +3095,7 @@
 | [Tired of Overthinking](https://open.spotify.com/track/51Py1S7FenS5OfriRfCkTn) | [Bryan Tanadi Tjandra](https://open.spotify.com/artist/51DH1nsRVA57Ipacr6r3W7) | [Tired of Overthinking](https://open.spotify.com/album/3A2f7lMOxrvHseUZ8lMbpg) | 3:57 | 2024-03-14 | 2024-04-12 |
 | [Titik Hijau di Kemarau](https://open.spotify.com/track/6r9lmVu5JdhURNXLvjI8qd) | [Dua Kota](https://open.spotify.com/artist/2Pyk4d6ruGoNcqtflFJDzy) | [Titik Hijau di Kemarau](https://open.spotify.com/album/5Bw8MurzZ28bHMUr1z83HV) | 5:59 | 2023-11-02 | 2023-11-24 |
 | [Titik Koma](https://open.spotify.com/track/1BOmX9HCR31Z23HKfEi2qs) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp) | [Titik Koma](https://open.spotify.com/album/17wmKHVIGN2cRyksC0qLdJ) | 3:37 | 2023-01-26 | 2023-02-10 |
+| [Titik Terang](https://open.spotify.com/track/5HnmzC0ruE0CqH0vtUa3zS) | [Lanang Isman](https://open.spotify.com/artist/5wHa9uMNGPOSsxIU0M4rM6) | [Titik Terang](https://open.spotify.com/album/2fV2LcCtf8o62MuoOdL0SZ) | 4:50 | 2024-05-06 |  |
 | [Titik Terendah](https://open.spotify.com/track/3Oj31ax9ky7BaCPcfKIT5c) | [Riezky Hidayat](https://open.spotify.com/artist/2Us1Y9DfSLgFMxn1FwTP8A), [Ersa](https://open.spotify.com/artist/03BEMgMtnSS0QP8cMD31eg) | [Titik Terendah](https://open.spotify.com/album/3pVebX28e1bQwATAvDp8S7) | 4:02 | 2022-05-26 | 2022-06-10 |
 | [To Forget](https://open.spotify.com/track/7Ic70cQUNqxjKSaSDLlzQN) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [To Forget](https://open.spotify.com/album/3esztDjNDfE3QnPRhIm0nz) | 3:17 | 2023-11-02 | 2023-11-24 |
 | [to love, is to grow](https://open.spotify.com/track/0HI9DBf1oejMfRk8biri7c) | [opan](https://open.spotify.com/artist/4Fza8B3hrUPECAdbYHQD5a) | [to love, is to grow](https://open.spotify.com/album/2FoCbRYM1LO6WKcK2yYjWL) | 4:04 | 2023-11-02 | 2023-11-24 |
@@ -3333,6 +3335,7 @@
 | [You Are My Overlook](https://open.spotify.com/track/0YGjL9pG62HnoayGJPZDzD) | [Kura Kura Parafin](https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l) | [You Are My Overlook](https://open.spotify.com/album/6vAlQ1Gktr6LAjyYMeY4Ne) | 3:10 | 2023-12-28 | 2024-01-26 |
 | [You Are Not Alone](https://open.spotify.com/track/7qSoLcJ7G4obAy2EX008zc) | [Akmalz](https://open.spotify.com/artist/0c8q0LPwIgrzbHaGcxxq0F) | [You Are Not Alone](https://open.spotify.com/album/59TEr2KCX786sulcXHD3gf) | 4:36 | 2023-10-12 | 2023-11-03 |
 | [You Betray Me, Don't You?](https://open.spotify.com/track/1FkMeVH15gPaQyUiSLcV1r) | [Juniper](https://open.spotify.com/artist/4PmM1z53wM12PEAGnMhdhg) | [You Betray Me, Don't You?](https://open.spotify.com/album/0o5UUMJMMPUyjkWuJkdVrV) | 3:44 | 2022-01-27 | 2022-02-11 |
+| [You Broke My Heart](https://open.spotify.com/track/4AcuiTLtjpUNBFdMfpVk84) | [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [You Broke My Heart](https://open.spotify.com/album/3mB0kUzoLfmQqDAYTp98vz) | 3:17 | 2024-05-06 |  |
 | [You Can Get Your Beautiful Day](https://open.spotify.com/track/3BuYlAMdpIze46M202eBFh) | [Tenungkara](https://open.spotify.com/artist/2WKCt2XNwVYGrBUGah4yls) | [You Can Get Your Beautiful Day](https://open.spotify.com/album/14AHaRoj6TunM8XKQ7s5qk) | 4:08 | 2023-07-06 | 2023-07-21 |
 | [You Can Get Your Beautiful Day \- acoustic version](https://open.spotify.com/track/2sdIpNOTn6m2JD48yDtQ06) | [Tenungkara](https://open.spotify.com/artist/2WKCt2XNwVYGrBUGah4yls) | [You Can Get Your Beautiful Day \(acoustic version\)](https://open.spotify.com/album/2cS0qrX7BoPfVQtuMILAWo) | 4:04 | 2023-09-07 | 2023-09-23 |
 | [You Can't Be](https://open.spotify.com/track/32zggEHzlSUsyR2GOdlLKL) | [Annisa Diadra](https://open.spotify.com/artist/3atLrsa8MRytv7r4KJeYNp) | [You Can't Be](https://open.spotify.com/album/5TNziDCGyHQ2BwKYforB3n) | 3:14 | 2023-09-07 | 2023-09-23 |

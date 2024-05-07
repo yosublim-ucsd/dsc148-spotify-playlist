@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Charlotte Day Wilson",
-  "num_followers": 1326873,
+  "num_followers": 1326858,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhQAAAAABOC7w8fl13DIqdBDRMkY0L",
+  "snapshot_id": "ZjkulQAAAAB1z7wPGX43zfa52HUvI0hQ",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -75,6 +75,22 @@
       "duration_ms": 247741,
       "name": "piss!",
       "url": "https://open.spotify.com/track/3PthER9UR9jfkhWlTBQkWy"
+    },
+    {
+      "added_at": "2024-05-06 19:25:09",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Uncle ACE",
+      "url": "https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u"
     },
     {
       "added_at": "2024-04-12 16:00:00",

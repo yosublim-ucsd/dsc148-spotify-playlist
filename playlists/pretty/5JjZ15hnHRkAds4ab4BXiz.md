@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 212 songs - 13 hr 13 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 213 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 210 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 211 | [Two Kinds of Happiness](https://open.spotify.com/track/10rOqbOBlAJybglgmqaMZL) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:42 |
 | 212 | [Space Garden](https://open.spotify.com/track/0ydmFrXktLZghHLW6Axytj) | [Auntie Leo & The Backstabbers](https://open.spotify.com/artist/2MKRGonOGyamdXUfmbtzI2) | [Space Garden](https://open.spotify.com/album/0d5nbI8RcBORYooSI5f7Pw) | 4:56 |
+| 213 | [Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:31 |
 
-Snapshot ID: `AAABIDLdz7WQu/HjwPyuVvWmjDjDsv/t`
+Snapshot ID: `AAABIUH0wOGUT/eUhBVJ+z6dEajQYUNx`

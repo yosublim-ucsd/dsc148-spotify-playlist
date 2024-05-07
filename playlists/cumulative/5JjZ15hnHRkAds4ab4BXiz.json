@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
+    },
+    {
+      "album": {
         "name": "Sundown Syndrome / Remember Me",
         "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
       },

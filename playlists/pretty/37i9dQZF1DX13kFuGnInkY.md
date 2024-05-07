@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of the ACM Awards nominees! Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,650 likes - 68 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,792 likes - 68 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

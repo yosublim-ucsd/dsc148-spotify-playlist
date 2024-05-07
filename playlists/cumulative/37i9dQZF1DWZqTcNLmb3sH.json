@@ -6577,6 +6577,32 @@
     },
     {
       "album": {
+        "name": "Music Shop Murthy (Kannada)",
+        "url": "https://open.spotify.com/album/0zRDhgsmByLh9Iqjpo4J6o"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168795,
+      "name": "E Chikka Lokadali",
+      "url": "https://open.spotify.com/track/3LBGjbvkIPJhoBaqHZduqI"
+    },
+    {
+      "album": {
         "name": "E Hrudayada Deguladali (From \"Feel My Love\")",
         "url": "https://open.spotify.com/album/6E91OM5ykMyeQ9XIMy2Xzt"
       },
@@ -6974,7 +7000,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 201777,
       "name": "Eerappanu (From \"Captain Miller\") (Kannada)",
       "url": "https://open.spotify.com/track/2UJnORv1nEQerKIcbLtYyX"
@@ -16207,6 +16233,32 @@
     },
     {
       "album": {
+        "name": "Modala Premada (From \"Vyuha\")",
+        "url": "https://open.spotify.com/album/0ksb429ajq3MjoHXr1UG4l"
+      },
+      "artists": [
+        {
+          "name": "Franklin Rocky",
+          "url": "https://open.spotify.com/artist/7KYfhq391KJyUfEzXGEg2h"
+        },
+        {
+          "name": "Praveen Sutar",
+          "url": "https://open.spotify.com/artist/7AeUrio5xR6w7x20pbfqjq"
+        },
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Modala Premada (From \"Vyuha\")",
+      "url": "https://open.spotify.com/track/6aAR948QdpNKX2UH7BL1mm"
+    },
+    {
+      "album": {
         "name": "Modern Mahalakshmi (From \"Lankasura\")",
         "url": "https://open.spotify.com/album/2UVPtmQoAIwcfkjG28RDtP"
       },
@@ -23302,7 +23354,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 236508,
       "name": "Sameepa (From \"Pranayam\")",
       "url": "https://open.spotify.com/track/0jReORrSdz0qjADXiaY8Zz"
@@ -26424,7 +26476,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 205856,
       "name": "Warning Song (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/3dOC21UqMoJqIE2rjOGE7W"

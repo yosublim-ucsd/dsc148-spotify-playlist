@@ -2,9 +2,9 @@
 
 ### [Disney Para Dormir](https://open.spotify.com/playlist/37i9dQZF1DWXWXT1CF0lO2)
 
-> Ajude seu bebê a adormecer com esta playlist relaxante com as favoritos da Disney.
+> Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-78 songs - 3 hr 47 min
+79 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Whole New World](https://open.spotify.com/track/4PMQ9IidXtvDdhmlH4IBPD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:47 | 2021-04-26 |  |
 | [A Whole New World](https://open.spotify.com/track/0c5rB7E7bghYtOOKdmRUGC) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 3:14 | 2021-04-26 |  |
 | [A Whole New World](https://open.spotify.com/track/4BchPWoixASi7GfFompkIJ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 4:03 | 2021-04-26 |  |
+| [A Wish Worth Making \- Instrumental](https://open.spotify.com/track/0QHJWOj83L1HeKFroQAtk7) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-05-06 |  |
 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/7LAwEDbICtOIA1o4cBUk7U) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:25 | 2021-04-26 |  |
 | [All Is Found](https://open.spotify.com/track/0SdFIDXpGJnd7rIWbXQxIv) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 2:23 | 2021-04-26 |  |
 | [All Is Found](https://open.spotify.com/track/7q3qsU8mNnr1pANByJoQWK) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Breathe](https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4) | 2:38 | 2021-04-26 |  |

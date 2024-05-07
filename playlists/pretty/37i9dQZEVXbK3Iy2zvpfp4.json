@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4595,
+  "num_followers": 4596,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LcrswAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LcxAmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -33,7 +33,23 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Zungenbrecher 4.0 - Staffel 4",
         "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
@@ -53,23 +69,23 @@
       "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -121,7 +121,27 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -137,27 +157,23 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
         }
       ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "BENIHANA",
         "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
@@ -181,75 +197,27 @@
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
       "artists": [
         {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         },
         {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "2093",
-        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "If We Being R\u00ebal",
-      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "LET THE WORLD BURN",
         "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
@@ -265,23 +233,55 @@
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "SKEETER",
+        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
+      },
+      "artists": [
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Badass!",
+      "url": "https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -297,39 +297,23 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "Mi spendo tutto",
-        "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
       "artists": [
         {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 203426,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
@@ -345,7 +329,75 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Mi spendo tutto",
+        "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
+      },
+      "artists": [
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -373,23 +425,7 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "overseas",
-        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "overseas",
-      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC"
@@ -413,107 +449,7 @@
       "url": "https://open.spotify.com/track/58fJfG0hk0vdapXWxljz20"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "SKEETER",
-        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
-      },
-      "artists": [
-        {
-          "name": "Marko Damian",
-          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Badass!",
-      "url": "https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0433\u043d\u0438\u0442\u043e\u0430\u043b\u044c\u0431\u043e\u043c (\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435)",
-        "url": "https://open.spotify.com/album/5TOce09CCAufG4PVDnp0p2"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u0413\u0410\u0421",
-          "url": "https://open.spotify.com/artist/0XolBxmSEcUwps2Uvkm72J"
-        }
-      ],
-      "duration_ms": 209503,
-      "name": "\u0410\u0437\u0438\u044f - \u0415\u0432\u0440\u0430\u0437\u0438\u044f (TikTok \u0432\u0435\u0440\u0441\u0438\u044f)",
-      "url": "https://open.spotify.com/track/0AGIa65CY8isE8PilL3H4T"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "LET",
-        "url": "https://open.spotify.com/album/00V63KMfvhv3CjiO3Wrr93"
-      },
-      "artists": [
-        {
-          "name": "Taomi",
-          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "L\u00faka",
-      "url": "https://open.spotify.com/track/4i0lECAdp7OkLqbBJkqkd9"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "kompa pasi\u00f3n",
-        "url": "https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf"
-      },
-      "artists": [
-        {
-          "name": "\u0444\u0440\u043e\u0437\u0438",
-          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "kompa pasi\u00f3n",
-      "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
@@ -533,7 +469,135 @@
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "LET",
+        "url": "https://open.spotify.com/album/00V63KMfvhv3CjiO3Wrr93"
+      },
+      "artists": [
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "L\u00faka",
+      "url": "https://open.spotify.com/track/4i0lECAdp7OkLqbBJkqkd9"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0433\u043d\u0438\u0442\u043e\u0430\u043b\u044c\u0431\u043e\u043c (\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435)",
+        "url": "https://open.spotify.com/album/5TOce09CCAufG4PVDnp0p2"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u0413\u0410\u0421",
+          "url": "https://open.spotify.com/artist/0XolBxmSEcUwps2Uvkm72J"
+        }
+      ],
+      "duration_ms": 209503,
+      "name": "\u0410\u0437\u0438\u044f - \u0415\u0432\u0440\u0430\u0437\u0438\u044f (TikTok \u0432\u0435\u0440\u0441\u0438\u044f)",
+      "url": "https://open.spotify.com/track/0AGIa65CY8isE8PilL3H4T"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 148446,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "kompa pasi\u00f3n",
+        "url": "https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "kompa pasi\u00f3n",
+      "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "SLOW LOW",
+        "url": "https://open.spotify.com/album/2nDQGsYILwLS017dLBjobC"
+      },
+      "artists": [
+        {
+          "name": "Yambro",
+          "url": "https://open.spotify.com/artist/5ZqdxN3WMMM2nvUg7lyfJg"
+        }
+      ],
+      "duration_ms": 176874,
+      "name": "Slow Low",
+      "url": "https://open.spotify.com/track/6NyQXKWe632hR8GPU8gjva"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Young Italo",
+        "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "never was much of a poet",
         "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
@@ -549,7 +613,55 @@
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Bread",
+        "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "duration_ms": 102461,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Belong Together (Sped Up)",
+        "url": "https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr"
+      },
+      "artists": [
+        {
+          "name": "Lucky Socks",
+          "url": "https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC"
+        }
+      ],
+      "duration_ms": 128431,
+      "name": "Belong Together (Sped Up)",
+      "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Young Italo",
         "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
@@ -569,171 +681,23 @@
       "url": "https://open.spotify.com/track/7k7FJqta8D0oq9vmMytl3p"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "Sapte trandafiri",
-        "url": "https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh"
+        "name": "Keby bola Boy",
+        "url": "https://open.spotify.com/album/4P4fHmud4VL3KfAQqgczS8"
       },
       "artists": [
         {
-          "name": "Ionut Cercel",
-          "url": "https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega"
+          "name": "TERA",
+          "url": "https://open.spotify.com/artist/6i81Cb6goDI8I6xo2VCYIP"
         }
       ],
-      "duration_ms": 245026,
-      "name": "Made in Romania",
-      "url": "https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT"
+      "duration_ms": 146264,
+      "name": "Keby bola Boy",
+      "url": "https://open.spotify.com/track/4q1gR3zxKeVOMtSyYpXaug"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Young Italo",
-        "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "22",
-      "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Bread",
-        "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
-      },
-      "artists": [
-        {
-          "name": "Anya Nami",
-          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
-        }
-      ],
-      "duration_ms": 102461,
-      "name": "Bread",
-      "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Ghettoven",
-        "url": "https://open.spotify.com/album/76p8jbvBw9eCWjMV7J8gcQ"
-      },
-      "artists": [
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Mjay Beatz",
-          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Chlapec z panela",
-      "url": "https://open.spotify.com/track/2drhdWGgjhRNhW7mBzjHOt"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "SLOW LOW",
-        "url": "https://open.spotify.com/album/2nDQGsYILwLS017dLBjobC"
-      },
-      "artists": [
-        {
-          "name": "Yambro",
-          "url": "https://open.spotify.com/artist/5ZqdxN3WMMM2nvUg7lyfJg"
-        }
-      ],
-      "duration_ms": 176874,
-      "name": "Slow Low",
-      "url": "https://open.spotify.com/track/6NyQXKWe632hR8GPU8gjva"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Dokola",
-        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
-      },
-      "artists": [
-        {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Dokola",
-      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Belong Together (Sped Up)",
-        "url": "https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr"
-      },
-      "artists": [
-        {
-          "name": "Lucky Socks",
-          "url": "https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC"
-        }
-      ],
-      "duration_ms": 128431,
-      "name": "Belong Together (Sped Up)",
-      "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "Sm\u011bj se te\u010f",
         "url": "https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC"
@@ -749,7 +713,71 @@
       "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Dokola",
+        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Dokola",
+      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Perly",
+        "url": "https://open.spotify.com/album/73gZjJQG1LJQg6AfwnAEFp"
+      },
+      "artists": [
+        {
+          "name": "Peter Bic Project",
+          "url": "https://open.spotify.com/artist/2byrTaX8LV9LSZcC4tAyZP"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Perly",
+      "url": "https://open.spotify.com/track/6JYEp3O2EPh3ToDEeBo7XX"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Sapte trandafiri",
+        "url": "https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh"
+      },
+      "artists": [
+        {
+          "name": "Ionut Cercel",
+          "url": "https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Made in Romania",
+      "url": "https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -773,87 +801,7 @@
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 148446,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "juice",
-        "url": "https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV"
-      },
-      "artists": [
-        {
-          "name": "daryana",
-          "url": "https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL"
-        }
-      ],
-      "duration_ms": 107538,
-      "name": "juice",
-      "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Perly",
-        "url": "https://open.spotify.com/album/73gZjJQG1LJQg6AfwnAEFp"
-      },
-      "artists": [
-        {
-          "name": "Peter Bic Project",
-          "url": "https://open.spotify.com/artist/2byrTaX8LV9LSZcC4tAyZP"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Perly",
-      "url": "https://open.spotify.com/track/6JYEp3O2EPh3ToDEeBo7XX"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Us Vs. Them",
-        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
-      "album": {
-        "name": "Keby bola Boy",
-        "url": "https://open.spotify.com/album/4P4fHmud4VL3KfAQqgczS8"
-      },
-      "artists": [
-        {
-          "name": "TERA",
-          "url": "https://open.spotify.com/artist/6i81Cb6goDI8I6xo2VCYIP"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "Keby bola Boy",
-      "url": "https://open.spotify.com/track/4q1gR3zxKeVOMtSyYpXaug"
-    },
-    {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
         "name": "EYES ON ME",
         "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
@@ -869,20 +817,72 @@
       "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
-      "added_at": "2024-05-05 14:42:54",
+      "added_at": "2024-05-06 14:23:06",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+        "name": "Ghettoven",
+        "url": "https://open.spotify.com/album/76p8jbvBw9eCWjMV7J8gcQ"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Mjay Beatz",
+          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+      "duration_ms": 160776,
+      "name": "Chlapec z panela",
+      "url": "https://open.spotify.com/track/2drhdWGgjhRNhW7mBzjHOt"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
+    },
+    {
+      "added_at": "2024-05-06 14:23:06",
+      "album": {
+        "name": "juice",
+        "url": "https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV"
+      },
+      "artists": [
+        {
+          "name": "daryana",
+          "url": "https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL"
+        }
+      ],
+      "duration_ms": 107538,
+      "name": "juice",
+      "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

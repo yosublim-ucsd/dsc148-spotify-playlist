@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 447847,
+  "num_followers": 447808,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
-      },
-      "artists": [
-        {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Spunky!",
         "url": "https://open.spotify.com/album/60FSBWxKZud6tMxtR6f2NB"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 130173,
       "name": "Spunky!",
       "url": "https://open.spotify.com/track/0MlBMpX1lyVnlBBuR2HxO2"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW"
+      },
+      "artists": [
+        {
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Roll With It",
+        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
+      },
+      "artists": [
+        {
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Roll With It",
-        "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
-      },
-      "artists": [
-        {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Roll With It",
-      "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "All Comes Down to This",
-        "url": "https://open.spotify.com/album/3gVokvQ6Kp8QwnpYrbzrb4"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "All Comes Down to This",
-      "url": "https://open.spotify.com/track/4gs4otFPRCU02x9MsSSNoN"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "All Comes Down to This",
+        "url": "https://open.spotify.com/album/3gVokvQ6Kp8QwnpYrbzrb4"
+      },
+      "artists": [
+        {
+          "name": "A Certain Ratio",
+          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "All Comes Down to This",
+      "url": "https://open.spotify.com/track/4gs4otFPRCU02x9MsSSNoN"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Des Goblin (Edit)",
-        "url": "https://open.spotify.com/album/1RE8zs1HxegPITQLiAPp9B"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 211558,
-      "name": "Des Goblin - Edit",
-      "url": "https://open.spotify.com/track/5hgoMYZSEvTMX2ZhtUIi6m"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "BUTCHER'S BIN",
         "url": "https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Des Goblin (Edit)",
+        "url": "https://open.spotify.com/album/1RE8zs1HxegPITQLiAPp9B"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 211558,
+      "name": "Des Goblin - Edit",
+      "url": "https://open.spotify.com/track/5hgoMYZSEvTMX2ZhtUIi6m"
     },
     {
       "added_at": "2024-04-25 23:00:00",

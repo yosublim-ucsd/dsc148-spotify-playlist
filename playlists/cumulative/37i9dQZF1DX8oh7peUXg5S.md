@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Silvio Rodríguez.
 
-284 songs - 18 hr 4 min
+285 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Amor a Tres](https://open.spotify.com/track/7xZgcL8Nty3F7VXJzLrXLV) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Amor a Tres](https://open.spotify.com/album/6NyQ4ogOWI3lxyU7HGfYGj) | 4:07 | 2023-06-29 | 2023-10-27 |
 | [Amor del Bo](https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Amor del Bo](https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA) | 2:19 | 2022-10-20 | 2023-01-12 |
 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 | 2022-06-09 |  |
-| [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2022-06-09 |  |
+| [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2022-06-09 | 2024-05-07 |
 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 | 2022-06-09 |  |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr) | 2:11 | 2022-06-30 | 2024-02-16 |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/4eexdcRvhWaRDDY2D3ka5P) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/0ZX3jNV0g9ERJM3BwAiMU1) | 2:11 | 2022-06-09 | 2022-07-16 |
@@ -251,6 +251,7 @@
 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 | 2023-07-10 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 | 2022-06-09 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Soñar Contigo](https://open.spotify.com/album/4ViiFnAxrjJsARuAKD756H) | 4:35 | 2022-06-09 | 2022-07-29 |
+| [Sácame la Pena](https://open.spotify.com/track/1gQdE35PiDfTvUXP3IPFYs) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 3:23 | 2024-04-25 |  |
 | [Sólo Le Pido a Dios \- En Directo](https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 4:39 | 2022-06-30 | 2024-04-19 |
 | [Sólo Le Pido a Dios \- En Directo](https://open.spotify.com/track/3v69Qrb3FP1xM8xL6K2baG) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Iconos Argentinos](https://open.spotify.com/album/5Q0z1n2x6SEfRlX6W708ek) | 4:39 | 2022-11-10 | 2022-11-13 |
 | [Tal Vez Te Acuerdes de Mí \(feat\. Nina\) \- Sesiones Moraima](https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Nina](https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F) | [Sesiones Moraima](https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH) | 2:39 | 2022-11-10 | 2023-06-01 |

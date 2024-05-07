@@ -4,11 +4,11 @@
 
 > Hypnotic bliss.
 
-351 songs - 18 hr 4 min
+354 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 | 2023-01-20 |  |
+| [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 | 2023-01-20 | 2024-05-07 |
 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2022-12-09 |  |
 | [396Hz \- Cradle](https://open.spotify.com/track/1guLoPgpYhhqHDfSsbcv36) | [Fravula](https://open.spotify.com/artist/4sO8xUAbF7Vfzoyiy5tYZj) | [396Hz \- Cradle](https://open.spotify.com/album/1xqwg5BfiKRwv45h5hu2nu) | 2:44 | 2024-01-17 | 2024-01-20 |
 | [432 Hz Calm](https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [432 Hz Calm](https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp) | 2:56 | 2023-10-13 | 2024-04-09 |
@@ -89,6 +89,7 @@
 | [Crystalline](https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR) | [Sweet Daylight](https://open.spotify.com/artist/4E4Gm63yUEsOZeL5iU4aH6) | [Crystalline](https://open.spotify.com/album/4izNnu9jPwIVw1ppeAKJuI) | 3:44 | 2022-01-12 | 2023-03-15 |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-02-01 |  |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2022-01-19 | 2022-01-24 |
+| [Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Dawel](https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu) | 2:45 | 2024-05-04 |  |
 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 | 2022-01-19 | 2024-01-21 |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2022-01-12 | 2024-01-18 |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2022-01-12 |  |
@@ -200,6 +201,7 @@
 | [Lay Down with Me](https://open.spotify.com/track/7v49py6TF4kTEFXNx3KMBf) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Subtle Perceptions](https://open.spotify.com/album/5wruu2VIx70v132QBLXeex) | 5:01 | 2024-01-17 | 2024-02-08 |
 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-20 |  |
 | [Life Seeds](https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Life Seeds](https://open.spotify.com/album/31BeE7Bs2FHd1m1rOrFMMh) | 2:56 | 2024-01-17 |  |
+| [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
 | [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 |  |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2022-01-12 | 2022-02-02 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-01-12 |  |
@@ -249,7 +251,7 @@
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2022-01-12 | 2023-03-15 |
 | [Pace Tua](https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Pace tua](https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA) | 2:24 | 2022-01-12 |  |
 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
-| [Peaceful Drones](https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw) | [Belgravia](https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP) | [Peaceful Drones](https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5) | 2:52 | 2023-05-19 |  |
+| [Peaceful Drones](https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw) | [Belgravia](https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP) | [Peaceful Drones](https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5) | 2:52 | 2023-05-19 | 2024-05-07 |
 | [Penarth Pier](https://open.spotify.com/track/7wD904p1RznL1Mvp3Z3qFq) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Night Music / Ambient Haze EP Vol 3](https://open.spotify.com/album/01rlQSUwlUNb7sKWc0oddM) | 3:47 | 2022-04-13 | 2022-04-21 |
 | [Penumbra](https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Penumbra](https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw) | 4:20 | 2022-01-19 |  |
 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 | 2022-09-23 | 2024-01-18 |
@@ -329,8 +331,9 @@
 | [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 | 2022-02-01 | 2023-03-15 |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-26 |  |
 | [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 | 2023-05-19 |  |
-| [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 | 2022-01-12 |  |
+| [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 | 2022-01-12 | 2024-05-07 |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-07 |  |
+| [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 |  |
 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 | 2022-12-30 | 2024-04-29 |
 | [Unfolding](https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL) | [Manolakas](https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi) | [Unfolding](https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7) | 2:32 | 2024-03-06 | 2024-03-21 |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2022-04-13 | 2022-04-21 |

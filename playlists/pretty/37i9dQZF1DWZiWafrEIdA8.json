@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9291,
+  "num_followers": 9290,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 212200,
       "name": "23 (Feat. SAM KIM)",
       "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Thank U",
+        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        },
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 163744,
+      "name": "Thank U (Feat.Lee Aram)",
+      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "OZ Land",
         "url": "https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Thank U",
-        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        },
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 163744,
-      "name": "Thank U (Feat.Lee Aram)",
-      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
     },
     {
       "added_at": "2024-04-22 05:07:41",

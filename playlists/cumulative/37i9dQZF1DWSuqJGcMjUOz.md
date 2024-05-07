@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-441 songs - 1 day 1 hr 5 min
+442 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Dépotoir](https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:10 | 2024-04-23 |  |
 | [Ego](https://open.spotify.com/track/2PeDk0mGZRF1gXbZRRdQzN) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:35 | 2024-04-16 |  |
 | [En Haut](https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X) | [En Haut](https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F) | 2:52 | 2024-04-03 | 2024-04-24 |
+| [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 | 2024-05-06 |  |
 | [En toute transparence](https://open.spotify.com/track/0w3rAzqK9P5smfEfTWKWwT) | [Marie\-Pier Labrecque](https://open.spotify.com/artist/3BnGKG8wDyTaSOpeA0JefQ), [Lunou Zucchini](https://open.spotify.com/artist/4ESOrG0eEBYK1MiiKJcH0q), [Kathleen Fortin](https://open.spotify.com/artist/6tRLBMIkiGpw0sL5dySlmf), [Stephane Brulotte](https://open.spotify.com/artist/1q7Nh6eDxI9gkRzfY1DoqA) | [Lili St\-Cyr \- Théâtre Musical](https://open.spotify.com/album/0IatLAU6jzR7IvJZbu4hJj) | 4:13 | 2024-04-03 | 2024-04-24 |
 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 | 2022-05-25 | 2023-04-13 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2024-04-03 |  |

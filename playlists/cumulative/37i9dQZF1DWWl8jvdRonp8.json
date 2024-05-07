@@ -41,6 +41,42 @@
     },
     {
       "album": {
+        "name": "Barra Abierta a los Dolidos... (En Vivo)",
+        "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236835,
+      "name": "A Donde Vayas (En Vivo)",
+      "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
+    },
+    {
+      "album": {
+        "name": "Te Reto",
+        "url": "https://open.spotify.com/album/4w1wSD5VLpOy2xtrB8KHYn"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211549,
+      "name": "A Que Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/1Q4lPkHLRYuXk2aaf6mU0X"
+    },
+    {
+      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -200,7 +236,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
@@ -301,6 +337,24 @@
     },
     {
       "album": {
+        "name": "En Vivo desde El Foro Lizos Music Vol. II",
+        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
+    },
+    {
+      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -378,7 +432,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 260493,
       "name": "Como Tu Mujer - Pop",
       "url": "https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR"
@@ -472,7 +526,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 233000,
       "name": "C\u00f3mo Fui a Enamorarme de Ti",
       "url": "https://open.spotify.com/track/44MQKjd4d2SOV3INfboy0I"
@@ -490,7 +544,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 273720,
       "name": "C\u00f3mo Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/7MaFKBLhW220azgglkJiws"
@@ -677,6 +731,24 @@
     },
     {
       "album": {
+        "name": "La Mina Verde",
+        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204019,
+      "name": "El Celoso",
+      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
+    },
+    {
+      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
@@ -710,6 +782,24 @@
       "duration_ms": 218733,
       "name": "El Chico Aquel",
       "url": "https://open.spotify.com/track/3GwJnpt01qkamcjLnLX8Bp"
+    },
+    {
+      "album": {
+        "name": "Con Sierre\u00f1o Mis Canciones Favoritas",
+        "url": "https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV"
     },
     {
       "album": {
@@ -822,7 +912,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
@@ -1139,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "Inv\u00e9ntame - En Vivo",
+      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
+    },
+    {
+      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
@@ -1212,7 +1320,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 181706,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/4T2yTC5WgrZ1E1Ne98ID8E"
@@ -1248,7 +1356,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 159300,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd"
@@ -1284,7 +1392,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 191013,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7"
@@ -1832,7 +1940,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 267250,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX"
@@ -1850,7 +1958,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 228346,
       "name": "Necesito una Compa\u00f1era",
       "url": "https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig"
@@ -2274,6 +2382,24 @@
       "duration_ms": 193706,
       "name": "Prefiero Ir Sola",
       "url": "https://open.spotify.com/track/40M7r9WyyKEBs0xYhgxxBd"
+    },
+    {
+      "album": {
+        "name": "No Conozco el Miedo",
+        "url": "https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/4BQsF3AM4l1i1vLlcIwajQ"
     },
     {
       "album": {
@@ -2729,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292236,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
+    },
+    {
+      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -2740,7 +2884,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 299786,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
@@ -2873,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "A Mi Ley",
+        "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
+      },
+      "artists": [
+        {
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
+    },
+    {
+      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -2909,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
+    },
+    {
+      "album": {
         "name": "40 A\u00f1os",
         "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
       },
@@ -2938,7 +3118,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 214000,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
@@ -3162,10 +3342,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 284293,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+    },
+    {
+      "album": {
+        "name": "Hombre Talentoso",
+        "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213648,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
     },
     {
       "album": {

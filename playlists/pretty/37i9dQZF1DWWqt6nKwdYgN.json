@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13829,
+  "num_followers": 13834,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "CUBA (Buena y Mala)",
-        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
-      },
-      "artists": [
-        {
-          "name": "Akim 88",
-          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
-        }
-      ],
-      "duration_ms": 108217,
-      "name": "CUBA (Buena y Mala)",
-      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 186197,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "CUBA (Buena y Mala)",
+        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "duration_ms": 108217,
+      "name": "CUBA (Buena y Mala)",
+      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Sanchez",
-          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "La Pelicula",
-      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 234482,
       "name": "Cuervos",
       "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Alivio",
-        "url": "https://open.spotify.com/album/3AvqFEv0Uf9QeurWTIaoF6"
-      },
-      "artists": [
-        {
-          "name": "El Kalvo",
-          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
-        },
-        {
-          "name": "ZetaZeta",
-          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Alivio",
-      "url": "https://open.spotify.com/track/0wE2VPG8nNCdQA9TztEN1r"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "NOS CRUZAS EN EL POGO",
         "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 160000,
       "name": "MI PROP\u00d3SITO",
       "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Alivio",
+        "url": "https://open.spotify.com/album/3AvqFEv0Uf9QeurWTIaoF6"
+      },
+      "artists": [
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        },
+        {
+          "name": "ZetaZeta",
+          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Alivio",
+      "url": "https://open.spotify.com/track/0wE2VPG8nNCdQA9TztEN1r"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Una Mente Maestra",
         "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
       },
@@ -1707,18 +1723,38 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
       },
       "artists": [
         {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
         }
       ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+      "duration_ms": 184799,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+      },
+      "artists": [
+        {
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1747,22 +1783,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
-      },
-      "artists": [
-        {
-          "name": "Unex Msc",
-          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "L\u00c1SER",
         "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 159750,
       "name": "L\u00c1SER",
       "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Lucifer",
-        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
-      },
-      "artists": [
-        {
-          "name": "Fierros Mancilla",
-          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 267558,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1963,30 +1963,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "3033",
-        "url": "https://open.spotify.com/album/6PoMnoM5E9Dlf6dBy2fETQ"
-      },
-      "artists": [
-        {
-          "name": "MP El Juvenil",
-          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
-        },
-        {
-          "name": "Ceece",
-          "url": "https://open.spotify.com/artist/3xx8AN05rFTaXxdTXBTAow"
-        },
-        {
-          "name": "kerse",
-          "url": "https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx"
-        }
-      ],
-      "duration_ms": 135076,
-      "name": "3033",
-      "url": "https://open.spotify.com/track/5NeP1ZwPoSNSGdL9db540W"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "UNITY CYPHER-ONE",
         "url": "https://open.spotify.com/album/4TzeKIRfPU5T3PO4FwyCkg"
       },
@@ -2027,6 +2003,30 @@
       "duration_ms": 233423,
       "name": "UNITY CYPHER-ONE",
       "url": "https://open.spotify.com/track/05PcZv3YVnzfg0ZQYJdniI"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "3033",
+        "url": "https://open.spotify.com/album/6PoMnoM5E9Dlf6dBy2fETQ"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "Ceece",
+          "url": "https://open.spotify.com/artist/3xx8AN05rFTaXxdTXBTAow"
+        },
+        {
+          "name": "kerse",
+          "url": "https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx"
+        }
+      ],
+      "duration_ms": 135076,
+      "name": "3033",
+      "url": "https://open.spotify.com/track/5NeP1ZwPoSNSGdL9db540W"
     },
     {
       "added_at": "2024-05-03 06:00:00",

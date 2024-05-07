@@ -11245,6 +11245,24 @@
     },
     {
       "album": {
+        "name": "Cyan Blue",
+        "url": "https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209370,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5PFNNFzXDmLBPrcmpO5EYW"
+    },
+    {
+      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > não preocupa mamae ama mamae cuida!!!! MADONNA and PV BRASIL LOVES YOU
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428,338 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428,970 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

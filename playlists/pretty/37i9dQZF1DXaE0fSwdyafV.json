@@ -1,6 +1,6 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 133401,
+  "num_followers": 133388,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "On Your Own Love Again",
         "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
       },
@@ -1231,6 +1215,26 @@
       "duration_ms": 220293,
       "name": "Moon Dude",
       "url": "https://open.spotify.com/track/54u8a2GJiN2Via9l3xtP6S"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Salt Lake City",
+        "url": "https://open.spotify.com/album/6PWw4C7R39yfPcGPGStZNv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        },
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Salt Lake City",
+      "url": "https://open.spotify.com/track/5XUmyG1dSbD4mxWd0iSVXZ"
     },
     {
       "added_at": "2024-03-22 15:04:56",

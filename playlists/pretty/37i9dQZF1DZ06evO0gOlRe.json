@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 29400,
+  "num_followers": 29436,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAAAWFRVCd6QAdLw+0BFj0B3N",
+  "snapshot_id": "ZjbMAAAAAABHqA8ozTNDe/L+7EHEqIYu",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i wish you cheated (Frank Walker Remix)",
-        "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "i wish you cheated (Frank Walker Remix)",
-      "url": "https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 205280,
       "name": "birthday cake - duet",
       "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i wish you cheated (Frank Walker Remix)",
+        "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "i wish you cheated (Frank Walker Remix)",
+      "url": "https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN"
     },
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
+        "name": "All Stand Together (Deluxe)",
+        "url": "https://open.spotify.com/album/7cBrKCUJFq7KgTLy4CJ6ST"
       },
       "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 198333,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
+      "duration_ms": 288331,
+      "name": "Gone - Deluxe Mix",
+      "url": "https://open.spotify.com/track/3q05FSHE48RTUxvdnDTAtK"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Stand Together (Deluxe)",
-        "url": "https://open.spotify.com/album/7cBrKCUJFq7KgTLy4CJ6ST"
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
       },
       "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 288331,
-      "name": "Gone - Deluxe Mix",
-      "url": "https://open.spotify.com/track/3q05FSHE48RTUxvdnDTAtK"
+      "duration_ms": 198333,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
     },
     {
       "added_at": null,

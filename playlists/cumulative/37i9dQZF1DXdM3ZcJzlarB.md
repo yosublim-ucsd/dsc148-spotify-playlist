@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-160 songs - 16 hr 36 min
+163 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,11 @@
 | [Desde El Oceano](https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Technical Progress, Vol\. 7 \(Compiled by Stergios Sigma & Mike T\)](https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj) | 8:54 | 2020-09-04 | 2023-11-18 |
 | [Desde El Oceano](https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Stay Home, Vol\. 017](https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ) | 8:54 | 2020-09-04 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/28S3IlHu1KEdSLNmdXh9gP) | [Antrim](https://open.spotify.com/artist/271h29FBgospHlk0pFn8fS) | [Desire / Purpose / Appearance](https://open.spotify.com/album/1MjtLGJCFFWcTkMa3Gnsx8) | 9:25 | 2020-09-04 | 2023-11-18 |
+| [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 | 2024-05-06 |  |
 | [Dogma \- Original Mix](https://open.spotify.com/track/05W1NW68MEKEEefEVjGKRE) | [Paul Deep \(AR\)](https://open.spotify.com/artist/6xxlOO67SHYReIUQ2Jd2IJ) | [Dogma](https://open.spotify.com/album/5FrVcqShI72lMOdO1MaHbe) | 8:10 | 2020-09-04 | 2023-11-18 |
 | [Dopamine](https://open.spotify.com/track/4cxgmgcbHuWksJKepHAra2) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Chae Solé](https://open.spotify.com/artist/0AKt7gt9B6FzostvBp5JwI) | [Dopamine](https://open.spotify.com/album/1CllJIvSgkCwh7CnJXis1G) | 3:13 | 2023-11-17 |  |
 | [Drop](https://open.spotify.com/track/280MAieXlafXYfF6C7lhIl) | [TEIAO](https://open.spotify.com/artist/7fdxqXu0J6RmnnhvEFvW2A) | [Drop](https://open.spotify.com/album/1097zvYbPwuCJ9RP1fPuXN) | 7:38 | 2023-11-17 |  |
+| [Dónde Están \- SIMONN Remix](https://open.spotify.com/track/5hyHhTB1Cae2kLI3dMhxh5) | [Matias Sundblad](https://open.spotify.com/artist/6qCp2JWyWiUIyFdRmrATWa), [SIMONN \(AR\)](https://open.spotify.com/artist/3UrSAFzlXZqcABY6Pos59J) | [Dónde Están \(Remixes\)](https://open.spotify.com/album/0ewNlSufsdKkiLeqk6gTkG) | 3:21 | 2024-05-06 |  |
 | [El Deseo \(Original Mix\)](https://open.spotify.com/track/2Pb7uSQ6oDJnejWT7Sgyc4) | [Jime Ferreyra](https://open.spotify.com/artist/4f9usfrcaDpZxuRwzxtlNw) | [El Deseo \(Original Mix\)](https://open.spotify.com/album/4Y7BcT6MivF9iikS7A42q6) | 6:32 | 2023-11-17 |  |
 | [En la Ciudad de la Furia \(Hernan Cattaneo & Verlk Remix\)](https://open.spotify.com/track/6lkkT05V2Vcv9qkt13M8oW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Verlk](https://open.spotify.com/artist/5CngpXCPVISA2hRK4kqlhe) | [En la Ciudad de la Furia \(Hernan Cattaneo & Verlk Remix\)](https://open.spotify.com/album/2LGSBbzrpMSGFD6oKstgC8) | 4:20 | 2023-11-17 |  |
 | [En Movimiento \- Remix](https://open.spotify.com/track/33azXQxauxEkDR9i19MEeO) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Ovej](https://open.spotify.com/artist/6Fk50xwiiho8hXOKQ1sm8G) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:09 | 2023-11-17 | 2024-04-13 |
@@ -147,6 +149,7 @@
 | [STOP Cerebro](https://open.spotify.com/track/2ECTFGAX2lU2hrCA6vxiJR) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/4fTMwrvhkSg7RHlKJzjovV) | 3:38 | 2024-01-05 |  |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN) | 8:57 | 2020-09-04 | 2023-11-18 |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm) | 8:57 | 2020-09-04 | 2022-07-29 |
+| [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 |  |
 | [Tantanbo \- Mauro Augugliaro Remix](https://open.spotify.com/track/0vPcPZjbwh7kUvaTTu23ir) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Mauro Augugliaro](https://open.spotify.com/artist/3csrOIvyyUQ6oZCbeublbj) | [Tantanbo \(Mauro Augugliaro Remix\)](https://open.spotify.com/album/3eMuIBpHfCAHsE1NFcAyKt) | 7:38 | 2024-01-19 |  |
 | [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 | 2023-11-17 |  |
 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 | 2024-02-02 |  |

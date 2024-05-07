@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 ### [This Is Bailey Zimmerman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22SbM4)
 
-> This is Bailey Zimmerman\. Todos os maiores hits em uma só playlist.
+> This Is Bailey Zimmerman\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,329 likes - 18 songs - 57 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 28,429 likes - 18 songs - 57 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 17 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 18 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 
-Snapshot ID: `ZjQpAAAAAADiz/941gE/gD+acHVyjJzm`
+Snapshot ID: `ZjbMAAAAAAApgOy8oDTdF6j1+sZkX3Na`

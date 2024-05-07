@@ -2,7 +2,7 @@
 
 ### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is 藍井エイル\. The essential tracks, all in one playlist.
+> This is 藍井エイル。アーティストの代表曲をひとつのプレイリストに。
 
 84 songs - 6 hr 10 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Los Enanitos Verdes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ShMI0)
 
-> This Is Los Enanitos Verdes\. Los temas esenciales, todos en una lista.
+> This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 26 min
 

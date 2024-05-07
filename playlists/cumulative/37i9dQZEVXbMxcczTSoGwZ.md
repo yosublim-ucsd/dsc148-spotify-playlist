@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,975 songs - 4 day 9 hr 22 min
+1,976 songs - 4 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,7 @@
 | [Ihmisten edessä \- ROOS+BERG Remix](https://open.spotify.com/track/4EDA2cutRTC1lNJ2eyVHlr) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [ROOS+BERG](https://open.spotify.com/artist/1zVFUjbWQLjADJsMUGV5Ao) | [Ihmisten edessä \(ROOS+BERG Remix\)](https://open.spotify.com/album/1wT2EvNZO7QzvbliG6SkZA) | 3:50 | 2024-02-17 | 2024-02-27 |
 | [Ikinä koskaan](https://open.spotify.com/track/05etDP3P7MVkSFbljuAeIn) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Ikinä koskaan](https://open.spotify.com/album/0nCD3PpFyO1yLYSaBlxBE4) | 3:05 | 2023-02-18 | 2023-03-19 |
 | [Ikoni](https://open.spotify.com/track/4uu7Xart3eGoK0KOdatnTk) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ikoni](https://open.spotify.com/album/0hCe8V1hHnQye0LYwzgzcr) | 2:23 | 2024-01-27 | 2024-02-25 |
-| [Ikuinen vappu](https://open.spotify.com/track/4ycKgmGOtvuJZVPyvBpVVU) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [RATA/RAITTI](https://open.spotify.com/album/38VbuL5aEXkWVDth0F1UJ3) | 3:07 | 2021-05-03 |  |
+| [Ikuinen vappu](https://open.spotify.com/track/4ycKgmGOtvuJZVPyvBpVVU) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [RATA/RAITTI](https://open.spotify.com/album/38VbuL5aEXkWVDth0F1UJ3) | 3:07 | 2021-05-03 | 2024-05-07 |
 | [ikuinen virta](https://open.spotify.com/track/2f3M4kFTnPCncJSjN515fO) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [ikuinen virta](https://open.spotify.com/album/6sYDiYfme9RnOAIzQ5r6bA) | 3:34 | 2022-09-10 | 2022-10-23 |
 | [Ikävä lokakuu \(feat\. DJ Oku Luukkainen & Drome\)](https://open.spotify.com/track/4EszGymPHXAJackdDxA66U) | [Yksi Totuus](https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw), [Drome](https://open.spotify.com/artist/1krNYy7a1DZ0k7bvyT4kc7), [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao) | [Ikävä lokakuu \(feat\. DJ Oku Luukkainen & Drome\)](https://open.spotify.com/album/1hxx1v6Y1c7kK1jg8dpUPJ) | 2:46 | 2022-10-15 | 2022-10-17 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-17 |
@@ -1203,6 +1203,7 @@
 | [Norsunluutorni \(Vain elämää kausi 12\)](https://open.spotify.com/track/0TV05oqDA81y66llahAO3G) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Norsunluutorni \(Vain elämää kausi 12\)](https://open.spotify.com/album/3u5o8q35wyAVDqgdRPDCfN) | 3:19 | 2021-10-11 | 2021-10-23 |
 | [Northwards](https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Halo](https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A) | 5:30 | 2022-02-12 | 2022-02-15 |
 | [Nostalgia](https://open.spotify.com/track/3YujyLPiBYIxiicSYTTzbQ) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Joe W](https://open.spotify.com/album/3gGBBaAYxxDA1snSBLkoQX) | 2:43 | 2023-06-10 | 2023-07-03 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 |  |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-08-16 |
 | [Nousen ilmaan](https://open.spotify.com/track/0ITg9oP055HvvToqfkjjuO) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [K\-System](https://open.spotify.com/artist/6fB7nnQb7EpnIKmv44MtoF) | [Nousen ilmaan](https://open.spotify.com/album/4dhZNEL5FS8YtaWj7mlde1) | 3:34 | 2021-04-26 | 2021-04-28 |
 | [Nousuhumala \(feat\. Aarne Tenkanen\)](https://open.spotify.com/track/6by2LFOZ8SarE3znJm9b04) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k), [Aarne Tenkanen](https://open.spotify.com/artist/6f28ZHhjysrqFL5GTLIpWX) | [Nousuhumala \(feat\. Aarne Tenkanen\)](https://open.spotify.com/album/7hhMIzdFtXT5BIAhUpgqk7) | 3:37 | 2023-12-30 | 2024-01-02 |

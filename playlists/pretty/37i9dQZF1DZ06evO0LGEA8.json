@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 220191,
+  "num_followers": 220362,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAACu+ilHjPTMXosFDt6KwMb5",
+  "snapshot_id": "ZjbMAAAAAAAOomMjuIpMQJrooVNGNL0X",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
       },
       "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P"
+      "duration_ms": 305972,
+      "name": "Amor al Arte",
+      "url": "https://open.spotify.com/track/74GbLmm7e7lrsWYoKZs5AV"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
       "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 305972,
-      "name": "Amor al Arte",
-      "url": "https://open.spotify.com/track/74GbLmm7e7lrsWYoKZs5AV"
+      "duration_ms": 254000,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 530280,
-      "name": "A Su Vato Enga\u00f1a",
-      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
+      "duration_ms": 260231,
+      "name": "Nos Fuimos por Ahi",
+      "url": "https://open.spotify.com/track/4n1VqkX5cVZSskfxNO5piu"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 260231,
-      "name": "Nos Fuimos por Ahi",
-      "url": "https://open.spotify.com/track/4n1VqkX5cVZSskfxNO5piu"
+      "duration_ms": 530280,
+      "name": "A Su Vato Enga\u00f1a",
+      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humo y Tequila",
-        "url": "https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 269038,
-      "name": "Humo y Tequila",
-      "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hits Visuales, Vol. 1",
         "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264365,
       "name": "Noche De Lokera",
       "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humo y Tequila",
+        "url": "https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 269038,
+      "name": "Humo y Tequila",
+      "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
     }
   ],
   "unique_name": "This Is La Santa Grifa",

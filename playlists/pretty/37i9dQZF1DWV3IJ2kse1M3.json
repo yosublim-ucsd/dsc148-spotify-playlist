@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u5011\u4e00\u8d77\u52aa\u529b\u4e86\u90a3\u9ebc\u4e45\uff0c\u6700\u5f8c\u537b\u9084\u662f\u6557\u7d66\u4e0d\u9069\u5408\u3002",
-  "num_followers": 185592,
+  "num_followers": 185603,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u62b1\u4e00\u62b1",
-        "url": "https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg"
-      },
-      "artists": [
-        {
-          "name": "Jordan Chan",
-          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "\u6211\u611b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "Just Sing It",
         "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 248573,
       "name": "\u8857\u89d2\u7684\u795d\u798f",
       "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "\u62b1\u4e00\u62b1",
+        "url": "https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Chan",
+          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "\u6211\u611b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY"
     },
     {
       "added_at": "2024-04-11 05:48:57",

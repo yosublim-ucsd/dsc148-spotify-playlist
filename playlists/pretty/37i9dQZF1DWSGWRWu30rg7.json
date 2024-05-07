@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  Emma Elliott",
-  "num_followers": 63110,
+  "num_followers": 63112,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjPJUQAAAAAW+/tpZu2zxPCtlZeUETte",
+  "snapshot_id": "ZjhxbgAAAABkWLF2lrpRq4F2Y4nziARL",
   "tracks": [
     {
       "added_at": "2024-05-02 17:00:00",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/5kKydeQLXyzMiw5zxoTEf2"
     },
     {
+      "added_at": "2024-05-06 05:58:06",
+      "album": {
+        "name": "Ekspektasimu",
+        "url": "https://open.spotify.com/album/43xc5OIBW3Xs9oHWSicRRA"
+      },
+      "artists": [
+        {
+          "name": "Audrey Anggoro",
+          "url": "https://open.spotify.com/artist/6m3hIhjraKz2Pd6fLJgdKg"
+        }
+      ],
+      "duration_ms": 209535,
+      "name": "Ekspektasimu",
+      "url": "https://open.spotify.com/track/3Ca59hDrMUfaejUpFO5Krt"
+    },
+    {
       "added_at": "2024-05-02 17:00:00",
       "album": {
         "name": "Yearn (\u5ff5\u5ff5)",
@@ -157,6 +173,22 @@
       "url": "https://open.spotify.com/track/7LVfSaWvIDENB5xHDVgZPd"
     },
     {
+      "added_at": "2024-05-06 05:58:06",
+      "album": {
+        "name": "Titik Terang",
+        "url": "https://open.spotify.com/album/2fV2LcCtf8o62MuoOdL0SZ"
+      },
+      "artists": [
+        {
+          "name": "Lanang Isman",
+          "url": "https://open.spotify.com/artist/5wHa9uMNGPOSsxIU0M4rM6"
+        }
+      ],
+      "duration_ms": 290322,
+      "name": "Titik Terang",
+      "url": "https://open.spotify.com/track/5HnmzC0ruE0CqH0vtUa3zS"
+    },
+    {
       "added_at": "2024-05-02 17:00:00",
       "album": {
         "name": "How To Kill This Feeling",
@@ -171,6 +203,26 @@
       "duration_ms": 234720,
       "name": "How To Kill This Feeling",
       "url": "https://open.spotify.com/track/2K9KCrJbEpgNJjykQvlvvb"
+    },
+    {
+      "added_at": "2024-05-06 05:58:06",
+      "album": {
+        "name": "You Broke My Heart",
+        "url": "https://open.spotify.com/album/3mB0kUzoLfmQqDAYTp98vz"
+      },
+      "artists": [
+        {
+          "name": "Meltho",
+          "url": "https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs"
+        },
+        {
+          "name": "Clara Riva",
+          "url": "https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J"
+        }
+      ],
+      "duration_ms": 197014,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/4AcuiTLtjpUNBFdMfpVk84"
     },
     {
       "added_at": "2024-05-02 17:00:00",

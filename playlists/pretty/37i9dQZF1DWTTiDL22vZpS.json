@@ -1,6 +1,6 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 24053,
+  "num_followers": 24073,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Perdiendo la Cabeza",
-      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Como Nunca",
         "url": "https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 192486,
       "name": "Gordo Funky",
       "url": "https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Perdiendo la Cabeza",
+      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Love Para\u00edso",
-        "url": "https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt"
+        "name": "Cortes Modernos",
+        "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
       },
       "artists": [
         {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 294018,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT"
+      "duration_ms": 223621,
+      "name": "Cortes Modernos",
+      "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Cortes Modernos",
-        "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
+        "name": "Love Para\u00edso",
+        "url": "https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
         }
       ],
-      "duration_ms": 223621,
-      "name": "Cortes Modernos",
-      "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+      "duration_ms": 294018,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "\u00d3yeme Bien",
-        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "\u00d3yeme Bien",
-      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "\u00d3yeme Bien",
+        "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "\u00d3yeme Bien",
+      "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Cool Love",
         "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 204172,
       "name": "Tuyonama (feat. Charles Ans)",
       "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254218,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Big Night",
+        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
+      },
+      "artists": [
+        {
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Big Night",
+      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Big Night",
-        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
-      },
-      "artists": [
-        {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Big Night",
-      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Desp\u00eddeme De Todxs",
-        "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 109821,
-      "name": "Canyufilit",
-      "url": "https://open.spotify.com/track/61agIVNg8AM0FvTdK8kCTW"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "DASOUL",
         "url": "https://open.spotify.com/album/5WKQYhE3HKhycVuYZIqW3L"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 158019,
       "name": "DASOUL",
       "url": "https://open.spotify.com/track/6Pu0gcxT23ZEwTmkXIKZdO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Desp\u00eddeme De Todxs",
+        "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 109821,
+      "name": "Canyufilit",
+      "url": "https://open.spotify.com/track/61agIVNg8AM0FvTdK8kCTW"
     },
     {
       "added_at": "2024-04-26 04:00:00",

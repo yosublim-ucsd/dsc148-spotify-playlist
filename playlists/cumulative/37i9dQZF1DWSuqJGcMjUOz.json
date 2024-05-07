@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "En roulant vers Perc\u00e9",
+        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243236,
+      "name": "En roulant vers Perc\u00e9",
+      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
+    },
+    {
+      "album": {
         "name": "Lili St-Cyr - Th\u00e9\u00e2tre Musical",
         "url": "https://open.spotify.com/album/0IatLAU6jzR7IvJZbu4hJj"
       },

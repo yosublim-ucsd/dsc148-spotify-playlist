@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13476,
+  "num_followers": 13475,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Tarde o temprano",
-        "url": "https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
-        }
-      ],
-      "duration_ms": 222952,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Tarde o temprano",
+        "url": "https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        }
+      ],
+      "duration_ms": 222952,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq"
     },
     {
       "added_at": "2024-03-11 17:02:36",

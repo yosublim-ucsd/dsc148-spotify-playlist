@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 234866,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
@@ -1860,6 +1860,24 @@
       "duration_ms": 219640,
       "name": "The Nosebleed Section",
       "url": "https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ"
+    },
+    {
+      "album": {
+        "name": "Be The Twilight",
+        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227694,
+      "name": "This Heart Attack",
+      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
     },
     {
       "album": {

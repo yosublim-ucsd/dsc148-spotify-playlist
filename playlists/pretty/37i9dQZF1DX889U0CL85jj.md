@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Turn this on, and relax to certified good chill indie and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,857 likes - 140 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,849 likes - 140 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

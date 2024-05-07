@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 66442,
+  "num_followers": 66459,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAABe4jPNiigzmpiEaybBR/o8",
+  "snapshot_id": "ZjbMAAAAAAAFMBmGH9iVLYeRzl4VOuOd",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Histeria",
         "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 278480,
-      "name": "Reina del Club",
-      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
+      "duration_ms": 300053,
+      "name": "Hechicera Crayon",
+      "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 300053,
-      "name": "Hechicera Crayon",
-      "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
+      "duration_ms": 278480,
+      "name": "Reina del Club",
+      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 246333,
       "name": "Son tus ojos",
       "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Bumerang",
-      "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carm\u00edn",
         "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 178036,
       "name": "Carm\u00edn",
       "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Carcaman",
-      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 350712,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Carcaman",
+      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 256906,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 257438,
       "name": "Si Eso Te Pone Mejor",
       "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve a Comenzar",
-        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 256906,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
     },
     {
       "added_at": null,

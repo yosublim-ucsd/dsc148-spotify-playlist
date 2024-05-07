@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 150475,
+  "num_followers": 150534,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Border Revolver",
         "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170438,
       "name": "Sastre Del Diablo",
       "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Never Greens, Vol. 1",
+        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
+      },
+      "artists": [
+        {
+          "name": "Los Fancy Free",
+          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Ja Ja Ja",
+      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Fumemos un cigarrillo (Soundtrack Original de la Pel\u00edcula)",
         "url": "https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 241813,
       "name": "Fumemos un cigarrillo - Soundtrack Original de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Never Greens, Vol. 1",
-        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
-      },
-      "artists": [
-        {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Ja Ja Ja",
-      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Out of Place",
-        "url": "https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k"
+        "name": "La Fiesta de la Forma",
+        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
       },
       "artists": [
         {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Copycat",
-      "url": "https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR"
+      "duration_ms": 411960,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

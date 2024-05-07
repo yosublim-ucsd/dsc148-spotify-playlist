@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 05 MAY",
+  "name": "NEW SINGLES RELEASES | UPDATED 07 MAY",
   "tracks": [
     {
       "album": {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247040,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
+    },
+    {
+      "album": {
         "name": "Big Piranhas",
         "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 211984,
       "name": "Big Piranhas",
       "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
@@ -468,6 +486,24 @@
       "duration_ms": 307119,
       "name": "Charade (feat. Vincente Void & Hash Gordon)",
       "url": "https://open.spotify.com/track/1DtT0SdnHV3rGR8qKESC8l"
+    },
+    {
+      "album": {
+        "name": "Charlie Chaplin Ate My Son",
+        "url": "https://open.spotify.com/album/63m66lhJxLFySOGRjBMAjX"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobb",
+          "url": "https://open.spotify.com/artist/1jIl0sLvlOzGpT2RqPBfyE"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Charlie Chaplin Ate My Son",
+      "url": "https://open.spotify.com/track/3Sl9f6fSRnSGqeR1KXCrUq"
     },
     {
       "album": {
@@ -1073,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Fruit Wine",
+        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171854,
+      "name": "Fruit Wine",
+      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/1tO3KS7vrBnBmgoJmtA9Q5"
       },
@@ -1346,7 +1400,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 125544,
       "name": "King tonka",
       "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
@@ -1584,7 +1638,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 170602,
       "name": "Moving Day",
       "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
@@ -1685,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "not askin 4 much",
+        "url": "https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133008,
+      "name": "not askin 4 much",
+      "url": "https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -1758,6 +1830,32 @@
       "duration_ms": 340248,
       "name": "Oh France",
       "url": "https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW"
+    },
+    {
+      "album": {
+        "name": "Out of Frame",
+        "url": "https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "Sharks",
+          "url": "https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM"
+        },
+        {
+          "name": "L\u00daTHIEN",
+          "url": "https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Out of Frame",
+      "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
     },
     {
       "album": {
@@ -1838,6 +1936,24 @@
       "duration_ms": 172960,
       "name": "Prism in Jeans",
       "url": "https://open.spotify.com/track/1gHpfrLUzsLv05B7sFy6Dl"
+    },
+    {
+      "album": {
+        "name": "pull/toxic",
+        "url": "https://open.spotify.com/album/2cHR90fHazFTXJEUK13pHh"
+      },
+      "artists": [
+        {
+          "name": "emorave",
+          "url": "https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127242,
+      "name": "pull/toxic",
+      "url": "https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5"
     },
     {
       "album": {
@@ -1992,7 +2108,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 178285,
       "name": "rock your hips",
       "url": "https://open.spotify.com/track/2LVhYv6hCcabNh1bgPYKus"
@@ -2010,7 +2126,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 145622,
       "name": "Sacrifice Tomorrow",
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
@@ -2521,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "VEGETABLE (BRAIN DEAD)",
+        "url": "https://open.spotify.com/album/2MbH2QLMq2qaogGFMhw9ym"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142805,
+      "name": "VEGETABLE (BRAIN DEAD)",
+      "url": "https://open.spotify.com/track/2XOraVvSzyO2wFxmd9Jggt"
+    },
+    {
+      "album": {
         "name": "Velvet Black",
         "url": "https://open.spotify.com/album/2cihSHL24MaJO9Q4fk2UXt"
       },
@@ -2572,7 +2706,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
@@ -2656,7 +2790,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 148240,
       "name": "Whatsapp (Wassam)",
       "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
@@ -2732,7 +2866,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 158254,
       "name": "won't tell nobody",
       "url": "https://open.spotify.com/track/7jxLkl234kVur0WIjJjuYP"
@@ -2754,6 +2888,24 @@
       "duration_ms": 209678,
       "name": "World Ablaze",
       "url": "https://open.spotify.com/track/7MnQBw9xBACp59wkBs6ZAz"
+    },
+    {
+      "album": {
+        "name": "Wrong Side of the River",
+        "url": "https://open.spotify.com/album/7wE4q2uQ3JO6WWOpYSRQEx"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Wrong Side of the River",
+      "url": "https://open.spotify.com/track/4qU9spVZ3sd3SDTwnvD39v"
     },
     {
       "album": {

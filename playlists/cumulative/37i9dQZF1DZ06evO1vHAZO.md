@@ -2,7 +2,7 @@
 
 ### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vHAZO)
 
-> This Is Oasis\. Los temas esenciales, todos en una lista.
+> This is Oasis\. Todos os maiores hits em uma só playlist.
 
 82 songs - 6 hr 42 min
 

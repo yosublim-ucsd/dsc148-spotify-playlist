@@ -1,12 +1,12 @@
 {
   "description": "This Is Bratty. Los temas esenciales, todos en una lista.",
-  "num_followers": 11291,
+  "num_followers": 11297,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAADML2RvazJHgzTz+nMV3tTo",
+  "snapshot_id": "ZjbMAAAAAACVzpQRsqbYeP8BG8ervWPC",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 212866,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
+      "duration_ms": 225493,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
     },
     {
       "added_at": null,
@@ -427,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
+      "duration_ms": 212866,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
       "duration_ms": 177466,
       "name": "ecoducto",
       "url": "https://open.spotify.com/track/5f6eF1GxmwaRm0DLsFdVit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Piel Revisitado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB"
+      },
+      "artists": [
+        {
+          "name": "BETA",
+          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 254183,
+      "name": "Salvador - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7"
     },
     {
       "added_at": null,

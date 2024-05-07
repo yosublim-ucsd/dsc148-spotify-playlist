@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 34018,
+  "num_followers": 34013,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "Meere",
+        "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+        }
+      ],
+      "duration_ms": 173359,
+      "name": "Vergleiche",
+      "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "Heron",
         "url": "https://open.spotify.com/album/75FDoESZuozw9thPEuevA0"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 135633,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/2fKA1WxKe21pQ5o9sh5DKM"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "Meere",
-        "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
-      },
-      "artists": [
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        },
-        {
-          "name": "MELE",
-          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
-        }
-      ],
-      "duration_ms": 173359,
-      "name": "Vergleiche",
-      "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "GOLDEN DAYS",
+        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "GOLDEN DAYS",
+      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "entschuldigung",
         "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "GOLDEN DAYS",
-        "url": "https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "GOLDEN DAYS",
-      "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "boy with a view",
         "url": "https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 187814,
       "name": "boy with a view",
       "url": "https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "kratzer & wunden tape",
+        "url": "https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 156846,
+      "name": "taugenichts",
+      "url": "https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -635,22 +651,6 @@
       "duration_ms": 248760,
       "name": "MOMENT",
       "url": "https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "kratzer & wunden tape",
-        "url": "https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 156846,
-      "name": "taugenichts",
-      "url": "https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "MESS",
-        "url": "https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb"
-      },
-      "artists": [
-        {
-          "name": "SISKA",
-          "url": "https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "wallflower seat",
         "url": "https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 173307,
       "name": "wallflower seat",
       "url": "https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb"
+      },
+      "artists": [
+        {
+          "name": "SISKA",
+          "url": "https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3"
     },
     {
       "added_at": "2024-05-01 07:25:52",

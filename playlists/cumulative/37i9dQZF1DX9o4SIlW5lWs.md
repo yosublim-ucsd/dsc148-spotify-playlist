@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-408 songs - 23 hr 29 min
+409 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2022-01-14 | 2022-05-20 |
 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 |  |
 | [Que Vuelvas](https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Que Vuelvas](https://open.spotify.com/album/4WovYXrsDxqaUgtMLF9LUq) | 2:43 | 2023-06-02 | 2023-06-10 |
-| [Quiere Volver](https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [Quiere Volver](https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2) | 2:19 | 2024-03-29 |  |
+| [Quiere Volver](https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [Quiere Volver](https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2) | 2:19 | 2024-03-29 | 2024-05-07 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 | 2023-10-21 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 | 2023-09-08 |  |
@@ -304,6 +304,7 @@
 | [Se me va la voz](https://open.spotify.com/track/59HiyR19EwTWqVfK7owiKj) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Se me va la voz](https://open.spotify.com/album/74NsVqIGsWmyRrniZItUFF) | 2:49 | 2022-01-21 | 2022-06-19 |
 | [Se Que Llorarás](https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE) | [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [30 Años](https://open.spotify.com/album/4rvvkfhubGwH3mQ3ZHL9S1) | 4:08 | 2022-01-21 | 2022-07-17 |
 | [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 | 2023-01-28 |
+| [Será](https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Será](https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f) | 2:37 | 2024-05-03 |  |
 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 | 2022-01-14 |  |
 | [Session 2: Como Extraño Mi Santiago / al Final del Anden / El Precio de Tu Engaño / Como Le Explico a Mi Corazon](https://open.spotify.com/track/5d1iBPrrCikEU4RQvUxR2z) | [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Session 2: Como Extraño Mi Santiago / al Final del Anden / El Precio de Tu Engaño / Como Le Explico a Mi Corazon](https://open.spotify.com/album/3GYz8MHM8lJ7W50fJmdYBm) | 8:02 | 2022-10-06 | 2022-10-29 |
 | [Señora](https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Señora](https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI) | 3:38 | 2022-01-21 | 2022-07-17 |

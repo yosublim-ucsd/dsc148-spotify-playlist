@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. MC Davo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,048 likes - 99 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,275 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

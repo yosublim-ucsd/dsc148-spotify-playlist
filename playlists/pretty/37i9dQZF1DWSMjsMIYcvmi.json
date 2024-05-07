@@ -1,6 +1,6 @@
 {
   "description": "Hey (office) DJ, turn the music up! \ud83d\udc69\u200d\ud83d\udcbb",
-  "num_followers": 20622,
+  "num_followers": 20644,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -275,22 +279,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5TVirkSwFEXF1nLJEebe2I"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3KjCdhPbjbLptyJzviKu4P"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 194407,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "COSMIC",
-        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5TVirkSwFEXF1nLJEebe2I"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Boomhuis",
         "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 216795,
       "name": "Vuur Op Die Water",
       "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Mortal Man",
+        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "We Were Young",
         "url": "https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 214200,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Mortal Man",
-        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Motheo Moleko",
+          "url": "https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 194160,
       "name": "SAD",
       "url": "https://open.spotify.com/track/1OluxsldzYJXlilQKnPh5B"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "By The Way",
-        "url": "https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "Motheo Moleko",
-          "url": "https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "By The Way",
-      "url": "https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5"
     },
     {
       "added_at": "2024-04-25 23:00:00",

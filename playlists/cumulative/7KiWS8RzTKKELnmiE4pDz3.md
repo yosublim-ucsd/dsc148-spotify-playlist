@@ -4,7 +4,7 @@
 
 > 
 
-684 songs - 1 day 8 hr 41 min
+687 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Hardly Breathe](https://open.spotify.com/track/4DRVV7eHuS6NHpPREj1Ieu) | [GrindHard E](https://open.spotify.com/artist/5sVOZzPd1s6nCHb8jncqyF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Professional Shit Talking](https://open.spotify.com/album/5NZNIulO1bXX1X3CCzvOsD) | 2:44 | 2023-09-20 | 2024-04-24 |
 | [hat4hat](https://open.spotify.com/track/1DWFO7hrTW9TkSLHzyLeGA) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-10-04 | 2023-05-09 |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2023-01-23 | 2023-05-09 |
+| [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL) | 3:09 | 2024-05-06 |  |
 | [Heat Check](https://open.spotify.com/track/4X8P4arz5eir4T1VdieWvv) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:29 | 2023-10-10 | 2024-03-05 |
 | [Heathens](https://open.spotify.com/track/3dRC0mAJlK2hYpybMcoO3O) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Heathens](https://open.spotify.com/album/6dXBmISovpm5M0v1eSSRc3) | 5:40 | 2022-07-16 | 2023-05-09 |
 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 | 2023-04-03 | 2024-03-05 |
@@ -417,6 +418,7 @@
 | [No Rules](https://open.spotify.com/track/7kmXrIxANoDbLpPbDoeF3E) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/4ctaWxkPM0fPkUMB2nYClO) | [Rookie Of The Year](https://open.spotify.com/album/22aL7K3nl0vFqguOI5LQdv) | 2:54 | 2022-11-01 | 2023-04-12 |
 | [NoEvi](https://open.spotify.com/track/3t4JPcmKcHaCU7zpuJuWTd) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [NoEvi](https://open.spotify.com/album/3cbKFKL494EoV163ye7pDs) | 2:03 | 2022-10-27 | 2023-05-09 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-12 | 2023-04-12 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 |  |
 | [Not My Friend](https://open.spotify.com/track/6HwCzNa8P25H6CZ2pZXNW7) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 3:00 | 2023-01-06 | 2023-05-09 |
 | [Nothing Changë](https://open.spotify.com/track/1zf2ZRV9cVuzp7DsL20w1b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:57 | 2024-02-16 | 2024-02-22 |
 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 | 2024-02-16 |  |
@@ -634,6 +636,7 @@
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2021-11-17 | 2023-05-09 |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-10-03 | 2024-03-05 |
 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 | 2023-05-31 | 2023-12-14 |
+| [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-05-06 |  |
 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-06-02 | 2023-12-14 |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |

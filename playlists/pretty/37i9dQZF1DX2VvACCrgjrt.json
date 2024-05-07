@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house. Cover: Eleganto",
-  "num_followers": 443615,
+  "num_followers": 443632,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Hood To The Hills",
-        "url": "https://open.spotify.com/album/3Py45dN2PGVXuEUdniiOhX"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 196938,
-      "name": "Hood To The Hills",
-      "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 178300,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Hood To The Hills",
+        "url": "https://open.spotify.com/album/3Py45dN2PGVXuEUdniiOhX"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 196938,
+      "name": "Hood To The Hills",
+      "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Rawthentic",
-        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bill",
-          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 221918,
-      "name": "Rawthentic",
-      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Rawthentic",
+        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 221918,
+      "name": "Rawthentic",
+      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Gonna Get Back",
-        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Gonna Get Back",
-      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1403,22 +1407,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+        "name": "Gonna Get Back",
+        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+      "duration_ms": 142857,
+      "name": "Gonna Get Back",
+      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1575,26 +1575,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Body Moving (Skream Remix)",
-        "url": "https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ"
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "Rob Vice",
+          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
         },
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "MNRVA",
+          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
         }
       ],
-      "duration_ms": 289654,
-      "name": "Body Moving - Skream Remix",
-      "url": "https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt"
+      "duration_ms": 155437,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1619,6 +1615,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Body Moving (Skream Remix)",
+        "url": "https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Body Moving - Skream Remix",
+      "url": "https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Get Hype",
-        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
-      },
-      "artists": [
-        {
-          "name": "Rob Vice",
-          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
-        },
-        {
-          "name": "MNRVA",
-          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
-        }
-      ],
-      "duration_ms": 155437,
-      "name": "Get Hype",
-      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1815,6 +1815,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Firestarter",
         "url": "https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA"
       },
@@ -1851,30 +1875,6 @@
       "duration_ms": 128716,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "NRG",
-        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Kota",
-          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
-        }
-      ],
-      "duration_ms": 220898,
-      "name": "NRG",
-      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2055,6 +2055,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "I\u2019m A Freak (feat. Kazhi)",
+        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "I\u2019m A Freak (feat. Kazhi)",
+      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
       },
@@ -2087,30 +2111,6 @@
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "I\u2019m A Freak (feat. Kazhi)",
-        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "I\u2019m A Freak (feat. Kazhi)",
-      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2155,42 +2155,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Badman Calling (feat. XO Man)",
-        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        },
-        {
-          "name": "Xo Man",
-          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "Badman Calling (feat. XO Man)",
-      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ass To The Back",
-        "url": "https://open.spotify.com/album/6lcQlZjJFS4tYVXv3ufIPQ"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 156751,
-      "name": "Ass To The Back",
-      "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Star City",
         "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
       },
@@ -2211,6 +2175,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Ass To The Back",
+        "url": "https://open.spotify.com/album/6lcQlZjJFS4tYVXv3ufIPQ"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 156751,
+      "name": "Ass To The Back",
+      "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 144400,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Badman Calling (feat. XO Man)",
+        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "Xo Man",
+          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "Badman Calling (feat. XO Man)",
+      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "That's Right (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "That's Right (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "NO RULES",
         "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
       },
@@ -2375,6 +2355,26 @@
       "duration_ms": 145454,
       "name": "NO RULES",
       "url": "https://open.spotify.com/track/2lMtzc2TmMKPUTfTAht5dS"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "That's Right (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/2GvpxIFBpYtGMnadRLaugs"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "That's Right (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/6XbjAo4rXztT86IaABdBb4"
     },
     {
       "added_at": "2024-04-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 349795,
+  "num_followers": 349949,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 358240,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
         "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 297680,
       "name": "Grandes Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 358240,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Furioso Oceano",
-        "url": "https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV"
-      },
-      "artists": [
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 392695,
-      "name": "Furioso Oceano",
-      "url": "https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "\u00danico (Live)",
         "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 419280,
       "name": "\u00danico - Live",
       "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Furioso Oceano",
+        "url": "https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 392695,
+      "name": "Furioso Oceano",
+      "url": "https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Enche-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 629133,
+      "name": "Tu \u00e9s Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Clamo Jesus",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 437426,
       "name": "Clamo Jesus",
       "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Gratid\u00e3o (Gratitude)",
+        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 275841,
+      "name": "Gratid\u00e3o (Gratitude)",
+      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Gratid\u00e3o (Gratitude)",
-        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Gratid\u00e3o (Gratitude)",
-      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Ton Canta, Vol. 3",
         "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
       },
@@ -1711,22 +1711,6 @@
       "duration_ms": 205282,
       "name": "O Melhor De Deus",
       "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Plano T\u00e3o Lindo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51ZlzyLPGLhmp92yEt46YW"
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
         }
       ],
-      "duration_ms": 240639,
-      "name": "Plano T\u00e3o Lindo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FlvLbjVSkwPPsXBjp4Iph"
+      "duration_ms": 269853,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1779,6 +1763,22 @@
       "duration_ms": 489116,
       "name": "Quem \u00e9 Como Nosso Deus?",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Plano T\u00e3o Lindo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51ZlzyLPGLhmp92yEt46YW"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 240639,
+      "name": "Plano T\u00e3o Lindo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FlvLbjVSkwPPsXBjp4Iph"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Palavra, Som e Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU"
-      },
-      "artists": [
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 431080,
-      "name": "Se Eu Me Humilhar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Te Esperamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 404218,
       "name": "Jo\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/280qovSfG0KrkUt45pfnkV"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Palavra, Som e Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU"
+      },
+      "artists": [
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 431080,
+      "name": "Se Eu Me Humilhar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Recebo a Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 422987,
-      "name": "Recebo a Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Jesus Em Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 247453,
       "name": "Jesus Em Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/195P7EewiDBpU3oeWqFA8n"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Recebo a Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 422987,
+      "name": "Recebo a Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi"
     },
     {
       "added_at": "2024-04-26 03:44:28",

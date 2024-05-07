@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Capo Plaza, Silent Bob, SLF e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,853 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,870 likes - 85 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

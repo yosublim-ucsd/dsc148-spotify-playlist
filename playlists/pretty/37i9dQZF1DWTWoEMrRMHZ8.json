@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Erasmo Carlos",
-  "num_followers": 343522,
+  "num_followers": 343514,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "Eu n\u00e3o t\u00f4 bem",
-        "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
       },
       "artists": [
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 146560,
-      "name": "Eu n\u00e3o t\u00f4 bem",
-      "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "Que Tal Um Samba? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+        "name": "Eu n\u00e3o t\u00f4 bem",
+        "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
         }
       ],
-      "duration_ms": 170448,
-      "name": "Samba do Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
+      "duration_ms": 146560,
+      "name": "Eu n\u00e3o t\u00f4 bem",
+      "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
+        "name": "Doce Vampiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Doce Vampiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
         "name": "Mariana e Mestrinho",
         "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 249554,
       "name": "At\u00e9 o fim",
       "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
-        "name": "Doce Vampiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Doce Vampiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "Ao Arrepio da Lei",
-        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 219744,
-      "name": "Ao Arrepio da Lei",
-      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
         "name": "OUTONO",
         "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 229549,
       "name": "OUTONO",
       "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
+        "name": "Ao Arrepio da Lei",
+        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 219744,
+      "name": "Ao Arrepio da Lei",
+      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
     },
     {
       "added_at": "2024-05-03 13:36:36",

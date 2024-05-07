@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-235 songs - 15 hr 1 min
+236 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baby Come On](https://open.spotify.com/track/1iX0ircyTdzzMkDOUSeYjM) | [Elemeno P](https://open.spotify.com/artist/5kDPuvM5kIV3tqpsppoUfB) | [Elemeno P](https://open.spotify.com/album/67PJSMQ2xL2nsbpJodWKdu) | 3:14 | 2022-05-09 | 2022-05-24 |
 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 | 2021-06-15 | 2022-03-08 |
 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 | 2022-05-09 | 2024-04-19 |
+| [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 | 2022-05-09 |  |
 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 | 2021-06-15 |  |
 | [Beautiful Soul \- Radio Edit](https://open.spotify.com/track/6YgjdjpXJ4OhDwp9CG8Jc2) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/6ajRHh39lkA8pKi7kNTKKB) | 3:18 | 2021-06-15 | 2022-07-29 |
 | [Been Waiting](https://open.spotify.com/track/0bVErWwMwsPgf3PufQA80g) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Been Waiting](https://open.spotify.com/album/21Z3oePgswl4kS1LW0aXVm) | 3:47 | 2021-06-15 | 2022-06-24 |
@@ -176,7 +177,7 @@
 | [Shackles \(Praise You\)](https://open.spotify.com/track/5siee1e4lz8uF51OokjglA) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:16 | 2021-06-15 | 2022-03-08 |
 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2021-06-15 | 2022-07-13 |
 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 | 2022-05-09 |  |
-| [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 | 2021-06-15 |  |
+| [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 | 2021-06-15 | 2024-05-07 |
 | [Shine](https://open.spotify.com/track/672uPLDAVUmeCOh0UD128y) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [Lift](https://open.spotify.com/album/03VcQnLXi87fGVXpt7pv45) | 3:33 | 2021-06-15 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/7cCOfYMldxmJgT5oSAxqgK) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-issue\)](https://open.spotify.com/album/4iCFBfefQX4mLLDrQ6euZU) | 3:54 | 2021-06-15 | 2022-07-29 |
 | [Shut Up And Drive](https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:32 | 2021-06-15 | 2022-06-13 |

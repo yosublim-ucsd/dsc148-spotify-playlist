@@ -2,7 +2,7 @@
 
 ### [This Is New Found Glory](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uxwRi)
 
-> This is New Found Glory\. Todos os maiores hits em uma só playlist.
+> This Is New Found Glory\. Los temas esenciales, todos en una lista.
 
 82 songs - 4 hr 32 min
 

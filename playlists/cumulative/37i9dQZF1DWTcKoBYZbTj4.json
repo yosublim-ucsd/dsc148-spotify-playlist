@@ -237,6 +237,46 @@
     },
     {
       "album": {
+        "name": "Brillantes - Jose Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql"
+      },
+      "artists": [
+        {
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
+        },
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146773,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/2JXResyAvxQAV0Tmy1wqlj"
+    },
+    {
+      "album": {
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "El jinete",
+      "url": "https://open.spotify.com/track/2ofMOoD3GSdnME0NSEbhvZ"
+    },
+    {
+      "album": {
         "name": "Peque\u00f1o Cabaret Ambulante",
         "url": "https://open.spotify.com/album/6DKQCTjUfMPqKp46vGACTb"
       },
@@ -284,7 +324,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 220893,
       "name": "El perro negro",
       "url": "https://open.spotify.com/track/1daNYZYuLihVZOvPymTEr8"
@@ -374,10 +414,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 150325,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6Q9CcOEnkvhpVUur8YOKUa"
+    },
+    {
+      "album": {
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2B8AoLeBoZI7kS29a154pv"
     },
     {
       "album": {
@@ -486,7 +544,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 172961,
       "name": "Entre Tequila y Dolor",
       "url": "https://open.spotify.com/track/5ZMVoVKsCqch1UVQBpUFbB"
@@ -504,7 +562,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 603733,
       "name": "Homenaje a Jos\u00e9 Alfredo Jim\u00e9nez",
       "url": "https://open.spotify.com/track/3zUJto77woCYF6opAi3O8s"
@@ -767,6 +825,24 @@
     },
     {
       "album": {
+        "name": "La Malagradecida",
+        "url": "https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE"
+    },
+    {
+      "album": {
         "name": "Mundo Raro",
         "url": "https://open.spotify.com/album/7IMw9ciwI9kwu1zDNFK4rM"
       },
@@ -847,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Jos\u00e9 Alfredo y Alicia",
+        "url": "https://open.spotify.com/album/3wawUVBL8mm97z209YpR9F"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Alicia Juarez",
+          "url": "https://open.spotify.com/artist/2MwY1LeuAuGU4xygWhA8hT"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "No Niegues Que Me Quisiste",
+      "url": "https://open.spotify.com/track/3BhXoXpLIRpIma6KfXkV6b"
+    },
+    {
+      "album": {
         "name": "La Cantina",
         "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
       },
@@ -892,10 +990,50 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 201346,
       "name": "Pa' Todo El Ano",
       "url": "https://open.spotify.com/track/6blXHM6cSWYsfwYbRcGNJD"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5JIK8rlUEaF0s09QdDvaSy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Paloma Querida (with Jorge Negrete)",
+      "url": "https://open.spotify.com/track/3Ou8QkNo3MeUnk28EsuAVg"
+    },
+    {
+      "album": {
+        "name": "Voy Navegando",
+        "url": "https://open.spotify.com/album/6e8UxG17eo7xQ6zDyzIDAg"
+      },
+      "artists": [
+        {
+          "name": "Nico Flores Y Su Banda Puro Mazatl\u00e1n",
+          "url": "https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/37tG6I3qhaYuXQrmb65O7c"
     },
     {
       "album": {
@@ -1112,7 +1250,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 207913,
       "name": "Un Mundo Raro - Inspirado en \"Coco\"",
       "url": "https://open.spotify.com/track/1lGtyv4AM1r3UgOHcgsHh8"
@@ -1130,7 +1268,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 247280,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/23hmb7mYAeeUdCUwuoG454"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Danny Felix. The essential tracks, all in one playlist.",
+  "description": "This Is Danny Felix. Los temas esenciales, todos en una lista.",
   "name": "This Is Danny Felix",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 141400,
       "name": "DOCTOR DEL BARRIO",
       "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
@@ -1256,6 +1256,28 @@
       "duration_ms": 195666,
       "name": "Soy Todo Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
+    },
+    {
+      "album": {
+        "name": "Sigo Firme de Pie",
+        "url": "https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los De Finix",
+          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172777,
+      "name": "Te Vi Con el",
+      "url": "https://open.spotify.com/track/7pv40g1fao791aNhcQZ9Tu"
     },
     {
       "album": {

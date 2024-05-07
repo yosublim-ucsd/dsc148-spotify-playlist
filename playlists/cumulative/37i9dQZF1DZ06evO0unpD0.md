@@ -2,7 +2,7 @@
 
 ### [This Is Salif Keita](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0unpD0)
 
-> This is Salif Keita\. Todos os maiores hits em uma só playlist.
+> This Is Salif Keita\. Los temas esenciales, todos en una lista.
 
 87 songs - 8 hr 12 min
 

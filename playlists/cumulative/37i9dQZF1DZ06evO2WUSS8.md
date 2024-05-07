@@ -2,7 +2,7 @@
 
 ### [This Is Angelique Kidjo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8)
 
-> This Is Angelique Kidjo\. Los temas esenciales, todos en una lista.
+> This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
 125 songs - 8 hr 21 min
 
@@ -24,7 +24,7 @@
 | [Azan Nan Kpe](https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:10 | 2022-01-07 | 2022-10-07 |
 | [Babalao](https://open.spotify.com/track/4CF0LLqXowkZNTEgqT4Bbp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 4:31 | 2024-03-13 | 2024-03-17 |
 | [Bahia](https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:32 | 2021-12-28 |  |
-| [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 | 2021-12-28 |  |
+| [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 | 2021-12-28 | 2024-05-07 |
 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 | 2021-12-28 |  |
 | [Battu](https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Care For Haiti](https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku) | 2:49 | 2021-12-28 | 2022-11-27 |
 | [Best We Can](https://open.spotify.com/track/6Erm0FrDOHCE4oXru9jpyl) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Best We Can](https://open.spotify.com/album/27K8fhjjRtGrUPuPsIenCt) | 3:38 | 2023-09-05 | 2024-03-09 |
@@ -97,7 +97,7 @@
 | [Pata Pata](https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Pata Pata](https://open.spotify.com/album/43yhCd13mFeiOKLCo6bTUL) | 2:52 | 2022-04-28 | 2022-08-20 |
 | [Ponto De Mutação \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:15 | 2021-12-28 |  |
 | [Quimbara](https://open.spotify.com/track/5SvE1aqUInclPBCrgYwKYq) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quimbara](https://open.spotify.com/album/4QH5KPBE0XndcPGoGsSEdO) | 4:34 | 2022-02-14 | 2022-04-29 |
-| [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 | 2021-12-28 | 2024-04-03 |
+| [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 | 2021-12-28 |  |
 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 | 2023-09-15 |  |
 | [Sahara](https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 4:37 | 2021-12-28 | 2022-10-13 |
 | [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 | 2021-12-28 |  |

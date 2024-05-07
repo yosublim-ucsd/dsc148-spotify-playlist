@@ -1,12 +1,12 @@
 {
-  "description": "This is Belinda. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 65605,
+  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
+  "num_followers": 65637,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAADjhb3+Y+1g5p02nm/DagPd",
+  "snapshot_id": "ZjbMAAAAAACRyPjpdRCoc6aCV6+Nds2r",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Amigos por Siempre",
-      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 238120,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Amigos por Siempre",
+      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ao Vivo No Rio",
         "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 250106,
       "name": "Meu Menino (Minha Menina) - Ao Vivo",
       "url": "https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
       },
       "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,
@@ -1115,18 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
+        "name": "Madrid X Marbella",
+        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
       "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 205040,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
+      "duration_ms": 194576,
+      "name": "Madrid X Marbella",
+      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
     },
     {
       "added_at": null,
@@ -1183,18 +1183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
       "artists": [
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/5KgaJoG1aeBAz2zNFJKofQ"
+      "duration_ms": 216520,
+      "name": "I Love You... Te Quiero",
+      "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
     }
   ],
   "unique_name": "This Is Belinda",

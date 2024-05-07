@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=1JTMf38\_RxahO7HM59iohQ>Qing Madi</a>, <a href=https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR?si=1IheAN6fQLqYLiclUMcpKw>Chloë</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,806 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

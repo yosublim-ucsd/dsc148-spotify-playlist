@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/4bQUaWaAbO9fKdBkUO1398"
+      },
+      "artists": [
+        {
+          "name": "Alkis K.",
+          "url": "https://open.spotify.com/artist/5ptbqjCG34wJnXVd83M2Az"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207025,
+      "name": "A Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/2EkbJcijxkyLEmHqbASOAm"
+    },
+    {
+      "album": {
         "name": "A Moment of Calm",
         "url": "https://open.spotify.com/album/7Dgwi1CKrFoR8O6A8ADV7b"
       },
@@ -106,6 +124,24 @@
       "duration_ms": 128000,
       "name": "Beyond the Horizon",
       "url": "https://open.spotify.com/track/2mL8njMMIUrApQlusHPIgV"
+    },
+    {
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/17dRHhzMusnsAsWod2M2gA"
+      },
+      "artists": [
+        {
+          "name": "Trukhmanov",
+          "url": "https://open.spotify.com/artist/3aaB46NTjZLRFbJHdUDs5j"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116923,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/1WY8R8XiS5GKm9c20o7fhX"
     },
     {
       "album": {

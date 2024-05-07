@@ -1,12 +1,12 @@
 {
   "description": "curated study playlist for full focus &amp; maximum productivity",
-  "num_followers": 1056,
+  "num_followers": 1057,
   "original_name": "full focus \ud83c\udfa7\u2601\ufe0f\u2728",
   "owner": {
     "name": "\u2728",
     "url": "https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu"
   },
-  "snapshot_id": "AAAAIY72cL1rnodvueaBJ1SwkCAWu3/w",
+  "snapshot_id": "AAAAI7IZhlBR6O+eAoXA3W0LKsJCtmob",
   "tracks": [
     {
       "added_at": "2024-02-11 18:26:39",
@@ -447,6 +447,22 @@
       "duration_ms": 115800,
       "name": "Enigmatic Melodies",
       "url": "https://open.spotify.com/track/2CjQ9cQjEKLnqBOuoP4FKT"
+    },
+    {
+      "added_at": "2024-05-06 17:01:50",
+      "album": {
+        "name": "A Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/4bQUaWaAbO9fKdBkUO1398"
+      },
+      "artists": [
+        {
+          "name": "Alkis K.",
+          "url": "https://open.spotify.com/artist/5ptbqjCG34wJnXVd83M2Az"
+        }
+      ],
+      "duration_ms": 207025,
+      "name": "A Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/2EkbJcijxkyLEmHqbASOAm"
     },
     {
       "added_at": "2024-02-11 18:26:39",
@@ -1143,6 +1159,22 @@
       "duration_ms": 96000,
       "name": "Serene Dreams",
       "url": "https://open.spotify.com/track/3KrfJIrkd7a43d6gRKJcPg"
+    },
+    {
+      "added_at": "2024-05-06 17:58:51",
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/17dRHhzMusnsAsWod2M2gA"
+      },
+      "artists": [
+        {
+          "name": "Trukhmanov",
+          "url": "https://open.spotify.com/artist/3aaB46NTjZLRFbJHdUDs5j"
+        }
+      ],
+      "duration_ms": 116923,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/1WY8R8XiS5GKm9c20o7fhX"
     },
     {
       "added_at": "2024-02-11 18:26:39",

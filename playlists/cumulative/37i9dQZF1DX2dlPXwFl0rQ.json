@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223426,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
+    },
+    {
+      "album": {
         "name": "Apur\u00e9 Mi Caf\u00e9 (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4HU6mMXnKkLmAHEpGFlk3z"
       },
@@ -6696,7 +6714,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"

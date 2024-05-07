@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SHRTY ja Blacflaco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,841 likes - 67 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,838 likes - 67 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 10 | [Varjoissa \(feat\. SHRTY\)](https://open.spotify.com/track/1UX8fhWSC8Lf5hTrPly1Ra) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Varjoissa \(feat\. SHRTY\)](https://open.spotify.com/album/0cx9WU12EUywZYYWsUJ46a) | 2:53 |
 | 11 | [Aina](https://open.spotify.com/track/2zBiB79GNoVXY6cLB8AMKE) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Aina](https://open.spotify.com/album/0ZHz8msY0KGTSk7VXxKFoL) | 2:12 |
 | 12 | [Eläke](https://open.spotify.com/track/1H5PY3gQFtYFMU86uZCzPu) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Eläke](https://open.spotify.com/album/1HYF6TtJFt5EDj7H0drm9X) | 2:36 |
-| 13 | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/track/5l7OnOVSYd57pAQIX6B5nz) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/album/5Vv69AczxmHKIxAPIv5vik) | 3:10 |
-| 14 | [Tim Duncan](https://open.spotify.com/track/0W3kiQw2yDnZvFq92jq1Gx) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Tim Duncan](https://open.spotify.com/album/3QwEqCZdjvBx7reS3veYTB) | 2:17 |
+| 13 | [Tim Duncan](https://open.spotify.com/track/0W3kiQw2yDnZvFq92jq1Gx) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Tim Duncan](https://open.spotify.com/album/3QwEqCZdjvBx7reS3veYTB) | 2:17 |
+| 14 | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/track/5l7OnOVSYd57pAQIX6B5nz) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Veli \(feat\. Gracias & Stafa\)](https://open.spotify.com/album/5Vv69AczxmHKIxAPIv5vik) | 3:10 |
 | 15 | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/track/647n34NjL2NtvKTd0U0EBZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/album/2IGkYJ4tZhFTyR5tPTl5Gj) | 2:39 |
 | 16 | [SWÄGÄN SUOMENMESTARI](https://open.spotify.com/track/79vulZcALB6NufbxYjJ4U3) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx), [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [EILINEN ON ELOHOPEE](https://open.spotify.com/album/5t3skhWA59DXcEcnno9SmK) | 2:53 |
 | 17 | [Pitäny itestäni huolta](https://open.spotify.com/track/2756eCDliglgl6HIHqOd18) | [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl), [NickyDiesel](https://open.spotify.com/artist/2Wo5oaP19W1SpOtkY8Rxof), [Super Duve](https://open.spotify.com/artist/4TbEQbBRcnq6Z8KDAqARyn) | [Pitäny itestäni huolta](https://open.spotify.com/album/4vELHFkfcwl1d6ITqDvFIt) | 2:51 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 66 | [Vaan sä](https://open.spotify.com/track/01yA7KxtfCIonnl9BE7ayr) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Vaan sä](https://open.spotify.com/album/02mV5H3nlWdAvppMrx9TQ1) | 2:42 |
 | 67 | [Ikivihree](https://open.spotify.com/track/1yjoucRYzZYCikibvUhxH6) | [M.A](https://open.spotify.com/artist/7masbwBVM0UBxIs0495YkJ) | [Liminaalitila](https://open.spotify.com/album/2fXhOnL34YGID3PrUGZpTP) | 4:21 |
 
-Snapshot ID: `ZjP+0AAAAAAgqB62JYM0RId8ZusVYADv`
+Snapshot ID: `ZjjbwAAAAACSL0rCMx9FrkvTZ2WMEnl0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of the Indian Indie scene. Cover - Anuv Jain",
+  "description": "Best of the Indian Indie scene. Cover - Hansika Pareek",
   "name": "Indie India ",
   "tracks": [
     {
@@ -1082,6 +1082,24 @@
       "duration_ms": 250000,
       "name": "Dil Beparvah - The Dewarists, Season 5",
       "url": "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Ye Baatein (Solo)",
+        "url": "https://open.spotify.com/album/0g7Lxz5vDlYCLG2hNzav11"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Dil Ki Ye Baatein - Solo",
+      "url": "https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y"
     },
     {
       "album": {
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"

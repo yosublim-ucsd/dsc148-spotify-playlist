@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-377 songs - 19 hr 41 min
+378 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Maldade](https://open.spotify.com/track/3ett476N4uKnHngC8sTrJz) | [LOH](https://open.spotify.com/artist/4KTD83i1qBDT0WOWUzXIyd), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [Maldade](https://open.spotify.com/album/4iIW6out3SneOyGUTBgBEr) | 3:01 | 2022-06-24 | 2022-07-22 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2022-05-23 | 2022-09-24 |
 | [Manhã de Sol](https://open.spotify.com/track/6k6GYgflqllzIDm0drwhmL) | [MC Philippi](https://open.spotify.com/artist/5LHHGHsyMO0L2AiwRRVbDL), [MC PG](https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8), [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Manhã de Sol](https://open.spotify.com/album/7jHL1px1XRbcSVZiZ3tj7m) | 4:46 | 2022-07-21 | 2022-08-06 |
-| [Manhãzinha](https://open.spotify.com/track/12V3vic05JMryErPldrm1j) | [ALV](https://open.spotify.com/artist/4YmwzlFlJp7BgIHQ5PU7jU) | [ar](https://open.spotify.com/album/4eQYPIeLhpFL1CVfHoYJVG) | 3:40 | 2024-04-12 |  |
+| [Manhãzinha](https://open.spotify.com/track/12V3vic05JMryErPldrm1j) | [ALV](https://open.spotify.com/artist/4YmwzlFlJp7BgIHQ5PU7jU) | [ar](https://open.spotify.com/album/4eQYPIeLhpFL1CVfHoYJVG) | 3:40 | 2024-04-12 | 2024-05-07 |
 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-16 | 2023-03-11 |
 | [mapa da mina](https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [mapa da mina](https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F) | 2:43 | 2024-01-12 | 2024-02-10 |
 | [Mar Azul](https://open.spotify.com/track/6Hybh8fGT56gt4519e8RCy) | [Trilho Elétrico](https://open.spotify.com/artist/6SGMJnDLcVz0yz7nt25l5g), [Toni Garrido](https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL) | [Mar Azul](https://open.spotify.com/album/2hQCBlSmSzix8XhwW3Pvpp) | 3:51 | 2023-12-15 | 2024-01-13 |
@@ -200,6 +200,7 @@
 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 | 2022-05-23 | 2022-12-17 |
 | [Melhor Lugar](https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN) | [LUE](https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Melhor Lugar](https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B) | 2:48 | 2022-06-17 | 2022-12-03 |
 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-05-23 | 2023-11-11 |
+| [Mete o louco](https://open.spotify.com/track/7Ep1kMp6Wxw7xwYMm0xKZ5) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [Mete o louco](https://open.spotify.com/album/72ftJErLaJz9hZmQ23LlD7) | 3:52 | 2024-04-26 |  |
 | [Meu Desejo](https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2) | [Motta](https://open.spotify.com/artist/34IQpbynCd4V50MWXIpGHy), [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS) | [Meu Desejo](https://open.spotify.com/album/5GBRWMDuTTkVvBjvezwgAj) | 2:17 | 2022-12-02 | 2023-01-29 |
 | [Meu Fechamento](https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Meu Fechamento](https://open.spotify.com/album/3vsrbA8dwUeoeo8QQs2xR8) | 3:28 | 2023-09-08 | 2023-09-30 |
 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 | 2024-01-12 |  |

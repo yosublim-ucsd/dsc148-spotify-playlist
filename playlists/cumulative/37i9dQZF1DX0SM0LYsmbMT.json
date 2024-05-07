@@ -49205,6 +49205,28 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3lybkHBsIlsV46gReFO9I8"
+      },
+      "artists": [
+        {
+          "name": "Lesfm",
+          "url": "https://open.spotify.com/artist/3cjxUpsyr916tEX0DBBSGH"
+        },
+        {
+          "name": "Chillmore",
+          "url": "https://open.spotify.com/artist/7kyL3H7gmoSEFuzdrQDlWn"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138705,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/6winapAWCOXBzQAAGWjiDq"
+    },
+    {
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/6zJolBGXVvjsJAYmXCNNme"
       },
@@ -78930,7 +78952,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 117857,
       "name": "Wataridori",
       "url": "https://open.spotify.com/track/7eUbVPRjLznyvOOXyOSrCD"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-472 songs - 1 day 6 hr 50 min
+473 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 | 2024-01-29 |  |
 | [successful](https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:47 | 2024-01-29 |  |
 | [Suga Honey Iced Tea](https://open.spotify.com/track/6HjzGcCtnFNfzA3N1ftR2v) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:23 | 2024-01-29 |  |
+| [Suicide](https://open.spotify.com/track/1XpdbfDAQi4tt0pMss2oUR) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Ab\-Liva](https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:42 | 2024-05-06 |  |
 | [Superpower \(feat\. Frank Ocean\)](https://open.spotify.com/track/49sXkAcR5LvOrtq5Qcn5cf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:36 | 2024-01-29 |  |
 | [Superthug](https://open.spotify.com/track/2FaZoB6xQohJKWmq8KlYke) | [Noreaga](https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO) | [N.O.R.E](https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR) | 5:00 | 2024-01-29 |  |
 | [Supplies](https://open.spotify.com/track/6jT85s2dZ55HBqjXYi2rfI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 3:45 | 2024-01-29 |  |
@@ -424,7 +425,7 @@
 | [The Night Before Christmas Song](https://open.spotify.com/track/7e2uGyRULGE43zolDDWhU2) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:48 | 2024-01-29 |  |
 | [The Turn Down](https://open.spotify.com/track/5GRQNKS6OycF2szRJjknI7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 2:29 | 2024-01-29 |  |
 | [The Unicorn Song \- From The Despicable Me Soundtrack](https://open.spotify.com/track/0rsbxP7iy8QJZSEU9lbU2Y) | [Agnes](https://open.spotify.com/artist/2RgQeO9accs4W4KVcq0Skm) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 2:08 | 2024-03-16 | 2024-04-16 |
-| [The Way She Dances](https://open.spotify.com/track/1uQrjTeNvSm5XwsiVBoTG4) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:05 | 2024-03-25 |  |
+| [The Way She Dances](https://open.spotify.com/track/1uQrjTeNvSm5XwsiVBoTG4) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:05 | 2024-03-25 | 2024-05-07 |
 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 | 2024-01-29 |  |
 | [There She Goes](https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:31 | 2024-01-29 |  |
 | [There's Something Special](https://open.spotify.com/track/3yzut0D9lkugZZvqzEHIXC) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [There's Something Special \[\(Despicable Me 3 Original Motion Picture Soundtrack\) \- Video\]](https://open.spotify.com/album/6QUWA9UCQLLKNFduT7g8fL) | 2:33 | 2024-01-30 | 2024-02-01 |

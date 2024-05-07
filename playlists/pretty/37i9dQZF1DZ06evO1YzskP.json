@@ -1,12 +1,12 @@
 {
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23478,
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
+  "num_followers": 23500,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAAAVwRBcHVKiZh1GEheCCg3q",
+  "snapshot_id": "ZjbMAAAAAAB3RCw5wdoASqEJ5Wo8cVoi",
   "tracks": [
     {
       "added_at": null,
@@ -127,38 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fuerte",
-        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "El Fuerte",
-      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a (En Vivo)",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/0Ns7RqQCUjEUJdyDNDac7e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "added_at": null,
@@ -295,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
@@ -343,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isidro El Chapo",
-        "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Isidro El Chapo",
-      "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 170173,
       "name": "El Sera Y El Chavo",
       "url": "https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isidro El Chapo",
+        "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Isidro El Chapo",
+      "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
     },
     {
       "added_at": null,
@@ -763,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El JP (En Vivo)",
-        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
+        "name": "Mauricio MG",
+        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
       },
       "artists": [
         {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        },
-        {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         }
       ],
-      "duration_ms": 202120,
-      "name": "El JP (En Vivo)",
-      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
+      "duration_ms": 155746,
+      "name": "Mauricio MG",
+      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
     },
     {
       "added_at": null,
@@ -808,29 +808,29 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+      "duration_ms": 146960,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mauricio MG",
-        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
+        "name": "El JP (En Vivo)",
+        "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
         },
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 155746,
-      "name": "Mauricio MG",
-      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+      "duration_ms": 202120,
+      "name": "El JP (En Vivo)",
+      "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 146960,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maclovio",
-        "url": "https://open.spotify.com/album/2T6TgGuW2eYBaaaz1Zhgwa"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 217986,
-      "name": "Maclovio",
-      "url": "https://open.spotify.com/track/4kEZP0nu8l78eoZhlkirfw"
+      "duration_ms": 192026,
+      "name": "La Captura Del Ni\u00f1o Vicente",
+      "url": "https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS"
     }
   ],
   "unique_name": "This Is La Receta",

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 72729,
+  "num_followers": 72739,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,30 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Coco's Revenge (Mind Compressor Remix)",
+        "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Coco's Revenge - Mind Compressor Remix",
+      "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -975,26 +999,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Gremlins",
-        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
-      },
-      "artists": [
-        {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Gremlins",
-      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -1015,26 +1019,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Coco's Revenge (Mind Compressor Remix)",
-        "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
+        "name": "Gremlins",
+        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
       },
       "artists": [
         {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
         },
         {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
         }
       ],
-      "duration_ms": 196571,
-      "name": "Coco's Revenge - Mind Compressor Remix",
-      "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+      "duration_ms": 217142,
+      "name": "Gremlins",
+      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Everybody Move",
-        "url": "https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce"
-      },
-      "artists": [
-        {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Everybody Move",
-      "url": "https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Everybody Move",
+        "url": "https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Everybody Move",
+      "url": "https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Without Respect",
         "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 205000,
       "name": "Without Respect",
       "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "PURSUIT",
         "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
       },
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -1407,6 +1423,22 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        }
+      ],
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1439,22 +1471,6 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
       },
       "artists": [
         {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
         }
       ],
-      "duration_ms": 206808,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 132846,
       "name": "Raver",
       "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        }
-      ],
-      "duration_ms": 158421,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Demolition Hardcore",
         "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 200400,
       "name": "Demolition Hardcore",
       "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Slaves To The Darkness",
         "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
       },
@@ -1859,26 +1875,6 @@
       "duration_ms": 198315,
       "name": "Slaves To The Darkness",
       "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Demonic Playgrounds",
-        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        },
-        {
-          "name": "Disarray",
-          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
-        }
-      ],
-      "duration_ms": 188404,
-      "name": "Demonic Playgrounds",
-      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

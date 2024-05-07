@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 195257,
       "name": "Kaisa Hai Tu",
       "url": "https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 267043,
       "name": "Masoom",
       "url": "https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF"
@@ -5931,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "Tu Jo Mila",
+        "url": "https://open.spotify.com/album/0Dzmn1tHBaEeLc9b8lVB8M"
+      },
+      "artists": [
+        {
+          "name": "Dhi Harmony",
+          "url": "https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203436,
+      "name": "Tu Jo Mila",
+      "url": "https://open.spotify.com/track/6TcBL3NDg3OimfoNiYOAQW"
+    },
+    {
+      "album": {
         "name": "Tu Jo Paas (Raw)",
         "url": "https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU"
       },
@@ -6146,6 +6164,28 @@
       "duration_ms": 75000,
       "name": "Tum Kya Mile - Jonita's Version",
       "url": "https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG"
+    },
+    {
+      "album": {
+        "name": "Tum Meri Ho",
+        "url": "https://open.spotify.com/album/11X0eOPuhW8aYaJp8COqzq"
+      },
+      "artists": [
+        {
+          "name": "MAJOR STUDIO",
+          "url": "https://open.spotify.com/artist/5SNjhow2A2xiloi8MUedNC"
+        },
+        {
+          "name": "Abhidev Chaudhary",
+          "url": "https://open.spotify.com/artist/28IGTT6g9wMnkVmYocoVpj"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "Tum Meri Ho",
+      "url": "https://open.spotify.com/track/0NaeiORUuQWkD3mGpuVUG4"
     },
     {
       "album": {

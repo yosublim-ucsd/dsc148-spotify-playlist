@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Sebastián Yatra, Aitana
 
-447 songs - 22 hr 22 min
+449 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-12 | 2023-09-26 |
 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-03-22 | 2024-04-09 |
 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 | 2023-08-01 | 2024-01-09 |
-| [Como Britney](https://open.spotify.com/track/14yDqU3ws3GLze48U2NSKu) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Como Britney](https://open.spotify.com/album/3xIJe5jvUSsXaLgEyuSxiQ) | 2:41 | 2024-04-23 |  |
+| [Como Britney](https://open.spotify.com/track/14yDqU3ws3GLze48U2NSKu) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Como Britney](https://open.spotify.com/album/3xIJe5jvUSsXaLgEyuSxiQ) | 2:41 | 2024-04-23 | 2024-05-07 |
 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 | 2023-11-28 |  |
 | [Como Yo](https://open.spotify.com/track/0fJ8nk6iQayq0WCqq0ZbWr) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Esta Vida Es Un Jaleo](https://open.spotify.com/album/4W1o9T3ghMa61HFLUAIOHj) | 3:26 | 2023-03-13 | 2023-04-18 |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-26 | 2023-07-11 |
@@ -204,6 +204,7 @@
 | [La Musiquita](https://open.spotify.com/track/5LNJHJJd8aBY0aW9CgSgbz) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Musiquita](https://open.spotify.com/album/2mQia3ylnBOcvrEWMRZ0On) | 2:48 | 2023-03-13 | 2023-09-26 |
 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 | 2023-05-30 | 2023-12-19 |
 | [LA PRIMERA](https://open.spotify.com/track/5L13lvUrc2AVyTtPEFda28) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [LA PRIMERA](https://open.spotify.com/album/7qWtxmWxkwl8UF0h9b367O) | 2:32 | 2023-06-12 | 2023-06-27 |
+| [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 | 2024-05-06 |  |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-13 | 2023-03-29 |
 | [La Romana](https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [La Romana](https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd) | 2:35 | 2024-02-15 |  |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-21 | 2023-06-13 |
@@ -301,7 +302,7 @@
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-03-13 | 2023-04-26 |
 | [Nunca Volverás](https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nunca Volverás](https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9) | 2:51 | 2023-09-21 | 2023-10-24 |
 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 | 2023-09-21 | 2023-10-17 |
-| [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-25 |  |
+| [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-25 | 2024-05-07 |
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-06-12 | 2024-02-13 |
 | [Otra vez](https://open.spotify.com/track/2CxOABw2Ji81eLASxMbu0Y) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Otra Vez](https://open.spotify.com/album/0Ty8c2O11nvyGxSpoa8cFk) | 3:18 | 2024-01-25 | 2024-02-13 |
 | [Oye Baby](https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Oye Baby](https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d) | 2:15 | 2023-08-21 | 2023-09-01 |
@@ -372,6 +373,7 @@
 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 | 2024-02-15 | 2024-02-27 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-09-18 | 2024-01-26 |
 | [Si no fuera por ti](https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Si no fuera por ti](https://open.spotify.com/album/5rYq6aRlL38zL8ZGHkNHZT) | 2:51 | 2024-02-12 | 2024-03-05 |
+| [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-06 |  |
 | [Si Supieran](https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [Dilas](https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4) | [Si Supieran](https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW) | 3:40 | 2023-08-28 | 2023-10-24 |
 | [Si te encuentras con mi Ex](https://open.spotify.com/track/0lH1Hpd5lbYqLVYOMrCeEE) | [Chris Viz](https://open.spotify.com/artist/40jZHpxIT7SOkZF9YrxGYq), [DjGlass El Internacional](https://open.spotify.com/artist/7uzzUWT8M4j5L8vTuiihRO) | [Si te encuentras con mi ex](https://open.spotify.com/album/0ytDuIgu1Z8iOLhE6RSmYe) | 2:57 | 2023-08-28 | 2023-09-08 |
 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 | 2023-03-13 | 2023-06-13 |

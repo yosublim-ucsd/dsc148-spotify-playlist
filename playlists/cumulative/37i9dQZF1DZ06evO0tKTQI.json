@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Segunda Piel Revisitado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB"
+      },
+      "artists": [
+        {
+          "name": "BETA",
+          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254183,
+      "name": "Salvador - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7"
+    },
+    {
+      "album": {
         "name": "seguiremos siendo",
         "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
       },

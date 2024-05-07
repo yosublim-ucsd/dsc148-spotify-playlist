@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 232973,
       "name": "Dos Colombianos",
       "url": "https://open.spotify.com/track/5OaVR3n6Ln0SEXFGPKVf15"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 195000,
       "name": "La Suburban Dorada",
       "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
@@ -690,6 +690,24 @@
       "duration_ms": 150440,
       "name": "Lincoln Negro",
       "url": "https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF"
+    },
+    {
+      "album": {
+        "name": "Corridos Con Fama",
+        "url": "https://open.spotify.com/album/0hfHMxy9lZgcQkEWHFP1xN"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Lucio Vazquez",
+      "url": "https://open.spotify.com/track/5wuyzP3qa9FH5EPEr8ZevH"
     },
     {
       "album": {
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"

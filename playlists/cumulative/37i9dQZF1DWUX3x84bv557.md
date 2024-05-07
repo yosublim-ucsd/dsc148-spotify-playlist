@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Rubben Annink, Roxeanne Hazes
 
-576 songs - 1 day 3 hr 54 min
+578 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2023-11-16 | 2024-04-12 |
 | [Ala Day](https://open.spotify.com/track/0dBxxEhGVMH5EM9sjz3zxY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Twintig I](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 3:11 | 2023-04-06 | 2023-05-19 |
 | [Alleen](https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alleen](https://open.spotify.com/album/3xbBtizQWbEZtmQrgK3jpA) | 3:19 | 2023-09-21 | 2023-10-13 |
-| [Alleen Aan Haar](https://open.spotify.com/track/1zsf8jW6awRZXmLYx9DyQC) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Alleen Aan Haar](https://open.spotify.com/album/5IoLPq5JBHEVoZjckG0sSP) | 3:12 | 2024-03-21 |  |
+| [Alleen Aan Haar](https://open.spotify.com/track/1zsf8jW6awRZXmLYx9DyQC) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Alleen Aan Haar](https://open.spotify.com/album/5IoLPq5JBHEVoZjckG0sSP) | 3:12 | 2024-03-21 | 2024-05-07 |
 | [Alles Al](https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Alles Al](https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP) | 3:04 | 2023-04-20 | 2023-08-18 |
 | [Alles Beweegt](https://open.spotify.com/track/65z7C8iBVk8V2v4e0lP0AH) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Beweegt](https://open.spotify.com/album/7tjy5mAxkLsYMCyLRXmLmC) | 3:47 | 2023-02-23 | 2023-03-25 |
 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 | 2023-10-05 | 2023-11-17 |
@@ -153,7 +153,7 @@
 | [Doodsbang](https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [FLEMMING](https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Door De Regen](https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Door De Regen](https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI) | 2:36 | 2023-11-02 | 2024-03-15 |
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2023-08-24 | 2023-11-03 |
-| [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 | 2024-01-25 |  |
+| [DOPAMINE](https://open.spotify.com/track/6Z0ydsxwmkKL8yPX0RFjT0) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [DOPAMINE](https://open.spotify.com/album/4kA2V4fDHI0krhrwkb5XDn) | 2:44 | 2024-01-25 | 2024-05-07 |
 | [Dopamine](https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Dopamine](https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9) | 2:54 | 2023-10-19 | 2023-11-03 |
 | [Down Met Jou](https://open.spotify.com/track/7zWceawn2oJgmlnSSXPxlm) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY), [Djé\-Rimo](https://open.spotify.com/artist/5a35K4Lx6ee2QY11vj7cGO) | [Down Met Jou](https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M) | 2:58 | 2023-06-30 | 2023-09-05 |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-08-17 | 2023-12-08 |
@@ -429,6 +429,7 @@
 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 | 2024-05-02 |  |
 | [SANGRIA](https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SANGRIA](https://open.spotify.com/album/0OwpIDXfSxvw0yDalHmR45) | 2:14 | 2023-07-20 | 2023-09-01 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-11-09 | 2024-03-08 |
+| [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-05-06 |  |
 | [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 | 2023-11-16 | 2024-02-16 |
 | [September](https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [September](https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv) | 3:53 | 2023-11-14 | 2023-11-18 |
 | [Sexy](https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Sexy](https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek) | 2:12 | 2023-04-20 | 2023-08-18 |
@@ -502,6 +503,7 @@
 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 | 2023-02-23 | 2023-04-07 |
 | [Verblind Door De Liefde](https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [Verblind Door De Liefde](https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI) | 2:11 | 2023-09-14 | 2023-12-22 |
 | [Verder Gaan](https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Verder Gaan](https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu) | 2:59 | 2024-03-21 |  |
+| [Verdwaald](https://open.spotify.com/track/5ABrsAMNpulySlQ7B5JCEG) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk), [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Verdwaald](https://open.spotify.com/album/0A9yFlt9tRacvGdznye7t0) | 2:53 | 2024-05-06 |  |
 | [Vergeven, Vergeten](https://open.spotify.com/track/6ID5NQlBr7RikVeC0jkKdH) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Vergeven, Vergeten](https://open.spotify.com/album/2hYdO6AFjcJVEqzcSwPAhE) | 3:34 | 2023-08-17 | 2023-09-01 |
 | [Verlaten](https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Verlaten](https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam) | 2:25 | 2023-10-12 | 2024-01-05 |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-13 | 2023-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Chani Nattan & Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,212 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,223 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 50 | [NO FLYING FCKS](https://open.spotify.com/track/0uhG0jUIigQvG3ydHLYUW7) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [YAAA EHHH](https://open.spotify.com/album/1CzMwwNPw9aYauCPdbmCDX) | 2:48 |
 | 51 | [Laisse\-moi](https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:14 |
 
-Snapshot ID: `ZjcA/AAAAAAKMCCHDmERWCZnfN0nVZGm`
+Snapshot ID: `ZjkJ6AAAAABHFIQUu7QkrQYaLBfacJa4`

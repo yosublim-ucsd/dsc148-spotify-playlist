@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ZI...?? Happy Children's Day!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,839 likes - 131 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,940 likes - 131 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

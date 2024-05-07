@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 158978,
       "name": "Another Night In London (feat. Gbnga)",
       "url": "https://open.spotify.com/track/1knnCPLEuUrwNwgJiQJ2hY"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 242240,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts (Vol. 2 / 1977-1982)",
+        "url": "https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "Battle Theme - Remastered 2011",
+      "url": "https://open.spotify.com/track/2SiJLvbD4COJYcJ14LR3cf"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 141687,
       "name": "Belong To The Wind",
       "url": "https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM"
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310386,
+      "name": "C\u00f3mo Te Extra\u00f1o Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1H3zbNUiALTXvLVmS77UzT"
+    },
+    {
+      "album": {
         "name": "Dance With U",
         "url": "https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu"
       },
@@ -4136,6 +4172,24 @@
       "duration_ms": 213906,
       "name": "Everything Matters",
       "url": "https://open.spotify.com/track/1rMlnD8S0hX7IHZXZDt3gH"
+    },
+    {
+      "album": {
+        "name": "Everything's Gonna Be Fine",
+        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Everything's Gonna Be Fine",
+      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
     },
     {
       "album": {
@@ -8628,7 +8682,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 227346,
       "name": "Narcisista por Excelencia",
       "url": "https://open.spotify.com/track/5IF1w7i1bTx3opewdRfZeM"
@@ -9508,7 +9562,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 231986,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/0q1WacGmrtCmF9pVU9EwQ6"
@@ -10014,7 +10068,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 207560,
       "name": "Present, Future, And Past",
       "url": "https://open.spotify.com/track/4ywZ7mVmlme6sq5O8vU00V"
@@ -10462,7 +10516,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 253267,
       "name": "Reservations",
       "url": "https://open.spotify.com/track/2Jn5B2ewyH4YfCWKKJEhF9"
@@ -11031,6 +11085,24 @@
     },
     {
       "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "album": {
         "name": "The Poison (Deluxe Version)",
         "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
       },
@@ -11172,7 +11244,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 287605,
       "name": "Sexo",
       "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
@@ -11334,7 +11406,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 350000,
       "name": "Silhouette of a Dancer (Live Version)",
       "url": "https://open.spotify.com/track/2Sq2EZfkolOJAucJuhLNIA"
@@ -11669,6 +11741,24 @@
     },
     {
       "album": {
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281413,
+      "name": "Somos Mar y Arena",
+      "url": "https://open.spotify.com/track/4dnTmXysdcGv01gPyLe0HR"
+    },
+    {
+      "album": {
         "name": "Naturaleza Sonidos",
         "url": "https://open.spotify.com/album/6dGGWJWQDIpLJQvQzBRFP2"
       },
@@ -11680,7 +11770,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 69511,
       "name": "Sonidos de Relajacion",
       "url": "https://open.spotify.com/track/2RNkl8g2OidaWUisrKfhlL"
@@ -12109,6 +12199,24 @@
     },
     {
       "album": {
+        "name": "Piece Of Mind (1998 Remastered Edition)",
+        "url": "https://open.spotify.com/album/3dFAfH33aNku65qm8IPS54"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Sun And Steel - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/3XbuNo1t4ijE5haKRuA4gU"
+    },
+    {
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -12276,7 +12384,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 166360,
       "name": "Tales Of Brave Ulysses",
       "url": "https://open.spotify.com/track/2mKY3LWyyLYgz3aFsHQk83"
@@ -12630,6 +12738,24 @@
       "duration_ms": 197000,
       "name": "The Burden (Interlude)",
       "url": "https://open.spotify.com/track/1zs3NwkHQJQ445DUvTof5T"
+    },
+    {
+      "album": {
+        "name": "The Top (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "The Caterpillar",
+      "url": "https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX"
     },
     {
       "album": {
@@ -13758,7 +13884,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 336533,
       "name": "Turn The Other Way",
       "url": "https://open.spotify.com/track/2L6O0QR2Zmjy04PeD7hGDS"
@@ -14112,6 +14238,24 @@
       "duration_ms": 210078,
       "name": "Ver Tus Ojos Mir\u00e1ndome",
       "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325666,
+      "name": "Vermilion - Alternate Mix; U.S. Edit Full Length [U.S. Edit Full Length]",
+      "url": "https://open.spotify.com/track/2P3InepiBsZzL9riFWgqql"
     },
     {
       "album": {
@@ -14516,7 +14660,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 206493,
       "name": "We R Who We R",
       "url": "https://open.spotify.com/track/1xBH7qTxO8Nbjl3Elb7m38"
@@ -14610,6 +14754,24 @@
       "duration_ms": 188173,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/42CWOvqqZF3JzWJHldoSKE"
+    },
+    {
+      "album": {
+        "name": "What If the Zombies Came",
+        "url": "https://open.spotify.com/album/7rVjYbABG2fsd0ENBwqina"
+      },
+      "artists": [
+        {
+          "name": "Call Atlantis",
+          "url": "https://open.spotify.com/artist/18wgr9laqerMI8i4b1mfy6"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "What If the Zombies Came",
+      "url": "https://open.spotify.com/track/1C2sQS5ALwc4DmVTkf0iiT"
     },
     {
       "album": {
@@ -15024,7 +15186,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 192506,
       "name": "Would You Still Be There",
       "url": "https://open.spotify.com/track/0hDu1i5CzExwSSe0Yq12AO"
@@ -15194,6 +15356,24 @@
       "duration_ms": 233840,
       "name": "Your Way With Words Is Through Silence",
       "url": "https://open.spotify.com/track/1sfYgIFEvgWAFsSnbiBKxr"
+    },
+    {
+      "album": {
+        "name": "Hammer of the Witches",
+        "url": "https://open.spotify.com/album/1HQzXaHfl8UOGb10cbPSWB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360954,
+      "name": "Yours Immortally...",
+      "url": "https://open.spotify.com/track/5AcjrL8YSvUHIeR2o3IkvF"
     },
     {
       "album": {

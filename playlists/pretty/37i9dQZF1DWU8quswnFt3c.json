@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Nil\u00fcfer",
-  "num_followers": 926745,
+  "num_followers": 926902,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "Talaarawan",
         "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 230218,
       "name": "Salamin, Salamin",
       "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "Mia Kaseta Gia Ton Dromo",
-        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
-      },
-      "artists": [
-        {
-          "name": "Marina Spanou",
-          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
-        }
-      ],
-      "duration_ms": 292478,
-      "name": "Taxidi",
-      "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "YUQ1",
         "url": "https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 171080,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "Mia Kaseta Gia Ton Dromo",
+        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "duration_ms": 292478,
+      "name": "Taxidi",
+      "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "\u6700\u7f8e\u7684\u5149\u8292",
-        "url": "https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "\u6700\u7f8e\u7684\u5149\u8292",
-      "url": "https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "Raat Ki Rani",
         "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 313311,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "\u6700\u7f8e\u7684\u5149\u8292",
+        "url": "https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "\u6700\u7f8e\u7684\u5149\u8292",
+      "url": "https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
+        "name": "Oby\u010dajnosti",
+        "url": "https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB"
+      },
+      "artists": [
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "duration_ms": 431923,
+      "name": "Mal\u00e1 zem",
+      "url": "https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
         "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
         "url": "https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE"
       },
@@ -611,38 +627,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "Oby\u010dajnosti",
-        "url": "https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB"
-      },
-      "artists": [
-        {
-          "name": "Jana Kirschner",
-          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
-        }
-      ],
-      "duration_ms": 431923,
-      "name": "Mal\u00e1 zem",
-      "url": "https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
-      },
-      "artists": [
-        {
-          "name": "Haven",
-          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
-        }
-      ],
-      "duration_ms": 177876,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "Lembras-te de mim? (feat. Carolina de Deus)",
         "url": "https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 194200,
       "name": "Lembras-te de mim? (feat. Carolina de Deus)",
       "url": "https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "duration_ms": 177876,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "PYRADISE",
-        "url": "https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y"
-      },
-      "artists": [
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "wet",
-      "url": "https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "HYPNOTIC",
         "url": "https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 134260,
       "name": "HYPNOTIC",
       "url": "https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "PYRADISE",
+        "url": "https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "wet",
+      "url": "https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN"
     },
     {
       "added_at": "2024-05-02 04:00:00",

@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 158400,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/075n6Vdn3LDL8t0zxzak1W"
@@ -3680,6 +3680,28 @@
       "duration_ms": 134838,
       "name": "NOMO (Never On My Own)",
       "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
+    },
+    {
+      "album": {
+        "name": "Not Gonna Worry",
+        "url": "https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Not Gonna Worry",
+      "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
     },
     {
       "album": {

@@ -1,13 +1,149 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 05 MAY",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 07 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIJxlURSOabR46Dt4QmUTV5eLj5nP1",
+  "snapshot_id": "AAAILavs1MZOGMI+/glZgI58RwlKPs9d",
   "tracks": [
+    {
+      "added_at": "2024-05-06 22:02:03",
+      "album": {
+        "name": "VEGETABLE (BRAIN DEAD)",
+        "url": "https://open.spotify.com/album/2MbH2QLMq2qaogGFMhw9ym"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "duration_ms": 142805,
+      "name": "VEGETABLE (BRAIN DEAD)",
+      "url": "https://open.spotify.com/track/2XOraVvSzyO2wFxmd9Jggt"
+    },
+    {
+      "added_at": "2024-05-06 22:02:03",
+      "album": {
+        "name": "Fruit Wine",
+        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 171854,
+      "name": "Fruit Wine",
+      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
+    },
+    {
+      "added_at": "2024-05-06 22:02:03",
+      "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
+    },
+    {
+      "added_at": "2024-05-06 22:02:03",
+      "album": {
+        "name": "Out of Frame",
+        "url": "https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "Sharks",
+          "url": "https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM"
+        },
+        {
+          "name": "L\u00daTHIEN",
+          "url": "https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Out of Frame",
+      "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
+    },
+    {
+      "added_at": "2024-05-06 22:02:03",
+      "album": {
+        "name": "pull/toxic",
+        "url": "https://open.spotify.com/album/2cHR90fHazFTXJEUK13pHh"
+      },
+      "artists": [
+        {
+          "name": "emorave",
+          "url": "https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM"
+        }
+      ],
+      "duration_ms": 127242,
+      "name": "pull/toxic",
+      "url": "https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5"
+    },
+    {
+      "added_at": "2024-05-06 10:03:00",
+      "album": {
+        "name": "Wrong Side of the River",
+        "url": "https://open.spotify.com/album/7wE4q2uQ3JO6WWOpYSRQEx"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Wrong Side of the River",
+      "url": "https://open.spotify.com/track/4qU9spVZ3sd3SDTwnvD39v"
+    },
+    {
+      "added_at": "2024-05-06 10:03:00",
+      "album": {
+        "name": "not askin 4 much",
+        "url": "https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "duration_ms": 133008,
+      "name": "not askin 4 much",
+      "url": "https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG"
+    },
+    {
+      "added_at": "2024-05-06 10:03:00",
+      "album": {
+        "name": "Charlie Chaplin Ate My Son",
+        "url": "https://open.spotify.com/album/63m66lhJxLFySOGRjBMAjX"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobb",
+          "url": "https://open.spotify.com/artist/1jIl0sLvlOzGpT2RqPBfyE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Charlie Chaplin Ate My Son",
+      "url": "https://open.spotify.com/track/3Sl9f6fSRnSGqeR1KXCrUq"
+    },
     {
       "added_at": "2024-05-05 10:02:31",
       "album": {
@@ -303,152 +439,8 @@
       "duration_ms": 199385,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN"
-    },
-    {
-      "added_at": "2024-05-03 22:02:21",
-      "album": {
-        "name": "Vision Remix (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Vision Remix (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-05-03 22:02:21",
-      "album": {
-        "name": "rock your hips",
-        "url": "https://open.spotify.com/album/4in0jpu0DHc0iJV4iDDUpe"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "rock your hips",
-      "url": "https://open.spotify.com/track/2LVhYv6hCcabNh1bgPYKus"
-    },
-    {
-      "added_at": "2024-05-03 22:02:21",
-      "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
-    },
-    {
-      "added_at": "2024-05-03 22:02:21",
-      "album": {
-        "name": "won't tell nobody",
-        "url": "https://open.spotify.com/album/2LsTICWvgZu8Tso34oYadT"
-      },
-      "artists": [
-        {
-          "name": "Dazegxd",
-          "url": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL"
-        }
-      ],
-      "duration_ms": 158254,
-      "name": "won't tell nobody",
-      "url": "https://open.spotify.com/track/7jxLkl234kVur0WIjJjuYP"
-    },
-    {
-      "added_at": "2024-05-03 22:02:21",
-      "album": {
-        "name": "Big Piranhas",
-        "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Big Piranhas",
-      "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
-    },
-    {
-      "added_at": "2024-05-03 10:03:25",
-      "album": {
-        "name": "Whatsapp (Wassam)",
-        "url": "https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Whatsapp (Wassam)",
-      "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
-    },
-    {
-      "added_at": "2024-05-03 10:03:25",
-      "album": {
-        "name": "Sacrifice Tomorrow",
-        "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 145622,
-      "name": "Sacrifice Tomorrow",
-      "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
-    },
-    {
-      "added_at": "2024-05-03 10:03:25",
-      "album": {
-        "name": "King tonka",
-        "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 125544,
-      "name": "King tonka",
-      "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 05 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 07 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

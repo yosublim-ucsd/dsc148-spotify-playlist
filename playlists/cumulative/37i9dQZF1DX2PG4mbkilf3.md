@@ -4,7 +4,7 @@
 
 > This is r&b in Canada, elevate your aura with Charlotte Day Wilson.
 
-1,026 songs - 2 day 6 hr 8 min
+1,027 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [Muérete](https://open.spotify.com/track/0MImwjD2hIF9IPTMrvmFrW) | [Mellkit](https://open.spotify.com/artist/5uaLayT83kVy0LvmuaETLK), [Nueva Vista](https://open.spotify.com/artist/2OP62XgfFu4Ye4ng4X2e9e) | [Muérete](https://open.spotify.com/album/6HdX5u8SC37jWZxg77IOZo) | 2:51 | 2022-03-11 | 2022-03-26 |
 | [My Life](https://open.spotify.com/track/1GemkfW3Od4AQ1KQJezJQ4) | [ELEV8](https://open.spotify.com/artist/2jTh0KE644XMABYAXTBvme) | [My Life](https://open.spotify.com/album/7MQXsHNMYbtyj03jwnyTX1) | 3:04 | 2022-07-22 | 2022-09-10 |
 | [My Pleasure](https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Naja](https://open.spotify.com/artist/11oXgFCwu3o6prxhmaRBJ7) | [HOW TO MAKE LOVE](https://open.spotify.com/album/7DmTz8IJFvLvs59Pvr0EPR) | 4:41 | 2022-11-04 | 2023-02-25 |
+| [My Way](https://open.spotify.com/track/5PFNNFzXDmLBPrcmpO5EYW) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4) | 3:29 | 2024-05-06 |  |
 | [Myself](https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b) | [FABD](https://open.spotify.com/artist/31oeYPedW4SdPumsV9936x), [Montrealways](https://open.spotify.com/artist/3m1PSRpCJ7tHzxKTQUBY97), [Amalia and Nino Flamenco](https://open.spotify.com/artist/3xxh1pZMrFmT10VBJyzhLq) | [Myself](https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS) | 3:18 | 2022-02-18 | 2022-03-05 |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-06 | 2022-06-04 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-24 | 2023-04-29 |

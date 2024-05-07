@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 18999,
+  "num_followers": 19070,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAACWnaVoQSHugCD8n5MhcGCr",
+  "snapshot_id": "ZjbMAAAAAACtT3ugagtqtkRoB+VuXwM2",
   "tracks": [
     {
       "added_at": null,
@@ -91,46 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RICK OWENS (feat. Ken Carson)",
-        "url": "https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130136,
-      "name": "RICK OWENS (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 149892,
-      "name": "Succubus",
-      "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "President (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
       },
@@ -151,6 +111,46 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 149892,
+      "name": "Succubus",
+      "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RICK OWENS (feat. Ken Carson)",
+        "url": "https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 116871,
-      "name": "Teen X Babe",
-      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homixide Lifestyle",
         "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 178285,
       "name": "Stunt",
       "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 116871,
+      "name": "Teen X Babe",
+      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-19",
-  "description": "This Is Hozier. Los temas esenciales, todos en una lista.",
+  "description": "This is Hozier. The essential tracks, all in one playlist.",
   "name": "This Is Hozier",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 248333,
       "name": "Why Would You Be Loved",
       "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"

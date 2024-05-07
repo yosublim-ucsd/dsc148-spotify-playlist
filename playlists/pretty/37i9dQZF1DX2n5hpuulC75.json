@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258491,
+  "num_followers": 258513,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Edition",
         "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Where Will We Go, Pt. 2",
-        "url": "https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 299839,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
     },
     {
       "added_at": "2018-12-11 21:12:31",

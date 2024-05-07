@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-376 songs - 21 hr 21 min
+377 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [First Law of Nature Rock Day \(feat\. Denmark Vessey\)](https://open.spotify.com/track/7Fgau8g1vPWm9cIVcG3JU9) | [Dabrye](https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ) | [Three/Three](https://open.spotify.com/album/4lS4VoFPUEibJzxjzTeosc) | 3:32 | 2021-12-16 | 2022-07-29 |
 | [Flashback](https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd) | 2:33 | 2023-02-09 | 2024-02-10 |
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2021-12-16 | 2022-11-20 |
-| [Flowers On The Weekend](https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 2:32 | 2022-04-11 |  |
+| [Flowers On The Weekend](https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 2:32 | 2022-04-11 | 2024-05-07 |
 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 | 2023-09-21 |  |
 | [FORKS ON THE ROAD](https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [FORKS ON THE ROAD](https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs) | 3:03 | 2024-04-05 |  |
 | [Fossils](https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg) | [Loop Faction](https://open.spotify.com/artist/1f0dZqs2JpuHbHDtxaNdKq), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [Fossils](https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG) | 2:47 | 2021-12-16 | 2022-07-29 |
@@ -226,6 +226,7 @@
 | [Make It Happen](https://open.spotify.com/track/5wFSWUVoztfAzENetY2FNZ) | [Glad2Mecha](https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ), [Ill Treats](https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk), [Grand Puba](https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K) | [The Return \(Deluxe Edition\)](https://open.spotify.com/album/00z50uIcE2E3V7i1LLwOcv) | 2:27 | 2022-04-11 | 2022-11-19 |
 | [Make You Feel That Way](https://open.spotify.com/track/21Or4x0SUcPHFogz1Eyi3D) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/4s6LSpMSN46DASpTUVSSNQ) | 3:26 | 2022-04-11 | 2022-04-17 |
 | [Make You Feel That Way](https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc) | 3:26 | 2022-07-28 | 2024-04-19 |
+| [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-06 |  |
 | [Mellow My Man](https://open.spotify.com/track/71RgnWLv0ktFfH3cvB7XzU) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/2OXILBis5WW87lA28hOewX) | 4:41 | 2021-12-16 | 2022-07-29 |
 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 | 2024-01-24 | 2024-04-19 |
 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 | 2022-07-28 | 2024-01-25 |

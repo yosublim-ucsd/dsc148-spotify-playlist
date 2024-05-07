@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-315 songs - 14 hr 16 min
+317 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Like I Do](https://open.spotify.com/track/3JSCR3Zj2u7AoPMeJ7jFMs) | [Conner Fox](https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn) | [Like I Do](https://open.spotify.com/album/61h7NkJQwPVYg2kv3NJPiu) | 2:14 | 2024-04-19 |  |
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 | 2022-07-13 |  |
 | [Living the Day](https://open.spotify.com/track/78gMlIZUmlr5uNF1B02z4X) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [PRSM](https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9) | [Living the Day](https://open.spotify.com/album/6CLC2OjZ0D5NBrgDj4MXHW) | 2:34 | 2024-02-02 | 2024-03-02 |
+| [Lonely Heart](https://open.spotify.com/track/7LVaG8MWdLjHd55rKo3Tt2) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Lonely Heart](https://open.spotify.com/album/4aGueMl92vql78DDgX1IiL) | 2:24 | 2024-05-06 |  |
 | [Long Island](https://open.spotify.com/track/26edX6Ce1xLb780DyRkLK4) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Long Island](https://open.spotify.com/album/7abIIrnjL0Q71hCv5v9ZLq) | 2:46 | 2024-02-02 | 2024-03-16 |
 | [Lose You](https://open.spotify.com/track/4dQvbXG3qNj0RbTn56SDya) | [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Lose You](https://open.spotify.com/album/4inY3Cim2lUd4ad6pvBYK4) | 2:25 | 2024-02-02 | 2024-03-02 |
 | [Losing Control](https://open.spotify.com/track/5GlHhkwbdIvUQzGmj4kZ93) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Losing Control](https://open.spotify.com/album/7MXGZTG0YLLAoGRtN8qH8z) | 2:41 | 2024-03-01 | 2024-03-30 |
@@ -250,6 +251,7 @@
 | [Somebody Else](https://open.spotify.com/track/7EkqgNhGFI93Qqiv9099q5) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Somebody Else](https://open.spotify.com/album/5aL2RjkZohXkLZS9x8BcbP) | 2:09 | 2024-05-03 |  |
 | [Someone You Loved](https://open.spotify.com/track/0KwBY9xAHCQlPpWj6smYpb) | [DJ Alex Man](https://open.spotify.com/artist/2LWTGoof8RKOgZTgnyatSk), [Dj Diac](https://open.spotify.com/artist/2OHXRrSozCFXJZ8xiiobvE), [Britt](https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1) | [Someone You Loved](https://open.spotify.com/album/1fGt37tcI475lI7KoEnRTK) | 2:47 | 2024-01-19 | 2024-02-24 |
 | [Space 2 Breathe \- Radio Edit](https://open.spotify.com/track/6yAhLCiuH22cNUzNlBv5n9) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ) | [Space 2 Breathe](https://open.spotify.com/album/2nG2hYjwC3QexiUJKr2Vdg) | 2:32 | 2024-04-26 |  |
+| [Stay](https://open.spotify.com/track/2xiO9h2XdSA0PcaG8cKADj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Stay](https://open.spotify.com/album/2iLGxDPfxhvDtIQGYcRLZP) | 2:10 | 2024-05-06 |  |
 | [Still Standing](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Still Standing](https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY) | 2:15 | 2024-01-05 |  |
 | [Stole The Show](https://open.spotify.com/track/1SliPnarWMr2ABCvXzcU0k) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Britt](https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1) | [Stole The Show](https://open.spotify.com/album/3JhPrgL6Pq0xNBfw6CqK6u) | 3:07 | 2024-02-23 | 2024-04-15 |
 | [Stolen Dance](https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 5:13 | 2023-11-24 |  |

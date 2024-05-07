@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 193857,
+  "num_followers": 193928,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAAB8xqR/ZTT9qH9E9DegkXx3",
+  "snapshot_id": "ZjbMAAAAAABpXBK+ZsW0ax+sU7I6IHw3",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decided 2",
-        "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
+        "name": "Hunger Games 3",
+        "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
       },
       "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 243037,
-      "name": "Better Than Ever (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
+      "duration_ms": 176035,
+      "name": "Heart 4 Sale",
+      "url": "https://open.spotify.com/track/3WqWKsKNFjhPGk4xPls6rX"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hunger Games 3",
-        "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
+        "name": "Decided 2",
+        "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
       },
       "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 176035,
-      "name": "Heart 4 Sale",
-      "url": "https://open.spotify.com/track/3WqWKsKNFjhPGk4xPls6rX"
+      "duration_ms": 243037,
+      "name": "Better Than Ever (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> Celebrating the powerful voices of Latin music\. Cover: Shakira
+> Celebrating the powerful voices of Latin music\. Cover: KAROL G
 
 309 songs - 16 hr 42 min
 

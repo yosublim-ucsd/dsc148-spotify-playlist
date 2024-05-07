@@ -3656,10 +3656,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 177208,
       "name": "IO, ME ED ALTRI GUAI",
       "url": "https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L"
+    },
+    {
+      "album": {
+        "name": "Pino Daniele (2008 - Remaster)",
+        "url": "https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Je So' Pazzo - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg"
     },
     {
       "album": {

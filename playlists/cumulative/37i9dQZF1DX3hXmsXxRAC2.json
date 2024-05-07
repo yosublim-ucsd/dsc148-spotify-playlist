@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 333115,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/5b2uPv5SDLm39Wtp5I7ljQ"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 324573,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 303002,
       "name": "As\u00ed fue",
       "url": "https://open.spotify.com/track/4dFc72DtGBs7h3R6y9FcUR"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 219426,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/6zK5tOGHpOmkYwf28ur9oU"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 254986,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 253253,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/6a8S3GwLGN71SynG79zBfX"
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/0R3jFSMsqwOlzGH5itZj4r"
+    },
+    {
+      "album": {
         "name": "Las Caras Lindas",
         "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
       },
@@ -1262,6 +1280,24 @@
       "duration_ms": 299035,
       "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
       "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
+    },
+    {
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Juro Que Nunca Volvere",
+      "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
     },
     {
       "album": {
@@ -1496,6 +1532,24 @@
       "duration_ms": 251666,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27"
+    },
+    {
+      "album": {
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316760,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/2NBj0ydQlTI6Xg9D5SP8dh"
     },
     {
       "album": {
@@ -1979,6 +2033,42 @@
     },
     {
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
+    },
+    {
+      "album": {
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
+    },
+    {
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -2044,7 +2134,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 280080,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU"
@@ -2106,7 +2196,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 423653,
       "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
       "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
@@ -2204,6 +2294,24 @@
       "duration_ms": 209040,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
+    },
+    {
+      "album": {
+        "name": "A 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Querida - Remasterizado",
+      "url": "https://open.spotify.com/track/2e28L2PaIKf79jxwxahRfh"
     },
     {
       "album": {
@@ -2341,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/4rYXic5FvIAtP6DnWP0yya"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/1wBTZeS7UH0uq7V1PtJqoa"
+    },
+    {
+      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -2356,6 +2482,24 @@
       "duration_ms": 244626,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
+    },
+    {
+      "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/68l8HTNeB8mDv2Yl3C3DSF"
     },
     {
       "album": {
@@ -2462,6 +2606,24 @@
       "duration_ms": 179400,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
+    },
+    {
+      "album": {
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Te Lo Pido Por Favor",
+      "url": "https://open.spotify.com/track/6N5SqUoEdM4JU0YOGZfPyT"
     },
     {
       "album": {
@@ -2794,6 +2956,24 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+    },
+    {
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270860,
+      "name": "Yo No Naci Para Amar",
+      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "album": {

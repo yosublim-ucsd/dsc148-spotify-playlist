@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298168,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
+    },
+    {
+      "album": {
         "name": "Dogma",
         "url": "https://open.spotify.com/album/5FrVcqShI72lMOdO1MaHbe"
       },
@@ -838,6 +860,28 @@
       "duration_ms": 458536,
       "name": "Drop",
       "url": "https://open.spotify.com/track/280MAieXlafXYfF6C7lhIl"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde Est\u00e1n (Remixes)",
+        "url": "https://open.spotify.com/album/0ewNlSufsdKkiLeqk6gTkG"
+      },
+      "artists": [
+        {
+          "name": "Matias Sundblad",
+          "url": "https://open.spotify.com/artist/6qCp2JWyWiUIyFdRmrATWa"
+        },
+        {
+          "name": "SIMONN (AR)",
+          "url": "https://open.spotify.com/artist/3UrSAFzlXZqcABY6Pos59J"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "D\u00f3nde Est\u00e1n - SIMONN Remix",
+      "url": "https://open.spotify.com/track/5hyHhTB1Cae2kLI3dMhxh5"
     },
     {
       "album": {
@@ -2820,6 +2864,24 @@
       "duration_ms": 537523,
       "name": "Stranded Mind - Extended Mix",
       "url": "https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6"
+    },
+    {
+      "album": {
+        "name": "Synchronic",
+        "url": "https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T"
+      },
+      "artists": [
+        {
+          "name": "Pfirter",
+          "url": "https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295760,
+      "name": "Synchronic",
+      "url": "https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd"
     },
     {
       "album": {

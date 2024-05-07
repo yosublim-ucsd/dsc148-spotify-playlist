@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6141,
+  "num_followers": 6142,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAADwLBLSePoO/0keuRzHT2vS",
+  "snapshot_id": "ZjbMAAAAAACzJO9xSS14Tx+pAbTVdPIF",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Muscle Junkie",
-      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+      "duration_ms": 225858,
+      "name": "Slow Down Sonic",
+      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 225858,
-      "name": "Slow Down Sonic",
-      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
     },
     {
       "added_at": null,

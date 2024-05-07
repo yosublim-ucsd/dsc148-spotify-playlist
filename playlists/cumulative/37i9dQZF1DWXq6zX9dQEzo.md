@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-584 songs - 1 day 4 hr 42 min
+585 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [DAY ONES](https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ) | [DAY ONES](https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD) | 3:12 | 2022-07-17 | 2023-11-18 |
 | [DEAD OR ALIVE](https://open.spotify.com/track/6uMOXc2gcS8ARTNhfAaCf3) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [DEAD OR ALIVE](https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx) | 2:40 | 2023-11-02 | 2024-02-03 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-11 |  |
-| [Diamond](https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Diamond](https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV) | 2:43 | 2024-02-02 |  |
+| [Diamond](https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Diamond](https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV) | 2:43 | 2024-02-02 | 2024-05-07 |
 | [Die Empty](https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Major Moves](https://open.spotify.com/album/5oqZoHiDMif50YtaUs5sBz) | 4:10 | 2022-11-04 | 2023-12-02 |
 | [Dios Es la Vuelta](https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Dios Es la Vuelta](https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M) | 2:35 | 2022-12-16 | 2023-08-12 |
 | [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 | 2022-07-17 | 2022-08-05 |
@@ -577,6 +577,7 @@
 | [Wodie](https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [My Life is a Beautiful Mess](https://open.spotify.com/album/3zLpAKNkbyIAzJLLZ3mIVA) | 2:51 | 2022-02-04 | 2023-08-12 |
 | [Woke Up This Morning](https://open.spotify.com/track/6vC4hjC6BhpDzFh69LV6Mh) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Wes Writer](https://open.spotify.com/artist/4mqKTYiFfZKN9SI9QLzEE1) | [Woke Up This Morning](https://open.spotify.com/album/7uTOeMG0rI5mJ7KGgvoNGn) | 3:01 | 2022-03-11 | 2022-03-24 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2022-05-28 | 2023-08-12 |
+| [Working it out](https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc) | [Josh Lecroy](https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy), [Hannah Barr](https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty) | [Working it out](https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp) | 2:56 | 2024-03-20 |  |
 | [WORKOUT](https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WORKOUT](https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip) | 1:56 | 2023-11-02 |  |
 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 | 2022-02-04 | 2022-12-17 |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 5:29 | 2023-08-11 | 2023-11-03 |

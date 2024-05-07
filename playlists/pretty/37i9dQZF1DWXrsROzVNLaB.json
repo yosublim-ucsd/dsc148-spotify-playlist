@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11658,
+  "num_followers": 11656,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "Celebration at the Empty Grave",
+        "url": "https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Celebration at the Empty Grave",
+      "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
-        "name": "Celebration at the Empty Grave",
-        "url": "https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d"
+        "name": "For His Glory",
+        "url": "https://open.spotify.com/album/0uoCXagv4rK7wK6EQMGIaO"
       },
       "artists": [
         {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Celebration at the Empty Grave",
-      "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
+      "duration_ms": 252320,
+      "name": "That's Why They Call It Grace",
+      "url": "https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5"
     },
     {
       "added_at": "2024-03-20 11:31:22",
@@ -1287,22 +1303,6 @@
       "duration_ms": 319804,
       "name": "Love Shines - Acoustic Version",
       "url": "https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "For His Glory",
-        "url": "https://open.spotify.com/album/0uoCXagv4rK7wK6EQMGIaO"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "That's Why They Call It Grace",
-      "url": "https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5"
     }
   ],
   "unique_name": "Holy Week: Easter",

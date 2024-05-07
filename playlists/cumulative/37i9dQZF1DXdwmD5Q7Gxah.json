@@ -11697,6 +11697,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work (From Hacks Season 3)",
+        "url": "https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192225,
+      "name": "Dirty Work (From Hacks Season 3)",
+      "url": "https://open.spotify.com/track/3nzR13bHUZQRNnWHuxEf2h"
+    },
+    {
+      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },

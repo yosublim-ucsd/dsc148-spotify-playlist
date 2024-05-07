@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,105 songs - 6 day 12 hr 53 min
+4,106 songs - 6 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2448,6 +2448,7 @@
 | [Nightfall](https://open.spotify.com/track/5p7nYKpEKnziLYyRugmSty) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Wezt MAAD](https://open.spotify.com/artist/1hwXiwb02GgcXPuAewKCmF) | [Nightfall](https://open.spotify.com/album/7IDbNx1VdTokt14OppLRhj) | 2:34 | 2022-07-14 | 2022-07-19 |
 | [Nightfall](https://open.spotify.com/track/2prrXGmfdxjd3mbmJt2Aqg) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Nightfall](https://open.spotify.com/album/3odg75eIm8VTTKBhlwNS0P) | 2:34 | 2019-05-26\* | 2019-08-13 |
 | [Nightfall](https://open.spotify.com/track/7z1o8dnWAAP2gH77okBZGU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Nightfall](https://open.spotify.com/album/3DdttwCQckX40TDTUjotSc) | 2:15 | 2021-07-24 | 2021-08-27 |
+| [Nightmare](https://open.spotify.com/track/6winapAWCOXBzQAAGWjiDq) | [Lesfm](https://open.spotify.com/artist/3cjxUpsyr916tEX0DBBSGH), [Chillmore](https://open.spotify.com/artist/7kyL3H7gmoSEFuzdrQDlWn) | [Nightmare](https://open.spotify.com/album/3lybkHBsIlsV46gReFO9I8) | 2:18 | 2024-05-02 |  |
 | [Nightrider](https://open.spotify.com/track/3ikBNDkmAylDMU1KWV6YpK) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Nightrider](https://open.spotify.com/album/6zJolBGXVvjsJAYmXCNNme) | 1:42 | 2021-03-19 | 2021-08-20 |
 | [Nights](https://open.spotify.com/track/5sMswUPM98v9dYgnGDkmB6) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Nights](https://open.spotify.com/album/1ZFhHmCaFcYTPwm9gybx6n) | 2:04 | 2021-10-29 | 2022-01-14 |
 | [Nightshade](https://open.spotify.com/track/4SRTUboNxe8dNI57JaSZBH) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Nightshade](https://open.spotify.com/album/4fFtokbERXuLI8m12ZBaFM) | 1:54 | 2023-08-24 | 2023-10-13 |
@@ -3923,7 +3924,7 @@
 | [Wasserman](https://open.spotify.com/track/5XLdeokqiGx9zjqYaaLigL) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Wasserman](https://open.spotify.com/album/2uQRFWeuTZ1dACFrCcGMEv) | 2:10 | 2023-09-14 |  |
 | [Waste Of Space](https://open.spotify.com/track/2mTl8mWVHMDlceeBNsnHsG) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Planet B](https://open.spotify.com/album/6gelXCzb1DhXSpRAAC8nFT) | 2:14 | 2020-08-31 | 2021-04-02 |
 | [Wastin my Time](https://open.spotify.com/track/2Nb7ni2c5pxtWSJ359tj1d) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Volare](https://open.spotify.com/album/5IJ2EC7fTOrQH3c79etT5u) | 2:55 | 2021-12-12 | 2022-01-28 |
-| [Wataridori](https://open.spotify.com/track/7eUbVPRjLznyvOOXyOSrCD) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Wataridori](https://open.spotify.com/album/5vZwHEPUwpf4Q5BfW3lo6H) | 1:57 | 2024-04-25 |  |
+| [Wataridori](https://open.spotify.com/track/7eUbVPRjLznyvOOXyOSrCD) | [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Wataridori](https://open.spotify.com/album/5vZwHEPUwpf4Q5BfW3lo6H) | 1:57 | 2024-04-25 | 2024-05-07 |
 | [Watching Dolphins](https://open.spotify.com/track/51HwL9lyvHfw9dqqtbK1bK) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Watching Dolphins](https://open.spotify.com/album/45gKarLdsbB8ZBjEHRZdXZ) | 1:51 | 2021-10-16 | 2021-11-19 |
 | [Watching The Birds](https://open.spotify.com/track/47kNEuHPyJn4rlZM9JpkCa) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Watching The Birds](https://open.spotify.com/album/5CuREhkOU2BETmGtkLh80u) | 2:36 | 2023-10-19 | 2023-11-14 |
 | [water](https://open.spotify.com/track/3XcILEFUyTtHjEjPqDemTh) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [water](https://open.spotify.com/album/3HX5QFgWpA81lhi5UlqSyR) | 2:30 | 2019-09-27 | 2020-03-06 |

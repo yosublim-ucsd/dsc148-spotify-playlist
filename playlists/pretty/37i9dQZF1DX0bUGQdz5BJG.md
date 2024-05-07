@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kelsey Hart
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,114 likes - 205 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,194 likes - 205 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

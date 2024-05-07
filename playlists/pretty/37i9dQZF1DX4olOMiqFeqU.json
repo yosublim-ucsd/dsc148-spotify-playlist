@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2371401,
+  "num_followers": 2371700,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,22 @@
     {
       "added_at": "2024-04-17 05:50:07",
       "album": {
-        "name": "Nobela",
-        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+        "name": "3rd Time\u2019s A Charm",
+        "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
       },
       "artists": [
         {
-          "name": "Join The Club",
-          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
         }
       ],
-      "duration_ms": 291506,
-      "name": "Nobela",
-      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+      "duration_ms": 260000,
+      "name": "Gusto",
+      "url": "https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi"
     },
     {
       "added_at": "2024-04-17 05:50:07",
@@ -559,6 +563,22 @@
     {
       "added_at": "2024-04-17 05:50:07",
       "album": {
+        "name": "Nobela",
+        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+      },
+      "artists": [
+        {
+          "name": "Join The Club",
+          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "Nobela",
+      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+    },
+    {
+      "added_at": "2024-04-17 05:50:07",
+      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
-    },
-    {
-      "added_at": "2024-04-17 05:50:07",
-      "album": {
-        "name": "3rd Time\u2019s A Charm",
-        "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Gusto",
-      "url": "https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi"
     },
     {
       "added_at": "2024-04-17 05:50:07",

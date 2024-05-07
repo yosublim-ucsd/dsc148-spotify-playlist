@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Delilah
 
-798 songs - 1 day 16 hr 58 min
+799 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 | 2022-10-14 | 2023-03-04 |
 | [Los lujos del 37](https://open.spotify.com/track/46fRxxYHHKCjYDAX49OMT6) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Los lujos del 37](https://open.spotify.com/album/0qQZ7ity1lDkqpcXjV9Hba) | 3:03 | 2023-09-22 | 2023-11-25 |
 | [Los Pajaritos](https://open.spotify.com/track/1LSft20sUNDb1NORaOIrLh) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Los Pajaritos](https://open.spotify.com/album/7grmYIPShevuNVsvjPPlLp) | 3:31 | 2023-06-23 | 2023-07-23 |
-| [Los Ranas](https://open.spotify.com/track/6K07cEuT04y6LCAtATdMK8) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Los Ranas](https://open.spotify.com/album/6PweBjcTH5wKkOuJeVWCL5) | 3:07 | 2024-03-29 |  |
+| [Los Ranas](https://open.spotify.com/track/6K07cEuT04y6LCAtATdMK8) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Los Ranas](https://open.spotify.com/album/6PweBjcTH5wKkOuJeVWCL5) | 3:07 | 2024-03-29 | 2024-05-07 |
 | [Los Verdes](https://open.spotify.com/track/4ofofqYez8kibiUHjt15GM) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Los Verdes](https://open.spotify.com/album/6sIiL8o7zvpjSOVC8QLY65) | 2:24 | 2023-05-26 | 2023-09-09 |
 | [LTMA](https://open.spotify.com/track/2180OKo5exwyPswlzK5Lrz) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [LTMA](https://open.spotify.com/album/1WDMkmmU6wzlcPskWZOGFo) | 3:29 | 2023-12-15 | 2024-01-13 |
 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 | 2024-04-12 |  |
@@ -561,6 +561,7 @@
 | [Odio Amarte](https://open.spotify.com/track/0HXwimM3Gvx1JqVO7MjDVJ) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Corazón Confundido](https://open.spotify.com/album/5TCnntTixw3ZRlIfghFYzE) | 2:08 | 2023-09-08 | 2023-11-25 |
 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 | 2023-06-23 | 2023-09-09 |
 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-28 | 2023-09-09 |
+| [Ojitos Rojos](https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ojitos Rojos](https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU) | 3:01 | 2024-05-06 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 | 2023-02-24 | 2023-05-27 |
 | [Ojos De Estrella](https://open.spotify.com/track/49UYxziMHhV9KHWfE0p89Y) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MMV](https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg) | 2:58 | 2024-01-19 | 2024-04-13 |
 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 | 2022-09-23 | 2023-02-25 |

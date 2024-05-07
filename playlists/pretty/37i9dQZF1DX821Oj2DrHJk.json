@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28990,
+  "num_followers": 28989,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "Davy's on the Road Again",
+      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Suzi Quatro",
         "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 289360,
       "name": "Over the Hills and Far Away - 1990 Remaster",
       "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "Davy's on the Road Again",
-      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
     },
     {
       "added_at": "2022-11-17 16:14:04",

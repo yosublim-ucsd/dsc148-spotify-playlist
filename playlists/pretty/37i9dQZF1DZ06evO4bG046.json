@@ -1,29 +1,13 @@
 {
-  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
-  "num_followers": 32797,
+  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
+  "num_followers": 32805,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpAAAAAACtJYm8Um+SpNz3AKAqo1R9",
+  "snapshot_id": "ZjbMAAAAAABdq8EIJWpa9vXWIg8FA0mG",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Hijos de la Tierra",
-      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 286506,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
         "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 415653,
       "name": "Cerro de la Virgen",
       "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "Vamos por Ancho Camino",
-      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hijos de la Tierra",
         "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 388800,
       "name": "Tan Lejos del Sol",
       "url": "https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Vamos por Ancho Camino",
+      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
     },
     {
       "added_at": null,

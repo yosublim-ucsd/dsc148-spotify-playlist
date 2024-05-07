@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322775,
+      "name": "Finire",
+      "url": "https://open.spotify.com/track/5TZ65mVDwl9O8MJiPhxd1f"
+    },
+    {
+      "album": {
         "name": "Nordic Flora Series, Pt. 3: Gore-Tex City",
         "url": "https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU"
       },
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 210720,
       "name": "Megalomania",
       "url": "https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 118546,
       "name": "Standing Vigilant",
       "url": "https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga"

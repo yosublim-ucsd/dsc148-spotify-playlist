@@ -2,7 +2,7 @@
 
 ### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
+> This Is Maaya Sakamoto\. Los temas esenciales, todos en una lista.
 
 110 songs - 8 hr 19 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 410273,
+  "num_followers": 410403,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Amor Real",
-        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 232826,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
+      "duration_ms": 382026,
+      "name": "Cantamos A \u00c9l",
+      "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "Amor Real",
+        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
         }
       ],
-      "duration_ms": 382026,
-      "name": "Cantamos A \u00c9l",
-      "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
+      "duration_ms": 232826,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jhoni",
-        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+        "name": "SEU Worship HOLA",
+        "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
       "artists": [
         {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Haremos",
-      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+      "duration_ms": 369420,
+      "name": "Gracia",
+      "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "SEU Worship HOLA",
-        "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
+        "name": "Jhoni",
+        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
         }
       ],
-      "duration_ms": 369420,
-      "name": "Gracia",
-      "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
+      "duration_ms": 201600,
+      "name": "Haremos",
+      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6HqN69wrOzLJYaJPMmxLwx"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 202000,
       "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6HqN69wrOzLJYaJPMmxLwx"
     },
     {
       "added_at": "2021-05-21 19:19:27",

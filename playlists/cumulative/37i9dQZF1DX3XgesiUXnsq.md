@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-670 songs - 1 day 13 hr 15 min
+671 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 | 2023-12-08 |  |
 | [Mathuniversal](https://open.spotify.com/track/3sUjM8QS6Xy13d85nAriep) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Mathuniversal](https://open.spotify.com/album/7DCFak49YvfDHzDz5XIXGd) | 1:54 | 2023-09-22 | 2023-12-02 |
 | [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 | 2023-03-03 | 2023-04-22 |
+| [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-06 |  |
 | [Menace](https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Menace](https://open.spotify.com/album/3NHMwyxXdUe3TiIu9CNtWg) | 3:49 | 2022-07-01 | 2022-11-26 |
 | [Mezmorized](https://open.spotify.com/track/3bwhl6x6S42hMFrwigJaFw) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Kush & Orange Juice](https://open.spotify.com/album/2pLTbgxy2KdH2DcHSotvDk) | 4:28 | 2022-04-29 | 2023-02-04 |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-11 | 2023-02-11 |

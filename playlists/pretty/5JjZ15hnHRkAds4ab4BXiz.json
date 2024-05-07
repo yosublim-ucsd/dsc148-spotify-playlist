@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAABIDLdz7WQu/HjwPyuVvWmjDjDsv/t",
+  "snapshot_id": "AAABIUH0wOGUT/eUhBVJ+z6dEajQYUNx",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -3491,6 +3491,22 @@
       "duration_ms": 296000,
       "name": "Space Garden",
       "url": "https://open.spotify.com/track/0ydmFrXktLZghHLW6Axytj"
+    },
+    {
+      "added_at": "2024-05-06 22:03:54",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
     }
   ],
   "unique_name": "Ballads",

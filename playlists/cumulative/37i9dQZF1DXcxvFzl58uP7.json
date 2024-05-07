@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Sunday (1994)",
+        "url": "https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283404,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
+    },
+    {
+      "album": {
         "name": "BLOOD DIAMOND RING",
         "url": "https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq"
       },
@@ -6632,7 +6650,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-07",
       "duration_ms": 221120,
       "name": "gum v6.4",
       "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"

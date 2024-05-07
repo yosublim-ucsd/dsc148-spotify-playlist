@@ -1,6 +1,6 @@
 {
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 189862,
+  "num_followers": 189906,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-04-02 19:00:16",
       "album": {
-        "name": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
-        "url": "https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Soken",
-          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Triumph",
-      "url": "https://open.spotify.com/track/0VIXeGG3ouqnIh3skWyjXm"
-    },
-    {
-      "added_at": "2024-04-02 19:00:16",
-      "album": {
         "name": "FINAL FANTASY X Original Soundtrack",
         "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 379040,
       "name": "SUTEKI DA NE (Isn't It Wonderful?) - Orchestra Version",
       "url": "https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z"
+    },
+    {
+      "added_at": "2024-04-02 19:00:16",
+      "album": {
+        "name": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+        "url": "https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/0VIXeGG3ouqnIh3skWyjXm"
     },
     {
       "added_at": "2024-04-02 19:00:16",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-04-02 19:00:16",
       "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Joelle",
+          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Plains of Eternity",
+      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+    },
+    {
+      "added_at": "2024-04-02 19:00:16",
+      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 400640,
       "name": "FFVII REMAKE: \u4e03\u516d\u5206\u5ba4\u967d\u52d5\u4f5c\u6226 (S7-6 Annex Diversion)",
       "url": "https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT"
-    },
-    {
-      "added_at": "2024-04-02 19:00:16",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "Joelle",
-          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Plains of Eternity",
-      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
     },
     {
       "added_at": "2024-04-02 19:00:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-04-02 19:00:16",
       "album": {
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+      },
+      "artists": [
+        {
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+        }
+      ],
+      "duration_ms": 105960,
+      "name": "Character Creation",
+      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
+    },
+    {
+      "added_at": "2024-04-02 19:00:16",
+      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 112160,
       "name": "FFVII REMAKE: \u30af\u30e9\u30c3\u30b7\u30e5\u30dc\u30c3\u30af\u30b9 (Whack-a-Box)",
       "url": "https://open.spotify.com/track/7IIla7luNVBvMyb7vNLDri"
-    },
-    {
-      "added_at": "2024-04-02 19:00:16",
-      "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
-      },
-      "artists": [
-        {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
-        }
-      ],
-      "duration_ms": 105960,
-      "name": "Character Creation",
-      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
     },
     {
       "added_at": "2024-04-02 19:00:16",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-04-02 19:00:16",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7d00",
-          "url": "https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv"
-        }
-      ],
-      "duration_ms": 87773,
-      "name": "FFVII REMAKE: \u9b54\u6644\u4e2d\u6bd2 (Mako Poisoning)",
-      "url": "https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU"
-    },
-    {
-      "added_at": "2024-04-02 19:00:16",
-      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
         "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 136320,
       "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
       "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
+    },
+    {
+      "added_at": "2024-04-02 19:00:16",
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7d00",
+          "url": "https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv"
+        }
+      ],
+      "duration_ms": 87773,
+      "name": "FFVII REMAKE: \u9b54\u6644\u4e2d\u6bd2 (Mako Poisoning)",
+      "url": "https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU"
     }
   ],
   "unique_name": "FINAL FANTASY",

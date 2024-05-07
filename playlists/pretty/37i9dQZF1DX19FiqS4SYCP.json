@@ -1,6 +1,6 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 131034,
+  "num_followers": 131030,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Dime Que Si",
-        "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
-      },
-      "artists": [
-        {
-          "name": "Negami",
-          "url": "https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG"
-        }
-      ],
-      "duration_ms": 185947,
-      "name": "Dime Que Si",
-      "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Jam Session El Besito Y Voy Navegando",
         "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 302789,
       "name": "Jam Session El Besito Y Voy Navegando",
       "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Dime Que Si",
+        "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
+      },
+      "artists": [
+        {
+          "name": "Negami",
+          "url": "https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG"
+        }
+      ],
+      "duration_ms": 185947,
+      "name": "Dime Que Si",
+      "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Oddz",
-        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
-      },
-      "artists": [
-        {
-          "name": "The Homeboyz",
-          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
-        }
-      ],
-      "duration_ms": 241381,
-      "name": "Que Bonito Fuera",
-      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Sin Fin",
         "url": "https://open.spotify.com/album/011kZvqHZywq4DLzdngA47"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 237299,
       "name": "Que Dar\u00eda",
       "url": "https://open.spotify.com/track/1dVBQo1V3r6KGWIIsdm8jT"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Oddz",
+        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
+      },
+      "artists": [
+        {
+          "name": "The Homeboyz",
+          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
+        }
+      ],
+      "duration_ms": 241381,
+      "name": "Que Bonito Fuera",
+      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Otra Vez Soltera",
-        "url": "https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 153896,
-      "name": "Otra Vez Soltera",
-      "url": "https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 191256,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Otra Vez Soltera",
+        "url": "https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 153896,
+      "name": "Otra Vez Soltera",
+      "url": "https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Amigo Fiel",
-        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Amigo Fiel",
-      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Amigo Fiel",
+        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Amigo Fiel",
+      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sientes Igual",
-        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
-      },
-      "artists": [
-        {
-          "name": "The Latin Breed",
-          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
-        }
-      ],
-      "duration_ms": 170316,
-      "name": "Sientes Igual",
-      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 193850,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sientes Igual",
+        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+      },
+      "artists": [
+        {
+          "name": "The Latin Breed",
+          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+        }
+      ],
+      "duration_ms": 170316,
+      "name": "Sientes Igual",
+      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Te Voy A Perder",
-        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "No Te Voy A Perder",
-      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "El Error M\u00e1s Bello",
         "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 205258,
       "name": "El Error M\u00e1s Bello",
       "url": "https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "No Te Voy A Perder",
+        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "No Te Voy A Perder",
+      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Necesito Borrarte",
-        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
-      },
-      "artists": [
-        {
-          "name": "G5",
-          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
-        }
-      ],
-      "duration_ms": 254586,
-      "name": "Necesito Borrarte",
-      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Ven",
         "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177225,
       "name": "Ven",
       "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Necesito Borrarte",
+        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+      },
+      "artists": [
+        {
+          "name": "G5",
+          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+        }
+      ],
+      "duration_ms": 254586,
+      "name": "Necesito Borrarte",
+      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
     },
     {
       "added_at": "2023-09-13 20:37:36",

@@ -15123,6 +15123,24 @@
     },
     {
       "album": {
+        "name": "Ekspektasimu",
+        "url": "https://open.spotify.com/album/43xc5OIBW3Xs9oHWSicRRA"
+      },
+      "artists": [
+        {
+          "name": "Audrey Anggoro",
+          "url": "https://open.spotify.com/artist/6m3hIhjraKz2Pd6fLJgdKg"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209535,
+      "name": "Ekspektasimu",
+      "url": "https://open.spotify.com/track/3Ca59hDrMUfaejUpFO5Krt"
+    },
+    {
+      "album": {
         "name": "Eksplisit",
         "url": "https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU"
       },
@@ -57749,6 +57767,24 @@
     },
     {
       "album": {
+        "name": "Titik Terang",
+        "url": "https://open.spotify.com/album/2fV2LcCtf8o62MuoOdL0SZ"
+      },
+      "artists": [
+        {
+          "name": "Lanang Isman",
+          "url": "https://open.spotify.com/artist/5wHa9uMNGPOSsxIU0M4rM6"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "Titik Terang",
+      "url": "https://open.spotify.com/track/5HnmzC0ruE0CqH0vtUa3zS"
+    },
+    {
+      "album": {
         "name": "Titik Terendah",
         "url": "https://open.spotify.com/album/3pVebX28e1bQwATAvDp8S7"
       },
@@ -62264,6 +62300,28 @@
       "duration_ms": 224278,
       "name": "You Betray Me, Don't You?",
       "url": "https://open.spotify.com/track/1FkMeVH15gPaQyUiSLcV1r"
+    },
+    {
+      "album": {
+        "name": "You Broke My Heart",
+        "url": "https://open.spotify.com/album/3mB0kUzoLfmQqDAYTp98vz"
+      },
+      "artists": [
+        {
+          "name": "Meltho",
+          "url": "https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs"
+        },
+        {
+          "name": "Clara Riva",
+          "url": "https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/4AcuiTLtjpUNBFdMfpVk84"
     },
     {
       "album": {

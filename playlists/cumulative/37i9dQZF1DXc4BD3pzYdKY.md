@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a> & <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-1,004 songs - 2 day 1 hr 27 min
+1,005 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [PRESIDENT](https://open.spotify.com/track/71HfqaGQGQ8ERPphZQ53AJ) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PRESIDENT](https://open.spotify.com/album/1UGft9d5GndWYADJP7979x) | 2:20 | 2023-03-25 | 2024-01-20 |
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-02-04 | 2022-04-29 |
 | [Press Play](https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Play!](https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM) | 3:15 | 2023-12-15 |  |
+| [Pressure](https://open.spotify.com/track/44vG5506JNTy5h1GQgRRjw) | [Rare of Breed](https://open.spotify.com/artist/3GdRdoJomMK2f8xGjEZbHH) | [Pressure](https://open.spotify.com/album/0zI9NaYH10muJyt1weGcWZ) | 3:14 | 2024-05-03 |  |
 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 | 2022-09-12 |
 | [Price](https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Summer TKE](https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH) | 2:55 | 2024-01-05 |  |
 | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/album/2W5mlEL9qDY0Mz3BZTkZ2c) | 3:16 | 2021-12-11 | 2022-04-29 |
@@ -1005,7 +1006,7 @@
 | [YOU KNOW WHAT I MEAN](https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [YOU KNOW WHAT I MEAN](https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up) | 2:22 | 2024-03-15 |  |
 | [You Know.](https://open.spotify.com/track/4C60kok7hce68VwW09K230) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Seasons](https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0) | 3:16 | 2021-12-11 | 2022-02-04 |
 | [YouGood](https://open.spotify.com/track/5cS0mmRhp9LCbhFijN3cXc) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Again](https://open.spotify.com/album/4IoOhQm62aLRFiYfaB5ccx) | 3:16 | 2021-12-11 | 2022-01-09 |
-| [Young](https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E) | [KJ Carter](https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De) | [Young](https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ) | 2:15 | 2024-02-09 |  |
+| [Young](https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E) | [KJ Carter](https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De) | [Young](https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ) | 2:15 | 2024-02-09 | 2024-05-07 |
 | [Your Love](https://open.spotify.com/track/7kVIqu3ZbvK5iwLtludPFP) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [A Star](https://open.spotify.com/artist/77UtwndWHGpGrSwkcg7Vpf) | [Kings Messenger](https://open.spotify.com/album/6C26c4P14geRIPValXg2Fe) | 3:14 | 2021-12-11 | 2022-03-08 |
 | [Your Love](https://open.spotify.com/track/7q776LVbVdvaGLeE2KDIQW) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Your Love](https://open.spotify.com/album/4d61b9lOc188AwnaJILgbo) | 2:24 | 2023-08-25 | 2023-09-04 |
 | [Your Way](https://open.spotify.com/track/4SFF3yfErafpFtVVfjkXTk) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [SURRENDERED](https://open.spotify.com/album/2FRDkqCwSbcRskNQMW9U8H) | 2:33 | 2021-12-11 | 2022-03-17 |

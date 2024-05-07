@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-323 songs - 16 hr 28 min
+324 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Push Up \(My Funky Beat\)](https://open.spotify.com/track/75hrEPrYVYSpTClJvzC2l4) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Push Up \(My Funky Beat\)](https://open.spotify.com/album/1KhMoedoYFrm4SngWepxH2) | 2:52 | 2024-02-23 | 2024-03-22 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-11-21 |  |
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-03-28 |  |
+| [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-05-06 |  |
 | [Reality](https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Reality](https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2) | 3:20 | 2024-02-15 |  |
 | [Reality](https://open.spotify.com/track/1SOK81MZs2M0WzvIzTFaqD) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [Reality](https://open.spotify.com/album/4LGbWAhmObQWhqCMRPoOon) | 2:34 | 2023-11-16 |  |
 | [Realm Of Acid](https://open.spotify.com/track/57KoTEm1naOkOYawTJq0Qx) | [MØNSIEUR](https://open.spotify.com/artist/08svoVIQeWMKP9ryi4DuBv), [Michael Ace](https://open.spotify.com/artist/1yxYREEpLiPCieAv65TlT2) | [Realm Of Acid](https://open.spotify.com/album/6rQGUwKZbkIrbO1AB2DrKV) | 3:12 | 2023-11-02 |  |

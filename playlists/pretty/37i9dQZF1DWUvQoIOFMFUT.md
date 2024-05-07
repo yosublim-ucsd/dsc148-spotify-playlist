@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 6 | [Did You Know?](https://open.spotify.com/track/4ajhEvz68KJrN1xub1wmHN) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Sunday Walker EP](https://open.spotify.com/album/2jo4HUAOLOv3pZxt7dOrBc) | 3:30 |
 | 7 | [Love Crimes](https://open.spotify.com/track/2CCwrjuDsnmsgpQaw7YdaJ) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Love Crimes](https://open.spotify.com/album/5bENxEMiIDx7w0HgJlEZH0) | 3:55 |
 | 8 | [Our Bones Turn To Stone](https://open.spotify.com/track/3L0XH247cWBtheVx7Tkfaa) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Our Bones Turn To Stone](https://open.spotify.com/album/0dwMCKOYFs0j4pWRx9iuZ5) | 4:20 |
-| 9 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
+| 9 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Artfool](https://open.spotify.com/artist/0tz5pOXZwYN2MJIWPMVpe5) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
 | 10 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 11 | [Drowning In Dreams](https://open.spotify.com/track/6SekGxt9TDUnZX7LcOZeyB) | [Ed Harcourt](https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY) | [Drowning In Dreams](https://open.spotify.com/album/5nQi4Ay9Ll58sCAuDY0Oi2) | 4:57 |
 | 12 | [Hard to Hide \- Niklas Paschburg Rework](https://open.spotify.com/track/6cZKMJir0kkZMvbtkoBx34) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Hard to Hide \(Niklas Paschburg Rework\)](https://open.spotify.com/album/3jPreY7L6IH2yw4qGYxqaV) | 3:35 |
